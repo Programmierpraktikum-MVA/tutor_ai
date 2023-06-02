@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Chat App</title>
+	<style>
+		
+		.received {
+			background-color: #f1f0f0;
+			align-self: flex-start;
+		}
+
+		.sent {
+			background-color: #0084ff;
+			align-self: flex-end;
+			color: #fff;
+		}
+
+
+
+		#chat-container {
+            width: 400px;
+            height: 500px;
+            margin: 0 auto;
+            background-color: #f5f5f5;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            overflow-y: scroll;
+        }
+        #chat-messages {
+            padding: 10px;
+        }
+		#chat-form {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            background-color: #fff;
+            border-top: 1px solid #ccc;
+        }
+		#chat-input {
+            flex: 1;
+            margin-right: 10px;
+            padding: 5px;
+            border: none;
+            border-radius: 3px;
+        }
+        #chat-submit {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+	</style>
+</head>
+<body>
+
+	<div id="chat-container">
+        <div id="chat-messages">
+            <!-- Messages will be inserted here -->
+        </div>
+        <form id="chat-form">
+            <input type="text" id="chat-input" placeholder="Type your message...">
+            <input id="chat-submit" type="submit" onclick="handleSubmit()">
+        </form>
+    </div>
+
+	<script>
+		// Replace with your API endpoint
+		const apiEndpoint = "http://localhost:5000/send";
+        var input = document.getElementById("chat-input");
+        var send_button = document.getElementById("chat-submit")
+
+        // Execute a function when the user presses a key on the keyboard
+        input.addEventListener("keypress", function(event) {
+        // If the user presses the "Enter" key on the keyboard
+        if (event.key === "Enter") {
+            // Cancel the default action, if needed
+            event.preventDefault();
+            // Trigger the button element with a click
+            send_button.click();
+        }
+        });
+
+		// Function to add a new message to the chat container
+		function addMessageToContainer(message, type) {
+			const container = document.getElementById("chat-messages");
+			const div = document.createElement('div');
+			div.innerHTML = message;
+			div.classList.add(type);
+			container.appendChild(div);
+			container.scrollTop = container.scrollHeight;
+		}
+
+		// Function to send a message to the API
+		function sendMessageToApi(message) {
+            fetch(apiEndpoint, {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ "message": message })
+            }).then(response => response.json()).then(response => {
+                console.log(JSON.stringify(response))
+                addMessageToContainer(response.message, "received");
+            });
+        }
+
+		// Function to handle form submission and send the message to the API
+		function handleSubmit() {
+			const input = document.getElementById('chat-input');
+            console.log(input);
+			const message = input.value.trim();
+			if (message) {
+				// Add the received message to the chat container
+                console.log(message);
+				addMessageToContainer(message, 'send');
+				// Send the message to the API
+				sendMessageToApi(message);
+				input.value = '';
+			}
+		}
+</script>
+</body>
+</html>
