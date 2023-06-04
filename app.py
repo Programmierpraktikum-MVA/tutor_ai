@@ -26,7 +26,7 @@ text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=20)
 
 @app.route("/")
 def chat():
-    return render_template('new_chat.html')
+    return render_template('chat.html')
 
 @app.post("/send")
 def incoming_message():
