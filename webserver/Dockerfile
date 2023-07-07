@@ -7,10 +7,12 @@ RUN . venv/bin/activate
 
 RUN pip install --upgrade pip
 RUN pip install --upgrade setuptools
-RUN pip install flask chromadb-client langchain pymongo openai passlib
+RUN pip install flask chromadb-client langchain pymongo openai passlib sentence-transformer
 
 WORKDIR /app
 
 COPY . .
+
+RUN pip install -r requirements.txt
 
 CMD ["python",  "app.py"]

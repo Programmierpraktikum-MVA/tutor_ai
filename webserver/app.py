@@ -17,12 +17,31 @@ from langchain.llms import OpenAI
 
 from pymongo import MongoClient
 
+from sentence_transformers import SentenceTransformer
+
+import g4f as g4f
+from g4f.Provider import (
+    Ails,
+    You,
+    Bing,
+    Yqcloud,
+    Theb,
+    Aichat,
+    Bard,
+    Vercel,
+    Forefront,
+    Lockchat,
+    Liaobots,
+    H2o,
+    ChatgptLogin,
+    DeepAi,
+    GetGpt
+)
+
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
-os.environ["OPENAI_API_KEY"] = openai_key
-
-embeddings = OpenAIEmbeddings()
+model = SentenceTransformer('distiluse-base-multilingual-cased-v1')
 
 # FOR INSIDE DOCKER
 chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
@@ -104,18 +123,19 @@ def register():
 
     return render_template('register.html')
 
+PROMPT_STRING = "Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. Jetzt folgt die Konversation: "
+
 @app.post("/send")
 @login_required
 def incoming_message():
-    # TODO
-    print("incoming request")
-    return jsonify({"message": "Hi Mom."})
     data = request.get_json()
     query = data["message"]
-    docs = chroma_db.similarity_search(query, k=5)
+    #docs = chroma_db.similarity_search(query, k=5) # TODO
     
-    answer = chain({"input_documents": docs, "question": query}, return_only_outputs=True)
-    return jsonify({"message": answer["output_text"]})
+    #answer = chain({"input_documents": docs, "question": query}, return_only_outputs=True)
+    string=PROMPT_STRING + query # + docs TODO
+    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
+    return jsonify({"message": ''.join(response).trim("---")})
 
 @app.post("/rate")
 @login_required
