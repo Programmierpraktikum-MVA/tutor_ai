@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Chat App</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <link rel="icon" type="image/x-icon" href="/static/Logo.png">
+</head>
+<body>
+	<section class="msger">
+        <header class="msger-header">
+          <div class="msger-header-title">
+            TutorAI Chat
+          </div>
+          <div class="msger-header-options">
+            <span><i class="fas fa-cog"></i></span>
+          </div>
+        </header>
+      
+        <main class="msger-chat">
+            {% with message="Hi, welcome to TutorAI! Go ahead and ask me a question. 👨‍🎓" %}
+                {% include 'bot_answer.html' %}
+            {% endwith %}
+        </main>
+      
+        <form class="msger-inputarea">
+          <input type="text" class="msger-input" placeholder="Enter your message...">
+          <button type="submit" class="msger-send-btn">Send</button>
+        </form>
+      </section>
+
+	<script>
+		const msgerForm = get(".msger-inputarea");
+        const msgerInput = get(".msger-input");
+        const msgerChat = get(".msger-chat");
+
+        // Icons made by Freepik from www.flaticon.com
+        const BOT_IMG = "/static/Logo.png";
+        const PERSON_IMG = "https://image.flaticon.com/icons/svg/145/145867.svg";
+        const BOT_NAME = "TutorAI";
+        const PERSON_NAME = "Student";
+
+        const apiEndpoint = "http://localhost:5000/send";
+
+        msgerForm.addEventListener("submit", event => {
+            event.preventDefault();
+
+            const msgText = msgerInput.value.trim();
+            if (!msgText) return;
+
+            appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText);
+            console.log("Appended Message");
+            msgerInput.value = "";
+            sendMessageToApi(msgText);
+            console.log("Send to API");
+        });
+
+        // Function to send a message to the API
+		    function sendMessageToApi(message) {
+            addTypingAnimation();
+            fetch(apiEndpoint, {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ "message": message })
+            }).then(response => response.json()).then(response => {
+                console.log(JSON.stringify(response));
+                deleteTypingAnimation();
+                appendMessage(BOT_NAME, BOT_IMG, "left", response.message);
+            });
+        }
+
+        function addTypingAnimation() {
+          const msgHTML = `<div class="msg left-msg"  id="bubbles">
+            <div
+             class="msg-img"
+             style="background-image: url(/static/Logo.png)"
+            ></div>
+      
+            <div class="msg-bubble">
+              <div class="typing">
+                <div class="dot"></div>
+                <div class="dot"></div>
+                <div class="dot"></div>
+              </div>
+            </div>
+          </div>`;
+
+            msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            msgerChat.scrollTop += 500;
+        }
+
+        function deleteTypingAnimation() {
+          const bubble_element = document.getElementById("bubbles");
+          bubble_element.remove();
+          msgerChat.scrollTop -= 500;
+        }
+
+        function appendMessage(name, img, side, text) {
+            //   Simple solution for small apps
+
+            const rating_code = "";
+            
+            if (name == BOT_NAME) {
+                rating_code = `
+                        <div class="rate">
+                            <input type="radio" id="star5" name="rate" value="5" />
+                            <label for="star5" title="text">5 stars</label>
+                            <input type="radio" id="star4" name="rate" value="4" />
+                            <label for="star4" title="text">4 stars</label>
+                            <input type="radio" id="star3" name="rate" value="3" />
+                            <label for="star3" title="text">3 stars</label>
+                            <input type="radio" id="star2" name="rate" value="2" />
+                            <label for="star2" title="text">2 stars</label>
+                            <input type="radio" id="star1" name="rate" value="1" />
+                            <label for="star1" title="text">1 star</label>
+                        </div>`;
+            }
+
+            const msgHTML = `
+                <div class="msg ${side}-msg">
+                    <div class="msg-img" style="background-image: url(${img})"></div>
+                    <div>
+                        <div class="msg-bubble">
+                            <div class="msg-info">
+                                <div class="msg-info-name">${name}</div>
+                                <div class="msg-info-time">${formatDate(new Date())}</div>
+                            </div>
+
+                            <div class="msg-text">${text}</div>
+                        </div>
+                        
+                        ${rating_code}
+
+                    </div>
+                </div>
+            `;
+
+            msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            msgerChat.scrollTop += 500;
+        }
+
+        // Utils
+        function get(selector, root = document) {
+            return root.querySelector(selector);
+        }
+
+        function formatDate(date) {
+            const h = "0" + date.getHours();
+            const m = "0" + date.getMinutes();
+
+            return `${h.slice(-2)}:${m.slice(-2)}`;
+        }
+
+    </script>
+</body>
+</html>

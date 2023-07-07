@@ -8,3 +8,8 @@ In this year we are using a LLM to generate the final answers and provide supple
 The Frontend is served by a Python Flask Backend. To start the server first create a secret.py that contains your openAI API key, then run `python -m flask run`. The server will he available at `localhost:5000`.
 
 The `add_to_pinecone.py` lets you easily add html documents into the vector DB. I just used it to create a nice demo.
+
+# Useful Documentation
+Chroma usage in Langchain: https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/chroma
+
+Chroma Docs: https://docs.trychroma.com/getting-started
