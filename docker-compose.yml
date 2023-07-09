@@ -7,8 +7,8 @@ services:
       context: ./chroma
       dockerfile: Dockerfile
     volumes:
-      - ./chroma:/chroma
-      - index_data:/index_data
+      - ./volumes/chroma:/chroma
+      - ./volumes/index_data:/index_data
     command: uvicorn chromadb.app:app --reload --workers 1 --host 0.0.0.0 --port 8000 --log-config log_config.yml
     environment:
       - CHROMA_DB_IMPL=clickhouse
@@ -29,9 +29,9 @@ services:
       - '5002:8123'
       - '5003:9000'
     volumes:
-      - clickhouse_data:/var/lib/clickhouse
-      - clickhouse_logs:/var/log/clickhouse-server
-      - backups:/backups
+      - ./volumes/clickhouse_data:/var/lib/clickhouse
+      - ./volumes/clickhouse_logs:/var/log/clickhouse-server
+      - ./volumes/backups:/backups
       - ./config/backup_disk.xml:/etc/clickhouse-server/config.d/backup_disk.xml
       - ./config/chroma_users.xml:/etc/clickhouse-server/users.d/chroma.xml
   
@@ -52,7 +52,7 @@ services:
     image: mongo
     restart: always
     volumes:
-      - mongo_data:/data/db
+      - .volumes/mongo_data:/data/db
     ports:
       - 27017:27017
     environment:
