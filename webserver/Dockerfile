@@ -1,4 +1,4 @@
-FROM python:3.11.4-slim
+FROM python:3.11.4
 
 #COPY requirements.txt .
 
@@ -7,12 +7,14 @@ RUN . venv/bin/activate
 
 RUN pip install --upgrade pip
 RUN pip install --upgrade setuptools
-RUN pip install flask chromadb-client langchain pymongo openai passlib sentence-transformer
+RUN pip install flask pymongo passlib chromadb sentence_transformers
+
+COPY ./requirements.txt requirements.txt
+RUN pip install -r requirements.txt
+RUN pip install "pydantic==1.*"
 
 WORKDIR /app
 
 COPY . .
-
-RUN pip install -r requirements.txt
 
 CMD ["python",  "app.py"]

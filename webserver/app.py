@@ -3,59 +3,31 @@ from functools import wraps
 
 from passlib.hash import sha256_crypt
 
-from secret import openai_key
-
 import chromadb
 from chromadb.config import Settings
-
-import os
-
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.chains.qa_with_sources import load_qa_with_sources_chain
-from langchain.vectorstores import Chroma
-from langchain.llms import OpenAI
+from chromadb.utils import embedding_functions
 
 from pymongo import MongoClient
 
-from sentence_transformers import SentenceTransformer
-
 import g4f as g4f
-from g4f.Provider import (
-    Ails,
-    You,
-    Bing,
-    Yqcloud,
-    Theb,
-    Aichat,
-    Bard,
-    Vercel,
-    Forefront,
-    Lockchat,
-    Liaobots,
-    H2o,
-    ChatgptLogin,
-    DeepAi,
-    GetGpt
-)
+from g4f.Provider import DeepAi
 
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
-model = SentenceTransformer('distiluse-base-multilingual-cased-v1')
-
-# FOR INSIDE DOCKER
+# Chroma DB for document storage
 chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
                                         chroma_server_host="chroma",
-                                        chroma_server_http_port="8000"
-                                ))
+                                        chroma_server_http_port="8000"))
 
-chroma_db = Chroma(client=chroma_client, collection_name="data")
+print(chroma_client.list_collections())
 
-chain = load_qa_with_sources_chain(OpenAI(temperature=0), 
-                                   chain_type="map_reduce", 
-                                   return_intermediate_steps=True)
+chroma_collection = chroma_client.get_or_create_collection(name="documents", 
+                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2"))
 
-#FOR INSIDE DOCKER
+print(chroma_collection.count())
+
+# MONGO DB for User Data and Chat History
 CONNECTION_STRING = "mongodb://root:example@mongo"
 
 mongo_client = MongoClient(CONNECTION_STRING)
@@ -123,17 +95,24 @@ def register():
 
     return render_template('register.html')
 
-PROMPT_STRING = "Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. Jetzt folgt die Konversation: "
+PROMPT_STRING = """
+Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. 
+Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. 
+Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. 
+Zuerst siehst du nützliche zusätzliche Informationen aus Dokumenten, welche dir bei der Antwort dienen werden. 
+Dann siehst du den Verlauf der bisherigen Unterhaltung um den Kontext zu verstehen.
+Hier also zuerst die Dokumente: 
+"""
 
 @app.post("/send")
 @login_required
 def incoming_message():
     data = request.get_json()
     query = data["message"]
-    #docs = chroma_db.similarity_search(query, k=5) # TODO
-    
-    #answer = chain({"input_documents": docs, "question": query}, return_only_outputs=True)
-    string=PROMPT_STRING + query # + docs TODO
+
+    docs = chroma_collection.query( query_texts=[query], n_results=5)
+    docs = " --- ".join(docs['documents'][0])
+    string = PROMPT_STRING + docs + "\nJetzt die bisherige Konversation: \n" + query  
     response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
     return jsonify({"message": ''.join(response).trim("---")})
 

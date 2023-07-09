@@ -1,4 +1,7 @@
 # TutorAI Project SoSe 2023
+
+Um es zu installieren bitte zuerst Chroma in den Ordner clonen.
+
 This is the github repo for the TutorAI ODS Programming Project in 2023
 
 The goal of the project is to provide a chatbot for students of the TU Berlin to ask questions about subjects or organizational matters. 
