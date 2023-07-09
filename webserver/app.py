@@ -70,15 +70,16 @@ def login():
 
     return render_template('login.html')
 
-@app.post('/logout')
+@app.route('/logout', methods=['GET', 'POST'])
+@login_required
 def logout():
-    print("new logout")
-    data = request.get_json()
-    new_history = data["history"]
-    print("new history: ", new_history)
-    chats_collection.update_one({'username': session['username']}, {'$push': {'chat': { '$each': new_history }}})
-    session.pop('username', None)
-    return redirect('/login')
+    if request.method == "POST":
+        data = request.get_json()
+        new_history = data["history"]
+        chats_collection.update_one({'username': session['username']}, {'$push': {'chat': { '$each': new_history }}})
+        session.pop('username', None)
+        
+    return redirect('/login') 
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
