@@ -47,7 +47,10 @@ def login_required(route_function):
 @login_required
 def home():
     if 'username' in session:
-        chat = chats_collection.find_one({'username': session['username']})['chat']
+        try:
+            chat = chats_collection.find_one({'username': session['username']})['chat']
+        except:
+            return redirect('/login')
 
         return render_template('chat.html', username=session['username'], chat=chat)
     else:
@@ -115,7 +118,7 @@ def incoming_message():
     docs = " --- ".join(docs['documents'][0])
     string = PROMPT_STRING + docs + "\nJetzt die bisherige Konversation: \n" + query  
     response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
-    return jsonify({"message": ''.join(response).trim("---")})
+    return jsonify({"message": ''.join(response).strip("---")})
 
 @app.post("/rate")
 @login_required
