@@ -179,7 +179,7 @@ def register():
 
     return render_template('register.html')
 
-prompt = "Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. Zuerst siehst du nützliche zusätzliche Informationen aus Dokumenten, welche dir bei der Antwort dienen werden. Dann siehst du den Verlauf der bisherigen Unterhaltung um den Kontext zu verstehen.Du bist eine persönlicher KI-Tutor. Hier kommt die Unterhaltung: "
+prompt = "Du bist TutorAI eine KI die darauf spezialisiert war als persönlicher Tutor der technischen Universität zu dienen."
 
 @app.post("/send")
 @login_required
@@ -193,8 +193,7 @@ def incoming_message():
     
     
     docs = " --- ".join(docs['documents'][0])
-    #string =  docs + "\nJetzt die bisherige Konversation: \n" + query
-    # Die Daten von müssen von der Datenbank gelöscht werden. Momentan sind Testdaten enthalten die nicht nützlich sind.
+    #Die Daten müssen von der Vektor-Datenbank gelöscht werden. Momentan sind noch Testdaten enthalten.
     
     string = prompt+query
     
