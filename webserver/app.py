@@ -218,9 +218,9 @@ def incoming_message():
     # string = query+str(docs)
     
 
-    # response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
-    # return jsonify({"message": ''.join(response).strip("---")})
-    return jsonify({"message": docs})
+    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
+    return jsonify({"message": ''.join(response).strip("---")})
+    # return jsonify({"message": str(docs)})
 
 @app.post("/rate")
 @login_required
