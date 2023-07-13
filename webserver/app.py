@@ -12,8 +12,80 @@ from pymongo import MongoClient
 import g4f as g4f
 from g4f.Provider import DeepAi
 
+import os
+import json
+
+
+import uuid
+
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
+
+
+def split_json_files(folder_path, max_chunk_length=2000):
+    chunks = []
+    meta = []
+    id = []
+    for filename in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, filename)
+        if os.path.isfile(file_path) and filename.endswith('.json'):
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+                title = data.get('Titel des Moduls', '')
+                json_str = json.dumps(data)
+                for i in range(0, len(json_str), max_chunk_length):
+                    chunk = title + json_str[i:i+max_chunk_length]
+                    chunks.append(chunk)
+                    meta.append({"title": title})
+                    id.append("mosesid")
+    for k in range(len(id)):
+        id[k] = id[k]+str(k)
+                    
+    return chunks,meta,id
+
+
+
+def split_by_thread(file_path):
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+
+    posts = data['messages']
+    threads = {}
+
+    for post in posts:
+        thread_id = post['link'].split('=')[-1].split('#')[0]
+        if thread_id not in threads:
+            threads[thread_id] = []
+            post['label'] = 'text:'
+        else:
+            post['label'] = 'antwort:'
+        threads[thread_id].append(post)
+
+    thread_chunks = []
+    id = []
+    meta=[]
+    title = "V"
+    for thread in threads.values():
+        chunk = []
+        for post in thread:
+            chunk.append({'link': post['link'], 'label': post['label'], 'text': post['text']})
+        thread_chunks.append(str(chunk)[2:-2])
+        id.append("isis-id")
+    
+    for k in range(len(id)):
+        id[k] = id[k]+str(k)
+        meta.append({"title": title})
+    
+
+    return thread_chunks,id,meta
+
+
+#folder_path = './moses'
+#chunk_list,meta,id = split_json_files(folder_path)
+
+
+file_path = './isis/V.json'
+thread_chunks,id,meta = split_by_thread(file_path)
 
 # Chroma DB for document storage
 chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
@@ -23,7 +95,15 @@ chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
 print(chroma_client.list_collections())
 
 chroma_collection = chroma_client.get_or_create_collection(name="documents", 
-                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2"))
+                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="distiluse-base-multilingual-cased-v1"))
+
+
+
+# chroma_collection.add(
+    # documents=thread_chunks, # we handle tokenization, embedding, and indexing automatically. Replace the strings with the real documents.
+    # metadatas=meta, # Add the metadatas
+    # ids=id, # Assign a unique id to each doc. 
+# )
 
 print(chroma_collection.count())
 
@@ -113,12 +193,34 @@ Hier also zuerst die Dokumente:
 def incoming_message():
     data = request.get_json()
     query = data["message"]
-
-    docs = chroma_collection.query( query_texts=[query], n_results=5)
+    
+    words = query.split('---')
+    last_word = words[-1].strip()
+    docs = chroma_collection.query(query_texts=[last_word], n_results=2)
+    
+    
     docs = " --- ".join(docs['documents'][0])
-    string = PROMPT_STRING + docs + "\nJetzt die bisherige Konversation: \n" + query  
-    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
-    return jsonify({"message": ''.join(response).strip("---")})
+    string =  docs + "\nJetzt die bisherige Konversation: \n" + query  
+    #wie viel von der versandten Nachricht des Client wir annehmen dürften bei uns ankommt?
+    
+    
+    # if len(Modul_history_moses)>0:
+        # docs = chroma_collection.query(query_texts=[last_word+Modul_history_moses[-1]], n_results=2)
+    # else:
+        # docs = chroma_collection.query(query_texts=[last_word], n_results=2)
+    # 
+    # Modul_history_moses.append(str(docs['metadatas']))
+    
+    
+    
+    # Es heißt, dass wir automatisch ein Repository zugeteilt bekommen. Wie und wo kann man das sehen
+    
+    # string = query+str(docs)
+    
+
+    # response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
+    # return jsonify({"message": ''.join(response).strip("---")})
+    return jsonify({"message": docs})
 
 @app.post("/rate")
 @login_required
