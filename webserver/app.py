@@ -179,14 +179,7 @@ def register():
 
     return render_template('register.html')
 
-PROMPT_STRING = """
-Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. 
-Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. 
-Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. 
-Zuerst siehst du nützliche zusätzliche Informationen aus Dokumenten, welche dir bei der Antwort dienen werden. 
-Dann siehst du den Verlauf der bisherigen Unterhaltung um den Kontext zu verstehen.
-Hier also zuerst die Dokumente: 
-"""
+prompt = "Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. Zuerst siehst du nützliche zusätzliche Informationen aus Dokumenten, welche dir bei der Antwort dienen werden. Dann siehst du den Verlauf der bisherigen Unterhaltung um den Kontext zu verstehen.Du bist eine persönlicher KI-Tutor. Hier kommt die Unterhaltung: "
 
 @app.post("/send")
 @login_required
@@ -200,22 +193,10 @@ def incoming_message():
     
     
     docs = " --- ".join(docs['documents'][0])
-    string =  docs + "\nJetzt die bisherige Konversation: \n" + query  
-    #wie viel von der versandten Nachricht des Client wir annehmen dürften bei uns ankommt?
+    #string =  docs + "\nJetzt die bisherige Konversation: \n" + query
+    # Die Daten von müssen von der Datenbank gelöscht werden. Momentan sind Testdaten enthalten die nicht nützlich sind.
     
-    
-    # if len(Modul_history_moses)>0:
-        # docs = chroma_collection.query(query_texts=[last_word+Modul_history_moses[-1]], n_results=2)
-    # else:
-        # docs = chroma_collection.query(query_texts=[last_word], n_results=2)
-    # 
-    # Modul_history_moses.append(str(docs['metadatas']))
-    
-    
-    
-    # Es heißt, dass wir automatisch ein Repository zugeteilt bekommen. Wie und wo kann man das sehen
-    
-    # string = query+str(docs)
+    string = prompt+query
     
 
     response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
