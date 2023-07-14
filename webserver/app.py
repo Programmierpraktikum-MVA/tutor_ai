@@ -68,17 +68,14 @@ def split_by_thread(folder_path):
             threads[thread_id].append(post)
 
         
-        for thread in threads.values():
+        for k, thread in enumerate(threads.values()):
             chunk = []
             for post in thread:
                 chunk.append({'link': post['link'], 'label': post['label'], 'text': post['text']})
             thread_chunks.append(str(chunk)[2:-2])
-            id.append("isis-id")
-
-        for k in range(len(id)):
-            id[k] = id[k]+str(k)
-            if filename.endswith('.json'):
-                meta.append(filename)
+            id.append("isis-id_"+filename+"_"+str(k))
+            meta.append({"filename": filename})
+        
     return thread_chunks,id,meta
 
 
