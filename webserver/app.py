@@ -45,39 +45,42 @@ def split_json_files(folder_path, max_chunk_length=2000):
 
 
 
-def split_by_thread(file_path):
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-
-    posts = data['messages']
-    threads = {}
-
-    for post in posts:
-        thread_id = post['link'].split('=')[-1].split('#')[0]
-        if thread_id not in threads:
-            threads[thread_id] = []
-            post['label'] = 'text:'
-        else:
-            post['label'] = 'antwort:'
-        threads[thread_id].append(post)
-
+def split_by_thread(folder_path):
     thread_chunks = []
     id = []
     meta=[]
-    title = "V"
-    for thread in threads.values():
-        chunk = []
-        for post in thread:
-            chunk.append({'link': post['link'], 'label': post['label'], 'text': post['text']})
-        thread_chunks.append(str(chunk)[2:-2])
-        id.append("isis-id")
-    
-    for k in range(len(id)):
-        id[k] = id[k]+str(k)
-        meta.append({"title": title})
-    
+    for filename in os.listdir(folder_path):
+        file_path = os.path.join(folder_path,filename)
+        print(str(file_path))
+        with open(file_path, 'r') as file:
+            data = json.load(file)
 
+        posts = data['messages']
+        threads = {}
+
+        for post in posts:
+            thread_id = post['link'].split('=')[-1].split('#')[0]
+            if thread_id not in threads:
+                threads[thread_id] = []
+                post['label'] = 'text:'
+            else:
+                post['label'] = 'antwort:'
+            threads[thread_id].append(post)
+
+        
+        for thread in threads.values():
+            chunk = []
+            for post in thread:
+                chunk.append({'link': post['link'], 'label': post['label'], 'text': post['text']})
+            thread_chunks.append(str(chunk)[2:-2])
+            id.append("isis-id")
+
+        for k in range(len(id)):
+            id[k] = id[k]+str(k)
+            if filename.endswith('.json'):
+                meta.append(filename)
     return thread_chunks,id,meta
+
 
 
 #folder_path = './moses'
