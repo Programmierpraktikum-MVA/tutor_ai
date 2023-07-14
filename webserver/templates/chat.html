@@ -252,6 +252,8 @@
                 headers: {
                     'Content-Type': 'application/json'
                 }
+                }).then(response => {
+                    window.location.href = response.url;
                 });
         });
     </script>
