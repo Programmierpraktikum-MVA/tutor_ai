@@ -87,7 +87,7 @@ def split_by_thread(folder_path):
 #chunk_list,meta,id = split_json_files(folder_path)
 
 
-file_path = './isis/V.json'
+file_path = './isis'
 thread_chunks,id,meta = split_by_thread(file_path)
 
 # Chroma DB for document storage
