@@ -33,13 +33,13 @@ def split_json_files(folder_path, max_chunk_length=2000):
                 data = json.load(file)
                 title = data.get('Titel des Moduls', '')
                 json_str = json.dumps(data)
+                k = 0
                 for i in range(0, len(json_str), max_chunk_length):
                     chunk = title + json_str[i:i+max_chunk_length]
                     chunks.append(chunk)
-                    meta.append({"title": title})
-                    id.append("mosesid")
-    for k in range(len(id)):
-        id[k] = id[k]+str(k)
+                    meta.append({"title": title, "filename": filename})
+                    id.append("moses-id_"+filename+"_"+str(k))
+                    k += 1
                     
     return chunks,meta,id
 
