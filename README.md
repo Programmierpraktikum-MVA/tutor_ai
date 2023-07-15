@@ -23,7 +23,7 @@ chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
                                         chroma_server_http_port="8000")) # if you are outside of the docker container use 5001
 
 chroma_collection = chroma_client.get_or_create_collection(name="documents", # The collection is called "documents"!
-                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2"))
+                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="distiluse-base-multilingual-cased-v1"))
 
 chroma_collection.add(
     documents=["This is document1", "This is document2"], # we handle tokenization, embedding, and indexing automatically. Replace the strings with the real documents.
