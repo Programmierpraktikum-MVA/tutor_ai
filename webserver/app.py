@@ -12,6 +12,8 @@ from pymongo import MongoClient
 import g4f as g4f
 from g4f.Provider import DeepAi
 
+import ratings
+
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
@@ -123,8 +125,11 @@ def rating():
     data = request.get_json()
     bot_message = data["bot"]["message"]
     user_message = data["user"]["message"]
-    rating = data["rating"]
-
+    rating = int(data["rating"])
+    rating_tuple = (rating, user_message, bot_message)
+    
+    
+    ratings.insert_rating(rating_tuple)
     
 
     return jsonify({"status": "Ok."})
