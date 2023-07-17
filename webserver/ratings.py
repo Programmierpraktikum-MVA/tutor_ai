@@ -72,8 +72,8 @@ def number_to_evaluate(conn):
             good_reviews = cur.fetchone()[0]
             return good_reviews
 
-def push_to_vdb(question, answer):
-
+def push_to_vdb(id, question, answer):
+    qa_id = "qa" + id
     q_a = "Frage: " + question + "Antwort: " + answer
     chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
                                         chroma_server_host="chroma",
@@ -86,7 +86,7 @@ def push_to_vdb(question, answer):
     chroma_collection.add(
     documents=[q_a], # we handle tokenization, embedding, and indexing automatically. You can skip that and add your own embeddings as well
     metadatas=[{"source": "Previous TutorAI conversation"}], # filter on these!
-    ids=["doc1"], # unique for each doc
+    ids=[qa_id], # unique for each doc
     )
     return None
 
@@ -120,7 +120,7 @@ if __name__ == '__main__':
                 print(f"Question:\n{question}\nAnswer:\n{answer}\n\n")
                 accept = input("accept this entry? (y/n):")
                 if accept == "y":
-                    push_to_vdb(question, answer)
+                    push_to_vdb(id, question, answer)
                 
                 evaluated(id, conn) #set evaluated to 1
                 amount = number_to_evaluate(conn)
