@@ -12,80 +12,8 @@ from pymongo import MongoClient
 import g4f as g4f
 from g4f.Provider import DeepAi
 
-import os
-import json
-
-
-import uuid
-
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
-
-
-def split_json_files(folder_path, max_chunk_length=2000):
-    chunks = []
-    meta = []
-    id = []
-    for filename in os.listdir(folder_path):
-        file_path = os.path.join(folder_path, filename)
-        if os.path.isfile(file_path) and filename.endswith('.json'):
-            with open(file_path, 'r') as file:
-                data = json.load(file)
-                title = data.get('Titel des Moduls', '')
-                json_str = json.dumps(data)
-                k = 0
-                for i in range(0, len(json_str), max_chunk_length):
-                    chunk = title + json_str[i:i+max_chunk_length]
-                    chunks.append(chunk)
-                    meta.append({"title": title, "filename": filename})
-                    id.append("moses-id_"+filename+"_"+str(k))
-                    k += 1
-                    
-    return chunks,meta,id
-
-
-
-def split_by_thread(folder_path):
-    thread_chunks = []
-    id = []
-    meta=[]
-    for filename in os.listdir(folder_path):
-        file_path = os.path.join(folder_path,filename)
-        print(str(file_path))
-        with open(file_path, 'r') as file:
-            data = json.load(file)
-
-        posts = data['messages']
-        threads = {}
-
-        for post in posts:
-            thread_id = post['link'].split('=')[-1].split('#')[0]
-            if thread_id not in threads:
-                threads[thread_id] = []
-                post['label'] = 'text:'
-            else:
-                post['label'] = 'antwort:'
-            threads[thread_id].append(post)
-
-        
-        for k, thread in enumerate(threads.values()):
-            chunk = []
-            for post in thread:
-                chunk.append({'link': post['link'], 'label': post['label'], 'text': post['text']})
-            thread_chunks.append(str(chunk)[2:-2])
-            id.append("isis-id_"+filename+"_"+str(k))
-            meta.append({"filename": filename})
-        
-    return thread_chunks,id,meta
-
-
-
-#folder_path = './moses'
-#chunk_list,meta,id = split_json_files(folder_path)
-
-
-file_path = './isis'
-thread_chunks,id,meta = split_by_thread(file_path)
 
 # Chroma DB for document storage
 chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
@@ -95,15 +23,7 @@ chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
 print(chroma_client.list_collections())
 
 chroma_collection = chroma_client.get_or_create_collection(name="documents", 
-                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="distiluse-base-multilingual-cased-v1"))
-
-
-
-# chroma_collection.add(
-    # documents=thread_chunks, # we handle tokenization, embedding, and indexing automatically. Replace the strings with the real documents.
-    # metadatas=meta, # Add the metadatas
-    # ids=id, # Assign a unique id to each doc. 
-# )
+                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2"))
 
 print(chroma_collection.count())
 
@@ -127,10 +47,7 @@ def login_required(route_function):
 @login_required
 def home():
     if 'username' in session:
-        try:
-            chat = chats_collection.find_one({'username': session['username']})['chat']
-        except:
-            return redirect('/login')
+        chat = chats_collection.find_one({'username': session['username']})['chat']
 
         return render_template('chat.html', username=session['username'], chat=chat)
     else:
@@ -179,34 +96,38 @@ def register():
 
     return render_template('register.html')
 
-prompt = "Du bist TutorAI eine KI die darauf spezialisiert war als persönlicher Tutor der technischen Universität zu dienen."
+PROMPT_STRING = """
+Folgendes ist eine freundliche Unterhaltung zwischen einem Menschen und einer KI die den Namen 'TutorAI' trägt. 
+Die KI ist gesprächig und liefert viele spezifische Details aus ihrem Kontext. 
+Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nicht weiß. 
+Zuerst siehst du nützliche zusätzliche Informationen aus Dokumenten, welche dir bei der Antwort dienen werden. 
+Dann siehst du den Verlauf der bisherigen Unterhaltung um den Kontext zu verstehen.
+Hier also zuerst die Dokumente: 
+"""
 
 @app.post("/send")
 @login_required
 def incoming_message():
     data = request.get_json()
     query = data["message"]
-    
-    words = query.split('---')
-    last_word = words[-1].strip()
-    docs = chroma_collection.query(query_texts=[last_word], n_results=2)
-    
-    
-    docs = " --- ".join(docs['documents'][0])
-    #Die Daten müssen von der Vektor-Datenbank gelöscht werden. Momentan sind noch Testdaten enthalten.
-    
-    string = prompt+query
-    
 
+    docs = chroma_collection.query( query_texts=[query], n_results=5)
+    docs = " --- ".join(docs['documents'][0])
+    string = PROMPT_STRING + docs + "\nJetzt die bisherige Konversation: \n" + query + "\nDie KI antwortet auf diese Konversation folgendermaßen: "
     response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
-    return jsonify({"message": ''.join(response).strip("---")})
-    # return jsonify({"message": str(docs)})
+    return jsonify({"message": ''.join(response).trim("---")})
 
 @app.post("/rate")
 @login_required
 def rating():
-    # TODO
-    return jsonify({"message": "Ok."})
+    data = request.get_json()
+    bot_message = data["bot"]["message"]
+    user_message = data["user"]["message"]
+    rating = data["rating"]
+
+    
+
+    return jsonify({"status": "Ok."})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True, use_evalex=False)
