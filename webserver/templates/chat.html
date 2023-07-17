@@ -117,7 +117,7 @@
 
             console.log(lastMessages);
             
-            fetch("/send", {
+            fetch("http://localhost:8080/send", {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/json',
@@ -195,13 +195,16 @@
                 return star.style.color === 'gold' ? index + 1 : acc;
             }, 0);
 
-            fetch("/rate", {
+            fetch("http://localhost:8080/rate", {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/json',
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ "message": "Some message" , "rating": rating})
+                body: JSON.stringify({ 
+                    "bot": new_history.slice(-1), 
+                    "user": new_history.slice(-2), 
+                    "rating": rating})
             }).then(response => response.json()).then(response => {
                 console.log(JSON.stringify(response));
                 delete_rating_stars();
@@ -246,15 +249,13 @@
         }
 
         document.getElementById('logoutButton').addEventListener('click', function() {
-            fetch('/logout', {
+            fetch('http://localhost:8080/logout', {
                 method: 'POST',
                 body: JSON.stringify({ history: new_history }),
                 headers: {
                     'Content-Type': 'application/json'
                 }
-                }).then(response => {
-                    window.location.href = response.url;
-                });
+                }).then((resp) => {console.log("History saved.")});
         });
     </script>
 </body>
