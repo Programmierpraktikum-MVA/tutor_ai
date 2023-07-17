@@ -2,6 +2,9 @@ import sqlite3
 from sqlite3 import Error
 import sys
 import os
+import chromadb
+from chromadb.config import Settings
+from chromadb.utils import embedding_functions
 
 """
 Database will consist of one table:
@@ -69,7 +72,22 @@ def number_to_evaluate(conn):
             good_reviews = cur.fetchone()[0]
             return good_reviews
 
-def push_to_vdb(question, answer): #TODO
+def push_to_vdb(question, answer):
+
+    q_a = "Frage: " + question + "Antwort: " + answer
+    chroma_client = chromadb.Client(Settings(chroma_api_impl="rest",
+                                        chroma_server_host="chroma",
+                                        chroma_server_http_port="8000"))
+
+    chroma_collection = chroma_client.get_or_create_collection(name="documents", 
+                                                           embedding_function=embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2"))
+    
+    
+    chroma_collection.add(
+    documents=[q_a], # we handle tokenization, embedding, and indexing automatically. You can skip that and add your own embeddings as well
+    metadatas=[{"source": "Previous TutorAI conversation"}], # filter on these!
+    ids=["doc1"], # unique for each doc
+    )
     return None
 
 def description():
