@@ -10,7 +10,7 @@ from chromadb.utils import embedding_functions
 from pymongo import MongoClient
 
 import g4f as g4f
-from g4f.Provider import DeepAi
+#from g4f.Provider import OpenaiChat
 
 import ratings
 
@@ -81,7 +81,7 @@ def logout():
         chats_collection.update_one({'username': session['username']}, {'$push': {'chat': { '$each': new_history }}})
         session.pop('username', None)
         
-    return redirect('/login') 
+    return redirect('/login')
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
@@ -112,12 +112,11 @@ Hier also zuerst die Dokumente:
 def incoming_message():
     data = request.get_json()
     query = data["message"]
-
     docs = chroma_collection.query( query_texts=[query], n_results=5)
     docs = " --- ".join(docs['documents'][0])
     string = PROMPT_STRING + docs + "\nJetzt die bisherige Konversation: \n" + query + "\nDie KI antwortet auf diese Konversation folgendermaßen: "
-    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo', provider=DeepAi, messages=[{"role": "user", "content": string}], stream=g4f.Provider.DeepAi.supports_stream)
-    return jsonify({"message": ''.join(response).trim("---")})
+    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo',provider=g4f.Provider.Aichat, messages=[{"role": "user", "content": string}])
+    return jsonify({"message": ''.join(response)})
 
 @app.post("/rate")
 @login_required
