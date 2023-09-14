@@ -26,7 +26,7 @@ function sendMessage() {
     // Scroll to the bottom of the chat box
     chatBox.scrollTop = chatBox.scrollHeight;
     
-    fetch("http://localhost:8080/send", {
+    fetch("/send", {
         method: 'POST',
         headers: {
             'Accept': 'application/json',
@@ -102,7 +102,7 @@ function rateMessage() {
         return star.style.color === 'gold' ? index + 1 : acc;
     }, 0);
 
-    fetch("http://localhost:8080/rate", {
+    fetch("/rate", {
         method: 'POST',
         headers: {
             'Accept': 'application/json',
