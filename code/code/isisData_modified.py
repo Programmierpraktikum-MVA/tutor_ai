@@ -1,4 +1,5 @@
 import time
+import random
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -9,24 +10,26 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.firefox.options import Options
 
-from urllib.request import Request, urlopen
-from bs4 import BeautifulSoup
+#from urllib.request import Request, urlopen
+#from bs4 import BeautifulSoup
 
 from tkinter import *
 from tkinter.ttk import *
-from functools import partial
+#from functools import partial
 
 import json
 
-import csv
+#import csv
 
-import concurrent.futures
+#import concurrent.futures
 
-from time import sleep
+#from time import sleep
 
-PATH = "C:\Program Files (x86)\chromedriver.exe" #path for chromedriver
+PATH = r"C:\Program Files (x86)\chromedriver.exe" #path for chromedriver
+global_username = "test"
+global_passwort = " "
 
-class ISISWebdriver():
+class  ISISWebdriver():
     def __init__(self, url, user_agend):
         self.url = url
         self.ua = user_agend
@@ -41,14 +44,16 @@ class ISISWebdriver():
 
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument(f'----user-agent={self.ua}')
-        #chrome_options.add_argument('--headless')
+        #chrome_options.add_argument('--headless=new')
 
-        driver = webdriver.Chrome(executable_path=PATH, options=chrome_options)
+        driver = webdriver.Chrome(options=chrome_options)
         return driver
 
     def setLogin(self):
-        self.userName = self.entry_name.get()
-        self.pw = self.entry_pw.get()
+        global global_username
+        global_username = self.entry_name.get()
+        global global_passwort
+        global_passwort = self.entry_pw.get()
         self.master.destroy()
 
     def setLoginData(self):
@@ -75,7 +80,7 @@ class ISISWebdriver():
         mainloop()
 
     def login(self):
-        self.setLoginData()
+        #self.setLoginData()
 
         try:
 
@@ -87,10 +92,10 @@ class ISISWebdriver():
             time.sleep(2)
 
             username = self.driver.find_element(By.NAME,"j_username")
-            username.send_keys(self.userName)
+            username.send_keys(global_username)
             time.sleep(2)
             pwd = self.driver.find_element(By.NAME,"j_password")
-            pwd.send_keys(self.pw)
+            pwd.send_keys(global_passwort)
             time.sleep(2)
 
             submit_login = self.driver.find_element(By.ID,"login-button")
@@ -243,32 +248,41 @@ class ISISWebdriver():
 if __name__ == "__main__":
     url = "https://www.isis.tu-berlin.de"
     user_agend = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.93 Safari/537.36" # use right version of chrome
-    #course = "IntroProg"
-    #foren = ["Nachrichtenforum","C-Kurs","Offenes Forum","IntroProg"]
+    #will be searched in ISIS
+    course = ["Programmierpraktikum meta"]
+    #course_name = ["2021_Einfuehrung_Programmierung", "1920_Einfuehrung_Programmierung"]
 
-    course = ["Verteilte Systeme SoSe 23"]
-    course_name = ["2021_Einfuehrung_Programmierung", "1920_Einfuehrung_Programmierung"]
 
-    #foren = ["C-Kurs", "Offenes Forum", "Häufig gestellte Fragen und technische Fragen zu Hausaufgaben und Vorlesungen im Semester","Nachrichtenforum"]
-    crowler = ISISWebdriver(url, user_agend)
+    crowler2 = ISISWebdriver(url, user_agend)
 
-    while crowler.isLoggedIn == False:
-        crowler.login()
 
     c = 0
+    crowler2.setLoginData()
+    del crowler2
+    crowler = None
     for course in course:
+        crowler = ISISWebdriver(url, user_agend)
+        crowler.login()
         crowler.course = None
         crowler.search_course(course)
         crowler.getForenFromCourse(course)
         crowler.clickLink()
         crowl_data = crowler.course
+        #crowler = ISISWebdriver(url, user_agend)
 
         with open(f'{course[c]}.json', 'w') as outfile:
             json.dump(crowl_data, outfile)
+
         c += 1
+    #Delete passwort
+    for i in range(9):
+        global_passwort = random.randint(0,100000000)
+        global_username = random.randint(0,100000000)
 
     print("JSON Created ................")
     crowler.driver.quit()
+    global_passwort = None
+    global_username = None
     print("Quiting ................")
 
 

@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+import json
 """
 Import the class and call the execute method with the needed parameters
 """
@@ -37,6 +37,8 @@ def execute(moses_id: int, version: int, language: str) -> dict:
     lang = 1 if language == "de" else 2
     url = f'https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number={moses_id}&version={version}&sprache={lang}'
     page = requests.get(url)
+    if page == None:
+        return dict()
     samples = BeautifulSoup(page.content, 'html.parser')
 
     remove_link_content(samples)
@@ -47,6 +49,8 @@ def execute(moses_id: int, version: int, language: str) -> dict:
     spans = samples.find_all('h4')
 
     res = []
+
+    #res.append(f'url')
     for s in labels:
         res.append(s.get_text())
     for s in infos:
@@ -55,7 +59,7 @@ def execute(moses_id: int, version: int, language: str) -> dict:
         res.append(s.text)
 
     facts = dict()
-
+    facts["url"] = url
     for r in res:
         if r == 'Abschluss des Moduls':
             continue
@@ -85,8 +89,13 @@ def execute(moses_id: int, version: int, language: str) -> dict:
         facts[e] = "No information available."
 
     facts = {k: v.strip() for k, v in facts.items()}
+
     return facts
 
-
-test = execute(41034, 1, "de")
-print(test)
+course_ids = [40213,40464]
+for course_id in course_ids:
+    # '1' for moses version , 'de' for language, '1' can change
+    test = execute(course_id, 1, "de")
+    with open(f'{course_id}.json', 'w') as outfile:
+        json.dump(test, outfile)
+    print(test)

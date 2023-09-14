@@ -4,16 +4,18 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import math
 import torch
 import wikipedia
+from pathlib import Path
 from newspaper import Article, ArticleException
 from GoogleNews import GoogleNews
 import IPython
+from IPython.core.display import display, HTML
 from pyvis.network import Network
 
 
 # Load model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained("Babelscape/rebel-large")
 model = AutoModelForSeq2SeqLM.from_pretrained("Babelscape/rebel-large")
-
+directory = 'KB_data'
 
 def extract_relations_from_model_output(text):
     relations = []
@@ -61,7 +63,7 @@ def extract_relations_from_model_output(text):
 
 class KB():
     def __init__(self):
-        self.entities = {}  # { entity_title: {...} }
+        self.entities = []  #{} { entity_title: {...} }
         self.relations = []  # [ head: entity_title, type: ..., tail: entity_title,
         # meta: { article_url: { spans: [...] } } ]
         self.sources = {}  # { article_url: {...} }
@@ -84,8 +86,17 @@ class KB():
         except:
             return None
 
+    def merge_with_kb(self, kb2):
+        for r in kb2.relations:
+            article_url = list(r["meta"].keys())[0]
+            source_data = kb2.sources[article_url]
+            self.add_relation(r, source_data["article_title"],
+                              source_data["article_publish_date"])
+
     def add_entity(self, e):
-        self.entities[e["title"]] = {k: v for k, v in e.items() if k != "title"}
+        #self.entities[e["title"]] ={k: v for k, v in e.items() if k != "title"}
+       if e not in self.entities:
+            self.entities.append(e)
 
     #def merge_relations(self, r1):
     #    r2 = [r for r in self.relations
@@ -97,19 +108,30 @@ class KB():
     def add_relation(self, r, article_title, article_publish_date):
         # check on wikipedia
         candidate_entities = [r["head"], r["tail"]]
-        entities = [self.get_wikipedia_data(ent) for ent in candidate_entities]
+        #entities = [self.get_wikipedia_data(ent) for ent in candidate_entities] # for entity linking
+        entities =[]
+
+        #entities that are sentences are not helpful
+        for e in range(len(candidate_entities)):
+            tmp = candidate_entities[e].split()
+            if len(tmp) < 3:
+                entities.append(candidate_entities[e])
 
         # if one entity does not exist, stop
-        if any(ent is None for ent in entities):
+        #if any(ent is None for ent in entities):
+        #    return
+        if(len(entities) != 2):
             return
 
         # manage new entities
         for e in entities:
             self.add_entity(e)
+        #self.add_entity(entities[0])
+        #self.add_entity(entities[1])
 
         # rename relation entities with their wikipedia titles
-        r["head"] = entities[0]["title"]
-        r["tail"] = entities[1]["title"]
+        #r["head"] = entities[0]["title"]
+        #r["tail"] = entities[1]["title"]
 
         # add source if not in kb
         article_url = list(r["meta"].keys())[0]
@@ -136,13 +158,13 @@ class KB():
 
         # if existing article
         else:
-            spans_to_add = [span for span in r2["meta"][article_url]["spans"]
-                            if span not in r1["meta"][article_url]["spans"]]
-            r1["meta"][article_url]["spans"] += spans_to_add
+            spans_to_add = [span for span in r2["meta"]["spans"]
+                            if span not in r1["meta"]["spans"]]
+            r1["meta"]["spans"] += spans_to_add
 
     def print(self):
         print("Entities:")
-        for e in self.entities.items():
+        for e in self.entities:
             print(f"  {e}")
         print("Relations:")
         for r in self.relations:
@@ -240,40 +262,80 @@ def from_text_to_kb(text, article_url, span_length=128, article_title=None,
         relations = extract_relations_from_model_output(sentence_pred)
         for relation in relations:
             relation["meta"] = {
-                article_url: {
+
                     "spans": [spans_boundaries[current_span_index]]
-                }
+
             }
             kb.add_relation(relation, article_title, article_publish_date)
         i += 1
 
     return kb
 
+
+def save_network_html(kb, filename="network.html"):
+    # create network
+    net = Network(directed=True, width="700px", height="700px", bgcolor="#eeeeee",notebook=True)
+
+    # nodes
+    color_entity = "#00FF00"
+    for e in kb.entities:
+        net.add_node(e, shape="circle", color=color_entity)
+
+    # edges
+    for r in kb.relations:
+        net.add_edge(r["head"], r["tail"], title=r["type"], label=r["type"])
+
+    # save network
+    net.repulsion(
+        node_distance=200,
+        central_gravity=0.2,
+        spring_length=200,
+        spring_strength=0.05,
+        damping=0.09
+    )
+    net.set_edge_smooth('dynamic')
+    net.show(filename)
+
 def from_json_to_kb(path):
     with open(f'{path}') as json_file:
         v = json.load(json_file)
     string = ""
     for m in v['messages']:
-        string += m['text']
+        string += m['text'] + ". "
 
+    kb = from_text_to_kb(string, article_title=v['name'], article_url=v['link'])
+    return kb
 
-    kb = from_text_to_kb(string,article_title=v['name'], article_url=v['link'])
+def from_dir_to_text():
+    files = Path(directory).glob('*')
+    kb = KB()
+    bigstring = " "
+    for file in files:
+        kb1 = from_json_to_kb(file)
+        kb.merge_with_kb(kb1)
+
     return kb
 
 
 
-#text = "Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 " \
-#"May 1821), and later known by his regnal name Napoleon I, was a French military " \
-#"and political leader who rose to prominence during the French Revolution and led " \
-#"several successful campaigns during the Revolutionary Wars. He was the de facto " \
-#"leader of the French Republic as First Consul from 1799 to 1804. As Napoleon I, " \
-#"he was Emperor of the French from 1804 until 1814 and again in 1815. Napoleon's " \
-#"political and cultural legacy has endured, and he has been one of the most " \
-#"celebrated and controversial leaders in world history."
+text = "Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 " \
+"May 1821), and later known by his regnal name Napoleon I, was a French military " \
+"and political leader who rose to prominence during the French Revolution and led " \
+"several successful campaigns during the Revolutionary Wars. He was the de facto " \
+"leader of the French Republic as First Consul from 1799 to 1804. As Napoleon I, " \
+"he was Emperor of the French from 1804 until 1814 and again in 1815. Napoleon's " \
+"political and cultural legacy has endured, and he has been one of the most " \
+"celebrated and controversial leaders in world history."
 
 #kb = from_small_text_to_kb(text, verbose=True)
-kb = from_json_to_kb('V.json')
-kb.print()
+#kb = from_json_to_kb('LMI_fixed.json')
+#kb =from_text_to_kb(text,article_url="lol")
+kb = from_dir_to_text()
+filename = "network_3_google.html"
+save_network_html(kb, filename=filename)
+#IPython.lib.display.HTML(filename=filename)
+display(HTML(filename=filename))
+#kb.print()
 # Num tokens: 133
 # Relations:
 #   {'head': 'Napoleon Bonaparte', 'type': 'date of birth', 'tail': '15 August 1769'}
