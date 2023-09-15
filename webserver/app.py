@@ -10,8 +10,6 @@ from chromadb.utils import embedding_functions
 from pymongo import MongoClient
 
 import g4f as g4f
-#from g4f.Provider import OpenaiChat
-
 import ratings
 
 app = Flask(__name__)
@@ -115,7 +113,7 @@ def incoming_message():
     docs = chroma_collection.query( query_texts=[query], n_results=5)
     docs = " --- ".join(docs['documents'][0])
     string = PROMPT_STRING + docs + "\nJetzt die bisherige Konversation: \n" + query + "\nDie KI antwortet auf diese Konversation folgendermaßen: "
-    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo',provider=g4f.Provider.Aichat, messages=[{"role": "user", "content": string}])
+    response = g4f.ChatCompletion.create(model='gpt-3.5-turbo',provider=g4f.Provider.You, messages=[{"role": "user", "content": string}])
     return jsonify({"message": ''.join(response)})
 
 @app.post("/rate")
