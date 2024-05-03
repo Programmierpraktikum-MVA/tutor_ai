@@ -15,10 +15,10 @@ Folgen Sie diesen Schritten, um LLama3 auf Ihrem System zu installieren:
 
 1. **Virtuelle Umgebung erstellen**
 
-   Erstellen Sie eine neue virtuelle Umgebung namens `llama3testing`:
+   Erstellen Sie eine neue virtuelle Umgebung namens `llama3`:
 
    ```bash
-   virtualenv llama3testing
+   virtualenv llama3
    ```
 
 2. **Virtuelle Umgebung aktivieren**
@@ -26,7 +26,7 @@ Folgen Sie diesen Schritten, um LLama3 auf Ihrem System zu installieren:
    Aktivieren Sie die virtuelle Umgebung:
 
    ```bash
-   source llama3testing/bin/activate
+   source llama3/bin/activate
    ```
 
 3. **Abhängigkeiten installieren**
