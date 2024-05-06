@@ -16,7 +16,12 @@ PASSWORD_TOKEN = config_data['password']
 
 driver = webdriver.Chrome()
 
+# Make the browser run in full screen mode
+driver.maximize_window()
+
 driver.get("https://isis.tu-berlin.de/")
+
+
 
 title = driver.title
 
