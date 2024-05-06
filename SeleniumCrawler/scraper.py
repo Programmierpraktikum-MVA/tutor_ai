@@ -41,6 +41,12 @@ third =driver.title
 print(third)
 
 get_all_course_id.get_all_course_id(driver)
-scrape_course.scrape_course(driver, 37800)
+
+with open('course_id_saved.json', 'r') as file:
+    course_ids = json.load(file)
+
+for course_id in course_ids:
+    scrape_course.scrape_course(driver, course_id)
+
 
 driver.quit()
