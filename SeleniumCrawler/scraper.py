@@ -1,12 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import json
-import get_all_course_id
-import scrape_course
-
-import get_all_course_id
+from IsisModules import get_all_course_id, scrape_course
 
 with open('config.json') as config_file:
     config_data = json.load(config_file)
