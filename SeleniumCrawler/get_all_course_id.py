@@ -22,5 +22,3 @@ def get_all_course_id(driver):
     # Saving the course IDs to a JSON file
     with open("course_id_saved.json", 'w') as file:
         json.dump(course_ids, file)
-
-    driver.quit()

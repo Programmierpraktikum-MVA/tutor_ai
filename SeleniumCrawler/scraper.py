@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 import get_all_course_id
+import scrape_course
 
 import get_all_course_id
 
@@ -16,13 +17,13 @@ PASSWORD_TOKEN = config_data['password']
 
 driver = webdriver.Chrome()
 
-driver.get("https://isis.tu-berlin.de/")
+driver.get("https://isis.tu-berlin.de/login/index.php")
 
 title = driver.title
 
 driver.implicitly_wait(0.5)
 
-tu_login_button = driver.find_element(by=By.ID, value="shibboleth-login-button")
+tu_login_button = driver.find_element(by=By.ID, value="shibbolethbutton")
 tu_login_button.click()
 
 title_new = driver.title
@@ -45,6 +46,6 @@ third =driver.title
 print(third)
 
 get_all_course_id.get_all_course_id(driver)
-
+scrape_course.scrape_course(driver, 37800)
 
 driver.quit()
