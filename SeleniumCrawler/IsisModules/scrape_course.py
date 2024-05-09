@@ -64,7 +64,7 @@ def scrape_course(driver, courseId):
 
         #finds the section div wanted
         section_name_div = driver.find_element(by=By.CSS_SELECTOR, value=f"li#section-{i} > div > div > a")
-        target_div = driver.find_element(by=By.CSS_SELECTOR, value=f"li#section-{i}")
+        target_div = driver.find_element(by=By.ID, value=f"coursecontentcollapse{i}")
         #gets the htmlText out of that section
         htmlText = target_div.get_attribute("outerHTML")
         #gets just the text out of htmlText
