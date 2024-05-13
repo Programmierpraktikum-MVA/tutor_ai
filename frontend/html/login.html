@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Login - TutorAI</title>
+  <link rel="stylesheet" href="..\css\style_login.css">
+  <link rel="icon" href="..\Logo.png">
+</head>
+
+<body>
+<div class="login-wrapper">
+  <h2>Login</h2>
+  <form method="POST" action="/login">
+    <div class="login-input-box">
+      <input type="text" name="username" 	placeholder="Username" required>
+    </div>
+    <div class="login-input-box">
+      <input type="password" name="password" placeholder="Password" required>
+    </div>
+    <div class="login-input-box login-button">
+      <input type="submit" value="Login">
+    </div>
+  </form>
+  <p>Don't have an account? <a href="register.html">Register</a></p>
+</div>
+</body>
+
+</html>
