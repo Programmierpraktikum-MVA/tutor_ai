@@ -3,6 +3,10 @@ from selenium.webdriver.common.by import By
 import json
 from get_all_forum_id import get_all_forum_id
 
+
+# Note that this file is preliminary.
+# Eventually, we will run all scraper files with one scraper.py
+
 with open('../config.json') as config_file:
     config_data = json.load(config_file)
 
@@ -32,6 +36,6 @@ password_login.send_keys(PASSWORD_TOKEN)
 final_login_button = driver.find_element(by=By.ID, value="login-button")
 final_login_button.click()
 
-title_second =driver.title
+title_second = driver.title
 
 get_all_forum_id(driver)
