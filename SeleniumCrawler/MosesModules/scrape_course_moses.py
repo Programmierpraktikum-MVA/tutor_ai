@@ -39,6 +39,13 @@ def scrape_course(driver, course_id, version_text):
     #for element in elements:
     #        print(element.text)
 
+    #check if the current course is the right version, if not don't create folder
+    try:
+        driver.find_element(by=By.XPATH, value='//*[@id="j_idt47:j_idt72"]')
+        print("wrong version:", driver.find_element(by=By.TAG_NAME, value='h1').text)
+        return
+    except:
+        pass
     #Get course Title, e.g. AlgoDat
     title = driver.find_element(by=By.TAG_NAME, value='h1').text
     title = sanitize_filename(title)
