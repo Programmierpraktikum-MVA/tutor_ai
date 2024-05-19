@@ -1,7 +1,8 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from misc import misce
 import requests
 import subprocess
 import os
@@ -24,13 +25,9 @@ def setup_session_with_cookies(driver):
     return session
 
 
-def download_and_extract_audio(session, video_url, courseID, index, page_link, processed_urls):
-    if video_url in processed_urls:
-        print(f"Skipping duplicate video URL: {video_url}")
-        return
-    processed_urls.add(video_url)
-    local_video_path = f'downloaded_videos/{courseID}/{courseID}_{index}.mp4'
-    output_file = f'downloaded_videos/{courseID}/{courseID}_{index}.mp3'
+def download_and_extract_audio(session, video_url, courseID, index):
+    local_video_path = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp4'
+    output_file = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp3'
     title = f'{courseID}_{index}'
     response = session.get(video_url, stream=True)
     if response.status_code == 200:
@@ -38,7 +35,7 @@ def download_and_extract_audio(session, video_url, courseID, index, page_link, p
             for chunk in response.iter_content(1024):
                 f.write(chunk)
         extract_audio(local_video_path, output_file)
-        log_entry(title, page_link)
+        log_entry(title, video_url)
         print(f'Audio extracted and saved as {output_file}')
     else:
         print(f"Failed to download video from {video_url}, Response Code = {response.status_code}")
@@ -58,6 +55,7 @@ def log_entry(title, link):
 
 
 def scrape_and_extract_audio(driver, courseId):
+    misce.ensure_json_file_exists("download_log.json")
     folder_path = f"downloaded_videos/{courseId}"
     if not os.path.exists(folder_path):
         # Create the folder
@@ -69,8 +67,11 @@ def scrape_and_extract_audio(driver, courseId):
     driver.get(f"https://isis.tu-berlin.de/mod/videoservice/view.php/course/{courseId}/browse")
     processed_urls = set()
     session = setup_session_with_cookies(driver)
-    links = WebDriverWait(driver, 30).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.thumbnail-container a')))
+    links = []
+    try:
+        links = WebDriverWait(driver, 30).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.thumbnail-container a')))
+    except TimeoutException:
+        print("No thumbnail-container found")
     hrefs = [link.get_attribute('href') for link in links]
     i = 0
     for href in hrefs:
@@ -79,8 +80,11 @@ def scrape_and_extract_audio(driver, courseId):
             video_element = driver.find_element(by=By.TAG_NAME, value="video")
             video_source_url = video_element.get_attribute('src')
             if video_source_url:
-                download_and_extract_audio(session, video_source_url, courseId, i ,href, processed_urls)
-                i = i +1
-        except TimeoutException:
+                if not misce.url_exists("download_log.json", video_source_url):
+                    if video_source_url not in processed_urls:
+                        processed_urls.add(video_source_url)
+                        download_and_extract_audio(session, video_source_url, courseId, i)
+                i = i + 1
+        except (NoSuchElementException, TimeoutException):
             print(f"Timeout or element not found on page {href}.")
 

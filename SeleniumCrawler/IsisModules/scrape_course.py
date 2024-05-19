@@ -42,10 +42,6 @@ def scrape_course(driver, courseId):
     wait = WebDriverWait(driver, 10)
     elements = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".section.course-section.main.clearfix")))
 
-    #Get course Title, e.g. AlgoDat
-    title = driver.find_element(by=By.TAG_NAME, value="h1").text
-    title = sanitize_filename(title)
-    #print(title)
     folder_path = f"CourseInfos/{courseId}"
 
     #create folder for the course
@@ -75,10 +71,7 @@ def scrape_course(driver, courseId):
         #gets just the text out of htmlText
         htmlTextInfos = get_html_text(htmlText)
 
-        #saves the htmlTextInfos in json files named after its sectors
-        sectionName = section_name_div.get_attribute('aria-label')
-        sectionName = sanitize_filename(sectionName)
-        with open(f"CourseInfos/{title}/{sectionName}.json", 'w', encoding="utf-8") as f:
+        with open(f"CourseInfos/{courseId}/{courseId}_{i}_course_infos.json", 'w', encoding="utf-8") as f:
             json.dump(htmlTextInfos, f, ensure_ascii=False, indent=4)
 
         #print(attribute_value)
