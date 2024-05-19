@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
-from IsisModules import get_all_course_id, scrape_course
+from IsisModules import get_all_course_id, scrape_course, scrape_all_course_videos
 
 with open('config.json') as config_file:
     config_data = json.load(config_file)
@@ -47,6 +47,7 @@ with open('course_id_saved.json', 'r') as file:
 
 for course_id in course_ids:
     scrape_course.scrape_course(driver, course_id)
+    scrape_all_course_videos.scrape_and_extract_audio(driver, course_id)
 
 
 driver.quit()

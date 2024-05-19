@@ -9,7 +9,8 @@ import re
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
 
-
+#INPUT: OuterHTML
+#OUTPUT: Array where one index = text of one "div"
 def get_html_text(html_input):
     soup = BeautifulSoup(html_input, 'lxml')
     texts = []
@@ -20,6 +21,8 @@ def get_html_text(html_input):
                 texts.append(text)
     return texts
 
+#INPUT: FileName (can include forbidden symbols)
+#OUTPUT: Clean file name (removes forbidden symbols from file name)
 def sanitize_filename(filename):
     # Remove invalid characters from the filename
     sanitized = re.sub(r'[\\/*?:"<>|]', "", filename)
@@ -29,6 +32,8 @@ def sanitize_filename(filename):
     sanitized = re.sub(r'^(CON|PRN|AUX|NUL|COM\d|LPT\d)(\..+)?$', '_reserved_', sanitized, flags=re.I)
     return sanitized
 
+#INPUT: driver, courseID
+#OUTPUT: Folder Structure containing information of every ISIS Course
 def scrape_course(driver, courseId):
     #Get Course ISIS Site
     driver.get(f"https://isis.tu-berlin.de/course/view.php?id={courseId}")
@@ -41,7 +46,7 @@ def scrape_course(driver, courseId):
     title = driver.find_element(by=By.TAG_NAME, value="h1").text
     title = sanitize_filename(title)
     #print(title)
-    folder_path = f"CourseInfos/{title}"
+    folder_path = f"CourseInfos/{courseId}"
 
     #create folder for the course
     if not os.path.exists(folder_path):

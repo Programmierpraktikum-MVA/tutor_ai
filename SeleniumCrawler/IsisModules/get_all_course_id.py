@@ -4,7 +4,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 
-
+#Input: driver
+#Output: json-file with all course ID's
 def get_all_course_id(driver):
     driver.get("https://isis.tu-berlin.de/my/courses.php")
 
@@ -17,7 +18,6 @@ def get_all_course_id(driver):
         print(course_id)
 
     course_ids = [element.get_attribute("data-course-id") for element in elements]
-
 
     # Saving the course IDs to a JSON file
     with open("../course_id_saved.json", 'w') as file:
