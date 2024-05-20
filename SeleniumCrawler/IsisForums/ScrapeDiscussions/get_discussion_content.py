@@ -15,7 +15,7 @@ def get_discussion_content(discussion_id, driver):
             "DateTime": article.find_element(By.CSS_SELECTOR, "div.mb-3[tabindex='-1'] time").get_attribute("datetime"),
             "Content": article.find_element(By.CSS_SELECTOR, "div.post-content-container").text.replace('\n', ' ')
         })
-    #return messages_dict
-    with open('discussion.json', 'w') as d:
-        json.dump(messages_dict, d, ensure_ascii=False, indent=4)
+    return messages_dict
+    """with open('discussion.json', 'w') as d:
+        json.dump(messages_dict, d, ensure_ascii=False, indent=4)"""
          
