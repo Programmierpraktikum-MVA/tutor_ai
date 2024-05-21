@@ -2,12 +2,11 @@ import json
 import os
 import glob
 import time
-
 from selenium.webdriver.common.by import By
 
 
 def store_all_pdfs(driver):
-    # TODO: Change the directory path
+    # TODO: Change the directory path to the final path
     pdf_data_path = '/home/tomklein/Documents/uni/tutorAI/tutor_ai/scraping/pdf_data'
 
     # Create the directory if it does not yet exist
@@ -40,7 +39,7 @@ def store_all_pdfs(driver):
                                                                                  "/image.php/nephthys/core/1713890017"
                                                                                  "/f/pdf?filtericon=1'])")
 
-        print("we found that many activity grids with pdfs: " + str(len(activity_grids_with_pdf)))
+        # print("we found that many activity grids with pdfs: " + str(len(activity_grids_with_pdf)))
         # Create empty list of urls
         pdf_ids = []
 
@@ -65,22 +64,20 @@ def store_all_pdfs(driver):
             driver.close()
 
         # Wait for the downloading process to finish
-        print("Waiting for downloads", end="")
         while any([filename.endswith(".crdownload") for filename in
                    os.listdir(pdf_data_path)]):
-            print("\n we have to sleep\n")
             time.sleep(2)
-            print(".", end="")
 
-        # Move all the pdfs to the right folder
+        # Move all the pdfs to the right course folder
         pdf_files = glob.glob(os.path.join(pdf_data_path, '*.pdf'))
-        print("we found that many pdf files: " + str(len(pdf_files)))
+        # print("we found that many pdf files: " + str(len(pdf_files)))
 
         for pdf_file in pdf_files:
             # Extract pdf file name
             file_name = os.path.basename(pdf_file)
 
+            # Save file in the right course folder
             destination_path = os.path.join(course_path, file_name)
             os.rename(pdf_file, destination_path)
-bs
+
 
