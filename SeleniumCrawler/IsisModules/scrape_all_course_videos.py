@@ -8,7 +8,7 @@ import subprocess
 import os
 import json
 
-
+#gets mp3 from mp4 file
 def extract_audio(local_video_path, output_file):
     try:
         ffmpeg_command = f'ffmpeg -i "{local_video_path}" -vn -acodec libmp3lame -y "{output_file}"'
@@ -17,26 +17,26 @@ def extract_audio(local_video_path, output_file):
     except Exception as e:
         print(f"Error during audio extraction: {e}")
 
-
+#cookies needed to access the videos for whatsoever reason
 def setup_session_with_cookies(driver):
     session = requests.Session()
     for cookie in driver.get_cookies():
         session.cookies.set(cookie['name'], cookie['value'], domain=cookie['domain'])
     return session
 
-
+#downloads the video
 def download_and_extract_audio(session, video_url, courseID, index):
     local_video_path = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp4'
-    output_file = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp3'
+    #output_file = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp3'
     title = f'{courseID}_{index}'
     response = session.get(video_url, stream=True)
     if response.status_code == 200:
         with open(local_video_path, 'wb') as f:
             for chunk in response.iter_content(1024):
                 f.write(chunk)
-        extract_audio(local_video_path, output_file)
+        #extract_audio(local_video_path, output_file)
         log_entry(title, video_url)
-        print(f'Audio extracted and saved as {output_file}')
+        #print(f'Audio extracted and saved as {output_file}')
     else:
         print(f"Failed to download video from {video_url}, Response Code = {response.status_code}")
 
