@@ -5,11 +5,18 @@ from IsisModules import get_all_course_id, scrape_course, scrape_all_course_vide
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import os
 
+def ensure_folder_exists(folder_path):
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+        print(f"Folder '{folder_path}' created.")
+    else:
+        print(f"Folder '{folder_path}' already exists.")
 
 def relogin(driver):
     logout(driver)
-    time.sleep(1)
+    time.sleep(3)
     login(driver)
 
 
@@ -56,22 +63,24 @@ def logout(driver):
 
 def main():
 
-
+    print("1")
     driver = webdriver.Chrome()
-
+    print("2")
     login(driver)
-
+    print("3")
     get_all_course_id.get_all_course_id(driver)
-
+    print("4")
+    ensure_folder_exists('downloaded_videos')
+    print("5")
 
 
     with open('course_id_saved.json', 'r') as file:
         course_ids = json.load(file)
+    print("6")
 
     for course_id in course_ids:
         scrape_course.scrape_course(driver, course_id)
-        scrape_all_course_videos.scrape_and_extract_audio(driver, course_id)
-        relogin(driver)
+        scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id, False)
 
     driver.quit()
 

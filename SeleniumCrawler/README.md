@@ -24,9 +24,14 @@ Follow these steps to get your Tutor AI Scraper up and running:
    ```
    
 2. **Start Environment**
-3**Install selenium**
+3. **Install selenium and whisper**
       ```bash
    pip install selenium
+   pip install -U git+https://github.com/linto-ai/whisper-timestamped
+   ```
+4. **Install pytorch**
+   ```
+   https://pytorch.org/
    ```
 
 ## Usage
