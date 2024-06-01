@@ -18,7 +18,7 @@ def get_all_discussion_content_from_forum(forum_id, driver):
         print("Keine Diskussionen gefunden.")
         return
     
-    forumd_dict=[]
+    forum_dict=[]
     forum_name=driver.find_element(By.CSS_SELECTOR, "div.page-header-headings").text
     discussion_urls = [(discussion.get_attribute("href"), discussion.get_attribute("title")) for discussion in discussions]
    
@@ -48,14 +48,14 @@ def get_all_discussion_content_from_forum(forum_id, driver):
         
         except Exception as e:
             print(f"Fehler beim Verarbeiten der Diskussion: {e}")
-    forumd_dict.append({
+    forum_dict.append({
         "Forum_name":forum_name,
         "Forum_id": forum_id,
         "Discussions":discussions_dict
     })
-    return forumd_dict   
+    return forum_dict   
 
     """with open('forum.json', 'w') as f:
-        json.dump(forumd_dict, f, ensure_ascii=False, indent=4)"""
+        json.dump(forum_dict, f, ensure_ascii=False, indent=4)"""
 
 
