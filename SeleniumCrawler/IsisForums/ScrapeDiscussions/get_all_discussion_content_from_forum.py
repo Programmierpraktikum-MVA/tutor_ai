@@ -39,8 +39,14 @@ def get_all_discussion_content_from_forum(forum_id, driver):
                 "Discussion_Id": discussion_id,
                 "Messages": messages
             })
+            
+        
         except Exception as e:
             print(f"Fehler beim Verarbeiten der Diskussion: {e}")
+    return discussions_dict   
 
-    with open('forum.json', 'w') as f:
-        json.dump(discussions_dict, f, ensure_ascii=False, indent=4)
+    """with open('forum.json', 'w') as f:
+        json.dump(discussions_dict, f, ensure_ascii=False, indent=4)"""
+
+
+
