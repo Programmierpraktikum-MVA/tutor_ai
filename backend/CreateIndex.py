@@ -19,7 +19,7 @@ Settings.embed_model = embedding_llm
 Settings.chunk_size = 512
 
 # There is a folder called data in which you have to put your documents
-documents = SimpleDirectoryReader("data").load_data()
+documents = SimpleDirectoryReader("data", recursive=True).load_data()
 
 
 
