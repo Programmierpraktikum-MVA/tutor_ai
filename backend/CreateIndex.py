@@ -18,11 +18,13 @@ Settings.llm = llm
 Settings.embed_model = embedding_llm
 Settings.chunk_size = 512
 
-documents = SimpleDirectoryReader("data5").load_data()
+# There is a folder called data in which you have to put your documents
+documents = SimpleDirectoryReader("data").load_data()
 
 
 
 index = VectorStoreIndex.from_documents(documents)
+
 
 query_engine = index.as_query_engine(
     include_text=True,
@@ -31,5 +33,6 @@ query_engine = index.as_query_engine(
     similarity_top_k=5,
 )
 
+# persist the index to use it in the chat engine
 index.storage_context.persist()
 
