@@ -8,7 +8,6 @@ from llama_index.core import (
     Settings,
     TreeIndex
 )
-import sys
 
 
 
