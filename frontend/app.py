@@ -4,6 +4,65 @@ from passlib.hash import sha256_crypt
 from pymongo import MongoClient
 import ratings
 
+from llama_index.core import (StorageContext, Settings)
+from llama_index.llms.ollama import Ollama
+from llama_index.embeddings.ollama import OllamaEmbedding
+from llama_index.core import (
+    VectorStoreIndex,
+    StorageContext,
+    load_index_from_storage,
+    Settings
+)
+
+from llama_index.core.memory import ChatMemoryBuffer
+import requests  
+from llama_index.core.storage.chat_store import SimpleChatStore
+
+llm = Ollama(model="llama3", request_timeout=360.0)
+embedding_llm = OllamaEmbedding(model_name="nomic-embed-text")
+Settings.llm = llm
+Settings.embed_model = embedding_llm
+Settings.chunk_size = 512
+
+
+storage_context = StorageContext.from_defaults(persist_dir="./storage")
+index = load_index_from_storage(storage_context=storage_context)
+
+
+chat_store = SimpleChatStore()
+memory = ChatMemoryBuffer.from_defaults(
+    token_limit=20000,
+    chat_store=chat_store,
+    chat_store_key="user1",)
+
+chat_store.persist(persist_path="chat_store.json")
+loaded_chat_store = SimpleChatStore.from_persist_path(
+    persist_path="chat_store.json"
+)
+
+def web_search(query):
+    response = requests.get(f"https://api.example.com/search?q={query}")
+    return response.json()['results']
+
+
+chat_engine = index.as_chat_engine(
+    chat_mode="condense_plus_context",
+    memory=memory,
+    llm=llm,
+    context_prompt=(
+        "Answer only in German"
+        "You are a German chatbot, able to have normal interactions, as well as talk"
+        "about modules, technical information about the modules, and informations from the Technical University of Berlin."
+        "Here are the relevant documents for the context:\n"
+        "{context_str}"
+        "\nInstruction: Use the previous chat history, or the context above, to interact and help the user."
+    ),
+    verbose=False,
+    fallback_handler=web_search,
+)
+
+
+
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
@@ -85,9 +144,12 @@ Wenn die KI eine Frage nicht beantworten kann, sagt sie ehrlich, dass sie es nic
 def incoming_message():
     data = request.get_json()
     query = data["message"]
-    string = PROMPT_STRING + "\nJetzt die bisherige Konversation: \n" + query + "\nDie KI antwortet auf diese Konversation folgendermaßen: "
-    response = "dummy response"
-    return jsonify({"message": ''.join(response)})
+    
+    response = chat_engine.stream_chat(query)
+    response_return = ""
+    for token in response.response_gen:
+        response_return += token + ""
+    return jsonify({"message": response_return})
 
 @app.post("/rate")
 @login_required
