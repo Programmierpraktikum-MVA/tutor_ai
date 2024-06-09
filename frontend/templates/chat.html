@@ -94,10 +94,135 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDzwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js"></script>
-<script src="..\static\js\script.js"></script>
-</body>
+<script>
+var username = "{{ username }}";
+var botLogoURL = "../static/images/Logo.png";
 
+autosize(document.getElementById('message-input'));
+
+var chatBox = document.getElementById('chat-box');
+
+document.getElementById('button-addon2').addEventListener('click', function(event) {
+    sendMessage();
+});
+
+document.getElementById('message-input').addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+        event.preventDefault();  // Prevent newline
+        sendMessage();
+    }
+});
+
+function sendMessage() {
+    var messageText = document.getElementById('message-input').value.trim();
+    if (!messageText) return;
+    generateUserMessage(messageText);
+
+    document.getElementById('message-input').value = '';
+
+    // Show typing indicator and delay the bot response
+    addTypingAnimation();
+    // Scroll to the bottom of the chat box
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    fetch("/send", {
+        method: 'POST',
+        headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ "message": messageText })
+    }).then(response => response.json()).then(response => {
+        deleteTypingAnimation();
+        generateBotMessage(response.message);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    });
+}
+
+function generateUserMessage(text) {
+    var wrapper = document.createElement('div');
+    wrapper.className = 'media w-50 ml-auto mb-3';
+    wrapper.innerHTML = `
+    <div class="media-body">
+        <p class="text-small mb-1 text-muted"><span class="mr-1">👨‍🎓</span>${username} <span class="small text-muted">${getCurrentDateTimeString()}</span></p>
+        <div class="bg-primary rounded py-2 px-3 mb-2">
+            <p class="text-small mb-0 text-white">${text}</p>
+        </div>
+    </div>
+    `;
+    chatBox.appendChild(wrapper);
+}
+
+function generateBotMessage(text) {
+    delete_rating_stars();
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'media w-50 mb-3';
+    wrapper.innerHTML = `
+    <div class="media-body ml-3">
+    <p class="text-small mb-1 text-muted"><span class="mr-1"><img src="${botLogoURL}" width="32" height="32"></span>Tutor AI <span class="small text-muted">${getCurrentDateTimeString()}</span></p>
+    <div class="bg-light rounded py-2 px-3 mb-2">
+        <p class="text-small mb-0 text-muted">${text}</p>
+    </div>
+    <div id="rating">
+        <i class="fa fa-star" style="color: grey;"></i>
+        <i class="fa fa-star" style="color: grey;"></i>
+        <i class="fa fa-star" style="color: grey;"></i>
+        <i class="fa fa-star" style="color: grey;"></i>
+        <i class="fa fa-star" style="color: grey;"></i>
+        <button id="rate_btn" onclick=rateMessage()>Rate</button>
+    </div>
+    </div>
+    `;
+    chatBox.appendChild(wrapper);
+    var stars = document.getElementById('rating').querySelectorAll('.fa');
+    stars.forEach(star => {
+        star.addEventListener('click', function() {
+            stars.forEach(s => s.style.color = 'grey');
+            this.style.color = 'gold';
+        });
+    });
+}
+
+function addTypingAnimation() {
+    var wrapper = document.createElement('div');
+    wrapper.className = 'media w-50 mb-3';
+    wrapper.id = 'typing-indicator';
+    wrapper.innerHTML = `
+    <div class="media-body ml-3">
+        <div class="bg-light rounded py-2 px-3 mb-2">
+            <p class="text-small mb-0 text-muted">Tutor AI is typing...</p>
+        </div>
+    </div>
+    `;
+    chatBox.appendChild(wrapper);
+}
+
+function deleteTypingAnimation() {
+    var typingIndicator = document.getElementById('typing-indicator');
+    if (typingIndicator) {
+        typingIndicator.remove();
+    }
+}
+
+function getCurrentDateTimeString() {
+    var now = new Date();
+    return now.toLocaleString();
+}
+
+function delete_rating_stars() {
+    var rateButton = document.getElementById('rate_btn');
+    if (rateButton) {
+        rateButton.remove();
+    }
+}
+
+function rateMessage() {
+    alert("Rating functionality is not implemented yet.");
+}
+</script>
+</body>
 </html>
