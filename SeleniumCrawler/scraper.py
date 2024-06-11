@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
+import queue
 
 def ensure_folder_exists(folder_path):
     if not os.path.exists(folder_path):
@@ -61,8 +62,8 @@ def logout(driver):
     tu_logout_button.click()
 
 
-def main():
 
+def start_crawl(queue):
     print("1")
     driver = webdriver.Chrome()
     print("2")
@@ -80,10 +81,7 @@ def main():
 
     for course_id in course_ids:
         scrape_course.scrape_course(driver, course_id)
-        scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id, False)
-
+        scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id)
+        relogin()
+    queue.put("end.txt")
     driver.quit()
-
-
-if __name__ == "__main__":
-    main()

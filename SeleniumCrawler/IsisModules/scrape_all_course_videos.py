@@ -56,7 +56,7 @@ def log_entry(title, link):
             json.dump([entry], log_file, indent=4)
 
 
-def scrape_and_extract_transcript(driver, courseId, keep_downloaded_videos):
+def scrape_and_extract_transcript(driver, courseId, queue):
     misce.ensure_json_file_exists("download_log.json")
     folder_path = f"downloaded_videos/{courseId}"
     if not os.path.exists(folder_path):
@@ -86,14 +86,16 @@ def scrape_and_extract_transcript(driver, courseId, keep_downloaded_videos):
                     if video_source_url not in processed_urls:
                         processed_urls.add(video_source_url)
                         title = f'{courseId}_{i}_course_video'
-                        local_video_path = f'{folder_path}/{title}.mp4'
-                        local_audio_path = f'{folder_path}/{title}.mp3'
+                        path = f'{folder_path}/{title}'
+                        local_video_path = f'{path}.mp4'
+                        local_audio_path = f'{path}.mp3'
                         download_video(session, video_source_url, local_video_path, title)
-                        extract_audio(local_video_path, local_audio_path)
-                        transcribe_audio(local_audio_path, title, folder_path)
-                        if not keep_downloaded_videos:
-                            os.remove(local_video_path)
-                            os.remove(local_audio_path)
+                        queue.put(local_video_path)
+                        #extract_audio(local_video_path, local_audio_path)
+                        #transcribe_audio(local_audio_path, title, folder_path)
+                        #if not keep_downloaded_videos:
+                            #os.remove(local_video_path)
+                            #os.remove(local_audio_path)
                 i = i + 1
         except (NoSuchElementException, TimeoutException):
             print(f"Timeout or element not found on page {href}.")
