@@ -1,0 +1,276 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] SNET: Programmieren II",
+        "Course_id": "38349",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1788566",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kleiner Reminder: Spezialsprechstunde jetzt.",
+                            "Discussion_Id": "599693",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078083",
+                                    "Author": "Philipp Trilk",
+                                    "DateTime": "2024-06-07T17:17:31+02:00",
+                                    "Content": "Verehrte Studierende,  falls Ihr Fragen habt biete ich eine Spezialsprechstunde jetzt unter diesem Link: https://tu-berlin.zoom.us/j/9391674691?pwd=NjcyVkt4VGs0NjU2ZzkxMUtSejN1UT09&omn=68992390266. Stoßt gerne dazu, bis mindestens 18 Uhr halte ich den Raum offen.  Liebe Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Spezialsprechstunde 17 Uhr",
+                            "Discussion_Id": "599651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078022",
+                                    "Author": "Philipp Trilk",
+                                    "DateTime": "2024-06-07T14:31:06+02:00",
+                                    "Content": "Liebe Studierende, heute findet aufgrund meiner Verspätung zur Sprechstunde eine zusätzliche Sprechstunde um 17 Uhr statt online unter diesem Link https://tu-berlin.zoom.us/j/9391674691?pwd=NjcyVkt4VGs0NjU2ZzkxMUtSejN1UT09&omn=68992390266 Beste Grüße Philipp Trilk",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde einmalig im FH 312",
+                            "Discussion_Id": "599365",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077612",
+                                    "Author": "Thomas Franklin Cory",
+                                    "DateTime": "2024-06-06T11:07:02+02:00",
+                                    "Content": "Hallo allerseits, die Tutorensprechstunde findet morgen einmalig im FH 312 statt, da der MAR 0.009 belegt ist. Viele Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Loris",
+                            "Discussion_Id": "598715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076695",
+                                    "Author": "Loris Jaro Galler",
+                                    "DateTime": "2024-06-03T23:10:17+02:00",
+                                    "Content": "Hey Studies, leider muss mein Tutorium morgen um 16:15 Uhr in FH312 krankheitsbedingt ausfallen. Bitte verteilt euch auf die restlichen Tutorien. Grüße, Loris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Philipp's Tutorien morgen 29.05.",
+                            "Discussion_Id": "597491",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074889",
+                                    "Author": "Philipp Trilk",
+                                    "DateTime": "2024-05-28T20:07:22+02:00",
+                                    "Content": "Sehr geehrte Studierende, morgen am Mittwoch den 29.05 werden meine Tutorien leider entfallen müssen. Bitte verteilt euch auf die anderen Tutorien welche an dem Tag stattfinden. Hoffentlich bis nächste Woche in alter Frische.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde 24.5.",
+                            "Discussion_Id": "596475",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073281",
+                                    "Author": "Jonas Mario Quick",
+                                    "DateTime": "2024-05-24T10:43:51+02:00",
+                                    "Content": "Bin spät dran, Sprechstunde geht heute paar Minuten später los",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Loris",
+                            "Discussion_Id": "595915",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072477",
+                                    "Author": "Loris Jaro Galler",
+                                    "DateTime": "2024-05-22T10:57:41+02:00",
+                                    "Content": "Hey Studies, leider muss mein Tutorium heute um 14:15 Uhr in FH315 krankheitsbedingt ausfallen. Bitte verteilt euch auf die restlichen Tutorien. Grüße, Loris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der morgigen Tutorien bei Yassine",
+                            "Discussion_Id": "595716",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072178",
+                                    "Author": "Yassine Lazreg",
+                                    "DateTime": "2024-05-21T15:17:00+02:00",
+                                    "Content": "Liebe Studierende,  leider müssen meine beiden Tutorien in dieser Woche (Mittwoch 12-14 und 14-16 Uhr) wegen Krankheit ausfallen. Ihr könnt gerne zu einem anderen (parallelen) Tutorium am Mittwoch zur gleichen Zeit gehen oder euch einen anderen passenden Termin aussuchen. Liebe Grüße Yassine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zusammenlegung der Tutorien um 8 Uhr",
+                            "Discussion_Id": "595507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071874",
+                                    "Author": "Thomas Franklin Cory",
+                                    "DateTime": "2024-05-21T01:37:04+02:00",
+                                    "Content": "Hallo allerseits, ab dieser Woche legen wir dienstags und mittwochs die parallel stattfindenden 8-Uhr-Tutorien zusammen. Das zusammengelegte Tutorium am Dienstag um 8 Uhr findet im Raum FH 302 statt, das Tutorium am Mittwoch um 8 Uhr im Raum FH 312. Viele Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 1 online",
+                            "Discussion_Id": "590969",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064712",
+                                    "Author": "Thomas Franklin Cory",
+                                    "DateTime": "2024-04-29T18:08:01+02:00",
+                                    "Content": "Hallo allerseits, Hausaufgabe 1 steht ab sofort zur Verfügung und kann bis zum 13.05. um 23:59 Uhr bearbeitet werden. Bitte lest euch die Hinweise im Ausgabenblatt gründlich durch, bevor ihr mit der Bearbeitung beginnt und achtet bei der Abgabe unbedingt darauf, die geforderte Ordnerstruktur zu einzuhalten. Wir wünschen euch viel Spaß bei der Bearbeitung! Viele Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1788568",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fehler in der Aufgabenstellung der HA4 (4.1.2)",
+                            "Discussion_Id": "600381",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079119",
+                                    "Author": "Constantin Conrad Stahl",
+                                    "DateTime": "2024-06-11T17:11:21+02:00",
+                                    "Content": "Sehr geehrter Herr Cory, mir ist gerade ein Fehler bei Bearbeitung der Hausaufgaben 4.1.2 aufgefallen. Finden Sie die durchschnittliche Teilnehmerzahl aller Vorlesungen. long tutorialCount = events.stream()         .filter(x -> true) //TODO: get non-lecture events         .count();  return events.stream()         .filter(x -> true) //TODO: get non-lecture events         .map(x) //TODO: map to participant count         .reduce(0, (x,y) -> 0) //TODO: add up the participant counts         .doubleValue() / tutorialCount;  Ich wollte Sie darauf hinweisen, das die Aufgabenstellung irreführend ist bzgl. ob man nun die lecture-events oder die non-lectures-events berücksichtigen soll.  MfG Constantin Stahl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zu den Janis &amp; Loris Zoom Link",
+                            "Discussion_Id": "597028",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074173",
+                                    "Author": "Mohammad Bilal Butt",
+                                    "DateTime": "2024-05-27T14:23:07+02:00",
+                                    "Content": "Was hat es sich mit den Zoom Links von Janis und Loris auf sich?  Was wird da gemacht ? Ich konnte nirgendwo Information über diese Zoom Links finden. MfG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074186",
+                                    "Author": "Janis Meng Hahn",
+                                    "DateTime": "2024-05-27T14:46:11+02:00",
+                                    "Content": "Die sind irrelevant wenn du nicht in unseren Tutorien bist, ich habe den angelegt und wohl nicht wieder von der ISIS-Seite genommen weil ich den für meine Tutorien brauche",
+                                    "Response to": "p1074173"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hilfsmittel Klausur",
+                            "Discussion_Id": "590466",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063924",
+                                    "Author": "Minh Quân Tran",
+                                    "DateTime": "2024-04-28T02:40:03+02:00",
+                                    "Content": "Hallo, Ich erstelle lieber einen Spickzettel über das Semester als kurz vor der Klausur, daher die Frage: Steht schon fest welche Hilfsmittel bzw Spickzettel in der Klausur erlaubt sind?  Wenn ja, in welchen Format? Wäre ein handschriftlich digitales und buntes Spickzettel, welcher ausgedruckt wird, erlaubt? Grüße Minh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorienplan",
+                            "Discussion_Id": "588515",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060934",
+                                    "Author": "Berra Akbas",
+                                    "DateTime": "2024-04-22T15:38:19+02:00",
+                                    "Content": "Wann wird der Tutorienplan veröffentlicht?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beginn der Übungen",
+                            "Discussion_Id": "587877",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059868",
+                                    "Author": "Mohammad Zaghmout",
+                                    "DateTime": "2024-04-19T20:24:00+02:00",
+                                    "Content": "Starten eigentlich die Übungen ab den 07.05 obwohl auf Moses steht, dass der Startdatum schon der 22.04 ist ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059974",
+                                    "Author": "Janis Meng Hahn",
+                                    "DateTime": "2024-04-20T12:35:43+02:00",
+                                    "Content": "Ja, die ersten Tutorien wird es erst am 07.05. geben da der Mittwoch davor ein Feiertag ist und somit die Hälfte der Tutorien entfallen würde in der KW 18. Der Übungsbetrieb startet also in der KW 19",
+                                    "Response to": "p1059868"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Stehen die Klausurtermine schon fest?",
+                            "Discussion_Id": "585711",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056670",
+                                    "Author": "Andreas Hartwig",
+                                    "DateTime": "2024-04-13T17:54:22+02:00",
+                                    "Content": "Falls Sie / Ihr schon wissen wann die Prüfungstermien stattfinden, wäre es sehr nett die Daten hier schon zu teilen. Viele Grüße Andreas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057506",
+                                    "Author": "Abdulmuttalip Yusuf Pilan",
+                                    "DateTime": "2024-04-16T10:04:02+02:00",
+                                    "Content": "Es gibt schon Termine für die Prüfungen nur sind die Jahre falsch eingetragen.  02.08.2023 -> 02.08.2024  So müsste es richtig sein.",
+                                    "Response to": "p1056670"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsschein schon erhalten",
+                            "Discussion_Id": "586139",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057297",
+                                    "Author": "Irem Gizer",
+                                    "DateTime": "2024-04-15T18:07:05+02:00",
+                                    "Content": "Guten Tag,  ich habe letztes Jahr an diesem Modul teilgenommen und den Übungsschein erhalten. Kann ich ihn dieses Jahr anerkennen lassen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057442",
+                                    "Author": "Alexander Leis",
+                                    "DateTime": "2024-04-16T08:22:45+02:00",
+                                    "Content": "Hi, wurde schon beantwortet: \"das Hausaufgabenkriterium aus vergangenen Semestern bleibt bestehen, ohne dass ihr hierfür etwas tun müsst. Ich empfehle euch trotzdem, euch für die Übung anzumelden und daran teilzunehmen, damit ihr optimal auf die Prüfung vorbereitet seid.\".",
+                                    "Response to": "p1057297"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung Übung bei Hausaufgabenkriterium in vergangenem Semester",
+                            "Discussion_Id": "585686",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056617",
+                                    "Author": "Sophia Carmina Trimceski",
+                                    "DateTime": "2024-04-12T22:09:51+02:00",
+                                    "Content": 
