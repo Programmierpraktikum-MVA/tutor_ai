@@ -31,19 +31,19 @@ def setup_session_with_cookies(driver):
     return session
 
 #downloads the video
-def download_video(session, video_url, local_video_path, title):
+def download_video(session, video_url, local_video_path, title, href):
     response = session.get(video_url, stream=True)
     if response.status_code == 200:
         with open(local_video_path, 'wb') as f:
             for chunk in response.iter_content(1024):
                 f.write(chunk)
-        log_entry(title, video_url)
+        log_entry(title, video_url, href)
     else:
         print(f"Failed to download video from {video_url}, Response Code = {response.status_code}")
 
 
-def log_entry(title, link):
-    entry = {"Title": title, "Link": link}
+def log_entry(title, link, href):
+    entry = {"Title": title, "Link": link, "Website": href}
     try:
         with open('download_log.json', 'r+') as log_file:
             log_data = json.load(log_file)
@@ -88,7 +88,7 @@ def scrape_and_extract_transcript(driver, courseId, queue):
                         path = f'{folder_path}/{title}'
                         local_video_path = f'{path}.mp4'
                         local_audio_path = f'{path}.mp3'
-                        download_video(session, video_source_url, local_video_path, title)
+                        download_video(session, video_source_url, local_video_path, title, href)
                         queue.put(local_video_path)
                         #extract_audio(local_video_path, local_audio_path)
                         #transcribe_audio(local_audio_path, title, folder_path)

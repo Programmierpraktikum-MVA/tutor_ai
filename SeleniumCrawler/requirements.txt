@@ -1,0 +1,3 @@
+dropbox
+selenium
+git+https://github.com/linto-ai/whisper-timestamped
