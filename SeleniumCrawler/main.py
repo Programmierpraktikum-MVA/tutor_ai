@@ -1,5 +1,4 @@
 import queue
-
 from scraper import start_crawl
 from dropbox import process_queue
 import multiprocessing

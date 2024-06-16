@@ -9,7 +9,6 @@ import os
 import json
 from transcribe import transcribe_audio
 import time
-from scraper import relogin
 
 
 
@@ -100,5 +99,4 @@ def scrape_and_extract_transcript(driver, courseId, queue):
         except (NoSuchElementException, TimeoutException):
             print(f"Timeout or element not found on page {href}.")
 
-        #relogin(driver)
 

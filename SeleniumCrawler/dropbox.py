@@ -7,6 +7,7 @@ def upload_to_dropbox(local_file_path, dropbox_path, DROPBOX_ACCESS_TOKEN):
     dbx = dropbox.Dropbox(DROPBOX_ACCESS_TOKEN)
     with open(local_file_path, "rb") as f:
         dbx.files_upload(f.read(), dropbox_path)
+        os.remove(local_file_path)
     print(f"Uploaded {local_file_path} to Dropbox as {dropbox_path}")
 
 
