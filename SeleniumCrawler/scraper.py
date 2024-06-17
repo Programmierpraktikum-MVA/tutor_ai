@@ -8,6 +8,8 @@ import time
 import os
 import queue
 
+
+
 def ensure_folder_exists(folder_path):
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
@@ -15,20 +17,14 @@ def ensure_folder_exists(folder_path):
     else:
         print(f"Folder '{folder_path}' already exists.")
 
-def relogin(driver):
+def relogin(driver, username, password):
     logout(driver)
     time.sleep(3)
-    login(driver)
+    login(driver, username, password)
 
 
-def login(driver):
-
-    with open('config.json') as config_file:
-        config_data = json.load(config_file)
-
-    # Extract username and password from config data
-    USERNAME_TOKEN = config_data['username']
-    PASSWORD_TOKEN = config_data['password']
+def login(driver, username, password):
+    time.sleep(2)
 
     print('Logging in...')
 
@@ -46,8 +42,8 @@ def login(driver):
         EC.presence_of_element_located((By.ID, "password"))
     )
 
-    username_login.send_keys(USERNAME_TOKEN)
-    password_login.send_keys(PASSWORD_TOKEN)
+    username_login.send_keys(username)
+    password_login.send_keys(password)
 
     final_login_button = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.ID, "login-button"))
@@ -63,11 +59,14 @@ def logout(driver):
 
 
 
-def start_crawl(queue):
+def start_crawl(queue, username, password):
+
+
+
     print("1")
     driver = webdriver.Chrome()
     print("2")
-    login(driver)
+    login(driver, username, password)
     print("3")
     get_all_course_id.get_all_course_id(driver)
     print("4")
@@ -82,13 +81,15 @@ def start_crawl(queue):
     for course_id in course_ids:
         scrape_course.scrape_course(driver, course_id)
         scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id, queue)
-        relogin(driver)
+        relogin(driver, username, password)
     queue.put("end.txt")
     driver.quit()
 
 def main():
+    username = input("Enter your username: ")
+    password = input("Enter your password: ")
     video_queue = queue.Queue()
-    start_crawl(video_queue)
+    start_crawl(video_queue, username, password)
 
 if __name__ == "__main__":
     main()

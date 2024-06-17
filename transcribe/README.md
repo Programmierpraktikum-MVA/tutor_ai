@@ -26,7 +26,7 @@ Follow these steps to get your Tutor AI transcriber up and running:
    ```
 4. **Install ffmpeg**
    ```
-   https://ffmpeg.org/download.html#build-windows
+   sudo apt install ffmpeg
    ```
 
 ## Usage
