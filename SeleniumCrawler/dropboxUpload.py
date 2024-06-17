@@ -44,22 +44,22 @@ def process_queue(file_queue):
 
     while True:
         if not file_queue.empty():
-            file_name = file_queue.get()
+            file_path = file_queue.get()
 
-            if file_name == "end.txt":
+            if file_path == "end.txt":
                 break
 
-            if os.path.exists(file_name):
+            if os.path.exists(file_path):
                 try:
-                    upload_to_dropbox(file_name, f"/{file_name}", dbx)
+                    upload_to_dropbox(file_path, f"/{file_path}", dbx)
                 except dropbox.exceptions.AuthError as e:
                     print(f"AuthError: {e}")
                     # Refresh the access token if it expires
                     access_token = refresh_access_token(REFRESH_TOKEN, APP_KEY, APP_SECRET)
                     dbx = dropbox.Dropbox(access_token)
-                    upload_to_dropbox(file_name, f"/{file_name}", dbx)
+                    upload_to_dropbox(file_path, f"/{file_path}", dbx)
             else:
-                print(f"File {file_name} does not exist")
+                print(f"File {file_path} does not exist")
         time.sleep(1)
 
 # Example usage

@@ -2,10 +2,26 @@ import whisper_timestamped as whisper
 import time
 import os
 import json
+import subprocess
 
 MODELSIZE = "small"
+def extract_audio(local_video_path_no_ext):
+    try:
+        ffmpeg_command = f'ffmpeg -i "{local_video_path_no_ext}.mp4" -vn -acodec libmp3lame -y "{local_video_path_no_ext}.mp3"'
+        subprocess.call(ffmpeg_command, shell=True)
+    except Exception as e:
+        print(f"Error during audio extraction: {e}")
 
-def transcribe_audio(file_path, file_name, folder_path):
+
+
+def change_mp4_extension_to_mp3(file_name):
+    if file_name.endswith('.mp4'):
+        return file_name[:-4] + '.mp3'
+    else:
+        return file_name
+
+def transcribe_audio(file_path_no_ext, final_queue):
+    file_path = file_path_no_ext + '.mp3'
     print("Called Transcribe_audio")
     now = time.time()
     audio = whisper.load_audio(file_path)
@@ -24,7 +40,7 @@ def transcribe_audio(file_path, file_name, folder_path):
     }
 
     # Define the path for the transcriptions.json file
-    json_file_path = f'{folder_path}/{file_name}.json'
+    json_file_path = file_path_no_ext + '.json'
 
     # Check if the file exists, if not create it and write the data
     if not os.path.exists(json_file_path):
@@ -37,6 +53,31 @@ def transcribe_audio(file_path, file_name, folder_path):
             existing_data.append(data)  # Append the new data to the list
             f.seek(0)
             json.dump(existing_data, f)
+
+
+    final_queue.put(file_path_no_ext + '.mp4')
+    final_queue.put(file_path_no_ext + '.mp3')
+    final_queue.put(file_path_no_ext + '.json')
+
+
+
+def process_transcribe_queue(video_queue, final_queue):
+
+    while True:
+        if not video_queue.empty():
+            file_path = video_queue.get()
+
+            if file_path == "end.txt":
+                break
+
+            if os.path.exists(file_path):
+                if file_path.endswith('.mp4'):
+                    file_path = file_path[:-4]
+                extract_audio(file_path)
+                transcribe_audio(file_path, final_queue)
+            else:
+                print(f"File {file_path} does not exist")
+        time.sleep(1)
 
 
 def create_segment(data):

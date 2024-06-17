@@ -82,7 +82,7 @@ def start_crawl(queue):
     for course_id in course_ids:
         scrape_course.scrape_course(driver, course_id)
         scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id, queue)
-        relogin()
+        relogin(driver)
     queue.put("end.txt")
     driver.quit()
 
