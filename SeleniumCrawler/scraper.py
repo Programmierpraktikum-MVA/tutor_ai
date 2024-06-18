@@ -4,6 +4,7 @@ import json
 from IsisModules import get_all_course_id, scrape_course, scrape_all_course_videos
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 import time
 import os
 import queue
@@ -63,8 +64,15 @@ def start_crawl(queue, username, password):
 
 
 
+
     print("1")
     driver = webdriver.Chrome()
+
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Run in headless mode
+    chrome_options.add_argument("--no-sandbox")  # Bypass OS security model
+    chrome_options.add_argument("--disable-dev-shm-usage")  # Overcome limited resource problems
+
     print("2")
     login(driver, username, password)
     print("3")
