@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 * {
@@ -15,7 +16,7 @@ body {
   background: #4070f4;
 }
 
-.login-wrapper {
+.registration-wrapper {
   position: relative;
   max-width: 430px;
   width: 100%;
@@ -25,14 +26,14 @@ body {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 
-.login-wrapper h2 {
+.registration-wrapper h2 {
   position: relative;
   font-size: 22px;
   font-weight: 600;
   color: #333;
 }
 
-.login-wrapper h2::before {
+.registration-wrapper h2::before {
   content: '';
   position: absolute;
   left: 0;
@@ -43,16 +44,16 @@ body {
   background: #4070f4;
 }
 
-.login-wrapper form {
+.registration-wrapper form {
   margin-top: 30px;
 }
 
-.login-wrapper .login-input-box {
+.registration-wrapper .registration-input-box {
   height: 52px;
   margin: 18px 0;
 }
 
-.login-wrapper .login-input-box input {
+.registration-wrapper .registration-input-box input {
   height: 100%;
   width: 100%;
   outline: none;
@@ -66,30 +67,30 @@ body {
   transition: all 0.3s ease;
 }
 
-.login-wrapper .login-input-box input:focus,
-.login-wrapper .login-input-box input:valid {
+.registration-wrapper .registration-input-box input:focus,
+.registration-wrapper .registration-input-box input:valid {
   border-color: #4070f4;
 }
 
-.login-wrapper form .policy {
+.registration-wrapper form .policy {
   display: flex;
   align-items: center;
 }
 
-.login-wrapper form h3 {
+.registration-wrapper form h3 {
   color: #707070;
   font-size: 14px;
   font-weight: 500;
   margin-left: 10px;
 }
 
-.login-wrapper .login-button {
+.registration-wrapper .registration-button {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.login-wrapper .login-button input {
+.registration-wrapper .registration-button input {
   color: #fff;
   letter-spacing: 1px;
   border: none;
@@ -103,21 +104,21 @@ body {
   transition: background 0.3s ease;
 }
 
-.login-wrapper .login-button input:hover {
+.registration-wrapper .registration-button input:hover {
   background: #0e4bf1;
 }
 
-.login-wrapper form .text h3 {
+.registration-wrapper form .text h3 {
   color: #333;
   width: 100%;
   text-align: center;
 }
 
-.login-wrapper form .text h3 a {
+.registration-wrapper form .text h3 a {
   color: #4070f4;
   text-decoration: none;
 }
 
-.login-wrapper form .text h3 a:hover {
+.registration-wrapper form .text h3 a:hover {
   text-decoration: underline;
 }

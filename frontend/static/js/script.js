@@ -1,3 +1,4 @@
+
 autosize(document.getElementById('message-input'));
 
 var chatBox = document.getElementById('chat-box');

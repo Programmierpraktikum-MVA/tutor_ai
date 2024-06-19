@@ -7,42 +7,42 @@ import requests
 import subprocess
 import os
 import json
+from transcribe import transcribe_audio
+import time
 
 
+
+KEEP_DOWNLOADED_VIDEOS = False
+
+#gets mp3 from mp4 file
 def extract_audio(local_video_path, output_file):
     try:
         ffmpeg_command = f'ffmpeg -i "{local_video_path}" -vn -acodec libmp3lame -y "{output_file}"'
         subprocess.call(ffmpeg_command, shell=True)
-        #os.remove(local_video_path)  # Delete the .mp4 file after conversion
     except Exception as e:
         print(f"Error during audio extraction: {e}")
 
-
+#cookies needed to access the videos for whatsoever reason
 def setup_session_with_cookies(driver):
     session = requests.Session()
     for cookie in driver.get_cookies():
         session.cookies.set(cookie['name'], cookie['value'], domain=cookie['domain'])
     return session
 
-
-def download_and_extract_audio(session, video_url, courseID, index):
-    local_video_path = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp4'
-    output_file = f'downloaded_videos/{courseID}/{courseID}_{index}_course_video.mp3'
-    title = f'{courseID}_{index}'
+#downloads the video
+def download_video(session, video_url, local_video_path, title, href):
     response = session.get(video_url, stream=True)
     if response.status_code == 200:
         with open(local_video_path, 'wb') as f:
             for chunk in response.iter_content(1024):
                 f.write(chunk)
-        extract_audio(local_video_path, output_file)
-        log_entry(title, video_url)
-        print(f'Audio extracted and saved as {output_file}')
+        log_entry(title, video_url, href)
     else:
         print(f"Failed to download video from {video_url}, Response Code = {response.status_code}")
 
 
-def log_entry(title, link):
-    entry = {"Title": title, "Link": link}
+def log_entry(title, link, href):
+    entry = {"Title": title, "Link": link, "Website": href}
     try:
         with open('download_log.json', 'r+') as log_file:
             log_data = json.load(log_file)
@@ -54,11 +54,10 @@ def log_entry(title, link):
             json.dump([entry], log_file, indent=4)
 
 
-def scrape_and_extract_audio(driver, courseId):
+def scrape_and_extract_transcript(driver, courseId, queue):
     misce.ensure_json_file_exists("download_log.json")
     folder_path = f"downloaded_videos/{courseId}"
     if not os.path.exists(folder_path):
-        # Create the folder
         os.makedirs(folder_path)
         print(f"Folder created: {folder_path}")
     else:
@@ -76,6 +75,7 @@ def scrape_and_extract_audio(driver, courseId):
     i = 0
     for href in hrefs:
         driver.get(href)
+        time.sleep(3)
         try:
             video_element = driver.find_element(by=By.TAG_NAME, value="video")
             video_source_url = video_element.get_attribute('src')
@@ -83,8 +83,19 @@ def scrape_and_extract_audio(driver, courseId):
                 if not misce.url_exists("download_log.json", video_source_url):
                     if video_source_url not in processed_urls:
                         processed_urls.add(video_source_url)
-                        download_and_extract_audio(session, video_source_url, courseId, i)
+                        title = f'{courseId}_{i}_course_video'
+                        path = f'{folder_path}/{title}'
+                        local_video_path = f'{path}.mp4'
+                        local_audio_path = f'{path}.mp3'
+                        download_video(session, video_source_url, local_video_path, title, href)
+                        queue.put(local_video_path)
+                        #extract_audio(local_video_path, local_audio_path)
+                        #transcribe_audio(local_audio_path, title, folder_path)
+                        #if not keep_downloaded_videos:
+                            #os.remove(local_video_path)
+                            #os.remove(local_audio_path)
                 i = i + 1
         except (NoSuchElementException, TimeoutException):
             print(f"Timeout or element not found on page {href}.")
+
 
