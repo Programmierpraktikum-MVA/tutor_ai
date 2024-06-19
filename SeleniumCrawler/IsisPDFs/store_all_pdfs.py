@@ -14,7 +14,8 @@ def store_all_pdfs(driver):
 
     base_url = "https://isis.tu-berlin.de/course/view.php?id="
 
-    with open("../../course_id_saved.json", 'r') as f:
+    # TODO: Change the directory path to to the final path
+    with open("../course_id_saved.json", 'r') as f:
         course_id_data = json.load(f)
 
     # Iterate over each entry in the course ID database
