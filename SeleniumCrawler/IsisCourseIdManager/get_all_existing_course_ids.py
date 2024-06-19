@@ -1,17 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import json
-
-import time
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs
 import re
 
-def open_all_course_page(driver):
+
+def download_all_course_page(driver):
     # Give the driver enough time to load the full page
-    # driver.implicitly_wait(300)
+    driver.implicitly_wait(300)
 
     # Load the page with all courses
     driver.get("https://isis.tu-berlin.de/course/search.php?excludearchived=1&perpage=all")
@@ -51,23 +48,11 @@ def scrape_all_course_html():
 
     data = {"course_ids": course_ids}
 
-    with open("course_ids.json", "w") as json_file:
+    with open("all_course_ids.json", "w") as json_file:
         json.dump(data, json_file, indent=4)
 
 
-    # # Click "alles aufklappen"
-    # unfold_all = driver.find_element(By.CSS_SELECTOR, ".collapseexpand")
-    # unfold_all.click()
-    #
-    # h3_buttons = driver.find_elements(By.CSS_SELECTOR, "h3.categoryname.aabtn")
-    # print(len(h3_buttons))
-    #
-    # for h3_button in h3_buttons:
-    #     h3_button.click()
-    #     h4_buttons = driver.find_elements(By.CSS_SELECTOR, "h4.categoryname.aabtn")
-    #     print(len(h4_buttons))
-
-
+# Helper function to log in, can be deleted later
 def log_in():
     # Load login data
     with open('config.json') as config_file:
@@ -104,5 +89,4 @@ def log_in():
 
 
 if __name__ == '__main__':
-    print("lets go")
     scrape_all_course_html()
