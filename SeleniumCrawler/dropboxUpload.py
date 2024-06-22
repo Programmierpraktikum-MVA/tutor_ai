@@ -4,6 +4,13 @@ import queue
 import dropbox
 import json
 import requests
+import logging
+import traceback
+import requests.exceptions
+import dropbox.exceptions
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def load_config():
     with open('config.json') as config_file:
@@ -29,10 +36,10 @@ def upload_to_dropbox(local_file_path, dropbox_path, dbx):
     with open(local_file_path, "rb") as f:
         dbx.files_upload(f.read(), dropbox_path)
     os.remove(local_file_path)
-    print(f"Uploaded {local_file_path} to Dropbox as {dropbox_path}")
+    logging.info(f"Uploaded {local_file_path} to Dropbox as {dropbox_path}")
 
 def process_queue(file_queue):
-    print("start process_queue")
+    logging.info("Start processing queue")
     config_data = load_config()
 
     REFRESH_TOKEN = config_data['DROPBOX_REFRESH_TOKEN']
@@ -53,13 +60,34 @@ def process_queue(file_queue):
                 try:
                     upload_to_dropbox(file_path, f"/{file_path}", dbx)
                 except dropbox.exceptions.AuthError as e:
-                    print(f"AuthError: {e}")
-                    # Refresh the access token if it expires
-                    access_token = refresh_access_token(REFRESH_TOKEN, APP_KEY, APP_SECRET)
-                    dbx = dropbox.Dropbox(access_token)
-                    upload_to_dropbox(file_path, f"/{file_path}", dbx)
+                    logging.error(f"AuthError: {e}")
+                    logging.info("Refreshing access token")
+                    try:
+                        access_token = refresh_access_token(REFRESH_TOKEN, APP_KEY, APP_SECRET)
+                        dbx = dropbox.Dropbox(access_token)
+                        upload_to_dropbox(file_path, f"/{file_path}", dbx)
+                    except Exception as e:
+                        logging.error(f"Failed to refresh access token: {e}")
+                except (requests.exceptions.RequestException, dropbox.exceptions.ApiError) as e:
+                    logging.error(f"Network error while uploading {file_path}: {e}")
+                    logging.debug(traceback.format_exc())
+                    # Implement retry logic
+                    retry_attempts = 3
+                    for attempt in range(retry_attempts):
+                        try:
+                            time.sleep(2 ** attempt)  # Exponential backoff
+                            upload_to_dropbox(file_path, f"/{file_path}", dbx)
+                            break
+                        except (requests.exceptions.RequestException, dropbox.exceptions.ApiError) as retry_e:
+                            logging.error(f"Retry {attempt + 1} failed for {file_path}: {retry_e}")
+                            logging.debug(traceback.format_exc())
+                            if attempt == retry_attempts - 1:
+                                logging.error(f"Failed to upload {file_path} after {retry_attempts} attempts")
+                except Exception as e:
+                    logging.error(f"Failed to upload {file_path}: {e}")
+                    logging.debug(traceback.format_exc())
             else:
-                print(f"File {file_path} does not exist")
+                logging.warning(f"File {file_path} does not exist")
         time.sleep(1)
 
 # Example usage
