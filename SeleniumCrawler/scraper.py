@@ -61,10 +61,6 @@ def logout(driver):
 
 
 def start_crawl(queue, username, password):
-
-
-
-
     print("1")
 
     options = ChromiumOptions()
@@ -89,6 +85,8 @@ def start_crawl(queue, username, password):
     for course_id in course_ids:
         scrape_course.scrape_course(driver, course_id)
         scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id, queue)
+        while not queue.empty():
+            continue
         relogin(driver, username, password)
     queue.put("end.txt")
     driver.quit()
