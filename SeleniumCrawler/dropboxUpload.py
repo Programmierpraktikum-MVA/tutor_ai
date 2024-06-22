@@ -9,8 +9,15 @@ import traceback
 import requests.exceptions
 import dropbox.exceptions
 
-# Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# Configure logging to write to a file
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("upload_log.txt"),
+        logging.StreamHandler()  # This will still print to the console
+    ]
+)
 
 def load_config():
     with open('config.json') as config_file:
