@@ -5,6 +5,7 @@ from IsisModules import get_all_course_id, scrape_course, scrape_all_course_vide
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import ChromiumOptions
+from selenium.common.exceptions import TimeoutException
 import time
 import os
 import queue
@@ -53,10 +54,17 @@ def login(driver, username, password):
 
 def logout(driver):
     driver.set_page_load_timeout(5)
-    tu_logout_button = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.LINK_TEXT, "Logout"))
-    )
-    tu_logout_button.click()
+    try:
+        tu_logout_button = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.LINK_TEXT, "Logout"))
+        )
+        tu_logout_button.click()
+    except TimeoutException:
+        driver.get("https://isis.tu-berlin.de/login/index.php")
+        time.sleep(2)
+        driver.get("https://isis.tu-berlin.de/login/index.php")
+
+        print("Logout button not found")
 
 
 
