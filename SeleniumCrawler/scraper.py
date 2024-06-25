@@ -37,9 +37,16 @@ def login(driver, username, password):
     )
     tu_login_button.click()
 
-    username_login = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "username"))
-    )
+    try:
+        username_login = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.ID, "username"))
+        )
+    except TimeoutException:
+        driver.get("https://isis.tu-berlin.de/login/index.php")
+        username_login = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.ID, "username"))
+        )
+
     password_login = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.ID, "password"))
     )
@@ -60,9 +67,16 @@ def logout(driver):
         )
         tu_logout_button.click()
     except TimeoutException:
-        driver.get("https://isis.tu-berlin.de/login/index.php")
-        time.sleep(2)
-        driver.get("https://isis.tu-berlin.de/login/index.php")
+        try:
+            second_tu_logout_button = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.LINK_TEXT, "Logout"))
+            )
+            second_tu_logout_button.click()
+            driver.get("https://isis.tu-berlin.de/login/index.php")
+        except TimeoutException:
+            driver.get("https://isis.tu-berlin.de/login/index.php")
+            time.sleep(2)
+            driver.get("https://isis.tu-berlin.de/login/index.php")
 
         print("Logout button not found")
 
