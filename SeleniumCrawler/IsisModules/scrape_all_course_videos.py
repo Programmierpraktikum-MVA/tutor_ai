@@ -55,6 +55,23 @@ def log_entry(title, link, href):
         with open('download_log.json', 'w') as log_file:
             json.dump([entry], log_file, indent=4)
 
+def log_failed_href(href, filename):
+    try:
+        # Read existing data from the file
+        with open(filename, 'r') as file:
+            failed_hrefs = json.load(file)
+    except FileNotFoundError:
+        # If the file does not exist, start with an empty list
+        failed_hrefs = []
+
+    # Add the new failed href to the list
+    failed_hrefs.append(href)
+
+    # Write the updated list back to the file
+    with open(filename, 'w') as file:
+        json.dump(failed_hrefs, file, indent=4)
+
+
 
 def scrape_and_extract_transcript(driver, courseId, queue):
     misce.ensure_json_file_exists("download_log.json")
@@ -76,7 +93,11 @@ def scrape_and_extract_transcript(driver, courseId, queue):
     hrefs = [link.get_attribute('href') for link in links]
     i = 0
     for href in hrefs:
-        driver.get(href)
+        try:
+            driver.get(href)
+        except TimeoutException:
+            log_failed_href(href, 'failed_hrefs.json')
+            continue
         time.sleep(3)
         try:
             video_element = driver.find_element(by=By.TAG_NAME, value="video")
