@@ -1,4 +1,4 @@
-from scraper import start_crawl
+from scraper import start_single_crawl_but_all_courses
 from dropboxUpload import process_queue
 from transcribe import process_transcribe_queue
 import multiprocessing
@@ -8,7 +8,7 @@ import argparse
 def main(username, password):
     video_queue = multiprocessing.Queue()
     final_queue = multiprocessing.Queue()
-    crawling_start_process = multiprocessing.Process(target=start_crawl, args=(video_queue, username, password))
+    crawling_start_process = multiprocessing.Process(target=start_single_crawl_but_all_courses, args=(video_queue, username, password))
     dropbox_queue_uploading = multiprocessing.Process(target=process_queue, args=(final_queue,))
     transcribtion_process = multiprocessing.Process(target=process_transcribe_queue, args=(video_queue, final_queue,))
     crawling_start_process.start()

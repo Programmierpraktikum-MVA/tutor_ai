@@ -5,7 +5,7 @@ from IsisModules import get_all_course_id, scrape_course, scrape_all_course_vide
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import ChromiumOptions
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 import time
 import os
 import queue
@@ -79,6 +79,53 @@ def logout(driver):
             driver.get("https://isis.tu-berlin.de/login/index.php")
 
         print("Logout button not found")
+
+def start_crawl_single_course(queue, username, password, course_id):
+    print("1")
+
+    options = ChromiumOptions()
+
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options)
+
+
+    print("2")
+    login(driver, username, password)
+    print("4")
+    ensure_folder_exists('downloaded_videos')
+    print("5")
+
+    scrape_course.scrape_course(driver, course_id)
+    scrape_all_course_videos.scrape_and_extract_transcript(driver, course_id, queue)
+    while not queue.empty():
+        continue
+    driver.quit()
+
+def start_single_crawl_but_all_courses(queue, username, password):
+
+    print("1")
+
+    options = ChromiumOptions()
+
+    options.add_argument("--headless=new")
+    driver = webdriver.Chrome(options=options)
+
+
+    print("2")
+    login(driver, username, password)
+    print("3")
+    get_all_course_id.get_all_course_id(driver)
+
+    with open('course_id_saved.json', 'r') as file:
+        course_ids = json.load(file)
+    print("6")
+
+    for course_id in course_ids:
+        try:
+            start_crawl_single_course(queue, username, password, course_id)
+        except (TimeoutException, WebDriverException) as e:
+            print(f"An error occurred: {e}")
+
 
 
 

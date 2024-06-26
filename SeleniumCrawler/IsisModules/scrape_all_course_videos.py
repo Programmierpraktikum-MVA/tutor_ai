@@ -14,16 +14,6 @@ import queue
 
 
 
-KEEP_DOWNLOADED_VIDEOS = False
-
-#gets mp3 from mp4 file
-def extract_audio(local_video_path, output_file):
-    try:
-        ffmpeg_command = f'ffmpeg -i "{local_video_path}" -vn -acodec libmp3lame -y "{output_file}"'
-        subprocess.call(ffmpeg_command, shell=True)
-    except Exception as e:
-        print(f"Error during audio extraction: {e}")
-
 #cookies needed to access the videos for whatsoever reason
 def setup_session_with_cookies(driver):
     session = requests.Session()
