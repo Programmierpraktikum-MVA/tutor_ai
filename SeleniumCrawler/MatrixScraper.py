@@ -13,8 +13,8 @@ from selenium.webdriver.chrome.options import Options
 url = "https://chat.tu-berlin.de/#/login"
 
 # Benutzername und Passwort
-username = "matrixnutzername"
-password = "matrixpassword"
+username = "damienfoucard"
+password = "df+t2a5-ekgu3(/R(TF"
 
 # Erstelle eine Instanz des Chrome Webdrivers
 options = Options()
@@ -49,9 +49,9 @@ dialog = wait.until(
 dialog.click()
 driver.implicitly_wait(10)
 
-#@aria-label bei Bedarf ändern um gewollten Chatroom zu crawlen
+#TODO: @aria-label bei Bedarf ändern um gewollten Chatroom zu crawlen
 chatroom = wait.until(
-    EC.element_to_be_clickable((By.XPATH, "//div[@aria-label='Programmierpraktikum – MVA' and @role='treeitem']")))
+    EC.element_to_be_clickable((By.XPATH, "//div[@aria-label='IntroProg' and @role='treeitem']")))
 chatroom.click()
 driver.implicitly_wait(2)
 
@@ -61,7 +61,7 @@ threads_button.click()
 driver.implicitly_wait(10)
 
 # Erstelle ein Verzeichnis für die Threads, falls es noch nicht existiert
-threads_dir = chatroom.get_attribute("aria-label") + ' threads_data'
+threads_dir = chatroom.get_attribute("aria-label") + ''
 if not os.path.exists(threads_dir):
     os.makedirs(threads_dir)
 
@@ -91,7 +91,6 @@ for idx in range(1, thread_count+1):
             sender = sender_element.text
             previous_sender = sender
         except Exception as e:
-            print(f"Sender konnte nicht gefunden werden für Nachricht {message_idx} im Thread {idx}: {e}")
             sender = previous_sender
 
         try:
@@ -99,8 +98,7 @@ for idx in range(1, thread_count+1):
             body_element = driver.find_element(By.CSS_SELECTOR, body_selector)
             body = body_element.text
         except Exception as e:
-            print(f"Nachrichtentext konnte nicht gefunden werden für Nachricht {message_idx} im Thread {idx}: {e}")
-            body = "Keine Nachricht"
+            body = ""
 
         message_data = {
             "Sender": sender,
