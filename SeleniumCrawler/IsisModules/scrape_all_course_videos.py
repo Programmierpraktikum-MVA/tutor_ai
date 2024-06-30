@@ -9,19 +9,10 @@ import os
 import json
 from transcribe import transcribe_audio
 import time
+import multiprocessing
+import queue
 
 
-
-KEEP_DOWNLOADED_VIDEOS = False
-
-#gets mp3 from mp4 file
-def extract_audio(local_video_path, output_file):
-    try:
-        ffmpeg_command = f'ffmpeg -i "{local_video_path}" -vn -acodec libmp3lame -y "{output_file}"'
-        subprocess.call(ffmpeg_command, shell=True)
-        #os.remove(local_video_path)  # Delete the .mp4 file after conversion
-    except Exception as e:
-        print(f"Error during audio extraction: {e}")
 
 #cookies needed to access the videos for whatsoever reason
 def setup_session_with_cookies(driver):
@@ -54,6 +45,23 @@ def log_entry(title, link, href):
         with open('download_log.json', 'w') as log_file:
             json.dump([entry], log_file, indent=4)
 
+def log_failed_href(href, filename):
+    try:
+        # Read existing data from the file
+        with open(filename, 'r') as file:
+            failed_hrefs = json.load(file)
+    except FileNotFoundError:
+        # If the file does not exist, start with an empty list
+        failed_hrefs = []
+
+    # Add the new failed href to the list
+    failed_hrefs.append(href)
+
+    # Write the updated list back to the file
+    with open(filename, 'w') as file:
+        json.dump(failed_hrefs, file, indent=4)
+
+
 
 def scrape_and_extract_transcript(driver, courseId, queue):
     misce.ensure_json_file_exists("download_log.json")
@@ -75,7 +83,11 @@ def scrape_and_extract_transcript(driver, courseId, queue):
     hrefs = [link.get_attribute('href') for link in links]
     i = 0
     for href in hrefs:
-        driver.get(href)
+        try:
+            driver.get(href)
+        except TimeoutException:
+            log_failed_href(href, 'failed_hrefs.json')
+            continue
         time.sleep(3)
         try:
             video_element = driver.find_element(by=By.TAG_NAME, value="video")
@@ -87,14 +99,8 @@ def scrape_and_extract_transcript(driver, courseId, queue):
                         title = f'{courseId}_{i}_course_video'
                         path = f'{folder_path}/{title}'
                         local_video_path = f'{path}.mp4'
-                        local_audio_path = f'{path}.mp3'
                         download_video(session, video_source_url, local_video_path, title, href)
                         queue.put(local_video_path)
-                        #extract_audio(local_video_path, local_audio_path)
-                        #transcribe_audio(local_audio_path, title, folder_path)
-                        #if not keep_downloaded_videos:
-                            #os.remove(local_video_path)
-                            #os.remove(local_audio_path)
                 i = i + 1
         except (NoSuchElementException, TimeoutException):
             print(f"Timeout or element not found on page {href}.")
