@@ -15,14 +15,14 @@ llm = Ollama(model="llama3", request_timeout=360.0)
 embedding_llm = OllamaEmbedding(model_name="nomic-embed-text")
 Settings.llm = llm
 Settings.embed_model = embedding_llm
-Settings.chunk_size = 512
+Settings.chunk_size = 1024
 
 
 storage_context = StorageContext.from_defaults(persist_dir="./storage")
 index = load_index_from_storage(storage_context=storage_context)
 
 
-memory = ChatMemoryBuffer.from_defaults(token_limit=3900)
+memory = ChatMemoryBuffer.from_defaults(token_limit=2500)
 
 
 def web_search(query):

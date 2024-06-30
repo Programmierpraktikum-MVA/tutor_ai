@@ -16,7 +16,7 @@ embedding_llm = OllamaEmbedding(model_name="nomic-embed-text")
 
 Settings.llm = llm
 Settings.embed_model = embedding_llm
-Settings.chunk_size = 512
+Settings.chunk_size = 1024
 
 # There is a folder called data in which you have to put your documents
 documents = SimpleDirectoryReader("data", recursive=True).load_data()
