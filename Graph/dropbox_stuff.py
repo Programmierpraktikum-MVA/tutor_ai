@@ -1,13 +1,8 @@
 import os
-import time
-import queue
 import dropbox
 import json
 import requests
 import logging
-import traceback
-import requests.exceptions
-import dropbox.exceptions
 
 def load_config():
     with open('config.json') as config_file:
@@ -31,7 +26,6 @@ def refresh_access_token(refresh_token, app_key, app_secret):
 
 def download_json_files_from_dropbox(dbx, dropbox_folder_path, local_folder_path):
     try:
-        # List files in the specified Dropbox folder
         logging.info(f"Listing folder contents at path: {dropbox_folder_path}")
         result = dbx.files_list_folder(dropbox_folder_path, recursive=True)
 
@@ -39,12 +33,8 @@ def download_json_files_from_dropbox(dbx, dropbox_folder_path, local_folder_path
         for entry in result.entries:
             # Check if the entry is a file and ends with .json
             if isinstance(entry, dropbox.files.FileMetadata) and entry.name.endswith('.json'):
-                # Create the local path preserving the folder structure
-                local_path = os.path.join(local_folder_path, entry.path_lower.lstrip('/'))
-                local_dir = os.path.dirname(local_path)
-
-                # Create directories if they do not exist
-                os.makedirs(local_dir, exist_ok=True)
+                # Create the local path without preserving the folder structure
+                local_path = os.path.join(local_folder_path, os.path.basename(entry.path_lower))
 
                 # Download the file
                 with open(local_path, "wb") as f:
@@ -57,11 +47,9 @@ def download_json_files_from_dropbox(dbx, dropbox_folder_path, local_folder_path
 
 def list_dropbox_paths(dbx, dropbox_folder_path):
     try:
-        # List files in the specified Dropbox folder
         logging.info(f"Listing folder contents at path: {dropbox_folder_path}")
         result = dbx.files_list_folder(dropbox_folder_path, recursive=True)
 
-        # Iterate over each entry
         for entry in result.entries:
             logging.info(f"Found: {entry.path_lower}")
 
@@ -79,15 +67,12 @@ def start_this():
     access_token = refresh_access_token(REFRESH_TOKEN, APP_KEY, APP_SECRET)
     dbx = dropbox.Dropbox(access_token)
 
-    # Define your Dropbox folder path and local folder path for downloading JSON files
     DROPBOX_FOLDER_PATH = config_data['DROPBOX_FOLDER_PATH']
     LOCAL_FOLDER_PATH = config_data['LOCAL_FOLDER_PATH']
 
-    # Download JSON files before processing the upload queue
     download_json_files_from_dropbox(dbx, DROPBOX_FOLDER_PATH, LOCAL_FOLDER_PATH)
 
 if __name__ == "__main__":
-    # Configure logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     print("start")
