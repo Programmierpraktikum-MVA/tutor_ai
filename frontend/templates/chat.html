@@ -13,84 +13,106 @@
 
 <body>
 <div class="container py-5 px-4">
-    <div class="row rounded-lg overflow-hidden shadow">
-        <!-- Chat Box -->
-        <div class="col-12 px-0">
-            <div id="chat-box" class="px-4 py-5 chat-box bg-white">
-                <!-- User message -->
-                <div class="media w-50 ml-auto mb-3">
-                    <div class="media-body">
-                        <p class="text-small mb-1 text-muted"><span class="mr-1">👨‍🎓</span>{{ username }}<span class="small text-muted"></span></p>
-                        <div class="bg-primary rounded py-2 px-3 mb-2">
-                            <p class="text-small mb-0 text-white">Hi, ich brauche Hilfe!</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Bot message -->
-                <div class="media w-50 mb-3">
-                    <div class="media-body ml-3">
-                        <p class="text-small mb-1 text-muted">
-                            <span class="mr-1">
-                                <img src="..\static\images\Logo.png" width="32" height="32">
-                            </span>
-                            Tutor AI
-                            <span class="small text-muted"></span>
-                        </p>
-                        <div class="bg-light rounded py-2 px-3 mb-2">
-                            <p class="text-small mb-0 text-muted">Wie kann ich dir helfen?</p>
-                        </div>
-                    </div>
-                </div>
-
-                {% for c in chat %}
-                {% if c.type == 'user' %}
-                
-                <div class="media w-50 ml-auto mb-3">
-                    <div class="media-body">
-                        <p class="text-small mb-1 text-muted"><span class="mr-1">👨‍🎓</span>{{ username }}<span class="small text-muted"></span></p>
-                        <div class="bg-primary rounded py-2 px-3 mb-2">
-                            <p class="text-small mb-0 text-white">{{ c.message }}</p>
-                        </div>
-                    </div>
-                </div>
-                
-                {% elif c.type == 'bot' %}
-                
-                <div class="media w-50 mb-3">
-                    <div class="media-body ml-3">
-                        <p class="text-small mb-1 text-muted">
-                            <span class="mr-1">
-                                <img src="..\static\images\Logo.png" width="32" height="32">
-                            </span>
-                            Tutor AI
-                            <span class="small text-muted"></span>
-                        </p>
-                        <div class="bg-light rounded py-2 px-3 mb-2">
-                            <p class="text-small mb-0 text-muted">{{c.message}}</p>
-                        </div>
-                    </div>
-                </div>
-                
-                {% endif %}
-                {% endfor %}
-            
+  <div class="row rounded-lg overflow-hidden shadow">
+    <!-- Chat Box -->
+    <div class="col-12 px-0">
+      <div id="chat-box" class="px-4 py-5 chat-box">
+        <!-- User message -->
+        <div class="media w-50 ml-auto mb-3">
+          <div class="media-body">
+            <p class="text-small mb-1 text-muted"><span class="mr-1">👨‍🎓</span>{{ username }}<span class="small text-muted"></span></p>
+            <div class="bg-primary rounded py-2 px-3 mb-2">
+              <p class="text-small mb-0 text-white">Hi, ich brauche Hilfe!</p>
             </div>
-            
-            <!-- Typing area -->
-            <form class="bg-light">
-                <div class="input-group">
-                    <textarea id="message-input" placeholder="Type a message" aria-describedby="button-addon2" class="form-control rounded-0 border-0 py-4 bg-light"></textarea>
-                    <div class="input-group-append">
-                        <button id="button-addon2" type="button" class="btn btn-link"> <i class="fa fa-paper-plane"></i></button>
-                    </div>
-                </div>
-            </form>
+          </div>
         </div>
-        <form action="/logout" method="POST">
-            <button id="logoutButton">Logout</button>
-        </form>
+
+        <!-- Bot message -->
+        <div class="media w-50 mb-3">
+          <div class="media-body ml-3">
+            <p class="text-small mb-1 text-muted">
+                            <span class="mr-1">
+                                <img src="..\static\images\Logo.png" width="32" height="32">
+                            </span>
+              Tutor AI
+              <span class="small text-muted"></span>
+            </p>
+            <div class="bg-light rounded py-2 px-3 mb-2">
+              <p class="text-small mb-0 text-muted">Wie kann ich dir helfen?</p>
+            </div>
+          </div>
+        </div>
+
+        {% for c in chat %}
+        {% if c.type == 'user' %}
+
+        <div class="media w-50 ml-auto mb-3">
+          <div class="media-body">
+            <p class="text-small mb-1 text-muted"><span class="mr-1">👨‍🎓</span>{{ username }}<span class="small text-muted"></span></p>
+            <div class="bg-primary rounded py-2 px-3 mb-2">
+              <p class="text-small mb-0 text-white">{{ c.message }}</p>
+            </div>
+          </div>
+        </div>
+
+        {% elif c.type == 'bot' %}
+
+        <div class="media w-50 mb-3">
+          <div class="media-body ml-3">
+            <p class="text-small mb-1 text-muted">
+                            <span class="mr-1">
+                                <img src="..\static\images\Logo.png" width="32" height="32">
+                            </span>
+              Tutor AI
+              <span class="small text-muted"></span>
+            </p>
+            <div class="bg-light rounded py-2 px-3 mb-2">
+              <p class="text-small mb-0 text-muted">{{c.message}}</p>
+            </div>
+          </div>
+        </div>
+
+        {% endif %}
+        {% endfor %}
+
+      </div>
+
+      <!-- Typing area -->
+      <form class="bg-light">
+        <div class="input-group">
+          <textarea id="message-input" placeholder="Type a message" aria-describedby="button-addon2" class="form-control rounded-0 border-0 py-4 bg-light"></textarea>
+          <div class="input-group-append">
+            <button id="button-addon2" type="button" class="btn btn-link"> <i class="fa fa-paper-plane"></i></button>
+          </div>
+        </div>
+      </form>
     </div>
+
+    <button id="settings-toggle"><i class="fa fa-cog"></i></button>
+    <div id="settings-panel" class="settings-panel">
+      <h3>Settings</h3>
+      <label for="background-select">Select Background:</label>
+      <select id="background-select" class="form-control">
+        <option value="default">Default</option>
+        <option value="background1">Background 1</option>
+        <option value="background2">Background 2</option>
+      </select>
+      <br>
+      <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="dark-mode-switch">
+        <label class="custom-control-label" for="dark-mode-switch">Dark Mode</label>
+      </div>
+      <br>
+      <form action="/logout" method="POST">
+        <button  id="logoutButton" class="btn-34"><span>Logout</span></button>
+      </form>
+      <button id="settings-toggle2"><i class="fa fa-cog"></i></button>
+
+    </div>
+
+  </div>
+</div>
+  </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -223,6 +245,91 @@ function delete_rating_stars() {
 function rateMessage() {
     alert("Rating functionality is not implemented yet.");
 }
+// JavaScript für Dark-Mode und Einstellungen
+var body = document.body;
+var chatBox = document.getElementById('chat-box');
+var settingsPanel = document.getElementById('settings-panel');
+var settingsToggle = document.getElementById('settings-toggle');
+var settingsToggle2 = document.getElementById('settings-toggle2');
+var darkModeSwitch = document.getElementById('dark-mode-switch');
+
+
+
+
+
+// Dark Mode Toggle
+darkModeSwitch.addEventListener('change', function() {
+    body.classList.toggle('dark-mode');
+    chatBox.classList.toggle('dark-mode');
+    settings.classList.toggle('dark-mode');
+    var isDarkMode = body.classList.contains('dark-mode');
+    localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+});
+
+
+
+
+// Eventlistener für den ersten Settings Toggle Button
+settingsToggle.addEventListener('click', function() {
+    settingsPanel.classList.toggle('open'); // Toggle-Klasse für Öffnen/Schließen des Panels
+    document.getElementById('settings-overlay').classList.toggle('active'); // Toggle für das Overlay
+});
+
+// Eventlistener für den zweiten Settings Toggle Button
+settingsToggle2.addEventListener('click', function() {
+    settingsPanel.classList.toggle('open'); // Toggle-Klasse für Öffnen/Schließen des Panels
+    document.getElementById('settings-overlay').classList.toggle('active'); // Toggle für das Overlay
+});
+
+// Eventlistener für das Schließen des Panels bei Klick außerhalb
+document.getElementById('settings-overlay').addEventListener('click', function() {
+    settingsPanel.classList.remove('open');
+    this.classList.remove('active');
+});
+
+
+
+
+// Überprüfen und Anwenden des Themes beim Laden
+var savedTheme = localStorage.getItem('theme');
+if (savedTheme === 'dark') {
+    body.classList.add('dark-mode');
+    chatBox.classList.add('dark-mode');
+    settings.classList.add('dark-mode');
+    darkModeSwitch.checked = true;
+}
+
+// Einstellungsfeld anzeigen/verstecken
+settingsToggle.addEventListener('click', function() {
+    settingsPanel.classList.toggle('open');
+    document.getElementById('settings-overlay').classList.toggle('active');
+});
+
+// Schließen des Einstellungsfensters bei Klick außerhalb
+document.getElementById('settings-overlay').addEventListener('click', function() {
+    settingsPanel.classList.remove('open');
+    this.classList.remove('active');
+});
+darkModeSwitch.addEventListener('change', function() {
+    body.classList.toggle('dark-mode');
+    chatBox.classList.toggle('dark-mode');
+    settingsPanel.classList.toggle('dark-mode'); // Hinzugefügt
+    var isDarkMode = body.classList.contains('dark-mode');
+    localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+});
+
+// Überprüfen und Anwenden des Themes beim Laden
+var savedTheme = localStorage.getItem('theme');
+if (savedTheme === 'dark') {
+    body.classList.add('dark-mode');
+    chatBox.classList.add('dark-mode');
+    settingsPanel.classList.add('dark-mode'); // Hinzugefügt
+    darkModeSwitch.checked = true;
+}
+
+
+
+
 </script>
 </body>
 </html>
