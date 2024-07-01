@@ -3,4 +3,6 @@ llama-index-embeddings-ollama
 llama-index-readers-file
 ratings
 flask
-pymongo
+pymongocd
+#ollama pull nomic-embed-text
+#ollama run llama3
