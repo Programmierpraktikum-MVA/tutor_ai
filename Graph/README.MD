@@ -24,6 +24,7 @@ Stellen Sie sicher, dass Sie Python 3.7 oder höher installiert haben.
    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118  # für CUDA 11.8
    pip install torch-geometric
    pip install transformers sentence-transformers
+   pip install networkx matplotlib
    ```
 
 ## Verwendung
