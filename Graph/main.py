@@ -6,19 +6,16 @@ from preprocessing import preprocess_transcripts
 from extractRelations import extract_entities, extract_relations
 from createGraph import create_graph, add_sentence_to_graph
 
-
-def initialize_models():
+def initialize_models(device):
     nlp = spacy.load('de_core_news_sm')
-    ner_model = pipeline('ner', model='bert-base-german-cased', tokenizer='bert-base-german-cased')
+    ner_model = pipeline('ner', model='bert-base-german-cased', tokenizer='bert-base-german-cased', device=device)
     return nlp, ner_model
-
 
 def process_transcripts(transcripts_folder, nlp):
     sentences = preprocess_transcripts(transcripts_folder)
     return sentences
 
-
-def create_initial_graph(sentences, nlp, ner_model):
+def create_initial_graph(sentences, nlp, ner_model, device):
     all_nodes = []
     all_edges = []
     sentence_start_indices = []
@@ -33,7 +30,7 @@ def create_initial_graph(sentences, nlp, ner_model):
         sentence_start_indices.append(start_index)
 
         all_nodes.extend([1 for _ in entities])  # Dummy-Features für Entitäten
-        edges = torch.tensor(relations, dtype=torch.long).t().contiguous()
+        edges = torch.tensor(relations, dtype=torch.long).t().contiguous().to(device)
 
         if edges.numel() > 0:
             edges = edges + start_index
@@ -42,7 +39,7 @@ def create_initial_graph(sentences, nlp, ner_model):
 
     # Konkatinieren Sie alle Kanten
     if all_edges:
-        all_edges = torch.cat(all_edges, dim=1)
+        all_edges = torch.cat(all_edges, dim=1).to(device)
 
     # Fügen Sie Kanten zwischen den Sätzen hinzu (z.B. von ROOT zu ROOT)
     inter_sentence_edges = []
@@ -52,15 +49,14 @@ def create_initial_graph(sentences, nlp, ner_model):
         inter_sentence_edges.append((from_index, to_index))
 
     if inter_sentence_edges:
-        inter_sentence_edges = torch.tensor(inter_sentence_edges, dtype=torch.long).t().contiguous()
-        all_edges = torch.cat([all_edges, inter_sentence_edges], dim=1)
+        inter_sentence_edges = torch.tensor(inter_sentence_edges, dtype=torch.long).t().contiguous().to(device)
+        all_edges = torch.cat([all_edges, inter_sentence_edges], dim=1).to(device)
 
     # Erstellen Sie den Graphen
-    graph_data = create_graph(all_nodes, all_edges)
+    graph_data = create_graph(all_nodes, all_edges).to(device)
     return graph_data, all_nodes, sentence_start_indices
 
-
-def update_graph_with_new_sentence(graph_data, nlp, all_nodes, sentence_start_indices, sentence, ner_model):
+def update_graph_with_new_sentence(graph_data, nlp, all_nodes, sentence_start_indices, sentence, ner_model, device):
     doc = nlp(sentence)
     entities = extract_entities(sentence)
     new_entities = [1 for _ in entities]  # Dummy-Features für neue Entitäten
@@ -71,37 +67,37 @@ def update_graph_with_new_sentence(graph_data, nlp, all_nodes, sentence_start_in
     )
     return graph_data, all_nodes, sentence_start_indices
 
-
 def save_graph(graph_data, file_path):
     torch.save(graph_data, file_path)
     print(f"Graph saved to {file_path}")
 
-
-def load_graph(file_path):
-    graph_data = torch.load(file_path)
+def load_graph(file_path, device):
+    graph_data = torch.load(file_path, map_location=device)
     print(f"Graph loaded from {file_path}")
     return graph_data
 
-
 def main():
+    # Überprüfen Sie die Verfügbarkeit der GPU
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f"Using device: {device}")
+
     # Initialisieren Sie Modelle
-    nlp, ner_model = initialize_models()
+    nlp, ner_model = initialize_models(device)
 
     # Laden Sie die Transkripte
     transcripts_folder = 'transcripts'
     sentences = process_transcripts(transcripts_folder, nlp)
 
     # Erstellen Sie den initialen Graphen
-    graph_data, all_nodes, sentence_start_indices = create_initial_graph(sentences, nlp, ner_model)
+    graph_data, all_nodes, sentence_start_indices = create_initial_graph(sentences, nlp, ner_model, device)
 
     # Speichern des Graphen
     save_graph(graph_data, 'graph_data.pth')
 
     # Laden des Graphen
-    loaded_graph_data = load_graph('graph_data.pth')
+    loaded_graph_data = load_graph('graph_data.pth', device)
 
     print("Finaler Graph:", loaded_graph_data)
-
 
 if __name__ == "__main__":
     main()

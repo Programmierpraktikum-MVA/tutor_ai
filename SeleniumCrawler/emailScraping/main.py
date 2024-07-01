@@ -32,13 +32,19 @@ try:
 
     # Eingabe der E-Mail-Adresse
     email_input = driver.find_element(By.ID, "identifierId")
-    email_input.send_keys("AdaStruct@gmail.com")
+
+    # Email einfügen
+    email = "email"
+    email_input.send_keys(email)
     email_input.send_keys(Keys.ENTER)
     time.sleep(5)
 
     # Eingabe des Passworts
     password_input = driver.find_element(By.NAME, "Passwd")
-    password_input.send_keys("dfjefiu3t9TIOFK)R")
+
+    # Passwort einfügen
+    password = "password"
+    password_input.send_keys(password)
     password_input.send_keys(Keys.ENTER)
     time.sleep(3)
 
