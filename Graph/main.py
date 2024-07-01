@@ -2,68 +2,80 @@ import os
 import spacy
 import torch
 from transformers import pipeline
+from sentence_transformers import SentenceTransformer
 from preprocessing import preprocess_transcripts
-from extractRelations import extract_entities, extract_relations
+from extractRelations import extract_entities, compute_similarity
 from createGraph import create_graph, add_sentence_to_graph
 
 def initialize_models(device):
     nlp = spacy.load('de_core_news_sm')
     ner_model = pipeline('ner', model='bert-base-german-cased', tokenizer='bert-base-german-cased', device=device)
-    return nlp, ner_model
+    sentence_model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2', device=device)
+    return nlp, ner_model, sentence_model
 
 def process_transcripts(transcripts_folder, nlp):
     sentences = preprocess_transcripts(transcripts_folder)
     return sentences
 
-def create_initial_graph(sentences, nlp, ner_model, device):
+def create_initial_graph(sentences, nlp, ner_model, sentence_model, device):
     all_nodes = []
     all_edges = []
+    all_edge_attrs = []
     sentence_start_indices = []
 
+    # Knoten und Dummy-Features für jeden Satz erstellen
     for sentence in sentences:
-        doc = nlp(sentence)
-        entities = extract_entities(sentence)
-        entity_indices = list(range(len(all_nodes), len(all_nodes) + len(entities)))
-        relations = extract_relations(doc)
+        all_nodes.append([1])  # Dummy-Feature für jeden Satzknoten
 
-        start_index = len(all_nodes)
-        sentence_start_indices.append(start_index)
+    # Ähnlichkeit zwischen Sätzen berechnen und Kanten erstellen
+    similarity_matrix = compute_similarity(sentences)
+    threshold = 0.75  # Ähnlichkeitsschwelle für Kanten
 
-        all_nodes.extend([1 for _ in entities])  # Dummy-Features für Entitäten
-        edges = torch.tensor(relations, dtype=torch.long).t().contiguous().to(device)
+    for i in range(len(sentences)):
+        for j in range(i + 1, len(sentences)):
+            if similarity_matrix[i, j] > threshold:
+                all_edges.append([i, j])
+                all_edge_attrs.append(similarity_matrix[i, j].item())
 
-        if edges.numel() > 0:
-            edges = edges + start_index
+    # Fügen Sie Kanten für aufeinanderfolgende Sätze hinzu
+    for i in range(len(sentences) - 1):
+        all_edges.append([i, i + 1])
+        all_edge_attrs.append(1.0)  # Ein fester Wert für aufeinanderfolgende Sätze
 
-        all_edges.append(edges)
-
-    # Konkatinieren Sie alle Kanten
+    # Konkatinieren Sie alle Kanten und deren Attribute
     if all_edges:
-        all_edges = torch.cat(all_edges, dim=1).to(device)
-
-    # Fügen Sie Kanten zwischen den Sätzen hinzu (z.B. von ROOT zu ROOT)
-    inter_sentence_edges = []
-    for i in range(len(sentence_start_indices) - 1):
-        from_index = sentence_start_indices[i]
-        to_index = sentence_start_indices[i + 1]
-        inter_sentence_edges.append((from_index, to_index))
-
-    if inter_sentence_edges:
-        inter_sentence_edges = torch.tensor(inter_sentence_edges, dtype=torch.long).t().contiguous().to(device)
-        all_edges = torch.cat([all_edges, inter_sentence_edges], dim=1).to(device)
+        all_edges = torch.tensor(all_edges, dtype=torch.long).t().contiguous().to(device)
+        all_edge_attrs = torch.tensor(all_edge_attrs, dtype=torch.float).to(device)
 
     # Erstellen Sie den Graphen
-    graph_data = create_graph(all_nodes, all_edges).to(device)
+    graph_data = create_graph(all_nodes, all_edges, all_edge_attrs).to(device)
     return graph_data, all_nodes, sentence_start_indices
 
-def update_graph_with_new_sentence(graph_data, nlp, all_nodes, sentence_start_indices, sentence, ner_model, device):
+def update_graph_with_new_sentence(graph_data, nlp, all_nodes, sentence_start_indices, sentence, ner_model, sentence_model, device):
     doc = nlp(sentence)
     entities = extract_entities(sentence)
-    new_entities = [1 for _ in entities]  # Dummy-Features für neue Entitäten
-    new_relations = extract_relations(doc)
+    new_entities = [1]  # Dummy-Feature für neuen Satzknoten
+    sentence_start_indices.append(len(all_nodes))
+    all_nodes.append(new_entities)
+
+    # Ähnlichkeit zwischen neuem Satz und bestehenden Sätzen berechnen
+    existing_sentences = [s.text for s in nlp.pipe([s for s in sentences])]
+    new_similarity = compute_similarity([sentence] + existing_sentences)[0, 1:]
+
+    new_relations = []
+    new_edge_attr = []
+    for i, sim in enumerate(new_similarity):
+        if sim > 0.75:
+            new_relations.append([len(all_nodes) - 1, i])
+            new_edge_attr.append(sim.item())
+
+    # Fügen Sie eine Kante für die natürliche Reihenfolge hinzu
+    if len(sentence_start_indices) > 1:
+        new_relations.append([len(all_nodes) - 2, len(all_nodes) - 1])
+        new_edge_attr.append(1.0)
 
     graph_data, all_nodes, sentence_start_indices = add_sentence_to_graph(
-        graph_data, all_nodes, sentence_start_indices, new_entities, new_relations
+        graph_data, all_nodes, sentence_start_indices, new_entities, new_relations, new_edge_attr
     )
     return graph_data, all_nodes, sentence_start_indices
 
@@ -82,14 +94,14 @@ def main():
     print(f"Using device: {device}")
 
     # Initialisieren Sie Modelle
-    nlp, ner_model = initialize_models(device)
+    nlp, ner_model, sentence_model = initialize_models(device)
 
     # Laden Sie die Transkripte
     transcripts_folder = 'transcripts'
     sentences = process_transcripts(transcripts_folder, nlp)
 
     # Erstellen Sie den initialen Graphen
-    graph_data, all_nodes, sentence_start_indices = create_initial_graph(sentences, nlp, ner_model, device)
+    graph_data, all_nodes, sentence_start_indices = create_initial_graph(sentences, nlp, ner_model, sentence_model, device)
 
     # Speichern des Graphen
     save_graph(graph_data, 'graph_data.pth')
