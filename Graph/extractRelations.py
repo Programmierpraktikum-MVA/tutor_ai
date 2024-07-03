@@ -13,19 +13,3 @@ def compute_similarity(sentences):
     embeddings = sentence_model.encode(sentences, convert_to_tensor=True)
     cosine_scores = util.pytorch_cos_sim(embeddings, embeddings)
     return cosine_scores
-
-# Beispiel für das Extrahieren von Entitäten und Berechnen der Ähnlichkeit
-if __name__ == "__main__":
-    import spacy
-    nlp = spacy.load('de_core_news_sm')
-
-    text = "Die Informatik ist ein spannendes Fachgebiet. Informatik ist die Wissenschaft von der systematischen Verarbeitung von Informationen."
-
-    # Extrahieren von Entitäten
-    entities = extract_entities(text)
-    print("Entitäten:", entities)
-
-    # Berechnen der Ähnlichkeit
-    sentences = [sent.text for sent in nlp(text).sents]
-    similarity = compute_similarity(sentences)
-    print("Ähnlichkeit:", similarity)
