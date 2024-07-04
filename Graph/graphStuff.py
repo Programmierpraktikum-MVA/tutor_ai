@@ -1,15 +1,11 @@
 import torch
 from torch_geometric.data import Data
 from torch_geometric.utils import add_remaining_self_loops
-from extractRelations import compute_similarity
+from extractRelations import compute_similarity, load_similarity, get_similarity_value
 from transformers import BertModel, BertTokenizer
 
 def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, tokenizer, bert_model, device):
-    print("DAS HIER IST EDGE_INDEX DAVOR!!!")
-    print(edge_index)
-    print("\n\n\n")
     edge_index = torch.tensor(edge_index, dtype=torch.long).t().contiguous().to(device)
-    print(f"edge_index values: {edge_index}")  # Debugging-Information
 
     # BERT-Embeddings für node_texts
     text_embeddings = []
@@ -42,15 +38,8 @@ def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, 
     data.module_numbers = module_numbers
     data.type_to_index = type_to_index  # Speichern des Mappings für spätere Verwendung
 
-    # Debugging von edge_index
-    print(f"edge_index before self-loops: {data.edge_index.shape}")  # Debugging-Information
-
     # Hinzufügen von Selbstschleifen
     data.edge_index, _ = add_remaining_self_loops(data.edge_index, num_nodes=data.x.size(0))
-
-    # Debugging nach dem Hinzufügen von Selbstschleifen
-    print(f"edge_index after self-loops: {data.edge_index.shape}")  # Debugging-Information
-    print(f"edge_index values after self-loops: {data.edge_index}")  # Debugging-Information
 
     return data
 
@@ -105,14 +94,17 @@ def create_node_base_sentences(sentences):
         node_types.append("Satz")
         module_numbers.append(module_number)
 
-    similarity_matrix = compute_similarity([s for s, _ in sentences], 100)
+    similarity_file = compute_similarity([s for s, _ in sentences])
+    num_sentences = len(sentences)
+    similarity_matrix = load_similarity(similarity_file, num_sentences)
     threshold = 0.75
 
     for i in range(len(sentences)):
         for j in range(i + 1, len(sentences)):
-            if similarity_matrix[i, j] > threshold:
+            similarity = get_similarity_value(similarity_matrix, i, j)
+            if similarity > threshold:
                 all_edges.append((i, j))
-                all_edge_attrs.append("Similarity" + str(similarity_matrix[i, j].item()))
+                all_edge_attrs.append("Similarity" + str(similarity))
 
     for i in range(len(sentences) - 1):
         all_edges.append((i, i + 1))
@@ -130,8 +122,6 @@ def merge_node_base(all_edges1, all_edge_attrs1, node_texts1, node_types1, modul
     module_numbers1.extend(module_numbers2)
 
     return all_edges1, all_edge_attrs1, node_texts1, node_types1, module_numbers1, count_1 + count_2
-
-
 
 def save_graph(graph_data, file_path):
     torch.save(graph_data, file_path)
