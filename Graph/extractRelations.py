@@ -20,14 +20,18 @@ def compute_similarity(sentences, batch_size=100, output_file='cosine_scores.dat
     # Speichern Sie die Cosine Similarity direkt auf der Festplatte
     cosine_scores = np.memmap(output_file, dtype='float32', mode='w+', shape=(num_sentences, num_sentences))
 
-    for i in range(0, num_sentences, batch_size):
-        for j in range(0, num_sentences, batch_size):
-            batch_i = embeddings[i:i + batch_size]
-            batch_j = embeddings[j:j + batch_size]
-            similarity = util.pytorch_cos_sim(batch_i, batch_j).cpu().numpy()
+    try:
+        for i in range(0, num_sentences, batch_size):
+            for j in range(0, num_sentences, batch_size):
+                batch_i = embeddings[i:i + batch_size]
+                batch_j = embeddings[j:j + batch_size]
+                similarity = util.pytorch_cos_sim(batch_i, batch_j).cpu().numpy()
 
-            # Speichern der Ergebnisse in die `cosine_scores` Datei
-            cosine_scores[i:i + batch_size, j:j + batch_size] = similarity
+                # Speichern der Ergebnisse in die `cosine_scores` Datei
+                cosine_scores[i:i + batch_size, j:j + batch_size] = similarity
+    finally:
+        # Stellen Sie sicher, dass die Datei korrekt geschlossen wird
+        del cosine_scores
 
     return output_file
 
