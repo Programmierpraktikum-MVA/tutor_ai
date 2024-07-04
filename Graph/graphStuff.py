@@ -105,7 +105,7 @@ def create_node_base_sentences(sentences):
         node_types.append("Satz")
         module_numbers.append(module_number)
 
-    similarity_matrix = compute_similarity([s for s, _ in sentences])
+    similarity_matrix = compute_similarity([s for s, _ in sentences], 100)
     threshold = 0.75
 
     for i in range(len(sentences)):

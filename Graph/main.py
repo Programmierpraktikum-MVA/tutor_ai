@@ -22,7 +22,7 @@ def main():
 
     nlp, ner_model, sentence_model, tokenizer, bert_model = initialize_models(device)
 
-    transcripts_folder = 'transcripts'
+    transcripts_folder = 'transcripts_json'
     sentences = process_transcripts(transcripts_folder)
 
     mails_file = 'mail.json'
