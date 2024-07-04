@@ -13,7 +13,8 @@ def extract_entities(text):
 def compute_similarity(sentences, batch_size):
     embeddings = sentence_model.encode(sentences, convert_to_tensor=True)
     num_sentences = len(sentences)
-    cosine_scores = torch.zeros((num_sentences, num_sentences), device=embeddings.device)
+
+    cosine_scores = torch.empty((num_sentences, num_sentences), device=embeddings.device)
 
     for i in range(0, num_sentences, batch_size):
         for j in range(i, num_sentences, batch_size):
