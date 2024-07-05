@@ -12,3 +12,7 @@
 /transcribe/audio_files
 /transcribe/__pycache__
 /transcribe/transformation_log.json
+/Graph/__pycache__
+/Graph/transcripts_json
+/Graph/saved_graph.pth
+/Graph/node_data.json
