@@ -1,6 +1,8 @@
 import spacy
 import os
 import json
+from spacypdfreader import pdf_reader
+from spacypdfreader.parsers.pytesseract import PytesseractParser
 
 # Laden Sie das SpaCy Deutschmodell
 nlp = spacy.load('de_core_news_sm')
@@ -36,3 +38,33 @@ def preprocess_email_data(mails_file):
         processed_mails.append((subject, sender, body, recipients, date))
 
     return processed_mails
+
+
+# pip install 'spacypdfreader[pytesseract]'
+# python -m spacy download de_core_news_sm
+def preprocess_pdf_data(pdf_data_dir):
+
+    course_dict = {} # Creates a dictionary for all courses
+    folders = os.listdir(pdf_data_dir)  # Lists all the folders
+    for course_folder in folders:
+        folder_path = os.path.join(pdf_data_dir, course_folder)
+        all_courses = os.listdir(folder_path)  # Lists all the courses
+
+        # Add course ID to dict if necessary
+        course_id = os.path.basename(course_folder)
+        if course_id not in course_dict:
+            course_dict[course_id] = []
+
+        if len(all_courses) != 0:
+            for course in all_courses:
+                course_path = os.path.join(folder_path, course)
+                # TODO: decide on a processing strategy for pdf_data
+
+
+        break # break the outer for loop for testing
+
+
+
+if __name__ == '__main__':  # Main for testing
+    pdf_data_dir = "/home/tomklein/Downloads/pdf_data"
+    preprocess_pdf_data(pdf_data_dir)

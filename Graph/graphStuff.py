@@ -3,6 +3,9 @@ from torch_geometric.data import Data
 from torch_geometric.utils import add_remaining_self_loops
 from extractRelations import compute_similarity, load_similarity, get_similarity_value
 from transformers import BertModel, BertTokenizer
+import os
+import json
+
 
 def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, tokenizer, bert_model, device):
     edge_index = torch.tensor(edge_index, dtype=torch.long).t().contiguous().to(device)
@@ -25,8 +28,10 @@ def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, 
     # One-Hot-Encoding für module_numbers
     unique_modules = list(set(module_numbers))
     module_to_index = {module: idx for idx, module in enumerate(unique_modules)}
-    module_embeddings = torch.tensor([module_to_index[module] for module in module_numbers], dtype=torch.long).to(device)
-    module_embeddings = torch.nn.functional.one_hot(module_embeddings, num_classes=len(unique_modules)).float().to(device)
+    module_embeddings = torch.tensor([module_to_index[module] for module in module_numbers], dtype=torch.long).to(
+        device)
+    module_embeddings = torch.nn.functional.one_hot(module_embeddings, num_classes=len(unique_modules)).float().to(
+        device)
 
     # Zusammenführen der Embeddings
     node_features = torch.cat([text_embeddings, type_embeddings, module_embeddings], dim=1).to(device)
@@ -42,6 +47,7 @@ def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, 
     data.edge_index, _ = add_remaining_self_loops(data.edge_index, num_nodes=data.x.size(0))
 
     return data
+
 
 def create_node_base_mails(mail_array):
     all_edges = []
@@ -65,22 +71,23 @@ def create_node_base_mails(mail_array):
 
         # Create edges from the subject node to other nodes
         all_edges.extend([
-            (subject_node, sender_node),
-            (subject_node, body_node),
-            (subject_node, date_node)
-        ] + [(subject_node, recipient_node) for recipient_node in recipient_nodes])
+                             (subject_node, sender_node),
+                             (subject_node, body_node),
+                             (subject_node, date_node)
+                         ] + [(subject_node, recipient_node) for recipient_node in recipient_nodes])
 
         all_edge_attrs.extend([
-            'subject-sender',
-            'subject-body',
-            'subject-date'
-        ] + ['subject-recipient'] * len(recipients))
+                                  'subject-sender',
+                                  'subject-body',
+                                  'subject-date'
+                              ] + ['subject-recipient'] * len(recipients))
 
         node_id = date_node + 1
 
     module_numbers.extend([0] * node_id)
 
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, node_id
+
 
 def create_node_base_sentences(sentences):
     all_edges = []
@@ -112,6 +119,55 @@ def create_node_base_sentences(sentences):
 
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, len(sentences)
 
+
+def create_node_base_moses(dir_path):
+    count = 0
+    all_edges = []
+    all_edge_attrs = []
+    node_texts = []
+    node_types = []
+    module_numbers = []
+    course_node_id = 0
+
+    course_list = os.listdir(dir_path)
+    for course in course_list:
+        count = count + 1
+        course_node_id = course_node_id + 1
+
+        # Add node for course with its name as text
+        node_types.append("Kurs")
+        node_texts.append(os.path.dirname(course))  # Name of the course
+        module_numbers.append(0)  # We don't have the course ID
+
+        course_path = os.path.join(dir_path, course)
+        course_categories = os.listdir(course_path)
+
+        categ_node_id = course_node_id
+        for category in course_categories:
+            count = count + 1
+            categ_node_id = categ_node_id + 1
+
+            # Get file name and add it as a node
+            file_path = os.path.join(course_path, category)
+            file_name = os.path.basename(file_path)
+            node_types.append(file_name)
+
+            # Get file content and add it as a node
+            if os.path.exists(file_path):
+                with open(file_path, "r") as f:
+                    data = json.load(f)
+            content_string = json.dumps(data)
+            node_texts.append(content_string)
+
+            # Add edges from course to category
+            all_edges.append(course_node_id, categ_node_id)
+            all_edge_attrs.append(f"Kurs-{file_name}")  # We don't really need an edge attribute
+
+    return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
+
+
+
+
 def merge_node_base(all_edges1, all_edge_attrs1, node_texts1, node_types1, module_numbers1, count_1,
                     all_edges2, all_edge_attrs2, node_texts2, node_types2, module_numbers2, count_2):
     adjusted_edges2 = [(edge[0] + count_1, edge[1] + count_1) for edge in all_edges2]
@@ -123,9 +179,11 @@ def merge_node_base(all_edges1, all_edge_attrs1, node_texts1, node_types1, modul
 
     return all_edges1, all_edge_attrs1, node_texts1, node_types1, module_numbers1, count_1 + count_2
 
+
 def save_graph(graph_data, file_path):
     torch.save(graph_data, file_path)
     print(f"Graph saved to {file_path}")
+
 
 def load_graph(file_path, device):
     graph_data = torch.load(file_path, map_location=device)
