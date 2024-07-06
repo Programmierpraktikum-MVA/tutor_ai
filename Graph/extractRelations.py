@@ -14,7 +14,8 @@ def extract_entities(text):
 
 
 def compute_similarity(sentences, batch_size=100, output_file='cosine_scores.dat'):
-    embeddings = sentence_model.encode(sentences, convert_to_tensor=True)
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    embeddings = sentence_model.encode(sentences, convert_to_tensor=True, device=device)
     num_sentences = len(sentences)
 
     # Speichern Sie die Cosine Similarity direkt auf der Festplatte
@@ -23,8 +24,8 @@ def compute_similarity(sentences, batch_size=100, output_file='cosine_scores.dat
     try:
         for i in range(0, num_sentences, batch_size):
             for j in range(0, num_sentences, batch_size):
-                batch_i = embeddings[i:i + batch_size]
-                batch_j = embeddings[j:j + batch_size]
+                batch_i = embeddings[i:i + batch_size].to(device)
+                batch_j = embeddings[j:j + batch_size].to(device)
                 similarity = util.pytorch_cos_sim(batch_i, batch_j).cpu().numpy()
 
                 # Speichern der Ergebnisse in die `cosine_scores` Datei

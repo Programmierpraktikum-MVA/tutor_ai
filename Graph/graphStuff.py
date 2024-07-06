@@ -120,6 +120,36 @@ def create_node_base_sentences(sentences):
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, len(sentences)
 
 
+def create_node_base_sentences_cosine_avail(sentences, similarity_file):
+    all_edges = []
+    all_edge_attrs = []
+    node_texts = []
+    node_types = []
+    module_numbers = []
+
+    for sentence, module_number in sentences:
+        node_texts.append(sentence)
+        node_types.append("Satz")
+        module_numbers.append(module_number)
+
+    num_sentences = len(sentences)
+    similarity_matrix = load_similarity(similarity_file, num_sentences)
+    threshold = 0.75
+
+    for i in range(len(sentences)):
+        for j in range(i + 1, len(sentences)):
+            similarity = get_similarity_value(similarity_matrix, i, j)
+            if similarity > threshold:
+                all_edges.append((i, j))
+                all_edge_attrs.append("Similarity" + str(similarity))
+
+    for i in range(len(sentences) - 1):
+        all_edges.append((i, i + 1))
+        all_edge_attrs.append("Sequential")
+
+    return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, len(sentences)
+
+
 def create_node_base_moses(dir_path):
     count = 0
     all_edges = []
