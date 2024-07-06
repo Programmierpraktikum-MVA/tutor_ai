@@ -121,6 +121,7 @@ def create_node_base_sentences(sentences):
 
 
 def create_node_base_moses(dir_path):
+    count = 0
     all_edges = []
     all_edge_attrs = []
     node_texts = []
@@ -130,6 +131,7 @@ def create_node_base_moses(dir_path):
 
     course_list = os.listdir(dir_path)
     for course in course_list:
+        count = count + 1
         course_node_id = course_node_id + 1
 
         # Add node for course with its name as text
@@ -142,6 +144,7 @@ def create_node_base_moses(dir_path):
 
         categ_node_id = course_node_id
         for category in course_categories:
+            count = count + 1
             categ_node_id = categ_node_id + 1
 
             # Get file name and add it as a node
@@ -159,6 +162,9 @@ def create_node_base_moses(dir_path):
             # Add edges from course to category
             all_edges.append(course_node_id, categ_node_id)
             all_edge_attrs.append(f"Kurs-{file_name}")  # We don't really need an edge attribute
+
+    return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
+
 
 
 
