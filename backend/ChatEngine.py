@@ -22,7 +22,7 @@ storage_context = StorageContext.from_defaults(persist_dir="./storage")
 index = load_index_from_storage(storage_context=storage_context)
 
 
-memory = ChatMemoryBuffer.from_defaults(token_limit=2500)
+memory = ChatMemoryBuffer.from_defaults(token_limit=10000)
 
 
 def web_search(query):

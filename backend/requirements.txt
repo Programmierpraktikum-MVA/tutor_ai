@@ -4,3 +4,7 @@ llama-index-readers-file
 ratings
 flask
 pymongo
+passlib
+llama_index.graph_stores.neo4j
+#ollama pull nomic-embed-text
+#ollama run llama3
