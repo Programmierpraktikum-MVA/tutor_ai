@@ -137,7 +137,7 @@ def create_node_base_moses(dir_path):
         # Add node for course with its name as text
         node_types.append("Kurs")
         node_texts.append(os.path.dirname(course))  # Name of the course
-        module_numbers.append("")  # We don't have the course ID
+        module_numbers.append(0)  # We don't have the course ID
 
         course_path = os.path.join(dir_path, course)
         course_categories = os.listdir(course_path)
