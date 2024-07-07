@@ -12,7 +12,7 @@ def get_content_from_forums_of_all_courses(driver):
     #course_dict = []
     
     # Load course data from JSON file
-    with open('my_courses_id.json','r') as data:
+    with open('course_ids.json','r') as data:
         course_data = json.load(data)
         
     # Iterate through each course
