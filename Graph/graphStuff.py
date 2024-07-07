@@ -136,6 +136,8 @@ def create_node_base_sentences_cosine_avail(sentences, similarity_file):
     similarity_matrix = load_similarity(similarity_file, num_sentences)
     threshold = 0.75
 
+    print("mach sim attr")
+
     for i in range(len(sentences)):
         for j in range(i + 1, len(sentences)):
             similarity = get_similarity_value(similarity_matrix, i, j)
@@ -143,9 +145,13 @@ def create_node_base_sentences_cosine_avail(sentences, similarity_file):
                 all_edges.append((i, j))
                 all_edge_attrs.append("Similarity" + str(similarity))
 
+    print("Done sim attr")
+
     for i in range(len(sentences) - 1):
         all_edges.append((i, i + 1))
         all_edge_attrs.append("Sequential")
+
+    print("done seq")
 
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, len(sentences)
 

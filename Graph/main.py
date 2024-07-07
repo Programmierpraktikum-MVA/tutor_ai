@@ -28,7 +28,7 @@ def main():
 
     nlp, ner_model, sentence_model, tokenizer, bert_model = initialize_models(device)
 
-    transcripts_folder = 'transcripts'
+    transcripts_folder = 'transcripts_json'
     sentences = process_transcripts(transcripts_folder)
 
     mails_file = 'mail.json'
@@ -123,32 +123,45 @@ def main_two():
 
     nlp, ner_model, sentence_model, tokenizer, bert_model = initialize_models(device)
 
-    transcripts_folder = 'transcripts'
+    print("start process transcripts")
+
+    transcripts_folder = 'transcripts_json'
     sentences = process_transcripts(transcripts_folder)
 
     mails_file = 'mail.json'
     mails = preprocess_email_data(mails_file)
 
+    print("start create node base sentences cosine avail")
+
     all_edges_sent, all_edge_attrs_sent, node_texts_sent, node_types_sent, module_numbers_sent, count_sent = create_node_base_sentences_cosine_avail(
         sentences, 'cosine_scores.dat')
+    print("start mail stuff")
     all_edges_mail, all_edge_attrs_mail, node_texts_mail, node_types_mail, module_numbers_mail, count_mail = create_node_base_mails(
         mails)
 
+    print("merge hier die nodes")
     all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count = merge_node_base(
         all_edges_sent, all_edge_attrs_sent, node_texts_sent, node_types_sent, module_numbers_sent, count_sent,
         all_edges_mail, all_edge_attrs_mail, node_texts_mail, node_types_mail, module_numbers_mail, count_mail
     )
 
+    print("save die edges")
     save_edges(all_edges)
+    print("save die edges_attr")
     save_edge_attrs(all_edge_attrs)
+    print("save die node_texts")
     save_node_texts(node_texts)
+    print("save die node_types")
     save_node_types(node_types)
+    print("save die module_numbers")
     save_module_numbers(module_numbers)
 
+    print("create_graph")
     graph_data = create_graph(all_edges, all_edge_attrs, node_texts, node_types, module_numbers, tokenizer, bert_model,
                               device).to(device)
+    print("save graph data")
     save_graph(graph_data, 'saved_graph.pth')
-
+    print("load graph data")
     loaded_graph_data = load_graph('saved_graph.pth', device)
 
     print(f"Finaler Graph: {loaded_graph_data}")  # Debugging-Information
