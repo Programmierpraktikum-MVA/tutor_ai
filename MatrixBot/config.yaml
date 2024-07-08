@@ -1,5 +1,4 @@
 matrix:
-  user_id: "@marlonius:matrix.tu-berlin.de"
-  user_password: "Nolram44!!"
+  user_id: "@username:matrix.tu-berlin.de"
+  user_password: "password"
   homeserver_url: "https://matrix.tu-berlin.de"
-
