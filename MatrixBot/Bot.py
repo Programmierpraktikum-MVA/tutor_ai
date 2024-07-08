@@ -40,8 +40,7 @@ class MatrixBot:
                 print(f"Error decrypting event: {e}")
                 return
 
-        if room.room_id == "!umdPEgiAxrESYgzAnj:matrix.tu-berlin.de":
-            if event.sender != self.client.user_id and event.body.startswith("@TutorAI"):
+        if event.sender != self.client.user_id and event.body.startswith("@TutorAI"):
                 response = await self.query_backend(event.body)
                 await self.client.room_send(
                     room_id=room.room_id,
