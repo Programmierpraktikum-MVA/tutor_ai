@@ -1,0 +1,4 @@
+matrix:
+  user_id: "@username:matrix.tu-berlin.de"
+  user_password: "password"
+  homeserver_url: "https://matrix.tu-berlin.de"
