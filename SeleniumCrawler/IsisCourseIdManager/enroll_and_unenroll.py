@@ -3,7 +3,11 @@ from selenium.webdriver.chrome.options import Options
 import json
 from selenium.webdriver.common.by import By
 
-
+""" Enrolls in all accessible ISIS courses, scrapes them. If you were not enrolled in this course originally, 
+it unenrolls you automatically.CAUTION: Keep your all_your_courses.json file up-to-date. 
+Incorrect information in this file can lead to unintentional unenrollment from courses you're actually taking.
+Scraping: The function currently has a placeholder for scraping course data. 
+You'll need to implement the actual scraping logic."""
 def enroll_and_unenroll():
     # Load login data
     with open('../config.json') as config_file:
@@ -56,7 +60,7 @@ def enroll_and_unenroll():
 
         # Done scraping
 
-        # Check if you are actually enrolled in this course. If yes, don't unenroll.
+        # Check if you are actually enrolled in this course as part of your studies. If yes, don't unenroll.
         if course in my_course_ids:
             print("Not enrolling, since you are enrolled as part of your studies.")
             continue
