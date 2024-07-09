@@ -188,6 +188,8 @@ def create_node_base_moses(dir_path):
             file_name = os.path.basename(file_path)
             node_types.append(file_name)
 
+            module_numbers.append(0)  # We don't have the course ID
+
             # Get file content and add it as a node
             if os.path.exists(file_path):
                 with open(file_path, "r") as f:
@@ -196,9 +198,12 @@ def create_node_base_moses(dir_path):
             node_texts.append(content_string)
 
             # Add edges from course to category
-            all_edges.append(course_node_id, categ_node_id)
+            all_edges.append((course_node_id, categ_node_id))
             all_edge_attrs.append(f"Kurs-{file_name}")  # We don't really need an edge attribute
 
+        print(len(node_types))
+        print(len(node_texts))
+        print(len(module_numbers))
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
 
 

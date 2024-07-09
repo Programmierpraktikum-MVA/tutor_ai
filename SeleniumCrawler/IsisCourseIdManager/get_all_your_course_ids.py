@@ -6,6 +6,14 @@ import json
 
 
 def get_all_course_id(driver):
+    """Retrieves all course IDs from the user's ISIS TU Berlin dashboard.
+
+    Args:
+        driver: A Selenium WebDriver instance, authenticated and logged into ISIS.
+
+    Returns:
+        A list of course IDs (strings) extracted from the dashboard.
+    """
     driver.get("https://isis.tu-berlin.de/my/courses.php")
 
     wait = WebDriverWait(driver, 10)

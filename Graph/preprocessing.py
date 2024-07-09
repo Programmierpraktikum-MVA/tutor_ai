@@ -40,6 +40,10 @@ def preprocess_email_data(mails_file):
     return processed_mails
 
 
+
+
+
+
 # pip install 'spacypdfreader[pytesseract]'
 # python -m spacy download de_core_news_sm
 def preprocess_pdf_data(pdf_data_dir):

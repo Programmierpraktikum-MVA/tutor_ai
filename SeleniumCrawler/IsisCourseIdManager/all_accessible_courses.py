@@ -7,18 +7,24 @@ import time
 
 
 def get_all_accessible_course(driver):
-    with open("all_course_ids.json") as f:
+    """Retrieves all accessible course IDs from ISIS TU Berlin.
+
+    Args:
+        driver: Selenium WebDriver instance (logged into ISIS).
+
+    Returns:
+        List of accessible course IDs.
+    """
+    with open("/home/tomklein/Documents/uni/tutorAI/course_id_data/all_course_ids.json") as f:
         data = json.load(f)
 
     all_course_ids = data["course_ids"]  # creates a list of course IDs
 
     all_accessible_course_ids = []  # creates a list of accessible course IDs
 
-    # demo list for testing purposes, delete later
-    # all_course_ids = ["39279", "39308",
-    #                   "39259", "39062"]  # [0] is in english, [1] is in german, [2] in german, [3] needs a password
 
     for course_id in all_course_ids:
+
         url = "https://isis.tu-berlin.de/course/view.php?id=" + course_id
         driver.get(url)
 
@@ -29,14 +35,21 @@ def get_all_accessible_course(driver):
             print("password protected")
             continue
 
-        all_accessible_course_ids.append(id)
-        print("enrolling successfully")
+        all_accessible_course_ids.append(course_id) # Append course_id to the list
+        print(course_id)
+
+    # Save to JSON after processing all courses
+    data = {"course_ids": all_accessible_course_ids}
+    file_name = "all_accessible_courses.json"
+    with open(file_name, "w") as f:
+        json.dump(data, f, indent=4)
 
 
-# Helper function to log in, can be deleted later
+
 def log_in():
+    """ Helper function to log in, can be deleted later"""
     # Load login data
-    with open('config.json') as config_file:
+    with open('/home/tomklein/Documents/uni/tutorAI/course_id_data/config.json') as config_file:
         config_data = json.load(config_file)
 
     # Extract username and password from config data
@@ -48,7 +61,7 @@ def log_in():
     driver.set_window_size(1000, 1000)
     driver.get("https://isis.tu-berlin.de/login/index.php")
     title = driver.title
-    driver.implicitly_wait(0.5)
+    # driver.implicitly_wait(0.1)
 
     # Log in to ISIS with your credentials
     tu_login_button = driver.find_element(by=By.ID, value="shibbolethbutton")
