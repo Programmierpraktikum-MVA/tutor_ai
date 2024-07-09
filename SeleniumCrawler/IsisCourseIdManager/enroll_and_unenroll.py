@@ -51,16 +51,13 @@ def enroll_and_unenroll():
         all_accessible_courses = json.load(file)
 
     # Get all your courses
-    # get_all_your_course_ids.get_all_course_id(driver) # TODO: uncomment
+    get_all_your_course_ids.get_all_course_id(driver)
     # Open all your course IDs
     with open('my_course_ids.json') as file:
         my_course_ids = json.load(file)
 
     # Navigate to All Courses Page and iteratively log in to all courses, then log out
 
-    # TODO: Delete test lists
-    all_accessible_courses = ["39318", "39313", "39312", "39311"]
-    my_course_ids = []
 
     # Boolean for checking if course is part of your Course IDs
     course_is_in_my_course_ids = False
