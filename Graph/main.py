@@ -166,9 +166,15 @@ def main():
             print(f'Epoch {epoch}, Loss: {loss.item()}')
 
     model.eval()
+
+
+
+
+
+
+
     with torch.no_grad():
         embeddings, _ = model(loaded_graph_data)
-
     # Konvertieren der Embeddings und der zugehörigen Informationen in ein für LlamaIndex geeignetes Format
     embeddings = embeddings.cpu().numpy()
     node_data = []

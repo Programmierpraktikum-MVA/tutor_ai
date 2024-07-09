@@ -7,6 +7,8 @@ import os
 import json
 import numpy as np
 
+from torch_geometric.nn import SAGEConv  # added by tom
+
 
 def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, tokenizer, bert_model, device):
     edge_index = torch.tensor(edge_index, dtype=torch.long).t().contiguous().to(device)
@@ -48,6 +50,23 @@ def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, 
     data.edge_index, _ = add_remaining_self_loops(data.edge_index, num_nodes=data.x.size(0))
 
     return data
+
+
+# https://medium.com/analytics-vidhya/ohmygraphs-graphsage-in-pyg-598b5ec77e7b
+def SAGEconv_layer(data):
+    x, edge_index = data.x, data.edge_index
+
+    # TODO: What is input_dim (feature vectors does each node have)?
+    input_dim = 3
+
+    # how many feature vectors should the resulting node have?
+    output_dim = 2
+
+    conv1 = SAGEConv(input_dim, output_dim)
+
+    # One forward pass
+    x = conv1(x, edge_index)
+    return x
 
 
 def create_node_base_mails(mail_array):
@@ -92,6 +111,7 @@ def create_node_base_mails(mail_array):
 
 import json
 
+
 def create_node_base_sentences(sentences, threshold=0.75):
     all_edges = []
     all_edge_attrs = []
@@ -124,9 +144,7 @@ def create_node_base_sentences(sentences, threshold=0.75):
         all_edges.append(edge)
         all_edge_attrs.append(attr)
 
-
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
-
 
 
 def create_node_base_sentences_cosine_avail(sentences, similarity_file):
@@ -214,8 +232,6 @@ def create_node_base_moses(dir_path):
         print(len(node_texts))
         print(len(module_numbers))
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
-
-
 
 
 def merge_node_base(all_edges1, all_edge_attrs1, node_texts1, node_types1, module_numbers1, count_1,
