@@ -1,10 +1,11 @@
 import torch
 from torch_geometric.data import Data
 from torch_geometric.utils import add_remaining_self_loops
-from extractRelations import compute_similarity, load_similarity, get_similarity_value
+from extractRelations import compute_similarity, load_similarity, get_similarity_value, load_and_process_cosine_scores
 from transformers import BertModel, BertTokenizer
 import os
 import json
+import numpy as np
 
 
 def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, tokenizer, bert_model, device):
@@ -89,35 +90,43 @@ def create_node_base_mails(mail_array):
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, node_id
 
 
-def create_node_base_sentences(sentences):
+import json
+
+def create_node_base_sentences(sentences, threshold=0.75):
     all_edges = []
     all_edge_attrs = []
     node_texts = []
     node_types = []
     module_numbers = []
+    count = 0
 
     for sentence, module_number in sentences:
         node_texts.append(sentence)
         node_types.append("Satz")
         module_numbers.append(module_number)
 
-    similarity_file = compute_similarity([s for s, _ in sentences])
-    num_sentences = len(sentences)
-    similarity_matrix = load_similarity(similarity_file, num_sentences)
-    threshold = 0.75
+    # Einlesen der Cosine-Similarity-Matrix und Anwenden des Schwellenwerts
+    cosine_scores = load_and_process_cosine_scores(threshold)
 
-    for i in range(len(sentences)):
-        for j in range(i + 1, len(sentences)):
-            similarity = get_similarity_value(similarity_matrix, i, j)
-            if similarity > threshold:
-                all_edges.append((i, j))
-                all_edge_attrs.append("Similarity" + str(similarity))
+    # Erstellen der Kanten basierend auf der Cosine-Similarity-Matrix
+    indices = np.argwhere(cosine_scores > 0)
+    for i, j in indices:
+        if i < j:  # Um doppelte Kanten zu vermeiden
+            edge = (i, j)
+            attr = cosine_scores[i, j].item()
+            all_edges.append(edge)
+            all_edge_attrs.append(attr)
 
+    # Fügen Sie Kanten für aufeinanderfolgende Sätze hinzu
     for i in range(len(sentences) - 1):
-        all_edges.append((i, i + 1))
-        all_edge_attrs.append("Sequential")
+        edge = (i, i + 1)
+        attr = 1.0  # A fixed value for consecutive sentences
+        all_edges.append(edge)
+        all_edge_attrs.append(attr)
 
-    return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, len(sentences)
+
+    return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
+
 
 
 def create_node_base_sentences_cosine_avail(sentences, similarity_file):
