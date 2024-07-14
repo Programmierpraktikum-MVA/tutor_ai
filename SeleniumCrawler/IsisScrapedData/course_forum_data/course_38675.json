@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Physikalisches Fortgeschrittenpraktikum",
+        "Course_id": "38675",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1800311",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einreibung SAP",
+                            "Discussion_Id": "588231",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060449",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-04-22T09:49:23+02:00",
+                                    "Content": "Liebe Studierende, bitte meldet euch bei SAP bei folgendem Kurs an damit wir die Teilnahmevorrausetzungen überprüfen und am Semesterende Ihre Noten verbuchen können: M_20431 oder PP_20431, Portfolioprüfung Fortgeschrittenenpraktikum, Sommersemester 2023/2024 Anmeldeschluss ist 1.5.24 (aber es wäre nett, wenn ihr es zeitnah machen könntet). Viele Grüße und einen erfolgreichen Start in den ersten Versuch!  Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Versuchzuteilung ist jetzt online auf ISIS",
+                            "Discussion_Id": "587516",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059299",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-04-18T22:29:25+02:00",
+                                    "Content": "Hallo, die Zuordnung der Versuche ist jetzt online auf ISIS (als pdf herunterladbar). Wenn Ihr Fragen oder Probleme habt, meldet euch bitte bei mir. Viele Grüße Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "Course_Name": "Algebraic Statistics",
+        "Course_id": "36666",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1699534",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Oral Exam Registration",
+                            "Discussion_Id": "579468",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1046805",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-02-14T11:53:40+01:00",
+                                    "Content": "Dear course participants, this is a reminder regarding the oral exam for the course to take place next Friday, February 23, 2024. If you are interested in taking the exam, please send me an email with the completed registration form. Then I will reply with a suggested time slot. If needed, a later date for the exam will be offered in addition. If this is the case for you, also write me an email. Thank you and best wishes, CA",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1050901",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-02-29T11:31:04+01:00",
+                                    "Content": "Dear course participants, the dates for the second round of the oral exam are Tuesday, March 26 and Wednesday, March 27, 2024.  If you are interested in a slot for one of these days, please send an email with the completed registration form. A concrete time slot will then be suggested.  Best wishes, CA",
+                                    "Response to": "p1046805"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Online Lecture on 22.01-23.01",
+                            "Discussion_Id": "573638",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1038367",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-01-21T21:29:40+01:00",
+                                    "Content": "Dear course participants, This is a reminder that tomorrow and Tuesday we will meet online (usual lecture times). Topic: Algebraic Statistics Lecture Time: Jan 22-23, 2024 10:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna Join Zoom Meeting https://tu-berlin.zoom.us/j/61868784562?pwd=dFhib1YzaDU5K2MxWjgwRk1mSzQ5QT09 Meeting ID: 618 6878 4562 Passcode: 112233 Dial by your location         +49 695 050 2596 Germany         +49 69 7104 9922 Germany See you soon, CA",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tag der Mathematik: May 4",
+                            "Discussion_Id": "570614",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1033748",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-01-08T22:35:09+01:00",
+                                    "Content": "Dear course participants: Please consider helping out on the next Mathematics Day to take place at TU on May 4th.  For more info, see the message from the organization team below. ----------------- Helfer:innen gesucht!  Unser Institut richtet am Samstag, dem 4. Mai, den 27. Tag der Mathematik aus: https://www3.math.tu-berlin.de/TDM/tdm-2024/ Wir benötigen Dutzende studentische Helfer für Aufsicht, Korrektur und technische Vortragshilfe! Meldungen sehr gerne an tdm@math.tu-berlin.de.  Wolfgang König Das TdM-Orga-Team ----------------- May the 4th be with you! CA",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MATH+ Friday Jan 12: Tropical Geometry",
+                            "Discussion_Id": "570613",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1033747",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-01-08T22:25:19+01:00",
+                                    "Content": "Dear course participants, As we discussed today the outlook on the topics for the rest of the semester, these unfortunately did not include the last entry of the Probability / Statistics  <->  Algebra / Geometry  dictionary mentioned during the introductory chapter of the book, namely the correspondence: MAP estimates <-> Tropical geometry Fortunately, Diane Maclagan (U Warwick) will give a talk on the concept appearing on the right hand side, at the next MATH+ Friday: https://www.math-berlin.de/images/poster/Maclagan_2024-01 The talk will take place at 14:15 in the lecture hall EW 201 (same building where we have the Monday lectures). I hope to see many of you there! CA",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

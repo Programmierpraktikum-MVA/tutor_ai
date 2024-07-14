@@ -1,0 +1,43 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Model Reduction",
+        "Course_id": "37742",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1767485",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Last exercise sheet",
+                            "Discussion_Id": "607603",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089514",
+                                    "Author": "Philipp Schulze",
+                                    "DateTime": "2024-07-13T00:22:16+02:00",
+                                    "Content": "Dear all, I have uploaded the sixth and last exercise sheet, which we will discuss at the beginning of the last lecture on July 19. Best regards, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation in FGMSO Seminar by Prof. Breiten",
+                            "Discussion_Id": "599919",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078435",
+                                    "Author": "Philipp Schulze",
+                                    "DateTime": "2024-06-10T10:34:43+02:00",
+                                    "Content": "Dear all, As announced last week during the lectures, there will be a seminar talk tomorrow (June 11) at 2:15pm by Prof. Breiten and its topic is very related to the content of last week's lectures. If you are interested, you are welcome to join and you find the official seminar announcement below. Please, note that the room is MA 542. Best regards, Philipp  -------- Forwarded Message -------- Subject: Seminar Control and Optimization - Tuesday, June 11, 2pm, MA542 Date: Wed, 5 Jun 2024 10:26:18 +0200 From: Attila Karsai <karsai@math.tu-berlin.de> To: fgmso_seminar@math.tu-berlin.de   Dear all,  I would like to inform you about next weeks FGMSO seminar. The titles and abstracts are below. Note that this time we will meet on Tuesday at 2:15pm in MA 542.  Participation is voluntary if you are a student.  Best, Attila   Seminar Control and Optimization Tuesday, June 11 2024, 2:15pm, MA 542   Tobias Breiten - Preservation of Algebraic Stability Domains in Balanced Reduced Models  It is a prominent feature of balanced truncation that it preserves the stability of linear systems in continuous or discrete time. In more detail this means the following. If the poles of the original system lie in the open left half plane or the unit circle, respectively, then so do the poles of the reduced system. Considering algebraic stability domains is about replacing the half plane or the unit circle by more general subsets of the complex plane.   Jesper Schröder - On the well-posedness of the Mortensen observer for a defocusing cubic wave equation  In this presentation the analytical background of nonlinear observers based on minimal energy estimation is discussed. Originally, such strategies were proposed for the reconstruction of the state of finite dimensional dynamical systems by means of a measured output where both the dynamics and the output are subject to white noise. Our work aims at lifting this concept to a class of partial differential equations featuring deterministic perturbations using the example of a wave equation with a cubic defocusing term in three space dimensions. In particular, we investigate local regularity of the corresponding value function and consider operator Riccati equations to characterize its second spatial derivative.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

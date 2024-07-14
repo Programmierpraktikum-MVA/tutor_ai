@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Blue Engineering",
+        "Course_id": "38015",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1776282",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fehler in den Berechtigungen in Forum",
+                            "Discussion_Id": "593328",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068360",
+                                    "Author": "Eric Benno Dieterle",
+                                    "DateTime": "2024-05-08T16:06:00+02:00",
+                                    "Content": "Liebe Studierende, der Post zum Auswählen der verschiedenen Texte im Forum für nächste Woche war leider nicht richtig eingestellt. Jetzt haben alle die richtigen Berechtigungen, um abzustimmen. Ideal wäre hierbei eine 25%/25%/25%/25% Aufteilung; es besteht natürlich keine Pflicht.  Viel Spaß beim lesen und bis nächste Woche! Das BE-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Heutige Sitzung",
+                            "Discussion_Id": "592440",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067024",
+                                    "Author": "Eric Benno Dieterle",
+                                    "DateTime": "2024-05-06T10:00:12+02:00",
+                                    "Content": "Die heutige Sitzung (06.05.) wird im Audimax stattfinden, da wir alle Teilnehmenden in einem Raum für die Gruppen- und Themenfindung benötigen. Wir freuen uns!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

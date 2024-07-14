@@ -1,0 +1,355 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Event-based Robot Vision",
+        "Course_id": "39006",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1812299",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final exam date and content",
+                            "Discussion_Id": "605216",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086108",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-07-03T11:19:09+02:00",
+                                    "Content": "Dear all,  As discussed yesterday and announced at the beginning of the course, we will have the exam on the last week of lectures. We proposed the Tuesday time slot (July 16th, 10:15 am - it is written on ISIS). If you cannot make it on this day, please let me know as soon as possible. Next week we are discussing the stereo depth estimation paper. This will conclude the theory part of the course. The final exam will cover Ex 6, 7 and the theory from Contrast Maximization to the stereo paper, excluding the discussion of the monocular paper EMVS. I can also ask about general things, like what is an event camera, what is a time surface representation (since we use it in Ex 7), etc. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wed June 19th",
+                            "Discussion_Id": "601966",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081425",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-19T01:06:13+02:00",
+                                    "Content": "Dear all, I hope the midterm went well. This week I am away at the CVPR. Therefore, I cannot be in presence on Wednesday. Please try starting Exercise 6 on your own. We have already discussed the Contrast Maximization framework last week, and Exercise 6 is about it, so it should be doable. We will clarify doubts about it next week. Sorry for the late notice.  Best, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Solution to Ex 5 is available from ISIS",
+                            "Discussion_Id": "601216",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080329",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-15T14:36:34+02:00",
+                                    "Content": "Hello, Here is the solution (using cv:Rect it is clean, albeit not the fastest) https://git.tu-berlin.de/guillermo.gallego/dvs-integrator-conv/-/blob/cv_rect/src/integrator.cpp Here, without using cv:Rect: https://git.tu-berlin.de/guillermo.gallego/dvs-integrator-conv/-/blob/master/src/integrator.cpp?ref_type=heads The repository link is also on ISIS. Please let me know if you cannot access the content. Have a good weekend, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Midterm doubts",
+                            "Discussion_Id": "600914",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079897",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-13T15:42:11+02:00",
+                                    "Content": "Dear all, There were some questions after the lecture on Tuesday. - Will the mid-term be happening next week? Yes. Tuesday (Vorlesungstag).  - What is the percentage of the mid-term result to the final grade? 30% see the information on the first week of lectures (organization slides). - What is the ratio of multiple choice questions? 50% of the grades. If you haven't noticed, there is a sample midterm exam on ISIS, in the corresponding week. - Is there a specific focus on topics that were covered in the class? Everything up to this week, excluding Contrast Maximization.  Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week: Optical Flow and Exercise 5",
+                            "Discussion_Id": "598586",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076514",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-03T15:18:04+02:00",
+                                    "Content": "Dear all, Please watch the optical flow videos ahead of time for a more productive discussion. On Wednesday we will start working on Exercise 5. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week: feature dection and tracking",
+                            "Discussion_Id": "596931",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074012",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-27T11:29:23+02:00",
+                                    "Content": "Dear all,  Please remember to watch in advance the videos on feature detection and tracking for a meaningful discussion tomorrow in class, in presence. Best, Guillermo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074782",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-28T16:00:18+02:00",
+                                    "Content": "Dear all,  Tracking discussion slides from today are available on ISIS. https://drive.google.com/file/d/1ZKXfyvjMcgI1rUpsN1LA3VY5nhN7BLeb/view  Best, Guillermo",
+                                    "Response to": "p1074012"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week: image reconstrution methods, Ex 3 and 4",
+                            "Discussion_Id": "595444",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071758",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-20T14:12:36+02:00",
+                                    "Content": "Dear all, 1. I hope you are having a happy Pentecost weekend! I had to leave town due to an emergency at home. Tomorrow I ask you to meet me on Zoom for the lecture on image reconstruction methods. The videos are available on ISIS. Please watch them in advance for a more meaningful discussion. Zoom link: https://tu-berlin.zoom.us/j/65135647602?pwd=Nnp3cWZPZEVtc2Q2YTRWV1JrMTN0dz09 Meeting ID: 651 3564 7602 Passcode: 482982 2. Also, tomorrow afternoon there is the talk at TU Berlin by an eminent Computer Scientists: Prof. Sepp Hochreiter, invenor of LSTMs. \"Hot Topics in Intelligence Research. xLSTM: New Architectures for Large Language Models (Universität Linz)\" Where: MAR 2.057 (Conference room from Science of Intelligence - SCIoI) When: 16:00 h o'clock (be on time to get a seat) Zoom link for those who cannot make it in person to SCIoI: https://tu-berlin.zoom.us/j/62628317309?pwd=Nk5OZmdpU1pKL2tVKy9PcGNDMzMvQT09 I encourage you to attend the talk, and I think there is a small reception afterwards. 3. On Wednesday, we continue with Exercises 3 and 4. I noticed some people had trouble installing and running the examples in ROS. A PhD student from my lab will be there to  help with the doubts that you may have. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week. ACCV 2018 paper for Exercise 4",
+                            "Discussion_Id": "593807",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069132",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-12T13:23:15+02:00",
+                                    "Content": "Dear all, As shown on ISIS, please read the ACCV 2018 paper \"Continuous-time Intensity Estimation Using Event Cameras\" before the lecture to discuss it better. https://www.cedricscheerlinck.com/continuous-time-intensity-estimation ISIS also has a document with questions on what to pay attention to. It is important to understand this paper well, Exercise 4 is based on it. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week's plan (May 7th and 8th)",
+                            "Discussion_Id": "592517",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067139",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-06T12:18:19+02:00",
+                                    "Content": "Dear all, This week I need to ask you to have the lecture on Tuesday online, via Zoom. Videos are online Color event cameras , Event-based Data Representation , Methods of Event Processing , Event Generation Models. Please watch them before the lecture for a more fruitful discussion.  Tuesday: EVIS theosry at 10:15 am https://tu-berlin.zoom.us/j/65135647602?pwd=Nnp3cWZPZEVtc2Q2YTRWV1JrMTN0dz09 Meeting ID: 651 3564 7602 Passcode: 482982 On Wednesday: my PhD students will present Exercise 3 and a short introduction on ROS 1. Please have ROS 1 installed before the lecture on Wednesday. Thank you and best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Watch videos for the lecture(s)",
+                            "Discussion_Id": "588293",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060567",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-04-22T11:00:30+02:00",
+                                    "Content": "Dear all, I hope you are having a great start of the week. Please remember to watch the (short) videos in advance (of the first 1-2 weeks) to have a more meaningful discussion during the lecture time tomorrow. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Q & A forum",
+                    "Forum_id": "1812303",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Application of Contrast Maximization Framework Exam",
+                            "Discussion_Id": "605977",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087179",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-07-07T15:28:17+02:00",
+                                    "Content": "Hello, I wanted to ask if the application of the Contrast Maximization framework to other problems than optical flow estimation, like the ones described in the CVPR18 paper (Depth estimation, rotational motion estimation, motion estimation in planar scenes), will play a role in the exam? Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087904",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-07-09T09:30:07+02:00",
+                                    "Content": "Hello, Yes, there are different problems in the Contrast Maximization CVPR 2018 paper. We may not ask you questions about the particular forms of these warps, as they are a bit complicated, but we can ask concepts about the motions and problems, like we have done in class, e.g., in the kahoot quiz. Best, Guillermo",
+                                    "Response to": "p1087179"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "image of zeros after computeImageOfWarpedEvents",
+                            "Discussion_Id": "605560",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086588",
+                                    "Author": "Hassan Mohammadi",
+                                    "DateTime": "2024-07-04T14:53:30+02:00",
+                                    "Content": "Hello, i have a very weird bug in my program for exercise 6. In the global_flow_estimator.cpp where the computeImageOfWarpedEvents() is called two times and two pointers of an object of type cv::Mat is passed in both places. Somehow after the function is done processing, i see that all the values in the image are zero, when i print the image in the global_flow_estimator.cpp . However, I also printed the image inside the function computeImageOfWarpedEvents() itself and not all values are zero, which means something has been done to the image as expected. This bug is weird and Unfortunately i can't find the bug after trying for some time. I also printed the address of the image in both places (inside global_flow_estimator.cpp after calling  computeImageOfWarpedEvents() and also in the function computeImageOfWarpedEvents() itself) . The address is the same, which is expected.  Has anyone else had the same issue?  best regards Hassan ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086691",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-07-04T20:08:05+02:00",
+                                    "Content": "Dear Hassan, Sorry I cannot see the obvious answer from the description. Try to work it out, and submit what you have. (Don't let it prevent you from submitting, I mean). Best, Guillermo",
+                                    "Response to": "p1086588"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "exercise 6, linear voting",
+                            "Discussion_Id": "603903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084191",
+                                    "Author": "Florian Fleischmann",
+                                    "DateTime": "2024-06-26T21:39:14+02:00",
+                                    "Content": "I keep getting the same error because i seem to walk out of the image when updating image_warped.  How is the distance delta x and delta y supposed to be scaled to get a \"fractional distance\"? In Exercise 2 we used the binsize, but what is the maximal distance here?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084198",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-26T22:07:31+02:00",
+                                    "Content": "The \"bin size\" in an image is 1 pixel. The fractional distance delta is a number in [0,1].  Could it be that you are indexing the coordinates in the opposite way? OpenCV expects image_warped->at(yy, xx) not (xx,yy).  Best, Guillermo",
+                                    "Response to": "p1084191"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test date this week",
+                            "Discussion_Id": "601642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080969",
+                                    "Author": "Seungcheon Lee",
+                                    "DateTime": "2024-06-17T20:41:21+02:00",
+                                    "Content": "Good Evening, There is mixed information about the test date this week. In the weekly content it says Wednesday and the announcement by the professor says Tuesday. Could you please confirm the date once more here?  Thank you, Seungcheon",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081021",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-18T03:41:25+02:00",
+                                    "Content": "Hello,  Tuesday.  Let me know if you cannot make it.  Best, Guillermo",
+                                    "Response to": "p1080969"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Missed Exam Registration",
+                            "Discussion_Id": "596339",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073076",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-05-23T15:10:50+02:00",
+                                    "Content": "Unfortunately I forgot to register for the exam and I just saw that the deadline was the 19th of may. Is it possible to make a late registration somehow? I also turned in Exercise 2 and I saw that I need to be registered for that to be scored. Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073308",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-24T11:48:11+02:00",
+                                    "Content": "Hello, Please register as soon as possible. Try MTS now. Best, Guillermo",
+                                    "Response to": "p1073076"
+                                },
+                                {
+                                    "Message_id": "p1073792",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-05-26T19:38:19+02:00",
+                                    "Content": "I am registered now. Thank you! Best, Laurids",
+                                    "Response to": "p1073308"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam date",
+                            "Discussion_Id": "595443",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071757",
+                                    "Author": "Lion-Constantin Weber",
+                                    "DateTime": "2024-05-20T14:10:04+02:00",
+                                    "Content": "Hi, I just wanted to ask If a concrete date for the final Exam is already set? As far as I can find, only the last week of lectures is given as a larger timeframe. Best regards Lion",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071787",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-20T16:22:41+02:00",
+                                    "Content": "Hi Lion,  During lecture time. So Tue or Wed 10-12 h.  Best, Guillermo",
+                                    "Response to": "p1071757"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "GUI capabilites needed?",
+                            "Discussion_Id": "594470",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070176",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-05-14T18:45:18+02:00",
+                                    "Content": "Hello, i am running my setup for the exercises (ROS etc) in a docker container and have some trouble running GUI applications in it. Is this necessary for the exercises or am I good with only the terminal? Best regards, Laurids",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070199",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-14T20:27:08+02:00",
+                                    "Content": "Hello Laurids, You will need some way to visualize the results (images). Typically using rqt_image_view suffices. Best, Guillermo",
+                                    "Response to": "p1070176"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "exercise 2, video part",
+                            "Discussion_Id": "593004",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067862",
+                                    "Author": "Erik Schlenzka",
+                                    "DateTime": "2024-05-07T15:28:33+02:00",
+                                    "Content": "Hi, Should we include the generated video of the 3d-plot in the files we submit for ex2.? Best Regards, Erik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067878",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-07T15:52:15+02:00",
+                                    "Content": "yes please.",
+                                    "Response to": "p1067862"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Due date exercise 2 ",
+                            "Discussion_Id": "591799",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065958",
+                                    "Author": "Jürgen Schmitz",
+                                    "DateTime": "2024-05-02T15:56:56+02:00",
+                                    "Content": "On ISIS it's stated that the due date for the assignment of exercise 2 is Sunday, 7th of May: \"Fällig: Sonntag, 7. Mai 2023, 23:59\" The 7th is a Tuesday. Is it then Sunday the 5th, or Tuesday 7th? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066049",
+                                    "Author": "Yeqiao Xu",
+                                    "DateTime": "2024-05-02T18:16:13+02:00",
+                                    "Content": "I think it may because of the year is wrong. It is supposed to be 2024, not 2023.",
+                                    "Response to": "p1065958"
+                                },
+                                {
+                                    "Message_id": "p1066089",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-02T19:37:16+02:00",
+                                    "Content": "Good catch. Solved.",
+                                    "Response to": "p1066049"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

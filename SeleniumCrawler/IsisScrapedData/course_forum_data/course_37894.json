@@ -1,0 +1,305 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Planung und Steuerung industrieller Produktionsprozesse",
+        "Course_id": "37894",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1772369",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermine Ersttermin ",
+                            "Discussion_Id": "606499",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087920",
+                                    "Author": "Vivienne Laura Würth",
+                                    "DateTime": "2024-07-09T09:49:42+02:00",
+                                    "Content": "Liebe Studierende, Die Prüfungstermine für den ersten Terminblock wurden nun alle versandt. Falls Sie noch einen Termin benötigen, melden Sie sich bitte bei service@pom.tu-berlin.de . Liebe Grüße, Vivienne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Informationen mündliche Prüfung",
+                            "Discussion_Id": "606444",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087840",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-07-08T22:57:57+02:00",
+                                    "Content": "Liebe Studierende,  da mich einige von Euch nach Informationen zur Klausurvorbereitung gefragt haben: Die Prüfung besteht aus einer Präsentation (8 min. Präsentation + ~ 2 min. Transferfragen; 50%) sowie 3-4 Fragen aus dem Fragenkatalog zzgl. Transferfragen (10 min.; 50%). In der Präsentation soll ein Thema der Vorlesung in eigenen Worten zusammengefasst werden. Die Herausforderung besteht darin, die wichtigsten Inhalte in 8 Minuten prägnant zu vermitteln. Dabei könnt ihr gerne eigene Elemente einbringen (z.B. eigene Motivation für das Thema, Praxisbeispiele, Modellerweiterungen, etc.). Unterstützend könnt ihr zudem ein leeres Blatt Papier für Skizzen, Formeln, Graphen etc. verwenden. Vorbereitete Materialien, wie z. B. eine PowerPoint-Präsentation, oder auch das Live-Skizzieren mittels Tabletts, Laptops, etc. sind nicht erlaubt. Am Donnerstag den 11.07 habt ihr im Rahmen der Q&A Session die Möglichkeit Fragen zustellen. Der Termin wird remote stattfinden. Sollte noch Jemand keine Einladung für einen Prüfungstermin (Ersttermin) bekommen haben, obwohl er/sie diesen wahrnehmen möchte, wendet Euch bitte zeitnah an service@pom.tu-berlin.de.  Ich wünsche Euch allen eine erfolgreiche Prüfungsvorbereitung!  Beste Grüße, Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsunterlagen",
+                            "Discussion_Id": "605857",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086987",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-07-05T16:43:01+02:00",
+                                    "Content": "Liebe Studierende,  ihr findet unter Prüfungsunterlagen ein Dokument mit sämtlichen Prüfungsfragen sowie ein weiteres Dokument mit dazugehörigen Arbeitsmaterialien. Für Fragen stehen wir euch in der Q&A Einheit am 11.07 bereit.  Bis Montag zum Smart Factor Game.  Bester Grüße, Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: deadline Prüfungsfragenkatalog, Gastvortrag und Smart Factory Game",
+                            "Discussion_Id": "605201",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086090",
+                                    "Author": "Juri Zahn",
+                                    "DateTime": "2024-07-03T10:49:27+02:00",
+                                    "Content": "Liebe Studierende,  wir möchten freundlich darauf hinweisen, dass nur noch bis heute Abend die Möglichkeit besteht, den Prüfungsfragenkatalog zu ergänzen.  Zudem als freundliche Reminder: - Am Donnerstag, dem 4. Juli, findet der Gastvortrag von Dr. Ing Jochen Kemper im Raum H 3007 von 10 bis 12 Uhr statt  - Am Montag, dem 8. Juli, spielen wir in der Übung das Smart Factory Game. Durch die Teilnahme, erhaltet ihr die Möglichkeit, in der Prüfung zwei Fragen zu überspringen.  Wir freuen uns über eure Teilnahme.   Viele Grüße  Juri Zahn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachtrag Übung vom 01.07",
+                            "Discussion_Id": "605166",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086043",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-07-03T09:13:35+02:00",
+                                    "Content": "Liebe Studierende,  leider hat sich in die letzte Übung zur Heijunka Steuerung ein Fehler eingeschlichen. Bei der Ermittlung der Anzahl benötigter Kanban-Karten habe ich fälschlicherweise die Produktionszeit für die Wiederbeschaffungszeit vernachlässigt.  Im Beispiel (siehe Excel-Datei mit Lösungen) wird somit l = T gesetzt, die Wiederbeschaffungszeit entspricht also der Zyklusdauer und somit der Zeit bis die gesamte Nachfrage/Zyklus wieder beschafft werden kann. Im Ergebnis gilt somit zwingend: #Kanban-Karten >= Gesamtnachfrage im Zyklus.  Schreibt mir gerne, wenn es dazu noch Unklarheiten gibt!  Beste Grüße Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung Gastvortrag Dr.-Ing Jochen Kemper (Leitung Programmplanung VW PKW)",
+                            "Discussion_Id": "604800",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085529",
+                                    "Author": "Grace Tia Kathleen Wojatzki",
+                                    "DateTime": "2024-07-01T18:38:49+02:00",
+                                    "Content": "Liebe Studierende, hier eine kleine Erinnerung an den Gastvortrag von Dr.-Ing Jochen Kemper diesen Donnerstag von 10-12 Uhr in Raum H3007. Wir freuen uns euch die Gelegenheit bieten zu können einen Blick in die Praxis der Produktion eines großen Automobilherstellers zu erhalten. Meldet euch dafür gerne über den folgenden Link an und wir hoffen viele von euch am Donnerstag zu sehen. Viele Grüße, Team POM",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsfragen bis 03.07",
+                            "Discussion_Id": "603085",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083030",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-06-24T14:17:15+02:00",
+                                    "Content": "Liebe Studierende,  bis einschließlich den 03.07 habt ihr noch Zeit die Sammlung Prüfungsfragen zu befüllen.  Nach einer Prüfung und Veröffentlichung des finalen Katalogs habt ihr dann am 11.07 die Möglichkeit im Rahmen der Q&A Session Rückfragen zu stellen.  Beste Grüße Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest lecture by Dr.-Ing Jochen Kemper (Head of Production Master Production Scheduling Volkswagen Cars)",
+                            "Discussion_Id": "602030",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081507",
+                                    "Author": "Grace Tia Kathleen Wojatzki",
+                                    "DateTime": "2024-06-19T11:03:21+02:00",
+                                    "Content": "Dear Students, We are very delighted to announce an upcoming guest lecture by Dr.-Ing Jochen Kemper, head of production master production scheduling at Volkswagen, scheduled for june 24 at 10:15 am in room H 3007. Mr Kemper will give us an insight into his experiences with production scheduling at one of the world's leading car manufacturers, Volkswagen. As the current head of production master production scheduling, Dr. Kemper has been instrumental in shaping the efficiency and effectiveness of Volkswagen's production processes. His leadership in the innovative \"Digitaler Blick\" project earned his team a special prize at the German Award for Supply Chain Management in 2020, highlighting his profound understanding of contemporary industry challenges. After graduating at the Technical University Braunschweig (industrial engineering) and Technical University Dortmund (mechanical engineering), he was a lecturer at the Ostfalia University of Applied Sciences for supply-chain-management and logistics management. Mr Kemper has been working at Volkswagen since 2016, initially as Head of Strategy, Communication and the Logistics Campus, making him one of the youngest heads ever at Volkswagen. His commitment to advancing the field extends beyond his professional role, as he actively contributes to the research council of the BVL, an almost 10.000 members strong network promoting ideas in supply chain management and logistics. Attendance for this unique opportunity is highly recommended and we are looking forward to seeing you all there! If you would like to join us please register here. All the best, your POM-Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082003",
+                                    "Author": "Grace Tia Kathleen Wojatzki",
+                                    "DateTime": "2024-06-20T14:11:47+02:00",
+                                    "Content": "Dear Students,  a small correction. The guest lecture will take place on the 4th of July. We apologize for any inconvenience.  Best regards, your POM-Team",
+                                    "Response to": "p1081507"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gastvortrag von Luc van Nerom/PSI Metals",
+                            "Discussion_Id": "600973",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079979",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-13T18:47:47+02:00",
+                                    "Content": "Liebe Studierende, am Montag den 24.06., von 14:15 bis 15:45 Uhr, findet im H 0112 ein englischsprachiger Gastvortrag von Luc van Nerom statt, zudem wir herzlich einladen möchten. Luc van Nerom, Managing Director bei PSI Metals, ist ein Pionier in der Produktionsplanung und hat die Metallbranche mit dem Line Scheduling maßgeblich geprägt. Derzeit leitet er das Product Innovation Management bei PSI Metals und bringt jahrzehntelange Erfahrung in der Entwicklung und Implementierung von Künstlicher Intelligenz ein. Schon 1986 gründete er die Firma \"Artificial Intelligence Systems\", um KI und Optimierungstechnologien in die Metallindustrie zu integrieren. Nach der Fusion mit PSI Metals wurde seine Arbeit ein zentraler Bestandteil der Produktionsplanungssoftware. Mit fast 38 Jahren Firmenzugehörigkeit hat van Neroms Engagement und Innovationskraft entscheidend zum Erfolg des Unternehmens beigetragen. Heute ist PSI Metals der weltweit größte Anbieter für Softwarelösungen für das Produktionsmanagement der Metallindustrie. Mit freundlichen Grüßen, Euer POM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präferenzabfrage &amp; Selbststudium",
+                            "Discussion_Id": "600963",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079963",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-06-13T18:07:31+02:00",
+                                    "Content": "Liebe Studierende, Wir haben die Abfrage zu den Präferenzen für Prüfungstermine im August (02. und 05.) erneut geöffnet. Solltet ihr den 1. Termin wahrnehmen wollen und habt die Abfrage noch nicht ausgefüllt, habt ihr jetzt nochmals bis Ende der Woche (16.06) die Gelegenheit dazu. Beachtet: Ausschlagend ist die Anmeldung via MOSES.  Nächsten Montag (16.06) ist keine Vorlesung, sondern Selbststudium vorgesehen. Ihr findet dazu auf ISIS unter 08 Auftragsfreigabe und Produktionssteuerung: Ein Paper zur Umsetzung von Produktionsplänen unter Unsicherheit Einige Leitfragen die ihr beim Lesen im Kopf behalten und anschließend beantworten solltet Viel Erfolg dabei!  Liebe Grüße, Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung und Terminwahl Ersttermin",
+                            "Discussion_Id": "598671",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076630",
+                                    "Author": "Vivienne Laura Würth",
+                                    "DateTime": "2024-06-03T19:03:01+02:00",
+                                    "Content": "Liebe Studierende, auf der ISIS Seite dieses Moduls finden Sie nun eine Umfrage, in die Sie Ihre Präferenzen für Prüfungstermine eintragen können. Diese Umfrage ist nur für den Ersttermin (Anfang August), für den Zweittermin (Ende September) wird eine separate Umfrage folgen.  Die Befragung endet nächste Woche Dienstag (11.06.2023) um 23:59 Uhr! Wir werden nur Studierenden Prüfungstermine zuweisen, die offiziell zur Prüfung angemeldet sind. Die Anmeldung erfolgt über Moses.  Ein Rücktritt von der Prüfung ist bis drei Tage vor der Prüfung via Mail an service@pom.tu-berlin.de möglich. Zusammengefasst: via Moses anmelden Präferenzen in Fragebogen eintragen (nicht vergessen am Ende auf „Befragung abgeben“ zu klicken!) - bis 11.06. Prüfungstermin erhalten Falls noch Fragen oder Unklarheiten bestehen nutzen Sie bitte das Studierendenforum. Liebe Grüße, Vivienne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung heute in MAR 4.064 ",
+                            "Discussion_Id": "597011",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074142",
+                                    "Author": "Thomas Volling",
+                                    "DateTime": "2024-05-27T13:50:41+02:00",
+                                    "Content": "Aufgrund einer Doppelbuchung treffen wir uns heute im o.a. Ersatzraum.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung am 23. Mai entfällt",
+                            "Discussion_Id": "595590",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072000",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-05-21T11:06:43+02:00",
+                                    "Content": "Liebe Studierende,  wie bereits angekündigt, wird die Übung 04 zur Verfügbarkeitsprüfung am kommenden Donnerstag (23.) leider ausfallen. Zum Selbststudium habe ich alle relevanten Dateien, inkl. einer Übungsaufzeichnung (siehe Abschnitt Nachbereitung), hochgeladen. Bei der nächsten Übung am 30.05 werde ich allerdings im Nachgang an die Losgrößenplanung auf Fragen eingehen. Schreibt eure Fragen alternativ gerne ins Studierendenforum, ich habe das im Blick.  Denkt bitte auch weiterhin an die Prüfungsfragen, ich habe eben weitere potenzielle Fragen zur Inspiration beigefügt.  Beste Grüße Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachtrag UE Produktionsprogrammplanung",
+                            "Discussion_Id": "594138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069665",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-05-13T17:07:40+02:00",
+                                    "Content": "Liebe Studierende,  ich habe eben zwei neue Modelle zur PPP hochgeladen.  An alle bei denen der Fehler infolge erhöhter Personalkosten aufgetreten ist: Das Modelle war/ist fehlerfrei, lediglich in die Auswertung (Dataframe ganz unten) hatte sich ein Fehler eingeschlichen. Deshalb wurde die Variable zur Menge an Fremdvergaben (Subunternehmer) nicht korrekt dargestellt. Diese Menge war bei stark erhöhten Personalkosten natürlich besonders groß, weshalb der Fehler sichtbar wurde.  Beste Grüße Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 23.05. entfällt",
+                            "Discussion_Id": "593295",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068307",
+                                    "Author": "Henri Decker",
+                                    "DateTime": "2024-05-08T14:41:10+02:00",
+                                    "Content": "Liebe Studenten, Die Übung am 23.05. wird leider entfallen. Stattdessen wird Ihnen die Übung als Video zur Verfügung gestellt. Viele Grüße Henri ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom Link:",
+                            "Discussion_Id": "590815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064467",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-04-29T14:31:14+02:00",
+                                    "Content": "https://tu-berlin.zoom.us/j/65822194634?pwd=cHNNQU4zaHNlU2wxVnJ5eHJhcDgxUT09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Übungen &amp; Prüfungsfragen",
+                            "Discussion_Id": "590091",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063364",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-04-26T10:14:38+02:00",
+                                    "Content": "Liebe Studierende,  ihr findet im ISIS-Kurs jetzt eine Datei zur Sammlung von Prüfungsfragen. Für die nächsten drei Themenblöcke habe ich bereits einige wenige Fragen eingefügt. Seht es als Inspiration und werdet selbst aktiv.  Wie angekündigt, habe ich außerdem eine Anleitung zur Installation von Julia hochgeladen. Bitte führt die Installation bis zur Übung am Montag den 06.05 durch. Sollte es zu Problemen kommen, können wir aber gerne den Rahmen der Übung zur Klärung nutzen.  Ansonsten sehen wir uns am kommenden Montag zum Thema Absatzprognose (ein erstes und letztes mal mit Excel).  Allen ein schönes Wochenende! Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste PSiP Übung + Öffnung der APS Gruppenwahl",
+                            "Discussion_Id": "587771",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059695",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-04-19T15:58:23+02:00",
+                                    "Content": "Liebe Studierende,  herzlich willkommen im Modul PSiP! Wir treffen uns am Montag zur ersten Übung in H 0112 um 14:15 Uhr. Thematisch wollen wir u.a. über APS in der Praxis sprechen und freuen uns diesbezüglich schon auf eure Präsentationen.  Ich habe die Gruppenwahl APS in der Praxis  noch einmal geöffnet, um auch weiteren Studierenden die Möglichkeit zur aktiven Teilnahme zu geben. Bitte bedenkt: Es geht in erster Linie darum, das Modul durch die hochrelevanten Praxisbeispiele zu motivieren, eine Diskussion anzuregen und sich gegenseitig kennen zu lernen. Es werden keine Hochglanzfolien erwartet.  Bis Montag und allen ein schönes Wochenende! Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1772395",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Q/A Hochladen ",
+                            "Discussion_Id": "607184",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088883",
+                                    "Author": "Shayma Hichri",
+                                    "DateTime": "2024-07-11T13:13:01+02:00",
+                                    "Content": "Hallo, leider kann ich heute nicht an der Q/A teilnehmen. Ich interessiere mich aber sehr dafür. Gibt es eine Möglichkeit, die Q/A aufzuzeichnen und im ISIS hochzuladen? Das wäre sehr nett von Ihnen. Vielen lieben Dank! Shayma",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sammlung Prüfungsfragen",
+                            "Discussion_Id": "602791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082619",
+                                    "Author": "Denis Hummel",
+                                    "DateTime": "2024-06-23T12:30:23+02:00",
+                                    "Content": "Hallo, ich wollte mal nachfragen, ob es bereits eine Art Deadline gibt, bis zu der alls Prüfungsfragen eingereicht sein müssen?  Viele Grüße Denis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083020",
+                                    "Author": "Jannis David",
+                                    "DateTime": "2024-06-24T14:11:33+02:00",
+                                    "Content": "Hi Denis,  bis einschließlich den 03.07 habt ihr noch Zeit Fragen einzureichen. Am 11.07 gibt es dann die Möglichkeit zum finalen Fragenkatalog Fragen zu stellen.  Beste Grüße Jannis",
+                                    "Response to": "p1082619"
+                                },
+                                {
+                                    "Message_id": "p1083051",
+                                    "Author": "Denis Hummel",
+                                    "DateTime": "2024-06-24T14:40:36+02:00",
+                                    "Content": "Hi Jannis,  alles klar. Danke für die Info!",
+                                    "Response to": "p1083020"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

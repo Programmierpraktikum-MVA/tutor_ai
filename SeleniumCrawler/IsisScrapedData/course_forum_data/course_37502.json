@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Lebensmittelchemie IV - Vitamine, Mineralstoffe SoSe 24",
+        "Course_id": "37502",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1760959",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Feedback zum Kurs",
+                            "Discussion_Id": "603253",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083307",
+                                    "Author": "Hajo Haase",
+                                    "DateTime": "2024-06-25T06:36:40+02:00",
+                                    "Content": "Liebe Alle,   über den folgenden Link können Sie bei EvaSys Feedback zu dieser Veranstaltung abgeben: https://befragung.tu-berlin.de/evasys/online.php?pswd=X7L6Z Bitte nehmen Sie sich ein paar Minuten Zeit und machen Sie von dieser Möglichkeit Gebrauch!   Beste Grüße Hajo Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Link zur Vorlesung",
+                            "Discussion_Id": "596468",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073267",
+                                    "Author": "Hajo Haase",
+                                    "DateTime": "2024-05-24T10:14:57+02:00",
+                                    "Content": "Liebe Alle, hier der Link zur heutigen Vorlesung: https://tu-berlin.zoom.us/j/68071572270?pwd=wXfmOTkwtrtjz9b6Cyhi2AEmWP0WxA.1  Beste Grüße Hajo Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "Course_Name": "[SoSe24] Hot Topics in Scalable Software Systems",
+        "Course_id": "37123",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1748127",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Extension of Peer Review Deadline",
+                            "Discussion_Id": "607172",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088865",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-07-11T12:54:19+02:00",
+                                    "Content": "Dear students, We have decided to extend the duration of the peer review round by 1 week, which starts after you hand in your finished essays. This is due to the peer review round starting just as you probably become busy studying for exams. All slides and task sheets were updated to reflect the new deadlines, but for completeness, all upcoming deadlines are as follows: Submission of your essay on July 21 Submission of your reviews of other essays on August 4 Submission of your revised essay on August 11 Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic Selection Finished",
+                            "Discussion_Id": "602992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082902",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-06-24T11:51:34+02:00",
+                                    "Content": "Dear students, The topic selection for the essay assignment is now finished. Anyone, who did not pick a topic, has been assigned to a topic, and can should be able to see it in the appropriate group selection field. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grading for Discussion Rounds Complete and Online Support",
+                            "Discussion_Id": "602188",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081706",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-06-19T16:46:53+02:00",
+                                    "Content": "Dear students, You can now find your points for both leading a discussion session, as well as your participation during other sessions on our ISIS course page. Should you have any questions, you can contact us via email. This concludes the first part of the seminar. From now on, we will offer online support via Zoom during our regular timeslot until the end of the lecture period. We will only give online support, if someone requests support via email! If we do not receive any requests, we will not offer a session. The support sessions will use the following Zoom meeting: Meeting ID: 634 9048 5629 Passcode: 998606 Link: https://tu-berlin.zoom.us/j/63490485629?pwd=OXg0OWlVVmZ1eTdFY0JCYXArR05nZz09 Once all questions are answered, we will close the session. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Essay Assignment",
+                            "Discussion_Id": "602157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081666",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-06-19T15:43:51+02:00",
+                                    "Content": "Dear students, The topic sheet, kickoff slides, and topic selection survey are now available on our ISIS course page. The topic selection will start at 18:00h today, and end on June 23 (Sun), 23:59h. Each topic can be assigned to a maximum of 2 students to ensure a roughly equal distribution over available topics. Caution: This is not a group task! You have to work on this task on your own. Major similarities to the work of another student can constitute plagiarism! For everyone who could not attend the seminar today: During the assignment kickoff, I presented a recap of the essay assignment as given on our initial task sheet, as well as some general hints for the task. All of the information can be found inside the slide set uploaded to ISIS. Your work on the task proper starts after the topic selection. Please carefully review the task sheet and assignment kickoff slides! Should you have any questions, you can ask me via email. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grading of Discussion Sessions",
+                            "Discussion_Id": "594900",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070858",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-05-16T12:18:12+02:00",
+                                    "Content": "Dear students, We just added a dummy task to the ISIS course, where we can give feedback and grading for every group that has finished leading their discussion session. Group 1 and 2 can already find their grading there, for all other groups it will be added some time after the discussion session is finished. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reading List Updated with Discusison Questions",
+                            "Discussion_Id": "591854",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066039",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-05-02T17:57:53+02:00",
+                                    "Content": "Dear students, We have updated the reading list to also contain discussion questions you can use in your sessions. As explained before, these questions should serve as guidance. You are allowed to deviate from these questions, and most notably also add your own questions for your discussion rounds. The first discussion begins next week on May 8th (Wed) during our usual timeslot. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses-Deadline Reminder",
+                            "Discussion_Id": "590756",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064373",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-29T13:10:25+02:00",
+                                    "Content": "Dear students, Reminder: You have until May 5th 23:59 CEST to register for the seminar in Moses. Failure to complete registration will lead to not being able to be graded for the module, as well as not receiving any ECTS points. If any problems should occur during registration, please message me and/or Nils. Kind regards Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Plan for the Upcoming Weeks",
+                            "Discussion_Id": "587750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059667",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-04-19T15:28:58+02:00",
+                                    "Content": "Dear students, As announced during the kick-off, here is the plan for the next few weeks. Next week, on April 24 (Wed) during our timeslot, we will have a lecture unit, where we introduce you to principles of scientific writing and presenting. We will also give hints on how to do your own (literature) research, and provide guidelines for the discussion sessions. The registration for leading a discussion session ends on April 24 (Wed), 23:59h (after the lecture)! We will not have a session on May 1 (Wed), as there is a public holiday. Until May 5 (Sun), 23:59h, you need to register for the examination on MOSES! Discussion sessions start on May 8 (Wed). Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hybrid Offering",
+                            "Discussion_Id": "586775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058203",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-04-17T11:26:43+02:00",
+                                    "Content": "Dear students, We were asked, whether it is possible to join our sessions digitally. While this course is planned to be mainly in-person, we decided to offer the first two sessions (today and next week) in a hybrid format. Once the discussion sessions begin (May 8th), the course will be fully in-person, since the hybrid format makes participation and engaged discussions difficult. If you want to join online during the first two sessions, you can use the following Zoom meeting: Meeting ID: 634 9048 5629 Passcode: 998606 Link: https://tu-berlin.zoom.us/j/63490485629?pwd=OXg0OWlVVmZ1eTdFY0JCYXArR05nZz09 Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-Off Session Hot Topics in Scalable Software Systems",
+                            "Discussion_Id": "585991",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057092",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-15T14:03:50+02:00",
+                                    "Content": "Dear students, thank you for your interest in our seminar. This course will start with a Kick-Off session at April 17, 14:15h (Wed), where we present all organizational aspects. The Kick-Off session will be held in EN152. The weekly discussion rounds will also be held there. As of now, we still have some spots available, so if you're interested in taking the course and were not already sorted to us through the Meta course (or already contacted us), please email the WiMis (nj@3s.tu-berlin.de / tr@3s.tu-berlin.de)  Best regards, Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions",
+                    "Forum_id": "1748431",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Notes when leading discussion round",
+                            "Discussion_Id": "593064",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067937",
+                                    "Author": "Bhupendra Dev Singh",
+                                    "DateTime": "2024-05-07T17:26:41+02:00",
+                                    "Content": "Hi Nils & Tim, Are we allowed to use digital notes when leading a discussion round? Best wishes",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068147",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-05-08T10:31:49+02:00",
+                                    "Content": "Hi Bhupendra, Yes, all forms of notes (i.e., paper and digital) are allowed to aid your discussion round.  Best regards, Nils Japke",
+                                    "Response to": "p1067937"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group",
+                            "Discussion_Id": "587164",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058752",
+                                    "Author": "Jacky Wiliam Huang",
+                                    "DateTime": "2024-04-18T09:02:24+02:00",
+                                    "Content": "I am looking for a group. I study Bachelor Wirtschaftsinformatik. I am not too familiar with the topics, but willing to do my best.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Searching Group",
+                            "Discussion_Id": "587142",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058721",
+                                    "Author": "Yann Gabriel Wiesinger",
+                                    "DateTime": "2024-04-18T07:03:59+02:00",
+                                    "Content": "Hello, I am searching for a group for the discussion round lead. If your interested send me a private message :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-Off Session participation",
+                            "Discussion_Id": "586678",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058078",
+                                    "Author": "Yann Gabriel Wiesinger",
+                                    "DateTime": "2024-04-17T09:22:45+02:00",
+                                    "Content": "Hello, because of a personal emergency it is possible that I will not be able to attend the Kick-Off Session today. I will try the best possible to attend. In case I dont make it to the kick-off session today, would it still possible to participate in the seminar and will I be able to get the organizational information another way?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058092",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-17T09:48:15+02:00",
+                                    "Content": "Hi Yann, thank you for the information. While we highly recommend attending the Kick-Off session to ask any questions that you might have, the slides will be uploaded afterwards. In the future, should you (or any other student) not be able to make a session, please send us an email (nj@3s.tu-berlin.de / tr@3s.tu-berlin.de) so we can discuss it there. Best, Tim",
+                                    "Response to": "p1058078"
+                                },
+                                {
+                                    "Message_id": "p1058102",
+                                    "Author": "Yann Gabriel Wiesinger",
+                                    "DateTime": "2024-04-17T09:58:51+02:00",
+                                    "Content": "Hello Tim,  luckily the emergency has been resolved and I will be able to attend today. Nevertheless thanks for the information!",
+                                    "Response to": "p1058092"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,615 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computer Graphics 2",
+        "Course_id": "37164",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1750453",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation \"Computer Graphics 2\" - New deadline: 12.07.2024  ",
+                            "Discussion_Id": "605267",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086179",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-07-03T13:32:28+02:00",
+                                    "Content": "Liebe Studierende/Dear Students, ihr könnt noch bis zum 12.07.2024 an der Evaluation der Lehrveranstaltung \"Computergraphik 2\" des Sommersemesters 2024 teilnehmen. Bitte nehmt Euch die Zeit, die Frage Bögen auszufüllen. Danke! You can still take part in the evaluation of the course \"Computer Graphics 2\" for the summer semester 2024 until July 12, 2024. Please take the time to fill out the questionnaires. Thank you! ------------------------------ Beiliegend erhaltet Ihr den Link der lösungsbasierten Umfrage für die Evaluation der Lehrveranstaltung \"Computergraphik 2\" des Sommersemesters 2024: Computergraphik 2: https://befragung.tu-berlin.de/evasys/online.php?p=CZ6RM   Die Umfrage dauert jeweils ca. eine halbe Stunde und ist bis zum 12. Juli 2024 freigeschaltet. Durch Eure Teilnahme leistet Ihr einen wichtigen Beitrag zur Qualitätssicherung des Lehrangebotes. Desto mehr Kursteilnehmer und -teilnehmerinnen auf die Umfrage antworten, desto aussagekräftiger sind die Daten am Ende. Die Rückmeldungen werden vom Evaluationsteam der Fakultät IV gesammelt und in anonymer Form ausgewertet. Die Ergebnisse der Evaluation werden zum Schluss per E-Mail an die Dozenten und Dozentinnen mitgeteilt. ****************************************************************************** Please find, enclosed, the link to the online survey for the evaluation of the course \"Computer Graphics 2\" in the summer semester 2024: Computer Graphics 2: https://befragung.tu-berlin.de/evasys/online.php?p=CZ6RM  Each survey takes about half an hour and is activated until July 12th, 2024. By participating, you make an important contribution to the quality assurance of the courses offered. The more course participants take part in the survey, the more conclusive the data will be in the end.  The feedback is collected by the evaluation team of the Faculty IV and evaluated in an anonymous form. The results of the evaluation are then communicated to the lecturers via email. Mit besten Grüßen/Best regards, Gaëlle  ****************************************************************************** Gaëlle Fer-Arslan Technische Universität Berlin – Fakultät IV Institut für technische Informatik und Mikroelektronik Fachgebiet Computer Graphics – Sekr. MAR 6-6  Raum MAR 6.034 Marchstr. 23, D-10587 Berlin Tel.: +49-30-314-73 100 eMail: gaelle.fer-arslan@tu-berlin.de",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Time slots for Exercise 4 presentation available",
+                            "Discussion_Id": "604938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085719",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-07-02T11:39:13+02:00",
+                                    "Content": "Dear all, the presentation for the practice part of the third exercise will be held on Monday, the 8th of July. Under Exercise 4: Time Slots for Presentation, you can choose your preferred time slot. As always, the allocation is performed on a first-come, first-served (FCFS) basis and the presentations will be held via Zoom. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation \"Computergraphik 2\" - SoSe 2024",
+                            "Discussion_Id": "603048",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082967",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-06-24T13:01:49+02:00",
+                                    "Content": "Liebe Studierende/Dear Students, beiliegend erhaltet Ihr den Link der lösungsbasierten Umfrage für die Evaluation der Lehrveranstaltung \"Computergraphik 2\" des Sommersemesters 2024: Computergraphik 2: https://befragung.tu-berlin.de/evasys/online.php?p=CZ6RM   Die Umfrage dauert jeweils ca. eine halbe Stunde und ist bis zum 28. Juni 2024 freigeschaltet. Durch Eure Teilnahme leistet Ihr einen wichtigen Beitrag zur Qualitätssicherung des Lehrangebotes. Desto mehr Kursteilnehmer und -teilnehmerinnen auf die Umfrage antworten, desto aussagekräftiger sind die Daten am Ende. Die Rückmeldungen werden vom Evaluationsteam der Fakultät IV gesammelt und in anonymer Form ausgewertet. Die Ergebnisse der Evaluation werden zum Schluss per E-Mail an die Dozenten und Dozentinnen mitgeteilt. ****************************************************************************** Please find, enclosed, the link to the online survey for the evaluation of the course \"Computer Graphics 2\" in the summer semester 2024: Computer Graphics 2: https://befragung.tu-berlin.de/evasys/online.php?p=CZ6RM  Each survey takes about half an hour and is activated until June 28th, 2024. By participating, you make an important contribution to the quality assurance of the courses offered. The more course participants take part in the survey, the more conclusive the data will be in the end.  The feedback is collected by the evaluation team of the Faculty IV and evaluated in an anonymous form. The results of the evaluation are then communicated to the lecturers via email. Mit besten Grüßen/Best regards, Gaëlle  ****************************************************************************** Gaëlle Fer-Arslan Technische Universität Berlin – Fakultät IV Institut für technische Informatik und Mikroelektronik Fachgebiet Computer Graphics – Sekr. MAR 6-6  Raum MAR 6.034 Marchstr. 23, D-10587 Berlin Tel.: +49-30-314-73 100 eMail: gaelle.fer-arslan@tu-berlin.de",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update Exercise 4 Bonus points",
+                            "Discussion_Id": "602628",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082356",
+                                    "Author": "Tobias Djuren",
+                                    "DateTime": "2024-06-21T14:27:05+02:00",
+                                    "Content": "Dear all, the overall sum of bonus points for the theory was not correct. We have updated the exercise sheet accordingly. Best regards, the CG Group",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture next Tuesday",
+                            "Discussion_Id": "602448",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082091",
+                                    "Author": "Tobias Djuren",
+                                    "DateTime": "2024-06-20T17:05:56+02:00",
+                                    "Content": "Dear all, as mentioned last Tuesday, there will be no lecture next week (25.06). The next lecture will take place on Tuesday 02.07. Best regards, The CG Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CG2 - Mündliche Prüfung - Oral Examination",
+                            "Discussion_Id": "602068",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081553",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-06-19T12:26:00+02:00",
+                                    "Content": "Liebe Studierende, Dear Students,  die Termine für die mündlichen Prüfungen am 18. Juli 2024 und am 19. Juli 2024 sind nun ausgebucht.  Falls Ihr Euch noch anmelden möchtet, sind noch Termine am 17. Juli 2024 (Mittwochvormittag) frei. Bitte schickt mir dann eine eMail. ------------------------------------------------------------------------------------------------------------ The slots for the oral examinations on July 18, 2024 and July 19, 2024 are now fully booked.  If you still like to register, there are still appointments available for July 17, 2024 (Wednesday morning). Please send me an email.  Mit besten Grüßen/Best regards, Gaëlle",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 2 Theory Graded",
+                            "Discussion_Id": "600322",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079024",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-06-11T14:28:33+02:00",
+                                    "Content": "Dear all, the theory part of exercise 2 has been graded and your scores are now on ISIS.  Best, The CG Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Time slots for Exercise 3 presentation available",
+                            "Discussion_Id": "600270",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078949",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-06-11T12:32:30+02:00",
+                                    "Content": "Dear all, the presentation for the practice part of the third exercise will be held on Monday, the 17th of June. Under Exercise 3: Time Slots for Presentation, you can choose your preferred time slot. Again, the allocation is performed on a first-come, first-served (FCFS) basis. The presentations will be held via Zoom. Note that the tool shows you your previously selected time slots, which may be confusing. You have to choose a new time slot. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Third Exercise presentation",
+                            "Discussion_Id": "597419",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074791",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-05-28T16:13:31+02:00",
+                                    "Content": "Dear all, as a reminder: the third exercise will be presented tomorrow, 29.05., at 14:00 in MAR 6.051.  Best, Markus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Time slots for Exercise 2 presentation available",
+                            "Discussion_Id": "595768",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072253",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-21T17:22:53+02:00",
+                                    "Content": "Dear all, the presentation for the practice part of the second exercise will be held on Monday, the 27th of May. Under Exercise 2: Time Slots for Presentation, you can choose your preferred time slot. Again, the allocation is performed on a first-come, first-served (FCFS) basis. The presentations will be held via Zoom. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CG2 - Mündliche Prüfungen",
+                            "Discussion_Id": "594270",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069882",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-05-14T10:53:43+02:00",
+                                    "Content": "Liebe Studierende, Dear Students,  die mündliche Prüfungen werden am 18. Juli 2024 (Donnerstag ganztägig) und am 19. Juli 2024 (Freitagvormittag) stattfinden, ggf. auch am 17. Juli 2024 (Mittwochvormittag), falls die Termine am Donnerstag und Freitag nicht ausreichen sollten.  Zwecks der Planung könnt Ihr mir bis zum 10. Juni 2024 eine eMail mit ihren Terminpräferenzen per eMail mitteilen. Wenn möglich, versuche ich, sie zu berücksichtigen; ein Anspruch auf einen bestimmten Termin besteht aber nicht. Die eMail ersetzt auch nicht die offizielle Prüfungsanmeldung in MOSES.  ------------------------------------------------------------------------------------------------------------ The oral examinations will take place on July 18th, 2024 (all day on Thursday) and on July 19 th, 2024 (Friday morning), and eventually also on July 17 th, 2024 (Wednesday morning) if the dates on Thursday and Friday are not sufficient. For planning purposes, you can email me with your date preferences by June 10 th, 2024. If possible, I try to take them into account; However, there is no entitlement to a specific date. The email also does not replace the official exam registration in MOSES.  Mit besten Grüßen/Best regards,  Gaëlle",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second exercise presentation in MAR 6.051",
+                            "Discussion_Id": "593217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068187",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-08T11:23:26+02:00",
+                                    "Content": "Dear students, Today's (8th of May 2024) exercise presentation from 2pm to 4pm will be held in MAR 6.051. Looking forward to seeing you there. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Time slots for Exercise 1 presentation available",
+                            "Discussion_Id": "591239",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065101",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-04-30T14:17:28+02:00",
+                                    "Content": "Dear all, the presentation for the practice part of the first exercise will be held on Monday, the 6th of May. Under Exercise 1: Time Slots for Presentation, you can choose your preferred time slot. The allocation is performed on a first-come, first-served (FCFS) basis. It is sufficient if a single group member chooses a time slot. Best, Gabriel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066277",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-03T10:38:48+02:00",
+                                    "Content": "Dear all,  This is a friendly reminder for you to choose a time slot for the practice part of the first exercise. There are still four time slots available, which means that four groups have not selected anything yet. Also, the presentations will be held via Zoom. The link can (also) be found in the time slot selection tool. To avoid delays, please make sure that your code is compiled and ready to run. Moreover, not all members of the group need to attend the presentation, but the people that are presenting should be able to explain each section of the source code.  The presentation for the second exercise will take place on Wednesday, the 8th of May. A separate announcement will follow shortly.  Best,  Gabriel",
+                                    "Response to": "p1065101"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New lecture recordings are online",
+                            "Discussion_Id": "589432",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062372",
+                                    "Author": "Tobias Djuren",
+                                    "DateTime": "2024-04-24T15:08:17+02:00",
+                                    "Content": "Dear all, We have just uploaded the videos from yesterday. This includes the additional comments on the first lecture (Lecture Video 01 Bonus). Unfortunately, we had problems with the sound recording, which made some parts of the lecture difficult to understand. We will do our best to avoid this in the future, but as we cannot guarantee that problems will not occur again during the live recording, we strongly recommend that you attend the lectures in person. Best the CG Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Permanent Room Change",
+                            "Discussion_Id": "588511",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060926",
+                                    "Author": "Tobias Djuren",
+                                    "DateTime": "2024-04-22T15:33:03+02:00",
+                                    "Content": "Dear all, we will change the room for all upcoming lectures and exercises to MAR 6.051. This is more convenient in terms of distance to our offices or your previous classes, and we have a proper projector there. See you all tomorrow, the CG Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First exercise presentation in A 060",
+                            "Discussion_Id": "586596",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057961",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-04-16T19:45:24+02:00",
+                                    "Content": "Dear students, thank you for attending the first lecture of Computer Graphics 2. As we already announced in today's lecture, there are four exercises that are mandatory in order to sign up for the oral exam. The first exercise presentation tomorrow (17th of April from 2pm to 4pm) will be held in A 060. However, future exercise sessions may be moved to MAR 6.051 if the number of participants decreases. The goal of tomorrow's exercise session is to explain the homework process (i.a., submission and presentation), introduce the spatial data structures (Octree and KDTree), and most importantly, let you form homework groups (consisting of three students). Don't worry if you are not able to attend the exercise session: the slides containing all the information will be uploaded to ISIS and there is a forum that you can use to form groups. See you tomorrow! All the best,  Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introductory lecture tomorrow",
+                            "Discussion_Id": "586047",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057171",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-04-15T15:25:51+02:00",
+                                    "Content": "Dear students, thank you for your interest in computer graphics. Tomorrow's lecture (Tuesday, 16th of April) will be held from 2pm to 4pm (c.t.) in BH-N 243. Looking forward to seeing you. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Student Forum",
+                    "Forum_id": "1769930",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Sqrt(3) Sub-division",
+                            "Discussion_Id": "605091",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085932",
+                                    "Author": "Awsam Agbaria",
+                                    "DateTime": "2024-07-02T17:41:57+02:00",
+                                    "Content": "Hello CG2 team,  Regarding the bonus task in the last exercise, can/should we assume that we mainly apply the sub-divison on closed meshes since the majority of the examples provided are closed? or are we expected to also implement the special case for subdivison of triangles on the boundaries of the mesh for completeness?  Thank you for your time.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087025",
+                                    "Author": "Tobias Djuren",
+                                    "DateTime": "2024-07-05T20:18:06+02:00",
+                                    "Content": "Hello Awsam, It is fine if the subdivision only works for closed meshes. Best The CG Team",
+                                    "Response to": "p1085932"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Barycentric lumped mass",
+                            "Discussion_Id": "604326",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084789",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-06-28T16:59:42+02:00",
+                                    "Content": "Hello, I have difficulties finding a proper definition of the barycentric lumped mass matrix as required in the exercise sheet. Could we get a reference to such a definition or did I miss it in the lecture slides?  Best, Eloi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084876",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-06-29T10:45:46+02:00",
+                                    "Content": "The lecture itself does not specify what exactly the area that is associated to a vertex is, but it was discussed in the exercise presentation and an article can be found under Barycentric vs Dual Mass.",
+                                    "Response to": "p1084789"
+                                },
+                                {
+                                    "Message_id": "p1085691",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-07-02T10:56:34+02:00",
+                                    "Content": "Thank you",
+                                    "Response to": "p1084876"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sample Video",
+                            "Discussion_Id": "603027",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082944",
+                                    "Author": "Mohammed Zain Maqsood",
+                                    "DateTime": "2024-06-24T12:42:26+02:00",
+                                    "Content": "Hi, would it be possible to upload a sample video for the 4th exercise, like you did for the previous ones. That would be very helpful!  Regards",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083348",
+                                    "Author": "Hendrik Meyer",
+                                    "DateTime": "2024-06-25T09:18:39+02:00",
+                                    "Content": "Hi Mohammed, I just uploaded the example video. Hope it helps.  Best Hendrik",
+                                    "Response to": "p1082944"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Oral Exam only available from 17th-19th?",
+                            "Discussion_Id": "602322",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081893",
+                                    "Author": "David Barac",
+                                    "DateTime": "2024-06-20T11:00:45+02:00",
+                                    "Content": "I'm sure i've just forgotten something that was mentioned, but just to make sure: Is the oral exam only available from the 17th to the 19th? Or will there be another exam period/will we be able to take the exam outside of exam period if we request an appointment beforehand?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 5 page 42",
+                            "Discussion_Id": "601167",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080262",
+                                    "Author": "David Barac",
+                                    "DateTime": "2024-06-14T18:39:31+02:00",
+                                    "Content": "This doesn't seem right, is the second f(v_b) supposed to be f(v_a)?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080321",
+                                    "Author": "David Barac",
+                                    "DateTime": "2024-06-15T13:44:41+02:00",
+                                    "Content": "P.S. I meant the second f(v_b) in the denominator",
+                                    "Response to": "p1080262"
+                                },
+                                {
+                                    "Message_id": "p1081298",
+                                    "Author": "Tobias Djuren",
+                                    "DateTime": "2024-06-18T16:15:19+02:00",
+                                    "Content": "Right, this is a typo. Thanks for the hint!",
+                                    "Response to": "p1080262"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 3 Bonus Points",
+                            "Discussion_Id": "598168",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075881",
+                                    "Author": "Laurin Dahm",
+                                    "DateTime": "2024-05-31T15:50:11+02:00",
+                                    "Content": "I'm not sure for what we get the Bonus Points of the bonus exercise 2. 1 Point for Ray casting and 1 point for ray marching + sphere tracing ? And do we get 2 Points for each if we implement is on the GPU (or 1 for CPU and 1 for GPU implementation)?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075897",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-31T16:19:16+02:00",
+                                    "Content": "You get one bonus point for ray marching on the CPU, one point for ray marching on the GPU, one point for sphere tracing on the CPU and one point for sphere tracing on the GPU. In total, you can get up to four bonus points. If you do them on the GPU, you can skip the CPU implementation (and still get full bonus points).",
+                                    "Response to": "p1075881"
+                                },
+                                {
+                                    "Message_id": "p1078047",
+                                    "Author": "Laurin Dahm",
+                                    "DateTime": "2024-06-07T15:53:48+02:00",
+                                    "Content": "Do we need to Render the given implicit surfaces (generated from e.g. cat.off) on the GPU as well? Or is it enough to render an arbitrary Implicit Surface (that is not generated based on data Points) to demonstrate ray marching / spheretracing?",
+                                    "Response to": "p1075897"
+                                },
+                                {
+                                    "Message_id": "p1078087",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-06-07T17:36:30+02:00",
+                                    "Content": "> Do we need to Render the given implicit surfaces (generated from e.g. cat.off)  This is the point of the task: rendering the implicit surface you have generated from the given point cloud.",
+                                    "Response to": "p1078047"
+                                },
+                                {
+                                    "Message_id": "p1078092",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-06-07T17:54:59+02:00",
+                                    "Content": "To clarify: does that mean that we can't use our code from task 3 to compute the WLS function values on the CPU but must reimplement WLS on the GPU?",
+                                    "Response to": "p1078087"
+                                },
+                                {
+                                    "Message_id": "p1078101",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-06-07T18:32:02+02:00",
+                                    "Content": "The idea is to render the (continuous) implicit surface using ray marching, not its discretization defined by the grid samples. So, yes, WLS should be implemented on the GPU. Remember that a constant basis is sufficient.",
+                                    "Response to": "p1078092"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slides for Polygon meshes",
+                            "Discussion_Id": "599638",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078002",
+                                    "Author": "Awsam Agbaria",
+                                    "DateTime": "2024-06-07T13:46:12+02:00",
+                                    "Content": "Greetings CG Team,  I have noticed that the slides for lecture 7 and 8 have not been uploaded yet. I understand that there may be issues in the recordings causing delays, but would it be possible to get the slides out on their own in the meantime before the next lecture? I was not able to attend one of the lectures and I'd like to be caught up on the details of the subject before going to the next one.  Thank you for your time.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 2 Theory 1",
+                            "Discussion_Id": "597488",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074884",
+                                    "Author": "David Barac",
+                                    "DateTime": "2024-05-28T19:05:27+02:00",
+                                    "Content": "Since today I asked the professor this question and he also could not give me an answer:  Would a clamped B-Spline not always result in a division by 0? As the very first fraction for N^{1}_{0} would result in a denominator of 0-0? Or is there some rule I am missing?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074890",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-28T20:15:04+02:00",
+                                    "Content": "Yes, that is correct. In this case, you can ignore the summand that contains the division by zero.",
+                                    "Response to": "p1074884"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Basis Function ",
+                            "Discussion_Id": "596283",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072986",
+                                    "Author": "Simon Thomas Thomes",
+                                    "DateTime": "2024-05-23T12:34:01+02:00",
+                                    "Content": "In the lecture, N0i is defined as: ${N^0}_i =      \\begin{cases}     1 & if  t_i \\leq t \\leq t_{i+1}\\\\     0 & else\\\\ \\end{cases} $ But shouldn't it be $t_i \\leq t < t_{i+1}$ ? Because otherwise, N1i could be 2 at t = t_i+1. Or am I understanding something wrong. Best regards Simon",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073469",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-24T17:32:03+02:00",
+                                    "Content": "Hey Simon,  While it is true that the basis functions of order are typically defined on the half-open interval , it is not necessary to do so. The reason for that is that the basis functions have a function value of zero at both boundaries of the interval, except for the first and last basis function that have a function value of one on the lower and upper boundary value, respectively. But here, all other basis functions that support the first and last knot have a function value of 0 again. Thus, they still form a partition of unity, and it is not important whether the upper boundary is contained in its supported interval or not.",
+                                    "Response to": "p1072986"
+                                },
+                                {
+                                    "Message_id": "p1074603",
+                                    "Author": "Simeon Pawlowski",
+                                    "DateTime": "2024-05-28T11:17:43+02:00",
+                                    "Content": "If the condition is $$ t_{i} \\leq t \\leq t_{i+1} $$  We get for $$ t = t_{i+1} $$: $$ N_i^0(t_{i+1})=1 $$ and  $$ N_{i+1}^0(t_{i+1})=1 $$  Therefore, $$ N_i^1(t_{i+1})=\\frac{t_{i+1}-t_i}{t_{i+2}-t_{i+1}}N_{i}^0 + \\frac{t_{i+2}-t_{i+1}}{t_{i+2}-t_{i+1}}N_{i+1}^0 = N_{i}^0 +N_{i+1}^0=1+1=2 $$  Am i wrong?",
+                                    "Response to": "p1073469"
+                                },
+                                {
+                                    "Message_id": "p1074723",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-28T14:16:07+02:00",
+                                    "Content": "You are right. The basis functions of order zero are an exception, because they attain a constant value of one in their supported interval. This indeed contradicts the partition of unity property, since at $$t_{i+1}$$ the sum of all basis functions is two. In conclusion, the order zero basis functions should be defined on the interval $$[t_i, t_{i+1}[$$.",
+                                    "Response to": "p1074603"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise2 Theory 1.",
+                            "Discussion_Id": "594272",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069886",
+                                    "Author": "David Koettlitz",
+                                    "DateTime": "2024-05-14T10:59:59+02:00",
+                                    "Content": "The exercise sheet states \"Derive the basis functions of a first order (= degree 1) B-Spline...\". Are we supposed to calculate the derivatives of all N_i^1, with i \\in [0, ..., m] or should we just plug in the values for i and calculate the concrete m+1 basis functions?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069889",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-14T11:07:51+02:00",
+                                    "Content": "The word derive (German: \"herleiten\") may be a bit confusing, sorry for that. The task is to plug in the values and give an explicit expression for the basis functions. You need not compute the derivative.  EDIT: I just updated the phrasing in the exercise sheet.",
+                                    "Response to": "p1069886"
+                                },
+                                {
+                                    "Message_id": "p1070452",
+                                    "Author": "David Koettlitz",
+                                    "DateTime": "2024-05-15T12:46:47+02:00",
+                                    "Content": "Ok thanks! I have another question regarding B-Splines. Im a bit confused on what the domain of the basis functions should be. In the lecture, I believe it was said, that t usually is in the interval of [0, 1], but that would give weird basis functions, that are not continuous at all. On the lecture slides introducing these basis functions for B-Splines, there is written: t = (t_0, ..., t_n, t_{n+1}, ...), that t is the whole vector of the knots. But plugging in a vector for t into N_i^r(t) would produce a vector valued result of N, except at N_i^0, which produces only a scalar value. That doesn't seem right either! (for N to produce sometimes a vector and sometimes a scalar value depending on r) What is the domain of the B-Spline basis functions?",
+                                    "Response to": "p1069889"
+                                },
+                                {
+                                    "Message_id": "p1070655",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-15T18:42:49+02:00",
+                                    "Content": "Figuring this out is part of the task. The domain (or should I rather say support?) of each basis function depends on the domain of the functions of one order below that it was gathered from. It should not be surprising that it has something to do with the knot vector.",
+                                    "Response to": "p1070452"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group theory submissions inconsistent?",
+                            "Discussion_Id": "592859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067656",
+                                    "Author": "Andreas Paul Bruno Lönne",
+                                    "DateTime": "2024-05-07T10:58:19+02:00",
+                                    "Content": "Hey. A group member of mine submitted the theory assignment for our group. However, when I look at the submission form on my account, it appears empty (as if nothing was submitted). Does every group member have to submit the theory assignments individually?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067720",
+                                    "Author": "Ugo Paavo Finnendahl",
+                                    "DateTime": "2024-05-07T12:08:29+02:00",
+                                    "Content": "Hey Bruno,  that was an error on our side. I fixed it, can any group member of your group please resubmit your theory. Thank you.",
+                                    "Response to": "p1067656"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 1 Theory task 3",
+                            "Discussion_Id": "592815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067592",
+                                    "Author": "David Barac",
+                                    "DateTime": "2024-05-07T10:04:10+02:00",
+                                    "Content": "The task doesn't specify this, but are the k-nearest neighbor query algorithm and the k also arbitrary? Or can we choose which algorithm we use and what k is?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067714",
+                                    "Author": "Ugo Paavo Finnendahl",
+                                    "DateTime": "2024-05-07T12:04:10+02:00",
+                                    "Content": "Hey David,  No, you cannot choose the algorithm or k. The scenario must be independent of k and the query algorithm.",
+                                    "Response to": "p1067592"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam dates",
+                            "Discussion_Id": "592720",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067447",
+                                    "Author": "Simeon Pawlowski",
+                                    "DateTime": "2024-05-06T19:27:25+02:00",
+                                    "Content": "Hello, do you have a rough estimate for when the exams will take place?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No access to course resources",
+                            "Discussion_Id": "587210",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058821",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-04-18T10:21:16+02:00",
+                                    "Content": "Hello, when I try to access the lecture video or slides, I get an authorisation prompt asking for username and password. Entering TU account credentials yields an error. Best, Eloi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058838",
+                                    "Author": "Moritz Luca Bostelmann",
+                                    "DateTime": "2024-04-18T10:48:48+02:00",
+                                    "Content": "The username is \"cg\" and the password is \"rules\".",
+                                    "Response to": "p1058821"
+                                },
+                                {
+                                    "Message_id": "p1058854",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-04-18T11:02:03+02:00",
+                                    "Content": "Thanks :)",
+                                    "Response to": "p1058838"
+                                },
+                                {
+                                    "Message_id": "p1058855",
+                                    "Author": "Hendrik Meyer",
+                                    "DateTime": "2024-04-18T11:02:43+02:00",
+                                    "Content": "Hi Eloi, the credentials posted by Moritz are correct. I forgot to add them to the ISIS page but now they are visible above the timetable.  Best Hendrik",
+                                    "Response to": "p1058838"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Limited Participation",
+                            "Discussion_Id": "584094",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054298",
+                                    "Author": "Tarik Abu Mukh",
+                                    "DateTime": "2024-03-27T09:59:28+01:00",
+                                    "Content": "Assuming we hit the cap of students specified on the MOSES entry for his course, how will it be decided who gets to take it? Is it based on grades from CG1? Or is it a random draw?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054316",
+                                    "Author": "Ugo Paavo Finnendahl",
+                                    "DateTime": "2024-03-27T11:11:36+01:00",
+                                    "Content": "Hello Tarik,  We've never been in this situation before and it is very likely that we are less than 48 students this semester as well. Don't worry, we can also handle more than 50 students by changing the exam format to a written exam.  kind regards Ugo",
+                                    "Response to": "p1054298"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

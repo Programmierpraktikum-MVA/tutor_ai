@@ -1,0 +1,287 @@
+[
+    {
+        "Course_Name": "Medizintechnik Übungen",
+        "Course_id": "35104",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1639386",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Übung zur Blutdruckmessung und Statistik",
+                            "Discussion_Id": "605682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086758",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-07-05T09:23:53+02:00",
+                                    "Content": "Liebe Studierende, In der Abschlussübung des Moduls wollen wir gemeinsam Experimente zur Blutdruckmessung durchführen und statische Analysen durchführen. Bitte bereiten Sie sich dafür mit der Vorlesung zur Blutdruckmessung (Schwerpunkte ist die nichtinvasive Blutdruckmessung mit Manschette und Normwerte) vor und machen Sie sich mit dem Prüfplan vertraut. Zu der Übung muss kein Protokoll angefertigt werden, aber um ein Verständnis der Inhalte zu gewährleisten, findet zu Beginn der Übung ein Testat statt. Bitte seien Sie pünktlich um 10:00 Uhr mit Stift anwesend! Wie auch in den letzten Übungen bietet es sich an, einen Laptop dabei zu haben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Informationen zur Protokollerstellung der Übung am IZM",
+                            "Discussion_Id": "604990",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085789",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-07-02T14:06:13+02:00",
+                                    "Content": "Liebe Studierende, Da es zu Nachfragen kam, sind hier ein paar weitere Informationen zur Protokollerstellung. Sie suchen sich für die Analysen eine der Exceldateien aus - und gebt diese bitte auch an Sie gegen nach Protokollleitfaden vor, beschreiben also nach der Einleitung die Methodik (Versuchsaufbau, -Durchführung, und Berechnungsgrundlagen - hier kann sich an der Aufgabenstellung orientiert werden. In der Struktur habt immer euer Gesamtziel vor Augen - also die Erfassung von Biosignalen und den Vergleich der Systeme. Die einzelnen Unterpunkte der Aufgabenstellung helfen euch nur, das Gesamtziel zu erreichen Aufgabe 1 wurde größtenteils schon in der Übung durchgeführt und soll nur vollständigkeitshalber dokumentiert werden (um dann die Vergleiche durchführen zu können); Der Fokus liegt auf Aufgabe 2 und der Diskussion In den Ergebnisteil kommen folglich die Plots und berechneten Parameter (Aufgabe 1.7-1.14, Aufgabe 2.4-2.12) Es sieht vielleicht auf den ersten Blick sehr viel aus, aber hinter den meisten Aufgaben steckt lediglich eine Zeile Code und zu Aufgabe 1 wurde dieser ja zum großen Teil bereits zur Verfügung gestellt. Dass ihr das im Sekretariat abgeben müsst, ist obsolet. Herr Adams hatte noch eine alte Vorlage.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenstellung Biomonitoring online",
+                            "Discussion_Id": "604792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085518",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-07-01T18:10:04+02:00",
+                                    "Content": "Liebe Studierende, Die Aufgabenstellung zur Übung vom letzten Donnerstag am IZM ist nun online. Die Abgabe ist auf den 15.07.24 (23:59 Uhr) datiert.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Externe Übung am Fraunhofer IZM",
+                            "Discussion_Id": "601578",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080862",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-06-17T16:11:45+02:00",
+                                    "Content": "Liebe Studierende, Am Donnerstag den, 27.06.2024 findet unsere externe Übung am Fraunhofer IZM statt. Dort werden Sie Ihre Kenntnissen in der Aufnahme von Vitalparametern weiter vertiefen können. Treffpunkt: 9 Uhr am Fraunhofer IZM  Adresse:  Gustav-Meyer-Allee 25/Gebäude 17, 13355 Berlin Infos zur Anfahrt: https://www.izm.fraunhofer.de/de/kontakt/berlin.html Bitte bringen Sie pro Gruppe mindestens einen Laptop mit und bereiten Sie ihn wie folgt vor: Python und Spyder IDE unter Anaconda Arbeitsumgebung (https://docs.spyder-ide.org/current/installation.html ; https://www.uni-regensburg.de/assets/physik/fakultaet/IT/Tutorials-Installation-Programming-Environment/main-anaconda.pdf) Installation von Neurokit2, Matplotlib und Pandas Python-Bibliothek Wenn keine Python Grundkenntnisse vorhanden sind, können Sie sich dieses Video zur Vorbereitung ansehen:  https://www.youtube.com/watch?v=oxXAb8IikHM&list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0TqZB&index=1 (Videos von 1 bis 20)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Externe Übung bei Berlin Heart",
+                            "Discussion_Id": "600046",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078640",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-06-10T15:18:13+02:00",
+                                    "Content": "Liebe Studierende, Am Donnerstag findet die externe Übung bei Berlin Heart statt. Wir treffen uns um 10:15 Uhr am Wiesenweg 10, 12247 Berlin. Sie erwartet eine Präsentation über das Unternehmen sowie ein Rundgang durch die Produktionsstätten und den F&E-Bereich. Zum Abschluss werden auch Karrieremöglichkeiten vorgestellt, falls bei dem ein oder anderen das Interesse geweckt wurde. Die Exkursion ist bis 13:10 Uhr angesetzt, sodass Sie noch zu eventuellen Anschlussvorlesungen schaffen sollten.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Aufgabe EKG  - Programmierung",
+                            "Discussion_Id": "598552",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076468",
+                                    "Author": "Christina Mittag",
+                                    "DateTime": "2024-06-03T14:02:14+02:00",
+                                    "Content": "Liebe Studierende,  ich habe die \"doppelten\" Gruppen entfernt, sodass nun eine Abgabe für die nächste Aufgabe über ISIS möglich sein sollte. Ist dies nicht der Fall, dann senden Sie ihre Lösungen bitte als Mail an: vivian.waldheim@tu-berlin.de UND christina.mittag@tu-berlin.de  Viele Grüße Christina Mittag",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anpassung der Dispo / Protokolle",
+                            "Discussion_Id": "597398",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074761",
+                                    "Author": "Christina Mittag",
+                                    "DateTime": "2024-05-28T15:34:19+02:00",
+                                    "Content": "Liebe Studierende, wie bereits in der letzten Übung angekündigt, wird die Übung \"Erfassung von bioelektrischen Körpersignalen\" mit Testat und Protokoll stattfinden. Die Übung \"Blutdruckmesstechnik\" wird als reiner Anwesenheitstermin durchgeführt.  Viele Grüße Christina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Daten der Messung online",
+                            "Discussion_Id": "592884",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067698",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-05-07T11:46:06+02:00",
+                                    "Content": "Liebe Studierdende, die Daten der Messung vom Donnerstag sind nun im Ordner online. Die Bearbeitungszeit verlängert sich durch die Verzögerung auf den 21.05.2024. Sie müssen ihr Protokoll also erst am 21.05.24 abgeben!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsblatt Strömungsmechanik online ",
+                            "Discussion_Id": "591610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065690",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-05-02T10:41:44+02:00",
+                                    "Content": "Liebe Studierende, Ich entschuldige mich für das späte Hochladen, nun findet ihr das Übungsblatt im Ordner zur Übung Strömungsmechanik. Viele Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bitte zur Teilnahme an der Lehrevaluation",
+                            "Discussion_Id": "576570",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1042541",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-01-31T21:06:32+01:00",
+                                    "Content": "Um unsere Lehrmethoden stetig zu verbessern und spannend, strukturiert und anschaulich Wissen zu vermitteln, freuen wir uns über jede Art von Feedback zum Modul! Derzeit findet wieder die zentrale Lehrevaluation statt. Da die kurze Umfrage nur ausgewertet wird, wenn genug Teilnehmende mitmachen, sind wir auf alle angewiesen. Auch wenn auf der Umfrage \"Dozent\" steht, möchten wir Sie bitten die WiMis während der Übungen gesammelt zu evaluieren. Bitte nehmen Sie sich die paar Minuten Zeit, wenn Sie mal wieder auf eine verspätete Bahn (oder eine verspätete Verabredung) warten, wenn eine Vorlesung zu langweilig erscheint, oder sie kurz beim Lernen für die Prüfungen prokrastinieren müssen. Die Befragung läuft bis zum 11.02.2024. Hier ist der Link.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung HF-Chirurgie, bitte Unterweisungsvideo anschauen und Test durchführen!",
+                            "Discussion_Id": "567090",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1028171",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2023-12-12T10:29:18+01:00",
+                                    "Content": "Liebe Studierende,  Wir sind als Fachgebiet Medizintechnik dazu verpflichtet bei Übungen in unserem Haus eine Sicherheitsunterweisung durchzuführen. Aber Sie haben Glück! Wir haben für Sie ein Video aufgenommen, welches Sie sich anschauen können. Um Ihre Unterweisung zu Prüfen gibt es einen dazugehörigen Test, den Sie bitte absolvieren. Nach erfolgreichem Bestehen (83% sind nötig und Sie haben mehrere Versuche) bekommen Sie Zugriff auf die Aufgabenstellung für die Übung. Also ist es ratsam, den Test vor der Übung durchzuführen! Entschuldigen Sie bitte die späte Nachricht dazu, es gab dazu interne Absprachenprobleme. Viel Erfolg und bis morgen zur Übung!  Peter Seufert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgige Übung, Exkursionleiter gesucht",
+                            "Discussion_Id": "563736",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1022928",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2023-11-28T09:27:14+01:00",
+                                    "Content": "Liebe Studierende,   leider bin ich momentan krank und kann daher die Übung/Besuch nicht begleiten. Es gäbe die Möglichkeit, wenn einer von euch als \"Exkursionleiter\" die Verantwortung für die Gruppe übernimmt, dass ihr ohne mich den Besuch absolvieren könnt. Würde einer von euch die Aufgabe übernehmen? Falls ja, dann schick mir doch bitte eine Mail mit einem Foto von dir, dann können bei Olympus die Ausweise erstellt werden.  Ansonsten müssen wir die Übung wahrscheinlich absagen.  Viele Grüße Peter Seufert",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1022944",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2023-11-28T10:06:20+01:00",
+                                    "Content": "Liebe Studierende,  Dennis Tettke wird morgen für mich einspringen, also braut keiner von euch den Exkursionsleiter zu machen.  Viele Grüße!",
+                                    "Response to": "p1022928"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herbstfest 2023",
+                            "Discussion_Id": "551618",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1002743",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2023-10-17T11:19:14+02:00",
+                                    "Content": "Liebe „Medtech-Erstis“ und „-Zweitis\" sowie weitere Studierende, zum Auftakt des Semesters möchten wir euch gerne die Möglichkeit geben uns, sowie euch untereinander schon mal ein bisschen kennenzulernen. Daher laden wir euch recht herzlich zu unserem Herbstfest ein. Es wird leckere Snacks und Getränke geben. Zudem werden die Studiengangssprecher gewählt und ihr könnt eure grauen Zellen im PubQuiz gegeneinander antreten lassen und den begehrten Wanderpokal des Fachgebiets gewinnen! Es wäre sehr toll, wenn möglichst viele Erstsemester – am besten alle – dabei sein könnten, damit ihr euch für die im Semester anstehende Gruppenarbeit etwas kennenlernen könnt. Unsere höheren Semester sind natürlich auch gerne gesehen!   Wann:                 Donnerstag, den 26.10.2023                            17:00 - 19:00 Uhr (Open End für die, die Lust haben ;) ) Wo:                    SG-09 215 Getränke und Essen werden von uns bereitgestellt,  gerne dürft ihr aber auch selbst etwas beisteuern ;).   Bitte meldet euch bis zum 26.10. 9:00 Uhr hier verbindlich an, wenn ihr teilnehmen möchtet.   Wir freuen uns schon darauf euch zu sehen! Viele Grüße Im Namen aller Mitarbeiter*innen des Fachgebiets Medizintechnik  PS: Entschuldigt die doppelten Mails, wir wollen so viele Studierende wie möglich erreichen, daher nutzen wir ISIS.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum für Studenten",
+                    "Forum_id": "1639389",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Folien Herzunterstützungssysteme",
+                            "Discussion_Id": "591434",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065399",
+                                    "Author": "Carmen Sophie Ringel",
+                                    "DateTime": "2024-05-01T12:11:54+02:00",
+                                    "Content": "Hallo, leider wurden die Folien der gestrigen VL zum Thema Herzunterstützungssysteme noch nicht hochgeladen. Reichen die Informationen aus dem Biofluidmechanik Skript für das Testat oder können wir die noch irgendwie bekommen? Viele Grüße Carmen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065413",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-05-01T13:11:13+02:00",
+                                    "Content": "Liebe Studierende, Es tut uns leid, dass die Folien noch nicht zu Verfügung stehen. In der Ankündigung zur Übung im Kurs ist jedoch die Vorlesung vom letzten Semester verlinkt und kann zum Lernen genutzt werden. Viel Erfolg morgen und heute einen sonnigen Tag der Arbeit!",
+                                    "Response to": "p1065399"
+                                },
+                                {
+                                    "Message_id": "p1065422",
+                                    "Author": "Carmen Sophie Ringel",
+                                    "DateTime": "2024-05-01T13:32:59+02:00",
+                                    "Content": "Liebe Vivian,  leider bekomme ich die folgende Fehlermeldung \"Sie können sich nicht mehr einschreiben, weil die Einschreibung am Sonntag, 30. April 2023, 23:59 beendet wurde.\". Wäre es möglich den Kurs erneut zu öffnen?",
+                                    "Response to": "p1065413"
+                                },
+                                {
+                                    "Message_id": "p1065435",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-05-01T14:17:00+02:00",
+                                    "Content": "Ich meinte, dass die Vorlesung hier im Kurs unter der aktuellen Woche im Beitrag verlinkt ist. Falls der Link bei Ihnen nicht funktioniert, ist die VL (vom letzten Jahr) aber nun auch im Ordner mit den Dateien zu Übung zu finden. Diesen sollten Sie sehen, wenn Sie den Test zum Sicherheitsvideo durchgeführt haben.",
+                                    "Response to": "p1065422"
+                                },
+                                {
+                                    "Message_id": "p1065442",
+                                    "Author": "Carmen Sophie Ringel",
+                                    "DateTime": "2024-05-01T14:53:34+02:00",
+                                    "Content": "Ja, der Link funktioniert nicht. Vielen Dank für die Bereitstellung.",
+                                    "Response to": "p1065435"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungstermin Biofluidmechanik Charite",
+                            "Discussion_Id": "590796",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064433",
+                                    "Author": "Ole Arne Iven",
+                                    "DateTime": "2024-04-29T14:07:47+02:00",
+                                    "Content": "Hallo,  für den kommenden Übungstermin sind die Treffzeiten für die Gruppen 1-6 angegeben, obwohl es quasi 8 Übungsgruppen gibt.  Zu welchen Zeitpunkten sollen Gruppe 7 und 8 erscheinen?  Schönen Montag",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064811",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-04-30T07:26:46+02:00",
+                                    "Content": "Hallihallo,  Ich habe die Gruppennamen angepasst. Derjenige, der allein in Gruppe 7 ist, möchte sich bitte einer anderen Gruppe zuordnen. Es wird dann eine Gruppe mit 4 Teilnehmenden geben.  Viele Grüße Peter Seufert",
+                                    "Response to": "p1064433"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folien zur Übung HF Chirurgie",
+                            "Discussion_Id": "568373",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1030167",
+                                    "Author": "Philip Maximilian Puille",
+                                    "DateTime": "2023-12-18T11:48:55+01:00",
+                                    "Content": "Guten Tag,  wäre es möglich, die Folien zu der letzten Übung hochzuladen?   Vielen Dank",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenbildung",
+                            "Discussion_Id": "552164",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1003592",
+                                    "Author": "Aleksandra Naydenova",
+                                    "DateTime": "2023-10-18T11:56:14+02:00",
+                                    "Content": "Hallo zusammen,  noch zwei Mädels und ich haben uns für eine Gruppe zusammengefunden. Leider gibt es nun keine unbelegten Gruppen mehr. Aus diesem Grund wollten wir mal fragen, ob vielleicht jemand von den (noch) einzelbelegten Gruppen sich in eine andere eintragen und somit eine davon für uns frei machen könnte? Das wäre echt Klasse! (=   Liebe Grüße Verena, Victoria & Aleksandra",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

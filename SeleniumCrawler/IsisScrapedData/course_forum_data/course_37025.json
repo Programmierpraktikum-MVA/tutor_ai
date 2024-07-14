@@ -1,0 +1,509 @@
+[
+    {
+        "Course_Name": "[SS24] Projekt KI - symbolische Künstliche Intelligenz",
+        "Course_id": "37025",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1741941",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Informationen zum Poster für den Projektabschluss am 19.07.",
+                            "Discussion_Id": "606848",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088424",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-10T11:34:13+02:00",
+                                    "Content": "Guten Tag! Es folgen Informationen zum von Ihnen zu erstellenden Poster. Jede Gruppe erstellt ein Poster, das Sie spätestens am Vorabend in das Abschlusspräsentationsforum hochladen. Ich werde jeweils ein Exemplar in DIN A4 für Sie ausdrucken. Ihr Poster soll den Gruppennamen und auch die Namen der Gruppenmitglieder tragen. Verwenden Sie ein Querformat. Erstellen Sie bitte keinen Foliensatz mit mehreren Folien. Das Poster soll Ihre KI dokumentieren. Denken Sie bitte daran, dass alle Gruppen eine ähnliche KI haben. Konzentrieren Sie sich daher bitte auf (vermeintliche) Alleinstellungsmerkmale oder Besonderheiten Ihrer KI-Entwicklung. Ein Abschnitt soll Ihren persönlichen Erfahrungen gewidmet sein und darf gerne auch Hinweise enthalten, von denen andere Gruppen profitieren können. Ihr Poster soll wissenschaftlich ausgerichtet sein. Es gibt Leitfäden zur Erstellung wissenschaftlicher Poster, z.B. Leitfanden der Uni Bremen (pdf). Eine Bildersuche kann Anregungen geben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. und 3. Contest",
+                            "Discussion_Id": "602214",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081739",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-19T18:15:23+02:00",
+                                    "Content": "Guten Tag, die Daten für die nächsten beiden Conteste stehen fest. Zeitbuget werden insgesamt 2min pro Match pro Spieler sein. 2. Contest: 01.07.24 ab 15 Uhr 3. Contest: 15.07.24 ab 15 Uhr Sie haben wieder die Möglichkeit Ihre KI vorzeitig abzugeben, um testen zu lassen, ob alles funktioniert. Das können sie jeweils bis zum Freitag davor um 14 Uhr machen (für den 2. Contest ist der Stichtag dafür also der 28.06. 14 Uhr). Ich rate Ihnen dieses Angebot anzunehmen. Sie erhalten dann bis Freitagabend, spätestens Samstag früh eine Rückmeldung, ob alles funktioniert hat und wenn nicht, welche Fehler auftraten.  Die Abgabebedingungen: ZIP per Mail oder Gruppenforum Oder Link zu Git oder TU Cloud (Überprüfen Sie, dass Sie mir Zugang gewären) Alle nicht Python KIs müssen in einer Windows Executable vorliegen Ergänzen Sie eine ReadMe mit genauen Anweisungen wie Ihre KI auszuführen ist (in der ZIP) Nennen Sie bitte in Ihren Ordnern Ihr Gruppenkürzel, um Verwechslungen zu vermeiden (idealerweise geben Sie diesen auch im Betreff Ihrer Mail an) Testen Sie Ihren Code. Mit Freude auf die nächsten Conteste Sarah Lengfeld",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081933",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-20T11:59:38+02:00",
+                                    "Content": "Die erfolgreiche Teilnahme an beiden Contests wird mit bis zu 5 Portfoliopunkten (aus dem Portfolioelement \"Projektergebnisse\") bewertet.  Pauschal 3 Punkte erhalten Sie: wenn Ihre KI fehlerfrei an den Contests teilnimmt (unabhängig von der Platzierung) und Sie außerdem im Projektbericht die Leistung Ihrer KI in diesen Contests reflektieren. Zur Reflexion gehört eine Analyse der Spielstärke und Spielweise Ihrer KI, idealerweise an Beispielen aus den Logfiles illustriert. Und auch die (geplanten) Maßnahmen, mit denen Sie auf die erkannten Schwächen Ihrer KI reagieren wollen. Bis zu 2 weitere Punkte erhalten die spielstärksten KIs. Nehmen Sie erfolgreich an nur einem Contest teil, verringern sich die Punkte um die Hälfte.",
+                                    "Response to": "p1081739"
+                                },
+                                {
+                                    "Message_id": "p1088287",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-07-10T03:21:22+02:00",
+                                    "Content": "Hallo,  an dieser Stelle noch ein paar Ergänzungen. Der 3. Contest steht demnächst an und Sie haben noch bis Freitag, den 12.07. 14 Uhr Zeit mir Ihre KI zur Probe zukommen zu lassen. Wenn Sie bereits erfolgreich am 2. Contest teilgenommen haben, ist die Wahrscheinlichkeit groß, dass alles wieder klappt. Aber testen Sie es ruhig dennoch lokal mit dem Server oder lassen Sie mir Ihre KI per Mail oder Gruppenforum zukommen. Zusätzlich zu den oben genannten Bedingungen würde ich darum bitten, dass sich Ihre KI wenn möglich aus einem Überordner mit der Konsole ausführen lässt. Falls das gar nicht geht, kontaktieren Sie mich bitte für eine individuelle Lösung.  Für Java KIs scheinen auch jar zu funktionieren, bitte lassen Sie das aber unbedingt vorher testen. Falls Sie Probleme mit dem Erstellen Ihrer Executable haben, wenden Sie sich doch gerne im Forum an Ihre Mitstudierenden.  Viele Grüße und bis zum 3. Contest Sarah Lengfeld",
+                                    "Response to": "p1081739"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse 2. Contest",
+                            "Discussion_Id": "606750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088286",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-07-10T03:13:09+02:00",
+                                    "Content": "Hallo, der 2. Contest ist fertig und jeder, der etwas eingesendet hat, müsste sich entweder unten in der Teilnehmerliste sehen oder eine Nachricht bekommen haben, was nicht funktioniert hat. Bitte melden Sie sich ruhig per Mail oder in der Sprechstunde, damit es hoffentlich beim 3. Contest klappt, falls es diesmal nicht gelungen ist. Ich freue mich, dass wir diesmal ein breiteres Teilnehmerfeld mit 18 Gruppen hatten.  Es wurde wieder ein Schweizer System verwendet. In jedem Match wurde ein Hin- und ein Rückspiel ausgeführt. Somit war jeder Mal rot und der startende Spieler. Nach jeder Runde der Schweizer Systems wurden Sie gegen den Spieler gematcht, der nach Ihnen die höchste Punktzahl hatte, gegen den Sie noch nicht gespielt haben. Sie haben jeweils einen Punkt für einen Sieg und einen halben für ein Draw bekommen. Diesmal darf ich Gruppe AD zum Sieg gratulieren. Den gemeinsamen 2. Platz bilden die Gruppen G, J und L. An dieser Stelle war keine Unterscheidung nach zuvor gegeneinander gespielten Matches möglich.  Hier finden Sie die gesammelten Logs der Spiele. Sie können sich dort Ihre Spiele heraus suchen. Der Titel verrät jeweils welcher Contest (C2 für Contest 2) und wer der rote und blaue Spieler war. Der Rote wird hierbei zuerst genannt. Hier noch einmal die Paarungen der Runden mit Ergebnissen: Gerade bei den vermutlich ähnlich starken Gruppen in der 4. Runde zeichnet sich nun doch ein leichter Anzugsvorteil mit rot ab. Was zum Glück dadurch ausgeglichen wird, dass wir ein Hin- und Rückspiel spielen. Und zum Abschluss ein paar Statistiken:  Ich freue mich schon auf den nächsten baldigen Contest.  Viele Grüße Sarah Lengfeld",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse der Lehrevaluation und Feedbackgespräch",
+                            "Discussion_Id": "606530",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087971",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-09T11:02:45+02:00",
+                                    "Content": "Guten Tag! Vielen Dank, dass so viele an der Evaluation teilgenommen haben. Die Ergebnisse (ohne Detailkritik) finden Sie im Materialordner hier: 50 Projekt_KI_Evaluation_ohne_Textkritik.pdf Das Feedbackgespräch, an dem ich Stellung beziehe zur Evaluation und sehr gerne mit Ihnen Verbesserungen am Modul diskutieren möchte, findet Donnerstag zur üblichen Zeit statt, aber online über zoom und nicht im Hörsaal. Sie dürfen gerne anonym (ohne Kamera und ohne Ihren Klarnamen) daran teilnehmen. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektabschluss in Präsenz am 19.07.",
+                            "Discussion_Id": "606353",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087709",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-08T17:10:41+02:00",
+                                    "Content": "Guten Tag! Freitag, 19.07. von 10-12 Uhr findet die \"Abschlusspräsentation\" im A053 (also in Präsenz) statt. Ich erwarte, dass alle Teilnehmenden kommen. Normalerweise zeichnet sich eine Abschlusspräsentation dadurch aus, dass jede Arbeitsgruppe ihre Ergebnisse präsentiert. Diese Vorgehensweise ergibt im KI-Projekt, wo 33 Gruppen dieselbe Aufgabe hatten, keinen Sinn. Somit werden wir den Ablauf dahingehend abändern, dass Wiederholungen möglichst nicht stattfinden, aber  \"Lessons Learned\" und überhaupt ein Erfahrungsaustausch zwischen den Gruppen stattfinden kann. Dafür benötige ich einige Vorleistungen von Ihnen (im Zeitraum vom 10.07. - 18.07.): ISIS-Gruppenbefragung zu den Merkmalen Ihrer KI und sonstigem wertvollen Feedback an andere Gruppen. Anonyme ISIS-Befragung für Ihr individuelles Feedback. Handout oder Mini-Poster (1 Seite DIN-A4) mit den wichtigsten Features Ihrer KI und Ihren persönlichen Erfahrungen. Diese Informationen haben Sie zuvor auch schon in der ISIS-Gruppenbefragung ausgefüllt. Vorläufige Agenda: Zusammenfassung und Evaluation des KI-Projekts: Auswertung des letzten Contests, Präsentation der ISIS-Befragungen (Fricke), gefolgt von einer kurzen Diskussion Mini-Posterpräsentationen (Studierende): Jede Projektgruppe hat einen festen Platz im Hörsaal. Jeweils eine Person bleibt am Platz, die anderen wechseln zu anderen Gruppen und interviewen sich gegenseitig. Nach ca. 10 Minuten erfolgt ein Platzwechsel, und nach weiteren 10 Minuten noch ein Tausch. Abschluss (Fricke) Ihre Teilnahme und Mitarbeit wird mit maximal 5 Portfoliopunkten (\"Qualität\") belohnt.  Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Game Server ist verfügbar",
+                            "Discussion_Id": "595846",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072371",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-05-22T07:00:00+02:00",
+                                    "Content": "Guten Morgen, der Game Server ist verfügbar und bereit nach und nach von euch eingebunden zu werden. Der Server ist unter diesem Link für euch auf Git zu erreichen. Am Besten klont ihr euch das Repository auf eurem Rechner, um Updates einfach pullen zu können. Ihr könnt euch aber auch das Verzeichnis als zip runterladen.  Bitte lest euch zu Beginn die ReadMe gründlich durch. Falls ihr Fragen habt, zögert nicht in die Sprechstunde zu kommen oder mir eine Mail zu schicken. Auch ist es möglich einen seperaten Termin außerhalb der Sprechstunde für einen Zoomcall zu vereinbaren. Über Updates und Entwicklungen werde ich euch unter diesem Thread auf dem Laufenden halten. Auch informiere ich hier, wenn der Server gehostet online ist und unter welcher Adresse ihr diesen erreichen könnt.  Bis bald, Sarah Lengfeld",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084550",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-28T06:27:21+02:00",
+                                    "Content": "Guten Morgen, die neue Variante des Game Servers ist online. Es gibt zwar nur wenige Änderungen, aber ihr könnt nun auf eine Variable time im JSON-Objekt zugreifen, die euch die verbleibende Zeit in Millisekunden angibt. Der Beispiel-Client wurde um einen Beispielzugriff auf diese Variable erweitert. Zudem gibt es eine Variable end, die den Wert TRUE annimmt, sobald ein Spiel beendet ist. Diese könnt ihr für ein sinnvolleres Beenden eurer Anwendung nutzen. Bitte beachtet, dass euer Gegner einen Sieg durch Timeout erhält, sobald ihr die Zeit von zwei Minuten überschreitet. Zusammenfassung der neuen Features: Zeitkontrolle mit Timeout-Siegen Übermittlung der Endbedingung Stabilerer Server Logs enthalten Erklärungen für Siege, wenn diese nicht auf normalen Wegen erreicht wurden Viele Grüße Sarah Lengfeld",
+                                    "Response to": "p1072371"
+                                },
+                                {
+                                    "Message_id": "p1084932",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-29T18:02:13+02:00",
+                                    "Content": "Als kleine Ergänzung: Die Zeitangabe, die sie zurück bekommen ist in Millisekunden.",
+                                    "Response to": "p1084550"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorzeitige Einreichungen für den 2. Contest",
+                            "Discussion_Id": "604407",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084929",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-29T17:55:47+02:00",
+                                    "Content": "Liebe Studierende,  Ich habe alle vorzeitigen Abgaben ausprobiert und jeder, der bereits etwas eingereicht hat, sollte heute im Laufe des Tages entweder per Mail oder im Gruppenforum ein Feedback bekommen haben. Wenn Sie das nicht erhalten haben, melden Sie sich bitte umgehend bei mir. Falls Sie noch Probleme haben: Der Gameserver ist verfügbar und Sie können damit Ihr Programm bereits lokal testen. Falls Sie Fragen haben, probieren Sie auch gerne, ob vielleicht Ihre Mitstudierenden eine Idee haben (Stichwort: Wie erstelle ich die Executable für den Contest?). Ich werde bemüht sein Montag früh noch etwaige Fragen zu beantworten.  Viele Grüße und viel Erfolg Sarah Lengfeld  P.S.: Ich habe auch an den Turnierlogs gearbeitet und Sie bekommen für den nächsten Contest die etwas besser überschaubaren Logs. Im Anhang ein Sneak Peak mit gelöschten Gruppennamen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bitte evaluieren Sie das KI-Projekt",
+                            "Discussion_Id": "602387",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081995",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-20T14:05:12+02:00",
+                                    "Content": "(english version below)     Liebe/r Kursteilnehmer/in,         wir bitten um Ihre Teilnahme an der anoymen Lehrevaluation unter dem Link     https://befragung.tu-berlin.de/evasys/online.php?pswd=P5HYU  Sie benötigen ca. 15 Minuten für diese Befragung. Bitte füllen Sie sie nur einmal aus. Deadline ist der 28.06.2024.       Mit Ihrer Teilnahme tragen Sie aktiv zur Optimierung der Lehre bei. Denn schlecht bewertete Lehrveranstaltungen werden in der Ausbildungskommission besprochen.     Die anonymen Evaluationsergebnisse werden wir auf der ISIS-Kursseite veröffentlichen (jedoch nicht die Freitextantworten). Außerdem bieten ich einen Termin an, wo ich die Ergebnisse gerne mit Ihnen diskutiere.       Vielen Dank im Voraus, S. Fricke          Dear student,         we hereby kindly ask you for your (anonymous) feedback to this module, following the link  https://befragung.tu-berlin.de/evasys/online.php?pswd=P5HYU You will need approx. 15 minutes to complete this survey. Please fill it out only once. Deadline is 28.06.2024.       With your participation, you actively contribute to the optimization of teaching. Poorly evaluated courses will be discussed in the Ausbildungskommission.     We will publish the anonymous evaluation results on the ISIS course page (but not the text comments). We will also offer a meeting to discuss the results with you.         Thank you in advance,         Stefan Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI-Projekt: Nächster Präsenztermin Donnerstag, 20.06.",
+                            "Discussion_Id": "601128",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080203",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-14T15:49:01+02:00",
+                                    "Content": "Guten Tag! Unsere nächste Präsenzsession findet Donnerstag, 20.06. von 14-16 Uhr im MA005 statt. Folgendes ist geplant: Rückblick auf die vergangenen Meilensteine Auswertung des ersten Contests Planung der nächsten Schritte: Meilensteine, Contests, Projektbericht, Postersession.  Sie haben die Möglichkeit, Fragen zu stellen bzw. Probleme zu thematisieren und im Plenum zu diskutieren. Zur Vorbereitung bitte die beiden ISIS-Aktivitäten ausfüllen (jeweils jede Gruppe bitte nur einmal), Deadline ist Donnerstagmorgen: Feedback zu den beiden ersten Meilensteinen Befragung zum aktuellen Stand und zur weiteren Planung für Jump Sturdy Viele Grüße, S. Fricke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081694",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-19T16:25:26+02:00",
+                                    "Content": "Guten Tag,  morgen um 14:15 ist unsere nächste Präsenzsession im KI-Projekt. Wir wollen ein Zwischenfazit ziehen, uns inhaltlich austauschen und die weitere Vorgehensweise besprechen.  Längst noch nicht alle Gruppen haben ihre Hausaufgaben erledigt: Bitte holen Sie das nach (jeweils jede Gruppe bitte nur einmal, sofern Sie das nicht bereits erledigt hatten): Feedback und Befragung.  Viele Grüße, S. Fricke",
+                                    "Response to": "p1080203"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse 1. Contest",
+                            "Discussion_Id": "602077",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081566",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-19T13:03:38+02:00",
+                                    "Content": "Guten Tag! Etwas verzögert sind nun auch die Ergebnisse des 1. Contests fertig. Leider hatte ich zwischendurch keinen Zugriff auf meine Mail. Allerdings sollten Sie nun, falls Sie mir etwas zugeschickt haben, eine kurze Rückmeldung bekommen haben. Entweder über Ihre Teilnahme am Contest, falls alles funktioniert hat oder ein kurzes Feedback darüber, was nicht funktioniert hat.  Bevor ich zu den Ergebnissen komme, möchte ich ein paar Anmerkungen zum generellen Learning machen: Falls Sie nicht in Python programmieren, senden Sie mir bitte für den nächsten Contest eine Executable für Windows. Alles Andere funktioniert leider nicht wirklich und schafft nur Mehrarbeit auf allen Seiten. Bitte testen Sie ihren Code! Hosten Sie den Server kurz auf Ihrem eigenen Rechner und lassen Sie Ihre KI ein gesamtes Spiel gegen sich selbst spielen. So können Sie schon ziemlich sicher gehen, dass Ihre KI auch im Contest performen kann.  Die Email der TU ist recht empfindlich, was Anhänge angeht, die nicht im ZIP Format sind. Insbesondere Executables, es schient fast so, als hätte die Uni da schlechte Erfahrungen gemacht. Bitte schicken Sie Ihren Code für den nächsten Contest als ZIP Datei per Mail (oder hier im Gruppenforum) oder laden Sie ihn in Git oder der TU Cloud hoch. Achten Sie bei den letzteren Varianten darauf, dass Sie mir auch Zugriff darauf gewähren. So und nun zum Contest an sich. Es wurde ein Schweizer System verwendet. In jedem Match wurde ein Hin- und ein Rückspiel ausgeführt. Somit war jeder Mal rot und der startende Spieler. Nach jeder Runde der Schweizer Systems wurden Sie gegen den Spieler gematcht, der nach Ihnen die höchste Punktzahl hatte, gegen den Sie noch nicht gespielt haben. Ich habe bereits hier eine 3 fach Wiederholung (Draw) eingebaut, da einige Spiele sonst nicht durchgelaufen wären. Sie haben jeweils einen Punkt für einen Sieg und einen halben für ein Draw bekommen. In Runde 1 & 2 musste ich eine Partie mehr spielen, weil die Teilnehmerzahl ungerade war. Das wurde für das Matchmaking beachtet.  Nun darf ich Gruppe T zum Sieg im ersten Contest gratulieren. Den zweiten Platz belegt AA und den dritten AD (AA hat AD im direkten Vergleich geschlagen, was zum 2. führt, auch wenn die Punktzahl gleich ist).   Hier finden Sie die gesammelten Logs der Spiele. Sie können sich dort Ihre Spiele heraus suchen. Der Titel verrät jeweils welcher Contest (C1 für Contest 1) und wer der rote und blaue Spieler war. Der Rote wird hierbei zuerst genannt. Hier noch einmal die Paarungen der Runden mit Ergebnissen:  Paarungen Runde 1                Runde 2                 Runde 3                 Runde 4                  AA-B r AA-E b AA-AD r AA-T b B-AA b E-AA b AD-AA b T-AA r E-W draw AD-H r E-F b F-V r W-E draw H-AD b F-E b V-F r AD-F b F-W draw T-W r AD-E r F-AD b W-F r W-T b E-AD b H-T b T-V r B-W r B-H r T-H b V-T r W-B r H-B b H-V r B-V b V-H r V-B b  Die neue Variante des Servers mit der Draw Funktion und einigen Bugfixes lade ich heute im späteren Verlauf des Tages hoch. Auch werden Sie im nächsten Contest eine Zeitbegrenzung in Form einer Gesamtzeit vom Server bekommen und jeweils Ihre verbleibene Zeit mit dem Board mitgegeben bekommen. Darauf können Sie sich schonmal vorbereiten. Ich freue mich auf den nächsten Contest!  Viele Grüße Sarah Lengfeld",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Contest",
+                            "Discussion_Id": "597655",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075132",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-05-29T14:21:47+02:00",
+                                    "Content": "Guten Tag, der Termin für den ersten Contest steht fest: Er wird am 06.06. beginnen. Bitte lasst mir eure KIs mit Instruktionen zur Installation und zum Starten bis spätestens 06.06. um 10 Uhr zukommen. Solltet ihr mir eure KIs bis zum Dienstag, den 04.06. um 10 Uhr, zukommen lassen, biete ich an, die Anbindung vorab zu testen, um sicherzustellen, dass alles einwandfrei läuft. Ihr würdet dann bis Mittwoch vor der Sprechstunde eine Rückmeldung erhalten. Alle KIs, die sich ab Donnerstag nicht anschließen lassen, können nicht am Contest teilnehmen. Ich freue mich sehr darauf zu sehen, wie eure KIs performen. Viele Grüße Sarah Lengfeld",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077824",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-06T19:19:25+02:00",
+                                    "Content": "Guten Abend,  Die Frist für die Abgabe wird nochmal auf morgen, Freitag um 10 Uhr verlängert.  Wenn Sie mir Ihre KI zukommen wollen, geht das per Mail an sarah.lengfeld@campus.tu-berlin.de als ZIP oder hier auf Isis in Ihrem Gruppenforum.  Bitte achten Sie darauf, dass Ihre KI sich an den hochgeladenen Gameserver anbinden kann und notieren Sie mir in einer ReadMe oder bei der Abgabe, welche Voraussetzungen installiert sein müssen und wie Ihre KI gestartet werden kann.  Viele Grüße Sarah Lengfeld",
+                                    "Response to": "p1075132"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Engagementpunkte",
+                            "Discussion_Id": "594911",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070876",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-16T12:37:10+02:00",
+                                    "Content": "Guten Tag, bitte protokollieren Sie persönlich (ggfs. auch innerhalb Ihrer Gruppe) Aktivitäten, für die Sie später Engagementpunkte erhalten möchten. Es gibt ja bereits einige Beiträge, die über das Vorankommen der eigenen KI hinausgehen, beispielsweise die Korrektur von falschen Stellungen oder die Bereitstellung einer GUI. Am Ende des Semesters, wenn es um die Notenvergabe geht, senden Sie mir Ihre Leistungen zum Wohle des gesamten Projekts dann zu, damit ich auf dieser Datenbasis entscheiden kann. Auch das Austragen und protokollieren von Contests kann zu Engagementpunkten führen. Eine abschließende Liste der infrage kommenden Aktivitäten existiert nicht. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2 Spielregelergänzungen",
+                            "Discussion_Id": "594740",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070621",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-15T17:12:14+02:00",
+                                    "Content": "Guten Tag! Das Regelwerk war offensichtlich unvollständig. Wir benötigen zwei weitere Spielendebedingungen: Ein Spieler, der nicht ziehen kann, verliert. Diese Situation wird durch den Gameserver ohnehin dadurch erkannt, dass die Zeit abläuft, ohne dass ein legaler Zug kommuniziert wurde. Wenn, im Rahmen der Alpha-Beta-Suche, ihr Zuggenerator keinen legalen Zug ermittelt, dann hat die Seite, die am Zug ist, verloren. Vermutlich werden solche Stellungen eher selten auftreten, aber Ihre Bewertungsfunktion könnte (oder sollte) das geeignet berücksichtigen. Remis durch dreifache Stellungswiederholung (wie im Schach). Es sind Spielstellungen denkbar, in denen für beide Seiten nur Züge zur Seite sinnvoll sind, weil ein Nachvorneziehen zum Spielverlust führt. Ohne diese Spielenderegel würde eine Seite verlieren (nämlich diejenige, deren Zeit zuerst abläuft). Für Sie gibt es 2 Möglichkeiten: Entweder Sie berücksichtigen diese Remisregel nicht und \"landen\" dann plötzlich durch eine entsprechende Nachricht des Gameservers im Spielende, oder (und das würde ich unbedingt empfehlen) Sie speichern (bzw. hashen) die erreichten Stellungen bis ein Zug nach vorne ausgeführt wird. Vielleicht findet ja eine Gruppe Stellungen für diese beiden Situationen, an denen man dann die Korrektheit des eigenen Suchverfahrens testen kann? In der ersten veröffentlichten Variante des Gameservers wird Regel 2. noch nicht integriert sein. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI-Projekt: Lehrvortrag über KI-Techniken am 16.05.",
+                            "Discussion_Id": "594370",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070041",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-14T15:04:23+02:00",
+                                    "Content": "Guten Tag, am 16.05. (14:15, MA 005) findet ein Lehrvortrag statt zum Thema: fortschrittliche KI-Techniken für strategische Spiele. Hier erfahren Sie Wissenswertes über die im weiteren Verlauf des Projektes umzusetzenden Techniken. Der Foliensatz wird vorher auf dem entsprechenden ISIS-Kursblock veröffentlicht (eine Vorab-Version ist dort bereits vorhanden).  Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI-Projekt am 25.04.",
+                            "Discussion_Id": "589259",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062115",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-24T10:51:15+02:00",
+                                    "Content": "Guten Tag! Wir befinden uns nun in der ersten Projektphase. Ein informelles Treffen findet in Präsenz am Donnerstag 14:15 im MA 005 statt. Es wäre sinnvoll, wenn aus jeder Gruppe mindestens ein Gruppenmitglied anwesend ist. Wer noch keine Gruppe gefunden hat, kann diesen Termin auch für die Kontaktaufnahme mit anderen interessierten Studierenden nutzen. Im aktuellen ISIS-Kursblock finden Sie: im Textblock Informationen zur nun anstehenden Vorgehensweise. Sie können die Phasen 1 und 2 zusammen oder getrennt durchführen, müssen Ihre Planung aber dem Trainer über das Gruppenforum kommunizieren. Projektwiki für Phasen 1 und 2: Hier stellen Sie Teststellungen für den Zuggenerator mit Deadline wie im Textblock angegeben ein. In einer anderen Seite im selben Wiki finden Sie Platz, um Ihre Benchmarkergebnisse für den implementierten Zuggenerator zu veröffentlichen. Die Aufgabenaktivität Mst1, in die Sie zum Abschluss der Phase Ihre Deliverables (bzw. Links zu diesen) hochladen. Phase 1 umfasst im Wesentlichen nur den Zuggenerator (und dessen Tests), am besten in Verbindung mit dem Gameserver. Phase 2 ist der Alpha-Beta-Suche gewidmet. Sie können beide Phasen auch zusammen durchführen und entsprechend nur einen Meilenstein planen. Das macht insofern Sinn, als dass Zuggenerator und Alpha-Beta-Suche gut parallel entwickelt werden können. Ich sehe Sie dann Donnerstag im Hörsaal -  viele Grüße: S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Videoaufzeichnung des Kickoffs am 18.04.",
+                            "Discussion_Id": "587377",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059098",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-18T15:28:15+02:00",
+                                    "Content": "Guten Tag, auf die Videoaufzeichung des heutigen Meetings können Sie hier zugreifen: https://tubcloud.tu-berlin.de/s/tWeAx8FMRHL8jRk Wenn Sie ein alternatives Thema bearbeiten möchten, schließen Sie sich mit gleichgesinnten Studierenden kurz und besprechen sich bzw. diskutieren Ihre Ideen im Themenforum. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Willkommen zum KI-Projekt!",
+                            "Discussion_Id": "582124",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1051180",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-03-01T14:47:14+01:00",
+                                    "Content": "Guten Tag!  Im Block \"Allgemeines\" finden Sie alles Wichtige zum Modul vorab.  Unser Semesterstart am Donnerstag findet online statt. Sie erfahren alles Wichtige zur Organisation, zum Semesterablauf. Auch die Auswertung der Vorabbefragung wird besprochen - gegebenenfalls haben einige Interessierte ja ein eigenes Thema vorzuschlagen.  Freitag in Präsenz halte ich einen Lehrvortrag zum Thema \"Realisierung einer Spiele-KI\". Die im Künstliche Intelligenz-Modul behandelten Grundlagen der Alpha-Beta-Suche werden darin nur kurz angesprochen, der inhaltliche Schwerpunkt wird auf weiterführenden Techniken liegen. Die oben erwähnten Grundlagen können Sie im Eigenstudium gerne wiederholen oder aneignen, beispielsweise anhand der Lehrvideos hier im ISIS-Kurs. Ihre erste Aktivitäten bereits vor dem Semesterstart sind folgende: Füllen Sie die anonyme Vorabbefragung aus (ca 15 Minuten). Die Gruppenwahlaktivität ist bereits geöffnet. Wenn Sie und Ihre Kommilitonen eine Dreiergruppe bilden möchten, können Sie das bereits tun. Wenn Sie noch Gruppenmitglieder suchen, verwenden Sie bitte das TN-Forum. Der Gruppenbildungsprozess sollte möglichst in der ersten Semesterwoche abgeschlossen werden. Eine inhaltliche Einarbeitung in das diesjährige Thema ist nicht notwendig, aber natürlich in Ihrem Interesse. Ich freue mich auf Sie!  S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Teilnehmer und Teilnehmerinnen",
+                    "Forum_id": "1742247",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Log Simulation",
+                            "Discussion_Id": "607364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089138",
+                                    "Author": "Hannes Jakob Pohnke",
+                                    "DateTime": "2024-07-12T02:04:56+02:00",
+                                    "Content": "Hi, Team AD hat gerade ein python script zur visuellen Simulation der Contest Logs geschrieben. Gerade zur Interpretation ist das sehr hilfreich; denn aus den Logs in Textform können wir nicht viel schlussfolgern. Hier eine demonstration:    https://isis.tu-berlin.de/pluginfile.php/3104299/mod_forum/post/1089138/log_simulation.mp4   Das script iteriert durch die FENs und stellt sie auf dem pygame Feld dar.  Es ist also an keine KI Implementation gebunden. Ihr müsst dazu lediglich den Log im Log-Ordner ablegen und im script die Referenz darauf updaten: https://isis.tu-berlin.de/pluginfile.php/3104299/mod_forum/post/1089138/AD_simulate_logs.zip  Beste Grüße, Team Anthony Davis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089539",
+                                    "Author": "Miguel Thomas Werner Müller",
+                                    "DateTime": "2024-07-13T10:57:42+02:00",
+                                    "Content": "Richtig cool!",
+                                    "Response to": "p1089138"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Threading Probleme Windows beim Timemanagement ",
+                            "Discussion_Id": "607518",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089384",
+                                    "Author": "Moritz Barner",
+                                    "DateTime": "2024-07-12T15:04:00+02:00",
+                                    "Content": "Schönen guten Tag, ich habe das dynamische Zeitmanagement implementiert. Hierfür verwende ich das Multiprocessing von Python. Auf Unix-Systemen stellt dies kein Hindernis dar, aber auf Windows startet der Multiprocessing Manager den Server Thread neu. Nach langer Fehlersuche habe ich noch keine Lösung gefunden. Hatte jemand ähnliche Probleme und hat es lösen können? Gibt es eine andere Möglichkeit in Python die Funktion genau nach vorgegebener Zeit abzubrechen? Ich habe jetzt eine Variante geschrieben, die die letzte Tiefe noch zuende sucht, aber da die Suchgröße exponentiell wächst ist dies nicht die schönste Lösung.  Ich freue mich auf eure Antworten! LG Mo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089521",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-07-13T03:23:38+02:00",
+                                    "Content": "Guten Abend,  eine der anderen Gruppen hatte das gleiche Problem. Leider haben wir das Problem auf Windows nicht lösen können. Alternative Ansätze lassen sich teilweise schon beim Googeln finden. Andere Möglichkeiten wären das mit Differenzen aus Daytime zu lösen, aber das ist schon ziemlich wild und nciht besonders sauber.  Hoffe, ihr findet was. Oder es liefert ja vielleicht noch jemand Vorschläge.  Viele Grüße Sarah",
+                                    "Response to": "p1089384"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exe Dateien aller Gruppen zur Verfügung stellen?",
+                            "Discussion_Id": "607045",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088707",
+                                    "Author": "Joshua Nicolas Goldbach",
+                                    "DateTime": "2024-07-11T00:34:56+02:00",
+                                    "Content": "Liebe Gruppen, Liebe Orga, Mich würde es echt interessieren, wenn wir die EXE Dateien vom 2. Contest zur Verfügung bekommen könnten um lokal bei uns gegen die anderen Teams zu spielen. Dadurch kann man auch nochmal schauen was Veränderungen für eine Auswirkung haben. Ich kann natürlich verstehen, dass man den Code nicht zur Verfügung stellen kann, aber die ausführbaren Exe Dateien wäre super.  Mfg  Joshua :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089517",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-07-13T03:04:29+02:00",
+                                    "Content": "Hallo,  von unserer Seite natürlich kein Problem. Hoffentlich könnt ihr euch da irgendwie zusammen schließen.  Viele Grüße Sarah",
+                                    "Response to": "p1088707"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Contest Abgabefrist",
+                            "Discussion_Id": "607480",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089335",
+                                    "Author": "Julian Renatus Kempter",
+                                    "DateTime": "2024-07-12T13:45:40+02:00",
+                                    "Content": "Hallo, falls man die KI testen lassen möchte ist die Frist ja heute 14 Uhr.  Wann ist denn die Frist, wenn man die KI nicht testen lassen möchte?  MfG Julian Kempter",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089494",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-07-12T20:59:34+02:00",
+                                    "Content": "Hallo,  Montag 15 Uhr.  Viele Grüße Sarah",
+                                    "Response to": "p1089335"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgaben für Mst4",
+                            "Discussion_Id": "607541",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089420",
+                                    "Author": "Kenan Keskin",
+                                    "DateTime": "2024-07-12T16:08:30+02:00",
+                                    "Content": "Hallo, Also laut einem anderen forum post muss man für Mst4 keine extra Abgabe machen, sondern einfach nur das endergebnis der KI und die Leistung für Mst4 im Projektbericht miteinbeziehen. Und die Abgabe für den Projektbericht ist ja zum 31 gesetzt, könnte man dann auch noch an Mst4 weiterarbeiten in diesem Zeitraum, bzw. mehr KI-Techniken integrieren? MfG Kenan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Contest 2 Time Left Plots",
+                            "Discussion_Id": "607255",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088988",
+                                    "Author": "Mateusz Zakrzewski",
+                                    "DateTime": "2024-07-11T16:21:35+02:00",
+                                    "Content": "Hallo, wir haben für fast alle Contest-Logs (nur die, die automatisch erstellt wurden und länger als 2 Halbzüge gedauert haben) Plots erstellt, die einen Einblick in das Zeitmanagement der KIs geben. Anhand der Plots kann man vielleicht feststellen, ob die KIs noch Verbesserungsbedarf beim Zeitmanagement haben und für den nächsten Contest die Konfiguration optimieren. ;) https://tubcloud.tu-berlin.de/s/yb3SqxNP76sTfeP",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "bericht.tex Fix",
+                            "Discussion_Id": "605924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087094",
+                                    "Author": "Yavor Nikolaev Petrov",
+                                    "DateTime": "2024-07-06T17:39:49+02:00",
+                                    "Content": "Hallo,  Ich habe gerade die LaTex-Vorlage des Projektberichts unterladen und bei mir wurden die Umlaute nicht richtig kompiliert. Ihr könnt das fixen, indem ihr die folgenden Zeilen Code:  \\usepackage[T1]{fontenc} % Unterstützung für Europäische-Zeichen-Ausgabe \\usepackage{ae} % verbesserte Unterstützung für Umlaute %\\usepackage[german]{babel} % deutsche Übersetzungen und Wortumbrüche \\usepackage[ngerman]{babel} % deutsche Übersetzungen und Wortumbrüche \\usepackage[ansinew]{inputenc} % Umlaute \\usepackage{eurosym} Mit diesen ersetzt: \\usepackage[T1]{fontenc}      % Unterstützung für Europäische-Zeichen-Ausgabe %\\usepackage{ae}               % verbesserte Unterstützung für Umlaute (veraltet) %\\usepackage[german]{babel}    % deutsche Übersetzungen und Wortumbrüche \\usepackage[ngerman]{babel}    % deutsche Übersetzungen und Wortumbrüche \\usepackage[utf8]{inputenc} % Umlaute \\usepackage{eurosym}  Das sind Zeilen 3-8 von bericht.tex.  Ich hoffe, das wäre hilfreich.  Mit freunlichen Grüße Yavor",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gameserver: Zeitmanagement lokal testen ",
+                            "Discussion_Id": "605866",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086999",
+                                    "Author": "Moritz Paul Barvencik",
+                                    "DateTime": "2024-07-05T17:13:37+02:00",
+                                    "Content": "Hallo, falls jemand auch Probleme hatte zu testen, wie eure KI mit der Zeit umgeht (bei game[\"time\"] läuft bei uns die Zeit nicht runter), wollte ich nur kurz schreiben wie man es sonst noch testen kann (Python) :  1. import time 2. Zwei variablen (time1, time2) für player 1 und player 2 in die main mit Wert 120 (Sekunden) 3. In player1 und player2 eine neue start variable, die die Anfangszeit time.time() speichert. Nachdem eure KI eine Antwort generiert hat die abgelaufene Zeit festhalten (time.time() - variablestart) und diese dann von der time1 oder time2 abziehen.  Falls es bei irgendeiner Gruppe mit game[\"time\"] funktioniert, hattet ihr dafür noch irgendwas anpassen müssen?  mfG  Gruppe I ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Public GameServer",
+                            "Discussion_Id": "604668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085328",
+                                    "Author": "Lukas Schwarzmeier",
+                                    "DateTime": "2024-07-01T13:52:15+02:00",
+                                    "Content": "Hallo, es ist unser Meinung nach einer der größten Herausforderungen in diesem Projekt, dass die Datenlage zum Spiel quasi gleich Null ist. Um auch auserhalb der Contests Daten zu sammeln die nicht darauf beruhen die eigene KI gegen sich selbst spielen zu lassen, haben wir ein kleines Testprojekt aufgesetzt: einen öffentlich benutzbaren GameServer. Der Server ist eine leicht modifizierte Variante des Servers von Sarah Lengenfeld (shoutout and dieser Stelle für den Rewrite). Ihr könnt euch also genauso wie gehabt verbinden, nur eben unter: bot.couchramen.de:5555 ein paar Anmerkungen: - der Server läuft auf einer VM eines Freundes, hat 2 Kerne und 2GB RAM, bitte beachtet das bei der Benutzung - um nicht immer auf einen zweiten Spieler warten zu müssen startet gegen die ersten Zwei Client Anfragen eine Instanz unseres eigenen Bots, mehr lassen die aktuellen Ressourcen realistisch nicht zu - das ganze ist aktuell als Test gedacht um das Interesse an diesem Projekt abzuschätzen, wir loggen Serverseitig als .csv \"verbleibende Zeit,FEN,Zug\",   den Weg zur Veröffentlichung der Logs, weitere Features, einen Zugang zum modifizierten Server, maintainance cycles etc. können wir gerne disskutieren, nachdem das Intreresse absehbar ist  probiert es aus, kontaktiert uns gerne bei Problemen und vor allem:  viel Spaß beim spielen Gruppe (Z) Jumpfish",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086156",
+                                    "Author": "Lukas Schwarzmeier",
+                                    "DateTime": "2024-07-03T12:53:48+02:00",
+                                    "Content": "Laut den Server Logs, gab es bisher ein paar Anfragen, die meisten davon leider erfolglos. Wir patchen aktuell auch diverse Probleme, vor allem was die Instanziierung der on-Server bots angeht. Auch in diesem Sinne noch ein mal das Angebot bei Problemen Kontakt mit uns aufzunehmen. Morgen werde ich auch den Tag mit dem Projekt verbringen, hätte also auch Kapazitäten für spontane Anfragen. In jedem Fall schon mal Danke für das bisherige Interesse.",
+                                    "Response to": "p1085328"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anwesenheit bei der Postersession",
+                            "Discussion_Id": "604905",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085675",
+                                    "Author": "Inese Yilmaz",
+                                    "DateTime": "2024-07-02T10:22:38+02:00",
+                                    "Content": "Hallo, ich habe eine Frage zur Postersession: Müssen alle Gruppenmitglieder anwesend sein? Viele Grüße, Inese",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085918",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-02T17:09:32+02:00",
+                                    "Content": "Ja: Teilnahmepflicht. Die Postersession funktioniert nämlich nur, wenn pro Gruppe 3 Personen anwesend sind. Und ich will hier 4er-Gruppen nicht bevorteilen gegenüber 3er-Gruppen. Noch kleinere Gruppen nehmen aber dennoch teil. Mehr Infos folgen noch in dieser Woche. Viele Grüße, S. Fricke",
+                                    "Response to": "p1085675"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mlst. 4 Deliverables",
+                            "Discussion_Id": "604941",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085722",
+                                    "Author": "Inese Yilmaz",
+                                    "DateTime": "2024-07-02T11:46:18+02:00",
+                                    "Content": "Hallo, sollen wir für Meilenstein 4 auch einen Bericht und Screencasts erstellen, oder können die Ergebnisse von Meilenstein 4 direkt in den Projektbericht aufgenommen werden, sodass wir Meilenstein 4 gleichzeitig mit dem Projektbericht abgeben? Viele Grüße, Inese",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085916",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-02T17:06:46+02:00",
+                                    "Content": "Schluss mit den Videos! Für Meilenstein 4 brauchen Sie keinen Screencast anfertigen, Sie integrieren Ihre Ergebnisse und Aktivitäten nur in den Projektbericht. Falls Sie Mst3 und 4 gleichzeitig abgeben, entlastet Sie das aber nicht von der Erstellung des Videos zu den Mst3-Aktivitäten.",
+                                    "Response to": "p1085722"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zum GameServer Update",
+                            "Discussion_Id": "604221",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084650",
+                                    "Author": "Lukas Schwarzmeier",
+                                    "DateTime": "2024-06-28T11:46:37+02:00",
+                                    "Content": "Hallo,  soweit ich das verstehe sollten wir seit dem letzten Update eine Nachricht mit Inhalt bekommen, wenn das Spiel zu Ende ist.  Aktuell bekommen wir weiterhin einen leere Nachricht. Wir haben mal am Port gesniffed und die Nachricht scheint auch gesendet zu werden,  die Nachricht kommt aber nicht bei uns an. Im normalen Spielverlauf bekommen wir alle Nachrichten, erst wenn das Spiel beendet wird tritt der Fehler auf. Wir benutzen den Client aus dem GitRepo vom GameServer. Hat hier jemand das selbe Problem/ vlt sogar schon überwunden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084831",
+                                    "Author": "Louis-Noël Merlin Ristau",
+                                    "DateTime": "2024-06-28T19:41:13+02:00",
+                                    "Content": "Gruppe L hier, bei uns sieht es genauso aus",
+                                    "Response to": "p1084650"
+                                },
+                                {
+                                    "Message_id": "p1084930",
+                                    "Author": "Sarah Lengfeld",
+                                    "DateTime": "2024-06-29T17:58:21+02:00",
+                                    "Content": "Hallo,  das ist definitiv seltsam. Die Nachricht müsste zumindest laut meinen Tests gesendet und auch empfangbar sein. Ich werde mich so bald wie möglich daran machen. Für den jetzigen Contest sollte es ja hoffentlich nciht allzu viel ändern, außer vielleicht etwas unschöne Meldungen am Ende. Aber die landen mittlerweile eh nicht mehr Log.",
+                                    "Response to": "p1084650"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler im Client des Game-Servers",
+                            "Discussion_Id": "603450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083551",
+                                    "Author": "Alireza Safdari Khosroshahi",
+                                    "DateTime": "2024-06-25T14:30:55+02:00",
+                                    "Content": 

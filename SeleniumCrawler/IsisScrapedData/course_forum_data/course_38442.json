@@ -1,0 +1,94 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Rechnergestützte Übungen zu Regelungstechnik",
+        "Course_id": "38442",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1791910",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermine und Orgahinweise",
+                            "Discussion_Id": "605927",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087100",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-07-06T18:10:21+02:00",
+                                    "Content": "Liebe alle,  danke für die Teilnahme an der Umfrage bzgl Terminen für die mündliche Rücksprache bzgl des Projektes. Ich habe entsprechend der Antworten Termine frei geschaltet, siehe ISIS-Kurs ganz unten. Die Einstellungen sollten so gewählt sein, dass es pro Gruppe einen Termin gibt. Wenn das nicht funktioniert / jemand unsicher ist, ob die Buchung funktioniert hat, bitte eine kurze Email an mich mit Datum und Uhrzeit des gewünschten Termins und Name beider Gruppenmitglieder.  Ansonsten bitte ich folgendes zu beachten: Die Termine sind immer pro Gruppe und beide Gruppenteilnehmer müssen zusammen vor Ort sein. Das heißt, aufteilen auf einen Termin pro Person geht nicht. Zum Termin bitte entweder einen Laptop mit dem Code und einer funktionierenden Matlabinstallation mitbringen oder den Code spätestens am Abend zuvor per Email an mich schicken, damit wir meinen Rechner nutzen können. Alle Prüfungen finden in meinem Büro (ER 203) statt. Während der Rücksprache frage ich abwechselnd / in zufälliger Reihenfolge die jeweiligen Gruppenmitglieder nach der Gruppenlösung. Jeder in der Gruppe sollte also zu allen Teilen etwas sagen können. Es empfiehlt sich sehr den Code ordentlich zu dokumentieren. Außerdem bitte alle figures mit entsprechender Axen-Beschriftung und Legende vorbereiten . Danke auch an alle, die die Hausaufgabe abgegeben haben. Wie vorab besprochen ist diese die Voraussetzung die Prüfung machen zu können. Ich werde am Montag mir die eingereichten Hausaufgaben ansehen und individuelles Feedback per Email geben.  Viele Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Achtung: nächste Woche keine Übung!",
+                            "Discussion_Id": "602337",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081915",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-06-20T11:33:54+02:00",
+                                    "Content": "Liebe alle,   wie im Kurs sichtbar (hier nur zur Erinnerung): nächste Woche Donnerstag findet in RÜRT KEINE Übung statt! Wir sehen uns zur letzten Übung am 4. Juli.  Viele Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungstermine und -anmeldung",
+                            "Discussion_Id": "602333",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081909",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-06-20T11:28:33+02:00",
+                                    "Content": "Liebe alle,  wie besprochen schlage ich vor, dass wir anstatt eines Projektberichtes die Prüfung mündlich machen und ich Sie in Ihren Gruppen in 20 Minuten zu Ihren Lösungen zur Projektaufgabe befrage. Dazu müssen Sie entweder einen Laptop mit dem fertigen Code dabei haben oder mir bis spätestens einen Tag vor der Prüfung Ihren Code schicken. In der Umfrage auf ISIS (ganz unten) habe ich alle Zeiträume angegeben, die für mich machbar und für Sie vielleicht ebenfalls machbar sind. Bitte markieren Sie bis zum Ende der nächsten Woche (30. Juni) möglichst alle Termine, die für Sie möglich wären. Anschließend werde ich entsprechende Termine zur Buchung anbieten.  Bitte denken Sie auch bis zum 30. Juni daran sich für die Prüfung auf Moses anzumelden!  Viele Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe der Hausaufgabe bis 30. Juni",
+                            "Discussion_Id": "602302",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081870",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-06-20T10:23:58+02:00",
+                                    "Content": "Liebe alle,  bitte an die Abgabe der Hausaufgabe bis spätestens 30. Juni denken! Dazu habe ich gerade eine entsprechende Funktion auf der ISIS-Seite freigeschaltet.  Viele Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neuer Raum: ab jetzt in ER110!!",
+                            "Discussion_Id": "594752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070639",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-05-15T17:52:34+02:00",
+                                    "Content": "Liebe alle, wir müssen leider in einen anderen Raum umziehen und treffen uns ab jetzt (also schon zum nächsten Termin morgen am 16. Mai) in Raum ER 110, also genau eine Etage unter dem ursprünglichen Raum.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich willkommen und Termin am Donnerstag",
+                            "Discussion_Id": "590801",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064444",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-04-29T14:18:12+02:00",
+                                    "Content": "Herzlich willkommen!  Schön, dass Sie sich für das Modul Rechnergestützte Übungen zu Regelungstechnik interessieren! Zur Erinnerung: Am 2. Mai um 10:15 Uhr findet eine kurze Vorbesprechung im ER 209 statt. Die Teilnahme an der Vorbesprechung ist verpflichtend für die Teilnahme am Kurs. Falls Sie am Modul teilnehmen möchten, aber am Termin verhindert sind, schreiben Sie mir bitte eine Email an knorn@tu-berlin.de.  Viele Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

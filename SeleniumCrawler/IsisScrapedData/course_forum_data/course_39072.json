@@ -1,0 +1,62 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] RFT: Arbeitsschutz",
+        "Course_id": "39072",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Notifications",
+                    "Forum_id": "1814977",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "New Instruction Date",
+                            "Discussion_Id": "589999",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063237",
+                                    "Author": "Balthasar Johannes Jäger",
+                                    "DateTime": "2024-04-25T20:38:13+02:00",
+                                    "Content": "Dear students,  there will be one extra instruction date for everyone that could not attend yesterday. It will be on the 15th of May, 13.30-14.00. Please, put yourself into the newly created group here in the ISIS course. And tell everyone who is not yet in this ISIS course to enter it. This is the last chance within the lecture period.  Best regards, Balthasar",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068308",
+                                    "Author": "Balthasar Johannes Jäger",
+                                    "DateTime": "2024-05-08T14:42:45+02:00",
+                                    "Content": "Dear students,  there will be a second extra instruction date for everyone that won't be able to attend on the 15th of May. It will be on the 14th of May, 13.30-14.00. Please, put yourself into the newly created group here in the ISIS course. And tell everyone that these are the last 2 chances within the lecture period.  Best regards, Balthasar",
+                                    "Response to": "p1063237"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important Announcements",
+                            "Discussion_Id": "589995",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063233",
+                                    "Author": "Balthasar Johannes Jäger",
+                                    "DateTime": "2024-04-25T20:34:51+02:00",
+                                    "Content": "Dear students,  you can add the laboratory's calender to your Microsoft Exchange (in the browser) with this e-mail: raumfahrt.studilab@ilr.tu-berlin.de. Therefore, click 'add calendar' and then 'from directory'. Then, in case it was unclear yesterday: The 3D-printers are not for personal use, but only for lectures, projects, or individual tasks related to your studies, occupation or BEARS membership. Also forbidden: To bring your own filament and use the the printers. Furthermore, the first aid kit was not mentioned in all the groups: You can find the kit in the hallway next to the entrance of the CleanLab. It is a white box. The last point concerns the Rover: Components are stored under the table to the left of the shelfs/cupboards. Everyone not involved in the Rover competition is not allowed to touch these components. All students working on the Rover: 1. Don't work directly at the entrance on the Rover and leave always space for the others to pass (especially for an emergency case) 2. Not more than 5 persons are allowed to work at the same time on the Rover 3. Always put everything back under the table in the boxes, nothing should be lying openly around under the table. 4. If not all the Rover things fit under the table, then you have to store it elsewhere outside the StudiSatLab, for example in the shelfs/cupboards in the hallway. If you don't adhere to the rules, you will be kicked out!  Best regards, Balthasar",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "English Instruction Timeslots",
+                            "Discussion_Id": "588294",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060568",
+                                    "Author": "Balthasar Johannes Jäger",
+                                    "DateTime": "2024-04-22T11:01:28+02:00",
+                                    "Content": "Dear students, if you speak German, I ask you to refrain from registering to an English instruction time slot. In case you have done so, please vacate your spot for non-German speakers. Best regards, Balthasar",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

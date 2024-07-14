@@ -1,0 +1,70 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Anmeldung Photovoltaikpraktikum",
+        "Course_id": "38373",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1789164",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einteilung Praktikum ist online!",
+                            "Discussion_Id": "599058",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077183",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-06-05T10:17:00+02:00",
+                                    "Content": "Liebe Studierende, die Einteilung für die Photovoltaikpraktika ist online. Sollten Sie Fragen haben, melden Sie sich bitte bei mir. Viele Grüße Philipp Tockhorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fragebogen zum Praktikum online",
+                            "Discussion_Id": "590656",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064222",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-04-29T10:27:11+02:00",
+                                    "Content": "Liebe Studierende, der Fragebogen zur Praktikumsanmeldung ist jetzt online und kann bis zum 15.5. (23:59) ausgefüllt werden. Die Zuteilung der Plätze erfolgt dann voraussichtlich bis Ende Mai. Viele Grüße Philipp Tockhorn",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070228",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-05-14T23:08:09+02:00",
+                                    "Content": "Liebe Studierende,  falls Sie den Fragebogen noch nicht ausgefüllt haben, tun Sie dies bitte bis zum 19.5. (23:59, Frist verlängert).  Viele Grüße Philipp Tockhorn",
+                                    "Response to": "p1064222"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1846828",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gruppentausch PV-Praktikum",
+                            "Discussion_Id": "602975",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082875",
+                                    "Author": "Nola Schnitzler",
+                                    "DateTime": "2024-06-24T11:18:27+02:00",
+                                    "Content": "Hallo, ich habe einen Praktikumsplatz für Herstellung von Perowskitsolarzellen Gruppe 1: 2.9.-6.9.2024 bekommen. Ich würde gerne, da es zeitlich für mich nicht anders möglich ist, in die Gruppe 2: 16.9.-20.9.2024 oder Gruppe 2: 7.10.-11.10.2024 Herstellung von Dünnschichtsolarzellen wechseln.  Falls dieser Wechsel für jemanden möglich wäre, würde ich mich sehr freuen! Der-/ diejenige kann sich gerne bei mir melden! nola.schnitzler@campus.tu-berlin.de Viele Grüße, Nola",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

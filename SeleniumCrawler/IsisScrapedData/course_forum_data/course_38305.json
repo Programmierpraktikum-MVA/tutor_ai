@@ -1,0 +1,592 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Numerical Acoustics",
+        "Course_id": "38305",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Annoucements",
+                    "Forum_id": "1787564",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final homework submission",
+                            "Discussion_Id": "607563",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089454",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-07-12T17:36:07+02:00",
+                                    "Content": "You will now find the comments on your submissions. The final submission is due on 21 July. In case you are running into problems with your assignments and have questions, I will be ultimately available next Wednesday during the usual class hours from 10:15 to 11:45. This will be your last chance to get any advice from, as I will be out of the office and not available the next days. Some general remark: I asked you to submit a report of approx. 10 pages. In the second round I already saw some reports that had near to 20 pages (which is obviously too much), and also some with only 4 pages (which hints that you were a bit too brief). If this concerns you, please make an effort to compress or expand accordingly (and PLEASE NOT by changing the font size or similar).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Server problems",
+                            "Discussion_Id": "602838",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082687",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-23T18:23:14+02:00",
+                                    "Content": "As we had a server downtime today, some of you might not have been able to complete the assignments in time. Please note that you will able to submit up to three days later (i.e. until late Wednesday) without any problems.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hifi listening scenario",
+                            "Discussion_Id": "602010",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081482",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-19T10:11:34+02:00",
+                                    "Content": "This important for all of you who do the hifi listening scenario assignment. I just realized that depending on the size of your room, f_max might lead to a FEM with too many degrees of freedom to solve it with the Actran teaching license we use. Please check the number of nodes and adapt the element size and f_max to a value that you do not have more than approx. 15000 nodes. Unfortunately there is no reliable information about the maximum model size that is accepted by our license. However, if there are too many nodes or elements, an meaningful error message will appear.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "... in case the Actran examples did not work for you",
+                            "Discussion_Id": "599704",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078099",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-07T18:21:05+02:00",
+                                    "Content": "There is a new folder with the .edat-files from the examples you can use to compare with.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First round of homework assignment submission",
+                            "Discussion_Id": "595610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072033",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-21T11:47:54+02:00",
+                                    "Content": "The activity for the first round of homework assignment submission is now available. Deadline is 26 May.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "If your compute server account is locked ...",
+                            "Discussion_Id": "594641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070479",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-15T13:26:07+02:00",
+                                    "Content": "... because you did not change your password in time, please write to Bernd Konnerth  <b.konnerth@tu-berlin.de> and ask him to unlock the account and set a new password. Please absolutely remember to use your TUB account, not some other personal Email for this, as we will send out sensitive account information to arbitrary E-mail addresses. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Choose your favorite topic for homework assignment until 14th May (and register for exam)!",
+                            "Discussion_Id": "593107",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068003",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-07T20:11:34+02:00",
+                                    "Content": "Please have a look at the available assignments and take part in the fair choice activity to determine who is working on which topic. If you miss this activity, you will get whatever assignment is available afterward (on request). Important: if you participate, this will count as registration for the exam.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Accounts are avaible now! Please check and activate! Deadline 15 May!",
+                            "Discussion_Id": "592567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067218",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-06T13:52:08+02:00",
+                                    "Content": "Accounts are available now for all who requested to have access to the compute server: Please make sure to look up your personal account in here: Look up your compute server account (\"username\") Please check that you indeed have access following the description here: Access to the compute server IMPORTANT: change your password before 15 May",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Q & A (discussion forum)",
+                    "Forum_id": "1787594",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Consultation after 12:15",
+                            "Discussion_Id": "606741",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088270",
+                                    "Author": "Sebastian Andre Gnirß",
+                                    "DateTime": "2024-07-09T22:31:57+02:00",
+                                    "Content": "Hello, is it possible to clarify questions in person on wendsday after 12:15? Kind regards Sebastian",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088450",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-07-10T12:09:51+02:00",
+                                    "Content": "Yes, I will be available in my office from 1.30 pm",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Remote server error",
+                            "Discussion_Id": "606862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088444",
+                                    "Author": "Alexander Vorwerk",
+                                    "DateTime": "2024-07-10T12:01:59+02:00",
+                                    "Content": "Hi, has somebody else connection problems with the remote server?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Actran error (return code 254)",
+                            "Discussion_Id": "606443",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087839",
+                                    "Author": "Felix Böckstiegel",
+                                    "DateTime": "2024-07-08T22:56:47+02:00",
+                                    "Content": "Hi, I am getting a fatal error when trying to run the transmission line simulation with infinite elements. It says \"Value mean_density for infinite acoustic 2 can not be automatically set, as no suitable neighbors were found. Note that suitable neighbors are acoustic components sharing the same material as infinite acoustic 2\". Both the fluid inside the cabinet, as well as in the region in front of membrane and TL-opening are made of the same material (air). I am getting no other errors, so I have no idea how to proceed. The Actran documentation is scarse and did not help me so far. Does any one here have the same problem or an idea how to solve this? Best regards Felix",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088362",
+                                    "Author": "Felix Böckstiegel",
+                                    "DateTime": "2024-07-10T10:10:31+02:00",
+                                    "Content": "Okay it works now! Sorry but I don't really know why...",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Actran error",
+                            "Discussion_Id": "606343",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087691",
+                                    "Author": "Paula Charlotte Ahrens",
+                                    "DateTime": "2024-07-08T16:41:17+02:00",
+                                    "Content": "Hello, I've been getting this error in Actran whenever I tried to do a quick run: \"The element of type EDGE with interpolation order LINEAR is not supported for the component acoustic 1 when performing 3D computations.\" Does that mean I have created an element in Gmsh that is stopping Actran from doing the analysis? I could't find any element in my skript but I'm also not sure what I should be looking for exactly. Does anyone have an idea? Thanks in advance!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1087741",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-07-08T17:45:25+02:00",
+                                    "Content": "This error means that the component \"acoustic 1\" contains elements that are not 3d, but only 1d. I suspect that when creating the mesh, you somehow marked the edges of the volume to be exported as physical groups or part thereof. You can try to verify this by checking which kind of elements are contained within the respective mesh part.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grading criteria - Homework Assignment Round 3",
+                            "Discussion_Id": "605943",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087128",
+                                    "Author": "Jeremy Weller",
+                                    "DateTime": "2024-07-07T10:18:08+02:00",
+                                    "Content": "Dear Mr. Sarradj, currently there is no \"Homework Assignment Round 3\" Tab in the ISIS-course and therefore no insights into what the grading criteria for round 3 will look like. I'm assuming that there will be a grading criteria for round 3 just like in round 1 and round 2 - Is my assumption right? The grading criteria helped a lot with writing the submission protocol for the previous homework rounds. It would be great to have it available! Thank you and a good start into the week! Jeremy",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1087267",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-07-08T08:28:54+02:00",
+                                    "Content": "The final submission activity is now available. I hope the criteria are accessible (I have no means of checking how this looks like for you).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Data for Floor of the ski cabin",
+                            "Discussion_Id": "603778",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084017",
+                                    "Author": "David Andres Mancera Carrillo",
+                                    "DateTime": "2024-06-26T13:59:17+02:00",
+                                    "Content": "I have the problem that i dont find any characteristic data for the ski cabin. I have already looked into the actran examples for the ski cabin. Maybe someone can help me here kind regards",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1084079",
+                                    "Author": "Anton Balthasar Hoyer",
+                                    "DateTime": "2024-06-26T15:58:34+02:00",
+                                    "Content": "I guess it's the carpet_admittance_3b.dat in 3b",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1087266",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-07-08T08:26:53+02:00",
+                                    "Content": "Indeed, that is correct.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problem with remote desktop VNC server",
+                            "Discussion_Id": "602786",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082609",
+                                    "Author": "Eren Utku",
+                                    "DateTime": "2024-06-23T10:06:13+02:00",
+                                    "Content": "Hello,  is the VNC server for remote desktop closed today? I can't seem to be able to access the computer.  Regards,   Eren",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1082615",
+                                    "Author": "Anton Balthasar Hoyer",
+                                    "DateTime": "2024-06-23T11:05:16+02:00",
+                                    "Content": "I can't connect either",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1082649",
+                                    "Author": "Amin Magdy Hassanien Abou Samra",
+                                    "DateTime": "2024-06-23T15:02:52+02:00",
+                                    "Content": "Me neither",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1082667",
+                                    "Author": "Lea Heide Emmerich",
+                                    "DateTime": "2024-06-23T16:52:10+02:00",
+                                    "Content": "I have the same problem.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1082675",
+                                    "Author": "David Andres Mancera Carrillo",
+                                    "DateTime": "2024-06-23T17:24:56+02:00",
+                                    "Content": "Same problem here",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1082677",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-23T17:33:37+02:00",
+                                    "Content": "Should now work again as normal. The problem was with the server, who was stuck for some reason and needed restart.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Licensing error",
+                            "Discussion_Id": "602519",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082198",
+                                    "Author": "Caspar Valentin Zell",
+                                    "DateTime": "2024-06-21T08:35:23+02:00",
+                                    "Content": "Hi, i ran into some trouble with the Actran licensing, while using a quadratic elements for the annular duct project. I used a mesh with max element size = 85 mm (according to the rule of thumb). This lead to a licensing error. When reinterpolating to linear elements, the license worked and i got the expected results. However at high frequencies the results are not really smooth and most likely inaccurate. Does anyone have the same problem or a solution for this? Thanks! Regards Valentin!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gmsh creates Curves at the Top of Semi Spheres",
+                            "Discussion_Id": "602195",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081715",
+                                    "Author": "Sebastian Andre Gnirß",
+                                    "DateTime": "2024-06-19T16:58:26+02:00",
+                                    "Content": "I have created the Volume in Gmsh by Rotating a Plane surface. Somehow The Curved Surfaces with the Label \"Unknown 14\" and \"Unknown 16\" are created.  Is it advisable to delete the curves with recursive delete before meshing?  // Gmsh project created on Tue Jun 18 20:27:37 2024 SetFactory(\"OpenCASCADE\"); //+ Point(1) = {0, 300, 0, 55.0}; //+ Point(2) = {-88, 300, 0, 55.0}; //+ Point(3) = {-800, 300, 0, 55.0}; //+ Point(4) = {-88, 0, 0, 55.0}; //+ Point(5) = {-150.5, 62.5, 0, 55.0}; //+ Point(6) = {0, 0, 0, 55.0}; //+ Point(7) = {-800, 62.5, 0, 55.0}; //+ Point(9) = {0, 600, 0, 55.0}; //+ Point(10) = {600, 0, 0, 55.0}; //+ Line(1) = {1, 9}; //+ Line(2) = {1, 2}; //+ Line(3) = {2, 3}; //+ Line(4) = {3, 7}; //+ Line(5) = {7, 5}; //+ Point(8) = {-150.5, 0, 0, 55.0}; //+ Circle(6) = {5, 8, 4}; //+ Circle(7) = {9, 6, 10}; //+ Line(8) = {4, 10}; //+ Curve Loop(1) = {2, 3, 4, 5, 6, 8, -7, -1}; //+ Plane Surface(1) = {1}; //+ Extrude {{1, 0, 0}, {0, 0, 0}, 2*Pi} {   Surface{1}; } //+ Recursive Delete {   Curve{16}; } //+ Recursive Delete {   Curve{14}; }",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1081750",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-19T19:12:11+02:00",
+                                    "Content": "These lines do no harm except that some of the elements will get aligned along these lines. I would not recommend to delete them because they are needed to define the shape of both of the domes. You may compare to the case of silencer where similar lines are present in both approaches and did no harm when meshing the model.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Consultation ",
+                            "Discussion_Id": "602075",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081563",
+                                    "Author": "Sebastian Andre Gnirß",
+                                    "DateTime": "2024-06-19T12:51:09+02:00",
+                                    "Content": "Sadly no one is in the auditorium anymore. Is it possible to meet you during the remaining lecture time to clarify questions in person?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Connection problem",
+                            "Discussion_Id": "599269",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077484",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-06-05T22:35:49+02:00",
+                                    "Content": "Good evening M.Sarradj, My name is Astrid Croset and I came to see you at the end of today's course because I am having problems connecting to the virtual machine to use Actran afterwards. I had changed my password in good time. Could you please send me a new password?  Thank you in advance,  Best regards,  Astrid ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079112",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-06-11T16:55:24+02:00",
+                                    "Content": "Excuse me M. Sarradj, did you receive my message ?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079602",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-12T20:53:38+02:00",
+                                    "Content": "I asked you to send me an email about this, which I have not received.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1080937",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-06-17T18:48:21+02:00",
+                                    "Content": "Yes, I am sorry, could you please give me your e-mail address? I cannot find it on ISIS",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1081310",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-06-18T16:33:24+02:00",
+                                    "Content": "here is my email : a.croset@campus.tu-berlin.de could you please give me your email ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problems with the Dimensions for the Annular Duct",
+                            "Discussion_Id": "599631",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077995",
+                                    "Author": "Sebastian Andre Gnirß",
+                                    "DateTime": "2024-06-07T13:13:17+02:00",
+                                    "Content": "The given values for the annular duct are not compatible with \"stud21\" if the inner duct shall be closed off by a curvature smaller than a hemisphere. Can I change the radius (R) from 50mm to 100mm?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078079",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-06-07T17:07:56+02:00",
+                                    "Content": "I am sorry for this. Parametrization of the assignments went wrong. Yes, you will have to use 62.5 mm (not 100 mm because this will give an extra edge between cap and cylinder).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Actran example 2a",
+                            "Discussion_Id": "597761",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075289",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-29T19:44:57+02:00",
+                                    "Content": "In today's class I was demonstrating the harmonic analysis (direct frequency response) for the ski cabin and I could not get the map results visualization to work. I seems like there is a (new?) bug that prevents the results from being stored if the standard (slow) solver is used. The workaround is to use the faster and more efficient 'Krylov' solver (which is to be preferred anyway). You can enable the solver by: right click on 'direct frequency response' (head of tree)  - > add solver -> Krylov right on KRYLOV (at the bottom of tree) and choose 'mumps sub-solver' The effect of this that the results get stored correctly AND the solution is faster. See the screenshot for clarification.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bass-reflex enclosure parameters",
+                            "Discussion_Id": "596735",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073689",
+                                    "Author": "Paul Rudi Vincenzo Testa",
+                                    "DateTime": "2024-05-26T11:06:41+02:00",
+                                    "Content": "The sketch in the assignment seems to indicate, that H,B, and T are the external dimensions of the enclosure. But in the parameters24 sheet they are named as interior dimensions. Which should we use?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073765",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-26T17:09:27+02:00",
+                                    "Content": "The sketch is just a sketch and is rather vague about the kind of dimensions. That's why the dimensions are explicitly named 'interior'. Together with the wall thickness (where applicable), you will get the outer dimensions when needed.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Transmission Line - task clarification",
+                            "Discussion_Id": "596424",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073197",
+                                    "Author": "Felix Böckstiegel",
+                                    "DateTime": "2024-05-23T20:39:20+02:00",
+                                    "Content": "Good evening, I am not fully clear on the assignment definition for 2.6 (TL). It says \"Also, show the vertical directivity at the height of the center of the diaphragm at the dominant resonant frequencies\". Does this mean apart from the reference point 1m in front of the speaker (on-axis), we should run the calculation for a second point, at 1m distance as well, but rotated 90° upwards, so a point +1m in z-direction from the diaphragm center? And at the resonant frequencies means NOT the full frequency response like on the frontal point? If so, what else is asked for by this? Kind regards Felix",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073458",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-24T17:12:38+02:00",
+                                    "Content": "The directivity would include the angle-dependent radiation from the loudspeaker. 'Vertical' means that not the full solid angle is to be considered, but just the vertical angle (spanning which range ? - you may come to the conclusion that 180° would be a good choice to draw a directivity diagram). This should be done at just the resonant frequencies (or if that remains to vague, you will have to select at least one frequency you think is a characteristic one for the problem. Hope this helps.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073473",
+                                    "Author": "Felix Böckstiegel",
+                                    "DateTime": "2024-05-24T17:39:50+02:00",
+                                    "Content": "Thank you for the explanation. So our rotational axis is trough the center of the diaphragm I'd assume? And then we calculate +/- 90° vertical (starting at 0° on-axis) in say 5° steps at 1m distance as well? This would be 31 additional \"imission points\" for which we run the FEM simulation but just for a few resonant frequencies instead of the whole bandwidth, is this right?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073763",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-26T17:07:08+02:00",
+                                    "Content": "Yes, this would be one possible way to do it. The distance 1 m is not given, tough. You would have to decide by yourself.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dimensions for the bass reflex loudspeaker are not correct",
+                            "Discussion_Id": "596202",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072863",
+                                    "Author": "Paul Simon",
+                                    "DateTime": "2024-05-23T09:28:18+02:00",
+                                    "Content": "Hello,  I have just noticed when creating a CAD model for the loudspeaker that the height of the diaphragm center and the radius of the diaphragm exceed the interior height of the loudspeaker for stud20. Is there a way to correct the dimensions? Best regards  Paul",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073147",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-23T17:17:42+02:00",
+                                    "Content": "Oops, how did that happen? I will look into this. Probably there is something wrong with the parameters. To get rid of the problem please use H=0.600 instead.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073185",
+                                    "Author": "Paul Simon",
+                                    "DateTime": "2024-05-23T19:26:57+02:00",
+                                    "Content": "Okay, thank you.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "locked account",
+                            "Discussion_Id": "595376",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071620",
+                                    "Author": "Fabien Paul Esteban Delcan",
+                                    "DateTime": "2024-05-19T15:09:53+02:00",
+                                    "Content": "Hi, Unfortunately I missed the deadline to change my password for the computer server access.  I received an email to ask Bernd Konnerth to unlock my account.  Could you please unlock it please. Sorry, Fabien",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "missed lectures + homework",
+                            "Discussion_Id": "595360",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071597",
+                                    "Author": "Amin Magdy Hassanien Abou Samra",
+                                    "DateTime": "2024-05-19T11:15:09+02:00",
+                                    "Content": "Dear all, unfortunately I was ill and couldn’t attend last 2 lectures. It would be very kind if someone can share the notes. Regarding the homework: Is the submission of the first 2 pages until May 22 still valid? Kind regards Amin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Is it too late ?",
+                            "Discussion_Id": "590374",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063775",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-04-26T22:19:45+02:00",
+                                    "Content": "Good evening,  My name is Astrid Croset and I am an erasmus student from France. At first I had taken a course in german but the topic was too difficult because of the language. At the moment, I am in discussion with my university in order to receive their authorisation to take this course.  However, is it too late to take part to this course ? I will take the time to fill the gap and study the courses of the 17th and 24th of April.   Best regards,   Astrid Croset",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065135",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-04-30T14:57:54+02:00",
+                                    "Content": "No, it is not too late. You can still join the course. The only thing that you should do immediately (until 1st of May) is to join the Registration for the compute server access. Of course, understanding the lectures you missed so far is extremely beneficial.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065893",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-05-02T14:30:38+02:00",
+                                    "Content": "Thank you ! I have just seen you answer and missed the deadline for the compute server access... How can I register now ?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067220",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-06T13:53:10+02:00",
+                                    "Content": "I have already done the registration for you.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067515",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-05-06T22:36:06+02:00",
+                                    "Content": "Thank you !",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070198",
+                                    "Author": "Astrid Juliette Josephine Croset",
+                                    "DateTime": "2024-05-14T20:26:18+02:00",
+                                    "Content": "Good evening M. Sarradj,  I have my username and have changed my password, but unfortunately I cannot access to the list of the projects subjects because I am not part of the groupe \"computer server access\". Would you know if there is a solution to take me into the group ? Please find be choices for the project : - Turbo silencer - Transmission line - Bass reflex  Thank you,  Best regards,  Astrid Croset",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067524",
+                                    "Author": "Paula Charlotte Ahrens",
+                                    "DateTime": "2024-05-06T23:15:55+02:00",
+                                    "Content": "I just realized I also missed the deadline. Is there any way I can still register? Thanks in advance!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1068002",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-07T20:06:37+02:00",
+                                    "Content": "Done.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1069642",
+                                    "Author": "David Andres Mancera Carrillo",
+                                    "DateTime": "2024-05-13T16:32:08+02:00",
+                                    "Content": "Already wrote an email. I missed the deadline as well unfortunately. I hope its still possible to register. Thanks in advance",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,588 @@
+[
+    {
+        "Course_Name": "Einführung in die Informatik - Vertiefung [SoSe 2024] [Modul-Nummer 40014]",
+        "Course_id": "37080",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1745870",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Mailadressen und Datenschutz",
+                            "Discussion_Id": "584412",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054788",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-15T08:00:00+02:00",
+                                    "Content": "Liebe Studierende, Bitte verwenden Sie für Universitätsangelegenheiten ausschließlich Ihre offizielle Mailadresse der Technischen Universität Berlin, da wir aus Datenschutzgründen nicht auf E-Mails von externen Adressen antworten. Falls Sie eine automatische Weiterleitung konfiguriert haben, kann es sein, dass Sie diese deaktivieren müssen, um von Ihrer offiziellen Mailadresse aus E-Mails versenden zu können. Sollten es dabei zu Problemen kommen oder falls Sie gar keinen Zugriff auf Ihre offizielle Mailadresse haben, wenden Sie sich bitte an die Zentraleinrichtung Campusmanagement (ZECM) der Universität. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutor*in werden",
+                            "Discussion_Id": "580338",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1048245",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-02-19T14:09:38+01:00",
+                                    "Content": "Liebe Studierende, wir hoffen, dass Ihnen unsere Vorlesungen und Tutorien nicht bloß neues Wissen vermittelt, sondern auch Freude bereitet. Sollten Sie sich vorstellen können selbst auch Tutor*in in unserem Modul zu werden, dann bewerben Sie sich. Alle Informationen dazu finden Sie unter diesem Link. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstd online",
+                            "Discussion_Id": "607386",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089165",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-07-12T09:12:56+02:00",
+                                    "Content": "Liebe Studis, meine Sprechstd Fr 14uhr findet heute und nächste Woche online statt. Link findet ihr in der Tabelle.  LG, Jenny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien Max Donnerstag 11.07",
+                            "Discussion_Id": "606998",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088640",
+                                    "Author": "Maximilian Alex",
+                                    "DateTime": "2024-07-10T18:24:29+02:00",
+                                    "Content": "Liebe Studis,  wie versprochen melde ich mich nochmal.  Da es mir besser geht, werden meine Tutorien morgen stattfinden.  Liebe Grüße Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Dienstag 10-12 Uhr / Sprechstunde 14-16 Uhr",
+                            "Discussion_Id": "606385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087755",
+                                    "Author": "Maximilian Alex",
+                                    "DateTime": "2024-07-08T18:08:54+02:00",
+                                    "Content": "Liebe Studis,  mein Tutorium und meine Sprechstunde werden morgen leider beide krankheitsbedingt ausfallen.  Ob ich am Donnerstag wieder gesund bin und meine Tutorien halte, kann ich noch nicht abschätzen. Daher werde ich am Mittwoch Abend nochmal eine Ankündigung dazu schreiben.  Liebe Grüße Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "An- und Abmeldezeiträume für Klausurtermine zum Erstversuch",
+                            "Discussion_Id": "583630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053529",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-07-08T08:00:00+02:00",
+                                    "Content": "Liebe Studierende, seit heute können Sie sich für die beiden Klausurtermine zum Erstversuch an- und abmelden. Bitte lesen Sie sich die Informationen dazu im ISIS-Kurs aufmerksam und vollständig durch. Wir möchten Sie nochmals daran erinnern, dass die Planung und Organisation der Prüfung entsprechend Ihrer Nachteilsausgleiche nur dann möglich ist, wenn Sie uns diese möglichst frühzeitig zukommen lassen. Bitte wenden Sie dazu unsere Mailadresse: inftechexam@ni.tu-berlin.de  Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Online",
+                            "Discussion_Id": "605643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086697",
+                                    "Author": "Joscha Lasse Bisping",
+                                    "DateTime": "2024-07-04T20:47:22+02:00",
+                                    "Content": "Liebe Studis,  wie schon letzte Woche wird meine Sprechstunde morgen und auch in den kommenden Wochen online stattfinden. Den Link findet ihr im Bereich \"Betreute Programmierzeiten\". Sollte sich die Nachfrage nach Präsenzsprechstunden erhöhen, werde ich diese gegebenenfalls wieder offline anbieten und eine entsprechende Ankündigung machen.   Liebe Grüße Joscha ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Online",
+                            "Discussion_Id": "604157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084539",
+                                    "Author": "Joscha Lasse Bisping",
+                                    "DateTime": "2024-06-27T23:26:02+02:00",
+                                    "Content": "Liebe Studis, ich biete morgen meine Sprechstunde online unter dem folgenden Link an: https://tu-berlin.zoom.us/j/64695226318?pwd=YpIF9VY1clsx6IOFoHAeWcmaNbzYkq.1   Liebe Grüße Joscha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Joschas Tutorium / Ausfall meiner Sprechstunde nächsten Dienstag ",
+                            "Discussion_Id": "604078",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084426",
+                                    "Author": "Maximilian Alex",
+                                    "DateTime": "2024-06-27T15:32:17+02:00",
+                                    "Content": "Liebe Studis,  Nächste Woche Dienstag (02.07) werde ich Joschas Tutorium um 14:00 Uhr vertreten. Dementsprechend wird mein Betreutes Programmieren Termin einmalig ausfallen.  Liebe Grüße  Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium bei Max Donnerstag 10:00",
+                            "Discussion_Id": "603910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084204",
+                                    "Author": "Joscha Lasse Bisping",
+                                    "DateTime": "2024-06-26T23:42:49+02:00",
+                                    "Content": "Liebe Studis, Morgen, am Donnerstag um 10:00 Uhr, werde ich das Tutorium von Max halten.  Liebe Grüße  Joscha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler bei Hausaufgabe letzter Woche: \"Programm verstehen (II)\"",
+                            "Discussion_Id": "603865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084137",
+                                    "Author": "Georg Reich",
+                                    "DateTime": "2024-06-26T18:01:00+02:00",
+                                    "Content": "Liebe Studierende, Uns ist bei der Aufgabe \"Programm verstehen (II)\" leider ein Fehler unterlaufen. Die Idee war, dass mit einer Initialisierung this.index = -1; bei next die Inkrementierung vor der Evaluierung stattfinden muss (++ steht links von this.index): public T next() {     return elemente[++this.index]; } Dabei haben wir hasNext allerdings nicht entsprechend angepasst, welches eigentlich this.index + 1 < elemente.length zurückgeben sollte. In den Fällen, in denen durch die falsche Bewertung nicht die Bestehensgrenze erreicht wurde, haben wir das nachträglich korrigiert.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "sprechstd fr.21.6",
+                            "Discussion_Id": "602610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082329",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-06-21T13:18:35+02:00",
+                                    "Content": "Liebe Studis, meine Sprechstd um 14uhr findet heute online statt. https://tu-berlin.zoom.us/j/8601233357?pwd=ak13N3pqUnZyanY2YTN5TnhWdjI5QT09 LG Jenny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Betreute Programmierzeit fällt heute aus",
+                            "Discussion_Id": "602278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081835",
+                                    "Author": "Georg Reich",
+                                    "DateTime": "2024-06-20T09:15:00+02:00",
+                                    "Content": "Liebe Studierende,  Meine betreute Programmierzeit fällt heute krankheitsbedingt aus. Viele Grüße Georg",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Sprechstunde und des Tutoriums um 12:00 Uhr von Johannes",
+                            "Discussion_Id": "601806",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081192",
+                                    "Author": "Johannes Möller",
+                                    "DateTime": "2024-06-18T13:04:41+02:00",
+                                    "Content": "Liebe Studierende, leider muss ich Ihnen mitteilen, dass auch diese Woche sowohl meine morgige Sprechstunde um 10:00 Uhr als auch das darauf folgende Tutorium um 12:00 Uhr aus gesundheitlichen Gründen ausfallen werden. Mit freundlichen Grüßen Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Dienstag 14-16 Uhr",
+                            "Discussion_Id": "601607",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080906",
+                                    "Author": "Joscha Lasse Bisping",
+                                    "DateTime": "2024-06-17T17:44:07+02:00",
+                                    "Content": "Liebe Studis, mein Tutorium muss morgen leider krankheitsbedingt ausfallen.  Liebe Grüße Joscha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Sprechstunde und des Tutoriums um 12:00 Uhr von Johannes",
+                            "Discussion_Id": "600287",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078970",
+                                    "Author": "Johannes Möller",
+                                    "DateTime": "2024-06-11T13:10:23+02:00",
+                                    "Content": "Liebe Studierende, leider muss ich Ihnen mitteilen, dass sowohl meine morgige Sprechstunde um 10:00 Uhr als auch das darauf folgende Tutorium um 12:00 Uhr aus gesundheitlichen Gründen ausfallen werden. Mit freundlichen Grüßen Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tut Mo 14uhr gestrichen",
+                            "Discussion_Id": "599565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077907",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-06-07T09:48:25+02:00",
+                                    "Content": "Liebe Studis, das Tutorium montags 14 - 16 uhr wird gestrichen. LG Jenny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Betreute Programmierzeit am Donnerstag, 13.06. fällt aus",
+                            "Discussion_Id": "599426",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077698",
+                                    "Author": "Georg Reich",
+                                    "DateTime": "2024-06-06T14:11:41+02:00",
+                                    "Content": "Liebe Studierende, Die betreute Programmierzeit am Donnerstag, 13.06. fällt aus, da ich auf einer Konferenz bin. Viele Grüße Georg",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausetzung des Tutoriums von Johannes mittwochs um 8 Uhr",
+                            "Discussion_Id": "598870",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076908",
+                                    "Author": "Johannes Möller",
+                                    "DateTime": "2024-06-04T14:12:07+02:00",
+                                    "Content": "Liebe Studierende,  das Tutorium, das mittwochs um 8 Uhr bei mir stattfindet, wird bis auf Weiteres wegen geringer Auslastung ausfallen. Bitte nutzen Sie die anderen angebotenen Termine, um Ihre Fragen zu klären und die Übungsblätter zu bearbeiten. Vielen Dank für Ihr Verständnis.  Mit freundlichen Grüßen Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Donnerstag 8 - 10 Uhr gestrichen",
+                            "Discussion_Id": "597961",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075566",
+                                    "Author": "Georg Reich",
+                                    "DateTime": "2024-05-30T16:07:23+02:00",
+                                    "Content": "Liebe Studierende,  aufgrund der geringen Teilnehmerzahl wird das Donnerstagstutorium um 8 - 10 Uhr gestrichen. Das betreute Programmieren am Donnerstag um 12 Uhr findet weiterhin statt.  Mit freundlichen Grüßen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Joscha 12-14 Uhr",
+                            "Discussion_Id": "597924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075523",
+                                    "Author": "Joscha Lasse Bisping",
+                                    "DateTime": "2024-05-30T14:41:32+02:00",
+                                    "Content": "Liebe Studis, aufgrund der geringen Teilnehmeranzahl wird mein Tutorium am Mittwoch von 12-14 gestrichen. Mein Tutorium von 14-16 Uhr findet weiterhin statt.  Liebe Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstd am Fr 24.5 14uhr fällt aus",
+                            "Discussion_Id": "596469",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073270",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-05-24T10:18:07+02:00",
+                                    "Content": "Liebe Studis, die Sprechstd heute Fr. um 14uhr fällt aus. LG Jenny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungen von Johannes ",
+                            "Discussion_Id": "595240",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071395",
+                                    "Author": "Johannes Möller",
+                                    "DateTime": "2024-05-17T16:37:37+02:00",
+                                    "Content": "Sehr geehrte Studierende, nächste Woche entfallen die Vorlesungen, Übungen und betreuten Programmierzeiten. Bitte beachten Sie jedoch, dass dies nicht für die Übungen und die Programmierzeit am Mittwoch von Johannes gilt. Diese finden wie gewohnt in den bekannten Räumen statt. Sie können diese Zeiten nutzen, um weitere Fragen zu stellen und an den Übungsblättern zu arbeiten. Mit freundlichen Grüßen Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler bei Hausaufgabe letzter Woche: \"Komplexitätsklasse erkennen\"",
+                            "Discussion_Id": "594342",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069997",
+                                    "Author": "Georg Reich",
+                                    "DateTime": "2024-05-14T13:36:38+02:00",
+                                    "Content": "Liebe Studierende, Uns ist bei der vorgegebenen Antwort der Aufgabe \"Komplexitätsklasse erkennen\" leider ein Fehler unterlaufen. Der vorgegebene Algorithmus (wie folgt) hat mindestens quadratische Komplexität, also hätten die Antworten O(n2), O(n4), O(2n), O(4n), und O(n!) als richtig bewertet werden sollen. Einige Studierende haben trotz der eigentlich von uns gewünschten und korrekten Antwort O(n2) für die Aufgabe keine Punkte bekommen. In den Fällen, in denen damit nicht die Bestehensgrenze erreicht wurde, haben wir das nachträglich korrigiert. public static void permutieren(int[] zahlen) {     int n = zahlen.length; // In diesem Beispiel n = 4     for (int i = 0; i < n - 1; i++) {         for (int j = 0; j < n - 1; j++) {             System.out.println(zahlen[i] + \", \" + zahlen[j]);         }     } } Wir bitten um Entschuldigung.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Sprechstunde und des Tutoriums um 12:00 Uhr von Johannes",
+                            "Discussion_Id": "592928",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067757",
+                                    "Author": "Johannes Möller",
+                                    "DateTime": "2024-05-07T13:15:09+02:00",
+                                    "Content": "Ausfall der Sprechstunde und des Tutoriums um 12:00 Uhr von Johannes Liebe Studierende, leider muss ich Ihnen mitteilen, dass sowohl meine morgige Sprechstunde um 10:00 Uhr als auch das darauf folgende Tutorium um 12:00 Uhr ausfallen werden. Allerdings wird das Tutorium um 8:00 Uhr von Georg vertreten werden, sodass Sie dort das vierte Übungsblatt bearbeiten können. Mit freundlichen Grüßen Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium heute 12-14 &amp; 14-16 fällt aus",
+                            "Discussion_Id": "592796",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067567",
+                                    "Author": "Joscha Lasse Bisping",
+                                    "DateTime": "2024-05-07T09:21:30+02:00",
+                                    "Content": "Liebe Studis, meine Tutorien müssen heute leider ausfallen. Bitte verteilt euch diese Woche auf die anderen Tutorien.  Liebe Grüße  Joscha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstd am 03.05",
+                            "Discussion_Id": "591682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065789",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-05-02T12:22:42+02:00",
+                                    "Content": "Liebe Studierende,  meine Sprechstd morgen wird einmalig um 1h vorverlegt auf 13uhr MAR6.029. LG, Jenny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabefrist der Hausaufgaben",
+                            "Discussion_Id": "590811",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064461",
+                                    "Author": "Georg Reich",
+                                    "DateTime": "2024-04-29T14:27:44+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der Verwirrung mancher Studierender haben wir die Abgabefrist der Hausaufgaben ab nächster Woche auf eine Minute früher, jeweils sonntags um 23:59, gesetzt. Mit freundlichen Grüßen Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme an den Hausaufgaben",
+                            "Discussion_Id": "590628",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064173",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-29T09:46:14+02:00",
+                                    "Content": "Liebe Studierende, uns ist aufgefallen, dass von denen unter Ihnen, sich zur Teilnahme an den Hausaufgaben angemeldet haben, nur 60% an der ersten Hausaufgabe in der vergangenen Woche teilgenommen haben. Daher möchten wir nochmals daran erinnern, dass Sie diese Hausaufgabe bestehen müssen, um zur Klausur zugelassen zu werden. Details dazu finden Sie hier im ISIS-Kurs. Freundliche Grüße Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kleiner Fehler in Hausaufgabe",
+                            "Discussion_Id": "590627",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064171",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-29T09:44:22+02:00",
+                                    "Content": "Liebe Studierende, uns ist bekanntgeworden, dass es in der vergangenen Hausaufgabe zu einem kleineren Fehler gekommen ist: für manche von Ihnen wurden Symbole nicht korrekt angezeigt. Generell gilt, dass wir derartige Fehler unsererseits stets zu Ihrem Vorteil ausbessern. Konkret bedeutet dies, dass so eine Aufgabe für alle Studierenden mit der vollen Punktzahl gewertet würde, falls sich dadurch die individuellen Bewertungen (bestanden oder nicht bestanden) ändern würden. Für die Hausaufgabe der vergangenen Woche ergibt sich keine Änderung der Ergebnisse, durch eine geänderte Bewertung der betreffenden Aufgabe. Da niemandem von Ihnen ein Nachteil entsteht, wird die Hausaufgabe so bewertet, wie Sie ist. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "betreute Programmierzeit Fr.",
+                            "Discussion_Id": "590521",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064016",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-04-28T17:41:22+02:00",
+                                    "Content": "Liebe Studierende,  es findet Freitags eine betreute Programmierzeit/Sprechstd statt in MAR6.029 LG, Jenny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anzeige-Problem in Hausaufgabe",
+                            "Discussion_Id": "589679",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062756",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-25T10:13:57+02:00",
+                                    "Content": "Liebe Studierende, wir mussten feststellen, dass es für eine der Aufgaben der Hausaufgabe dieser Woche zu Problemen mit der Anzeige kommt. Wir werden dies bei der Bewertung der Hausaufgaben berücksichtigen.  Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freischaltung von Vorlesungsfolien",
+                            "Discussion_Id": "588755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061311",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-23T10:22:08+02:00",
+                                    "Content": "Liebe Studierende, auf Ihre Bitte hin werden die Vorlesungsfolien fortan an Dienstagen der Woche vor der Vorlesung, in der die jeweiligen Folgesätze erstmals behandelt werden, freigeschalten.  Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freischaltung von Tutoriumsblättern",
+                            "Discussion_Id": "588720",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061262",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-23T09:08:43+02:00",
+                                    "Content": "Liebe Studierende, auf Bitten mancher von Ihnen werden die noch kommenden Tutoriumsblätter nicht länger an Montagen, sondern an den Samstagen vor den Wochen, in denen die Blätter bearbeitet werden, freigegeben. Hintergrund dieser Änderung ist, dass manche von Ihnen einem der beiden Tutorien an Montagen zugewiesen wurden. Ohne eine frühere Freischaltung der Blätter bleibt diesen Studierenden kaum Zeit sich angemessen auf die einzelnen Tutoriumstermine vorzubereiten. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zu Übungen und Hausaufgaben überprüfen",
+                            "Discussion_Id": "578992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1046105",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-22T09:00:00+02:00",
+                                    "Content": "Liebe Studierende,  ab heute wird Ihnen im zweiten Wochen-Abschnitt angezeigt, ob Sie hier im ISIS-Kurs als Teilnehmer*in an den Übungen und Hausaufgaben eingetragen wurden oder nicht. Bitte überprüfen Sie, ob diese Zuordnung korrekt ist, und melden Sie sich wie dort beschrieben, falls nicht. Freundliche Grüße  Ihr InfTech II-Team ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachteilsausgleiche frühzeitig einreichen",
+                            "Discussion_Id": "578486",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1045333",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-18T09:00:00+02:00",
+                                    "Content": "Liebe Studierende, wir bitten aus Planungs- und Organisationsgründen darum, dass Sie Ihre Nachteilsausgleiche möglichst frühzeitig über unsere Mailadresse inftechexam@ni.tu-berlin.de einreichen. Dies können Sie vorsorglich auch jetzt schon tun, selbst wenn Sie noch nicht wissen, ob Sie an der Klausur teilnehmen werden. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Betreutes Programmieren",
+                            "Discussion_Id": "586846",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058290",
+                                    "Author": "Maximilian Alex",
+                                    "DateTime": "2024-04-17T12:45:44+02:00",
+                                    "Content": "Liebe Studis, Ab kommender Woche findet mein betreutes Programmieren im MAR 0.009 statt. Am 16.07 wird dieses einmalig online stattfinden, den entsprechenden Link werde ich rechtzeitig hier zur Verfügung stellen. Beste Grüße Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldezeitraum für Übungen (Tutorien) und Hausaufgaben endet bald",
+                            "Discussion_Id": "586668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058064",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-17T08:47:24+02:00",
+                                    "Content": "Liebe Studierende, wie in einem anderen Thread hier im Ankündigungen-Forum bereits erwähnt, hat sich der Zeitraum zur Anmeldung für die Übungen (Tutorien) und Hausaufgaben verschoben. Der Anmeldezeitraum endet heute um 18 Uhr s.t. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zu den Übungen und Hausaufgaben",
+                            "Discussion_Id": "577681",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1044127",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-15T09:00:00+02:00",
+                                    "Content": "Liebe Studierende,  Sie können sich in dieser Woche noch bis zum 17. April 2024 um 23:59 Uhr zu den Übungen und somit auch den Hausaufgaben an- und abmelden. Informationen dazu finden Sie im Abschnitt \"Übungen und Hausaufgaben\" in diesem ISIS-Kurs. Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056901",
+                                    "Author": "Patrik Reiske",
+                                    "DateTime": "2024-04-15T10:44:49+02:00",
+                                    "Content": "Liebe Studierende,  der Anmeldezeitraum für die Übungen (Tutorien) und somit auch für die Hausaufgaben wurde systembedingt auf 17. April 2024 vorverlegt. Bitte beachten Sie dies, wenn Sie den Zeitpunkt für Ihre Anmeldung wählen.  Freundliche Grüße  Ihr InfTech II-Team",
+                                    "Response to": "p1044127"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierenden-Forum",
+                    "Forum_id": "1745871",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tutorium 08 - Lösung",
+                            "Discussion_Id": "606938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088556",
+                                    "Author": "Thomas Theilmann",
+                                    "DateTime": "2024-07-10T15:17:58+02:00",
+                                    "Content": "Moin Zusammen, wäre es möglich einmal die Lösung von dem Tutorium 08 auf ISIS einzuspielen. Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beispeilaufgabe 5",
+                            "Discussion_Id": "599499",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077800",
+                                    "Author": "Brendon Meci",
+                                    "DateTime": "2024-06-06T18:00:22+02:00",
+                                    "Content": "Hallo liebes Inftech Team,  ich hätte eine Frage zu dem addTail Methode: ublic void addTail(Film val){  if ( head == null ){ addHead(val); return; } tail.next = new ListElem(val, null); tail= tail.next;   //tail = new ListElem(val, tail); }  Wieso sollte man das neue Element mit tail.next (+ update) statt einfach //tail = new ListElem(val, tail);  Danke im voraus  VG Brendon",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078662",
+                                    "Author": "Marc-Antoine Willy",
+                                    "DateTime": "2024-06-10T15:46:15+02:00",
+                                    "Content": "Das funktioniert nicht, weil wir damit unsere \"Listenstruktur\" kaputt machen würden, bzw. das letzte Element einfach nicht mit dem vorletzten Element (also dem alten Tail) verbunden ist.  Und wenn Du tail = new ListElem(val, tail); anwendest (unabhängig von dem oben genannten Problem) würdest Du ein Element mit der Referenz auf Tail erzeugen, richtig wäre aber eine Null-Referenz, damit Du auch wirklich ein \"letztes\" Element anhängst.  (Ich bin nur Student - es kann gut sein, dass ich falsch liege...)",
+                                    "Response to": "p1077800"
+                                },
+                                {
+                                    "Message_id": "p1082420",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-06-21T17:09:22+02:00",
+                                    "Content": "Hallo Brendon,  tut mir Leid für die späte Antwort. Deine Liste würde dann so aussehen. Dein neues Element hat das alte tail als nächstes Element und das neue Element ist das neue tail.",
+                                    "Response to": "p1077800"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kann eine Schicht vollständig sein, wenn zuvor Schichten unvollständig waren?",
+                            "Discussion_Id": "599076",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077210",
+                                    "Author": "Marc-Antoine Willy",
+                                    "DateTime": "2024-06-05T10:49:33+02:00",
+                                    "Content": "Liebes InfTech-Team,  ich habe eine kleine Frage zur Vollständigkeit von Schichten in Binärbäumen. Laut der Vorlesung ist eine Schicht vollständig, wenn sie die maximale Anzahl an Knoten hat. Was aber, wenn zuvor ein Randknoten auftaucht, womit nachfolgende Schichten weniger Knoten haben? Z.B. ein Binärbaum mit drei Schichten - In der Wurzel wird nur links verzweigt, und dann vollständig. Dann hätten wir in der untersten Schicht zwei Knoten. Wäre das dann vollständig? Ich würde mich sehr über eine kurze Antwort freuen.  Mit freundlichen Grüßen, Marc-Antoine Willy",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077905",
+                                    "Author": "Yu Liang Dong",
+                                    "DateTime": "2024-06-07T09:42:41+02:00",
+                                    "Content": 

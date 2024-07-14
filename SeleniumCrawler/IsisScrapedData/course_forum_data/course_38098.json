@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar: Recent Trends in Deep Learning for Computer Vision",
+        "Course_id": "38098",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1779350",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "RSiM Student Assistant Call",
+                            "Discussion_Id": "607437",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089254",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-12T11:17:04+02:00",
+                                    "Content": "Dear students, I would like to draw your attention to our new job offer at RSiM (my research group): https://www.jobs.tu-berlin.de/stellenausschreibungen/185072  If you are interested, feel free to apply.   Best, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Deadline for registration in MOSES",
+                            "Discussion_Id": "593073",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067953",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-05-07T17:58:20+02:00",
+                                    "Content": "Dear students, this is a gentle reminder that the deadline for registration in MOSES for the DL4CV seminar is 14.05.2024 at 23:55. Best, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Assignments",
+                            "Discussion_Id": "587719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059626",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-04-19T14:39:33+02:00",
+                                    "Content": "Dear students, thank you for your emails and especially to those that listed more than three topics, it enabled a topic assignment such that everyone can work with a topic they are intersted in. The assignemnts look the following: - Data Augmentation: Jan & Felix - Semi-Supervised Learning: Erik & Hung Bui - Self-Supervised Learning: Konrad & Maximilian - Modern CNNs & Transformer: Cedric & Johannes - Memorization & Generalization: Gunnar & Siyu Xiao - Special Aspects of Learning: Florian & Achim It nicely fit such that no one needs to work alone. I would propose the following new schedule, since 3 topics were not selected: - 22.05 Data Augmentation - 29.05 Semi-Supervised Learning - 05.06 Self-Supervised Learning - 12.06 Modern CNNs vs. Vision Transformer - 19.06 Memorization and Generalization - 26.06 Special Aspects of Learning - 03.07 Optional: Texture Bias (either presented by me if the students are interested to hear more about this topic / or assigned to students that missed the deadline) - 17.07 no class (or backup) I hope you are all fine with this. Please let me know, if you are not okay with this change of the schedule.  Best, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Deadline for submitting priority list of topics",
+                            "Discussion_Id": "587475",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059233",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-04-18T18:46:13+02:00",
+                                    "Content": "Dear all, here is a small reminder that you need to send the priority list of topics to me (t.burgert@tu-berlin.de) until tomorrow (Friday, the 19th) 2pm.  Best, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

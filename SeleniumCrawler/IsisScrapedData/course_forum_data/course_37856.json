@@ -1,0 +1,83 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Projektwerkstatt Aufbau eines 3D-Druckers und einer Extrusionsstrecke zum Kunststoffrecycling",
+        "Course_id": "37856",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1770664",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Erster Termin: Laptop mitbringen",
+                            "Discussion_Id": "588984",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061651",
+                                    "Author": "Milan Mehner",
+                                    "DateTime": "2024-04-23T15:33:14+02:00",
+                                    "Content": "Liebe Alle, wir möchten beim ersten regulären Termin am Donnerstag mit einer Einführung in FreeCAD starten. Bitte bringt dafür eure Laptops mit. Eine Maus ist außerdem von Vorteil. Wenn ihr das Programm bereits vor dem Termin installieren könnt, sparen wir im Kurs die Zeit dafür: https://www.freecad.org/downloads.php Grüße Milan/Annie/Helge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme am Kurs",
+                            "Discussion_Id": "588391",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060730",
+                                    "Author": "Milan Mehner",
+                                    "DateTime": "2024-04-22T13:01:00+02:00",
+                                    "Content": "Liebe Alle,  wir haben nach der Einführungsveranstaltung 40 Anmeldungen für den Kurs erhalten, jedoch nur 15 Plätze zur Verfügung. Deshalb mussten wir auf das Losverfahren zurückgreifen. Alle, die dabei einen Platz bekommen haben, haben soeben eine E-Mail erhalten. Für alle die, bei denen es dieses mal nicht geklappt hat, möchten wir noch darauf hinweisen, dass wir den Kurs auch im nächsten Semester anbieten und eine vergangene Anmeldung bei der Platzvergabe berücksichtigen.  Wir haben auch eine Nachrückerliste erstellt und bitten alle, die einen Platz erhalten haben, sich jedoch inzwischen anderes entschlossen haben, uns schnellstmöglich bescheid zu sagen, damit wir die Plätze weiter geben können. Solltet ihr über die Nachrückerliste einen Platz erhalten, werden wir euch per E-Mail benachrichtigen.  Viele Grüße Annie/Helge/Milan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungstermin im MA 269",
+                            "Discussion_Id": "585915",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056982",
+                                    "Author": "Milan Mehner",
+                                    "DateTime": "2024-04-15T11:57:51+02:00",
+                                    "Content": "Hallo zusammen, da sich mittlerweile eine doch recht hohe Anzahl in den Kurs bei ISIS eingeschrieben hat, wird unser Projektraum für den Einführungstermin am Donnerstag nicht mehr ausreichen. Wir weichen daher für diesen Termin kurzfristig auf den Raum MA 269 aus. Der Raum liegt etwas versteckt in der zweiten Etage Westflügel neben den Aufzügen. Es geht um 14 Uhr c.t. los und wird maximal zwei Stunden dauern.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Allgemeines und Fragen",
+                    "Forum_id": "1773168",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "31.07. Anwesenheitspflicht?",
+                            "Discussion_Id": "598620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076563",
+                                    "Author": "Leon David Martin Toussaint",
+                                    "DateTime": "2024-06-03T16:36:49+02:00",
+                                    "Content": "Hallo, muss man beim Termin Abgabe Abschlussbericht zugegen sein? Gruß Leon",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076934",
+                                    "Author": "Ann Sophie Felisiak",
+                                    "DateTime": "2024-06-04T15:07:28+02:00",
+                                    "Content": "Hallo Leon,  die Abgabe des Abschlussberichts, erfolgt ebenfalls online über ISIS. Ihr müsst nicht anwesend sein, um den Abschlussbericht abzugeben. Der Abgabetermin ist so gewählt, dass ihr nach dem letzten regulären Termin zwei Wochen zeit habt euren Bericht zu schreiben.  Beste Grüße Annie",
+                                    "Response to": "p1076563"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

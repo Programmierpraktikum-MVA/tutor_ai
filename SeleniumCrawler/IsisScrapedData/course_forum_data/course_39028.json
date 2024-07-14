@@ -1,0 +1,123 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Diskrete Geometrie I",
+        "Course_id": "39028",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1813466",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Oral Exam Registration",
+                            "Discussion_Id": "601920",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081343",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-06-18T17:43:02+02:00",
+                                    "Content": "Dear course participants, as announced during the lecture, we will be opening registrations for the oral exam of the course. This consists of two steps: 1) Choose your preferred time slot here (opens tomorrow, 08:00 am) 2) Fill out the (first section of the) registration form and send it by email to niessen@math.tu-berlin.de  Your registration is only complete when both steps are done. If you are interested in taking the exam, we ask you to follow them as soon as possible. Best wishes, CA",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081554",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-06-19T12:26:26+02:00",
+                                    "Content": "Dear all,  due to popular demand, we are offering additional slots on Tuesday, August 20th.  Feel free to update your preferences if the date suits you better.  Best,  CA",
+                                    "Response to": "p1081343"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tag der Mathematik: May 4",
+                            "Discussion_Id": "589468",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062430",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-04-24T15:58:20+02:00",
+                                    "Content": "Dear course participants: Please seriously consider helping out on the next Mathematics Day to take place at TU on May 4th.  For more info, see the message from the organization team below. ----------------- Helfer:innen gesucht!  Unser Institut richtet am Samstag, dem 4. Mai, den 27. Tag der Mathematik aus: https://www3.math.tu-berlin.de/TDM/tdm-2024/ Wir benötigen Dutzende studentische Helfer für Aufsicht, Korrektur und technische Vortragshilfe! Hauptsächlich brauche ich Aufsichtspersonen, die den Wettbewerb durchzuführen helfen. Es haben sich schon 330 Schüler(innen) zum Wettbewerb angemeldet, und ich rechne mit etwa tausend am Ende. Jede(r) Hilfswillige muss einfach nur zu https://www3.math.tu-berlin.de/TDM/tdm-2024/ gehen und  sich links unten eintragen unter Intern -> Unterstützung vor Ort Meldungen sehr gerne an tdm@math.tu-berlin.de.  Herzlichen Dank und beste Grüße, Wolfgang König (für das TdM-Orgateam) ----------------- May the 4th be with you! CA",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Registration",
+                            "Discussion_Id": "586117",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057262",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-04-15T17:21:37+02:00",
+                                    "Content": "Dear course participants, It was good to meet some of you today! While the exercise session for the course is set for Wednesday afternoons (starting from April 24, 2024), to set the schedule for the tutorium we ask you to please register on MOSES as soon as possible, so we know the best slot that works for the majority.  Best wishes and hope to see you tomorrow, Carlos A. and Janike O.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions",
+                    "Forum_id": "1816754",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "moses tutorium ",
+                            "Discussion_Id": "587458",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059213",
+                                    "Author": "Anna Sergeeva",
+                                    "DateTime": "2024-04-18T18:08:24+02:00",
+                                    "Content": "Hello,   unfortunately I didnt register for the tutorium on moses. Am I still able to participate in this course or was registration on moses a mandatory? thank you ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059259",
+                                    "Author": "Janike Oldekop",
+                                    "DateTime": "2024-04-18T20:12:34+02:00",
+                                    "Content": "You are very welcome in both the lecture and the tutorial! If you send me your student number via email I can officially register you for the tutorial in Moses.",
+                                    "Response to": "p1059213"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsApp group",
+                            "Discussion_Id": "586906",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058377",
+                                    "Author": "Anna Popkova",
+                                    "DateTime": "2024-04-17T14:16:08+02:00",
+                                    "Content": "Hallo! I created a WhatsApp group for the Discrete Geometry course. You are welcome to join through this link:): https://chat.whatsapp.com/I4k48C9rSaBK4FPuJcpUwi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Creation of Lecture Notes",
+                            "Discussion_Id": "586361",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057634",
+                                    "Author": "Max Nicolas Dahlinger",
+                                    "DateTime": "2024-04-16T12:45:57+02:00",
+                                    "Content": "In yesterdays lecture I asked whether we could create texed lecture notes based on this semesters lectures. Prof. Améndola was open to the idea and therefore I wanted to ask, whether anyone else would be interested to help in this endeavor? I have created an overleaf project and am nearly done texing yesterdays lecture. This is the read-only-link to the project https://www.overleaf.com/read/qkfzpzjxgvnk#1db43e. Anyone who wants to help in creating the lecture notes, dm me and I will add you as a collaborator. As soon as there is at least one other person, I will create a Telegram Group (and post the link to join in a reply to this message) where we can discuss changes/suggestions for the document etc. or other matters relating to this course.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057987",
+                                    "Author": "Carlos Enrique Améndola Cerón",
+                                    "DateTime": "2024-04-16T21:04:16+02:00",
+                                    "Content": "Thank you Max for such a nice initiative and for getting started with this project! (particularly for including better diagrams than the ones I could draw on the board). I very much hope that more people are interested in joining you and that this takes off. Every participant should seriously consider collaborating so that everybody can benefit from it. ",
+                                    "Response to": "p1057634"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

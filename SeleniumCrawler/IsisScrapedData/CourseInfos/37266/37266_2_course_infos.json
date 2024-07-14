@@ -1,0 +1,22 @@
+[
+    "Thema A: Smart Garbage Bin",
+    "Die Gruppe entwickelt einen Prototyp für eine smarte Mülltonne. Die Mülltonne\nsoll kontinuierlich ihren Füllstand und Inhalt evaluieren. Der aktuelle Zustand der \nMülltonne soll an einen zentralen Server übermittelt werden und dort \nüber ein Interface einsehbar und steuerbar sein. Für Kommunikation und Sensorik werden Arduino und Raspberry Pi benutzt, die über WiFi kommunizieren.",
+    "Ansprechpartner:",
+    "Julian Klein",
+    "Thema B: Robot Maze",
+    "Die Gruppe entwickelt ein konfigurierbares Labyrinth und programmiert \neinen Roboter, der autonom dessen Ausgang findet. Ein fahrfähiger \nRoboter mit verschiedenen integrierten Sensoren steht zur Verfügung, das\n Labyrinth wird selbst entworfen und gebaut.",
+    "Ansprechpartner:",
+    "Wolffhardt Schwabe",
+    "Thema C: Autonomes hydroponisches System",
+    "© 2023, simplePlant GmbH",
+    "Im Rahmen des Praktikums soll eine Steuerung für \neinen hochmodernen und nachhaltigen Indoorgarten im urbanen Raum \nkonzipiert und implementiert werden. Ziel des Projekts ist der Entwurf \nund die Implementierung einer Steuereinheit für ein vollautomatisches hydroponisches System. Diese Einheit soll den Nährstoffgehalt und die \nBeleuchtung auf Basis von Grenzwerten und der bildgestützten Analyse des\n Pflanzenzustands überwachen und steuern. Demnach sollen verschiedene \nInformationen genutzt und verknüpft werden, um eine optimale \nWachstumsumgebung zu schaffen. Zusätzlich zu der automatischen Steuerung\n sollen die Messwerte und der Zustand der Pflanze über ein Interface \nabgerufen werden können. Darüber hinaus ist die manuelle Steuerung der \nAktoren über ein geeignetes Interface wünschenswert. Als Hardwarebasis steht ein mit Sensorik und Aktorik ausgestatteter Prototyp zur Verfügung. Die verbaute Sensorik und Aktorik muss auf Basis eines zu entwickelnden Systementwurfs mit diversen Mikrocontrollern (ESP32, Arduino) verbunden und angesteuert werden. Dabei sind Kenntnisse in C/C++ und ein grundlegendes Interesse an elektronischen Schaltungen gefragt. Für weitere aufwändigere Berechnungen können ein 1-2 Raspberry Pis eingebunden werden. Die Kommunikation zwischen den Controllern kann sowohl über Wifi als auch über serielle Schnittstellen erfolgen.",
+    "In diesem Semester wird das Praktikum in Kooperation mit",
+    "simplePlant",
+    "angeboten.",
+    "Ansprechpartner:",
+    "Milko Monecke",
+    "Thema D: Sortierung Wareneingang",
+    "Die Gruppe entwickelt ein Wareneingangssystem, bei dem ein \nMiniatur-Industrieroboter die Ware anhand einer festgelegten Eigenschaft\n erkennt und sortiert. Die Sensorik, Aktorik und der Aufbau des Systems werden im Praktikum von der Gruppe selbst \nentworfen und dienen der Koordination von Abläufen. Als Roboter wird der WLkata Mirobot verwendet. Das System besteht aus mindestens zwei Teilkomponenten (Arduino und Raspberry Pi), die über WiFi miteinander kommunizieren.",
+    "Ansprechpartner:",
+    "Simon Schwan"
+]

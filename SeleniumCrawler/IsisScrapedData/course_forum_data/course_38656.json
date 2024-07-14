@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Strömungsmaschinen Auslegung & Maschinenelemente",
+        "Course_id": "38656",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1799474",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung SM 1",
+                            "Discussion_Id": "590633",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064183",
+                                    "Author": "David Beck",
+                                    "DateTime": "2024-04-29T09:53:20+02:00",
+                                    "Content": "Liebe Studierende, die Einführungsveranstaltung für das Blockseminar \"Strömungsmaschinen I - Auslegung\" findet am 8. Mai um 12:00 Uhr via Zoom statt. https://tu-berlin.zoom.us/j/63754922012?pwd=bk1DVUxSR1oxTHlwM2FhN3dwS3EzZz09 Viele Grüße Euer FSD-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragenforum",
+                    "Forum_id": "1805994",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung",
+                            "Discussion_Id": "587254",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058899",
+                                    "Author": "Mutluhan Gyunan Isaev",
+                                    "DateTime": "2024-04-18T11:58:12+02:00",
+                                    "Content": "Wird es eine Einführungsveranstaltung für das Modul Strömungsmaschinen - Auslegung geben? Ist es möglich im SoSe24 die beiden Module Strömungsmaschinen - Auslegung und Strömungsmaschinen - Maschinenelemente zu belegen und 12 LP dafür bekommen? Vielen Dank.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064180",
+                                    "Author": "David Beck",
+                                    "DateTime": "2024-04-29T09:51:15+02:00",
+                                    "Content": "Hallo,  eine Einführungsveranstaltung wird digital am 8. Mai um 12:00 stattfinden. Dieses Semester wird die Blockveranstaltung Strömungsmaschinen - Auslegung stattfinden, allerdings können sowohl die Klausuren für SM 1 als auch SM 2 am Erst- als auch am Zweittermin absolviert werden.  Viele Grüße Euer FSD-Team",
+                                    "Response to": "p1058899"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

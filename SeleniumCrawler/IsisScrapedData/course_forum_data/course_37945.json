@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Fichtelgebirge Exkursion",
+        "Course_id": "37945",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1773647",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Folien Sichtbar",
+                            "Discussion_Id": "592826",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067606",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-05-07T10:13:44+02:00",
+                                    "Content": "Hallo Zusammen, nun müssten auch die hochgeladenen Folien der Vorbesprechung für alle sichtbar sein. Falls nicht, bitte nochmal melden. Beste Grüße Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folien Vorbesprechung",
+                            "Discussion_Id": "589735",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062834",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-04-25T11:20:17+02:00",
+                                    "Content": "Lieber Studierende, die Folien der Vorbesprechung habe ich hochgeladen. Darin sind auch die Informationen zur Überweisung Ihres Eigenanteils aufgeführt. Beste Grüße Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbesprechung am 25.4. um 10.30 Uhr in BH-N 907",
+                            "Discussion_Id": "589062",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061779",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-04-23T17:36:02+02:00",
+                                    "Content": "Liebe Studierende in der Lehrveranstaltung \"Fichtelgebirge\" am kommenden Donnerstag findet um 10.30 Uhr eine Vorbesprechung für die Exkursion statt. Bitte kommen Sie dazu in den Raum 907 im BH-N-Gebäude. Mit besten Grüßen Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisatorisches",
+                            "Discussion_Id": "587029",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058554",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-04-17T17:14:39+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der Erkrankung des Dozenten kann die Kartierübung im Fichtelgebirge nicht wie gewohnt stattfinden. Eine Lösung ist in Sicht. Sobald Näheres bekannt ist, werden wir uns bei Ihnen melden. Mit besten Grüßen Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

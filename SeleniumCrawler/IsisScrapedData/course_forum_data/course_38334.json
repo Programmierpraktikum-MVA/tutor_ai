@@ -1,0 +1,50 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Angewandte Produktionstechnik",
+        "Course_id": "38334",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1791716",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Workshop 23.04.24",
+                            "Discussion_Id": "588369",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060695",
+                                    "Author": "Christian Magnus Vehmann",
+                                    "DateTime": "2024-04-22T12:37:49+02:00",
+                                    "Content": "Liebe Studierende,   morgen den 23.04.2024 zwischen 12:00 und 14:00 findet der Projektworkshop zum Thema der Nutzung von KI-Systemen und individuellen Lernzielen online statt. (https://tu-berlin.zoom.us/j/61828500257?pwd=aXUzNzZsWElpWnc4N2NXaWxOcVNlQT09) Bitte ladet euch bis dahin Webex herunter, ich werde eine gemeinsame Projektgruppe erstellen. Wer an der Auftaktveranstaltung nicht anwesend war und trotzdem noch am Modul teilnehmen will, schreibt mir bitte entweder hier auf ISIS oder per Mail.  Viele Grüße und bis morgen  Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-Off Veranstaltung",
+                            "Discussion_Id": "586126",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057274",
+                                    "Author": "Christian Magnus Vehmann",
+                                    "DateTime": "2024-04-15T17:38:48+02:00",
+                                    "Content": "Liebe Studierende,   herzlich willkommen im Modul Angewandte Produktionstechnik im Sommersemester 2024. Diesen Donnerstag den 18.04.2024 von 14:00 bis 16:00 findet die Auftaktveranstaltung im EW-Gebäude im Raum 154 statt. Die Veranstaltung wird hybrid stattfinden, der Link wird noch bekannt gegeben.   Viele Grüße und bis dahin Christian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058486",
+                                    "Author": "Christian Magnus Vehmann",
+                                    "DateTime": "2024-04-17T15:58:29+02:00",
+                                    "Content": "Liebe Studierende,  die Auftaktveranstaltung morgen wird hybrid stattfinden, ihr könnt also entweder live oder online teilnehmen, ich empfehle allerdings für die erste Veranstaltung persönlich zu erscheinen. Für alle die es nicht möglich ist, hier schonmal der Zoom-Link.  https://tu-berlin.zoom.us/j/67623872484?pwd=akhZSUJvSlBtTzhKZU1QSnRZM0lKQT09  Viele Grüße und bis morgen Christian",
+                                    "Response to": "p1057274"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

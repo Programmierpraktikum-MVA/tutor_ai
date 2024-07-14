@@ -1,0 +1,290 @@
+[
+    {
+        "Course_Name": "SoSe 2024: Data Science in Engineering",
+        "Course_id": "37083",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1746230",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kurs-Evaluation",
+                            "Discussion_Id": "604210",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084634",
+                                    "Author": "Christian Hoffmann",
+                                    "DateTime": "2024-06-28T11:15:08+02:00",
+                                    "Content": "Liebe Studierende, wir würden uns sehr freuen, wenn ihr an der Kurs-Evaluation teilnehmen würdet: https://befragung.tu-berlin.de/evasys/public/online/index/index?online_php=&pswd=VDH6Y&ONLINEID=537781737290020454784414855237454496614530 Ziel dieser Evaluationen ist es, den Kurs weiter zu verbessern. Für die Teilnahme sind maximal 10 bis 15 Minuten erforderlich. Vielen Dank!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsfolien und Aufnahme hochgeladen",
+                            "Discussion_Id": "599723",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078125",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-06-07T21:05:23+02:00",
+                                    "Content": "Hallo zusammen, die Vorlesungsfolien von heute mit der Aufgabenstellung der Hausaufgabe und die Videoaufnahme der Vorlesung sind jetzt hochgeladen.  Viele Grüße Joris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Vorlesung und Übung am 24.05.",
+                            "Discussion_Id": "595571",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071973",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-05-21T10:22:34+02:00",
+                                    "Content": "Liebe Kursteilnehmer:innen, wie bereits in der letzten Vorlesung angekündigt, wollte ich noch einmal daran erinnern, dass am kommenden Freitag (24.05.) Data Science in Engineering ausfällt. Viele Grüße und bis nächste Woche Joris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Teilnehmer:innen Forum",
+                    "Forum_id": "1746343",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Normalisierung der Features in HA5",
+                            "Discussion_Id": "599246",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077452",
+                                    "Author": "Lara Skuppin",
+                                    "DateTime": "2024-06-05T19:47:12+02:00",
+                                    "Content": "Guten Abend zusammen, in unserer Gruppe kamen wir bei der Bearbeitung der aktuellen Hausaufgabe auf die Frage, welche Skalierung/Normalisierung der Features hier sinnvoll ist. Macht es Sinn, im preprocessing einen StandardScaler anzuwenden? Würde man die numerischen columns anders behandeln als die one-hot-encoded kategorischen? Wie vergleicht man in dem Fall am besten mit HA2? Würde man dann am besten die OLS-Regression nochmal mit dem entsprechend neuen preprocessing wiederholen? Vielen Dank im Voraus! Viele Grüße  Lara (für Gruppe I)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Hausaufgabe 4] - Abgabedatum?",
+                            "Discussion_Id": "596412",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073178",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-23T19:13:58+02:00",
+                                    "Content": "Hi, Ist die Abgabe wie in den Folien steht für morgen angesetzt? Ich sehe keine Deadline beim Abgabetool und morgen findet ja die Veranstaltung nicht statt.  Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073191",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-05-23T19:53:03+02:00",
+                                    "Content": "Hallo zusammen,  da es jetzt mehrere Nachfragen gab: ihr könnt die aktuelle Hausaufgabe bis nächsten Freitag (31.05.) abgeben.   VG Joris",
+                                    "Response to": "p1073178"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Hausaufgabe 4][Score Plot] - Pair Plot?",
+                            "Discussion_Id": "595979",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072562",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-22T13:29:08+02:00",
+                                    "Content": "Hi, Wir sollen ja für alle PC's in allen Kombinationen einen Subplot erstellen. Subplots werden ja dann aneinandergereiht bzw. -geschachtelt. Wenn wir n PC's haben, dann haben wir n^2 subplots, oder eine nxn-Matrix an Plots. Kann ich da einfach einen pair-plot verwenden? Ich habe das ganze Prinzip der score plots so verstanden, dass wir die Transformation über die PCA machen und wir dann die Auftragung bekommen wie in der Folie 20. Nur sollen wir das jetzt für alle Kombinationen nutzen. Das ist doch ein pair-plot? Bzw. eine heat map ginge doch auch?  Gruß Sokratis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Hausaufgabe 3] - Abweichungen zu den VL Folien",
+                            "Discussion_Id": "594308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069949",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-14T12:20:39+02:00",
+                                    "Content": "Hi, in der 3. Hausaufgabe jetzt machen wir ja die drei unterschiedlichen Tests ja wie in den Vorlesungsfolien. Ich erhalte da aber leicht abweichende Werte. Z.b. nutze ich für die Standardabweichung nicht den Wert 0.9 aus der Vorlesung, sondern einen von mir in Python ermittelten, welcher davon leicht abweicht.  Letztentdlich weiche ich selten um mehr als 0.1 ab gegenüber den Werten der Vorlesung. Haben wir da mit genau den Werten der Vorlesung zu arbeiten oder verlassen wir uns auf die Daten vom uns vorgegebenen Datenset? Und sollen wir die Verteilungen auftragen oder reicht das einfach in Textform?  Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071120",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-05-16T23:57:35+02:00",
+                                    "Content": "Hallo Sokratis,  in der Vorlesung wird relativ stark gerundet, Abweichungen von diesen Werten sind also kein Problem.  Viele Grüße Joris",
+                                    "Response to": "p1069949"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Hausaufgaben][Korrektur] - Zeitrahmen für Rückgabe?",
+                            "Discussion_Id": "594087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069565",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-13T14:54:31+02:00",
+                                    "Content": "Hi, Ich wollte nachfragen wann wir ungefähr mit der Rückgabe der ersten Hausaufgabe rechnen können? Es wäre cool, wenn wir unsere Ergebnisse früh wissen können, gerade wenn wir das 6 LP Modul haben. Da sind ja die Hausaufgaben Teil der Note. Auch z.B. wäre es hilfreich zu wissen, ob man bei den Diskussionen mehr oder weniger schreiben muss.  Gruß Sokratis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Questions about Homework 2",
+                            "Discussion_Id": "592770",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067528",
+                                    "Author": "Lara Skuppin",
+                                    "DateTime": "2024-05-06T23:32:49+02:00",
+                                    "Content": "Dear Joris, dear all,  Here are some questions that came up while working on Homework 2: In the assignment, you provided us with a code snippet to one-hot-encode the categorical columns using a ColumnTransformer: ct = ColumnTransformer(transformers=[('encoder', OneHotEncoder(drop='first'), string_col_indices)], remainder='passthrough') X = np.array(ct.fit_transform(X)).astype('float64') This works, but we get just an array of numbers. What a would be a compatible way to \"get the feature names out\" for this transformation, so we can see what the columns of X stand for? When you ask us to provide *the* statistical summary nof the linear regression, the reference to slide 8 seems off -- do you mean, e.g., slide 6 or slide 10? How was the output on slide 6 produced -- is this a standard function from the sklearn library, did you implement it, or did you use linear regression from statsmodels, or ...? What should the discusion contain? Are we supposed to reduce the linear regression model from the full set of features to a subset, as done in the lecture? Thanks in advance for your help! Kind regards, Lara",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067988",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-05-07T19:27:56+02:00",
+                                    "Content": "Hi Lara,  thank you for the questions and for pointing out a mistake on the slides:  1. There is a function called \"get_feature_names_out\" (which returns the feature names) implemented in \"ColumnTransformer\" which you can apply on your fitted transformer. 2. You were totally right, such a summary is shown on the slides 6 and 13. I will correct that in the presentation. A summary like this is not provided by sklearn, so you need to find another way to get it ;) 3. There is no reduction necessary in this homework, but of course a better model is always nice :)  I hope this answers your questions  Best Joris",
+                                    "Response to": "p1067528"
+                                },
+                                {
+                                    "Message_id": "p1068073",
+                                    "Author": "Lara Skuppin",
+                                    "DateTime": "2024-05-08T07:18:57+02:00",
+                                    "Content": "Dear Joris, Thanks a lot for your input -- it's really quite helpful! We'll see what we can do... :) Best, Lara",
+                                    "Response to": "p1067988"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Hausaufgabe 1][Pair Plot] - Anzeige der Einheit stört",
+                            "Discussion_Id": "591382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065310",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-30T20:26:42+02:00",
+                                    "Content": "Hi, Ich hab beim pair-plot das Problem, dass die zweite zeile meinen plots schwierigkeiten bereitet, weshalb ich die nicht mit einlese in mein programm.  Ist das so okay? Als weitere Frage würde ich gerne wissen, inwiefern wie die Datei \"data_manufacturing\" in einem pair-plot darstellen soll? Wir haben 18 Spalten. Das wären 324 Plots in einer 18x18 Matrix. Ich glaube nicht, dass mein Rechner die Leistung dafür hat. Sollten weitere Fragen auftreten, würde ich sie in diesen Beitrag ergänzen. Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065313",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-30T20:39:52+02:00",
+                                    "Content": "** Ergänzung** Ich habe mit den Daten der Excel-Datei \"flash\" es nun auch geschafft sowohl die Correlation-Matrix, als auch die heat map darzustellen. Einzig muss ich mich da nur fragen, ob die Darstellung der Correlation-Matrix so geeignet ist, ist halt Standard. Für die Datei \"manufacturing\" klappt es nicht, da ich, so wie ich es für \"flash\" geschrieben habe, die Datei nicht bearbeiten kann. Sind halt wie bereits erwähnt 18 Spalten.",
+                                    "Response to": "p1065310"
+                                },
+                                {
+                                    "Message_id": "p1065722",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-05-02T11:18:35+02:00",
+                                    "Content": "Hi Sokratis,  überlege noch mal ob du wirklich alle 18 Spalten des Datensatzes in einem pair plot bzw. in einer correlation matrix darstellen kannst.  Viele Grüße Joris",
+                                    "Response to": "p1065313"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "searching for a homework group",
+                            "Discussion_Id": "591591",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065661",
+                                    "Author": "Fabio Steyer",
+                                    "DateTime": "2024-05-02T10:08:52+02:00",
+                                    "Content": "Hey,  unfortunately, I haven't found a homework group yet. Are there still people among you with whom I can join a group? I want to take the 6LP module. Best regards, Fabio Steyer",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065717",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-05-02T11:11:42+02:00",
+                                    "Content": "Hey Fabio,  I changed the max group size to 5, so you can now join a group.  Cheers Joris",
+                                    "Response to": "p1065661"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 1 ",
+                            "Discussion_Id": "590749",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064364",
+                                    "Author": "Daniela Cristina Fernandez Castillo",
+                                    "DateTime": "2024-04-29T13:00:58+02:00",
+                                    "Content": "I have a question about the data I should use to create the pair plot, should I choose 2 variables from the flash set and 2 variables from the manufacturing set, and make the plot separately or  should I combine both sets? Could you give a little more information about this?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064395",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-04-29T13:38:53+02:00",
+                                    "Content": "Hi Daniela,  The purpose of a pairplot is typically to show the dependencies between all the variables in a data set. On slide 18, this was done exemplarily for a data set with three variables. In the homework/exercise, however, this should be created for the dependencies of all variables in the respective data set.  Best Joris",
+                                    "Response to": "p1064364"
+                                },
+                                {
+                                    "Message_id": "p1064702",
+                                    "Author": "Fabio Steyer",
+                                    "DateTime": "2024-04-29T17:51:24+02:00",
+                                    "Content": "Hey, Should we consider the pair plots and correlation matrices for the manufacturing data package also for the columns where names and properties are specified? If so, should we then assign numbers to the names and properties, since we need numerical values for the correlation matrices? Or should we ignor them if not?  Best regards, Fabio",
+                                    "Response to": "p1064395"
+                                },
+                                {
+                                    "Message_id": "p1064725",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-04-29T18:33:51+02:00",
+                                    "Content": "Hi Fabio,  there are multiple ways to treat non-numerical data in correlations. For now it is reasonable to just ignore the categorical columns.  Best Joris",
+                                    "Response to": "p1064702"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Availability of Zoom Recordings",
+                            "Discussion_Id": "584615",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055084",
+                                    "Author": "Muhammad Shaheryar Waris",
+                                    "DateTime": "2024-04-04T12:50:36+02:00",
+                                    "Content": "Will the zoom recordings be available in ISIS after Lecture ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064446",
+                                    "Author": "Christian Hoffmann",
+                                    "DateTime": "2024-04-29T14:19:04+02:00",
+                                    "Content": "No, they will not.",
+                                    "Response to": "p1055084"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Installation - Python Packages",
+                            "Discussion_Id": "588010",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060070",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-20T19:37:51+02:00",
+                                    "Content": "Hi, Welche Python Pakete müssen wir jetzt installieren außer NumPy? Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060513",
+                                    "Author": "Joris Weigert",
+                                    "DateTime": "2024-04-22T10:28:25+02:00",
+                                    "Content": "Hallo Sokratis,  das hängt ganz davon ab mit welchen Paketen du die Aufgaben bearbeiten willst. Dazu kommen wir dann nächste Woche wenn wir die erste Hausaufgabe vorstellen.  Viele Grüße Joris",
+                                    "Response to": "p1060070"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "Course_Name": "SoSe 2024 - Feldforschung",
+        "Course_id": "37680",
+        "Forums": [
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1846742",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Organisatorisches Treffen am Mittwoch",
+                            "Discussion_Id": "602929",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082817",
+                                    "Author": "Inci Sagirbas",
+                                    "DateTime": "2024-06-24T09:55:31+02:00",
+                                    "Content": "Hallo zusammen, wir haben am Mittwoch, den 26. Juni, um 14:00 Uhr im Raum EB 308 ein neues Organisationstreffen. Sorry für die kurzfristige Ankündigung, es gab einen Fehler meinerseits und die Infos wurden letzte Woche nicht gepostet. Bitte sagt Bescheid, wenn ihr nicht kommen könnt. Wir werden euch später über die Ergebnisse informieren. Viele Grüße, Inci Sagirbas sagirbas@campus.tu-berlin.de ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    "1.",
+    "Alexander Kuhn",
+    ", \"",
+    "Migration of Object\nRelational Mapping Tools in Legacy Java Applications",
+    "\" (Defense,",
+    "Advisor",
+    ": Prof. Dr. Stefan Jähnichen",
+    ")",
+    "Abstract",
+    ".",
+    "This thesis aims to find a replacement for the outdated object-relational mapping",
+    "tool Apache ObjectRelationalBridge (OJB) in a legacy Java application.",
+    "At first, a suitable replacement will be determined by comparing the most commonly",
+    "used persistence solutions in the Java environment. Performance tests",
+    "and other metrics will be taken into account. After a replacement has been determined,",
+    "the legacy application VISITE will be migrated to use the new ORM",
+    "tool. The necessary steps will be documented and any occurring problem discussed.",
+    "Several test iterations will be performed until the application is ready",
+    "to be tested in a semi-productive environment. In the end, an outlook on the",
+    "required future maintenance work will be given."
+]

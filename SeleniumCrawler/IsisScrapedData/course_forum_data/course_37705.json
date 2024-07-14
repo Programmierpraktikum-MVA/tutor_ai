@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Einführung in das chinesische Rechtssystem",
+        "Course_id": "37705",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766816",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Unterlagen",
+                            "Discussion_Id": "589777",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062901",
+                                    "Author": "Alexander Herzog",
+                                    "DateTime": "2024-04-25T12:22:18+02:00",
+                                    "Content": "Vorlesungsskript",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

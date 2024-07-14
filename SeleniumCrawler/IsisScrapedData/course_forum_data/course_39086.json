@@ -1,0 +1,343 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Machine and Behavior",
+        "Course_id": "39086",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1815733",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Moses Registration open",
+                            "Discussion_Id": "591797",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065954",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-05-02T15:53:23+02:00",
+                                    "Content": "Hello Everyone, You can now register for the exam on Moses till the 29th of May. Please do so as soon as possible.  Best,  Omar",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Allocation",
+                            "Discussion_Id": "591543",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065582",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-05-02T08:11:25+02:00",
+                                    "Content": "Hello Everyone, Please find below the allocation of papers: Emergence and collapse of reciprocity in semiautomatic driving coordination experiments with humans  Shreyas Guruvanahalli Shamasundar Large language models show human-like content biases in transmission chain experiments  Marie Luise Theresia Mehner, Amin Mohamed Amin Rida Learning to solve complex tasks by growing knowledge culturally across generations  Jacopo Ceravolo, Yevheniia Strilets Superhuman artificial intelligence can improve human decision-making by increasing novelty  Leo Gabriel Paoletti Learning few-shot imitation as cultural transmission  Jannes Meyer Fine-tuning language models to find agreement among humans with diverse preferences  Mikhail Raudin Human-centred mechanism design with Democratic AI  Deniz Mert Tecimer Scaffolding cooperation in human groups with deep reinforcement learning Constantin Von Estorff  Using the Veil of Ignorance to align AI systems with principles of justice  Achim Schadrach Großmann  Best, Omar",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Using Google Colab in Our Next Lecture",
+                            "Discussion_Id": "588649",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061149",
+                                    "Author": "Levin Urs Leonard Brinkmann",
+                                    "DateTime": "2024-04-22T20:21:08+02:00",
+                                    "Content": "Hi everyone, In our next lecture, we'll be using a Python notebook in Google Colab. There’s no need to set anything up in advance, but you will need a Google account to run the Colab notebook.  We will share the link to the notebook used in the lecture on Thursday morning before the lecture. If you do not have a Google account, you can also run the notebook locally on your computer. Please let us know if you need assistance with this setup. See you on Thursday.  Best regards, Levin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Acceptance into the course",
+                            "Discussion_Id": "588393",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060732",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-04-22T13:03:44+02:00",
+                                    "Content": "Dear All, Thanks for applying to the Machine and Behavior course, 16 students applied for the course and since the upper limit is 20, all students got accepted. The list of participants for this semester are :  Shabnam Mansurova Mathilde Paya Deniz Mert Tecimer Jannes Meyer Erik Rubinov Victor Nogueira Alves Aguiar Filipe Alexandre Fabian Borges Youssef Fettouh Ahmed Ahmed Moussa Yevheniia Strilets Shreyas Guruvanahalli Shamasundar Jacopo Ceravolo Achim Schadrach Großmann Maha Diab Konstantin Pissarsky Fiorentina Alija Leo Gabriel Paoletti Looking forward to the following semester with you and see you next Thursday! Best Regards, Omar Sherif",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Message Board",
+                    "Forum_id": "1820805",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Research Proposal and Final Presentation",
+                            "Discussion_Id": "607019",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088670",
+                                    "Author": "Shabnam Mansurova",
+                                    "DateTime": "2024-07-10T20:31:58+02:00",
+                                    "Content": "Hi everyone, I wanted to clarify some stuff about the research proposal and final presentation, which is going to be around 8 minutes. Are they both due next week? Meaning 15–21 July? Also, if so, will everyone be able to present within the given 90-minute lecture? Or should we record ourselves presenting and share the video or the link to it until the deadline? Lecture 1 pdf did not clarify the procedure with extensive details. Can you please do so via replying or in tomorrow's lecture? Best Wishes, Shabnam",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089289",
+                                    "Author": "Marie Luise Theresia Mehner",
+                                    "DateTime": "2024-07-12T12:04:41+02:00",
+                                    "Content": "Hi, Unfortunately, I missed the last lecture. Was there anything said about the formalities or content of the research proposal?",
+                                    "Response to": "p1088670"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Participation",
+                            "Discussion_Id": "590667",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064235",
+                                    "Author": "Mattia Bruno Stellacci",
+                                    "DateTime": "2024-04-29T10:34:46+02:00",
+                                    "Content": "Hello, I just came across this seminar as I am dissatisfied with another seminar I chose. I know it is somewhat late, but I was wondering whether it is still possible to join this course. The first submission doesn't seem to have expired. Thank you and regards, mattia Stellacci",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066553",
+                                    "Author": "Mattia Bruno Stellacci",
+                                    "DateTime": "2024-05-03T17:20:08+02:00",
+                                    "Content": "As there has clearly been forum activity by the organizers of this course, multiple business days have past but no reply to my enquiry, I can conclude that it is not possible to participate. I suppose it would have been nice to get an answer regardless, as it helps my organization and maybe others wondering the same thing",
+                                    "Response to": "p1064235"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grading and unclear tasks for the seminar",
+                            "Discussion_Id": "591607",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065683",
+                                    "Author": "Leo Gabriel Paoletti",
+                                    "DateTime": "2024-05-02T10:30:54+02:00",
+                                    "Content": "Hello,  This is the grading as shown in the first lecture slides.   I'm opening this post because the tasks to do are unclear to me, except for the second one \"submitting a brief answer to standard questions about each paper ahead of the class\".  Could you please elaborate on what we have to do precisely regarding the first and last task ? What could be an example or the methodology to build a research proposal ? I understood that the paper assignment that we just received concerned the final presentation of 8 minutes.  But what about the presentation that we have to do in groups of two ? When will that be decided ? I would like to balance the workload of my semester and work on this seminar early.  Have a nice day, Léo Paoletti.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066387",
+                                    "Author": "Iyad Rahwan",
+                                    "DateTime": "2024-05-03T12:56:58+02:00",
+                                    "Content": "Hi Leo,  Let me clarify:  [Task 1:] This is the presentation you make in groups of 2 (or 1 if you don't have a partner) once during the regular weekly classes. These have already been allocated.  [Task 2:] These are the answers you send every week, about the week's assigned paper. You send them the night before the class.  [Task 3;] This is the final 3-page report and presentation in the final week. This does not have to be related to the paper you presented. It is a research proposal in which you suggest a new project (possibly building on the paper you presented, but could be totally different). You are free to pick the format that best conveys your ideas.",
+                                    "Response to": "p1065683"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Paper Selection Deadline",
+                            "Discussion_Id": "591637",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065729",
+                                    "Author": "Shabnam Mansurova",
+                                    "DateTime": "2024-05-02T11:27:45+02:00",
+                                    "Content": "Hi, Is it possible for you to open up paper selection poll today again? I did not vote for paper selection in between 25-29 April, so I can do now before it is too late. :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066334",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-05-03T11:50:18+02:00",
+                                    "Content": "Hi Shabnam, you do not have to since you volunteered for the first paper.",
+                                    "Response to": "p1065729"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problem on Moses Registration ",
+                            "Discussion_Id": "591902",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066126",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-05-02T21:41:59+02:00",
+                                    "Content": "Hey everyone, On Moses registration period is between 01.04.2024 and 29.04.2024. Therefore, a registration is not possible. Sincerely, Deniz Mert Tecimer ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066171",
+                                    "Author": "Leo Gabriel Paoletti",
+                                    "DateTime": "2024-05-03T00:19:18+02:00",
+                                    "Content": "I confirm, you put 29th of april instead of 29th of may.",
+                                    "Response to": "p1066126"
+                                },
+                                {
+                                    "Message_id": "p1066331",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-05-03T11:49:28+02:00",
+                                    "Content": "Apologies, it should be fixed now.",
+                                    "Response to": "p1066126"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses Registration",
+                            "Discussion_Id": "590908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064595",
+                                    "Author": "Constantin von Estorff",
+                                    "DateTime": "2024-04-29T16:19:26+02:00",
+                                    "Content": "Dear Machine Behavior Team,  I want to ask you about the registration of this course on Moses. There is a module called \"Modul #41184: Machine and Behavior\" which is unfortunately not open for registration yet. Are there other Moses modules where we are supposed to register this course? Unfortunately, I couldn't find any information on this issue.  Thank you for your help and best wishes,  Constantin",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065189",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-04-30T16:22:12+02:00",
+                                    "Content": "Hi Constantin,  We are currently working on putting the course on Moses, we sill announce when it is there.  Best,  Omar",
+                                    "Response to": "p1064595"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Rubric",
+                            "Discussion_Id": "590101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063377",
+                                    "Author": "Shreyas Guruvanahalli Shamasundar",
+                                    "DateTime": "2024-04-26T10:26:42+02:00",
+                                    "Content": "Hi Levin & Omar, Can you guys give us a brief description of the weekly paper seminar? Like what are we supposed to present? What aspects of the paper need to be critically questioned? What other areas of the paper need to be addressed? Thanks. Shreyas.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063862",
+                                    "Author": "Levin Urs Leonard Brinkmann",
+                                    "DateTime": "2024-04-27T14:39:21+02:00",
+                                    "Content": "Dear Shreyas,  Sorry for the late response. We are preparing for a conference next week, so it has been quite busy. Here is a short summary of what I would suggest based on Iyad Rahwan's remarks in the first lecture. We might come up with something more formal next week.  The objective of the presentation is to spark a discussion in the group. We also would like you to prepare to facilitate the discussion. To do so, you probably want first to present a summary of the paper.  The papers are different, but in general I would suggest structuring the summary along the basic structure of: * Motivation / Research questions—What motivated the research? Which particular gap in the literature did this paper intend to close? Is there one central other work this paper references? If yes, also provide a short summary of that work. * Methods—Which methods were used? Prepare a short explanation of this work's most central methods. To do so, you might look into related literature, but I would avoid long excursions. If the paper has supplementary material, I highly recommend skimming these as well. Many times, these help to properly understand what has been done. I suggest focusing on what has been done and not how the authors tell the story of what has been done. * Results—What are the main results? The key here is to discuss the paper's figures.  It might then be advisable to prepare open questions that could spark a discussion. The questions can be related to the questions that all of you have to answer. However, there can also be other questions that you perceived as relevant during the preparation.  No slides are generally required, but I would advise you to prepare some, as this generally helps to structure the presentation and makes it easier for everyone to follow.  Best, Levin",
+                                    "Response to": "p1063377"
+                                },
+                                {
+                                    "Message_id": "p1064126",
+                                    "Author": "Shreyas Guruvanahalli Shamasundar",
+                                    "DateTime": "2024-04-29T08:51:55+02:00",
+                                    "Content": "Thank You!",
+                                    "Response to": "p1063862"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar Questions",
+                            "Discussion_Id": "590102",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063378",
+                                    "Author": "Shreyas Guruvanahalli Shamasundar",
+                                    "DateTime": "2024-04-26T10:27:28+02:00",
+                                    "Content": "Hi, Where can I see the questions? I only see an option to submit the answers. Shreyas.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063448",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-04-26T11:44:20+02:00",
+                                    "Content": "Dear Shreyas,  You can find the questions in slide 5 in the first lecture.  Best,  Omar",
+                                    "Response to": "p1063378"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Week Readings",
+                            "Discussion_Id": "590097",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063371",
+                                    "Author": "Shreyas Guruvanahalli Shamasundar",
+                                    "DateTime": "2024-04-26T10:19:38+02:00",
+                                    "Content": "Hi, How can I read the first week papers/articles? I googled them but couldn't get access to read them. I'm talking about the following: Rahwan, Iyad, et al. \"Machine behaviour.\" Nature 568.7753 (2019): 477-486. Brinkmann, Levin, et al. \"Machine culture.\" Nature Human Behaviour (2023): 1-14. Bonnefon, J. F., Rahwan, I., & Shariff, A. (2023). The moral psychology of Artificial Intelligence. Annual Review of Psychology, 75.  Thanks. Shreyas.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063445",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-04-26T11:42:38+02:00",
+                                    "Content": "Dear Shreyas,  You can find them now in the papers folder.  Best,  Omar",
+                                    "Response to": "p1063371"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Paper Selection",
+                            "Discussion_Id": "589606",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062634",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-04-24T21:03:08+02:00",
+                                    "Content": "Hey, How will the paper selection take place? Will there be a form published tomorrow? Is it first come first served? Sincerely, Deniz Mert Tecimer",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062711",
+                                    "Author": "Omar Sherif Omar Sherif",
+                                    "DateTime": "2024-04-25T09:01:57+02:00",
+                                    "Content": "Hi Deniz,  A form will be published today after the session.  Best,  Omar Sherif",
+                                    "Response to": "p1062634"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Join the Course?",
+                            "Discussion_Id": "589067",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061789",
+                                    "Author": "Marie Luise Theresia Mehner",
+                                    "DateTime": "2024-04-23T17:46:14+02:00",
+                                    "Content": "Hello, I was wondering whether it would still be possible to join this course? (I read that there are still fewer participants than maximum capacity?) I just found it and it sounds so interesting and fits my study focus perfectly, so I would really really like to join in. Thank you in advance, Luise",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061794",
+                                    "Author": "Mikhail Raudin",
+                                    "DateTime": "2024-04-23T17:53:17+02:00",
+                                    "Content": "Hello,  I actually have the same question, I just heard from another student about this course, it looks super intersting and fits with my study focus and background!  Thanks, Mikhail Raudin",
+                                    "Response to": "p1061789"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Failed Application",
+                            "Discussion_Id": "588683",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061208",
+                                    "Author": "Amin Mohamed Amin Rida",
+                                    "DateTime": "2024-04-22T23:56:57+02:00",
+                                    "Content": "Hello, I just realized my name is not on the list of participants :( I am afraid my application was not submitted successfully as I had a very bad connection in the last days. P.S. I'm the one that had connection issues and kept asking a lot of questions in the online meeting last week. I hope it's still possible to let me in as I would really love to take part in this seminar. Kind regards, Amin Rida",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Take the class ",
+                            "Discussion_Id": "588425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060784",
+                                    "Author": "Zeynep Kaya",
+                                    "DateTime": "2024-04-22T13:43:29+02:00",
+                                    "Content": "Hey,  Before the ISIS page not here, I sent an e-mail to get information about the course. I received information about a conference, not a course. I'm confused for this reason. I want to take this course since 16 people applied for the course and there is still room. How can I take the class?  Zeynep ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060854",
+                                    "Author": "Levin Urs Leonard Brinkmann",
+                                    "DateTime": "2024-04-22T14:41:12+02:00",
+                                    "Content": "Hi Zeynep, I am sorry to hear, that you got misleading information. We have a conference upcoming with the same name. Given that there are still places, you are welcome to join. We added you to the list of participants. Best, Levin",
+                                    "Response to": "p1060784"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

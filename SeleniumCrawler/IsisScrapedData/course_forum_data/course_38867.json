@@ -1,0 +1,69 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Cognitive Algorithms Seminar",
+        "Course_id": "38867",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1807998",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Updated Presentation Schedule and Rearrangements for Tomorrow",
+                            "Discussion_Id": "604092",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084445",
+                                    "Author": "Ali Hashemi",
+                                    "DateTime": "2024-06-27T16:14:08+02:00",
+                                    "Content": "Dear Students, I am writing to inform you of a slight change in the order of presentations for tomorrow due to the absence of some students today and the resulting rearrangements. Please check the Google Sheet link for these modifications. If you have a talk scheduled for tomorrow and, for any reason, you cannot participate, please let me know in advance so that we can rearrange the schedule accordingly. Thank you and all the best Ali",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schedule for CA Seminar Presentations Tomorrow and on Friday - Important Details",
+                            "Discussion_Id": "603881",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084158",
+                                    "Author": "Ali Hashemi",
+                                    "DateTime": "2024-06-26T19:08:37+02:00",
+                                    "Content": "Dear Students, I hope this message finds you well. I am writing to share the schedule for the CA Seminar presentations taking place tomorrow and Friday. You can find the detailed schedule at the bottom of the shared Google Sheet using the following link: https://docs.google.com/spreadsheets/d/1lt1T6Bh7LrmR2IOmWcNDdt1YvQuJ63Udx3yABCBVqco/edit?gid=0#gid=0 As mentioned on the course page, please note that the presentations will start at 9 am sharp in order to accommodate all the talks over the two days.  The presentations are organized to start with fundamental concepts and gradually delve into more in-depth subjects. This structure aims to provide a coherent and progressive learning experience for everyone. I look forward to seeing you all tomorrow and Friday and am looking forward to your presentations. Best regards, Ali",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Announcement of Topic Assignments",
+                            "Discussion_Id": "596992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074108",
+                                    "Author": "Ali Hashemi",
+                                    "DateTime": "2024-05-27T13:08:36+02:00",
+                                    "Content": "Dear Students, As some of you have inquired, I am writing to announce the results of the recent topic assignment poll. Following careful consideration of your preferences, we have assigned topics accordingly, prioritizing your first choices whenever possible. If your first choice was unavailable, you have been allocated your second or third choice topic. The topic assignment results can be found in the provided Google Sheet link: https://docs.google.com/spreadsheets/d/1lt1T6Bh7LrmR2IOmWcNDdt1YvQuJ63Udx3yABCBVqco/edit?usp=sharing Please note that to accommodate all the talks within two days, we need to reduce the presentation time from 15 minutes to 10 minutes. The chairs for the first day are Ali Hashemi and Abel (Pengzhou) Wu, and the chair for the second session is Lukas Muttenthaler. If you need assistance or have any concerns, please contact the session chairs. Additionally, the order of the talks is not yet finalized and will be decided by the session chairs before the presentation days. If you have any concerns or inquiries about your assigned topic, please do not hesitate to reach out. Looking forward to your presentations. Best regards, Ali Hashemi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-off Meeting This Friday, the 26th of April, 2024, at 10:00 a.m. (Room 4.033)",
+                            "Discussion_Id": "588468",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060862",
+                                    "Author": "Ali Hashemi",
+                                    "DateTime": "2024-04-22T14:47:49+02:00",
+                                    "Content": "Dear Students,  I am writing to formally announce that the Cognitive Algorithm (CA) Seminar Kick-off meeting is scheduled for this Friday, the 26th of April, 2024, at 10:00. The meeting will take place in Room 4.033 in the MAR Building. This meeting presents an invaluable opportunity to engage in discussions regarding the course's objectives, strategies, and expectations, whilst also offering the opportunity to seek guidance and clarification from the course instructors. Therefore, your participation is not only highly encouraged but essential for the success of this seminar. Hope to see many of you there! Best regards, Ali ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

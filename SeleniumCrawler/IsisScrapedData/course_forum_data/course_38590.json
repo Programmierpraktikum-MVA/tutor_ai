@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Online R Labor 2",
+        "Course_id": "38590",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Fragen-Forum für Studierende",
+                    "Forum_id": "1796547",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung",
+                            "Discussion_Id": "599282",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077504",
+                                    "Author": "Longqi He",
+                                    "DateTime": "2024-06-06T01:15:56+02:00",
+                                    "Content": "Hallo, ich habe dieses Kurs gerade in ISIS angemeldet, und nun habe ich eine Frage: gibt es Vorlesungen in diesem Modul?  Auf ISIS finde ich nur Übungen, aber unter der Allgemeinen Informationen schreibt es so 'im R Online Labor 2 lernen Sie durch wöchentliche Vorlesungen und Übungsaufgaben...', dann bin ich einbisschen verwirrt. Vielen Dank im Voraus!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077637",
+                                    "Author": "Tim Finn Hainbach",
+                                    "DateTime": "2024-06-06T11:46:01+02:00",
+                                    "Content": "Liebe Studierende,  die Vorlesungen werden auch in Form von Screencasts auf ISIS bereitgestellt. In diesen Screencasts werden die Themen des jeweiligen Übungsblattes besprochen. Die Vorlesungs-Screencasts erkennen Sie an der Bezeichnung Übung_XX_II_VL. In der aktuellen Woche wird Übungsblatt 06 thematisiert, d.h. Übung_06_II_VL ist der relevante Vorlesungs-Screencast.  Mit freundlichen Grüßen Team Online R",
+                                    "Response to": "p1077504"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeitliche Begrenzung ",
+                            "Discussion_Id": "587107",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058673",
+                                    "Author": "Ricca Sönke Djazirian",
+                                    "DateTime": "2024-04-17T21:31:21+02:00",
+                                    "Content": "Gibt es eine zeitliche Begrenzung für das bearbeiten der Quizze und Übungsblätter oder könnte ich z.B. nach 3 Wochen mit der Beantwortung des ersten Quiz beginnen?  Mit freundlichen Grüßen Ricca Djazirian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058869",
+                                    "Author": "Tim Finn Hainbach",
+                                    "DateTime": "2024-04-18T11:22:04+02:00",
+                                    "Content": "Momentan gibt es keine zeitliche Begrenzung für das bearbeiten der Quizze und Übungsblätter. Wir empfehlen aber pro Woche ein Übungsblatt (inkl. Übungsaufgaben) zu bearbeiten.  Mit freundlichen Grüßen Team Online R",
+                                    "Response to": "p1058673"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

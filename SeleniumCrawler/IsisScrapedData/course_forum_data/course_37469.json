@@ -1,0 +1,158 @@
+[
+    {
+        "Course_Name": "TKN Molecular Communications and Nanonetworks 2024s",
+        "Course_id": "37469",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1760228",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "lab session: Friday July, 5",
+                            "Discussion_Id": "605632",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086683",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-07-04T19:38:33+02:00",
+                                    "Content": "Dear attendees, This Friday July, 5 we have our lab session on distance estimator. We will target a practical application to estimate the distance from monitoring nanosensors to tumor cells in the human body. We will have the session at room 225. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Switching lab classroom to Room 225",
+                            "Discussion_Id": "604213",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084637",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-06-28T11:19:39+02:00",
+                                    "Content": "Dear participants, We are switching our next sessions to lab classroom 225. This is located on the floor just behind our previous room. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab session",
+                            "Discussion_Id": "600696",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079576",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-06-12T18:55:14+02:00",
+                                    "Content": "Dear attendee, We will continue with lab sessions this Thursday and Friday in the lab room. This time, we plan to build a complete communication pipeline, including the synchronizer. The labs and instructions are already accessible in this link. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar Session",
+                            "Discussion_Id": "594821",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070748",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-05-16T09:02:00+02:00",
+                                    "Content": "Dear Attendee, We will have today the seminar session \"Molecular Modulation Schemes\". We plan to meet at room 340. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second link to MatLab Grader",
+                            "Discussion_Id": "592172",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066539",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-05-03T16:58:57+02:00",
+                                    "Content": "Dear attendee, You will receive a second link to the MatLab Grader platform for the labs. The previous link was referring to a previous version, let's start using the current one. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fick meets Einstein",
+                            "Discussion_Id": "587778",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059708",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-04-19T16:15:53+02:00",
+                                    "Content": "Dear all, in the second lesson block, you have a forum to discuss the talk between Ficks and Einstein at a conference. The idea is to join a team, where one team member plays the role of Fick, a second one Einstein, and the third one is part of the group that also participates in the talk. Enjoy the experience and allow your imagination to fly. bests regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Access to the Matlab grader platform",
+                            "Discussion_Id": "587763",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059683",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-04-19T15:46:08+02:00",
+                                    "Content": "Dear attendees, We just sent the invitation to the Matlab platform for the labs. Please let me know if you haven't received it. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to the Molecular Communication course",
+                            "Discussion_Id": "586657",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058046",
+                                    "Author": "Jorge Torres Gómez",
+                                    "DateTime": "2024-04-17T08:01:31+02:00",
+                                    "Content": "Dear attendees, welcome to the molecular communication and networks course. We will start this great topic this Thursday, 18.04, at 14 hrs. We will have our first session in room HFT-TA 340. We plan to have many hands-on activities with the theoretical sessions during the course. To warm up, look at these two materials (article, video): the article on the technological capabilities in the field and the video as an introductory survey of the molecular communication field. Hope to see you soon and travel together in the nanoworld. with kind regards, Jorge",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Ficks meets Einstein",
+                    "Forum_id": "1821988",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Error in Matlab Grader",
+                            "Discussion_Id": "596676",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073585",
+                                    "Author": "Elias Inguanta",
+                                    "DateTime": "2024-05-25T11:58:08+02:00",
+                                    "Content": "Hello, in the task \"QCSK modulator and demodulator\" in matlab grader is an error and we have no idea what to do.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073943",
+                                    "Author": "Saswati Pal",
+                                    "DateTime": "2024-05-27T10:31:26+02:00",
+                                    "Content": "Hi, The code previously used \"biterr\" matlab function, which needed a package to be installed. To avoid that, we changed it to use the following function numel (find(bit_Tx ~= bit_Rx)) You can now find the updated code in the grader. Run it and let us know if everything works.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suggestion: A short discussion",
+                            "Discussion_Id": "589134",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061902",
+                                    "Author": "Elias Inguanta",
+                                    "DateTime": "2024-04-23T21:40:53+02:00",
+                                    "Content": "Okay, then I'll just start and make a suggestion. This should be the rough structure for now. I'm open to counter-suggestions or if anyone wants to change something. I basically structured the requirements as a dialogue. I thought we can have a little discussion about who described diffusion better or who produced more important research results something like this.  Start of conversation  - Pleasantries are exchanged  - Both notice that their results seem quite similar   Fick explains how his results are to be understood and how he arrived at them  - Ficks interpretation  - Ficks Derivation   Einstein explains how his results are to be understood and how he arrived at them  - Einstein's interpretation  - Einstein's Derivation   Fick uses use cases to argue that his results are more important because of their practical relevance or whatever.  - Ficks use cases   Einstein uses use cases to argue that his results are more important  - Einstein's Use Cases  Both agree that both are important findings and that the diffusion is well described (happy end)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1062738",
+                                    "Author": "Maximilian Rainer Schultz",
+                                    "DateTime": "2024-04-25T09:44:12+02:00",
+                                    "Content": 

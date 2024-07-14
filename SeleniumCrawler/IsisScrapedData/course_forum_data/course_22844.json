@@ -1,0 +1,33 @@
+[
+    {
+        "Course_Name": "BA-KulT_Biwi Informationen zum Kernfach",
+        "Course_id": "22844",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "FAQ",
+                    "Forum_id": "1007248",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fehlerhafte Angebote",
+                            "Discussion_Id": "552045",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1003400",
+                                    "Author": "Cassandra Reifgerste",
+                                    "DateTime": "2023-10-18T08:23:05+02:00",
+                                    "Content": "Hallo BiWi-Team,   leider musste ich feststellen, dass die Daten der Veranstaltung “ Transdisziplinäre Geschlechterstudien in Wissenschaft und Technik – Einführung”, welche von Sahra Dornick, mittwochs von 10-12 online stattfinden soll, nicht stimmen können. Diese Veranstaltung wird dem Angebot von BiWi5 zugeordnet. Im entsprechenden ISIS-Kurs zur Veranstaltung steht allerdings, dass sie montags von 12-14 Uhr stattfindet. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zur Richtigkeit von Modulwahl",
+                            "Discussion_Id": "371705",
+                            "Messages": [
+                                {
+                                    "Message_id": "p692996",
+                                    "Author": "Johannes Georg Winterstein",
+                                    "DateTime": "2021-04-15T10:34:02+02:00",
+                                    "Content": 

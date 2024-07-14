@@ -1,0 +1,17 @@
+[
+    "There are a lot of textbooks on continuum modeling of materials. This list just specifies a few books which I or former students have used:",
+    "Jean Lemaitre, Jean-Louis Chaboche: Mechanics of Solid Materials, Cambridge University Press.",
+    "Good for plasticity theory; contains a lot of examples; does not introduce notation very well.",
+    "Wolfgang H. Müller: An expedition to continuum theory, Springer.",
+    "Chapter 2 introduces tensor calculus in curvilinear coordinates, which is a bit too much for this course; contains a lot of analytically solved problems.",
+    "Wolfgang H. Müller: Technische Mechanik für Ingenieure, Hanser.",
+    "Chapter 4 covers a lot of the material presented in class; written in German.",
+    "G. Thomas Mase, Ronald E. Smelser, George E. Mase: Continuum Mechanics for Engineers.",
+    "Classical textbook used in the US; recommended by a student.",
+    "Wilhelm Flügge: Tensor Analysis and Continuum Mechanics, Springer.",
+    "Classical textbook; a bit hard to read for beginners.",
+    "Albrecht Bertram and Rainer Glüge: Solid Mechanics: Theory, Modeling, and Problems, Springer.",
+    "Introduces tensor algebra in great detail and rigorously uses invariant notation; plasticity is not covered; recommended people who like theory.",
+    "Albrecht Bertram: Elasticity and Plasticity of Large Deformations: An Introduction, Springer.",
+    "Fellow-up to the Solid Mechanics book; uses invariant notation; recommended for people who like theory."
+]

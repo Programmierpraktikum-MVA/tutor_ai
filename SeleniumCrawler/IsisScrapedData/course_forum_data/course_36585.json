@@ -1,0 +1,76 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Technisches Management (SoSe 2024)",
+        "Course_id": "36585",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1693926",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Technisches Management, Terminplanung",
+                            "Discussion_Id": "596120",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072755",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-22T18:56:23+02:00",
+                                    "Content": "Liebe alle, Der Termin am 23.05.2024 fällt aus. Die Folgetermine sind: 19.06.2024 20.06.2024 03.07.2024 Raum: ACK.378 Viele Grüße Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Modulausfall für dieses Semester",
+                            "Discussion_Id": "570677",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1033822",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-01-09T10:04:34+01:00",
+                                    "Content": "Liebe Teilnehmende, Auf Grund einer schweren Erkrankung des Dozenten fällt die VL dieses Semester leider aus. Die VL kann frühestens im Sommersemester wieder stattfinden. Viele Grüße Philip Wietstock",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058812",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-04-18T10:12:47+02:00",
+                                    "Content": "Liebe Teilnehmende,  Der Dozent Prof. Dr. Gustavo Möller-Hergt wird die VL dieses Semester an folgendem Terminen anbieten: 22.05.2024, 14-18 Uhr 23.05.2024, 14-18 Uhr Die VL findet im Raum ACK.378 statt.  Weitere Termine folgen nach Absprache mit dem Dozenten.  VG Philip",
+                                    "Response to": "p1033822"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL am 07.12.2023 fällt aus",
+                            "Discussion_Id": "565780",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1026100",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2023-12-06T11:31:42+01:00",
+                                    "Content": "Liebe Teilnehmende, Die VL morgen, den 07.12.2023 muss leider krankheitsbedingt entfallen. Der Dozent wird neue Termine für den Januar ankündigen. VG Philip Wietstock",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen fählt die VL aus (9.11.) ",
+                            "Discussion_Id": "558910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1014994",
+                                    "Author": "Natalia Svedlund",
+                                    "DateTime": "2023-11-08T09:14:46+01:00",
+                                    "Content": "Liebe Teilnehmer*Innen, Der Dozent hat leider wg. gesundheitlichen Gründen die VL morgen abgesagt. Es wird ein Ersatztermin in Dezember angeboten. viele Grüße, Natalia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

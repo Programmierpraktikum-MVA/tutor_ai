@@ -1,0 +1,137 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Mess- und Informationstechnik in der Strömungsmechanik I",
+        "Course_id": "38338",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1788312",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "2. Messkampagne statt KW 26--&gt;27",
+                            "Discussion_Id": "600337",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079046",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-06-11T15:06:19+02:00",
+                                    "Content": "Hi, wir müssen die Termine um eine Woche verschieben. Ich habe euren Terminwahl von der letzten Kampagen einfach kopiert. Falls ihr sie ändert möchtet könnt ihr das hier tun. Viele Grüße, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1.Messkampagne ",
+                            "Discussion_Id": "596778",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073784",
+                                    "Author": "Vladimir Zimmermann",
+                                    "DateTime": "2024-05-26T18:34:01+02:00",
+                                    "Content": "Liebe Studierende,  die erste Messkampagne behandelt die Themen Druckmesstechnik und Sichtbarmachung. Dafür werden wir an einem Prüfstand am LaWiKa Versuche unternehmen. Wartet bitte vor eurem Messtermin vor dem HF Gebäude, ich werde euch dann abholen. Bitte bringt noch einen USB-Stick mit, damit ich euch die Messdaten weiterleiten kann.  Viele Grüße, Vladimir",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung verfügbar",
+                            "Discussion_Id": "590869",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064547",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-04-29T15:32:16+02:00",
+                                    "Content": "Hi Leute, ihr könnt euch bei Moses zur Prüfung anmelden: https://moseskonto.tu-berlin.de/moses/modultransfersystem/modulpruefung/zulassung.html?modulpruefungsinstanz=10606 Prüfungsnummer: #50439 Mess- und Informationstechnik in der Strömungsmechanik I Bitte bis zum 31.5. anmelden. Viele Grüße, Navid",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070562",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-15T15:45:35+02:00",
+                                    "Content": "Nicht vergessen!",
+                                    "Response to": "p1064547"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Messterminwahl",
+                            "Discussion_Id": "591063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064846",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-04-30T09:02:05+02:00",
+                                    "Content": "Hi Leute, die Wahl des ersten Messtermins ist freigeschaltet. Bitte bis zum 22.Mai eingtragen: https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1788374 Viele Grüße, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1788318",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Labview Quiz",
+                            "Discussion_Id": "599479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077772",
+                                    "Author": "Daniel Sjafii",
+                                    "DateTime": "2024-06-06T16:36:24+02:00",
+                                    "Content": "Sehr geehrte Damen & Herren,  ich habe eine kurze Frage bezüglich des Labview Quiz für nächsten Monntag. Muss man während des Quiz auch an den Zoom von der Übung teilnehmen ?  mfg, daniel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077782",
+                                    "Author": "Marvin Schönlau",
+                                    "DateTime": "2024-06-06T17:08:15+02:00",
+                                    "Content": "Hey Daniel, ja müsst ihr. Es wird danach auch ganz normal die Übung stattfinden. Der Test erfolgt in der ersten halben Stunde.  Beste Grüße Marvin",
+                                    "Response to": "p1077772"
+                                },
+                                {
+                                    "Message_id": "p1077845",
+                                    "Author": "Daniel Sjafii",
+                                    "DateTime": "2024-06-06T20:54:55+02:00",
+                                    "Content": "danke",
+                                    "Response to": "p1077782"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erster Messtermin",
+                            "Discussion_Id": "594208",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069783",
+                                    "Author": "Nik Oskar Ott",
+                                    "DateTime": "2024-05-13T23:51:20+02:00",
+                                    "Content": "Hallo, gab es heute noch wichtige Ankündigungen bzgl. des ersten Messtermins? Ich war zum heutigen Termin leider verhindert.  Und gibt es zum Thema Druckmesstechnik vielleicht noch ein Video zur Vorlesung aus einem vergangenen Semester zum Freischalten auf Isis? Würde mich freuen.  Grüße  Nik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069839",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-14T09:43:11+02:00",
+                                    "Content": "Hallo Nik,  wegen der Messtermine wird sich Vladimir Zimmermann melden. Die Videos und Folien für Sichtbarmachung und Druckmessung habe ich freigeschaltet.  Viele Grüße, Navid",
+                                    "Response to": "p1069783"
+                                },
+                                {
+                                    "Message_id": "p1070236",
+                                    "Author": "Nik Oskar Ott",
+                                    "DateTime": "2024-05-14T23:52:20+02:00",
+                                    "Content": "Vielen Dank.",
+                                    "Response to": "p1069839"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

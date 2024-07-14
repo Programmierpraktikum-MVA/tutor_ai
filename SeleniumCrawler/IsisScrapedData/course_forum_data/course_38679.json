@@ -1,0 +1,43 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Flugversuchspraktikum",
+        "Course_id": "38679",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1800597",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fragebogen",
+                            "Discussion_Id": "606563",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088014",
+                                    "Author": "Sutej Singh",
+                                    "DateTime": "2024-07-09T12:01:08+02:00",
+                                    "Content": "Sehr geehrte Interessierte, Bitte beachten Sie, dass die Teilnehmer anhand ihrer Antworten auf den Fragebogen ausgewählt werden, da der Kurs auf 5 Teilnehmer begrenzt ist. Deshalb, bitte ich alle die an dem Kurs interessiert sind, bis zu Freitag (12.07) den Fragebogen auszufüllen.  Mit freundlichen Grüßen, Sutej",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Save the Date",
+                            "Discussion_Id": "600081",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078686",
+                                    "Author": "Sutej Singh",
+                                    "DateTime": "2024-06-10T16:18:56+02:00",
+                                    "Content": "Sehr geehrte Interessierte, es ist soweit: Die DLR Summer School wird dieses Jahr vom 09.09. bis 13.09.2023 in Braunschweig stattfinden.  Ich wollte Sie alle darüber informieren, dass der Fragebogen für den Flugversuchspraktikum jetzt online ist. Falls Sie es noch nicht getan haben, füllen Sie den Fragebogen bitte so bald wie möglich aus. Bitte beachten Sie, dass die Teilnehmer anhand ihrer Antworten auf den Fragebogen ausgewählt werden, da der Kurs auf 5 Teilnehmer begrenzt ist. Bitte lassen Sie uns wissen, wenn Sie Fragen oder Anliegen haben. Mit freundlichen Grüßen, Sutej",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

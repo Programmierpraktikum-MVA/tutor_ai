@@ -1,0 +1,50 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Applied Embedded Systems Project",
+        "Course_id": "39192",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1823095",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "30.05.2024 Zoom",
+                            "Discussion_Id": "597892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075473",
+                                    "Author": "Frederik Pfautsch",
+                                    "DateTime": "2024-05-30T12:54:22+02:00",
+                                    "Content": "Heyho, hier der zoomlink für gleich: Pfautsch, Frederik lädt Sie zu einem geplanten Zoom-Meeting auf der TU Berlin Zoom Instanz ein.  Thema: AEP 20240530 Uhrzeit: 30.Mai 2024 01:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien  Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/63122912643?pwd=a9TFA8wrkPuaQHmWVW6w7DuKNrhk0z.1  Meeting-ID: 631 2291 2643 Kenncode: 802107 Schnelleinwahl mobil +496971049922,,63122912643#,,,,,,0#,,802107# Deutschland +496950502596,,63122912643#,,,,,,0#,,802107# Deutschland  Einwahl nach aktuellem Standort         +49 69 7104 9922 Deutschland         +49 695 050 2596 Deutschland Meeting-ID: 631 2291 2643 Kenncode: 802107 Ortseinwahl suchen: https://tu-berlin.zoom.us/u/clcGXYfUz  Über SIP beitreten sip:63122912643.802107@fr.zmeu.us  Über H.323 beitreten 213.19.144.110 (Amsterdam  Niederlande) 213.244.140.110 (Deutschland) Kenncode: 802107 Meeting-ID: 631 2291 2643",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen, 16.05. online Termin",
+                            "Discussion_Id": "594788",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070694",
+                                    "Author": "Frederik Pfautsch",
+                                    "DateTime": "2024-05-15T21:54:22+02:00",
+                                    "Content": "Guten Abend, aus gesundheitlichen Gründen kann ich morgen leider nicht in die Uni kommen. Daher biete ich euch an, den Termin online stattfinden zu lassen. Einen entsprechenden Zoomlink (wenn es klappt) poste ich rechtzeitig, sonst als Backup einen Googlemeet. Eure Emails mit den proposals habe ich bekommen, gerne können wir diese besprechen. Bis morgen, viele Grüße,   Frederik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070811",
+                                    "Author": "Frederik Pfautsch",
+                                    "DateTime": "2024-05-16T11:08:28+02:00",
+                                    "Content": "Pfautsch, Frederik lädt Sie zu einem geplanten Zoom-Meeting auf der TU Berlin Zoom Instanz ein.  Thema: AEP 2024-05-16 Uhrzeit: 16.Mai 2024 12:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien  Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/66552302340?pwd=eUxvaUM1TitKUm5xVWhTRld3M05PUT09  Meeting-ID: 665 5230 2340 Kenncode: 561827 Schnelleinwahl mobil +496950502596,,66552302340#,,,,,,0#,,561827# Deutschland +496971049922,,66552302340#,,,,,,0#,,561827# Deutschland  Einwahl nach aktuellem Standort +49 695 050 2596 Deutschland +49 69 7104 9922 Deutschland Meeting-ID: 665 5230 2340 Kenncode: 561827 Ortseinwahl suchen: https://tu-berlin.zoom.us/u/ceq8qYPXEa  Über SIP beitreten sip:66552302340.561827@fr.zmeu.us  Über H.323 beitreten 213.19.144.110 (Amsterdam Niederlande) 213.244.140.110 (Deutschland) Kenncode: 561827 Meeting-ID: 665 5230 2340",
+                                    "Response to": "p1070694"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

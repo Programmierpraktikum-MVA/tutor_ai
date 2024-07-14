@@ -1,0 +1,235 @@
+[
+    {
+        "Course_Name": "Elektrische Maschinen (SoSe 24)",
+        "Course_id": "37244",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1753630",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation EM1",
+                            "Discussion_Id": "601646",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080978",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-06-17T21:26:04+02:00",
+                                    "Content": "Liebe Studierende, bitte füllt die kurzen Umfragen zur Evaluation der EM1 Lehrveranstaltungen aus. Es ist eine Mindestanzahl an Teilnehmenden notwendig, damit wir die Ergebnisse einsehen können. Ihr helft uns damit die Lehre zu verbessern bzw. dort beizubehalten, wo sie gut ankommt. Hier die Links zu den Umfragen: Vorlesung (Prof. Schäfer): https://befragung.tu-berlin.de/evasys/online.php?pswd=8M3SW Übung (Alexander Schugardt): https://befragung.tu-berlin.de/evasys/online.php?pswd=Z6Y3F  Vielen Dank und viele Grüße Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083839",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-06-26T08:57:33+02:00",
+                                    "Content": "Liebe Studierende, bisher gab es leider zu wenig (< 5) ausgefüllte Evaluationsbögen, weswegen wir Stand jetzt keine Rückmeldung zu den Ergebnissen bekommen werden. Diese sind aber für die Weiterentwicklung unserer Lehre wichtig, weswegen ich erneut darum bitten möchte, dass ihr an der Evaluation bis Freitag (28.06.) teilnehmt. Das Ausfüllen dauert nur ca. 5 min. Insbesondere bei der Übung gab es genug Teilnehmende und ihr könnt auch den Fragebogen ausfüllen, wenn ihr nur die Videoaufzeichnungen angesehen habt. Vorlesung (Prof. Schäfer): https://befragung.tu-berlin.de/evasys/online.php?pswd=8M3SW Übung (Alexander Schugardt): https://befragung.tu-berlin.de/evasys/online.php?pswd=Z6Y3F Vielen Dank und viele Grüße Alex",
+                                    "Response to": "p1080978"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laborpraktika Online",
+                            "Discussion_Id": "599016",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077126",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-06-05T08:36:59+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der aktuellen Situation unserer Prüfstände und da unser Tutor außerplanmäßig nicht vor Ort sein kann, werden wir die Laborpraktika in diesem Semester online durchführen. Die Termine bleiben unverändert, nur finden sie über Zoom statt: Zoom-Link: https://tu-berlin.zoom.us/j/66371010301?pwd=f2HBMMap7wX4NsDC8WxogbW1QMxaby.1 Meeting-ID: 663 7101 0301 Kenncode: 091967 Die Praktikumswochen könnt ihr der Semesterübersicht entnehmen. Der genaue Tag und die Uhrzeit steht in eurem Gruppennamen im ISIS Kurs (z.B. hier zu finden: Auswahl der Praktikumsgruppe). Die Termine beginnen immer pünktlich, also z.B. 9:00 Uhr und nicht 9:15 Uhr. Das virtuelle Labor wurde als MATLAB App konzipiert, welche die realen Prüfstände nachbildet. Für die Durchführung ist also eine MATLAB Installation sowie das Hinzufügen der App notwendig. Sofern jemand keinen geeigneten PC dafür hat, solltet ihr euch im Idealfall innerhalb eurer Gruppe treffen. Ansonsten ist auch die Durchführung per Zoom möglich, indem eine Person den Bildschirm teilt. Ablauf des Laborpraktikums vor dem Praktikumstermin: Vorbereitungsaufgaben bearbeiten (zu finden in den Unterlagen für das Laborpraktikum) Versuchsablauf, Hinweise zum Versuchsaufbau und Videos ansehen MATLAB + das virtuelle Labor installieren und mit der App vertraut machen (Anleitung) evtl. Sprechstunde des Tutors besuchen oder per E-Mail Fragen stellen  während des Praktikumstermins: Anwesenheitspflicht! Durchsprechen der Vorbereitungsaufgaben (jeder muss mindestens eine Aufgabe vorstellen) Durchführung des virtuellen Labors mit der MATLAB App in 4er-Gruppen (-> Messwerte notieren)  nach dem Praktikumstermin: Protokoll als Gruppe anfertigen (Abgabe spätestens zwei Wochen nach dem Praktikumstermin) für die Klausurzulassung müssen beide Protokolle bestanden werden  Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Simulationspraktikum Lösungen",
+                            "Discussion_Id": "593797",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069113",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-05-12T09:48:12+02:00",
+                                    "Content": "Liebe Studierende, für das Simulationspraktikum findet ihr nun Lösungen (inklusive FEMM Dateien) im ISIS Kurs unter \"Lösungen Simulationspraktikum\". In der kommenden Woche geht es wie gewohnt mit Online-Übungen am Freitag weiter. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisation Praktikum",
+                            "Discussion_Id": "590058",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063317",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-04-26T09:20:49+02:00",
+                                    "Content": "Liebe Studierende, die Teilnahme an der Klausur in diesem Modul erfordert das vorherige Bestehen des Praktikums (Kriterium).  Anmeldung zum Praktikum Um am Praktikum teilzunehmen, müsst ihr euch zunächst in die Befragung Teilnahme am Praktikum eintragen. Dazu habt ihr noch bis diesen Sonntag, 28.04. Zeit (der Termin wurde vorverlegt). Sofern ihr das Praktikum bereits in einem der letzten Jahre bestanden habt, müsst ihr nicht nochmal teilnehmen (schreibt mir dafür eine kurze Mail: schugardt@tu-berlin.de).  Gruppeneinteilung Am Donnerstag (02.05.) ab 10:00 Uhr wird die Auswahl der Praktikumsgruppe über ISIS starten. Dort müsst ihr euch für die Tage und Uhrzeiten eures Labortermins entscheiden, außerdem ist die genaue Woche auch abhängig von der gewählten Gruppe (siehe Semesterübersicht).   Es gibt insgesamt drei verschiedene Teile des Praktikums: 1.) Simulationspraktikum - Zeitraum: 29.04. - 12.05. - keine Anwesenheitspflicht - Bearbeitung allein oder in den gewählten Praktikumsgruppen - Bearbeitung auf eigenem Windows PC oder auf unseren Rechnern möglich - zu den Übungsterminen (Fr. 03.05. und 10.05. jeweils 10-12 Uhr im Raum EM 159 -> Wegbeschreibung) könnt ihr die PCs vor Ort nutzen oder euren eigenen mitbringen, unser Tutor Gianluigi ist dabei anwesend, um Fragen zu klären - Sprechstunde unseres Tutors Mo. ab 12:00 Uhr im Raum E-N 162/163 (startet am 06.05.), dort könnt ihr aber nicht unsere PCs verwenden - den inhaltlichen Ablauf findet ihr im ISIS Kurs - keine Bewertung: ihr könnt die ISIS Tests beliebig oft abgeben, um eure Lösungen zu kontrollieren  2.) Laborversuch Asynchronmaschine - Zeitraum 10.06. - 21.06. (genauer Termin hängt von der Gruppenwahl ab) - Anwesenheitspflicht! - Vorbereitungsaufgaben müssen vor dem Termin bearbeitet werden - jeder muss eine Aufgabe vorstellen - Anfertigung eines Protokolls als Gruppe, Abgabe über ISIS spätestens zwei Wochen nach eurem Praktikumstermin um 23:59 Uhr - das Protokoll muss bestanden werden, um das Kritierium zu erhalten  3.) Laborversuch Synchronmaschine - Zeitraum 01.07. - 12.07. (genauer Termin hängt von der Gruppenwahl ab) - Anwesenheitspflicht! - Vorbereitungsaufgaben müssen vor dem Termin bearbeitet werden - jeder muss eine Aufgabe vorstellen - Anfertigung eines Protokolls als Gruppe, Abgabe über ISIS spätestens zwei Wochen nach eurem Praktikumstermin um 23:59 Uhr - das Protokoll muss bestanden werden, um das Kritierium zu erhalten  Viele Grüße Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065960",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-05-02T15:59:09+02:00",
+                                    "Content": "Liebe Studierende,  die Auswahl der Praktikumsgruppe ist heute gestartet und wird eine Woche lang über den ISIS Kurs verfügbar sein. Beachtet die unterschiedlichen Wochen (siehe Semesterübersicht) und die Anwesenheitspflicht während der Labortermine (ASM und SM).  Viele Grüße Alex",
+                                    "Response to": "p1063317"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Übung diese Woche",
+                            "Discussion_Id": "586311",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057549",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-04-16T11:06:00+02:00",
+                                    "Content": "Liebe Studierende, die erste EM1 Übung wird bereits diese Woche Freitag (19.04.) ab 10:15 Uhr online über Zoom stattfinden. Wir werden alles Organisatorische klären und kurz einige Grundlagen für das Modul wiederholen. Die weiteren Übungen (Termine siehe Semesterübersicht) sind zunächst ebenfalls online geplant und verwenden immer den gleichen Zoom Link. Zoom-Link: https://tu-berlin.zoom.us/j/67979337490?pwd=UnZJbTJLY25kN3Bvd1RtUXhuUHhzZz09  Viele Grüße Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059711",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-04-19T16:17:35+02:00",
+                                    "Content": "Liebe Studierende,  ich habe den Zoom Link (auch im ISIS Kurs) aktualisiert, dadurch gibt es für zukünftige Übungen keinen Warteraum mehr.  Zoom-Link: https://tu-berlin.zoom.us/j/67979337490?pwd=UnZJbTJLY25kN3Bvd1RtUXhuUHhzZz09  Viele Grüße Alex",
+                                    "Response to": "p1057549"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Forum für Fragen zur Übung",
+                    "Forum_id": "1753653",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Zoom Raum eintreten lassen",
+                            "Discussion_Id": "587574",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059392",
+                                    "Author": "Devin Amadeus",
+                                    "DateTime": "2024-04-19T10:22:15+02:00",
+                                    "Content": "Hallo, könnten Sie mich bitte in den Raum eintreten lassen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059394",
+                                    "Author": "Marius Maschke",
+                                    "DateTime": "2024-04-19T10:22:59+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1059392"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Fragen zum Praktikum",
+                    "Forum_id": "1753684",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abschnitt Versuchsvorbereitung",
+                            "Discussion_Id": "603810",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084058",
+                                    "Author": "Devin Amadeus",
+                                    "DateTime": "2024-06-26T15:22:31+02:00",
+                                    "Content": "Hallo, kann man hier die Fragen zur Versuchsvorbereitung nochmal im Protokoll schreiben? Die Fragen dienen dann zur Orientierung/Gliederung dieses Abschnitts. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084072",
+                                    "Author": "Gianluigi Tortorelli",
+                                    "DateTime": "2024-06-26T15:42:05+02:00",
+                                    "Content": "Hallo,  Alle Vorbereitungsaufgaben müssen am Anfang des Protokolls dokumentiert werden.",
+                                    "Response to": "p1084058"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kurzschlussversuch",
+                            "Discussion_Id": "603539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083674",
+                                    "Author": "Alexander Sean Stetten",
+                                    "DateTime": "2024-06-25T17:08:47+02:00",
+                                    "Content": "Hallo Gianluigi, Ich habe eine Frage zu Aufgabe 2) und 3) des Kurzschlussversuches.  zu 2) Sollen wir einfach die gemessenen Werte für für Statorstrom und -spannung aufschreiben, also etwa 65V und 570mA oder sollen wir den Kurzschlussstrom bei 220V berechnen? zu 3) Wie sollen wir bestimmen? Mit den Formeln aus der Vorlesung kommen wir auf ~4°, gemessen haben wir aber ~16°. Ich hoffe du kannst uns beim richtigen Vorgehen helfen, es wäre ärgerlich, wenn wir die Aufgabe einfach nur falsch verstehen. Besten Gruß, Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083713",
+                                    "Author": "Gianluigi Tortorelli",
+                                    "DateTime": "2024-06-25T18:11:01+02:00",
+                                    "Content": "Hallo,  - Die maximale Spannung wird auf Tabelle 5 bezogen.  - Das wird über Arcustangens vom Verhältnis zwischen R1 und X1. Ihr habt vielleicht einen Fehler bei eurer Messung gemacht.  Viele Grüße,  Gianluigi",
+                                    "Response to": "p1083674"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verluste im Leerlaufversuch",
+                            "Discussion_Id": "603053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082974",
+                                    "Author": "Taras Halaida",
+                                    "DateTime": "2024-06-24T13:16:55+02:00",
+                                    "Content": "Guten Tag,  wir haben Schwierigkeit, in der Auswertung des Leerlaufversuchs auf die Stromwärme-, Ummmagnetisierungs- und Reibeverluste zu kommen.  Des einen widerspricht in meinen Augen der Hinweis des Tutors, dass wir keinen parallelen R_eisen modellieren sollen, mit der Angabe in der Vorlesung, dass die Ummagnetisierungsverluste mit eben diesem parallelen Widerstand modelliert werden, und mit der Tatsache, dass im Labor diese Verluste nicht vernachlässigt werden dürfen. Es gibt in dem Gamma-ESB im Leerlauffall auch ja keine andere Wirkanteile der Impedanz Z_12 außer R_1, welche die in den Praktikumsfolien als reel angegebene Leistung umsetzen können, und der R_1 ist ja schon für die Stromwärmeverluste \"ausgebucht\". Oder eignet sich das Leerlauf-ESB nicht für den Fall, wo der Drehmoment nicht genau Null ist? Oder werden P_reibung und P_ummag im Imaginärteil der Z_12 umgesetzt?  Des anderen verwirrt uns, dass wir beim Teilen der Statorspannung U_1 durch den Realteil des gemessenen Stroms I_1 einen Wert des Widerstandes R_1 bekommen, der sehr viel größer ist, als der Wert aus dem DC-versuch. Dürfte man annehmen, dass diese Differenz genau der Teil der Reeller Impedanz ist, in welchem die Ummagnetisierungs- und Reibeverluste umgesetzt werden?  Und wie separieren wir dann für den Unterpunkt 3. die Ummagnetisierungsverluste von den Reibeverlusten?  Wir wären sehr dankbar für jeden Hinweis!  Viele Grüße Taras Halaida",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083567",
+                                    "Author": "Gianluigi Tortorelli",
+                                    "DateTime": "2024-06-25T14:55:07+02:00",
+                                    "Content": "Hallo,  Die Ummagnetisierungsverluste braucht ihr nicht über einen Widerstand zu modellieren, da ihr schon Messungen im Leerlaufversuch durchgeführt habt. Durch einer kleinen Berechnung der Stromwärmeverluste, Umstellen der Leerlaufverluste und Ablesen der Reibverluste (die als konstant angenommen werden), könnt ihr dann auf den Verlauf der Ummagnetisierungsverluste über das Quadrat der Spannung kommen.  Der gemessene Widerstand ist anders als das, was ihr gemessen habt, da im Leerlaufversuch Verluste auftreten, die bei der DC-Messung des Widerstands gar nicht auftreten.  Das könnt ihr zum Beispiel über eine Linearisierung eurer Messwerte erreichen. Danach könnt ihr dann einfach den Schnittpunkt mit der Verlustachse ablesen.  Viele Grüße,  Gianluigi",
+                                    "Response to": "p1082974"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Auslaufversuch",
+                            "Discussion_Id": "602753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082546",
+                                    "Author": "David Alexander Voigt",
+                                    "DateTime": "2024-06-22T17:59:55+02:00",
+                                    "Content": "Hallo, als wir den Auslaufversuch im Praktikum Bearbeitet haben hat dieser nicht richtig funktioniert wir haben dann den Verlauf von unserem Tutor bekommen. Nach meinem Verständnis braucht man zur Bearbeitung der ersten Teilaufgabe jedoch die Spannung um den Umrechnungsfaktor zu berechnen, diese ist uns nicht bekannt. Auch in der 3. Teilaufgabe sind wir uns nicht sicher wie sie zu lösen ist. Über einen Ansatz wären wir dankbar. Viele Grüße David",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083541",
+                                    "Author": "Gianluigi Tortorelli",
+                                    "DateTime": "2024-06-25T14:15:00+02:00",
+                                    "Content": "Hallo,  Da dieses Semester das Labor online stattgefunden hat, wird der Auslaufversuch direkt in Drehzahl über zeit aufgenommen. Falls du jedoch das Ganze in Spannung umsetzen möchtest, beträgt das Übersetzungsverhältnis vom Messgerät im Labor 23 1/(min*V).  Viele Grüße,  Gianluigi",
+                                    "Response to": "p1082546"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Negative Phasenwinkel ASM",
+                            "Discussion_Id": "602588",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082301",
+                                    "Author": "Marius Maschke",
+                                    "DateTime": "2024-06-21T12:29:36+02:00",
+                                    "Content": "Guten Tag.  Im ASM Praktikum haben wir bei allen Phasenwinkeln negative Werte gemessen. Ich habe ehrlich gesagt positive erwartet. Wird bei der Berechnung der negative Wert benutzt oder wird aus dem Neagtiven ein positiver Wert. Phasenwinkel: -72 Grad wird daraus zum Beispiel  I1 = I1 * e^(-72) oder I1 = I1 * e^(-phi)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082367",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-06-21T14:56:59+02:00",
+                                    "Content": "Hallo Marius,  da eine ASM induktiv wirkt, ist das Vorzeichen des Stromwinkels eindeutig (unabhängig davon, wie genau der Winkel bei der Messung angegeben wurde). Da der Winkel der Spannung auf Null gelegt wird, muss der Stromwinkel < 0° sein.  Viele Grüße Alex",
+                                    "Response to": "p1082301"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": 

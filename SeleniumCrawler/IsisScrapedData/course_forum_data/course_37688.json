@@ -1,0 +1,117 @@
+[
+    {
+        "Course_Name": "Funktionswerkstoffe der Elektrotechnik SoSe24",
+        "Course_id": "37688",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1768103",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation SoSe 2024",
+                            "Discussion_Id": "602403",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082017",
+                                    "Author": "Moritz Benedikt Greinacher",
+                                    "DateTime": "2024-06-20T14:31:15+02:00",
+                                    "Content": "Liebe Teilnehmende, bitte nehmt Euch etwas Zeit, um an der diesjährigen Umfrage zur Lehrevaluation teilzunehmen, entweder unter diesem Link (https://befragung.tu-berlin.de/evasys/online.php?p=UZTRE) oder, indem Ihr diesen QR-Code scannt: Vielen Dank, Euer FuWudEl-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termin für Postersession [24.07]",
+                            "Discussion_Id": "594590",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070392",
+                                    "Author": "Sri Hari Bharath Vinoth Kumar",
+                                    "DateTime": "2024-05-15T11:32:56+02:00",
+                                    "Content": "Liebe Studierende, Die Postersession findet am 24.07. im Mathematikgebäude (EG-Foyer) statt. Weitere Einzelheiten zur Organisation werden in den Wochen vor dem Termin bekannt gegeben. Beste Grüße, Fuwedel-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung Abgabetermine Tests",
+                            "Discussion_Id": "588734",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061279",
+                                    "Author": "Felix Rösch",
+                                    "DateTime": "2024-04-23T09:33:40+02:00",
+                                    "Content": "Liebe Studierende, die Abgabetermine der Tests wurden um jeweils 1 Woche nach hinten verschoben. Grund dafür ist die ausfallende VL am 01.05.24. Die Übersicht im ISIS-Kurs wurde aktualisiert. Die Angaben zu den Tests in der Übersicht in den Folien zur ersten VL ist damit nicht mehr aktuell. Bitte entschuldigt die Planänderung und beachtet bitte die neuen Termine bei Eurer Zeitplanung. Liebe Grüße, Fuwedel-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Teilnehmendenforum",
+                    "Forum_id": "1768104",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Suchen eine Gruppe ",
+                            "Discussion_Id": "594339",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069994",
+                                    "Author": "Yu Zhou",
+                                    "DateTime": "2024-05-14T13:22:57+02:00",
+                                    "Content": "Mein Freund und ich sind auf der Suche nach einer Gruppe, wenn Ihre Gruppe noch zwei Leute braucht, kannst du sich bei mir melden, vielen Dank!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsgruppe",
+                            "Discussion_Id": "590050",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063308",
+                                    "Author": "Mahir Düz",
+                                    "DateTime": "2024-04-26T08:42:21+02:00",
+                                    "Content": "Gibt es eine WhatsApp Gruppe für dieses Modul? Wenn ja, könnte mir jemand den Link zukommen lassen, Danke im Voraus",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063860",
+                                    "Author": "Harisa Mahmutovic",
+                                    "DateTime": "2024-04-27T14:33:23+02:00",
+                                    "Content": "Dito, bin ebenfalls an einer Whatsapp- oder Signal- Gruppe interessiert.  Danke vorab!",
+                                    "Response to": "p1063308"
+                                },
+                                {
+                                    "Message_id": "p1063879",
+                                    "Author": "Ziming Wang",
+                                    "DateTime": "2024-04-27T15:58:54+02:00",
+                                    "Content": "Suche auch Whatsapp Gruppe!",
+                                    "Response to": "p1063308"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nötiges Vorwissen für den Kurs.",
+                            "Discussion_Id": "586074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057207",
+                                    "Author": "Jan Christoph Bykow",
+                                    "DateTime": "2024-04-15T16:21:51+02:00",
+                                    "Content": "Ist dieser Kurs ausschließlich für das zweite Semester? Brauche ich Vorwissen aus GLET oder kann ich das Modul im Erstsemester belegen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

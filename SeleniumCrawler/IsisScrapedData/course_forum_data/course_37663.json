@@ -1,0 +1,38 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] [FG MMS] Systemtechnik (IV)",
+        "Course_id": "37663",
+        "Forums": [
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Forum zur Hausaufgabe",
+                    "Forum_id": "1765436",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Szenario",
+                            "Discussion_Id": "605534",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086557",
+                                    "Author": "Elisabeth Beata Matysiak",
+                                    "DateTime": "2024-07-04T13:59:15+02:00",
+                                    "Content": "Hallo Herr Rötting, mir ist unklar was genau mit dem Szenario gemeint ist. Bedeutet Szenario, dass wir unser Oberziel in einen Kontext setzten sollen und beschreiben, warum wir genau dieses Oberziel gewählt haben?  Danke und herzliche Grüße Elisabeth",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086849",
+                                    "Author": "Matthias Rötting",
+                                    "DateTime": "2024-07-05T11:54:41+02:00",
+                                    "Content": "Hallo Frau Matysiak, in dem Szenario beschreiben Sie die Entscheidungssituation für die Sie die Nutzwertanalyse durchführen. Z.B. Sie suchen ein neues Notebook und würden dort u.a. die spezifischen Anforderungen, wie Sie das Notebook nutzen wollen (z.B. für CAD Anwendungen, leicht und lange Akkulaufzeit, da viel mobil eingesetzt), und Ihre Rahmenbedingungen (z.B. Etat) beschreiben. Für weitere Rückfragen stehe ich gerne zur Verfügung. Freundliche Grüße Matthias Rötting",
+                                    "Response to": "p1086557"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

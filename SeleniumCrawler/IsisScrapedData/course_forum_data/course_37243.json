@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "Mündliche Prüfungen am FG Regelungstechnik SoSe24",
+        "Course_id": "37243",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1808520",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Zwingende Anmeldung über MOSES für GMRT-Prüfung",
+                            "Discussion_Id": "585064",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055752",
+                                    "Author": "Fabian Rolf Schwenke",
+                                    "DateTime": "2024-04-09T10:13:32+02:00",
+                                    "Content": "Hallo zusammen, ich möchte an dieser Stelle noch einmal alle, die an der mündlichen Prüfung in GMRT teilnehmen möchten, daran erinnern, dass für die Teilnahme eine Anmeldung bei MOSES sowie bei ISIS bestehen muss. Sollte zum individuellen Prüfungstermin von GMRT keine Anmeldung über MOSES bestehen, wird die mündliche Prüfung nicht durchgeführt.  Außerdem gebt bitte als Kommentar an, welche Prüfungsvariante ihr durchführen wollt.    Viele Grüße Fabian Schwenke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Organisatorische Fragen",
+                    "Forum_id": "1753565",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abmeldung von GMRT",
+                            "Discussion_Id": "604833",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085580",
+                                    "Author": "Elias Jens Kunath Tolaba",
+                                    "DateTime": "2024-07-01T23:11:38+02:00",
+                                    "Content": "Guten Abend, ich habe mein Termin für den 16.07 13:00 Uhr freigegeben. Reicht die Abmeldung auf ISIS sowie auf Moses aus? Und noch eine Frage. Es werden doch sicherlich für das WS 24/25 die Teilprüfungen wieder angeboten oder?  Freundliche Grüsse Elias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085613",
+                                    "Author": "Fabian Rolf Schwenke",
+                                    "DateTime": "2024-07-02T08:12:13+02:00",
+                                    "Content": "Hallo Elias,  da du dich rechtzeitig in MOSES und ISIS abgemeldet hast, reicht dies aus. Im kommenden WiSe 24/25 werden wir wieder die zerstückelte Variante anbieten.   Viele Grüße  Fabian",
+                                    "Response to": "p1085580"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Français sur objectif universitaire A1 200 SoSe24",
+        "Course_id": "37309",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1755222",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrveranstaltung fällt heute aus",
+                            "Discussion_Id": "597822",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075370",
+                                    "Author": "Jean-Philippe Hashold",
+                                    "DateTime": "2024-05-30T09:26:40+02:00",
+                                    "Content": "Liebe Studierende,  krankheitsbedingt muss ich die Lehrveranstaltung für heute leider absagen.  Auf der Plattform Isis finden sie inter dem Abschnitt séance du 30/05/2024 einen Lernparcours zum Ausgleich.   Freundliche Grüße  Jean-Philippe Hashold",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

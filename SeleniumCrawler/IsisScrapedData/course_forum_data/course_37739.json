@@ -1,0 +1,465 @@
+[
+    {
+        "Course_Name": "Konstruktionslehre 3 SoSe24",
+        "Course_id": "37739",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767447",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vereinheitlichung der Abgabedaten",
+                            "Discussion_Id": "607223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088939",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-07-11T14:56:33+02:00",
+                                    "Content": "Liebe Studierende, die Abgabe des zweiten Testats erfolgt wie in der Aufgabenstellung und auf ISIS angekündigt am14.07.2024 bis spätestens 23:59h. Der 14.07. ist ein Sonntag und nicht Montag. Wir haben die Aufgabenstellung entsprechend korrigiert, damit es keine Missverständnisse gibt. Ähnliches gilt für die Endabgabe. Diese erfolgt wie in der Aufgabenstellung hervorgehoben zum 11.08. Dies ist ebenfalls ein Sonntag. Wir haben es ebenfalls korrigiert.  Viele Grüße Euer KL3-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Siemens Webinar am 17. Juli",
+                            "Discussion_Id": "606474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087877",
+                                    "Author": "Tu-Anh Fay",
+                                    "DateTime": "2024-07-09T08:43:34+02:00",
+                                    "Content": "Hallo zusammen, unser Industriepartner Siemens bietet am 17.07. ein einstündiges Webinar zum Thema Grundlagen und Prämissen der Systemauslegung in der Elektromobilität. Im Webinar bekommt ihr einen Einblick in grundlegende Annahmen sowieRahmen bedingungen und Anforderungen, die bei der Planung und Entwicklung von elektrischen Antriebssystemen und der zugehörigen Infrastruktur berücksichtigt werden müssen. Wer Interesse hat, schaut sich gerne den OnePager im Anhang an und kann sich entsprechend registrieren.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation der Lehrveranstaltung KL3",
+                            "Discussion_Id": "606209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087506",
+                                    "Author": "Thomas Fürst",
+                                    "DateTime": "2024-07-08T12:33:04+02:00",
+                                    "Content": "Liebe Studierende, bis zum 15.07.2024 habt Ihr die Möglichkeit, an der anonymen Online-Lehrevaluation der Lehrveranstaltung Konstruktionslehre 3 teilzunehmen. Nutzt dazu bitte den folgenden Link oder den u.s. QR-Code, um an der Befragung teilzunehmen. Link: https://befragung.tu-berlin.de/evasys/online.php?pswd=G9S7C Wir würden uns über eine rege Beteiligung sehr freuen. Konstruktive Kritik und Verbesserungsvorschläge helfen uns dabei, die Lehrveranstaltung weiterzuentwickeln und zu verbessern. Viele Grüße Das KL3 Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gesamtpunkte - Präsentation online",
+                            "Discussion_Id": "603395",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083487",
+                                    "Author": "Tu-Anh Fay",
+                                    "DateTime": "2024-06-25T12:36:06+02:00",
+                                    "Content": "Hallo zusammen, die Gesamtliste ist erstellt und die Präsentationspunkte sind eingetragen. Bitte prüft eure Gruppenzugehörigkeit. Am Montag, den 01.07.2024 werden die Punkte für HA1 und HA2-Testat 1 eingetragen. Wer sich Teilleistungen aus vorigen Semestern anrechnen lassen möchte, kann dies bis 30.06. über ISIS beantragen. Viele Grüße Tu-Anh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083992",
+                                    "Author": "Tu-Anh Fay",
+                                    "DateTime": "2024-06-26T13:26:41+02:00",
+                                    "Content": "Die Deadline zur Übertragung der Teilleistung wurde verlängert. Dies ist nun bis 30.Juli möglich. Viele Grüße Tu-Anh",
+                                    "Response to": "p1083487"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anschlussberechnungen der Bremsscheibe",
+                            "Discussion_Id": "603640",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083834",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-06-26T08:47:33+02:00",
+                                    "Content": "Hallo zusammen, wir haben eine Vereinheitlichung für die Berechnungen in Bezug auf die Bremse festgelegt: Die Berechnung der Anschlüsse der Bremse an die Getriebeausgangswelle soll mit den Betriebsdaten der Bremse erfolgen. Dementsprechend ist in den externen Berechnungen der Welle-Nabe-Verbindungen in KISSsoft das Bremsmoment anzusetzen. Dieses muss jedoch nicht für das Getriebe betrachtet werden! Die Aufgabenstellung wurde entsprechend ergänzt.  Viele Grüße Tobias ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurvorbereitungstermin am 30.07.",
+                            "Discussion_Id": "603535",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083665",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-06-25T17:04:27+02:00",
+                                    "Content": "Liebe Studierende, es wird am 30.07. ein Termin zur Klausurvorbereitung geben, in dem wir eine Probeklausur gemeinsam berechnen werden. Außerdem wird es genauere Informationen zum Test und dem Prüfungsablauf geben. Der Zeitplan des Semester wurde dementsprechend angepasst. Viele Grüße Tobias    ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aktualisierung des Schleifringläufers",
+                            "Discussion_Id": "602893",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082773",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-06-24T08:49:18+02:00",
+                                    "Content": "Hallo zusammen. wir haben den vorgegebenen Schleifringläufer in den Dateien zur Hausaufgabe zwei aktualisiert, sodass er nun eine Wellenaufnahme von 30 mm besitzt. Dadurch können die in der Aufgabe geforderten 20 mm Innendurchmesser inklusive der Wandstärke eines frei wählbaren Rohres der Kabeldurchführung konstruiert werden.  Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einsicht zum ersten Testat der zweiten Hausaugabe",
+                            "Discussion_Id": "602397",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082010",
+                                    "Author": "Leonard Louis Felix Geffe",
+                                    "DateTime": "2024-06-20T14:20:04+02:00",
+                                    "Content": "Liebe Studenten, die Rücksprache zum ersten Testat der zweiten Hausaufgabe findet bis zum 28.06. in den Sprechstunden statt. In der Einsicht am Freitag dem 28.06. wird nur die erste Hausaufgabe besprochen. Lasst eurem Tutor im Vorfeld der Rücksprache des ersten Testats ebenfalls eine Liste mit den Punkten die ihr besprechen wollt zukommen. Inkludiert eine Begründung für die Neubewertung. LG LG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einsichtstermine &amp; Abgabefrist Einsichtsformular",
+                            "Discussion_Id": "602280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081837",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-06-20T09:18:51+02:00",
+                                    "Content": "Liebe Studierende, wir haben die Zeitslots zur Buchung des Einsichttermins am 28.06. freigeschaltet. Bitte ladet die \"Vorlage Einsicht KL3\" bis zum 25.06. um 23:59 Uhr auf ISIS hoch.  Achtung: Ohne ausgefüllte Vorlage findet keine Einsicht statt, da auch wir uns auf die Einsicht vorbereiten müssen. Dementsprechend werden in der Einsicht nur die Punkte aus der ausgefüllten Vorlage besprochen.  Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update HA2",
+                            "Discussion_Id": "600895",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079870",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-06-13T14:44:59+02:00",
+                                    "Content": "Hallo zusammen, im Rahmen Eures Feedbacks haben wir die Aufgabe in einigen Punkten angepasst und weiter konkretisiert. Dazu gehören unter anderem folgende Punkte: Anpassung der Funktion der Häufigkeitsverteilung sowie Ergänzungen zur Erstellung des Lastkollektivs. Weitere Hinweise zur Gestaltung der Kabeldurchführung. Korrektur der zu verwendenden Normen zur Bremsberechnung. Die neue Version V4 steht nun zur Verfügung und die Ergänzungen sind hervorgehoben.  Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentationstermine am 17.06. und 18.06.",
+                            "Discussion_Id": "599542",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077875",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-06-07T07:54:22+02:00",
+                                    "Content": "Liebe Studierende, die freiwilligen Präsentationstermine werden am 17.06. und 18.06. stattfinden. Bucht dazu bitte rechtzeitig einen Slot bei Eurem Tutor, beachtet das Präsentations-FAQ und reicht die Präsentationsfolien fristgerecht bis zum 16.06. ein.  Bitte integriert die drei Prinzipskizzen der erarbeiteten Lösungen in die Präsentation, sodass wir in der Diskussion gegebenenfalls darauf zurückkommen können!  Viele Grüße Tobias    ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA2: Ergänzungen zur Aufgabenstellung",
+                            "Discussion_Id": "597484",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074878",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-28T18:52:50+02:00",
+                                    "Content": "Liebe Studierende, die Nenndrehzahl der Generatoren darf um bis zu 4% verringert werden. Nehmt dafür an, dass die Leistung in diesem Bereich weiterhin der Maximalleistung des Generators entspricht. Beachtet in diesem Zusammenhang gegebenenfalls die Auswirkung auf die erforderliche Getriebeübersetzung!  Des Weiteren wurde die Aufgabenstellung bezüglich der Axialkraft der Rotorwelle präzisiert. Alle Änderungen sind in der aktualisierten Aufgabenstellung hervorgehoben. Zudem wurde die Übersicht der Generatoren zur Vermeidung von Missverständnissen vereinfacht. Viele Grüße Tobias   ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA2: Rechenmethode der Lagerlebensdauern",
+                            "Discussion_Id": "597079",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074265",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-27T16:10:18+02:00",
+                                    "Content": "Liebe Studierende, wir legen hiermit die Rechenmethode für die Lagerlebensdauerberechnungen in KISSsoft wie folgt fest: Ohne Berechnung der Steifigkeit Nach ISO 281 Diese Änderung wird natürlich erst nach dem Testat 1 (Konzeptfindungsphase) relevant.  Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Regruppierungen für die zweite Hausaufgabe",
+                            "Discussion_Id": "595246",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071403",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-20T10:00:00+02:00",
+                                    "Content": "Liebe Studierende, zum Start der zweiten Hausaufgabe haben wir letztmalig die Möglichkeit, Gruppen mit weniger als drei Mitgliedern neu zu strukturieren. Dazu bitte ich die betroffenen Gruppen, mir bis morgen um 12:00 Uhr eine E-Mail mit den Namen der verbleibenden Mitglieder zuzusenden.   Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KL3-Übung 3: online",
+                            "Discussion_Id": "595301",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071491",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-18T10:00:00+02:00",
+                                    "Content": "Liebe Studierende, die nächste Übung am 21.05. zum Vorlesungs-Q&A mit Prof. Göhlich und der Vorstellung der Hausaufgabe 2 wird online stattfinden. Dazu hier die Einwahldaten: https://tu-berlin.zoom.us/j/65355383667?pwd=aXN3V3ZQT3lobkt4QmpBY2JoZjBpZz09   Meeting-ID: 653 5538 3667 Kenncode: 562992 Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Werkstoff des Generatorengehäuses",
+                            "Discussion_Id": "595163",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071271",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-17T13:13:15+02:00",
+                                    "Content": "Liebe Studierende, bitte verwendet den Werkstoff EN-GJL-150 in Euren Schraubenberechnungen als Gehäusewerkstoff des Generators.    Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schrauben zur Befestigung des Generators",
+                            "Discussion_Id": "594467",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070172",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-14T18:36:26+02:00",
+                                    "Content": "Liebe Studierende, da unsere vorgegebenen CAD-Dateien teilweise fehlerhafte Schraubendurchgangslöcher besitzen, geben wir eine einheitliche Regel zur Gestaltung des Schraubenflanschs vor: Verwendet für alle vorgegebenen Motoren M16-Schrauben und geht davon aus, dass das Maß der Durchgangsbohrung18,5 mm beträgt. Die Änderungen der Durchgangsbohrung müssen nicht in der CAD oder der Zeichnung übernommen werden.  Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Berechnung der WNV der rotorseitigen Kupplung ",
+                            "Discussion_Id": "593638",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068857",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-05-10T13:08:26+02:00",
+                                    "Content": "Liebe Studierende, die WNV der Kupplung nach DIN 116 kann in KISSsoft nicht vollständig berechnet werden, wenn ihr GJL-Werkstoffe verwendet. Da die DIN 116 jedoch auch alternative Gusswerkstoffe zulässt, empfehlen wir GJS 350 in der Berechnung zu verwenden.   Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der heutigen Übung",
+                            "Discussion_Id": "591039",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064808",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-04-30T07:22:41+02:00",
+                                    "Content": "Liebe Studierende, die heutige KL3-Übung wird leider ausfallen, weil ich krank bin. Wir werden den Termin in der nächsten Woche Dienstag, 07.05. um 14:00-16:00 Uhr nachholen.  Viele Grüße Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Drehmaschine",
+                            "Discussion_Id": "590734",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064341",
+                                    "Author": "Jonas Alexander Huwaldt",
+                                    "DateTime": "2024-04-29T12:39:26+02:00",
+                                    "Content": "Für die Bearbeitung der Hausaufgabe 1 wurde eine neue Drehmaschine als Fertigungszentrum gewählt: https://de.dmgmori.com/produkte/maschinen/drehen/drehfraesen/ctx-tc/ctx-beta-1250-tc Ab jetzt sind alle Werte dieser Drehmaschine zu beachten, ebenfalls ist Feindrehen als Fertigungsverfahren ab jetzt ein Sonderverfahren und somit nicht einfach so zu benutzen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden Johannes Hammermann",
+                            "Discussion_Id": "589990",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063221",
+                                    "Author": "Johannes Hammermann",
+                                    "DateTime": "2024-04-25T19:40:34+02:00",
+                                    "Content": "Liebe Studierende,  ich habe inzwischen meinen Vertrag unterschrieben, daher können die Gruppen 3, 8, 10, 11, 12 ab jetzt regulär an meinen Sprechstundenterminen in Präsenz teilnehmen. Die Sprechstunden finden im Neubau-Teil des Hauptgebäudes statt, Raum H4108. Ein Übergang in den Neubau befindet sich im 3. Stock des Altbaus.  Die Anmeldung ist ab jetzt freigeschaltet.  Beste Grüße Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung und Tutorenzuordnung abgeschlossen",
+                            "Discussion_Id": "585993",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057095",
+                                    "Author": "Tu-Anh Fay",
+                                    "DateTime": "2024-04-15T14:06:13+02:00",
+                                    "Content": "Hallo zusammen, die Gruppeneinteilung und Tutorenzuordnung ist nun abgeschlossen und ihr könnt Sprechstunden bei eurem Tutor buchen. Für die Gruppen, welche von Johannes Hammermann betreut werden, gibt es eine Anmerkung. Johannes Hammermann konnte bisher seinen Vertrag noch nicht unterzeichnen und darf daher keine Sprechstunden geben. Seine Gruppen werden vorübergehend von unseren erfahrenen Tutoren betreut. Jonas übernimmt Gruppe 8, Özben Gruppe 10 und Leo übernimmt Gruppe 3, 11 und 12. Sobald Johannes seinen Vertrag unterschrieben hat, wird er seine Gruppen übernehmen. Die erste Sprechstunde mit eurem Tutor wird online angeboten. Im Rahmen der Sprechstunde könnt ihr mit eurem Tutor besprechen wie ihr euch für die folgenden Termine treffen möchtet und was eure gegenseitigen Erwartungen sind. Grüße, Tu-Anh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung KL3",
+                            "Discussion_Id": "585100",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055799",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-04-12T16:00:00+02:00",
+                                    "Content": "Liebe Studierende, herzlich Willkommen im Modul KL3 des SoSe24! Am 15.04. um 14:15 Uhr wird die Einführungsveranstaltung für KL3 online unter dem unten angefügten Zoom-Meeting stattfinden. Hier werde ich Euch administrative Hinweise und allgemeine Tipps zum Bearbeiten der Hausaufgaben geben. Außerdem stelle ich Euch die neue Hausaufgabe vor und es können erste Fragen gestellt werden.  Viele Grüße Tobias  Zoom-Meeting: https://tu-berlin.zoom.us/j/61254927622?pwd=MGNhLzJCSStxYVplMGEyU2NoZ0NEUT09  Meeting-ID: 612 5492 7622 Kenncode: 077909",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056974",
+                                    "Author": "Tobias Tietz",
+                                    "DateTime": "2024-04-15T11:51:31+02:00",
+                                    "Content": "Liebe Studierende, die Einführungsveranstaltung wird heute erst 14:30 Uhr beginnen.  Viele Grüße Tobias",
+                                    "Response to": "p1055799"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung startet um 12h",
+                            "Discussion_Id": "585398",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056206",
+                                    "Author": "Tu-Anh Fay",
+                                    "DateTime": "2024-04-11T10:24:20+02:00",
+                                    "Content": "Hallo zusammen, vielen Dank, dass ihr euch zeitig in MTS eingetragen habt. Wer an der Gruppeneinteilung teilnehmen darf, ist in der entsprechenden Gruppe gelistet. Alle anderen sind auf der Warteliste, falls doch noch Leute abspringen. Bitte tragt euch bis morgen, Freitag, den 12.04. 12:00 in eine Gruppe ein. Wer sich nicht einträgt, verliert seinen Platz und macht diesen frei für Komilitonen auf der Warteliste. Ich melde mich entsprechend, morgen ab 12h falls Plätze frei werden. Hinweis: Unter Vorbehalt der Kapazitäten möchten wir in diesem Semester auch Präsenzsprechstunden anbieten. Wenn ihr daran Interesse habt, tragt euch entprechend ein. Viele Grüße Tu-Anh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Austauschforum",
+                    "Forum_id": "1767898",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "TU VPN",
+                            "Discussion_Id": "595325",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071533",
+                                    "Author": "Mehdi Türkyilmaz",
+                                    "DateTime": "2024-05-18T15:07:49+02:00",
+                                    "Content": "Hallo KL3- Team, leider funktioniert bei uns und auch vielen anderen Kommilitonen seit mehreren Tagen der VPN nicht, weshalb wir viele benötigte Normen für die Abgabe am Sonntag nicht runterladen bzw. nutzen können. Dies hat uns viele Tage zurückgeworfen und sehr viel Zeit gekostet. Daher wollte ich wissen ob es dafür eine Lösung bzw. ein entsprechendes Vermerk gibt.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071537",
+                                    "Author": "Rajwinder Garha",
+                                    "DateTime": "2024-05-18T15:31:34+02:00",
+                                    "Content": "Bei euch steht safe: \"vpn.tu-berlin.de/full\". Ihr müsst einfach \"/full\" wegmachen, d.h., es muss so aussehen \"vpn.tu-berlin.de\". Dann kann man wieder normal VPN nutzen",
+                                    "Response to": "p1071533"
+                                },
+                                {
+                                    "Message_id": "p1073470",
+                                    "Author": "Özben Orukcu",
+                                    "DateTime": "2024-05-24T17:32:16+02:00",
+                                    "Content": "Falls das Problem noch bestehen sollte, bei der Aktualisierung setzt Cisco die Gruppe bzw. den Tunnel zurück. Das heißt ihr müsst bei der Anmeldung auf den 2-TU-Tunnel wechseln und dann solltet ihr wieder Zugriff auf Nautos haben.",
+                                    "Response to": "p1071537"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe ",
+                            "Discussion_Id": "595425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071718",
+                                    "Author": "Francesco Leuzzi",
+                                    "DateTime": "2024-05-20T12:11:09+02:00",
+                                    "Content": "Hallo,  Ich suche noch eine Gruppe oder ein Partner, um die hausaufgaben zu machen. Falls ihr alleine bzw zu zweit seit, schreibt.mir bitte. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeichnungsvorlage",
+                            "Discussion_Id": "594330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069978",
+                                    "Author": "Rajwinder Garha",
+                                    "DateTime": "2024-05-14T12:56:40+02:00",
+                                    "Content": "Hallo das Team von KL3,  meine Gruppe hat mit Siemens NX für die HA gearbeitet und wir sind gerade dabei die Zeichnung zu machen, bevor wir dies anfangen wollten. Wollten wir sichergehen, ob das Schriftfeld - wie unten in der Abbildung zu sehen- in Ordnung ist. Dies war die Vorlage von einen anderen Modul \"Technologien der Virtuellen Produktentstehung\" und ich hab dies nur bisschen modifziert. Die Anordnung ist wie in DIN ISO 7200 eingestellt. Muss was noch ergänzt werden oder kann man damit weiterarbeiten? VG Raj",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche Gruppe",
+                            "Discussion_Id": "585528",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056383",
+                                    "Author": "Mohamed El-Daoud",
+                                    "DateTime": "2024-04-11T19:06:07+02:00",
+                                    "Content": "Hey, sucht noch eine Gruppe ein drittes Gruppenmitglied?  Mir wäre wichtig früh mit den Aufgaben anzufangen und Verlässlichkeit.   Ich hab das Modul schon ein Mal versucht und hab deswegen schon gute Erfahrungen in kisssoft. CAD/Zeichnung in solid Edge kann ich auch gut.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenmitglieder gesucht.",
+                            "Discussion_Id": "585418",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056234",
+                                    "Author": "Sam Al Rashwany",
+                                    "DateTime": "2024-04-11T12:08:45+02:00",
+                                    "Content": "Hallo,  ich bin in der Gruppe #1, falls wer beitreten will. Ich bin gut im CAD und im Rechnen, also am besten wenn du die Dokumentation gut machen kannst oder fit im CAD bist. Ich würde gerne sehr früh mit der HA anfangen und auch aufjedenfall in diesem Semester bestehen. LG  Osama \"Sam\" Al Rashwany",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Gruppenpartner gesucht",
+                            "Discussion_Id": "585149",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055859",
+                                    "Author": "Kira Trettin",
+                                    "DateTime": "2024-04-09T15:23:04+02:00",
+                                    "Content": "Moin :) Kristof und ich suchen noch  ein drittes Mitglied für unsere Hausaufgabengruppe. Wir freuen uns über jemanden, der motiviert ist früh anzufangen und das Ganze mit uns zusammen zu bestehen.  GaLiGrü Kristof & Kira",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056204",
+                                    "Author": "Robert Kindervater",
+                                    "DateTime": "2024-04-11T10:13:29+02:00",
+                                    "Content": "Hi, falls ihr noch frei sein solltet, würde ich mich euch gerne anschließen.",
+                                    "Response to": "p1055859"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KL3-Gruppe gesucht",
+                            "Discussion_Id": "585378",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056174",
+                                    "Author": "Qemal Kalanderi",
+                                    "DateTime": "2024-04-10T23:53:04+02:00",
+                                    "Content": "Hey, Bin auf der Suche nach einer motivierten Kl3-Ha-Gruppe, welche zielstrebig an der HA arbeiten möchten.  Gerne bei mir melden über Isis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Gruppenmitglied gesucht ",
+                            "Discussion_Id": "585375",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056170",
+                                    "Author": "Furkan Burak Öztürk",
+                                    "DateTime": "2024-04-10T23:32:00+02:00",
+                                    "Content": 

@@ -1,0 +1,373 @@
+[
+    {
+        "Course_Name": "Management of Sustainable Development - Methods and Tools",
+        "Course_id": "33037",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1525981",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "HiWi Postion Open",
+                            "Discussion_Id": "547805",
+                            "Messages": [
+                                {
+                                    "Message_id": "p996930",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-08-30T09:16:07+02:00",
+                                    "Content": "Dear all, I wanted to let you know that we have a student worker position open at the Chair of Sustainable Engineering. If you enjoyed the topics covered in this course and would like to continue working on them, feel free to apply! https://www.jobs.tu-berlin.de/en/job-postings/172213 Best regards, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Questions from summary lecture",
+                            "Discussion_Id": "543718",
+                            "Messages": [
+                                {
+                                    "Message_id": "p989984",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-07-18T13:43:02+02:00",
+                                    "Content": "Hi everyone, There were a few questions today at the summary lecture, please find the answers below! The MTS registration numbers should be: NAMUT: #30175v5: Methods and Tools for Sustainability Assessment - Management of Sustainable Development Schwerpunkt: #30702v4: Management of Sustainable Development In the marble example for LCSA, I looked into the paper and I am not sure why the revenue is 0 for one of the marble types. The paper states that they included labor costs, equipment costs, fuel costs, waste disposal costs, electricity costs, and revenues for the LCC. But it is not stated why one of the marble types had no revenue. In slides 13 and 14 of the summary lecture, you see the evaluation scheme for LCSA. You have the inventory data for LCA, the economic for LCC, and the social dimension for S-LCA. For the environmental LCA, you have aggregation and characterization, and can derive the impact categories like global warming and acidification. For the LCC, you have different costs (e.g., production, maintenance, external). And then for S-LCA we have human health, working conditions, equality, etc. Based on the three methods applied, you then have this three-dimensional score with social, economic, and environmental criteria. However, there are a lot of challenges aggregating several results to a single criterion score for each dimension. For the LCSA framework though this would be the ideal case that this is possible. For costs it is easier, you can just sum those up but for social impacts, it is difficult to sum up human health and working conditions. A potential solution for this could be to use an activity variable such as worker hours. Activity variables are used to reflect the share of a given activity associated with each unit process. As such, it does not represent an impact but rather an elementary flow used to compare the intensity of the processes and aggregate impact assessment results. For the pyramid on slide 65 of the summary lecture, it comes from the EU’s indicators to measure resource efficiency. The top of the pyramid is the “lead indicator” that was chosen (resource efficiency = GDP/Direct material consumption). The bottom of the pyramid represents other indicators that can be used as productivity indicators (to show how society is doing in decoupling). These productivity indicators are defined as the ratio of GDP to different types of natural resources such as materials, water or land. I have included a pdf with more details on these indicators. Best, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Water bottle left in lecture room",
+                            "Discussion_Id": "543605",
+                            "Messages": [
+                                {
+                                    "Message_id": "p989807",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-07-18T09:56:32+02:00",
+                                    "Content": "Hi all, A water bottle was left in the lecture room today. I will bring it to my office (Z107) and you can come by and pick it up. Best, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Feedback Survey",
+                            "Discussion_Id": "540640",
+                            "Messages": [
+                                {
+                                    "Message_id": "p985191",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-07-05T14:26:38+02:00",
+                                    "Content": "Hi everyone, There is a survey for your feedback on the course. Please take a few minutes to fill out the course evaluation. I'm happy to have any feedback to help improve the course. You can find the link to the evaluation here: https://befragung.tu-berlin.de/evasys/online.php?pswd=C6YZ2 Thanks a lot in advance, Best, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation schedule and rooms",
+                            "Discussion_Id": "537581",
+                            "Messages": [
+                                {
+                                    "Message_id": "p980624",
+                                    "Author": "Laurine Sara Sadetzky",
+                                    "DateTime": "2023-06-22T11:11:30+02:00",
+                                    "Content": "Hello everyone,  I have uploaded the presentation schedule and room distribution. It would be good if each group uses a Windows laptop for the presentation, as we have had issues with MacBooks. And please be on time next week. Best, Laurine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam time slots open today at 17:00",
+                            "Discussion_Id": "533368",
+                            "Messages": [
+                                {
+                                    "Message_id": "p974305",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-06-06T10:49:48+02:00",
+                                    "Content": "Hi everyone, The exam slots will open today at 17:00 to select on ISIS. They are on a first come first serve basis. Everyone that plans to take the exam this semester should select one. Participation in the seminar presentation is required to take the exam. If you are taking the Schwerpunkt exam, please select two time slots in a row because the exam will be 40 minutes. Everyone else should only select one time slot. I will delete additional time slots selected by anyone who is not taking the Schwerpunkt exam and you will not get to pick which time slot I delete. It is not possible to cancel or change slots without a valid reason (e.g., doctor’s note).  Best, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture Start Time - 9:15 tomorrow!",
+                            "Discussion_Id": "533104",
+                            "Messages": [
+                                {
+                                    "Message_id": "p973879",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-06-05T13:38:22+02:00",
+                                    "Content": "Hi everyone, Tomorrow we will have the LCC lecture and seminar but we will not need the full four hours. Therefore, we will have a delayed start tomorrow at 9:15. See you then, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder - Laptops for S-LCA Seminar Tomorrow",
+                            "Discussion_Id": "531454",
+                            "Messages": [
+                                {
+                                    "Message_id": "p971378",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-29T12:15:35+02:00",
+                                    "Content": "Hi everyone, I just wanted to remind everyone to bring a laptop tomorrow for the S-LCA seminar! We will play an online S-LCA board game. Mac or windows laptops will both work for this and each person will need their own. See you tomorrow, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder for tomorrow's seminar",
+                            "Discussion_Id": "528643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p966803",
+                                    "Author": "Laurine Sara Sadetzky",
+                                    "DateTime": "2023-05-15T13:59:10+02:00",
+                                    "Content": "Remember that each group will need a laptop with Granta software installed on it for tomorrow's seminar. Without this, you will not be able to participate in the seminar tomorrow.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Email address reminder",
+                            "Discussion_Id": "527827",
+                            "Messages": [
+                                {
+                                    "Message_id": "p965559",
+                                    "Author": "Laurine Sara Sadetzky",
+                                    "DateTime": "2023-05-11T13:25:43+02:00",
+                                    "Content": "Hi everyone, short reminder that I need an e-mail address from each group. If you did not participate in the seminar this week, please send me a mail, so that I can create a new group if necessary. If you don't have a group or haven't sent me an email address yet, please do so by tomorrow at 4pm. Without a group you cannot participate in the seminar next week. Best, Laurine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar presentation groups",
+                            "Discussion_Id": "527273",
+                            "Messages": [
+                                {
+                                    "Message_id": "p964676",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-09T17:05:06+02:00",
+                                    "Content": "Hi everyone, I published the groups for the seminar presentation - Seminar presentation groups. Everyone should get into contact with their group so you can start working on the presentation. If you are in a group by yourself, you can either: 1) present alone 2) email one of the others that is in a group alone and form a group, picking one of the topics. If you form a new group, please email me to let me know. Best, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar topic poll",
+                            "Discussion_Id": "524978",
+                            "Messages": [
+                                {
+                                    "Message_id": "p961177",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-02T10:20:24+02:00",
+                                    "Content": "Hi everyone,  As part of the seminar for the course, we will have a group presentation. There is a poll open (Presentation topic selection) where you can rank your topic preferences. We will have a more in-depth introduction to the seminar and presentation next week.  Rank your preferences and then groups of 4 will be automatically assigned based on your preferences. Please submit your answers to the poll by Monday, May 8th at 23:59 so I can finalize the groups before our class on Tuesday, May 9th. Best, Lindsey",
+                                    "Response to": "#p961177"
+                                },
+                                {
+                                    "Message_id": "p963807",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-08T11:43:05+02:00",
+                                    "Content": "Hi everyone,  This is a reminder to please fill out the seminar poll (Presentation topic selection) by tonight at 23:59. Only one third of the course participants have done so until now. The seminar presentation is a requirement to be eligible for the exam.  Best, Lindsey",
+                                    "Response to": "#p961177"
+                                },
+                                {
+                                    "Message_id": "p964302",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-09T07:23:14+02:00",
+                                    "Content": "Hi everyone,  I extended the poll until 16:30 today and will publish the groups after it closes. If you have not filled out the poll, please do so until 16:30 today if you plan to participate in the course.  Best, Lindsey",
+                                    "Response to": "#p963807"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ESG vs. CSR",
+                            "Discussion_Id": "526756",
+                            "Messages": [
+                                {
+                                    "Message_id": "p963838",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-08T12:08:46+02:00",
+                                    "Content": "Hi everyone, There was a question about the differences between CSR (Corporate Social Responsibility) and ESG (Environmental, Social, and Governance) reporting.   CSR and ESG have very similar topics but have different aims. ESG has a stronger focus on quantitative measures of sustainability and is often used for investors. CSR is a more general sustainability framework for the company where they integrate social and environmental concerns in their business operations and in their interaction with their stakeholders. Below is a quote from Gillan et al. (2021) from their paper reviewing ESG and CSR in corporate finance (https://www.sciencedirect.com/science/article/abs/pii/S0929119921000092). “Before discussing the research on ESG/CSR, we first consider the terminology and its evolution. ESG is an acronym developed in a 2004 report by 20 financial institutions in response to a call from Kofi Anon, Secretary-General of the United Nations. As it implies, ESG refers to how corporations and investors integrate environmental, social and governance concerns into their business models. CSR traditionally has referred to corporations' activities with regard to being more socially responsible, to being a better corporate citizen. One difference between the two terms is that ESG includes governance explicitly and CSR includes governance issues indirectly as they relate to environmental and social considerations. Thus, ESG tends to be a more expansive terminology than CSR.” Hope this helps! Best, Lindsey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1525983",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "NAMUT 24",
+                            "Discussion_Id": "584833",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055412",
+                                    "Author": "Ilias Mavromatis",
+                                    "DateTime": "2024-04-07T16:55:13+02:00",
+                                    "Content": "Hello, are the days and times/first date of Summer semester and Namut already known by any chance?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055460",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2024-04-08T09:24:16+02:00",
+                                    "Content": "Hi Ilias,  The new SS24 course page for NAMUT can be found here: https://isis.tu-berlin.de/course/view.php?id=38060  Best, Lindsey",
+                                    "Response to": "p1055412"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Study partner Wanted",
+                            "Discussion_Id": "583316",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053040",
+                                    "Author": "Richard Olariu",
+                                    "DateTime": "2024-03-16T14:39:08+01:00",
+                                    "Content": "Hey all, in the unlikely case of anyone doing the NAMUT exam at this time of the year, let me know please. I am looking for a study partner :) Best, Richard ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam grades",
+                            "Discussion_Id": "547009",
+                            "Messages": [
+                                {
+                                    "Message_id": "p995802",
+                                    "Author": "Masoumeh Khorshidipaji",
+                                    "DateTime": "2023-08-15T09:37:16+02:00",
+                                    "Content": "Dear Lindsey,  I would like to kindly ask when the exam grades will be registered to the TU portal?  Thanks & regards Massi",
+                                    "Response to": "#p995802"
+                                },
+                                {
+                                    "Message_id": "p995809",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-08-15T10:03:55+02:00",
+                                    "Content": "Dear Massi,  I will send the grades to QISPOS this week so hopefully the grades will be registered in the portal within the next couple weeks.  Best, Lindsey",
+                                    "Response to": "#p995802"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question regarding CSR",
+                            "Discussion_Id": "545108",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992341",
+                                    "Author": "Hannah Katharina Seibel",
+                                    "DateTime": "2023-07-25T13:57:43+02:00",
+                                    "Content": "Hello, according to the lecture my understanding was that the CSR reports are done by the company itself, which leads to the risk of greenwashing. In the ISIS-quiz it is said that the CSR reports are done by different stakeholders. Can someone explain this please? Or does this mean that employees of the company are also stakeholders and by involving e.g. independent reviews, different stakeholders work together? Thank you in advance. Best, Hannah",
+                                    "Response to": "#p992341"
+                                },
+                                {
+                                    "Message_id": "p992368",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-07-25T14:39:33+02:00",
+                                    "Content": "Hi Hannah,  Are you referring to question 2 in the CSR quiz (copied below)?  For whom is the report done? a. Government b. Company c. Different stakeholders  Here the question isn't asking who created the CSR report but rather who is it created for - so the correct answer is different stakeholders, e.g., consumers, local community, etc.  I hope this helps!  Best, Lindsey",
+                                    "Response to": "#p992341"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Study Partners Wanted",
+                            "Discussion_Id": "544682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p991545",
+                                    "Author": "Timon Zimmermann",
+                                    "DateTime": "2023-07-22T11:04:04+02:00",
+                                    "Content": "Hey all,   Like most of us I am currently studying for NAMUT. For me, especially for an oral exam, it is important to be able to talk about the topics rather than just talking to myself while studying. Therefore I want to ask if anybody would be willing to study with me Tomorrow, Monday or Tuesday. Coffee would be on me and I can come anywhere inside of the S-Bahn-Ring.   Cheers  Timon",
+                                    "Response to": "#p991545"
+                                },
+                                {
+                                    "Message_id": "p991549",
+                                    "Author": "Masoumeh Khorshidipaji",
+                                    "DateTime": "2023-07-22T11:27:35+02:00",
+                                    "Content": "Hi Timon, the same goes for me. Text me on Telegram if you want. @khorshidimi  Best Massi",
+                                    "Response to": "#p991545"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schedule exchange - oral exam",
+                            "Discussion_Id": "542088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p987478",
+                                    "Author": "Enikan Marie-Daniele Angela Yao",
+                                    "DateTime": "2023-07-11T16:05:38+02:00",
+                                    "Content": "Hello everyone, I was wondering if anyone would be interested in changing their exam date with mine (July 24th from 10:30-11am) as I just realized I have a finance exam that day that ends at 11:30am. Thank you for your kindness ",
+                                    "Response to": "#p987478"
+                                },
+                                {
+                                    "Message_id": "p987492",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-07-11T16:23:22+02:00",
+                                    "Content": "Dear Enikan,  There are many open exam slots still. If you have a conflicting exam, you can select a new time slot for your exam and I will delete the old slot selection. There is no need to trade exam slots with anyone. Everyone else should keep their exam slots as they are unless they have a valid reason to change.  Best, Lindsey",
+                                    "Response to": "#p987478"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deep Sea Mining Group Formation",
+                            "Discussion_Id": "533352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p974281",
+                                    "Author": "Timon Zimmermann",
+                                    "DateTime": "2023-06-06T10:21:39+02:00",
+                                    "Content": "Hey all,   I am part of the Deep Sea Mining Topic Group but don't know my partners in this group yet. Can you just respond to this thread? Thank you!!  Timon",
+                                    "Response to": "#p974281"
+                                },
+                                {
+                                    "Message_id": "p975457",
+                                    "Author": "Caroline Frauke Skodlerack",
+                                    "DateTime": "2023-06-09T07:07:52+02:00",
+                                    "Content": "Hey I wrote you an email. Maybe you could just reply to it and give me your number?",
+                                    "Response to": "#p974281"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "algae farming group contact",
+                            "Discussion_Id": "529452",
+                            "Messages": [
+                                {
+                                    "Message_id": "p968053",
+                                    "Author": "Josepha Karola Brag",
+                                    "DateTime": "2023-05-17T21:01:28+02:00",
+                                    "Content": "Hello, I´m looking for the rest of the group \"algae farming\". Please contact me so I can add you to the group. Best regards Josepha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Different exam registration name",
+                            "Discussion_Id": "526192",
+                            "Messages": [
+                                {
+                                    "Message_id": "p962966",
+                                    "Author": "Arsyan Mohamad Virio Andreyana",
+                                    "DateTime": "2023-05-05T09:23:23+02:00",
+                                    "Content": "Greetings, I looked into MTS and it seems that we have a module with two different names: Modul #30175: Management of Sustainable Development - Methods and Tools Modul #30175: Methods and Tools for Sustainability Assessment - Management of Sustainable Development Which one should we use to register? Is it dependent on the master degree?",
+                                    "Response to": "#p962966"
+                                },
+                                {
+                                    "Message_id": "p963731",
+                                    "Author": "Lindsey Margaret Marie Rowe Roche",
+                                    "DateTime": "2023-05-08T10:17:47+02:00",
+                                    "Content": "Hi,  There should only be one for the 6 ECTS and one for the 12 ECTS course (Schwerpunkt) that are open for the SS23 semester. I attached a screenshot of how the two exams look.  It should be the second one - Modul #30175: Methods and Tools for Sustainability Assessment - Management of Sustainable Development.  Best, Lindsey",
+                                    "Response to": "#p962966"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

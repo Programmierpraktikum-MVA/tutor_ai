@@ -1,0 +1,304 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Luftgüteüberwachung",
+        "Course_id": "38573",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1795781",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vergessene Sachen",
+                            "Discussion_Id": "607245",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088975",
+                                    "Author": "David Baum",
+                                    "DateTime": "2024-07-11T15:52:23+02:00",
+                                    "Content": "Hey, Ein paar Sachen sind beim Praktikum liegen geblieben: - 2 Ringe in einer Kitteltasche - 1 Box - 1 gelbe Tasche - 1 Block Die Sachen können nach vorheriger Anmeldung in tuti Raum (KF110) abgeholt werden. Grüße und viel Erfolg bei den Protokollen, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Praktikumstag",
+                            "Discussion_Id": "606433",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087819",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-07-08T21:41:37+02:00",
+                                    "Content": "Liebe Studis,  diese Woche findet euer 2. Praktikumstag statt. Dafür müsst ihr eure Passivsammler wieder mit ins Labor bringen. Notiert euch die Zeit wann ihr die Sammler wieder verschließt.  Denkt daran trotz der warmen Temperaturen lange Hosen und geschlossene Schuhe anzuziehen.  Viele Grüße Lynne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Die letzten beiden Foliensätze",
+                            "Discussion_Id": "604732",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085421",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-07-01T15:34:42+02:00",
+                                    "Content": "Liebe Studierende, es stehen im diesem Semester (nur) noch drei VL-Termine der LGÜ an. Ich habe nun die beiden letzten Foliensätze hochgeladen.  Ich grüße ganz herzlich, Wolfgang Frenzel ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start des Praktikums",
+                            "Discussion_Id": "602910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082793",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-06-24T09:23:13+02:00",
+                                    "Content": "Liebe Studis,  ab morgen beginnt das Praktikum. Es findet im Labor 008 des KF Gebäudes statt (über den Seiteneingang erreichbar). Bitte seit 5 min vor Beginn da, damit wir pünktlich starten können. Laborkittel erhaltet ihr von uns. Ihr benötigt lediglich Sachen zum mitschreiben. Zur Vorbereitung sollt ihr die Praktikumvorschrift, die auf ISIS hochgeladen ist, gut durchlesen.  Viele Grüße Lynne ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083287",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-06-24T22:44:50+02:00",
+                                    "Content": "Denkt dran, dass trotz des warmen Wetters, geschlossene Schuhe und lange Hosen im Labor Pflicht sind.",
+                                    "Response to": "p1082793"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrveranstaltungsevaluierung",
+                            "Discussion_Id": "603100",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083058",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-06-24T14:56:45+02:00",
+                                    "Content": "Liebe Studierende,  die Fakultät führt regelmäßig Lehrveranstaltungsevaluierungen durch mit dem Ziel die Qualität der Lehre zu verbessern.  Dieses Jahr wird auch einmal wieder die VL Luftgüteüberwachung evaluiert.  Es wäre schön, wenn Sie sich an der Evaluierung beteiligen.  Über den Link https://befragung.tu-berlin.de/evasys/online.php?pswd=Y8N5X können Sie den Fragebogen on-line aufrufen und die Fragen beantworten. Das dauert wirklich nur wenige Minuten. Also, machen Sie mit! Herzliche Grüße, Wolfgang Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "verlängerte Prüfungsanmeldung",
+                            "Discussion_Id": "602802",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082630",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-06-23T13:19:49+02:00",
+                                    "Content": "Liebe Studis,  die Prüfungsanmeldung auf MTS wurde verlängert bis zum 30.06., damit sich alle anmelden können, die es verpasst haben. Danach besteht keine Möglichkeit mehr zur Anmeldung.  Viele Grüße Lynne ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neues Material",
+                            "Discussion_Id": "600118",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078729",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-06-10T18:13:24+02:00",
+                                    "Content": "Liebe Studierende, wieder einmal etwas spät habe ich die nächste pdf-Datei (Teil 9 - Bestimmung von Staubinhaltsstoffen) hochgeladen. Vermutlich werde ich morgen den Teil 8 abschließen und mit Teil 9 starten. Grüße, W. Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum",
+                            "Discussion_Id": "598904",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076953",
+                                    "Author": "David Baum",
+                                    "DateTime": "2024-06-04T15:35:48+02:00",
+                                    "Content": "Liebe Studierende, das Praktikum startet in 3 Wochen! Infos zu diesem erhaltet ihr am 18.06. im Rahmen der Vorlesung (10-12 Uhr, Raum H0111). Für diesen Termin ist die Anwesenheit verpflichtend! Außerdem möchte ich euch noch einmal an die Prüfungsanmeldung über MTS erinnern, diese ist noch bis zum 15.06. geöffnet! Grüße, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorträge",
+                            "Discussion_Id": "596315",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073040",
+                                    "Author": "David Baum",
+                                    "DateTime": "2024-05-23T14:19:33+02:00",
+                                    "Content": "Liebe Studis, zunächst möchte ich euch noch einmal an die Prüfungsanmeldung erinnern. Diese ist bis zum 15.06.24 über MTS möglich. Außerdem ist die Gruppenwahl für die Vorträge am Sonntag abgeschlossen. Wer sich auf ISIS noch in keine Gruppe eingetragen hat, sollte das bitte bis Sonntag tun. Wir haben euch jetzt auch weitere Infos zu den Vorträgen hochgeladen. In der Datei Themenliste der Vorträge findet ihr ein paar Stichpunkte zu eurem jeweiligen Thema. Die Abgabe erfolgt als Video mit einer Dauer von 45 min (15 min  pro Person) bis zum 31.07.24 um 23:59! Die Deadline für die Abgabe der Protokolle für das Praktikum ist der 31.08.24 um 23:59. Weitere Infos zu den Praktikum erfolgen noch vor diesem. Grüße, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurtermin",
+                            "Discussion_Id": "596062",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072675",
+                                    "Author": "David Baum",
+                                    "DateTime": "2024-05-22T16:01:02+02:00",
+                                    "Content": "Der 1. Termin der Klausur für das Modul LGÜ wird am 26.07.24 um 10:00 bis 12:00 Uhr in Raum H0106 stattfinden.  Ein 2. Termin wird Ende des Semesters stattfinden. Grüße, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neues Material - endlich",
+                            "Discussion_Id": "595418",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071699",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-05-20T11:14:43+02:00",
+                                    "Content": "Liebe Studierende, nun habe ich es gerade noch vor der nächsten VL geschafft, das neue Material hochzuladen (später als versprochen; es tut mir leid). Aber ich habe gleich 3 pdf-files verfügbar gemacht, sodass für die nächsten 3 VL-Termine vorgesorgt ist.  Herzliche Grüße, Wolfgang Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wahl der Praktikumstermine",
+                            "Discussion_Id": "593448",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068555",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-05-09T10:04:32+02:00",
+                                    "Content": "Liebe Studis,  ab jetzt könnt ihr euch für die Praktikumstermine eintragen. Ihr könnt eure Auswahl später noch ändern. Wenn möglich, wählt für beide Termine den gleichen Tag damit eure Messungen genau 2 Wochen dauern.   Einen schönen Feiertag! Lynne    ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wahl Vortragsthemen",
+                            "Discussion_Id": "593271",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068266",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-05-08T13:31:11+02:00",
+                                    "Content": "Hallo Studis,  ab sofort könnt ihr euch für die Vortragsthemen eintragen.  Die Vorträge werden in 3er Gruppen gehalten. Achtet darauf die Gruppen voll zu machen, sodass keine Zweier- oder Einzelgruppen entstehen. Die Gruppenwahl ist bis einschließlich 26. Mai geöffnet. Hinweise zu den Vorträgen bekommt ihr dann später noch von uns.  Viele Grüße Lynne ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wieder einmal neues Material zur LGÜ",
+                            "Discussion_Id": "592329",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066830",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-05-05T15:01:53+02:00",
+                                    "Content": "Liebe Studierende, ich habe gerade die beiden nächsten Foliensätze zur VL LGÜ hochgeladen. Am kommenden Dienstag geht es aber erst einmal mit den satellitengestützten Fernmessverfahren weiter. Herzliche Grüße, W. Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "591716",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065836",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-05-02T13:25:38+02:00",
+                                    "Content": "Hallo Studis,  ab heute ist die Anmeldung zur Prüfung auf Moses (MTS) geöffnet. Ihr könnt euch bis zum 15. Juni anmelden und auch wieder abmelden.   Außerdem könnt ihr noch bis nächsten Dienstag die Befragung zur Teilnahme am Kurs ausfüllen, was uns bei der Planung helfen soll.  Grüße Lynne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wieder neues Material zur VL",
+                            "Discussion_Id": "590033",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063287",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-04-26T05:38:50+02:00",
+                                    "Content": "Liebe Studierende,  die nächste pdf-Datei, Thema \"Fernmessverfahren\" ist verfügbar.  Ein schönes warmes Wochenende wünscht, Wolfgang Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage Teilnahme am Kurs",
+                            "Discussion_Id": "589414",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062350",
+                                    "Author": "Lynne Ressel",
+                                    "DateTime": "2024-04-24T14:51:31+02:00",
+                                    "Content": "Liebe Studis,  auf der ISIS Seite unter Allgemeines findet ihr eine unverbindliche Umfrage darüber, ob ihr am Kurs teilnehmen möchtet oder nicht. Diese soll uns einen Überblick verschaffen und die weitere Kursplanung ermöglichen. Bitte füllt diese bis zum 07. Mai (16 Uhr) aus.  Das ist keine verbindliche Anmeldung, diese erfolgt erst später.   Grüße  Lynne ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neues Material zur LGÜ",
+                            "Discussion_Id": "588083",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060193",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-04-21T13:37:52+02:00",
+                                    "Content": "Liebe Studierende,  ich habe soeben den 2. Foliensatz bei ISIS hochgeladen. Thema \"Exkurs - Spektrometrische Grundlagen\". Eine schönen Start in die neue Woche. Ich freue mich auf Dienstag. Grüße, Wolfgang Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisatorisches",
+                            "Discussion_Id": "587488",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059255",
+                                    "Author": "David Baum",
+                                    "DateTime": "2024-04-18T20:00:05+02:00",
+                                    "Content": "Willkommen im Kurs LGÜ, wenn ihr organisatorische Fragen (z.B. Terminen, Abgaben, etc.) habt, stellt diese bitte im Forum für Studis oder per Mail an tutoren@uc.tu-berlin.de. Klausur- und Praktikumstermine werden wir möglichst zeitnah bekanntgeben. Viel Spaß und Erfolg bei LGÜ, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich Willkommen",
+                            "Discussion_Id": "585498",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056341",
+                                    "Author": "Wolfgang Frenzel",
+                                    "DateTime": "2024-04-11T16:19:50+02:00",
+                                    "Content": "Liebe Studierende,  ich freue mich über ihr Interesse an der Lehrveranstaltung \"Luftgüteüberwachung\", die ich im SS 2024 anbiete. Start der Veranstaltung ist Dienstag, der 16. April 2024.  Die VL findet immer dienstags von 10.00-12.00 Uhr im Raum H 0111 (Hauptgebäude der TU Berlin) statt. Unterlagen zur VL werde ich ihnen zeitnah über ISIS zu Verfügung stellen.  Herzliche Grüße vorerst, Wolfgang Frenzel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Studis",
+                    "Forum_id": "1795785",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gruppe zum Vernetzen",
+                            "Discussion_Id": "585543",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056408",
+                                    "Author": "Christine Maria Claussen",
+                                    "DateTime": "2024-04-11T22:55:21+02:00",
+                                    "Content": "Kommt gerne in diese Gruppe: https://t.me/+JOY0SjT6Yew2Yzli",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

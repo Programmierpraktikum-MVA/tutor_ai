@@ -1,0 +1,220 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Secure Cryptography",
+        "Course_id": "38285",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1786404",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exercise Session PKC",
+                            "Discussion_Id": "605144",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086015",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-03T00:54:06+02:00",
+                                    "Content": "Dear participants, On July 17, we will turn the morning slot 10-12 into an exercise session for PKC, instead of the lecture \"Cryptography for Security\". However, this won't be me just presenting the solutions. When you wish to talk about one of the exercises (theory or programming) you start with your ideas and approaches. Then I will gladly guide you towards the solutions. The lecture PKC will take place as usual, finishing post-quantum crypto and a general wrap-up. Regards, Henning",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088618",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-10T17:23:16+02:00",
+                                    "Content": "Dear participants, Since the lecture Cryptography for Security did not advance as much as planned, we will slightly change the above plan. The morning slot (CryptoSec) will be a regular lecture, on pseudo-random functions. The afternoon slot (PKC) will become the exercise session. I will drop the part about multivariate cryptography. Regards, Henning",
+                                    "Response to": "p1086015"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Slots in August",
+                            "Discussion_Id": "603707",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083929",
+                                    "Author": "Stephan Bauroth",
+                                    "DateTime": "2024-06-26T11:09:03+02:00",
+                                    "Content": "Dear All,  I've uploaded slots in August, too. Please make sure to register on MTS before picking a slot. The slots in July will be online via Zoom, the ones in August will take place in person at TUB.  Best, Stephan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085434",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-01T15:50:17+02:00",
+                                    "Content": "Dear participants, I added some more exam slots for early August and early September. The choice in Isis is open until Monday night the week before the exams (or until all are taken). Reminder: To get an exam, you must both pick a slot in Isis and register in Moses. If your exam is in July or early August, you MUST use the corresponding registration in Moses. For the other slots in late August/September please do the same. They are valid for 3 months.  Unfortunately, in the past, some students were frequently misusing the system for the exams slots, so we had to come up with a few rules. TL;DR be reasonable As we said before, only pick a slot if you can make it at that date and be prepared. If you cancel your slot without valid reason, you will be moved to the \"blacklist\". If you pick 2 slots, we will remove you from both and put you on the \"blacklist\". Being on the blacklist means, you cannot pick a new slots before others had their chance. You will have to live with the leftovers. Regards, Henning",
+                                    "Response to": "p1083929"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PKC officially in C 130",
+                            "Discussion_Id": "604667",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085327",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-01T13:50:58+02:00",
+                                    "Content": "Dear participants, The lecture PKC is now officially moved into C 130 for the remaining 3 weeks. Regards, Henning",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise and Matrix",
+                            "Discussion_Id": "592747",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067494",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-05-06T22:02:36+02:00",
+                                    "Content": "Dear participants, I just remembered to upload the first exercise sheet for PKC. There will be more at irregular intervals (whenever we cover all topic required for each sheet). The theory exercises are not meant to be handed in, but just for self-study. The practical challenges will just reference the specific challenge name on the platform, so you know when we covered the knowledge required to solve the task. Additionally, I created a Matrix channel for quick communication about the content, either with me or among yourselves: https://matrix.to/#/#crypto:matrix.tu-berlin.de However, for orga questions without private information please use the forum, to have it documented for everyone. rule of thumb: Matrix: quick question, but forgotten afterwards Forum: stuff that someone might want to look up later Regards, Henning",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084276",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-06-27T10:45:39+02:00",
+                                    "Content": "Dear participants,  I just uploaded the 4th exercise sheets, which most likely is the last. The two exercises marked as bonus cover the topic on factorisation, which we left out. The last programming task is on a topic for next week.  Regards, Henning",
+                                    "Response to": "p1067494"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaö",
+                            "Discussion_Id": "603682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083895",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-06-26T10:17:03+02:00",
+                                    "Content": "Dear Mr./Ms. Prof. Dr. Seifert,   with this e-mail you will receive the link as well as the associated QR-code for a survey for your course \"Cryptography for Security (Vorlesung)\": https://befragung.tu-berlin.de/evasys/online.php?pswd=Y1NA5.   The survey should take place from 06/17 - 06/28/2024. The survey period for individual courses can be extended on request. Please forward the link to other people in your group if necessary.  Please pass the link on to the students in the course and give them about 5 - 10 minutes to complete it. You are also welcome to use the QR-code at the end of this email.  Further information on evaluation at Faculty IV and tips for increasing the response rate can be found here.  You will receive the results of the survey after the end of the survey period, so you can still have a feedback meeting within the semester.  If you have any questions, please contact lehrevaluation@eecs.tu-berlin.de.   Many thanks and best regards Teresa Fräßdorf    ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084020",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-06-26T14:03:38+02:00",
+                                    "Content": "Dear participants,  The evaluation link for PKC is: https://befragung.tu-berlin.de/evasys/online.php?pswd=2LGLT Please keep in mind, that \"Cryptography for Security\" and \"Public Key Crypto\" are two separate evaluations.  Regards, Henning",
+                                    "Response to": "p1083895"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Slots in July",
+                            "Discussion_Id": "603445",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083546",
+                                    "Author": "Stephan Bauroth",
+                                    "DateTime": "2024-06-25T14:23:38+02:00",
+                                    "Content": "Dear all,  I've uploaded our offered exam slots for July. You can find them as a choice in this ISIS course, it opens today at 4pm. Please make sure to pick a slot for which you can be prepared and register yourself beforehand on the MTS. Registration on the MTS will close on Friday, 12th of July.  Best, Stephan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "no lecture tomorrow",
+                            "Discussion_Id": "600425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079179",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-06-11T19:16:30+02:00",
+                                    "Content": "Dear all, due to the terrible public transport situation from today in Berlin, I have unfortuantely to cancel my lecture for tomorrow - at least in time. I have tomorrow at 12:15 another important meeting in Adlershof and cannot be there in time if I start right after the lecture. Sorry,    JPS",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Week",
+                            "Discussion_Id": "585873",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056914",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-04-15T10:51:31+02:00",
+                                    "Content": "Dear participants, The lecture \"Cryptography for Security\" will start next week on April 24. Please note that \"Public Key Crypto\" will already start this week. Regards, Henning",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Questions and Discussions",
+                    "Forum_id": "1789004",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "notes or script for the cryptography slides",
+                            "Discussion_Id": "606286",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087615",
+                                    "Author": "David Maximlian Christian Schuldes",
+                                    "DateTime": "2024-07-08T14:52:56+02:00",
+                                    "Content": "Hello, I have a hard time understanding the slides and wonder if there are detailed notes or if someone has detailed notes of the lecture. I could not attend the lectures in person because of logistic reasons.  For instance: slides no. 2 s. 10 how is the protocol simulated? why is the probability of cheating the same? or no. 1 s. 47 - \"if difficult, f ( g , x ) = ( g , g x ) is a one way function\" - why is it a one way function? what does if difficult mean? I asked on stackexchange but answers where that I should clarify what I mean. Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087679",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-08T16:15:36+02:00",
+                                    "Content": "Hello David, The HPI slides cover parts of Cryptography for Security. Also the Goldreich book is detailed. Bob has all the information (the random bits) to compute Alice's answers himself. He produces the same messages as the original protocol, the all probabilities remain the same. \"hard\" means there is no polynomial time algorithm (or we don't know one). Keep in mind that these are the introduction slides, that in many cases introduce the problems we want to solve. More formal definitions may come later. Also it would be helpful, if you explicitly stated, which of the lectures you refer to. Regards, Henning",
+                                    "Response to": "p1087615"
+                                },
+                                {
+                                    "Message_id": "p1087815",
+                                    "Author": "David Maximlian Christian Schuldes",
+                                    "DateTime": "2024-07-08T21:31:32+02:00",
+                                    "Content": "Thank you for your answer! How does the protocol look like exactly? How does he know how another person would answer? This must mean that the answers are very standardised right?",
+                                    "Response to": "p1087679"
+                                },
+                                {
+                                    "Message_id": "p1087833",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-08T22:46:31+02:00",
+                                    "Content": "The slide talks about arbitrary protocols. As an example, you can pick any real world protocol, like ssh, Signal protocol, or a password login.  And yes, protocols are always standardised. Formally, a protocol is a randomised algorithm. And for those, there are two equivalent views f rand ( x ) that internally has nondeterministic/random steps f det ( x , r ) where r is an array of random numbers, but the function itself is now deterministic Hence, it does not matter whether Alice does the computations, or she sends r to Bob and he does the computations. As everything else is deterministic, both will get the same result. And these results are Alice's answers.  Regards, Henning",
+                                    "Response to": "p1087815"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "solutions to exercises from the slides for cryptography",
+                            "Discussion_Id": "605892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087045",
+                                    "Author": "David Maximlian Christian Schuldes",
+                                    "DateTime": "2024-07-06T07:53:51+02:00",
+                                    "Content": "Hello, I want to ask if there is a solution set to the exercises recommended from the slides. Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087641",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2024-07-08T15:22:06+02:00",
+                                    "Content": "Hello David, The answer depends on what exactly you are looking for. Most PKC exercises are also in the exercise sheets. We will talk about them next week. For those from PKC that are not on an exercise sheet, we do not have written solutions. For CryptoSec I am not aware of written solutions Regards, Henning",
+                                    "Response to": "p1087045"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "questions on the definitions of slides 1 of PKC",
+                            "Discussion_Id": "604417",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084942",
+                                    "Author": "David Maximlian Christian Schuldes",
+                                    "DateTime": "2024-06-29T19:36:56+02:00",
+                                    "Content": "Hello, I have some questions on the cryptography slides and want to ask if there are videos from past semesters available as the slides are not so detailed.  If not - s.33 what is the definition of a random tape? I did not find one on wikipedia and other sources are not that helpful either. s. 34 - why does the definition of a one way function hold for arbitrary polynomials? On wikipedia it is only for the one that is an upper bound on the runtim of the PPT algorithm . Also, I know that PPT algorithms have runtime bounded by a polynomial for sufficiently large inputs and their output is probabilistic but how exactly are they probabilistic? Is the chance that its output is false lower than a chosen ? s. 38 what is self-reducibility? Also, are solutions to the posed problems available?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084974",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-06-30T10:57:40+02:00",
+                                    "Content": 

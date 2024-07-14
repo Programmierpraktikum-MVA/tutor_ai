@@ -1,0 +1,132 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Machine Learning in Computational Mechanics",
+        "Course_id": "37973",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1774448",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam schedule",
+                            "Discussion_Id": "606686",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088186",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-07-09T16:58:59+02:00",
+                                    "Content": "Hi everybody, here is the schedule for the exams this semester: I hope I could accomodate all your wishes. Is there any group left out or should something be changed? If so, please tell me ASAP. All the best for your preparations, Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching evaluation - please fill it out",
+                            "Discussion_Id": "606525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087964",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-07-09T10:48:03+02:00",
+                                    "Content": "Dear students, I kindly ask you for your support to fill out this teaching evaluation: https://befragung.tu-berlin.de/evasys/online.php?pswd=9DS16 (Link is for the exercise, another one for the lecture might follow) The official results of this evaluation are very important for academic teaching staff and for the next semesters of teaching this course. We hope that everything suited you and leads to good evaluation results :) Thanks! Stefan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088107",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-07-09T14:25:11+02:00",
+                                    "Content": "Dear students,    This is the link for the lecture, please fill this one out, too: https://befragung.tu-berlin.de/evasys/online.php?pswd=H494Z  Thank you very much! Stefan",
+                                    "Response to": "p1087964"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MLCM exercise next week cancelled; lecture takes place!",
+                            "Discussion_Id": "597390",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074750",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-28T15:13:39+02:00",
+                                    "Content": "Dear students, next week (04.06.2024), the MLCM exercise is cancelled due to internal organizational reasons at our chair. The lecture (07.06.2024), however, will take place. Best, Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MLCM lecture on 24/05/2024 cancelled",
+                            "Discussion_Id": "595542",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071927",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-21T09:33:14+02:00",
+                                    "Content": "Dear students, for organizational reasons, there won't be lecture this friday for MLCM. Instead, you will have time for your homework projects. Best regards, Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1st homework is graded, 2nd homework is uploaded to ISIS. Best successes!",
+                            "Discussion_Id": "593098",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067986",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-07T19:20:17+02:00",
+                                    "Content": "Hi everybody, the 1st homework in MLCM is graded, the 2nd homework is uploaded to ISIS.  Best successes! Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1st homework online",
+                            "Discussion_Id": "590140",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063432",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-04-26T11:28:21+02:00",
+                                    "Content": "Dear students, the first MLCM homework is now online. Deadline is 06.05.2024, 23:59. All of you who haven't sent me their group affiliations, please do so until today, 23:59. Otherwise, I cannot create the ISIS upload groups. Best successes, Stefan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066373",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-03T12:34:15+02:00",
+                                    "Content": "Hello everyone,  I have just entered the homework groups in ISIS, please check that you are all members of the correct group. The submission field for the 1st HA in MLCM is now also activated. Please check whether the submission is possible and whether you can all see the submission in the group.  If something goes wrong, my e-mail address is available for submission as an emergency option: stefan.hildebrand@tu-berlin.de  Best wishes and good luck! Stefan",
+                                    "Response to": "p1063432"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update of 1st homework",
+                            "Discussion_Id": "590715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064312",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-04-29T11:54:10+02:00",
+                                    "Content": "Hi everybody, thanks to the feedback of group \"Lernmaschinen\", the first homework was updated: Task 2: Bugfix in the given code, it should be plt.rcParams[...] instead of plt.rcParams[...] Task 3: redundant piece of code removed To answer the questions for the whole audience: In some setups, the line mpl.rcParams[\" text.usetex \"] = True produces an error, because no LaTeX environment is installed / can be found by Matplotlib on the system. For the start, that is not a big problem, but rendering greek letters and mathematical formatting in plots is not possible without LaTeX. Hence, it is strongly recommended to install and connect a LaTeX environment. In task 3, the mathematical description/ documentation of the code shall be in the documentation PDF. One of the reasons is the typesetting for the formulas, anothe reason is to establish the format for the documentation by means of that simple example-  Finally, I kindly request two things: For this kind of questions, please use the discussion forum. Then, my answer will be directly visible to everybody which usually helps to avoid misunderstandings, gives new insights or progress with the code quality. Also, please make use of the possibility to discuss across groups. In case you send me an e-mail, please explicitly state the course (MLCM), as I am involved in three modules this semester and there are broad similarities within some codes or topics.  Best, Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1816367",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Information about presentation ",
+                            "Discussion_Id": "607611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089530",
+                                    "Author": "Yurong Li",
+                                    "DateTime": "2024-07-13T09:56:51+02:00",
+                                    "Content": 

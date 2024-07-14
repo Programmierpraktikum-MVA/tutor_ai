@@ -1,0 +1,133 @@
+[
+    {
+        "Course_Name": "Robotics Interest Group",
+        "Course_id": "33668",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1544607",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "New Course: Robot Learning",
+                            "Discussion_Id": "585094",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055791",
+                                    "Author": "Marc Toussaint",
+                                    "DateTime": "2024-04-09T11:53:24+02:00",
+                                    "Content": "Dear all, I would like to announce that we are offering a new course this term: Robot Learning, which aims to give a systematic overview on the many ways how learning methods can be used within Robotics. The course very much aligns with our research interests and the current advances in robotics. So we are excited to develop this course. Best, Marc Toussaint & Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Student Assistant Positions - IMRC Lab - Feb 29",
+                            "Discussion_Id": "581192",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1049676",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-02-23T21:03:41+01:00",
+                                    "Content": "Dear all, we have several student assistant positions available in the area of motion planning, multi-robot systems, and flying robots. See https://imrclab.github.io/jobs.html for details. Looking forward to your applications, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MSc topics @ LIS lab",
+                            "Discussion_Id": "571727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1035390",
+                                    "Author": "Marc Toussaint",
+                                    "DateTime": "2024-01-12T12:45:58+01:00",
+                                    "Content": "Dear all, I compiled a list of potential MSc topics (all in area of robotic manipulation planning/learning) that we'd be happy to supervise students in. Please see here: https://isis.tu-berlin.de/mod/resource/view.php?id=1736106 Please use our thesis request form but also send Ilaria <office@lis.tu-berlin.de> an Email if you're interested.  Best, Marc",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Student Assistant Positions - LIS lab - Jan 17",
+                            "Discussion_Id": "571726",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1035389",
+                                    "Author": "Marc Toussaint",
+                                    "DateTime": "2024-01-12T12:42:27+01:00",
+                                    "Content": "Dear all, we have several student research assistant positions open, in a cooperation project with Charite (roughly: ML for surgery prediction). Please see details here: https://argmin.lis.tu-berlin.de/jobs/ Best, Marc Toussaint",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Student Assistant | LIS Lab | 40-60h | Deadline Nov 1",
+                            "Discussion_Id": "551924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1003190",
+                                    "Author": "Svetlana Levit",
+                                    "DateTime": "2023-10-17T18:05:10+02:00",
+                                    "Content": "Dear students, we have a student assistant position in the Learning and Intelligent Systems Lab (Prof. Marc Toussaint), in a project focusing on solving physical manipulation puzzles. The position allows 40 or 60 hrs per month and is limited until 28.06.2024.  Tasks: Supporting the research in the Intelligent Systems department within the project \"Algorithms vs Humans: Physical Problem Solving\", e.g. • in the re-implementation and expansion of existing robotics and planning algorithms for physical manipulation problems, • in the literature research related to physical problem solving  with subsequent discussion of the results • in the development, integration and testing of algorithms for implicit scene/object representations, the construction of such representations from raw data and their use for robot planning in manipulation problems, • by implementing tools and scripts for experimental studies with physical problems as part of the project  Required: • very good programming skills (C++ and/or Python); Linux knowledge • reliability, independence and ability to work in a team; good team communication; good written and spoken English knowledge  Desired: • knowledge in the areas of machine learning, algorithms and data structures (through participation in courses or own studies or projects) • basic knowledge of robotics (e.g. kinematics, dynamics, planning, probabilistic methods); computer vision and neural representations; • Interest in interdisciplinary research, especially in cognitive science and human problem solving and decision making  Application: Please send your application - preferably in English - with the following documents in a single PDF document with the reference number in the subject line to: i.cicchetti-nilsson@tu-berlin.de: • letter of motivation • curriculum vitae • relevant school/university certificates and references • certificate of enrollment • link to relevant code samples, if available (e.g. GitHub repository)  The application deadline is on November 1, 2023. Details and the information in German: https://www.jobs.tu-berlin.de/stellenausschreibungen/174095  Best  Svetlana Levit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Student Assistent / SHK | IMRC Lab | 40-80h | DL June 21 ",
+                            "Discussion_Id": "535792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p978071",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2023-06-15T22:38:40+02:00",
+                                    "Content": "Dear Students, We have a student assistant positions in the Intelligent Multi-Robot Coordination Lab (IMRC), where we focus on the coordination of small flying robots.  Tasks: • Programming in Python/C++/ROS 2 within our open-source research testbed for flying robot swarms • Support in the execution of flight experiments with flying robot teams • Embedded programming in C for the firmware of the robots • Assistance in the validation of new planning and control algorithms for collaborative flying robot teams  Requirements: • Very good programming skills in Python or C++ • Good mathematical basics (linear algebra and calculus) • Excellent written and spoken English • Above all, enthusiasm for the research area and a desire to participate in a research lab  Desirable: • Basic knowledge of artificial intelligence / machine learning • Basic knowledge control theory / robotics • Knowledge of modelling an control of flying robots • Experience with embedded systems (Arduino, STM32, or similar) • Experience with the Robot Operating System (ROS)  Workplace: The research is conducted at the Institute of Computer Engineering and Microelectronics, as part of the Intelligent Multi-Robot Coordination Lab headed by Dr. Wolfgang Hönig in the MAR building. The lab has a flight space designed for testing flying robots, which is equipped with a motion capture system. The student assistant will not only gain new foundational insights in the area of robotics, but also be able to participate hands-on in experiments using physical robot teams. We are a fun, open-minded, and highly diverse group and use modern, agile development practices for our research.  Details and application (deadline is June 21): https://imrclab.github.io/jobs.html  If this sound interesting to you, please apply.  Best, Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Student Assistent / SHK | IMRC Lab | 40-80h | DL May 8",
+                            "Discussion_Id": "521292",
+                            "Messages": [
+                                {
+                                    "Message_id": "p955207",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2023-04-19T22:33:30+02:00",
+                                    "Content": "Dear Students, We have a student assistant positions in the Intelligent Multi-Robot Coordination Lab (IMRC), where we focus on the coordination of small flying robots.  Tasks: • Programming in Python/C++/ROS 2 • Infrastructure for automated testing of flying robots • 3D printing, soldering; contribution to planning and control algorithms  Requirements: • Very good programming skills in Python or C++ • Good mathematical basics (linear algebra and calculus) • Excellent written and spoken English • Above all, enthusiasm for the research area and a desire to participate in a research lab  Desirable: • Basic knowledge of artificial intelligence / machine learning • Knowledge of modelling an control of flying robots • Experience with 3D CAD modeling and 3D printing • Basic knowledge of soldering • Experience with the Robot Operating System (ROS)  Workplace: The research is conducted at the Institute of Computer Engineering and Microelectronics, as part of the Intelligent Multi-Robot Coordination Lab headed by Dr. Wolfgang Hönig in the MAR building. The lab has a flight space designed for testing flying robots, which is  equipped with a motion capture system. The student assistant will not only gain new foundational insights in the area of robotics, but also be able to participate hands-on in experiments using physical robot teams. We are a fun, open-minded, and highly diverse group and use modern, agile development practices for our research.  Details and application (deadline is May 8): https://imrclab.github.io/jobs.html  If this sound interesting to you, please apply.  Best, Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project Course: Active Perception (X-Student Research Group)",
+                            "Discussion_Id": "519465",
+                            "Messages": [
+                                {
+                                    "Message_id": "p952413",
+                                    "Author": "Pia Bideau",
+                                    "DateTime": "2023-04-12T11:41:27+02:00",
+                                    "Content": "This semester I am offering the project course \"x-student research group: active-perception\" (6 LP) at TU Berlin.  This project course is offered  for students interested in learning about computer vision and how motion helps us to perceive our environment. The course has a theory part covering fundamentals of Computer Vision together with paper discussion sessions to get you familiar with latest research in computer vision and robotics. In practical sessions the stage is yours and you will work on a research project within small groups. Within those research projects students are encouraged to further develop existing computer vision algorithms and bring them into the real world. Key questions are, how can we use motion to better get information from our surrounding (e.g. depth information, object motion)? Instead of seeing motion as an additional challenge for vision algorithms, we aim at actively exploiting advantages that we can gain through motion and help us to make sense of our surrounding. We will work with LEGO Mindstorms (the robot inventor) equipped with a RasberryPi and camera, which provides an easy setup for the integration of video analysis and camera control algorithms. Good python programming skills are required!  If you are interested please contact Pia Bideau: p.bideau@tu-berlin.de With the following information: your name subject/area of study  First class: April 27th, 2-4pm, MAR 5.006 Course language: English Link: Moses",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching Activities SS23",
+                            "Discussion_Id": "518257",
+                            "Messages": [
+                                {
+                                    "Message_id": "p950600",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2023-03-29T08:48:01+02:00",
+                                    "Content": "If you are interested in robotics, we recommend the following classes offered this summer:  Masters AI and Robotics: Lab Course [Module] Event-based Robot Vision [Module] Motion Planning [Module] Project: Event-based Robot Vision [Module] Project: X-Student Research Group [Module] Bachelors Introduction to Camera Geometry [Module] Aktuelle Forschung in KI & Robotik [Module] Einführung in die Künstliche Intelligenz [Module]",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

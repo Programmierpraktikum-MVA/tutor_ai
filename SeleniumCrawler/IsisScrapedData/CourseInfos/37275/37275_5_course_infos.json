@@ -1,0 +1,20 @@
+[
+    "Aktivität Die Screencasts finden Sie auf https://osm.hpi.de/... auswählen",
+    "Die Screencasts finden Sie auf",
+    "https://osm.hpi.de/drss/2023/curriculum/",
+    ". Das Passwort ist (wenn notwendig) drss2023.",
+    "Verbindlich zu sehen und im Rahmen des MC-Tests abgeprüft werden die Themen (sehr unterschiedliche Länge)",
+    "Softwareentwicklung",
+    "Programmierung",
+    "IT-typische Prozesse",
+    "Testen mit Co-Simulation und Testbed",
+    "[if !supportLists]",
+    "Simulation",
+    "Einführung in die Simulation",
+    "Evaluation von Modellen",
+    "Simulationsarten",
+    "[if !supportLists]",
+    "Grundlagen\nIT-Security",
+    "Was sind\nModelle?",
+    "Formalisierung der LST-Planung mit PlanPro"
+]

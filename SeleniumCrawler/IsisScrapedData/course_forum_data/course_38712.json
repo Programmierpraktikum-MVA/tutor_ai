@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Masterplatzvergabe SoSe2024",
+        "Course_id": "38712",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1801911",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ergebnisse der Verlosung online",
+                            "Discussion_Id": "586466",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057782",
+                                    "Author": "Mark Rosowski",
+                                    "DateTime": "2024-04-16T15:32:56+02:00",
+                                    "Content": "Hallo liebe Studierende, die Ergebnisse der Verlosung sind nun online.  beste Grüße Mark",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

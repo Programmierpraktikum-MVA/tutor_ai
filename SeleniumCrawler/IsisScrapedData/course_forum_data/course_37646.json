@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Matrix Theory (Summer Semester 2024)",
+        "Course_id": "37646",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764639",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation and Dies Mathematicus",
+                            "Discussion_Id": "599974",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078521",
+                                    "Author": "Jörg Liesen",
+                                    "DateTime": "2024-06-10T12:18:56+02:00",
+                                    "Content": "Dear Matrix Theory students, the course can now be evaluated using the following link: https://befragung.tu-berlin.de/evasys/online.php?pswd=73YWT Please complete your evaluation until June 29, 2024. As mentioned in the lectures last week, the Dies Mathematicus will be held on Wednesday, June 12, with student talks between 15:00 and 17:00 in MA041 and MA043: https://www3.math.tu-berlin.de/dies/2024/ There will be no Matrix Theory lecture on Wednesday, so please use the opportunity to attend the Dies. Best regards, Jörg Liesen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture next week (May 8 and 9)",
+                            "Discussion_Id": "591828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066000",
+                                    "Author": "Jörg Liesen",
+                                    "DateTime": "2024-05-02T16:59:02+02:00",
+                                    "Content": "Dear Matrix Theory students, as mentioned in the lecture today, there will be no lecture next week. We will continue on May 15 with Section 1.4 of the lecture notes (The existence of real finite dimensional division algebras). Best regards, Jörg Liesen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

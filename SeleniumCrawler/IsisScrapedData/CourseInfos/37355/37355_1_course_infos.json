@@ -1,0 +1,20 @@
+[
+    "Aktivität Thema: Rohdatenverarbeitung, Kapazität: 36/48 Studierende (9 Teams a... auswählen",
+    "Thema:",
+    "Die Aufgabe in diesem Semester besteht darin, ein Programm zur direkten Datenanalyse von Rohdaten (d.h., CSV-Dateien) zu implementieren. Dabei programmieren die Studierenden grundlegende relationale Operatoren (u.a. Selektion, Join, Group-By), die nach dem Volcano Model prozessiert werden sollen. Insbesondere sind die Gruppen dazu angehalten, Optimierungen an den Operatoren und Anfrageplänen vorzunehmen, um die Performance des Systems zu verbessern. Ziel der Aufgabe ist es, ein System mit hinreichender Funktionalität zu entwickeln, das die bereitgestellten Validierungstests besteht und ein gegebenes Performance-Ziel erreicht. Die API, Tests und Performance Benchmarks werden in C++ und Java bereitgestellt, sodass jedes Team ihre präferierte Programmiersprache (C/C++, Java) verwenden kann. Parallel zur eigentlichen Projektarbeit gibt es begleitende Vorlesungen alle 2 Wochen zur generellen Fragebeantwortung, sowie Themen wie Versionsverwaltung, testgetriebener Entwicklung, Auffrischung von Anfrageoptimierung und -verarbeitung, Entwurfsdokumentation, sowie Laufzeitexperimenten und -verbesserungen.",
+    "Kapazität",
+    ":",
+    "36/48\nStudierende (9 Teams a 4 Studierende)",
+    "Aktivität Q&amp;A Forum auswählen",
+    "Q&A Forum",
+    "Aktivität Course Website auswählen",
+    "Course Website",
+    "Link/URL",
+    "Aktivität Project Submission auswählen",
+    "Project Submission",
+    "Aufgabe",
+    "Geöffnet:",
+    "Sonntag, 16. Juni 2024, 00:01",
+    "Fällig:",
+    "Montag, 1. Juli 2024, 23:59"
+]

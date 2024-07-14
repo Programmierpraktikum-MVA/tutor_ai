@@ -1,0 +1,103 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Statistik für komplexe Versuchspläne I",
+        "Course_id": "39206",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1824031",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "606897",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088494",
+                                    "Author": "Eike Martin Richter",
+                                    "DateTime": "2024-07-10T13:49:46+02:00",
+                                    "Content": "Liebe Teilnehmende,  im ISIS-Kurs findet ihr 3 links für die Lehrevaluation. Bitte nehmt daran bis zum 15.07. teil. Leider sind die Mails bei mir zunächst im Junkordner gelandet, so dass ich sie erst jetzt hochladen konnte.  LG Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler im Skript auf S. 57",
+                            "Discussion_Id": "604168",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084561",
+                                    "Author": "Eike Martin Richter",
+                                    "DateTime": "2024-06-28T08:43:12+02:00",
+                                    "Content": "Liebe Teilnehmende, eine aufmerksame Hörerin hat einen kleinen Fehler auf S.57 des Vorlesungsskripts entdeckt. Bei der Berechnung des grand mean ist die Summe der Zellenerwartungswerte natürlich durch r*c zu teilen und nicht durch r*p. Im Skript ist es nun korrigiert. LG Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "benotete Hausaufgabe",
+                            "Discussion_Id": "604115",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084481",
+                                    "Author": "Eike Martin Richter",
+                                    "DateTime": "2024-06-27T17:31:56+02:00",
+                                    "Content": "Liebe Teilnehmende, wir hatten uns in einer Abstimmung nun mehrheitlich für einen Bearbeitungszeitraum der zu benotenden Hausaufgabe vom 5.8.-19.8. geeinigt. Ihr werdet sie dann auf ISIS finden, ich werde die Einstellung aber noch einmal mit einer Nachricht bekannt geben. LG Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abstimmungstool benotete Hausaufgabe",
+                            "Discussion_Id": "594709",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070578",
+                                    "Author": "Eike Martin Richter",
+                                    "DateTime": "2024-05-15T16:14:02+02:00",
+                                    "Content": "Liebe Teilnehmende, auf ISIS findet ihr nun ein Abstimmungstool für den Bearbeitungszeitraum der benoteten Hausaufgabe am Ende des Semesters. Wählt bitte alle Alternativen, die Euch passen würden. LG Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausweichräume 10.7. und 17.7.",
+                            "Discussion_Id": "589472",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062436",
+                                    "Author": "Eike Martin Richter",
+                                    "DateTime": "2024-04-24T16:00:40+02:00",
+                                    "Content": "Liebe Teilnehmende, unser Tutorium am 10.7. wird in einem anderen Raum stattfinden, und zwar in MAR 4.062, und unser R-Kurs am 17.7. wird ebenfalls in einem anderen Raum stattdinden, und zwar in MAR 4.064. Ich werde zu gegebener Zeit noch einmal eine Erinnerung herumschicken. Gruß, Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Kontaktbörse Arbeitsgruppenbildung",
+                    "Forum_id": "1824035",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einführung in die Statistik-Software R I",
+                            "Discussion_Id": "589157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061940",
+                                    "Author": "Paula Hannemann",
+                                    "DateTime": "2024-04-24T01:42:40+02:00",
+                                    "Content": "Hi, ich hätte eine kurze Frage. Wenn das Modul erst am 25.04 mit der Vorlesung startet, fällt dann \"Einführung in die Statistik-Software R I\" am 24.04 um 12 Uhr aus?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

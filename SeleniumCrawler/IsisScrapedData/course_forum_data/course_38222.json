@@ -1,0 +1,116 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Project Computer Vision for Remote Sensing",
+        "Course_id": "38222",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1784511",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Student Assistant Call",
+                            "Discussion_Id": "607216",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088927",
+                                    "Author": "Kai Norman Clasen",
+                                    "DateTime": "2024-07-11T14:33:49+02:00",
+                                    "Content": "Dear students, I would like to inform you about our new job offer at RSiM: https://www.jobs.tu-berlin.de/stellenausschreibungen/185072 If you are interested, feel free to apply.  Best regards, Kai",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selection of Project Topics",
+                            "Discussion_Id": "589854",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063016",
+                                    "Author": "Baris Büyüktas",
+                                    "DateTime": "2024-04-25T14:34:21+02:00",
+                                    "Content": "Dear all, As Kai mentioned in the lecture, you need to send me the names of the projects you have chosen in order of priority. Please send me an e-mail of your choices by Sunday 11.59 pm. My e-mail address: baris.bueyuektas@tu-berlin.de Best, Baris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder for the first lecture",
+                            "Discussion_Id": "586258",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057469",
+                                    "Author": "Baris Büyüktas",
+                                    "DateTime": "2024-04-16T09:14:54+02:00",
+                                    "Content": "Dear all, The first lecture of the Computer Vision for Remote Sensing course will be today at 12:00. The lecture will take place at EN 148. Please do not hesitate to contact me in case of any further information/questions. Best, Baris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Lecture and Code Challenge",
+                            "Discussion_Id": "585335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056119",
+                                    "Author": "Baris Büyüktas",
+                                    "DateTime": "2024-04-10T17:09:19+02:00",
+                                    "Content": "Dear all, The first lecture of the Project Computer Vision for Remote Sensing will be held on April 16, 12:00 at EN 148. The students who are allowed to participate the course will be determined based on the code challenge. The code challenge is available on ISIS. Please download the zip file and read the instructions in the jupyter notebook. Please do not hesitate to contact me in case of any further questions via email: baris.bueyuektas@tu-berlin.de Best, Baris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Code Challenge Questions",
+                    "Forum_id": "1784513",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Import torchvision library",
+                            "Discussion_Id": "587183",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058772",
+                                    "Author": "Yeqiao Xu",
+                                    "DateTime": "2024-04-18T09:27:50+02:00",
+                                    "Content": "Dear CV4RS team, I noticed that in the given example you imported the ResNet18 model from torchvision.models instead of directly importing the torchvision library. Can I import torchvision? Because I need to use the transforms and models package of torchvision. Looking forward to your reply.  Best regards, Yeqiao Xu",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058790",
+                                    "Author": "Kai Norman Clasen",
+                                    "DateTime": "2024-04-18T09:46:20+02:00",
+                                    "Content": "Hey,  Sorry for the confusion. Yes, you are allowed to use the `torchvision` package.  Best regards,  Kai",
+                                    "Response to": "p1058772"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anomaly definition",
+                            "Discussion_Id": "585573",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056452",
+                                    "Author": "Alina Kosareva",
+                                    "DateTime": "2024-04-12T10:29:31+02:00",
+                                    "Content": "In the Jupyter notebook there is the following quote: \" Use your trained model to detect anomalies in the models’ prediction of the annotated to_be_verified sub-folder, where we define an anomaly as a sample whose predicted label confidence value. \"  Is it a typo? How should we understand this phrase?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056541",
+                                    "Author": "Baris Büyüktas",
+                                    "DateTime": "2024-04-12T15:19:23+02:00",
+                                    "Content": "Dear Alina,  We updated the sentence:  Use your trained model to detect anomalies in the models’ prediction of the annotated to_be_verified sub-folder. The anomalies can be detected based on the predicted label confidence value.  We also updated the code challenge accordingly.  Best, Baris",
+                                    "Response to": "p1056452"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

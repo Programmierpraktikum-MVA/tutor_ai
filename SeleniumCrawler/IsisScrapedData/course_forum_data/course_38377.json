@@ -1,0 +1,291 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Sonic Interaction Design (Helberger, Lepa)",
+        "Course_id": "38377",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1789257",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Neuer Mac kann bei Marc Voigt abgeholt werden",
+                            "Discussion_Id": "603170",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083176",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-06-24T17:20:21+02:00",
+                                    "Content": "Ihr könnt den neuen Mac fürs Media Lab bei Marc abholen. Bitte sprecht euch untereinander ab wer das tut. Marc ist normalerweise zwischen 10 und 16 Uhr im Haus - also am besten direkt morgen früh. Falls er nicht da sein sollte kann bestimmt jemand anderes (Kirill, Stefan, Fares) aufschließen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "!! Wichtig !! Timing am Donnerstag",
+                            "Discussion_Id": "603169",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083175",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-06-24T17:18:15+02:00",
+                                    "Content": "Hallo liebe Sonic Interaction Designer, Alvaro kann nur bis 15:30 Uhr. Daher wird er schon um 14:00 Uhr im Seminar-Raum sein und auf die Konzeptgruppe treffen. Danach kommt er runter ins media lab (ca. 14:30 Uhr) wahrscheinlich.  Daher folgender Vorschlag / Bitte: Konzeptgruppe bitte schon 13:30 Uhr zu Steffen Lepa ins Büro kommen. Der Designgruppe kann ich anbieten irgendwann zwischen 10 und 12 mal im Media Lab vorbei zu kommen falls nötig. Sagt mir Bescheid. Liebe Grüße Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Binaural-Kopfhörer für Prototyp",
+                            "Discussion_Id": "598160",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075867",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-05-31T15:24:10+02:00",
+                                    "Content": "Hallo liebes Sonic Interaction Design Team, wir haben erfahren, dass es kurzfristig keine befriedigende Lösung für die binaurale Wiedergabe durch die Speaker im Sitz geben wird. Daher schlagen wir vor, dass ihr konzeptionell trotzdem dabei bleibt, wir aber für den Prototypen spezielle Kopfhörer mit Tracking-device nutzen. Das Gute daran ist, dass es vorgefertigte Lösungen (Plugins + Tools) dafür gibt. Für das Technik-Team hier schonmal eine Übersicht von Fabian Brinkmann:  \"der Sparta-Binauraliser ist sehr gut für einfache HRTF basierte binauralsynthese: https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#binauraliser  und funktioniert out-of-the-box mit dem vorhandenen Supperware headtracker: https://supperware.co.uk/  Der ist auch relativ frei und einfach konfigurierbar und das Signal kann man sicherlich auch in Max abgreifen.  Alternativ gibt es Max4Live patches, die ich aber selber noch nicht probiert habe und auf den ersten Blick nach Lautsprecherbasiertem Ambisonics aussehen: https://www.ableton.com/de/blog/free-tools-live-unlock-3d-spatial-audio-vr-ar/  Einschlägiger wäre vermutlich SPAT, wofür wir glaube ich im Studio eine Lizenz haben: https://www.ableton.com/de/blog/spatial-awareness-a-closer-look-at-the-spat-devices-bundle/  Die IEM PlugIns können Ambisonics2Binaural - die habe ich bis jetzt nur in Reaper benutzt. Der workflow wäre vermutlich aus einem Mono-Signal eine Ambi-Quelle zu erzeugen und sie dann binaural zu rendern (das geht ähnlich auch mit anderen SPARTA PlugIns): https://plugins.iem.at/docs/plugindescriptions/#stereoencoder https://plugins.iem.at/docs/plugindescriptions/#binauraldecoder \" Ihr könnt es euch mal anschauen und dann richten wir das am Dienstag Nachmittag ab 15:00 Uhr (bzw. 16 im Media Lab) ein.  Liebe Grüße Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ICON Typ.1 MaxMSP-Patch",
+                            "Discussion_Id": "596530",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073362",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-05-24T13:36:10+02:00",
+                                    "Content": "Hier ist wie versprochen der MaxMSP-Patch von Icon Incar",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074858",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-05-28T17:43:51+02:00",
+                                    "Content": "Und hier noch das passende ReadMe dazu",
+                                    "Response to": "p1073362"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gemeinsamer Cloud-Speicher für eure Zusammenarbeit",
+                            "Discussion_Id": "595038",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071067",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-05-16T18:16:06+02:00",
+                                    "Content": "Unter folgendem Link findet ihr einen gemeinsamen Cloud-Speicher.  https://hidrive.ionos.com/share/v7milncd.e   - Das Passwort ist: SID_2024 Ich habe versucht eine sinnvolle Ordner-Struktur für euch anzulegen.  REGELN: 1. Bitte immer Dateien mit Datum am Anfang im Format yymmdd_Filename.xyz  Beispiel: 240516_SID_SS24_Timetable_v02.pdf - und...  2. Keine Leerzeichen - nutzt _Unter-oder-Bindestriche_ - sonst kriegt ihr furchtbar kryptische Dateinamen beim Download 3. Dateien heißen nie \"final\" STRUKTUR: 01 Masterfiles - hier sind nur Ergebnisse. Also nur die Dokumente (pdf, PowerPoint etc.) die am Ende präsentiert und / oder abgegeben werden. 02 Input extern - Hier kommen Daten rein die von uns oder den Projektpaten geschickt werden. Das könnten Patches, Präsentationen, Slides etc. sein. 03 Dokumentationsmaterial - Dokumentiert euren Prozess mit kleinen Videos, Aufnahmen, Fotos etc. Das hilft euch in der Abschlusspräsentation und auch um später das Projekt zu vermitteln Gruppen-Ordner: Versteht sich hoffentlich von selbst. Bei Fragen einfach Fragen. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teamaufteilung",
+                            "Discussion_Id": "595014",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071032",
+                                    "Author": "Steffen Lepa",
+                                    "DateTime": "2024-05-16T17:20:10+02:00",
+                                    "Content": "Anbei die Teamaufteilung",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MIRO Board Link",
+                            "Discussion_Id": "594991",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070994",
+                                    "Author": "Johannes Helberger",
+                                    "DateTime": "2024-05-16T15:53:47+02:00",
+                                    "Content": "https://miro.com/app/board/uXjVKGi3b5w=/?share_link_id=495463169592",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Prüfungsanmeldung",
+                            "Discussion_Id": "594309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069950",
+                                    "Author": "Steffen Lepa",
+                                    "DateTime": "2024-05-14T12:20:48+02:00",
+                                    "Content": "Liebe SeminarteilnehmerInnen, bitte denken Sie daran, dass Sie sich bis zum 15. Mai verbindlich bei Moses zur Prüfung anmelden müssen, wenn Sie Prüfungsleistungen im Kontext des Seminares in diesem Semester angerechnet bekommen wollen. Das gilt inzwischen auch für die freie Wahl. Entscheiden Sie bitte also anhand der Einführungsfolien der Veranstaltung, welches Anrechnungsmodell für Sie am besten ist und melden sich (soweit noch nicht geschehen) bei Moses jetzt verbindlich an. MFG, Steffen Lepa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Hausaufgabenuploads unbenotet",
+                    "Forum_id": "1789260",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Testperson recruitment leaflet for SENSAFE evaluation",
+                            "Discussion_Id": "605544",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086568",
+                                    "Author": "Aleksandra Klushina",
+                                    "DateTime": "2024-07-04T14:19:10+02:00",
+                                    "Content": "Testperson recruitment leaflet for SENSAFE evaluation",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sonic Interaction Design Erster Konzept Entwurf",
+                            "Discussion_Id": "599436",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077709",
+                                    "Author": "Basile Joseph Henkes",
+                                    "DateTime": "2024-06-06T14:33:47+02:00",
+                                    "Content": "Sonic Interaction Design Erster Konzept Entwurf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "persi",
+                            "Discussion_Id": "597973",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075592",
+                                    "Author": "Basile Joseph Henkes",
+                                    "DateTime": "2024-05-30T16:59:13+02:00",
+                                    "Content": "hallo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation-Grobkonzept Gruppe 1 Klushina, Akdag, Ackva, Klinke",
+                            "Discussion_Id": "594948",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070927",
+                                    "Author": "Fabian Sebastian Klinke",
+                                    "DateTime": "2024-05-16T14:03:43+02:00",
+                                    "Content": "anbei unsere Präsentation",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Grobkonzept Gruppe 3",
+                            "Discussion_Id": "594936",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070913",
+                                    "Author": "Raphael Paul Schwanbeck",
+                                    "DateTime": "2024-05-16T13:43:01+02:00",
+                                    "Content": "SID_Präsentation_Grobkonzept_Gruppe_3_Bas_Oscar_Xiao_Zerui_Raphael",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Grobkonzept \"EnviroSonic\" - Gruppe 2",
+                            "Discussion_Id": "594920",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070894",
+                                    "Author": "Samuel Walter Braun",
+                                    "DateTime": "2024-05-16T13:06:25+02:00",
+                                    "Content": "Im Anhang die PowerPoint-Präsentation.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Gruppe 03_Recherche_von_Best-Practice-Bas-Oscar-Xiao-Zerui-Raphael",
+                            "Discussion_Id": "592224",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066626",
+                                    "Author": "Zerui Quan",
+                                    "DateTime": "2024-05-03T20:52:40+02:00",
+                                    "Content": "Präsentation Gruppe 03_Recherche_von_Best-Practice-Bas-Oscar-Xiao-Zerui-Raphael",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Gruppe 2 - Sam Braun, David Paulß, Vladimir Salazar und Lina Campanella -",
+                            "Discussion_Id": "591755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065887",
+                                    "Author": "Lina Clarice Campanella",
+                                    "DateTime": "2024-05-02T14:22:19+02:00",
+                                    "Content": "Präsentation der Gruppe 2 über Perception, Cognition and Action in Auditory Displays",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Gruppe 01 - Klushina, Akdag, Klinke, Ackva",
+                            "Discussion_Id": "591746",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065875",
+                                    "Author": "Fabian Sebastian Klinke",
+                                    "DateTime": "2024-05-02T14:10:40+02:00",
+                                    "Content": "Anbei unsere Präsentation :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Upload Feinkonzept final",
+                    "Forum_id": "1789261",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": " SENSAFE Feinkonzept 2.0",
+                            "Discussion_Id": "602332",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081908",
+                                    "Author": "Basile Joseph Henkes",
+                                    "DateTime": "2024-06-20T11:27:27+02:00",
+                                    "Content": " SENSAFE Feinkonzept 2.0",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SENSAFE Feinkonzept",
+                            "Discussion_Id": "600733",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079633",
+                                    "Author": "Aleksandra Klushina",
+                                    "DateTime": "2024-06-12T23:08:21+02:00",
+                                    "Content": "Anbei das Feinkonzept unseres Projekts SENSAFE: eine Software für audio-haptische Autositze für Fahrer, die eine Verbesserung der Verkehrssicherheit verschafft. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+]

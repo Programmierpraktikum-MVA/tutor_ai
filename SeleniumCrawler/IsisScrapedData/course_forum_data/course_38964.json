@@ -1,0 +1,120 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Experimentalphysik VI",
+        "Course_id": "38964",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1811264",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermine Höhere Experimentalphysik am 29.07.",
+                            "Discussion_Id": "605610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086653",
+                                    "Author": "Ralph Ernstorfer",
+                                    "DateTime": "2024-07-04T17:13:26+02:00",
+                                    "Content": "Liebe Studierende der Exp VI-VL, am 29.07. biete ich Prüfungstermine für das Modul MP_20524 Höhere Experimentalphysik (Exp IV, V, VI) über SAP an. Ich bitte Sie, sich nur für die Prüfung anzumelden, falls Sie diese mit hoher Wahrscheinlichkeit antreten wollen, und nicht nur einen Termin 'auf Verdacht' zu reservieren. Ende September und Anfang Oktober wird es weitere Termine geben. Viele Grüße,   Ralph Ernstorfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Further information for exercise 6 - Bonus",
+                            "Discussion_Id": "605566",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086597",
+                                    "Author": "Tommaso Pincelli",
+                                    "DateTime": "2024-07-04T15:03:56+02:00",
+                                    "Content": "Dear students, exercise 6 might require further information to be completed effectively. First of all, it requires a good ODE solver, that is capable of handling variable step sizes to handle the many different timescales involved. This can be found, for example, in the \"scipy\" codebase among the \"integrate\" functions. I have used solve_ivp: from scipy.integrate import solve_ivp solve_ivp(rate_equations_function, solution_time_interval, initial_conditions_array, args=(params), method='LSODA', atol=1e-8, rtol=1e-6) where the method and tolerances have been chosen to reduce computation time. Secondly, the solutions are meant to be studied considering the initial conditions N1(0)=0 N2(0)=0 with the pumping rate being switched on at t=0 and off after the mandated times. It can be helpful to use an interactive slider to explore the values of the pumping rates (N.B. you have to span several orders of magnitude so a logarithmic slider can be more convenient). Best regards, Tommaso",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 6 - deadline extended &amp; Lecturer change",
+                            "Discussion_Id": "605138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086005",
+                                    "Author": "Tommaso Pincelli",
+                                    "DateTime": "2024-07-02T22:47:31+02:00",
+                                    "Content": "Dear students, the deadline for the submission of exercise 6 has been extended to Friday 12th. Furthermore, I would like to remind you that I will be holding the lecture on Monday 8th in place of Prof. Ernstorfer. Best regards, Tommaso Pincelli",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsevaluierung",
+                            "Discussion_Id": "603899",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084183",
+                                    "Author": "Ralph Ernstorfer",
+                                    "DateTime": "2024-06-26T20:35:36+02:00",
+                                    "Content": "Liebe TeilnehmerInnen der Exp VI-Vorlesung, ich bitte um Teilnahme an der Evaluierung der Vorlesung bis spätestens Freitag, 28.06.2024: https://befragung.tu-berlin.de/evasys/online.php?pswd=FKA6X Vielen Dank,   Ralph Ernstorfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Useful resource for HHG and Exercise 5",
+                            "Discussion_Id": "602193",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081712",
+                                    "Author": "Tommaso Pincelli",
+                                    "DateTime": "2024-06-19T16:56:13+02:00",
+                                    "Content": "Dear students, as mentioned in the last exercise class, a useful reference for HHG (not covered in the Saleh, Teich, Fundamentals of Photonics) are the lecture notes by Thierry Ruchon of the CEA-LIDYL Saclay, which you can find at this link: Lecture Ruchon. ATTENTION: These notes are written with a very didactic structure to introduce newcomers to the topic, but cover HHG and attosecond physics in much more detail than what has been done in class. In the oral examination, you will only be asked about what the professor has discussed in his slides. If you use formulas and expressions from this, do so with EXTREME CAUTION, as they are in atomic units where many constants are set to 1.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Typo in Worksheet 4 - Bonus assignment",
+                            "Discussion_Id": "600319",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079019",
+                                    "Author": "Tommaso Pincelli",
+                                    "DateTime": "2024-06-11T14:26:11+02:00",
+                                    "Content": "Dear students, I have been notified that there is a mistake in the Bonus exercise where a reference is made to A3.2, when what I meant is (rather obviously) A3.3. I apologize for the possible confusion. Best regards, Tommaso",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Worksheet 1 Graded",
+                            "Discussion_Id": "595146",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071252",
+                                    "Author": "Tommaso Pincelli",
+                                    "DateTime": "2024-05-17T12:36:45+02:00",
+                                    "Content": "Dear students, worksheet 1 is now graded and the solutions are uploaded. Best regards, Tommaso",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Typo in Worksheet 1 - Assignment 2 d",
+                            "Discussion_Id": "589903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063090",
+                                    "Author": "Tommaso Pincelli",
+                                    "DateTime": "2024-04-25T16:11:02+02:00",
+                                    "Content": "Dear students, something went wrong in the conversion to .pdf of the file: in exercise A2d the correct data are: f1= - 0.75 f2= 0.75 d = 0.75 I realize now that someone asked this in the lecture, but somehow I thought you were perplexed by the fact that the absolute value was the same, not the sign. I apologize for the inconvenience, Tommaso Pincelli --------------------- Liebe Studierende,  bei der Konvertierung der Datei in .pdf ist etwas schief gelaufen: in Übung A2d lauten die richtigen Daten:  f1= - 0.75 m  f2= 0.75 m  d = 0.75 m  Mir ist jetzt klar, dass jemand in der Vorlesung danach gefragt hat, aber irgendwie dachte ich, dass Sie durch die Tatsache verwirrt waren, dass der absolute Wert derselbe ist, nicht das Vorzeichen.  Ich entschuldige mich für die Unannehmlichkeiten,  Tommaso Pincelli",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

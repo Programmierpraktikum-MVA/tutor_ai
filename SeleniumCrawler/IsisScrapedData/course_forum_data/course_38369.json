@@ -1,0 +1,159 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Wind Turbine Measurement Techniques",
+        "Course_id": "38369",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1789063",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lecture 12 - Writers Workshop",
+                            "Discussion_Id": "605184",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086065",
+                                    "Author": "Sascha Krumbein",
+                                    "DateTime": "2024-07-03T10:09:42+02:00",
+                                    "Content": "Hi everyone, don't forget to upload your paper excerpts by the end of today. See you tomorrow, Sascha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 11 - Online!",
+                            "Discussion_Id": "603772",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084006",
+                                    "Author": "Sascha Krumbein",
+                                    "DateTime": "2024-06-26T13:44:18+02:00",
+                                    "Content": "Hi guys, unfortunately, I've been sick for a few days and haven't fully recovered yet.  Tomorrows consultation/lecture, lecture 11, will therefore be online, at 2 pm. You can enter the meeting room using the following link:  As you know, part of tomorrows lecture will be a consultation. Also the last 90 minutes are free working time for the research teams to work on their writing plan/paper excerpt/full paper. So prepare your questions and your writing plan, according to the weekly task of lecture 10. Best and see you tomorrow, Sascha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Afterwork Announcment",
+                            "Discussion_Id": "600685",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079561",
+                                    "Author": "Sascha Krumbein",
+                                    "DateTime": "2024-06-12T18:09:29+02:00",
+                                    "Content": "Hi Guys, first things first: Please send me your pool allocation key for the expert group presentations as described in the weekly task. Then: Thank you very much for conducting the measurement campaign! It was a blast. The test stands are neatly packed away and all traces of you working here vanished. Or did they...?  Also: The high-quality data you aquired proves that you've been very successful. So: Enjoy your Thursday afternoon off as there won't be a lecture. We see each other on 2024/06/20, at 2pm. No preparation on your side needed. All the best, Immanuel & Sascha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3D printing capabilities at TU Berlin",
+                            "Discussion_Id": "598649",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076594",
+                                    "Author": "Sascha Krumbein",
+                                    "DateTime": "2024-06-03T17:26:39+02:00",
+                                    "Content": "Hi guys, if you would like to, e.g., 3D print extensions to our setup, you should check out the maker space of the TU Berlin: https://www.tu.berlin/architektur/fachgebiete-einrichtungen/werkstaetten/ifa-fablab I haven't used it in my student times, so I can't really tell you how it works. But just check their website and reach out to the contact person. Best, Sascha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 6 - 23.05.24: Sensors, measurement techniques, post processing",
+                            "Discussion_Id": "596308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073030",
+                                    "Author": "Immanuel Dorn",
+                                    "DateTime": "2024-05-23T13:55:42+02:00",
+                                    "Content": "Today at \"Alte Bibliothek\" in HF-Building, 2nd Floor.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Measurement Campaigns",
+                            "Discussion_Id": "595144",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071244",
+                                    "Author": "Sascha Krumbein",
+                                    "DateTime": "2024-05-17T12:25:11+02:00",
+                                    "Content": "Hi all, if you would like to do minor changes to the test stand setups described in the manuals, keep the regulations in mind: Secure for equipment and machines: Prove and convince us that the adaptation poses no additional risk to either people or machines Non-destructive: No drilling or cutting into the test stand set up. Adaptation needs to be fully additive Fully-reversible: After the adaptation, the test stand must be completely returned to its original state If you require tools and hardware, please develop a list and talk to us as early in the process of planning the measurement campaign as possible. Depending on the requests, we might have to check for ourselves if our workshop is sufficiently equipped.  All the best and enjoy the upcoming weekend in Berlin! Immanuel & Sascha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration",
+                            "Discussion_Id": "594702",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070564",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-15T15:47:58+02:00",
+                                    "Content": "Dear all, please register the exam until Mai 31 (as far as it concerns you) : #50746 Messtechnik für Windkraftanlagen Thanks and kind regards, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 4: Recorded Input and lecture material is online",
+                            "Discussion_Id": "593834",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069165",
+                                    "Author": "Immanuel Dorn",
+                                    "DateTime": "2024-05-12T16:26:23+02:00",
+                                    "Content": "Dear students, kindly find the lecture material of the 4th lecture: \"Electromagnetic forces on the generator\" on ISIS. Input Weekly Task Generator calculation excercise The recorded input can be found under this Nextcloud download link: https://nextcloud05.webo.cloud/s/2EQDtkX8bCEETzM With the following password: WTMT_SuSe_2024 If you have questions regarding the input please collect them for next lecture. See you all on Thursday, May, 16th at 2pm in the Gallery in HF-Building. Best regards Immanuel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Research Question and limitations regarding adaptation of test stand set up",
+                            "Discussion_Id": "592775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067534",
+                                    "Author": "Immanuel Dorn",
+                                    "DateTime": "2024-05-07T01:48:26+02:00",
+                                    "Content": "Dear students, regarding the possible adaptation of the test stand set up for your research question. Please bare the following limitations in mind: Adaptation needs to be: secure for equipment and machines: Prove and convince us that the adaptation poses no additional risk to either people or machines. non destructive: No drilling or cutting into the test stand set up. Adaptation needs to be fully additive. fully reversible: After the adaptation, the test stand must be completely returned to its original state. Time: each Research Team has a maximum of 2 time slots of 3h length per test stand (2x 3h Rotor in wind tunnel, 2x 3h Generator) Please consider the adaptation and time limitations to continue your research question finding process.  With best regards Immanuel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 3: Input, weekly task, aerodynamic exercise uploaded",
+                            "Discussion_Id": "592232",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066644",
+                                    "Author": "Immanuel Dorn",
+                                    "DateTime": "2024-05-03T22:59:21+02:00",
+                                    "Content": "Dear students, the updated input, weekly task and aerodynamic exercise of lecture 3 are uploaded on ISIS. Further announcements regarding the rotor test stand setup adjustment will be send on Monday the 6th of may. Next lecture nr. 4 is on a public holiday and will therefore not take place. As replacement a recording of the input and the explanation of the weekly task will be uploaded till thursday, 9th of may. An announcement via ISIS will be made. Lecture nr. 5 will be approx. 1h longer then usual to clearify questions of the recorded lecture. Enjoy the weekly task(-; Best regards Immanuel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 01: Onboarding and action items",
+                            "Discussion_Id": "587484",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059250",
+                                    "Author": "Sascha Krumbein",
+                                    "DateTime": "2024-04-18T19:40:45+02:00",
+                                    "Content": "Hello everyone, thanks for attending the course today. We hope you are just as thrilled as we are to get started on conducting measurement campaigns on model wind turbines About the action items that emerged from today's session: Contact details and door code The door code to get into the HFI building is 1609#. If you're having troubles finding the room, just give me a call at +493031477609. It will be redirected to my phone. Uploaded weekly task: You can find your weekly task here: \"Task_Lecture 1.pdf\" Expert Group preferences: We discussed whether you shall select your expert group preferences on ISIS. I decided that this won't be necessary. Just decide on a first and second preference and write it down for yourself. See you next week, at 2pm at the \"Alte Bibliothek\"! P.S. Everybody who wasn't there today, feel free to pop-by next week! You haven't missed much, yet.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

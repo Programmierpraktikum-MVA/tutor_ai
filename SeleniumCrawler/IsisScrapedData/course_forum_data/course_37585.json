@@ -1,0 +1,146 @@
+[
+    {
+        "Course_Name": "Signals and Systems for Process Engineering",
+        "Course_id": "37585",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1763719",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Test 4",
+                            "Discussion_Id": "607084",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088752",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-07-11T09:44:20+02:00",
+                                    "Content": "Dear Students,  I would like to remind you that your final test will take place on Tuesday 16th July at 10:15 in ER201. The test is a written examination of the material in block 4 (Chapters 13-16). In particular, I recommend looking at exercises 13.4, 16.6, and 16.8 from the script.  Kind Regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test 3 - Appointment booking ",
+                            "Discussion_Id": "600314",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079013",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-06-11T14:18:51+02:00",
+                                    "Content": "Dear Students,  The third test (T3) for Signals and Systems is next week on 18.06 starting from 8:00 in ER-201. The test is an oral examination of the first block of material (Chapters 9-12 in the script). In particular, I recommend looking at exercises 9.1, 9.3, 9.8, 12.1, and 12.2 from the script.  You can select a time slot for your oral examination: https://isis.tu-berlin.de/mod/choice/view.php?id=1767255 Please note that you can check your grades in the grades section on the course ISIS page.  Kind Regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Class delayed today",
+                            "Discussion_Id": "600198",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078848",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-06-11T10:00:18+02:00",
+                                    "Content": "Dear students,  Unfortunately, I am unable to make it to class on time today due to a problem with the trains.  Please begin the concept questions and we can extend class after I make it to uni.  Kind regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Forgotten umbrella",
+                            "Discussion_Id": "597872",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075448",
+                                    "Author": "Nils Magnus David Axelson-Fisk",
+                                    "DateTime": "2024-05-30T12:09:03+02:00",
+                                    "Content": "Dear students, after Tuesday's exam, an umbrella was left in the classroom. You can pick this umbrella up in my office (ER 107). Best, Magnus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test 2",
+                            "Discussion_Id": "597123",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074346",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-05-27T17:59:10+02:00",
+                                    "Content": "Dear Students,  I would like to remind you that the test for the block 2 content on analog filter design will take place tomorrow (28.05) at 10:15 in ER-201.  The regular class will then commence at 12:15 where we will begin with the block 3 content.  See you tomorrow.  Kind Regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sallen-Key filter design",
+                            "Discussion_Id": "595903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072461",
+                                    "Author": "Nils Magnus David Axelson-Fisk",
+                                    "DateTime": "2024-05-22T10:34:39+02:00",
+                                    "Content": "Hi everyone, if you'd like to learn more about designing analog filters I've gathered the following links for you: Sallen-Key White paper Sallen-Key filter design tool LT Spice electric circuit simulation software In LT Spice you can design your filters (and other electrical circuits) using either ideal or non-ideal components and simulate the output for different inputs. It is even possible to use .vaw-files as input to simulate the output with music or sound as input. Best, Magnus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test 2 - Formula Sheet",
+                            "Discussion_Id": "594447",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070147",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-05-14T17:26:52+02:00",
+                                    "Content": "Dear Students,  You can find the formula sheet for Test 2 in the Block 2 section of the course material.  Please note that class will take place in ER 201 next week from 10:15-11:45 with Magnus. I highly recommend that you attend this class to ensure you fully understand filter realization as it will be assessed in Test 2.  Kind Regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Registration via MOSES",
+                            "Discussion_Id": "592200",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066592",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-05-03T19:03:08+02:00",
+                                    "Content": "Dear Students,  For those of you sitting the exam on Tuesday, please remember to also register for the course examinations on MOSES.  Kind Regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test 1 appointment booking",
+                            "Discussion_Id": "591757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065889",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-05-02T14:24:24+02:00",
+                                    "Content": "Dear Students,  The first test (T1) for Signals and Systems is next week on 07.05 starting from 8:00 in ER-201. The test is an oral examination of the first block of material (up to and including Chapter 5 in the script).  Please select a time slot for your oral examination: https://isis.tu-berlin.de/mod/choice/view.php?id=1766994 Kind Regards,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration",
+                            "Discussion_Id": "589455",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062409",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-04-24T15:44:27+02:00",
+                                    "Content": "Dear SigSys enthusiasts,  The exam registration is now available on MOSES.  Please let me know if you have any problems with registering.  Kind Regards,  Roxy  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

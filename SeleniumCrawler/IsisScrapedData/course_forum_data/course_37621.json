@@ -1,0 +1,555 @@
+[
+    {
+        "Course_Name": "[SoSe24] Einführung in die Informationstechnik für Ingenieurwissenschaften: Python",
+        "Course_id": "37621",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766378",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation",
+                            "Discussion_Id": "605554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086582",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-07-04T14:41:21+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, unter folgendem Link koennen Sie den Kurs bewerten:  https://befragung.tu-berlin.de/evasys/online.php?pswd=P6QFE Gruss, Michael Karow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeitraumauswahl für den Ersttermin!",
+                            "Discussion_Id": "605377",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086327",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-07-03T21:28:48+02:00",
+                                    "Content": "Liebe Studies,  da unsere Idee der zufälligen Einteilung nicht aufgeht, würden wir euch bitten euch für einen Zeitraum beim ersten Prüfungstermin am 19.07 einzutragen. Dabei bestehen die Zeiträume von 10 bis 12 Uhr und von 12 bis 14 Uhr.  Sofern es euch möglich ist den zweiten Termin zu belegen, dann würden wir uns sehr freuen, wenn ihr diesen auch nehmen würdet, da einige Studierende am gleichen Tag noch die Mechanik II Klausur schreiben. Wir versuchen für alle Studierende den möglichst idealen Termin zu ermöglichen.  Herzliche Grüße, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung für die Klausur ist möglich!",
+                            "Discussion_Id": "603926",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084226",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-27T08:06:03+02:00",
+                                    "Content": "Liebe Studierende, ihr könnt euch ab sofort für die Prüfungen über die Plattform Moses anmelden.  Das Modul lautet: #20322 Einführung in die Informationstechnik für Ingenieurwissenschaften (Fak. II) Der erste Termin findet am 19.07 statt und man kann sich bis zum 15.07 anmelden. Der zweite Termin findet am 07.10 statt und man kann sich bis zum 04.10 anmelden. Herzliche Grüße, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurrelevanter Inhalt für Numpy nur im Tut Video",
+                            "Discussion_Id": "603834",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084098",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-26T16:41:27+02:00",
+                                    "Content": "Liebe Studierende,  ich möchte euch darauf hinweisen, dass die ersten 2 min. des Tutoriumvideos klausurrelevant sind. Diese Thematik wurde in der Vorlesung vergessen. Herzliche Grüße, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsenzsprechstunden ab sofort online",
+                            "Discussion_Id": "602289",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081852",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-06-20T09:53:01+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der geringen Nachfrage haben wir uns dazu entschieden die Präsenz-Sprechstunde in eine Online-Sprechstunde umzuwandeln. Den Zoom-Link findet ihr im ISIS-Kurs (es ist der gleiche wie für die Freitags-Sprechstunde). Viele Grüße Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsenzsprechstunde heute online ",
+                            "Discussion_Id": "600793",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079720",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-06-13T10:10:20+02:00",
+                                    "Content": "Liebe Studierende, Die Präsenzsprechstunde findet heute online per Zoom statt. Der Link ist der gleiche wie für die Tutorien und die Sprechstunde. Viele Grüße  Matthias ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Präsenzsprechstunde am 16.05",
+                            "Discussion_Id": "594495",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070217",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-05-14T22:27:19+02:00",
+                                    "Content": "Liebe Studierende, leider muss die Präsenzsprechstunde am Donnerstag (16.05) aufgrund von Terminüberschneidungen ausfallen. In der nächsten Woche findet die Präsenzsprechstunde wie gewohnt statt. Viele Grüße Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsenzsprechstunde",
+                            "Discussion_Id": "591507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065527",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-05-01T21:21:22+02:00",
+                                    "Content": "Liebe Studierende,  wie in der Einführungsveranstaltung angesprochen, werden wir euch ab sofort donnerstags eine Präsenzsprechstunde von 10:30 bis 11:30 anbieten. Die Präsenzsprechstunde findet in unserem Tutorenraum im Mathegebäude statt (MA 375, drittes Geschoss, Westseite).  Viele Grüße  Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurtermine",
+                            "Discussion_Id": "591467",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065453",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-05-01T15:43:48+02:00",
+                                    "Content": "Liebe Studierende,  unsere Klausurtermine stehen fest. Die Klausur kann in diesem Semester an einem der zwei folgenden Termine geschrieben werden. Wie schon in der Einführungsveranstaltung erwähnt, habt Ihr etwa 90 Minuten Zeit um die Klausur, die sich aus einem Theorie- und einem Praxisteil zusammensetzt, zu bearbeiten.  Ersttermin: 19.07 (Freitag) im Zeitraum von 10-14 Uhr: Aufgrund der hohen Teilnehmendenzahl im Kurs werden wir Euch beim Ersttermin in zwei Durchgänge aufteilen. Zweittermin: 07.10 (Montag) im Zeitraum von 13-15 Uhr. Die Anmeldung zur Klausur wird erst in einigen Wochen freigeschalten.  Viele Grüße Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen kein synchrones TUT",
+                            "Discussion_Id": "591326",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065226",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-04-30T17:00:12+02:00",
+                                    "Content": "Liebe Studies,  aufgrund des Feiertages ist es mir untersagt ein Tutorium zu halt.  Ich werde euch das Video aus dem letzten Semester hochladen.  Ihr könnt uns dennoch gerne anschreiben. Herzliche Grüße, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Upload",
+                            "Discussion_Id": "589640",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062694",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-04-25T08:07:42+02:00",
+                                    "Content": "Liebe Studies, bei der Aufnahme des Tutoriums sind einige Teile nicht aufgezeichnet worden. Deswegen werde ich euch das Tutorium aus dem letzen Semester freischalten.  Herzliche Grüße, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwahl",
+                            "Discussion_Id": "588020",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060086",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-04-20T20:30:56+02:00",
+                                    "Content": "Liebe Studies, bitte findet euch bis zum Samstag dem 27.04 bis 23:59 Uhr in \"Gruppenwahl\" zu Gruppen zusammen.  Zur Gruppenfindung könnt ihr das Forum oder den Discord Sever nutzen.  Bei Fragen oder Problemen könnt ihr euch gerne bei uns melden. Herzliche Grüße, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme am Kurs",
+                            "Discussion_Id": "588013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060075",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-04-20T20:05:32+02:00",
+                                    "Content": "Liebe Studies, ab sofort findet ihr eure Teilnahmebestätigung oben auf der ISIS-Seite. Für angenommene Studies steht dort \"Teilnehmer*in\". Für andere Fälle stehen die jeweiligen Begriffe ebenfalls ganz oben. Wir haben uns dieses Semester dazu entschieden alle registrierten Teilnehmer aufzunehmen. Wir hoffen auf eine schöne und interaktive Kommunikation :) Ebenfalls könnt ihr unserem Discord-Server beitreten. Bitte akzeptiert dort die Richtlinien und dann habt ihr vollen zugriff. Der Server ist ein optionales Angebot unsererseits und dient der schnelleren und übersichtlicheren Kommunikation. Man benötigt nur eine Account mit Emailadresse und Passwort.  Wir freuen uns auf euch! Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung 17.4, 16:15 Uhr",
+                            "Discussion_Id": "585667",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056585",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-04-12T17:35:50+02:00",
+                                    "Content": "Liebe Studierende, noch einmal herzlich Willkommen zum Kurs \"Einführung in die Informationstechnik in den Ingenieurwissenschaften: Python\"! Am Mittwoch, den 17.4, findet unsere Einführungsveranstaltung um 16:15 Uhr online über Zoom statt. Den Link zum Meeting findet ihr auf der ISIS-Seite. Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1766379",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hilfmittel in der Klausur",
+                            "Discussion_Id": "607669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089620",
+                                    "Author": "Hao Xiang Max Ye",
+                                    "DateTime": "2024-07-14T00:19:03+02:00",
+                                    "Content": "Welche Hilfsmittel sind für die Klausur zugelassen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "klausurvorbereitung",
+                            "Discussion_Id": "607156",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088842",
+                                    "Author": "Chahine Delli",
+                                    "DateTime": "2024-07-11T12:02:13+02:00",
+                                    "Content": "hallo, können Sie uns die losungen von die klausurvorbereitung schicken danke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089218",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-07-12T10:31:48+02:00",
+                                    "Content": "Hallo Chahine,  welche Lösung meinst du genau? Im Video habe ich nur ein paar wichtige Themen noch mal angesprochen und veranschaulicht. Für die Probeklausur habt ihr alles was ihr benötigt. Die Übungsaufgaben dienen als Möglichkeit für euch, das schreiben von Code zu üben.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1088842"
+                                },
+                                {
+                                    "Message_id": "p1089277",
+                                    "Author": "Chahine Delli",
+                                    "DateTime": "2024-07-12T11:52:05+02:00",
+                                    "Content": "hallo sebastian ich wollte sagen das ich die losung von ubung 11 brauche bitte. hezliche Grüße",
+                                    "Response to": "p1089218"
+                                },
+                                {
+                                    "Message_id": "p1089598",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-07-13T19:17:58+02:00",
+                                    "Content": "Hallo Chahine, Für die Übungsaufgaben im Bereich der Klausur-Vorbereitung haben wir nur für die Probeklausur Musterlösungen. Die Übungsaufgaben sind für euch zur Übung angedacht und bei Fragen könnt ihr diese in der Sprechstunde, per E-Mail oder Per Discord stellen.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1089277"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zur zweiten Prüfung",
+                            "Discussion_Id": "607166",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088857",
+                                    "Author": "Xinyu Liu",
+                                    "DateTime": "2024-07-11T12:38:15+02:00",
+                                    "Content": "Hallo,  ich möchte fragen: Kann ich die zweite Prüfung im September ablegen, wenn ich die Prüfung am 19. Juli nicht bestehe? Oder kann ich mich, wenn ich dieses Mal nicht bestehe, erst im nächsten Semester wieder für die Prüfung anmelden? Vg",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089221",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-07-12T10:32:52+02:00",
+                                    "Content": "Hallo Xinyu Liu,  falls du die Klausur am ersten Termin nicht bestehen solltest, dann kannst du sie auch im Oktober wiederholen.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1088857"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur",
+                            "Discussion_Id": "604298",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084754",
+                                    "Author": "Johann Hagendorf",
+                                    "DateTime": "2024-06-28T14:39:34+02:00",
+                                    "Content": "Hallo, ich wollte einmal nachfragen, ob in dem Kurs eine Probe-/Altklausur hochgeladen wird. Mit freundlichen Grüßen Johann",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084798",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-28T17:26:36+02:00",
+                                    "Content": "Hallo Johann,  ja es wird eine Altklausur aus dem letzen Semester geben und Übungsaufgaben. Diese werden in der Vorbereitungswoche, ggf. auch schon früher hochgeladen.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1084754"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Uhrzeit 1. Testtermin",
+                            "Discussion_Id": "603979",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084295",
+                                    "Author": "Dorian Küchler",
+                                    "DateTime": "2024-06-27T11:21:01+02:00",
+                                    "Content": "Hallo, steht schon eine Uhrzeit für den ersten Test fest? Energiemethoden der Mechanik findet am gleichen Tag von 14-17 Uhr statt. bg ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084553",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-28T08:10:07+02:00",
+                                    "Content": "Hallo Dorian, Die Uhrzeiten für den ersten Termin betragen 10 - 12 und 12 - 14 Uhr. Genauere Informationen werden folgen.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1084295"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "602925",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082813",
+                                    "Author": "Ilja Sinowenka",
+                                    "DateTime": "2024-06-24T09:54:13+02:00",
+                                    "Content": "Hallo,  Ab wann können wir uns für die Prüfung anmelden und unter welcher Modulnummer müssen wir uns anmelden ?   Vielen Dank und viele Grüße, Ilja",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083204",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-24T17:59:03+02:00",
+                                    "Content": "Hallo Ilja, die Anmeldung wird vermutlich nächste Woche freigegeben. Wir werden euch dann über ISIS informieren.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1082813"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA08 Abgabefrist",
+                            "Discussion_Id": "601268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080409",
+                                    "Author": "Falco Mathias Frederic Selzer",
+                                    "DateTime": "2024-06-16T12:22:56+02:00",
+                                    "Content": "Hallo an das Team, ich wollte mal fragen, ob jetzt der Abgabetermin für die Nr.8 entsprechend der Aufgabenstellung der 24.6. oder entsprechend der Uploadseite der 8.7. ist? Grüße, Falco",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080972",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-17T20:54:40+02:00",
+                                    "Content": "Hallo Falco,  der Abgabetermin ist der 24.06. Wir habe das Datum für den Upload der Abgabe korrigiert.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1080409"
+                                },
+                                {
+                                    "Message_id": "p1081009",
+                                    "Author": "Falco Mathias Frederic Selzer",
+                                    "DateTime": "2024-06-17T23:11:43+02:00",
+                                    "Content": "Alles klar, vielen Dank :)",
+                                    "Response to": "p1080972"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "graph.csv",
+                            "Discussion_Id": "598962",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077034",
+                                    "Author": "Til Betker",
+                                    "DateTime": "2024-06-04T18:02:50+02:00",
+                                    "Content": "Guten Tag, seid Ihr sicher dass die Werte in der \"graph.csv\"-Datei korrekt sind ? Auf den ersten Blick entsprechen die nicht den Werten des in der Aufgabenstellung gezeigten Vergleichsplots. Oder habe ich da etwas übersehen ? Liebe Grüße Til",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077037",
+                                    "Author": "Til Betker",
+                                    "DateTime": "2024-06-04T18:13:36+02:00",
+                                    "Content": "Oder ist das einfach nur eine Veranschaulichung und unser Graph soll anders aussehen ? :)",
+                                    "Response to": "p1077034"
+                                },
+                                {
+                                    "Message_id": "p1077039",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-06-04T18:20:01+02:00",
+                                    "Content": "Hallo Til, genau, die Abbildungen in der Aufgabenstellung sind nur eine Veranschaulichung. Euer Graph sollte anders aussehen ;)  Viele Grüße Matthias",
+                                    "Response to": "p1077037"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurtrermine",
+                            "Discussion_Id": "598071",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075738",
+                                    "Author": "Jakob Spangenberg",
+                                    "DateTime": "2024-05-31T10:35:35+02:00",
+                                    "Content": "Guten Tag, ist schon absehbar, an welchen Tagen die Klausurtermine sein werden? ...oder wann wir das erfahren?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075763",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-05-31T11:29:06+02:00",
+                                    "Content": "Hallo Jakob, die Klausurtermine (19.07 & 07.10) haben wir bereits angekündigt: https://isis.tu-berlin.de/mod/forum/discuss.php?d=591467  Viele Grüße Matthias",
+                                    "Response to": "p1075738"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungen",
+                            "Discussion_Id": "596885",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073930",
+                                    "Author": "Jule Ritter",
+                                    "DateTime": "2024-05-27T10:16:27+02:00",
+                                    "Content": "Hallo, könntet Ihr bitte die VLs wie angekündigt tatsächlich montags um 10 Uhr hochladen? Ich denke ich bin nicht die einzige Person, die zeitlich daran gebunden ist und wenn die Videos viel zu spät hochgeladen werden, sprängt das häufig den gesamten Zeitplan des Tagens.  Dankeschön!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074403",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-27T20:07:04+02:00",
+                                    "Content": "Hallo Jule,  Entschuldige bitte die Verspätungen, wir werden uns sehr bemühen die Videos pünktlich bereitzustellen.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1073930"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium 15.05.24",
+                            "Discussion_Id": "594924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070898",
+                                    "Author": "Yannik Scholz",
+                                    "DateTime": "2024-05-16T13:18:14+02:00",
+                                    "Content": "Hallo zusammen, bezüglich des gestrigen Tutoriums habe ich die Frage, ob die Aufzeichnung noch hier auf ISIS hochgelanden wird. Danke und viele Grüße!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070933",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-16T14:14:43+02:00",
+                                    "Content": "Hi Yannik,  ich hatte es gestern schon hochgeladen, aber übersehen, dass es für euch noch verborgen ist. Vielen Dank für den Hinweis :)  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1070898"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Struktogramme - Musterlösung \"Edgar Escape bei Olympia\"",
+                            "Discussion_Id": "593532",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068687",
+                                    "Author": "Matthias Klose",
+                                    "DateTime": "2024-05-09T23:06:47+02:00",
+                                    "Content": "Liebe Studierende, wir haben die Musterlösung zur Übungsaufgabe \"Edgar Escape bei Olympia\" aus der ersten Woche in der Datei Übung #1: Lösung ergänzt. Viele Grüße Euer ITP-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anforderungen an Hausaufgabe 3",
+                            "Discussion_Id": "593156",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068089",
+                                    "Author": "Hendrik Sven Horstmann",
+                                    "DateTime": "2024-05-08T08:50:15+02:00",
+                                    "Content": "Hallo,  zwei Fragen zur dieswöchigen Aufgabe (3): Gibt es besondere Anforderungen wie die Lösung implementiert werden muss, oder kann ich auch logische Schlüsse aus den Notenschlüsseln ziehen und dann diese dementsprechend umsetzen? Kann/Soll ich für die Fehlermeldung Try/Except verwenden und kann ich Try/Except nutzen, um sicherzustellen dass nur Zahlen eingeben werden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068288",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-08T14:10:37+02:00",
+                                    "Content": "Hallo Hendrick,  an sich sollen die Hausaufgaben mit den Themen aus der Woche, und vorherigen Wochen gelöst werden. Falls du bereits Programmieren kannst, darfst du auch deine eigene Lösung implementieren. Das sollte aber mit der Gruppe abgesprochen werden.  Fehlermeldungen werden bei uns erst ab der 7 Woche behandelt. Bis dahin sollten Fehler per Kontrollstruktur abgefangen werden, sofern das verlangt wird. Andernfalls kann von einer fehlerfreien Verwendung des Programmes ausgegangen werden.  Herzliche Grüße, Sebastian",
+                                    "Response to": "p1068089"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "590504",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063983",
+                                    "Author": "Hao Xiang Max Ye",
+                                    "DateTime": "2024-04-28T15:25:47+02:00",
+                                    "Content": "Unter welchem Modulnamen sollen wir uns für die Prüfung anmelden?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anzahl der Bedingungen in der Mehrfachauswahl",
+                            "Discussion_Id": "590456",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063904",
+                                    "Author": "Yannik Scholz",
+                                    "DateTime": "2024-04-27T19:59:56+02:00",
+                                    "Content": "Bezüglich der Mehrfachauswahl habe ich die Frage, ob es ein Limit bezogen auf die Anzahl der Bedingungen in der Mehrfachauswahl gibt.  Vielen Dank für die Antwort! ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erstes Tutoriumsvideo",
+                            "Discussion_Id": "589630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062681",
+                                    "Author": "Levi Giacomo Domenico Perner",
+                                    "DateTime": "2024-04-25T07:07:08+02:00",
+                                    "Content": "Guten Tag, kann es sein, dass das erste Tutoriumsvideo noch nicht hochgeladen wurde?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063538",
+                                    "Author": "Konstantin Ausborn",
+                                    "DateTime": "2024-04-26T13:39:46+02:00",
+                                    "Content": "Es gibt zwei Videos zu dem Thema, die beide soweit ich dass sehe (du bist in isis in den richtigen Gruppen) für dich verfügbar sein sollten.",
+                                    "Response to": "p1062681"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1 Platz Frei Gr. 43",
+                            "Discussion_Id": "589844",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063003",
+                                    "Author": "Dorian Küchler",
+                                    "DateTime": "2024-04-25T14:13:00+02:00",
+                                    "Content": "Hallo wir haben noch einen freien Platz falls noch jemand auf der Suche ist (Gruppe 43). Lg",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "suche Hausaufgabengruppe",
+                            "Discussion_Id": "589721",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062812",
+                                    "Author": "Anton Benedikt Bork",
+                                    "DateTime": "2024-04-25T10:59:57+02:00",
+                                    "Content": "Hey, ich suche eine motivierte Hausaufgabengruppe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "60 Gruppe 1 Platz frei",
+                            "Discussion_Id": "589614",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062648",
+                                    "Author": "Shihua Xu",
+                                    "DateTime": "2024-04-24T21:50:12+02:00",
+                                    "Content": 

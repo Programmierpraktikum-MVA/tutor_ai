@@ -1,0 +1,667 @@
+[
+    {
+        "Course_Name": "Analysis III für Ingenieurwissenschaften SoSe 2024",
+        "Course_id": "37635",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1767462",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Musterlösungen zu den HA 8-10 ",
+                            "Discussion_Id": "607624",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089550",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-07-13T12:23:22+02:00",
+                                    "Content": "Hallo zusammen, ich wollte nachfragen, ob die restlichen Lösungen zu den Hausaufgaben (8-10) noch hochgeladen werden? Diese wären eine große Hilfe bei der Vorbereitung auf die kommenden Prüfungen. Vielen Dank im Voraus. Beste Grüße, Kyra",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI Assistent ab sofort frei und kostenlos für alle",
+                            "Discussion_Id": "597519",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074932",
+                                    "Author": "Charalampos Tenis",
+                                    "DateTime": "2024-05-29T00:11:15+02:00",
+                                    "Content": "Hi zusammen, wir freuen uns, euch mitteilen zu können, dass unser neuer digitaler Assistent für \"Analysis III für Ingenieurwissenschaften\" ab sofort kostenfrei für alle verfügbar ist! Er wurde am Montag auf dem \"Alles KI?\"-Event an der TU Berlin mit der Anwesenheit des Präsidenten der Universität und vieler weiterer vorgestellt. Diese Tools sollen nicht nur die Arbeit der TU Tutoren erleichtern, sondern euch auch helfen, schneller und einfacher voranzukommen. Gebt uns bitte euer Feedback, wie wir den Assistenten weiter verbessern können, da wir ständig an der Feinabstimmung arbeiten. Viele Grüße, Harris",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088247",
+                                    "Author": "Ayah Tupasi",
+                                    "DateTime": "2024-07-09T20:29:27+02:00",
+                                    "Content": "Hallo, bei mir ist die KI begrenzt und kann ich nur über paar Aufgaben fragen. Ist dann nicht kostenlos oder soll ich dafür bezahlen, damit ich zahlreiche Informationen erhalten würde? Liebe Grüße Ayah Tupasi",
+                                    "Response to": "p1074932"
+                                },
+                                {
+                                    "Message_id": "p1089430",
+                                    "Author": "Charalampos Tenis",
+                                    "DateTime": "2024-07-12T16:27:08+02:00",
+                                    "Content": "Hallo Ayah, für freie Nutzer ohne Abo gibt es eine begrenzte Anzahl von Tokens (Anfragen). Deswegen ist es besser, sparsam damit umzugehen. LG, Harris",
+                                    "Response to": "p1088247"
+                                },
+                                {
+                                    "Message_id": "p1089498",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-07-12T21:25:07+02:00",
+                                    "Content": "Hallo Ayah, hallo die anderen,  jetzt, wo die HA-Kriterien eingetragen sind, kann ich ja mal fragen...  Welche Aufgaben(typen) waren denn mit dieser KI dann bewältigbar/lösbar? Würde mich echt mal interessieren...^^  Mit vielen Grüßen Stefan",
+                                    "Response to": "p1088247"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Kriterium aus vergangenes Jahr",
+                            "Discussion_Id": "605975",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087177",
+                                    "Author": "Mohamed Ahmed Aboelhoda Soliman",
+                                    "DateTime": "2024-07-07T15:12:11+02:00",
+                                    "Content": "Hallo! Kann man sich normale fuer die Klausur anmelden wenn man schon den Kriterium in ein vergangenes Jahr gemacht hat? Also erfolgt die Anmeldung dann normal auf Moses MTS oder sollen wir eine Email schreiben oder wie geht das? Hat jemand vielleicht eine Idee?  Mit freundlichen Gruessen!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087224",
+                                    "Author": "Gabriele Penn-Karras",
+                                    "DateTime": "2024-07-07T21:28:18+02:00",
+                                    "Content": "Sie müssen sich ganz normal über MTS anmelden. Viel Erfolg!",
+                                    "Response to": "p1087177"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lösungen der Tutoriumsaufgaben sind auf Sonntag 16 Uhr gestellt.",
+                            "Discussion_Id": "602751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082541",
+                                    "Author": "Javier Titz",
+                                    "DateTime": "2024-06-22T16:37:21+02:00",
+                                    "Content": "Hallo, die Lösungen der Tutoriumsaufgaben für diese und nächste Woche sind auf Sonntag und nicht auf Freitag gestellt. 23.06. und 30.06., 16 Uhr. Kann das jemand wieder auf Freitag stellen bitte? Liebe Grüße Javier",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082556",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-06-22T19:26:27+02:00",
+                                    "Content": "Ups, sorry... ich habe mich verrechnet... Ich habe es jetzt für 21.6. bzw. für 28.6. eingestellt. Vielen Dank für den Hinweis! -Stefan",
+                                    "Response to": "p1082541"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kriterium für Prüfung",
+                            "Discussion_Id": "593621",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068828",
+                                    "Author": "Mohamed Karim Moussa",
+                                    "DateTime": "2024-05-10T12:21:37+02:00",
+                                    "Content": "Guten Tag, Wieviele Punkte in den Hausaufgaben ist nötig, um an der Prüfung teilnehmen zu können? Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ha gruppe freitag ",
+                            "Discussion_Id": "593467",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068584",
+                                    "Author": "Mouna Ben Salah",
+                                    "DateTime": "2024-05-09T12:44:10+02:00",
+                                    "Content": "hello , mein ha partner hat beschlossen , das modul zu verlassen , falls ihr ein partner noch braucht schreibt mir gerne : 017670110964",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mega viele Zettel",
+                            "Discussion_Id": "593142",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068060",
+                                    "Author": "Friedrich Lauenstein",
+                                    "DateTime": "2024-05-08T00:15:40+02:00",
+                                    "Content": "Liebe Tutor*innen,  Liebe Organisator*innen, Liebe Mitstudis finden sich noch andere Mnschen, die es cool fänden, wenn man die Hausaufgaben auch hier online abgeben könnte? Bitte!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068061",
+                                    "Author": "Timo Huber",
+                                    "DateTime": "2024-05-08T00:28:52+02:00",
+                                    "Content": "Uploadknopf klingt cool, weniger Zettel für alle",
+                                    "Response to": "p1068060"
+                                },
+                                {
+                                    "Message_id": "p1068153",
+                                    "Author": "Friedrich Lauenstein",
+                                    "DateTime": "2024-05-08T10:41:48+02:00",
+                                    "Content": ".",
+                                    "Response to": "p1068061"
+                                },
+                                {
+                                    "Message_id": "p1068062",
+                                    "Author": "Friedrich Lauenstein",
+                                    "DateTime": "2024-05-08T00:29:54+02:00",
+                                    "Content": "True...",
+                                    "Response to": "p1068060"
+                                },
+                                {
+                                    "Message_id": "p1068063",
+                                    "Author": "Timo Huber",
+                                    "DateTime": "2024-05-08T00:34:01+02:00",
+                                    "Content": ".",
+                                    "Response to": "p1068062"
+                                },
+                                {
+                                    "Message_id": "p1068068",
+                                    "Author": "Lenian Freiherr von Streit",
+                                    "DateTime": "2024-05-08T05:26:39+02:00",
+                                    "Content": "Fänd ich auch sinnvoll, da es deutlich praktischer für die Studierenden ist. Mit CO2 Emissionen argumentieren, wenn man seine HA ausdruckt - was deine Emissionen ca. verdreifacht - hat mich dazu gebracht, Luft geräuschvoll aus meiner Nase auszuatmen.",
+                                    "Response to": "p1068060"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Abgabe diesen Donnerstag 12-14Uhr",
+                            "Discussion_Id": "592791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067560",
+                                    "Author": "Leon Alexander Czarnikau",
+                                    "DateTime": "2024-05-07T09:06:59+02:00",
+                                    "Content": "Hi, wie geben wir denn die HA ab diesen Donnerstag? Nehme an kein Tutorium wegen Feiertag? Vielen Dank",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse der Hausaufgaben",
+                            "Discussion_Id": "592485",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067089",
+                                    "Author": "Julius Link",
+                                    "DateTime": "2024-05-06T11:11:19+02:00",
+                                    "Content": "Weiß jemand, ob wir Bescheid bekommen, wenn die Ergebnisse der Hausaufgaben eingetragen werden?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabengruppe Dienstag 12-14h bei Ali",
+                            "Discussion_Id": "589217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062029",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-04-24T09:52:31+02:00",
+                                    "Content": "Hallo zusammen, ich suche noch nach einer Hausaufgabengruppe für das Tutorium bei Ali, dienstags von 12-14h. Gebt mir gerne Bescheid, falls ihr eine Gruppe gründen wollt oder ich einfach als dritte Person dazustoßen kann. Grüße Philip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065518",
+                                    "Author": "Raiymbek Azhigali",
+                                    "DateTime": "2024-05-01T20:51:00+02:00",
+                                    "Content": "Hallo , ich bin in dasselbe Turoium und suche immernoch nach einer Gruppe.",
+                                    "Response to": "p1062029"
+                                },
+                                {
+                                    "Message_id": "p1066254",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-05-03T09:58:04+02:00",
+                                    "Content": "Solved! Gruppe ist voll.",
+                                    "Response to": "p1062029"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe Mittwoch 16-18 Uhr",
+                            "Discussion_Id": "590990",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064741",
+                                    "Author": "Sirak Fisahaye Mogos",
+                                    "DateTime": "2024-04-29T19:13:57+02:00",
+                                    "Content": "Hallo liebe Mitstudenten, Ich suche noch nach einer Hausaufgabengruppe und würde mich freuen wenn ihr euch bei mir meldet. Liebe Grüße Sirak Mogos",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065420",
+                                    "Author": "Mouna Ben Salah",
+                                    "DateTime": "2024-05-01T13:28:09+02:00",
+                                    "Content": "hi, ich suche auch noch eine gruppe :)",
+                                    "Response to": "p1064741"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe Do 12-14",
+                            "Discussion_Id": "590882",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064564",
+                                    "Author": "Masooma Raza",
+                                    "DateTime": "2024-04-29T15:55:46+02:00",
+                                    "Content": "Hallo, ich suche nach einer HA für das Tut am Do 12-14 Uhr. VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064591",
+                                    "Author": "Keyang Cao",
+                                    "DateTime": "2024-04-29T16:14:46+02:00",
+                                    "Content": "Hi, ich suche gerade eine Gruppe, aber ich bin leider wegen eines Praktikums bis Juni nicht in Berlin. Würde es dir passen wenn ich die HA per Foto in die Gruppe schicken?",
+                                    "Response to": "p1064564"
+                                },
+                                {
+                                    "Message_id": "p1064931",
+                                    "Author": "Leon Alexander Czarnikau",
+                                    "DateTime": "2024-04-30T11:02:18+02:00",
+                                    "Content": "Hey, ich suche auch nach einer Gruppe für Donnerstag 12-14Uhr. Kann gerne die ersten HA übernehmen / Fotos annehmen. Bin flexibel.",
+                                    "Response to": "p1064591"
+                                },
+                                {
+                                    "Message_id": "p1065007",
+                                    "Author": "Sirak Fisahaye Mogos",
+                                    "DateTime": "2024-04-30T12:32:34+02:00",
+                                    "Content": "Bin auch auf der Suche nach einer Gruppe für Donnerstag 12-14 Uhr.",
+                                    "Response to": "p1064931"
+                                },
+                                {
+                                    "Message_id": "p1065008",
+                                    "Author": "Sirak Fisahaye Mogos",
+                                    "DateTime": "2024-04-30T12:33:50+02:00",
+                                    "Content": "Falls ihr euch noch nicht entschlossen habt könnt ihr euch gerne bei mir melden.  Tel.: 0157 74008871  LG",
+                                    "Response to": "p1065007"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Können die Übungs/HA-Blätter für die kommende Woche schon am Wochenende hochgeladen werden?",
+                            "Discussion_Id": "590413",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063834",
+                                    "Author": "Javier Titz",
+                                    "DateTime": "2024-04-27T12:15:40+02:00",
+                                    "Content": "Würde bei der Vorbereitung helfen, sodass man mit spezifischeren Fragen kommen kann.  Gruß Javier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ha Gruppe Freitag 10-12",
+                            "Discussion_Id": "590309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063678",
+                                    "Author": "Maximilian Tassilo Weichenhan",
+                                    "DateTime": "2024-04-26T17:11:38+02:00",
+                                    "Content": "Hallo ich suche noch eine Hausaufgabengruppe, falls es in einer Gruppe noch einen Platz geben würde könntet ihr mich vielleicht noch aufnehmen. Meine Nummer ist 0 162 7658301.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ha gruppe mi 14-16",
+                            "Discussion_Id": "590192",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063511",
+                                    "Author": "Mohamed Amine Ghrib",
+                                    "DateTime": "2024-04-26T13:06:39+02:00",
+                                    "Content": "Ich suche noch nach einer HA Gruppe Mittwoch 14-16",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe Mittwoch ",
+                            "Discussion_Id": "590040",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063296",
+                                    "Author": "Marwa Ashour",
+                                    "DateTime": "2024-04-26T07:39:17+02:00",
+                                    "Content": "Hallo,  ich suche noch nach einer Hausaufgabengruppe für das Tutorium Mittwoch von 12-14 Uhr.  gebt mir bitte Bescheid, wenn ihr eine dritte Person in der Gruppe suchen oder möchten, dass wir gemeinsam eine Gruppe gründen.  Viele Grüße .  Marwa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe Freitag 10-12",
+                            "Discussion_Id": "589569",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062573",
+                                    "Author": "Georg Viktor von Usedom",
+                                    "DateTime": "2024-04-24T18:43:21+02:00",
+                                    "Content": "Hey,  ich bin eigentlich im Tutorium am Freitag von 10-12, bin aber diese Woche einmalig verhindert. Schreibt mir gern, wenn ihr noch jemanden für Eure HA-Gruppe sucht :). WhatsApp: 01724410629  VG Georg ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe ",
+                            "Discussion_Id": "589516",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062494",
+                                    "Author": "Abdelrahman Mohamed Mohamed Elkherwily",
+                                    "DateTime": "2024-04-24T16:54:22+02:00",
+                                    "Content": "Hey Leute, bin noch nicht in einer Gruppe also wenn jemand noch sucht dann mich gerne melden ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler in der 1. HA?",
+                            "Discussion_Id": "587868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059858",
+                                    "Author": "Lenian Freiherr von Streit",
+                                    "DateTime": "2024-04-19T19:33:57+02:00",
+                                    "Content": "Guten Tag, kann es sein, dass in HA1 Aufgabe 1 eigentlich x statt z in der markierten Klammer stehen sollte?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059930",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-04-20T00:36:53+02:00",
+                                    "Content": "Guten Abend, Lenian,  ...ups, vielen Dank für die überlichtschnelle Rückmeldung!  Ich habe es ausgebügelt. Es sollte tatsächlich e^(y^2-x^2) stehen.  Vielen Dank! :-)  viele Grüße Stefan",
+                                    "Response to": "p1059858"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung- Online",
+                            "Discussion_Id": "587625",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059480",
+                                    "Author": "Fabian Elias Schellenberg",
+                                    "DateTime": "2024-04-19T11:46:39+02:00",
+                                    "Content": "Hallo ANA3 Team, werden Aufzeichnungen der Vorlesungen (Folien/Mitschrift) auf ISIS veröffentlicht bzw. sind diese identisch mit denen aus den letzten Jahren? Danke und Viele Grüße, Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungen",
+                            "Discussion_Id": "587491",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059258",
+                                    "Author": "Kamronbek Mashkhurov",
+                                    "DateTime": "2024-04-18T20:12:06+02:00",
+                                    "Content": "Hallo! Wann werden die Tutorienszeiten veröffentlicht?  Es wäre sehr hilfreich alle Zeitintervallen der Tutorien auf Isis zu haben Viele Grüße, Kamronbek",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059310",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-04-19T00:00:56+02:00",
+                                    "Content": "Guten Abend!  Die Tutoriumszeiten veröffentlichen wir am Wochenende. Wir sind noch dabei, die Tutoriumstermine den Tutoren zuzuordnen.  Die Veröffentlichung kann eigentlich nur noch für Teilnehmer* interessant sein, die nicht in ein Tutorium eingeteilt sind.  Viele Grüße Stefan (Assi)",
+                                    "Response to": "p1059258"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgaben ",
+                            "Discussion_Id": "586629",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058005",
+                                    "Author": "Mohamed Karim Moussa",
+                                    "DateTime": "2024-04-16T22:07:43+02:00",
+                                    "Content": "Guten Abend, Bin neu hier, wo findet man die Hausaufgaben zum erledigen? Danke im voraus.  Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058015",
+                                    "Author": "Lenian Freiherr von Streit",
+                                    "DateTime": "2024-04-16T22:20:29+02:00",
+                                    "Content": "Üblicherweise werden im Ordner \"Übungsblätter\" in diesem Modul Blätter hochgeladen, die sowohl einen Tutoriums- als auch einen HA-Teil enthalten. Die ersten werden vermutlich bald hochgeladen :)",
+                                    "Response to": "p1058005"
+                                },
+                                {
+                                    "Message_id": "p1058511",
+                                    "Author": "Mohamed Karim Moussa",
+                                    "DateTime": "2024-04-17T16:24:19+02:00",
+                                    "Content": "Vielen Dank!",
+                                    "Response to": "p1058015"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur 1. Termin",
+                            "Discussion_Id": "584806",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055366",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-04-06T14:09:30+02:00",
+                                    "Content": "Hallo, Findet die Klausur zum ersten Termin wirklich am Samstag den 27.07? VG Erick",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055377",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-04-06T18:43:57+02:00",
+                                    "Content": "Hallo,  ja. Ging nicht anders.  Immerhin findet sie nicht nachmittags um 14 Uhr statt (das war die ursprüngliche Planung^^, die wir noch ummodeln konnten).  Analysis III f. Ing. ist einfach zu beliebt, so dass auch hierfür ein großer Raum gebraucht wird.  viele Grüße Stefan (Assi)",
+                                    "Response to": "p1055366"
+                                },
+                                {
+                                    "Message_id": "p1055378",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-04-06T19:40:08+02:00",
+                                    "Content": "Also der Ersttermin ist fest um 10 Uhr oder?",
+                                    "Response to": "p1055377"
+                                },
+                                {
+                                    "Message_id": "p1055387",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-04-06T21:49:22+02:00",
+                                    "Content": "10 Uhr.",
+                                    "Response to": "p1055378"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Ankündigungen und Aktuelles",
+                    "Forum_id": "1767357",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tutorium gleich: Raumverlegung H3008 zu H3010 (nebenan)",
+                            "Discussion_Id": "605539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086562",
+                                    "Author": "Robert Heinz Diderick Rotermund",
+                                    "DateTime": "2024-07-04T14:11:20+02:00",
+                                    "Content": "Hallo liebe Studierende, kurzfristig gehen wir für mein Tutorium gleich (Do 14-16) statt in H3008 in den (Vorlesungssaal) 3010 nebenan. Es hängt aber auch ein Zettel an der Tür. Bis gleich! Viele Grüße, Robert ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Raumverlegung Tutorium Stefan",
+                            "Discussion_Id": "604883",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085649",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-07-02T09:51:07+02:00",
+                                    "Content": "Liebe Leute, für heute zur Erinnerung: Tutorium Di 14-16: Das Tutorium Di 14-16 findet am 2.7. und am 9.7. in MA 542 statt. Bis nachher! :-) viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frische Tutoren gesucht!",
+                            "Discussion_Id": "604415",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084939",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-06-29T19:14:11+02:00",
+                                    "Content": "Liebe Studierende, in der Ingenieurmathematik habt Ihr mit den ganzen Mathe-Modulen bis hin zu Ana3fIng es doch recht weit gebracht!  Wollt Ihr selbst Tutor werden und dieses Wissen wissensdurstigen Kommilitonen vermitteln?  Wollt Ihr wöchentlich in Modul-Teams den Lehrstoff noch einmal diskutieren und durchdringen? Wollte Ihr auch einmal erleben, wie eigentlich so ein Modul organisiert und durchgeführt wird jenseits von Kreidetafel und Aufgabenblatt? Dann macht den ersten Schritt (und zwar möglichst bald - s.u.): Bewerbt Euch als Tutor:in in der Mathematik, indem Ihr dem Link https://www.tu.berlin/go164842/  folgt und rasch die \"üblichen Unterlagen\" zusammenstellt. :-D   Achtung: Die Bewerbungsfrist für das kommende Wintersemester endet am 15. Juli 2024. Die Unterlagen bleiben nicht \"erstmal liegen\", sondern die Bewerber werden noch im Juli dazu eingeladen, Kurztutorien zu gestalten. :-) Viele Grüße Stefan Neumeier im Namen des Modulteams Ana3fIng",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Uneigentliche Integrale: Fehler in der Vorlesung und im Skript",
+                            "Discussion_Id": "603146",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083141",
+                                    "Author": "Gabriele Penn-Karras",
+                                    "DateTime": "2024-06-24T16:21:56+02:00",
+                                    "Content": "Bei der Formel über uneigentliche Integrale rationaler Funktionen heute am Ende der Vorlesung habe ich leider den Faktor 2*pi*i auf der rechten Seite vergessen. Die Formel findet sich auch in unserem Skript auf S. 51 ganz unten. Leider hat sich da ein anderer Fehler eingeschlichen: Es steht dort Re(z)>0, es sollte aber heißen Im(z)>0. Ich bitte um Verzeihung für diese Verwirrungen!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verspätung Sprechstunde ",
+                            "Discussion_Id": "600752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079667",
+                                    "Author": "Robert Heinz Diderick Rotermund",
+                                    "DateTime": "2024-06-13T08:30:00+02:00",
+                                    "Content": "Hallo liebe Studierende,  Leider verspäte ich mich für meine heutige Sprechstunde (eigentlich um 8:40)  um ca. 5-10 Minuten (je nachdem wie die BVG mitspielt). Wir gehen wir immer in den Raum MA642. Tut mir sehr leid falls jemand warten muss. Viele Grüße, Robert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Alis Sprechstunde Uhrzeit diese Woche",
+                            "Discussion_Id": "600463",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079238",
+                                    "Author": "Alireza Selahi Moghaddam",
+                                    "DateTime": "2024-06-11T23:56:43+02:00",
+                                    "Content": "Liebe Studis, meine Sprechstunde findet diese Woche ausnahmsweise 14:00 - 15:30 Uhr statt. Der Tag (Donnerstag) und der Raum bleiben unverändert. Viele Grüße, Ali",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 07: Tutoriumsaufgabe 5 ergänzt",
+                            "Discussion_Id": "598988",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077078",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-06-04T20:59:50+02:00",
+                                    "Content": "Liebe Teilnehmer*, beim Basteln des Übungsblatt 7 (jetzt aktuell) ist mir ein Malheur passiert.  Die 5. Tutoriumsaufgabe (die ein Randwertsproblem behandelt) hat gefehlt. Für die Dienstagstutorien ist es jetzt zu spät, aber vielleicht lässt sich diese Aufgabe noch anhand der Musterlösung verstehen, die am Freitag, 7.6., freigeschaltet werden wird. Die Aufgabe ist nicht schwer. Mit der Bitte um Entschuldigung und  mit vielen Grüßen Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 05: Aufgabenstellung der Hausaufgabe 1 (RWP mit Möbius)",
+                            "Discussion_Id": "595850",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072377",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-05-22T07:47:18+02:00",
+                                    "Content": "Liebe Teilnehmer*, in Übungsblatt 5, Hausaufgabe 1, war die Aufgabenstellung widersprüchlich.  Es handelt sich stets um den \"Lochkreis\" x^2+(y-2)^2=(\\sqrt2)^2.  Die erste Zeile des gestellten RWPs (\"\\Delta u=0 ...\") war nicht passend.  Sollte für die eigentliche Rechenarbeit aber eher unkritisch gewesen sein.  Vielen Dank an den Studenten, der mich darauf hingewiesen hat! :-) Mit der Bitte um Nachsicht und mit vielen Grüßen Stefan ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Frank in der Pfingstwoche",
+                            "Discussion_Id": "595335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071561",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-05-18T19:11:50+02:00",
+                                    "Content": "Liebe Teilnehmende, weil der Montag, 20.5., ein Feiertag ist, hält Frank seine Sprechstunde einen Tag später ab, nämlich Dienstag, 21.5., 11:30-13:00 Uhr. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung Raum für Tutorium Di 14-16",
+                            "Discussion_Id": "594748",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070632",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-05-15T17:41:43+02:00",
+                                    "Content": "Liebe Teilnehmer*, weil es in einem Raum des E-N zu warm wird, wird das Tutorium Di 14-16 (bei Stefan) gleich ab dem 21.4. in den Raum EW 184 verlegt.  Ich kenne den Raum allerdings noch nicht... bei Physikern muss man stets auf Überraschungen gefasst sein... mal sehen.^^ Frohe Pfingsten! Viele Grüße Stefan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071558",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-05-18T18:49:04+02:00",
+                                    "Content": "Liebe Teilnehmer*,  in einer liebenswürdigen Mail wurde mir geschildert, dass der geplante Raum EW 184 fensterlos sei und keine Frischluft böte. Kein Wunder, dass dieser Raum frei war...  Ab sofort findet das Tutorium Di 14-16 (bei Stefan) im Raum H 6124 statt. Im Juli müssten wir an zwei Terminen nochmals woandershin.  Viele Grüße Stefan",
+                                    "Response to": "p1070632"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verspätung Sprechstunde gleich",
+                            "Discussion_Id": "594897",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070851",
+                                    "Author": "Alireza Selahi Moghaddam",
+                                    "DateTime": "2024-05-16T12:12:45+02:00",
+                                    "Content": "Liebe Studierende, leider verspäte ich mich um etwa 10 bis 15 Minuten zu meiner Sprechstunde gleich um 12:30 Uhr. Die entsprechende Zeit wird selbstverständlich hinten rangehängt. Ich entschuldige mich für evtl. Umstände. Viele Grüße, Ali",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung Raum für Fr 12-14",
+                            "Discussion_Id": "593071",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067948",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-05-07T17:49:48+02:00",
+                                    "Content": "Liebe Teilnehmer*, das Tutorium Fr 12-14 bei Frank findet ab sofort (erstmalig am 10.5.) im Raum MA 141 statt. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 2, Hausaufgabe 3: Kleiner Fehler in Aufgabenstellung",
+                            "Discussion_Id": "592358",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066887",
+                                    "Author": "Stefan Neumeier",
+                                    "DateTime": "2024-05-05T20:30:26+02:00",
+                                    "Content": "Liebe Teilnehmer*, es geht um die 3. Hausaufgabe der 2. Übung - ein Randwertproblem. Das Winkelgebiet war falsch beschrieben worden (klassischer Fehler...). Das ist jetzt geändert.  Die Randbedingungen bleiben gleich. An den eigentlichen Rechnungen ändert sich nichts.  Mit der Bitte um Nachsicht und mit vielen Grüßen Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

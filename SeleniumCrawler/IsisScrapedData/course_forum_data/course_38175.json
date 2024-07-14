@@ -1,0 +1,162 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Aktuelle Themen zu Software and Embedded Systems Engineering",
+        "Course_id": "38175",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782501",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Seminar-Review",
+                            "Discussion_Id": "603191",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083202",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-06-24T17:56:48+02:00",
+                                    "Content": "Liebe Studierende,  ich habe euch Arbeiten zum Reviewen zugewiesen und diese jeweils per Mail an euch gesendet. Verwendet dazu bitte die Vorlage, die hier im Kurs verfügbar ist und ladet euer Review als PDF bis zum 30.6 hoch.  Viele Grüße, Wolffhardt",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085190",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-07-01T10:52:44+02:00",
+                                    "Content": "Liebe Studierende,  danke für eure Reviews. Eure Betreuer werden diese jetzt prüfen und ggf. zusätzliche Anmerkungen zu euren Arbeiten ergänzen. Ihr erhaltet dann das gesammelte Feedback zu eurer Arbeit innerhalb der nächsten drei Tage.  Viele Grüße, Wolffhardt",
+                                    "Response to": "p1083202"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar-Vorträge",
+                            "Discussion_Id": "600651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079492",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-06-12T15:45:41+02:00",
+                                    "Content": "Liebe Studierende,  kommenden Montag (17.06) finden die Seminar-Vorträge ab 12:00 im MAR 0.003 statt. Die in Zweier-Teams gehaltenen Präsentationen dauern 30 Minuten, gefolgt von etwa 10 Minuten zur gemeinsamen Diskussion. Hier die Zeitplan für die Themen: 12:00 - 12:40 Bayesian Controller Fusion 12:40 - 13:20 Grandmaster-Level Chess Without Search 13:20 - 14:00 RTGPU 14:00 - 14:10 Pause 14:10 - 14:50 Active Learning of Mealy Machines with Timers 14:50 - 15:30 State-Based Opacity of Labeled Real-Time Automata Bedenkt, dass während der gesamten Veranstaltung Anwesenheitspflicht besteht.  Viele Grüße, Wolffhardt",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080071",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-06-14T10:32:14+02:00",
+                                    "Content": "Liebe Studierende,  an dieser Stelle nochmal der Hinweis, dass die Vorträge aufgrund des zeitlich engen Rahmens wirklich um Punkt 12:00 beginnen. Bitte seid rechtzeitig, damit wir den Plan einhalten können!  Viele Grüße, Wolffhardt",
+                                    "Response to": "p1079492"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "590728",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064331",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-29T12:16:08+02:00",
+                                    "Content": "Liebe Studierende, ich habe eben gesehen, dass viele von euch sich noch nicht für die Prüfung in Moses angemeldet haben. Bitte beachtet, dass die Frist dazu morgen Abend endet! Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themenzuweisung",
+                            "Discussion_Id": "588601",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061088",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-22T18:22:13+02:00",
+                                    "Content": "Liebe Studierende, bitte entschuldigt, dass die Themenzuweisung sich etwas gezogen hat. Nachdem bei der Themenwahl ein paar Teilnehmer abgesprungen waren, konnten wir nun doch noch alle Seminarplätze belegen. Das heißt, dass jedes Thema jeweils in einem Zweier-Team bearbeitet werden kann. Ich habe nun allen ein Thema zugewiesen. Die Zuweisung könnt ihr der Thementabelle in der Kursübersicht entnehmen. Ich habe versucht, alle Präferenzen und Kooperationswünsche so weit wie möglich zu berücksichtigen. Da die Nachfrage zu den einzelnen Themen sehr ungleich verteilt war, war das nicht einfach. Ich hoffe, dass ihr trotzdem alle zufrieden mit den erhaltenen Themen seid. Bitte meldet euch nun spätestens übermorgen bei euren Betreuern mit einer kurzen Mail zum Antritt des Seminars. Sofern ihr heute nachgerückt seid, lest euch außerdem bitte die Informationen in diesem Kurs und insbesondere die Folien des Kick-Off-Termins gründlich durch, um euch mit dem Ablauf des Seminars vertraut zu machen. Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themenwahl",
+                            "Discussion_Id": "587001",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058508",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-17T16:18:24+02:00",
+                                    "Content": "Liebe Studierende, die Folien des heutigen Kick-Off sind nun im ISIS-Kurs verfügbar. Ich habe nun auch die Umfrage für die Themenwahl freigeschaltet. Ihr müsst drei geordnete Präferenzen angeben und optional einen Wunschpartner für die Gruppierung. Wir versuchen dann, die Themen so zufriedenstellend wie möglich zuzuweisen. Dazu müsst ihr das Auswahlformular bis spätestens Sonntag (21.4) um 23:59 ausfüllen. Die zeitliche Reihenfolge, in der verschiedene Teilnehmer relativ zueinander abstimmen, ist jedoch unerheblich. Ihr könnt euch also (sofern noch nicht geschehen) erstmal in Ruhe die Themen ansehen. Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom-Link zum Kick-Off",
+                            "Discussion_Id": "586841",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058282",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-17T12:32:13+02:00",
+                                    "Content": "Liebe Studierende, hier der Zoom-Link zum Kick-Off: https://tu-berlin.zoom.us/j/3665726137?pwd=WVpva01XNkptUVhIcjloYWRROVlodz09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich willkommen zum Bachelorseminar",
+                            "Discussion_Id": "584933",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055557",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-08T13:02:33+02:00",
+                                    "Content": "Liebe Studierende, wir freuen uns, euch mitteilen zu können, dass ihr einen Platz in unserem Bachelorseminar erhalten habt! Darüber hinaus möchten wir euch herzlich zu unserem Kickoff-Treffen einladen, das am 17. April von 12 bis 14 Uhr im FH 302 stattfinden wird. Dieses Treffen dient als Einführung in das Seminar und ermöglicht es euch, die Dozierenden und anderen Teilnehmenden kennenzulernen. Auch gibt es dann die Möglichkeit, Fragen zu stellen und weitere Informationen zum Ablauf des Seminars zu erhalten. Die Teilnahme am Kickoff-Treffen ist Pflicht. Bei Abwesenheit wird der Seminarplatz an eine andere Person vergeben. Solltet ihr bereits wissen, dass ihr nicht mehr an dem Seminar teilnehmen möchtet, gebt uns bitte schnell Bescheid, damit wir die Plätze neu verteilen können. Solltet ihr vorab Fragen haben oder weitere Informationen benötigen, zögert nicht, uns zu kontaktieren.  Viele Grüße das Seminar-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1784056",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlage für Präsentation",
+                            "Discussion_Id": "598375",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076198",
+                                    "Author": "Daniel Alpek",
+                                    "DateTime": "2024-06-02T21:27:53+02:00",
+                                    "Content": "Hallo, gibt es eine Vorlage, die wir für die Präsentation verwenden sollen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076595",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-06-03T17:27:29+02:00",
+                                    "Content": "Hallo Daniel,  ihr könnt je nach Präferenz Latex oder Powerpoint verwenden. Die jeweiligen Templates der TU sind jetzt hier im Kurs im Bereich Blockseminar verfügbar.  Viele Grüße, Wolffhardt",
+                                    "Response to": "p1076198"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "589886",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063058",
+                                    "Author": "Devrim Firat Yilmaz",
+                                    "DateTime": "2024-04-25T15:24:21+02:00",
+                                    "Content": "Hallo, die Prüfungsanmeldung für dieses Modul erfolgt laut ISIS und der Ankündigung in der Einführungsveranstaltung bis zum 30.04.2024. Jedoch ist eine Prüfungsanmeldung für das Modul auf MTS immer noch nicht möglich. In welcher Form erfolgt die verbindliche Prüfungsanmeldung? Beste Grüße Devrim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "Course_Name": "Grundlagen der wissenschaftlichen Arbeit und Data Science im WiSe2023/24",
+        "Course_id": "34943",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1635415",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungsergebnisse ",
+                            "Discussion_Id": "581507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1050207",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2024-02-26T16:51:02+01:00",
+                                    "Content": "Liebe GrdlWADS Teilnehmer*innen, die Prüfungsergebnisse liegen auf ISIS! Viele Grüße und schöne Semesterferien Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Möglichkeit der Konferenzteilnahme.",
+                            "Discussion_Id": "577926",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1044497",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2024-02-07T09:09:58+01:00",
+                                    "Content": "LIebe alle, einige Ihrer Kommiliton*innen aus dem Vorgängerjahr hatten sich Konferenzteilnahmen gewünscht. Dieses Jahr ist die Metallographietagung wieder in Berlin und ich werde prüfen, ob dort eine kostengünstige, idealerweise kostenfreie Teilnahme möglich ist. Heute habe ich von einer weiteren Möglichkeit erfahren - siehe folgende Mail, die ich hier zitiere. Beste Grüße Claudia Fleck  \"Ankündigung und Einladung: DPG-Frühjahrestagung an der TU Berlin, 17.-22. März 2024 Liebe Studierende und Beschäftigte der TU Berlin, vom 17. – 22.03.2024 findet an der TU Berlin die „87. Jahrestagung der DPG und DPG-Frühjahrstagung“ der Deutschen Physikalischen Gesellschaft statt. Zur größten europäischen Physik-Tagung werden bis zu 7.000 Teilnehmer*innen erwartet und circa 5.500 Beiträge in 50 Parallelsitzungen und Postersessions in Bereichen wie Quantentechnologien und kondensierte Materie sowie zu gesellschaftlichen Themen wie Energiewende und Abrüstung präsentiert. Für Studierende besonders interessant: Die Teilnahme ist kostenlos. Sie können sich hier registrieren: https://berlin24.dpg-tagungen.de/registrierung/teilnehmerregistrierung Sie können aktiv zum Gelingen der Veranstaltung beitragen, z.B. durch Betreuung von Hörsaaltechnik (Vergütung: 13,00 €/h). Bei Interesse melden Sie sich bitte zeitnah über unsere Internetplattform an: dpg-tagung.de/b24/job/apply Wir danken für Ihre Unterstützung der Veranstaltung und freuen uns über eine zahlreiche Teilnahme!  Prof. Dr. Ralph Ernstorfer (Tagungsleiter, ernstorfer@tu-berlin.de) Technische Universität Berlin Institut für Optik und Atomare Physik und TUBS-Kongresse-Team (dpg@tubs.de)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entfall der Veranstaltung heute",
+                            "Discussion_Id": "576704",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1042713",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2024-02-01T12:06:27+01:00",
+                                    "Content": "Liebe alle, leider muss ich die Veranstaltung heute krankheitsbedingt ausfallen lassen. Die Vorträge von heute finden in zwei Wochen am  15.02. statt. Vielen Dank, insbesondere an die Vortragenden, für Ihr Verständnis. Mir ist bewusst, dass die Verschiebung unangenehm ist und hätte dies gerne vermieden. Mit besten Grüßen Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nuss für 3D-Slicer",
+                            "Discussion_Id": "569214",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1031505",
+                                    "Author": "Shajia Afrin Ali",
+                                    "DateTime": "2023-12-21T11:44:45+01:00",
+                                    "Content": "Hier könnt ihr euch eure Nuss herunterladen: https://tubcloud.tu-berlin.de/s/tnXk8iPi3kdgJWb",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laptop für den 21.12.2023",
+                            "Discussion_Id": "568701",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1030652",
+                                    "Author": "Shajia Afrin Ali",
+                                    "DateTime": "2023-12-19T11:25:35+01:00",
+                                    "Content": "Liebe Studierende, Der Kurs findet kommenden Donnerstag im EB133C statt. Bitte bringt euren Laptop mit und installiert euch vorweg 3D Slicer! Zusätzlich solltet ihr die Extension \"SegmentMesher\" für die App installieren; Anleitung: Download and install a latest stable version of 3D Slicer (https://download.slicer.org). Start 3D Slicer application, open the Extension Manager (menu: View / Extension manager) Install SegmentMesher extension.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Veranstaltung heute in Präsenz",
+                            "Discussion_Id": "567697",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1029076",
+                                    "Author": "Sophie Klemm",
+                                    "DateTime": "2023-12-14T09:13:06+01:00",
+                                    "Content": "Da es leider zu etwas Verwirrung kam, die Veranstaltung findet heute in Präsenz statt. Meines Wissens nach hat Prof. Fleck dies auch so angekündigt.  Bis später Sophie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laptop mitbringen morgen - 14.12",
+                            "Discussion_Id": "567418",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1028653",
+                                    "Author": "Sophie Klemm",
+                                    "DateTime": "2023-12-13T10:57:01+01:00",
+                                    "Content": "Liebe Studierende, bitte bringt morgen Laptops mit und stellt sicher, dass ihr Mozilla Firefox installiert habt :-) Bis morgen Sophie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "IV heute - 07.12.2023",
+                            "Discussion_Id": "566042",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1026500",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-12-07T10:30:43+01:00",
+                                    "Content": "Liebe GrdlWADS'ler*innen, heute gibt Ihnen Herr Prof. Zaslansky, Professor für Material Science in Dentistry an der Klinik für Zahn-, Mund- und Kieferheilkunde der Charité und Experte in der hochauflösenden Charakterisierung von Materialien mit Hilfe von Synchrotronstrahlung, Einblicke in die Verarbeitung von 3D-Daten und der digitalen Bildauswertung mit Hilfe der open source Software Fiji. Wenn Sie möchten, bringen Sie gerne Ihren eigenen Laptop mit und laden vorher schon \"Fiji\" herunter: https://imagej.net/software/fiji/downloads Sie können dann direkt mitmachen! Wir beginnen wie immer um 12:15 Uhr im EB 133C. Viele Grüße Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorträge der Studierenden",
+                            "Discussion_Id": "561033",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1018496",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-11-16T12:07:02+01:00",
+                                    "Content": "Die Vorträge sollen die Themenbereich \"Nachhaltigkeit in der Materialforschung und -anwendung\", Life Cycle Assessment (Methoden, Vorteile, Nachteile, Probleme,... mit Werkstoffaspekt) betrachten. Die Übersicht über die Gruppenzuteilung wird zeitnah veröffentlicht.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführung in die Literaturrecherche",
+                            "Discussion_Id": "561025",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1018484",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-11-16T11:47:33+01:00",
+                                    "Content": "Liebe GrdlWADS-Interessierte, heute gibt Herr Wurst von der Universitätsbibliothek einen Einblick in die Literaturrecherche mit praktischen Übungen. Diese Kenntnisse benötigen Sie später, aber auch jetzt schon für die Suche nach Literatur für Ihren Vortrag am Ende der Veranstaltung. Bitte nutzen Sie für die Übungen möglichst einen Rechner, Laptop oder Tablet - ein Smartphonebildschirm ist tendenziell eher zu klein. Die Unterlagen finden Sie auf ISIS - so wie auch den aktualisierten Ablaufplan. Alle Veranstaltungen stehen jetzt fest. Viel Spaß! Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbereitungstermin",
+                            "Discussion_Id": "560329",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1017399",
+                                    "Author": "Fatemeh Rahimi Mehr",
+                                    "DateTime": "2023-11-14T10:34:19+01:00",
+                                    "Content": "Liebe Studierende, Der erste Vorbereitungstermin für den PIW-Projekttitel „3D-Druck von Biopolymeren“, „Porzellanherstellung“, und „harte Nüsse im Ingenieurwesen“ findet am 17. November 2023 statt. Nachfolgend finden Sie Zeit und Ort der Teilnahme für Ihr ausgewähltes Projekt. Projekttitel: 1-      3D-Druck von Biopolymeren     Ort: BH-A 255 oder BH-N 429, Uhrzeit: 8:30- 10:00 uhr 2-      Porzellanherstellung     Ort: BA3, Raum 316, Uhrzeit: 9:00- 11:00 uhr 3-      Harte Nüsse in den Ingenieurswissenschaften     Ort: EB 131A, Uhrzeit: 10:00 – 12:00 uhr Viele Grüße Fatemeh Rahimimehr",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Auswahl des PIW Themas",
+                            "Discussion_Id": "558568",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1014444",
+                                    "Author": "Fatemeh Rahimi Mehr",
+                                    "DateTime": "2023-11-07T09:24:31+01:00",
+                                    "Content": "Liebe Studierende,  bitte vergessen Sie nicht, bis zum 08.11.2023 ein Thema des Instituts für PIW auszuwählen. Viele Grüße Eure PIW Betreuerin, Fatemeh Rahimimehr",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

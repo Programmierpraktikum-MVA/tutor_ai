@@ -1,0 +1,31 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Magnetic Resonance Imaging II",
+        "Course_id": "37939",
+        "Forums": [
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Discussion for students",
+                    "Forum_id": "1773453",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Incorrect submission date for Homework 2.9 Flow MRI",
+                            "Discussion_Id": "603304",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083376",
+                                    "Author": "Kevin Ferreira",
+                                    "DateTime": "2024-06-25T09:57:31+02:00",
+                                    "Content": "Hi, The submission date indicated for Homework 2.9 Flow MRI is June 26, 2023 instead of June 26, 2024, which is currently blocking the submission of assignments. Would it be possible to correct it so that we can submit our work before the actual deadline? Best,  Kévin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

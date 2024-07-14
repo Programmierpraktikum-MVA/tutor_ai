@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Zuverlässigkeit integrierter Elektroniksysteme",
+        "Course_id": "38824",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1806284",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VL 07 Thermomechanik II (Offene Fragen)",
+                            "Discussion_Id": "598879",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076919",
+                                    "Author": "Olaf Wittler",
+                                    "DateTime": "2024-06-04T14:33:28+02:00",
+                                    "Content": "Hallo, in der letzten Veranstaltung gab es zwei offene Punkte: Folie 4:  Frage: Ist Gamma ein Scherwinkel oder eine Scherdehnung? Antwort: Bei kleinen Winkeln bzw. kleinen Deformationen entspricht der Scherwinkel der Scherdehnung. Folie 38: Korrigierte Erläuterung: Die Gesamtdehnung (rote Kurve) setzt sich aus der elastischen (grün) und plastischen (blau) Dehnung zusammen. Für große Dehnungen folgt das Ergebnis (rote Kurve) dem Verlauf der Degradation bei plastischer Dehnung und bei kleinen Dehnungen ist der Anteil der plastischen Dehnung vernachlässigbar. Die Folie ist also richtig. Meine Erläuterung in der Vorlesung war es nicht. Viele Grüße,  Olaf Wittler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar: Introduction to Camera Geometry",
+        "Course_id": "39004",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1812250",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final exam location",
+                            "Discussion_Id": "607152",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088838",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-07-11T11:54:21+02:00",
+                                    "Content": "Dear all,  For the written, in-presence exam on Thursday 18.07 from 10 am to noon (the time slot that we agreed during the 1st day of presentations) I was able to book room MAR 5.060. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Presentations",
+                            "Discussion_Id": "605214",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086104",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-07-03T11:14:31+02:00",
+                                    "Content": "Dear all, The next two weeks are the last two weeks of lectures of the Summer Semester and are full of scheduled presentations. Please: - arrive on time, so that we can start at 16 h. - practice your presentation so that we do not go much overtime (15 min per person, including 2 min of Q&A). Looking forward to your presentations. The topics are diverse and interesting. Certainly we will learn much from each other's presentations. Also, think about a date for the final exam. How about the week after the lectures? We discuss in person next week. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week - Prepare for presentations.",
+                            "Discussion_Id": "601217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080330",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-06-15T14:45:23+02:00",
+                                    "Content": "Dear all This incoming week I am out of town, presenting our research at the CVPR conference. There will be no lecture. However, to prepare for the end of the semester, I would need that you: - provide a title for your presentation (it can be done individually or in small groups of 2-3 people), filling in this spreadsheet https://docs.google.com/spreadsheets/d/1CSFn2SqXaqpfZdnh1icE1CiMT-UQgQmjWRUA6W4DJTc/edit?usp=sharing - have a draft / skeleton of your slides ready to discuss 1-on-1 on 25.06. They do not need to be complete. Sample presentations from previous years are available on ISIS, along with some advice. Have a good week, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week",
+                            "Discussion_Id": "596932",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074014",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-27T11:31:37+02:00",
+                                    "Content": "Dear all, Tomorrow we continue with a bit of digital image processing, corner detection, and geometric model fitting. Please skim through the slides on ISIS to be better prepared for tomorrow's lecture. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week: Sepp Hochreiter at MAR 2.057",
+                            "Discussion_Id": "595441",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071754",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-20T14:00:36+02:00",
+                                    "Content": "Hello, Coinciding with the time slot of our lecture this week there is the talk at TU Berlin by an eminent Computer Scientists: Prof. Sepp Hochreiter, inventor of LSTMs. \"Hot Topics in Intelligence Research: Sepp Hochreiter- xLSTM: New Architectures for Large Language Models (Universität Linz)\" Where: MAR 2.057 (Conference room from Science of Intelligence - SCIoI) When: 16:00 h o'clock (be on time to get a seat) Zoom link for those who cannot make it in person to SCIoI: https://tu-berlin.zoom.us/j/62628317309?pwd=Nk5OZmdpU1pKL2tVKy9PcGNDMzMvQT09 So, I prefer that we do not miss this opportunity and attend the talk. While the topics are not the same as in the lecture, please pay attention to the way he presents or discusses the topics. It will be useful in preparation for your presentations at the end of the Semester.  Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "This week: digital image processing",
+                            "Discussion_Id": "593809",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069135",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-12T13:27:05+02:00",
+                                    "Content": "Dear all, This week we will resolve any questions that you may still have about the co-capture camera system presented by Friedhelm Hamann last week, and we will also shortly explore some basic digital image processing techniques (that can happen inside a camera or at post-production). Please see the slides on ISIS (Lecture 5 and Szeliski's book, ch 2 and 3) for a more fruitful discussion. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Special lecture by Friedhelm Hamann",
+                            "Discussion_Id": "592513",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067132",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-05-06T12:07:30+02:00",
+                                    "Content": "Dear all, Tomorrow, Mr. Friedhelm Hamann, a PhD at the TUB-Robotic Interactive Perception and Science of Intelligence Excellence Cluster will give the lecture about the co-capture system he has developed for his PhD research. He will talk about how to synchronize and calibrate the system, thus discussing camera calibration with the pinhole camera model and distortion coefficients (OpenCV) that we learned last week. Supporting slides are available on ISIS, on this week's content. Meeting time: 16:15 (usual time), at MAR 0.008. Best regards, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Chapter 2 in Szeliski's book",
+                            "Discussion_Id": "588299",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060578",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-04-22T11:11:58+02:00",
+                                    "Content": "Dear all, In preparation for our upcoming lectures/meetings, please take a look at chapter 2, \"Image Formation\", in Richard Szeliski's book. It is freely available at https://szeliski.org/Book/ Have a good week, Guillermo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Students discussion",
+                    "Forum_id": "1812258",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "link to MVG Book does not work",
+                            "Discussion_Id": "590859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064536",
+                                    "Author": "Johann Carl Reischies",
+                                    "DateTime": "2024-04-29T15:25:13+02:00",
+                                    "Content": "Hello everybody. I tried to access the Book HZ MVG that is supposed to be available, but on my machine the link does not work. Anybody else here who has tried? Best Carl",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064673",
+                                    "Author": "Sandro Leon Fleischer",
+                                    "DateTime": "2024-04-29T17:33:43+02:00",
+                                    "Content": "Yeah also not working for me",
+                                    "Response to": "p1064536"
+                                },
+                                {
+                                    "Message_id": "p1064697",
+                                    "Author": "Guillermo Gallego",
+                                    "DateTime": "2024-04-29T17:48:39+02:00",
+                                    "Content": "link updated",
+                                    "Response to": "p1064673"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp Gruppe für den Kurs",
+                            "Discussion_Id": "588658",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061167",
+                                    "Author": "Sandro Leon Fleischer",
+                                    "DateTime": "2024-04-22T21:19:21+02:00",
+                                    "Content": "Hey an alle, bei einem Modul lohnt es sich ja oft einen direkten Chat zum austausch zu haben.  Deshalb schlage ich vor eine Whatsapp-Gruppe zum Kurs zu gründen. Hier der Link https://chat.whatsapp.com/EvELbKVa8wL2FVDiLrywFM  :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

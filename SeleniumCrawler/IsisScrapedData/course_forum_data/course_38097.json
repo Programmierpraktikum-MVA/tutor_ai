@@ -1,0 +1,562 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] IAT: Grundlagen der Automatisierungstechnik",
+        "Course_id": "38097",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1779305",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehr-Evaluation",
+                            "Discussion_Id": "606205",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087502",
+                                    "Author": "Bsher Karbouj",
+                                    "DateTime": "2024-07-08T12:31:24+02:00",
+                                    "Content": "Guten Tag liebe Studierende, im Sinne einer kontinuierlichen Verbesserung der Lehre findet in diesem Semester eine Evaluation statt. Bitte nehmt diese Chance wahr, der Befragungszeitraum läuft bis zum 15.07.2024. Ich möchte darauf hinweisen, dass sich die Umfrageteile 1 bis 4 und 6 im Wesentlichen auf die Vorlesung beziehen und der Umfrageteil 5 sich spezifisch auf die Übung bezieht. die Befragung ist anonym.  ---------LINK---------  mit besten Grüßen  Bsher Karbouj ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Vorlesung im Modul \"Grundlagen der Automatisierungstechnik“ am 03. Juli 2024",
+                            "Discussion_Id": "604735",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085426",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-07-01T15:38:25+02:00",
+                                    "Content": "Liebe Studierende,  wir möchten Sie hiermit informieren, dass die Vorlesung am Mittwoch, den 03. Juli, von 12 bis 14 Uhr im Modul “Grundlagen der Automatisierungstechnik” leider nicht stattfinden kann. Prof. Krüger ist aufgrund eines dringenden Termins verhindert und Herr Karbouj befindet sich auf einer Konferenz.  Wir bedauern die Unannehmlichkeiten und bitten um Ihr Verständnis.  Bitte stellen Sie sicher, dass Sie zu diesem Zeitpunkt nicht zur Vorlesung erscheinen. Um dennoch im kurzen Sommersemester nicht in Verzug zu geraten, bitten wir Sie, die folgenden Lehrinhalte selbstständig zu bearbeiten:  • GAUT-6-Antriebstechnik2  Die entsprechenden Vorlesungsvideos finden Sie in der TUB Cloud. Bitte bearbeiten Sie die Vorlesungsinhalte sorgfältig im Selbststudium, da Prof. Dr. Krüger an diese Inhalte anschließen wird.  Wir möchten Sie bitten, Ihre Kommilitonen über diese Änderung zu informieren. Ihre Unterstützung bei der Weiterleitung dieser Nachricht würde uns sehr helfen, um sicherzustellen, dass niemand umsonst zur Vorlesung erscheint.  Sollten Sie Fragen oder Anliegen bezüglich der Vorlesung haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir stehen Ihnen gerne zur Verfügung.  Freundliche Grüße vom Team Grundlagen der Automatisierungstechnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hinweise zum Testat",
+                            "Discussion_Id": "600449",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079218",
+                                    "Author": "Bsher Karbouj",
+                                    "DateTime": "2024-06-11T21:40:37+02:00",
+                                    "Content": "Liebe Studierende,  wie in der letzten Übungsstunde angekündigt möchte ich Sie hiermit noch einmal über die Organisation des kommenden ersten Zwischentestats informieren. Bitte beachten Sie die folgenden Details: Datum: Freitag, 14.06.2024 Raum: PTZ S001  Gruppeneinteilung: - Gruppe 1: Nachnamen von A bis einschließlich F - Gruppe 2: Nachnamen von G bis einschließlich M - Gruppe 2: Nachnamen von N bis einschließlich Z Testdauer: 40 Minuten  Zeitplan: - Gruppe 1: Beginn um 14:15 Uhr, Ende um 14:55 Uhr - Gruppe 2: Beginn um 15:15 Uhr, Ende um 15:55 Uhr - Gruppe 3: Beginn um 16:15 Uhr, Ende um 16:55 Uhr  Wichtige Hinweise: - Bitte vergessen Sie nicht, Ihren Personal- und Studierendenausweis mitzubringen. Der Zutritt zum Testat ist nur mit gültigem Ausweis gestattet. - Für den Test sind keine Hilfsmittel zugelassen. Es handelt sich um eine schriftliche Präsenzprüfung (closed book).  Bitte seien Sie pünktlich zu Ihrem entsprechenden Zeitfenster vor Ort. Der Einlass in den Prüfungsraum beginnt um 14:00 Uhr für Gruppe 1, 15:00 Uhr für Gruppe 2 und 16:00 Uhr für Gruppe 3.  Wir möchten betonen, wie wichtig es ist, pünktlich zu erscheinen, um einen reibungslosen Ablauf der Prüfung zu gewährleisten. Verspätete Teilnehmer können aus organisatorischen Gründen möglicherweise nicht mehr zum Testat zugelassen werden. Bei weiteren Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung. Wir wünschen Ihnen viel Erfolg bei der Vorbereitung und beim Testat.  Freundliche Grüße vom Team \"Grundlagen der Automatisierungstechnik\"",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Erinnerung]: Prüfungsanmeldung",
+                            "Discussion_Id": "596537",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073371",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-05-24T13:50:36+02:00",
+                                    "Content": "Liebe Studierende,  wir möchten Sie freundlich daran erinnern, dass die Anmeldefrist für die Prüfungen im Modul \"Grundlagen der Automatisierungstechnik\" bald abläuft. Bitte beachten Sie, dass Sie sich bis zum 31. Mai 2024 anmelden müssen, um an der Modulprüfung teilzunehmen. Es ist sehr wichtig, dass Sie sich rechtzeitig anmelden, da wir nach Ablauf der Frist keine Anmeldungen mehr entgegennehmen können. Bitte prüfen Sie daher, ob Sie sich bereits angemeldet haben und melden Sie sich gegebenenfalls umgehend an. Sollten Sie Fragen oder Probleme bei der Prüfungsanmeldung haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir stehen Ihnen gerne zur Verfügung.  Freundliche Grüße vom Team  Grundlagen der Automatisierungstechnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[DRINGEND] Morgige VL Online über Zoom",
+                            "Discussion_Id": "592849",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067640",
+                                    "Author": "Bsher Karbouj",
+                                    "DateTime": "2024-05-07T10:50:04+02:00",
+                                    "Content": "Liebe Studierende  aus organisatorischen Gründen findet die morgige Vorlesung am Mittwoch, den 08. Mai, zwischen 12 und 14 Uhr im Modul \"Grundlagen der Automatisierungstechnik\" online über Zoom statt.  Der Link zur Vorlesung (https://tu-berlin.zoom.us/j/62479239503?pwd=c3hUYmkzaW9TaHdNU1cxOUVFZnVtZz09) Wir bitten um Verständnis  beste Grüße Bsher Karbouj",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Krankheitsbedingter Ausfall der morgigen Vorlesung im Modul \"Grundlagen der Automatisierungstechnik\"",
+                            "Discussion_Id": "588906",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061532",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-04-23T13:46:22+02:00",
+                                    "Content": "Liebe Studierende,  wir möchten Sie hiermit dringend informieren, dass die morgige Vorlesung am Mittwoch, den 24. April, zwischen 12 und 14 Uhr im Modul \"Grundlagen der Automatisierungstechnik\" leider nicht stattfinden kann. Prof. Krüger befindet sich, wie letzte Woche erwähnt, auf einer Konferenz und Herr Karbouj fällt leider krankheitsbedingt aus. Wir bedauern die Unannehmlichkeiten und bitten um Ihr Verständnis. Bitte stellen Sie sicher, dass Sie zu diesem Zeitpunkt nicht zur Vorlesung erscheinen. Um dennoch im kurzen Sommersemester nicht in Verzug zu geraten, sind im Rahmen der Lehrveranstaltung \"Grundlagen der Automatisierungstechnik\" (GAUT) folgende Lehrinhalte selbstständig zu bearbeiten: GAUT-2_Zahlensysteme_Boolesche_Algebra1 Die Vorlesungsvideos finden Sie auf der ISIS-Seite. Bitte bearbeiten Sie die Vorlesungsinhalte sorgfältig im Selbststudium, da Prof. Dr. Krüger an diese Inhalte anschließen wird. Wir möchten Sie bitten, Ihre Kommilitonen über diese Änderung zu informieren. Ihre Unterstützung bei der Weiterleitung dieser Nachricht würde uns sehr helfen, um sicherzustellen, dass niemand umsonst zur Vorlesung erscheint. Sollten Sie Fragen oder Anliegen bezüglich der Vorlesung haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir stehen Ihnen gerne zur Verfügung.  Freundliche Grüße vom Team  Grundlagen der Automatisierungstechnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studentenforum",
+                    "Forum_id": "1779308",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "berechnung der induzierten Spannung",
+                            "Discussion_Id": "607609",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089527",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-07-13T09:09:58+02:00",
+                                    "Content": "Nach der letzten Übung habe ich jetzt hier die Winkelgeschwindigkeit erwartet (die aus der Drehzahl berechnet wird) und nicht direkt die Drehzahl. Wo ist hier mein Denkfehler?  LG Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Testat Inhalt",
+                            "Discussion_Id": "606912",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088522",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-07-10T14:31:08+02:00",
+                                    "Content": "Ich würde gerne wissen, ob wir das Formelblatt zu den elektrischen Antrieben auch im Test nutzen können. Und 2. würde ich gerne wissen, wie weit wir CNC Befehle können müssen. Sollten wir alle in der Übung vorgekommenen Befehle kennen, oder auch die aus der Vorlesung?  LG Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Musterlösungen der 9. und 10. Übung",
+                            "Discussion_Id": "605929",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087102",
+                                    "Author": "Jakob Harder",
+                                    "DateTime": "2024-07-06T18:29:35+02:00",
+                                    "Content": "Hallo. Wäre es möglich die Musterlösungen für die 9. und 10. Übung hochzuladen? Das wäre super für die Vorbereitung der nächsten Zwischenprüfung. Dankeschön!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087488",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-07-08T12:10:15+02:00",
+                                    "Content": "Hallo Jakob,  die Musterlösungen für die 9. und 10. Übung sind jetzt hochgeladen. Viel Spaß bei der Vorbereitung auf das zweite Zwischentestat! Ich wünsche euch viel Erfolg.  Beste Grüße",
+                                    "Response to": "p1087102"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verwirrung bzgl. VL Inhalt",
+                            "Discussion_Id": "605910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087071",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-07-06T14:08:35+02:00",
+                                    "Content": "Guten Tag,  ich bin etwas verwirrt warum wir uns diese Woche mit der VL Antriebstechnik 2 beschäftigen sollen, wobei wir die VL Antriebstechnik 1 (in der TUB Cloud) noch nicht gemacht haben. In der FAQ Folie steht dann aber wieder dass es nur eine VL mit dem Namen \"elektrische Antriebe\" geben soll. Ich kann das leider auch nicht prüfen, da keine VL Folien dazu hochgeladen sind.  Können Sie mir helfen meine Verwirrung zu entwirren?  LG Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087486",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-07-08T12:08:56+02:00",
+                                    "Content": "Hallo Paul,  ich verstehe, dass die Situation verwirrend sein kann. Kurz gesagt: Die Vorlesungen Antriebstechnik 1 und Antriebstechnik 2 behandeln beide das Thema elektrische Antriebe und stellen die Vorlesung zu den elektrischen Antrieben dar.  Viele Grüße",
+                                    "Response to": "p1087071"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KV Diagramm",
+                            "Discussion_Id": "601015",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080048",
+                                    "Author": "Kristiana Dano",
+                                    "DateTime": "2024-06-14T09:06:21+02:00",
+                                    "Content": "In dieser Aufgabe (oder auch generell bezüglich eines KV Diagramms) reicht es wenn alle Gruppen von Einsen nur Einsen haben die nur in eine Gruppe gehören (wenn keine eins übrig ist)? Konkreter: die mit grün gekennzeichnete Gruppe muss nicht mitbetrachtet werden?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp Gruppe?",
+                            "Discussion_Id": "600893",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079868",
+                                    "Author": "Adrian Jose Wix Torres",
+                                    "DateTime": "2024-06-13T14:43:06+02:00",
+                                    "Content": "Gibt es eine Whatsapp-Gruppe für Automatisierungstechnik?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080029",
+                                    "Author": "Max Reche-Emden",
+                                    "DateTime": "2024-06-14T00:31:53+02:00",
+                                    "Content": "https://chat.whatsapp.com/CtpvAS8p8XsLsxJJZu9kJI",
+                                    "Response to": "p1079868"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 4",
+                            "Discussion_Id": "600859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079821",
+                                    "Author": "Wilson Yew",
+                                    "DateTime": "2024-06-13T13:23:14+02:00",
+                                    "Content": "Hallo, ich habe die folgenden Fragen: 1. Wäre es möglich, die vier 1 so zu verbinden?  2. Wieso ist das Ergebnis hier 0? Warum hat diese AND-Funktion nur einen Input und der untere Teil wurde nicht mit einem anderem Input verbunden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079836",
+                                    "Author": "An Duc Tran",
+                                    "DateTime": "2024-06-13T13:48:45+02:00",
+                                    "Content": "Zu 1.) Nein das ist nicht möglich, da eine Gruppengröße immer 2^n Felder entspricht—> es können nur Gruppen mit einer geraden Zahl gebildet werden  (Siehe UE 02)  2.) schau mal auf die Gleichung F unten rechts im Bild  Da steht dass X0= 0 oder x1=0 oder x2=1 sein muss damit F erfüllt wird. Nichts davon trifft auf die markierte Stelle zu.",
+                                    "Response to": "p1079821"
+                                },
+                                {
+                                    "Message_id": "p1079944",
+                                    "Author": "Wilson Yew",
+                                    "DateTime": "2024-06-13T17:32:57+02:00",
+                                    "Content": "Danke für die Antworten.  Zu 2): wenn x2=0 ist, dann wird die NOT-Funktion 1 ergeben. Das geht dann zur AND-Funktion, aber es gibt nur einen Input. Wie sollte diese AND-Funktion funktionieren?",
+                                    "Response to": "p1079836"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. zwischentestat",
+                            "Discussion_Id": "600447",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079216",
+                                    "Author": "Nikita Gudz",
+                                    "DateTime": "2024-06-11T21:26:38+02:00",
+                                    "Content": "Hallo, ich würde gerne Wissen wollen, ob und welche Hilfsmittel für das erste Zwischentestat erlaubt sind und bis zu welcher Übung Inhalte im Testat vorkommen werden?  Beste Grüße  Nikita",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079600",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-06-12T20:31:15+02:00",
+                                    "Content": "Das wurde schon hier beantwortet",
+                                    "Response to": "p1079216"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 3",
+                            "Discussion_Id": "600416",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079163",
+                                    "Author": "George Saba",
+                                    "DateTime": "2024-06-11T18:31:12+02:00",
+                                    "Content": "Guten Tag,  Ich würde Ihnen gerne eine Frage zum KV-Diagramm stellen. In der Lösung von Übung 3 haben Sie 2 Formate des KV-Diagramms verwendet, in Übung 1c und Übung 2c. Wenn ich das gleiche Format aus 1c in 2c verwende, erhalte ich eine andere Antwort. welches Format des KV-Diagramms ist das richtige?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079267",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-06-12T08:05:30+02:00",
+                                    "Content": "Leider keine Antwort von mir, sondern nur Unterstüzung der Frage. Ich habe auch das Problem dass es auf die Anordnung des KV Diagramms ankommt um genau die Lösungen aus den Übungen zu kommen.",
+                                    "Response to": "p1079163"
+                                },
+                                {
+                                    "Message_id": "p1079402",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-06-12T13:14:42+02:00",
+                                    "Content": "Hallo zusammen,  zunächst möchte ich darauf hinweisen, dass es bei der Beschriftung eines Karnaugh-Veitch-Diagramms VERSCHIEDENE korrekte Möglichkeiten gibt. Wichtig ist, dass jede mögliche Kombination der Variablen eindeutig einem Feld des Diagramms zugeordnet wird und dass keine Kombination mehr als einmal erscheint.  In dem speziellen Fall der Übung, wo einmal unterschiedliche Formate verwendet wurden, sind beide korrekt, da sie die oben genannten Kriterien erfüllen.  Wenn ihr die Aufgabe in beiden Formaten betrachtet, werden natürlich die Einsen an einer vermeintlich anderen Stelle stehen und somit zu einer scheinbar unterschiedlichen Lösung führen. Dennoch können mit denselben Regeln zur Vereinfachung durch das Zusammenfassen von Einsen in Gruppen (die auch im dreidimensionalen Raum existieren könnten, wenn man das Diagramm falten würde), dieselben minimalen Ausdrücke gefunden werden. Es ist also wichtig, dass ihr überprüft, ob wirklich alle Möglichkeiten der Vereinfachung ausgeschöpft wurden.  Zusammenfassend lässt sich sagen, dass nicht unbedingt ein Format „richtiger“ ist als das andere. Es ist vielmehr wichtig, dass ihr eine korrekte Form des KV-Diagramms nutzt, die alle Möglichkeiten korrekt einem Platz zuweist, und dass ihr alle Regeln zur Vereinfachung korrekt anwendet.  Wenn ihr weitere Fragen habt oder Unterstützung bei euren Lösungen benötigt, schreibt gerne eine E-Mail. Ich versuche dann, noch vor dem Testat, euch weiterzuhelfen.",
+                                    "Response to": "p1079267"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Videos zu den Vorlesungen",
+                            "Discussion_Id": "600291",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078976",
+                                    "Author": "Frederick Andreas Möckel",
+                                    "DateTime": "2024-06-11T13:23:45+02:00",
+                                    "Content": "Guten Tag, wie bereits zuvor nach der Vorlesung mit Herrn Prof. Dr.-Ing. Jörg Krüger besprochen, möchte ich Sie bitten, die Videos zu den Vorlesungen aus den Onlinesemestern zur Verfügung zu stellen. Nochmals vielen Dank und viele Grüße!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078982",
+                                    "Author": "Joschka Völkel",
+                                    "DateTime": "2024-06-11T13:37:09+02:00",
+                                    "Content": "Hey, ich vermute, die Videos, die du meinst, wurden bereits zur Verfügung gestellt unter dem Internet/Tub-Cloudlink direkt über Abschnitt 1 im ISIS-Kurs unter: https://tubcloud.tu-berlin.de/s/6wioy77ijo7CpxT",
+                                    "Response to": "p1078976"
+                                },
+                                {
+                                    "Message_id": "p1079034",
+                                    "Author": "Frederick Andreas Möckel",
+                                    "DateTime": "2024-06-11T14:40:42+02:00",
+                                    "Content": "Danke für die schnelle Antwort. Mein Fehler!",
+                                    "Response to": "p1078982"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Zwischentestat",
+                            "Discussion_Id": "600179",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078823",
+                                    "Author": "Magnus Alexander Paul Jakubik",
+                                    "DateTime": "2024-06-11T08:46:08+02:00",
+                                    "Content": "Guten Tag,  ich wollte mal fragen wann genau und in welchem Raum das erste Zwischentestat am Freitag stattfindet? Viele Grüße  Magnus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Musterlösung für Übung 7",
+                            "Discussion_Id": "599761",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078180",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-06-08T15:09:03+02:00",
+                                    "Content": "Guten Tag,  könnte auch die Musterlösung für Übung 7 früher hochgeladen werden? Wenn man nicht bei der Übung war wäre Donnerstag nämlich ein bisschen knapp. Vielen Dank!  LG Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Musterlösung der 6.Übung",
+                            "Discussion_Id": "598591",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076523",
+                                    "Author": "Narges Nazari",
+                                    "DateTime": "2024-06-03T15:33:21+02:00",
+                                    "Content": "Guten Tag,  ich bitte Sie, falls es möglich ist, die Musterlösung der 6.Übung aus vergangenem Freitag zum Nachbearbeiten zur Verfügung zu stellen. Danke im Voraus. Viele Grüße Narges ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076562",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-06-03T16:34:07+02:00",
+                                    "Content": "Hallo Narges,  im Bezug auf das bevorstehende Testat habe ich euch die Lösung für die 6. Übung bereits jetzt hochgeladen und nicht wie üblich erst am Donnerstag vor der nächsten Übung. Ihr könnt sie ab sofort im entsprechenden Bereich einsehen.  Viele Grüße",
+                                    "Response to": "p1076523"
+                                },
+                                {
+                                    "Message_id": "p1076613",
+                                    "Author": "Narges Nazari",
+                                    "DateTime": "2024-06-03T18:17:21+02:00",
+                                    "Content": "vielen Dank für die Berücksichtigung.  Viele Grüße Narges",
+                                    "Response to": "p1076562"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Testat Inhalt",
+                            "Discussion_Id": "598347",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076157",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-06-02T16:38:52+02:00",
+                                    "Content": "Guten Tag,  bis zu welchem Inhalt müssen wir Fragen im ersten Testat erwarten? Ich frage weil es ja z.B. eine VL am Montag davor gibt, zu der es dann aber keine Übung mehr vor dem Testat gibt.  LG Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076497",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-06-03T14:42:20+02:00",
+                                    "Content": "Hallo Paul,  vielen Dank für deine Nachfrage. Du hast vollkommen recht, dass nach der Vorlesung am Montag vor dem Testat keine Übung mehr stattfindet. Der Inhalt des ersten Zwischentestates wird sich jedoch, wie bereits in den FAQ-Folien und auch in der ersten Vorlesung erwähnt, hauptsächlich auf die Inhalte der Übungen konzentrieren. Alle Inhalte bis einschließlich der zweiten Übung zur speicherprogrammierbaren Steuerung (SPS2) werden abgefragt.  Ich möchte noch einmal betonen, dass, obwohl die Vorlesung am Montag möglicherweise wertvolle Einblicke und eine Vertiefung der Inhalte bietet, sie, wie es so schön heißt, “keine notwendige Bedingung” für das erfolgreiche Bestehen des ersten Zwischentestates ist.  VG",
+                                    "Response to": "p1076157"
+                                },
+                                {
+                                    "Message_id": "p1076543",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-06-03T16:05:33+02:00",
+                                    "Content": "Alles klar. Vielen Dank für die beiden Antworten :)  LG Paul",
+                                    "Response to": "p1076497"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Diskrepanz zwischen VL und Übung",
+                            "Discussion_Id": "598346",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076156",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-06-02T16:37:28+02:00",
+                                    "Content": "Guten Tag,  die Folien zur Übung 6 bestehen aus meiner Sicht vor allem aus Material, welches laut der Terminübersicht erst in der übernächsten Woche rankommen soll. Nämlich in der SPS 3 VL. Könnte meine Verwirrung aufgelöst werden?  LG Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076480",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-06-03T14:19:56+02:00",
+                                    "Content": "Hallo Paul,  aufgrund des 1. Mai-Feiertags und der insgesamt kürzeren Vorlesungszeit im Sommersemester kommt es tatsächlich vor, dass einige Lerninhalte in den Übungen behandelt werden müssen, bevor sie formal in der Vorlesung eingeführt werden. Wir sind uns dieser Herausforderung bewusst und haben dafür gesorgt, dass alle relevanten Lehrmaterialien bereits online zur Verfügung stehen.  Für die Übung 6, wie auch bei den anderen Übungen, wo dies der Fall ist, bieten wir stets zu Beginn der Sitzung einen kurzen theoretischen Einstieg an. Dieser soll sicherstellen, dass alle Studierenden auf dem gleichen Stand sind und die Übungsinhalte effektiv bearbeiten können.  Ich hoffe, dass dies deine Verwirrung auflöst und dir weiterhilft. Solltest du weiterhin Fragen haben oder zusätzliche Erläuterungen benötigen, zögere bitte nicht, dich zu melden.  Beste Grüße,  Patrick Kahl",
+                                    "Response to": "p1076156"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsfolien ",
+                            "Discussion_Id": "594913",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070883",
+                                    "Author": "Alexander Brenner",
+                                    "DateTime": "2024-05-16T12:48:46+02:00",
+                                    "Content": "Hallo,  wäre es möglich die Folien für die Vorlesungen rechtzeitig freizuschalten? Die Folien der gestrigen Vorlesung sind auch noch nicht sichtbar. Danke.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Heutige Vorlesung ",
+                            "Discussion_Id": "593185",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068137",
+                                    "Author": "Fides Mustafova",
+                                    "DateTime": "2024-05-08T10:14:19+02:00",
+                                    "Content": "Hallo, ich wollte fragen, ob es möglich wäre die heutige Vorlesung als screencast hochzuladen? Ich habe im selben Zeitraum eine andere Übung und kann deswegen leider nicht teilnehmen.  Mit freundlichen Grüßen ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068293",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-05-08T14:15:17+02:00",
+                                    "Content": "Hallo,  wir verstehen, dass Überschneidungen mit anderen Veranstaltungen eine Herausforderung darstellen können.  Für die Vorlesungen aus den Coronasemestern bieten wir tatsächlich die Möglichkeit, aufgezeichnete Screencasts zu nutzen. Diese werden Woche für Woche entsprechend des aktuellen Vorlesungsplans freigeschaltet. Bitte beachten Sie jedoch, dass die Inhalte der aktuellen Vorlesung von den aufgezeichneten Screencasts abweichen können, da wir bestrebt sind, die Vorlesungsinhalte Jahr für Jahr zu verbessern und zu ergänzen.  Wir empfehlen Ihnen daher, sich zusätzlich bei Ihren Kommilitonen zu informieren, welche Inhalte aktuell in der Vorlesung behandelt werden, um sicherzustellen, dass Sie auf dem neuesten Stand bleiben.  Bei weiteren Fragen oder Anliegen stehen wir Ihnen gerne zur Verfügung.  Mit freundlichen Grüßen,  Patrick Kahl",
+                                    "Response to": "p1068137"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Uhrzeit des 2. Zwischentestats",
+                            "Discussion_Id": "591634",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065725",
+                                    "Author": "Joschka Völkel",
+                                    "DateTime": "2024-05-02T11:25:51+02:00",
+                                    "Content": "Hallo,  um welche Uhrzeit wird das zweite Zwischentestat geschrieben? Ich würde das gerne wissen, um planen zu können, damit sich das nicht mit einer anderen Prüfung, die ich am selben Tag schreiben möchte, nicht überschneidet.  Viele Grüße Joschka Völkel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065745",
+                                    "Author": "Bsher Karbouj",
+                                    "DateTime": "2024-05-02T11:43:18+02:00",
+                                    "Content": "Hallo Herr Völkel,  die beiden Zwischentests finden zur gleichen Uhrzeit der Übungsstunde (14:00 bis 16:00 Uhr) im gleichen Raum statt.   mit besten Grüßen Bsher Karbouj, M.Sc. ",
+                                    "Response to": "p1065725"
+                                },
+                                {
+                                    "Message_id": "p1065791",
+                                    "Author": "Joschka Völkel",
+                                    "DateTime": "2024-05-02T12:26:23+02:00",
+                                    "Content": "Vielen Dank für die sehr schnelle Antwort!",
+                                    "Response to": "p1065745"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungen",
+                            "Discussion_Id": "591070",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064857",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-04-30T09:24:54+02:00",
+                                    "Content": "Wäre es auch möglich Lösungen für die Übungen hochzuladen? Das wäre wirklich super!  LG Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065127",
+                                    "Author": "Patrick Paul Tobias Kahl",
+                                    "DateTime": "2024-04-30T14:48:34+02:00",
+                                    "Content": "Hallo Paul,  die Lösungen für die letzte Übung sind jetzt hochgeladen.  Liebe Grüße!",
+                                    "Response to": "p1064857"
+                                },
+                                {
+                                    "Message_id": "p1065451",
+                                    "Author": "Paul Sebastian Proske",
+                                    "DateTime": "2024-05-01T15:36:15+02:00",
+                                    "Content": "super. Danke!",
+                                    "Response to": "p1065127"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsvideo",
+                            "Discussion_Id": "591432",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065396",
+                                    "Author": "M Subie Hiswani",
+                                    "DateTime": "2024-05-01T12:03:47+02:00",
+                                    "Content": "Hallo,  wird diese Woche ein Vorlesungsvideo hochgeladen?   VG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine Zwischentestate",
+                            "Discussion_Id": "589298",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062168",
+                                    "Author": "Leo Caruso Warns",
+                                    "DateTime": "2024-04-24T11:34:46+02:00",
+                                    "Content": "Vielleicht eine blöde Frage, aber wo finde ich denn die Terminübersicht mit den Zwischentestaten? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062198",
+                                    "Author": "Joschka Völkel",
+                                    "DateTime": "2024-04-24T12:11:45+02:00",
+                                    "Content": "In der ersten Vorlesung stand das auf den Folien: 1. Testat am 14.06.2024 und das 2. Testat am 19.07.2024",
+                                    "Response to": "p1062168"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Vorlesungsmaterialien von der heutigen Veranstaltung 17.04",
+                            "Discussion_Id": "587051",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058586",
+                                    "Author": "Narges Nazari",
+                                    "DateTime": "2024-04-17T18:01:42+02:00",
+                                    "Content": "Guten Tag, ich konnte heute bei der Vorlesung von Grundlagen der Automatisierungstechnik nicht dabei sein, falls sie heute stattgefunden hat und es sind auch keine Materialien im ISIS Kurs zum Nachbearbeiten zur Verfügung gestellt. Ist es möglich die Vorlesungsmaterial zu Verfügung gestellt zu bekommen?  Danke im Voraus. Viele Grüße  Narges",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060331",
+                                    "Author": "Jan Frederik Knoll",
+                                    "DateTime": "2024-04-21T22:53:59+02:00",
+                                    "Content": "Hallo,  mir geht es genauso und ich würde mich der Frage anschließen. Vielen Dank im Voraus.  Mfg Jan",
+                                    "Response to": "p1058586"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Übung",
+                            "Discussion_Id": "587497",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059268",
+                                    "Author": "Deniz Böyüktas",
+                                    "DateTime": "2024-04-18T20:41:03+02:00",
+                                    "Content": "Hallo,  findet morgen (19.04.2024) die erste Übung statt oder geht es erst ab nächster Woche los?   LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059316",
+                                    "Author": "M Subie Hiswani",
+                                    "DateTime": "2024-04-19T05:13:28+02:00",
+                                    "Content": "Hallo Deniz,  es wurde in der VL angekündigt, dass die Übung erst ab nächste Woche beginnt.",
+                                    "Response to": "p1059268"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

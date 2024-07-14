@@ -1,0 +1,589 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computational Music Studies: Music Information Retrieval in der Musikrezeptionsforschung (Lepa)",
+        "Course_id": "38375",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1789217",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall Sprechstunden und Vertretung CMS Seminar ",
+                            "Discussion_Id": "597539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074959",
+                                    "Author": "Steffen Lepa",
+                                    "DateTime": "2024-05-29T08:55:38+02:00",
+                                    "Content": "Liebe Studierende, Krankheitsbedingt müssen leider die für heute Mi 29. Mai anberaumten Sprechstundentermine bei mir ausfallen. Das CMS Seminar findet hingegen statt und wird von Markus Radke in Vertretung technisch und inhaltlich betreut. Die Sprechstundentermine können morgen Do oder übermorgen Fr per Zoom nachgeholt werden, die  Betroffenen bitte ich mir dafür Terminvorschläge zu mailen. Das MME Seminar wird morgen Do 30. Mai ebenfalls planmäßig stattfinden. MfG, Steffen Lepa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Prüfungsanmeldung",
+                            "Discussion_Id": "594311",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069952",
+                                    "Author": "Steffen Lepa",
+                                    "DateTime": "2024-05-14T12:21:31+02:00",
+                                    "Content": "Liebe SeminarteilnehmerInnen, bitte denken Sie daran, dass Sie sich bis zum 15. Mai verbindlich bei Moses zur Prüfung anmelden müssen, wenn Sie Prüfungsleistungen im Kontext des Seminares in diesem Semester angerechnet bekommen wollen. Das gilt inzwischen auch für die freie Wahl. Entscheiden Sie bitte also anhand der Einführungsfolien der Veranstaltung, welches Anrechnungsmodell für Sie am besten ist und melden sich (soweit noch nicht geschehen) bei Moses jetzt verbindlich an. MFG, Steffen Lepa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Upload-Ordner für finale Referatspräsentationen",
+                    "Forum_id": "1789219",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Referat 10.07.24 - Spotify Gender Bias (Aleksandra Klushina &amp; Fabian S. Klinke)",
+                            "Discussion_Id": "606844",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088419",
+                                    "Author": "Fabian Sebastian Klinke",
+                                    "DateTime": "2024-07-10T11:27:09+02:00",
+                                    "Content": "Anbei unsere Präsentation als PDF",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "10.07.2024 - Popular Bias in music recommendation system(Alice Castant und Xueming Cui) ",
+                            "Discussion_Id": "606830",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088393",
+                                    "Author": "Xueming Cui",
+                                    "DateTime": "2024-07-10T10:56:03+02:00",
+                                    "Content": "10.07.2024 - Popular Bias in music recommendation system(Alice Castant und Xueming Cui) ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Harms_Schenkyr_Spotifybots",
+                            "Discussion_Id": "605235",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086133",
+                                    "Author": "Gregor Anton Marc Harms",
+                                    "DateTime": "2024-07-03T12:10:56+02:00",
+                                    "Content": "Im Anhang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "03.07.24 – Youtube Recommender Algorithms (Vladimir Salazar und Lion Sano))",
+                            "Discussion_Id": "605225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086121",
+                                    "Author": "Lion Suimei Daigo Sano",
+                                    "DateTime": "2024-07-03T11:44:49+02:00",
+                                    "Content": ".",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "26.06.24 - Zeitfluktuationen im Streamingverhalten (Basile Henkes und Jan Niewöhner)",
+                            "Discussion_Id": "603651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083855",
+                                    "Author": "Jan Phillip Niewöhner",
+                                    "DateTime": "2024-06-26T09:43:04+02:00",
+                                    "Content": "Anbei unser finales Referat Mit freundlichen Grüßen ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 26.06.24 Veränderungen durch Streaming-Adoption (Wei , Sadeghian)",
+                            "Discussion_Id": "603616",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083788",
+                                    "Author": "Song Wei",
+                                    "DateTime": "2024-06-25T22:14:25+02:00",
+                                    "Content": "final presentation",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 19.06.24 - Musikpräferenz als Soundpräferenz (Maximilian Beyer, Rodrigo Loyola und Avijah Neumann)",
+                            "Discussion_Id": "602034",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081512",
+                                    "Author": "Avijah Sofie Neumann",
+                                    "DateTime": "2024-06-19T11:06:22+02:00",
+                                    "Content": "Beeinflussen übergeordnete Musikeigenschaften die präferierte Musik innerhalb unterschiedlicher Genres?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081523",
+                                    "Author": "Rodrigo Loyola",
+                                    "DateTime": "2024-06-19T11:28:21+02:00",
+                                    "Content": "Korrektur",
+                                    "Response to": "p1081512"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 12.06.24 - Musikalische Emotionen: Popmusik (Scheufele und Trujillo)",
+                            "Discussion_Id": "600574",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079381",
+                                    "Author": "Karla Alexandra Trujillo Ardiles",
+                                    "DateTime": "2024-06-12T12:12:35+02:00",
+                                    "Content": "Sehr geehrter Herr Lepa, anbei finden Sie die Dokumente unserer Präsentation. Link zum Google Docs:  https://docs.google.com/presentation/d/1B5cLFyYs7Sqpx8GYsDfoHMsHQRDA4b9DVFytMvdGqTA/edit#slide=id.g6c311df091163dd_0",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 12.06.24 - Musikalische Emotionen: Klassik (Birte Tröger und Paula Klein)",
+                            "Discussion_Id": "600517",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079309",
+                                    "Author": "Paula Klein",
+                                    "DateTime": "2024-06-12T10:09:25+02:00",
+                                    "Content": "Unsere Präsentation zum Thema \"Musikalische Emotionen für Klassik vorhersagen und die Rolle der Amplitudennormalisierung\":",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 05.06.24 - Sentimentanalyse (Jan Willms und Ben Klaster)",
+                            "Discussion_Id": "599098",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077235",
+                                    "Author": "Ben Johann Isaak Ludwig Klaster",
+                                    "DateTime": "2024-06-05T11:27:53+02:00",
+                                    "Content": "Unsere Präsentation zum Thema Sentimentanalyse in Songtexten: https://docs.google.com/presentation/d/1xeznogrcOLAPCBc0dpHpxsx16QREKa25FhEApQDCokQ/edit?usp=sharing",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 05.06.24 - Informationsgehalt &amp; Komplexität (Fenja Schulz &amp; Konstantin Prieb)",
+                            "Discussion_Id": "599077",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077211",
+                                    "Author": "Konstantin Lukas Prieb",
+                                    "DateTime": "2024-06-05T10:51:44+02:00",
+                                    "Content": "Anbei unsere Folien für heute + der Link für das Puzzlespiel: https://puzzel.org/matching-pairs/play?p=-Nyycd-u7r728xvnnFqb",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 29.05.24 - Einschlafmusik (van Dijk und Zehentbauer)",
+                            "Discussion_Id": "597584",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075030",
+                                    "Author": "Tobias van Dijk",
+                                    "DateTime": "2024-05-29T11:18:49+02:00",
+                                    "Content": "anbei unsere Folien zum Thema Einschlafmusik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 29.05.24 - World Music (Sebastian Runn &amp; Moritz Mohr)",
+                            "Discussion_Id": "597567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075001",
+                                    "Author": "Moritz Lucca Mohr",
+                                    "DateTime": "2024-05-29T10:16:45+02:00",
+                                    "Content": "Anbei unsere Vortragsfolien",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 22.05.24 - Kultur und Musikpräferenz Weltweit (Lina Campanella &amp; Damian Martinez Dreyer)",
+                            "Discussion_Id": "595924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072492",
+                                    "Author": "Damian Dominik Martinez Dreyer",
+                                    "DateTime": "2024-05-22T11:13:20+02:00",
+                                    "Content": "Sehr geehrter Herr Lepa, anbei der Link zu unserer Präsentation und die PDF Version. Link: https://docs.google.com/presentation/d/1zbRh9DVgux6B8yj--kyrv8ovz_a9VeGr-e2NgT4-PeM/edit?usp=sharing Freundliche Grüße Lina Campanella und Damian Martinez Dreyer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 22.05.2024 - Underground Hörer (Adrian Alexander und Linus Staubach)",
+                            "Discussion_Id": "595828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072347",
+                                    "Author": "Linus Staubach",
+                                    "DateTime": "2024-05-21T22:20:14+02:00",
+                                    "Content": "Sehr geehrter Herr Lepa, anbei unsere Referatsfolien zur Präsentation. mit freundlichen Grüßen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 15.05.24 - Typikalität (Miriam Pampel und Johanna Rothermel)",
+                            "Discussion_Id": "594600",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070416",
+                                    "Author": "Johanna Rothermel",
+                                    "DateTime": "2024-05-15T11:52:18+02:00",
+                                    "Content": "Sehr geehrter Herr Dr. Lepa, anbei befindet sich unsere Präsentation zum Thema Typikalität. Freundliche Grüße Miriam Pampel und Johanna Rothermel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 15.05.24 - Hit Prediction Research (Lisa Scheibner und Jonas Trumpler)",
+                            "Discussion_Id": "594576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070365",
+                                    "Author": "Carl Jonas Trumpler",
+                                    "DateTime": "2024-05-15T11:04:06+02:00",
+                                    "Content": "Anbei die Folien zu unserer Präsentation zum Thema \"Prognoseansätze für den Erfolg zeitgenössischer Musik\".",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat 08.05.2024 - Evolution der Klassik (Philipp Ostermaier und Andreas Kandolf)",
+                            "Discussion_Id": "593238",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068221",
+                                    "Author": "Philipp Richard Ostermaier",
+                                    "DateTime": "2024-05-08T12:13:16+02:00",
+                                    "Content": "https://docs.google.com/presentation/d/12XBqKXom7CqX6CGOWltCE2ACqJfPsnYlfcNBimaIVpU/edit?usp=sharing",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referat_08_05_24_The_Evolution_of_Popular_Music_Quan_Ruan",
+                            "Discussion_Id": "593172",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068123",
+                                    "Author": "Zerui Quan",
+                                    "DateTime": "2024-05-08T09:58:50+02:00",
+                                    "Content": "Referat_08_05_24_The_Evolution_of_Popular_Music_Quan_Ruan https://miro.com/app/board/uXjVKPzLqlo=/?share_link_id=498247121643",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Upload-Ordner für Referatsentwürfe",
+                    "Forum_id": "1789220",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                            "Discussion_Id": "606661",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088150",
+                                    "Author": "Alice Marie Bona Castant",
+                                    "DateTime": "2024-07-09T15:32:13+02:00",
+                                    "Content": "https://docs.google.com/presentation/d/1K7lEqJfyBmEcuhP_0hEisQUHI4FTaHySp6w0Y5X2TNw/edit#slide=id.g2ea8459df5d_1_71",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                            "Discussion_Id": "605874",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087010",
+                                    "Author": "Xueming Cui",
+                                    "DateTime": "2024-07-05T18:09:56+02:00",
+                                    "Content": "Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                            "Discussion_Id": "605873",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087009",
+                                    "Author": "Alice Marie Bona Castant",
+                                    "DateTime": "2024-07-05T18:05:48+02:00",
+                                    "Content": "Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                            "Discussion_Id": "605870",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087006",
+                                    "Author": "Alice Marie Bona Castant",
+                                    "DateTime": "2024-07-05T17:58:44+02:00",
+                                    "Content": " Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                            "Discussion_Id": "605865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086997",
+                                    "Author": "Xueming Cui",
+                                    "DateTime": "2024-07-05T17:10:17+02:00",
+                                    "Content": "Referatsentwurf 10.07.2024 - Popular Bias (Alice Castant und Xueming Cui)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 17.07.2024 - Music Recommendation Diversity (Philip Ohlsen und Johannes Kellig)",
+                            "Discussion_Id": "605131",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085995",
+                                    "Author": "Johannes Kellig",
+                                    "DateTime": "2024-07-02T21:41:11+02:00",
+                                    "Content": "Sehr geehrter Herr Lepa,  anbei unser Referatsentwurf. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 18.06.2024 – Implizite Genre-Cluster bei YT-Musikvideos (Vladimir Ryndine, Lion Sano)",
+                            "Discussion_Id": "604252",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084694",
+                                    "Author": "Lion Suimei Daigo Sano",
+                                    "DateTime": "2024-06-28T12:58:34+02:00",
+                                    "Content": ".",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085940",
+                                    "Author": "Lion Suimei Daigo Sano",
+                                    "DateTime": "2024-07-02T18:00:50+02:00",
+                                    "Content": ".",
+                                    "Response to": "p1084694"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 17.07.24 Die Macht kuratierter Playlists (Sam Braun und Nikolaj Wolff)",
+                            "Discussion_Id": "604753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085450",
+                                    "Author": "Nikolaj Maximilian Wolff",
+                                    "DateTime": "2024-07-01T16:09:04+02:00",
+                                    "Content": "Anbei finden Sie den Entwurf für unser Referat.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 10.06.24 - Spotify Gender Bias (Aleksandra Klushina und Fabian S. Klinke)",
+                            "Discussion_Id": "603021",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082938",
+                                    "Author": "Fabian Sebastian Klinke",
+                                    "DateTime": "2024-06-24T12:36:14+02:00",
+                                    "Content": "Hier anbei unser Referatsentwurf für den Vortrag über Gender Bias in Spotify Playlist Rankings",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 19.06.24 - Musikpräferenz_auf_Basis_von_Audio_Features (Ui Jun Hahm and Guilhem Mitton)",
+                            "Discussion_Id": "601105",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080170",
+                                    "Author": "Ui Jun Hahm",
+                                    "DateTime": "2024-06-14T14:17:08+02:00",
+                                    "Content": "19.06.24 - Musikpräferenz_auf_Basis_von_Audio_Features (Ui Jun Hahm and Guilhem Mitton)  https://isis.tu-berlin.de/pluginfile.php/3166111/mod_forum/post/1080170/Referatsentwurf_19_06_24_Musikpr%C3%A4ferenz_auf_Basis_von_Audio_Features_Uijun_Hahm_and_Guilhem_Mitton.pdf?time=1718367425786",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "03.07.24 Spotify Experimente mit Bots (Schenkyr &amp; Harms)",
+                            "Discussion_Id": "600842",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079794",
+                                    "Author": "Gregor Anton Marc Harms",
+                                    "DateTime": "2024-06-13T12:30:12+02:00",
+                                    "Content": "Im Anhang.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079798",
+                                    "Author": "Gregor Anton Marc Harms",
+                                    "DateTime": "2024-06-13T12:47:12+02:00",
+                                    "Content": "Im Anhang.",
+                                    "Response to": "p1079794"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatentwurf 26.06.24 Veränderungen durch Streaming-Adoption (Wei , Sadeghian)",
+                            "Discussion_Id": "600676",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079540",
+                                    "Author": "Song Wei",
+                                    "DateTime": "2024-06-12T17:24:05+02:00",
+                                    "Content": "here is Referatentwurf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "26.06.24 - Zeitfluktuationen im Streamingverhalten (Basile Henkes und Jan Niewöhner)",
+                            "Discussion_Id": "600152",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078779",
+                                    "Author": "Jan Phillip Niewöhner",
+                                    "DateTime": "2024-06-10T21:34:31+02:00",
+                                    "Content": "Anbei unser Entwurf:",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 19.06.24 - Musikpräferenz als Soundpräferenz (Maximilian Beyer, Rodrigo Loyola, Avijah Neumann)",
+                            "Discussion_Id": "598695",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076671",
+                                    "Author": "Rodrigo Loyola",
+                                    "DateTime": "2024-06-03T21:38:41+02:00",
+                                    "Content": "Wir würden gerne wissen, ob unser Ansatz richtig ist.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 05.06.24 - Song Lyrics - Informationsgehalt und Komplexität (Fenja Schulz &amp; Konstantin Prieb)",
+                            "Discussion_Id": "597514",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074926",
+                                    "Author": "Konstantin Lukas Prieb",
+                                    "DateTime": "2024-05-28T23:24:15+02:00",
+                                    "Content": "Anbei unseren vorläufigen Referatsentwurf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 12.06.24 - Musikalische Emotionen: Popmusik (Carmen Scheufele und Karla Trujillo)",
+                            "Discussion_Id": "597195",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074481",
+                                    "Author": "Karla Alexandra Trujillo Ardiles",
+                                    "DateTime": "2024-05-28T03:10:59+02:00",
+                                    "Content": "Anbei unser Entwurf für das Referat am 12.06.24",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 12.06.24 - Musikalische Emotionen: Klassik (Birte Tröger und Paula Klein) ",
+                            "Discussion_Id": "597187",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074473",
+                                    "Author": "Paula Klein",
+                                    "DateTime": "2024-05-27T23:47:44+02:00",
+                                    "Content": "Anbei unser Entwurf für das Referat am 12.06.2024.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 05.06.24 - Song Lyrics - Sentimantanalyse (Jan Willms und Ben Klaster)",
+                            "Discussion_Id": "595488",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071841",
+                                    "Author": "Jan Willms",
+                                    "DateTime": "2024-05-20T21:03:08+02:00",
+                                    "Content": "Unten finden Sie unseren vorläufigen Referatsentwurf.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 29.05.24 - Einschlafmusik (Tobias van Dijk und Thomas Zehentbauer)",
+                            "Discussion_Id": "594682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070533",
+                                    "Author": "Thomas Wilhelm Adolph Zehentbauer",
+                                    "DateTime": "2024-05-15T15:09:51+02:00",
+                                    "Content": "Anbei unser Referatsentwurf für den 29.05.2024 - Einschlafmusik Wir wünschen guten und erholsamen Schlaf :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 29.05.24 - World music (Sebastian Runn und Moritz Mohr)",
+                            "Discussion_Id": "594200",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069767",
+                                    "Author": "Sebastian Runn",
+                                    "DateTime": "2024-05-13T22:21:12+02:00",
+                                    "Content": "Referatsentwurf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Referatsentwurf 08.05.24_The Evolution of popular music USA 1960-2020_Quan_Ruan ",
+                            "Discussion_Id": "592774",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067533",
+                                    "Author": "Zerui Quan",
+                                    "DateTime": "2024-05-07T01:47:06+02:00",
+                                    "Content": 

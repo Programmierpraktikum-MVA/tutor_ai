@@ -1,0 +1,44 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Röntgenphysik II",
+        "Course_id": "38485",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1792911",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VL am 18.7.24: Diskussion per zoom",
+                            "Discussion_Id": "606769",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088309",
+                                    "Author": "Stefan Eisebitt",
+                                    "DateTime": "2024-07-10T08:31:51+02:00",
+                                    "Content": "Liebe Studierende in der Röntgenphysik II, der Vortrag von Herrn Karadag am 18.7. fällt aus. Wie bereits in der letzten VL diskutiert, werden wir die Publikation von C. von Korff Schmising et al dann stattdessen gemeinsam besprechen, und zwar per Zoom. Zoom linkt folgt bzw. wird in ISIS eingestellt. ACHTUNG: dies ist NICHT in dieser Woche, sondern nächste Woche! Beste Grüße Stefan Eisebitt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einteilung der Vorträge in Röntgenphysik II",
+                            "Discussion_Id": "587469",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059224",
+                                    "Author": "Stefan Eisebitt",
+                                    "DateTime": "2024-04-18T18:25:48+02:00",
+                                    "Content": "Liebe Studierende in der Röntgenphysik II: Die Themen für die Vorträge sind heute eingeteilt worden, siehe ISIS Seite des Kurses. Es sind noch Vortragsthemen frei, siehe dazu die Datei \"Einteilung Vorträge\". Bei Interesse bitte zeitnah an die jeweilige Dozentin oder den jeweiligen Dozenten wenden! Beste Grüße Stefan Eisebitt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

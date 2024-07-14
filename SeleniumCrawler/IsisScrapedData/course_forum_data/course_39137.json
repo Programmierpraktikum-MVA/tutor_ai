@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Fundamentals of Vacuum and Plasma Process Technologies",
+        "Course_id": "39137",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1819385",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Keine Vorlesung morgen am 23.05.2024",
+                            "Discussion_Id": "596168",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072820",
+                                    "Author": "Bernd Szyszka",
+                                    "DateTime": "2024-05-23T00:43:22+02:00",
+                                    "Content": "Guten Abend, für morgen und übermorgen ist die Klausurtagung unserer Fakultät angesetzt, an der ich teilnehmen werde. Aus diesem Grund muss die Vorlesungen morgen leider enfallen. Viele Grüße, Bernd Szyszka",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verspäte mich um 15 Minuten",
+                            "Discussion_Id": "594820",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070747",
+                                    "Author": "Bernd Szyszka",
+                                    "DateTime": "2024-05-16T08:59:58+02:00",
+                                    "Content": "Guten Morgen, ich verspäte mich heute um 15 Minuten. Viele Grüße Bernd Szyszka ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

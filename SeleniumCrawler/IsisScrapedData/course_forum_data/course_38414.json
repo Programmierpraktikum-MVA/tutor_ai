@@ -1,0 +1,128 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] HTCV - Project",
+        "Course_id": "38414",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1790633",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Meeting Today",
+                            "Discussion_Id": "603578",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083731",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-06-25T18:38:29+02:00",
+                                    "Content": "Hello everyone,  I apologize for today's missed meeting. I felt sick today, but forgot to announce it in this course. My suggestion is to meet next week instead. We can then discuss, whether to change the bi-weekly rhythm or continue as is.   If any of you need guidance with the project you can contact me via email or you can also come tomorrow into my office MAR 6043 15:00-18:00. Sincere apologies Simon    ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Dates: 30.07 &amp; 06.08",
+                            "Discussion_Id": "599236",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077434",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-06-05T18:41:08+02:00",
+                                    "Content": "Hello everyone,  I would like to schedule the presentation dates for 30.07 and 06.08. On each date 3 groups can present. Each presentation should be 20min + 10min discussion. Attendance is mandatory regardless of whether you are presenting or not. The discussion and feedback should give you some final advice to improve your final submission.  The report should be submitted until 03.09.24  We'll discuss the details in the next meeting. Tell us also if any of you are not available at the given dates.  Best Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Weekly Meetings",
+                            "Discussion_Id": "592669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067369",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-05-06T17:02:28+02:00",
+                                    "Content": "Hello everyone,  tomorrow is no mandatory meeting. However, you can still come to discuss your progress or use it as a meeting place for your group. The room will be available every week and we'll be available for consultation too.  Best Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses Registration",
+                            "Discussion_Id": "591364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065283",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-04-30T18:39:21+02:00",
+                                    "Content": "Hello everyone, don't forget to register for the project on Moses until today. The exact module is: #41132: Project Hot Topics in Computer Vision A  See you in two weeks! Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reading List",
+                            "Discussion_Id": "589966",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063184",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-04-25T18:19:19+02:00",
+                                    "Content": "Hello everyone,  I added the reading list on the ISIS page. Please look into those papers.  Next week we would have another meeting to discuss the grading, deadlines, deliverables and next steps for your projects. After that we switch to bi-weekly sprints/status updates.  Don't forget to register on Moses for the project. I will assume people who did not attend this week dropped the course. Message me if this is not the case.  Best Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project Choice &amp; Motivation",
+                            "Discussion_Id": "588463",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060851",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-04-22T14:37:37+02:00",
+                                    "Content": "Hello everyone, don't forget to submit your preferences for the projects and fill out the survey until today 23:59. Best Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1790634",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Project 1 clarification",
+                            "Discussion_Id": "587506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059285",
+                                    "Author": "Davide Alessandro Lussu",
+                                    "DateTime": "2024-04-18T21:45:44+02:00",
+                                    "Content": "hey, could you just briefly repeat/specify what the final \"output\" of the model in proj 1 would be, the info on the slides is kinda sparse? I remember that the classical approach is to have voxels, but now we want to have one of these implicit Nerf representations generated just from silhouettes, is that right? also, would it also have colour or only somehow store the spatial data?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Is there a participant limit?",
+                            "Discussion_Id": "585451",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056274",
+                                    "Author": "Bryan Oppong-Boateng",
+                                    "DateTime": "2024-04-11T14:06:55+02:00",
+                                    "Content": "Hello, I am interested in participating in this project. I am wondering if there is a limit on the number of students allowed to partake in this project. Kind regards Bryan Oppong-Boateng",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

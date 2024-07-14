@@ -1,0 +1,350 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Advanced Brewing Technology II",
+        "Course_id": "38086",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1779112",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "GMO lecture",
+                            "Discussion_Id": "605762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086859",
+                                    "Author": "Brian Richard Gibson",
+                                    "DateTime": "2024-07-05T12:27:56+02:00",
+                                    "Content": "Dear all, The next lecture in the ABT series will be on genetically modified brewing yeasts and will be given by Frederico Magalhaes.  In this case, the presentation will be given live on Tuesday rather than being pre-recorded. Regards, Brian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest Lectures in ABT II",
+                            "Discussion_Id": "595183",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071308",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-17T14:14:13+02:00",
+                                    "Content": "Dear all, The following guest lectures are part of this course and you are invited to take part: 12.06.2024, 16-17:30 Uhr: Sour Beer Brewing: Technology and Operation of a Funky Brewery by Vinnie Cilurzo, Russian River Brewing Co., CA Via Zoom: https://tu-berlin.zoom.us/j/66017034184?pwd=TmU4WGtyUWZ3VnBKWWYyVDRXSGE2QT09  13.06.2024, 10-12 Uhr Hop Innovations for Brewing and Beyond by Sandro Cocuzza, Hopsteiner Raum: ACK.378  25.06.2024, 10-12 Uhr Advanced Hop Products for Advanced Hopping by Christina Schönberger, Barth Haas Raum: ACK.378  Regards, Philip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086253",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-07-03T16:44:34+02:00",
+                                    "Content": "Dear all,  The lecture \"Advanced Hop Products for Advanced Hopping\" by Christina Schönberger, Barth Haas, will take place on July 15th, 2-4 p.m., Room: ACK.378  Regards, Philip",
+                                    "Response to": "p1071308"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation ABT",
+                            "Discussion_Id": "604879",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085645",
+                                    "Author": "Brian Richard Gibson",
+                                    "DateTime": "2024-07-02T09:44:11+02:00",
+                                    "Content": "Dear all, Here is a link to the evaluation form for the ABT course. I would kindly ask that you complete this this morning at the beginning of the lecture. https://befragung.tu-berlin.de/evasys/online.php?pswd=J243D Thank you, Brian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ABT Oral Examination Dates",
+                            "Discussion_Id": "604546",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085144",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-07-01T09:44:25+02:00",
+                                    "Content": "Dear all, We had to reschedule the ABT oral examinations, and will offer you now three dates for oral examinations: 03.09.2024 10.09.2024 15.10.2024 Signing up on MOSES is mandatory and is possible until 31.07.2024, 23:59 Uhr.   If you are in the new StuPO, this is the correct module: #31045 Moderne Brauereitechnologie (12 LP) Please inform us, if you are still enrolled in the StuPO 2011.  Regards Philip                                       ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wild and hybrid yeasts lecture",
+                            "Discussion_Id": "603653",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083858",
+                                    "Author": "Brian Richard Gibson",
+                                    "DateTime": "2024-06-26T09:47:44+02:00",
+                                    "Content": "Dear all, Our next lecture in ABTII will be on the topic of non-conventional yeasts in brewing, in particular wild and hybrid Saccharomyces yeasts. The video and supporting literature are available on Isis for you to view. Best wishes, Brian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Video on Hop Desorber uploaded",
+                            "Discussion_Id": "602171",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081680",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-06-19T15:57:25+02:00",
+                                    "Content": "Dear all, Unfortunately, Christina Schönberger had to cancel the lecture next week. Instead, a video on a novel hopping technique, the \"gas hopper\" has been uploaded to the course: https://isis.tu-berlin.de/mod/videoservice/view.php?id=1779142 Please prepare for our lecture next Tuesday by watching the video and noting some questions. Regards Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hop Creep Lecture and Guest Lectures",
+                            "Discussion_Id": "598812",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076830",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-06-04T11:50:44+02:00",
+                                    "Content": "Dear all, As discussed, we will have three lectures next week: 11.06.2024, 10-12 Uhr In-person lecture on Hop Creep Room: ACK.378 Please prepare for this lecture by skim-reading the uploaded literature.  12.06.2024, 16-17:30 Uhr: Sour Beer Brewing: Technology and Operation of a Funky Brewery by Vinnie Cilurzo, Russian River Brewing Co., CA Via Zoom: https://tu-berlin.zoom.us/j/66017034184?pwd=TmU4WGtyUWZ3VnBKWWYyVDRXSGE2QT09   13.06.2024, 10-12 Uhr Hop Innovations for Brewing and Beyond by Sandro Cocuzza, Hopsteiner Raum: ACK.378",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080730",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-06-17T13:02:01+02:00",
+                                    "Content": "Hello,  The lecture slides from Sandro Cocuzza's lecture on hop innovations have now been uploaded to the course. I hope you enjoyed the lecture. Please let me know how you found this lecture.  Regards Philip",
+                                    "Response to": "p1076830"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dry Hopping Technology lecture on Tuesday",
+                            "Discussion_Id": "601156",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080241",
+                                    "Author": "Natalia Svedlund",
+                                    "DateTime": "2024-06-14T17:24:38+02:00",
+                                    "Content": "Dear Students, After all these lectures on hops, the dry hopping technology lecture next week it's  what's missing!  Please check out the literature and try to prepare for the lecture on Tuesday. Have a nice weekend, Natalia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Article on Hop Burn",
+                            "Discussion_Id": "600197",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078847",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-06-11T09:58:30+02:00",
+                                    "Content": "Hi all, As we discussed this topic in our course, and also discussed definitions of \"Hop Burn\", I attached you an article from MBAA. Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fate of Hop Aroma Lecture",
+                            "Discussion_Id": "597288",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074622",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-28T11:36:47+02:00",
+                                    "Content": "Hi all, The video \"Fate of Hop Aroma Compounds\" is now available in the course. I look forward to discussing with you further next week. Regards Philip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074703",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-28T13:42:59+02:00",
+                                    "Content": "Dear all,  As an extension to our lecture material, I recommend to the following Master Brewers Podcasts episode:  Episode 299: Can Liners and Hop Aroma Episode 038: Comparison of the Contributions of Hop Pellets, Supercritical Fluid Hop Extracts, and Extracted Hop Material to the Hop Aroma and Terpenoid Content of Kettle-Hopped Lager Beers Episode 145: Investigating the Factors Impacting Aroma, Flavor, and Stability in Dry-Hopped Beers Regards Philip",
+                                    "Response to": "p1074622"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dry Hopping Lecture block starting",
+                            "Discussion_Id": "595682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072128",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-21T14:08:10+02:00",
+                                    "Content": "Dear all, Next week, our lecture block on hop aroma and dry hopping of beer will start. This lecture block will deal with hop aroma and dry hopping basics as well with 'standard' and more advanced hopping techniques. We will also have two guest lecturers as part of this lecture block. Please prepare for the next lecture (28.05.2024) by Watching the video: https://isis.tu-berlin.de/mod/videoservice/view.php?id=1779131 Skim-reading the literature 1a-1e. The folders 1a to 1e contain a substantial amount of literature relevant to our topic. It is essential to begin reviewing these materials early. As you go through them, identify the most important information and note areas where you need to deepen your understanding.  The lecture discussion next week will be as an online-format via zoom. The link can be found on the ISIS site.  We are looking forward to discussing this topic with you.  Regards Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Very High Gravity Brewing",
+                            "Discussion_Id": "594966",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070954",
+                                    "Author": "Brian Richard Gibson",
+                                    "DateTime": "2024-05-16T14:45:06+02:00",
+                                    "Content": "Dear all, The next topic we will discuss in the ABTII course is high gravity brewing. The video and support material have been uploaded. I look forward to discussing with you on Tuesday. Best wishes, Brian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "External Lectures on Advanced Hop Products",
+                            "Discussion_Id": "590611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064152",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-04-29T09:25:31+02:00",
+                                    "Content": "Dear all, Barth Haas and Hopsteiner agreed to provide lectures on advanced hop products. This is a great chance for you to ask experts from the industry. Hopsteiner offered to dates. Please choose one of the dates until the end of this week: https://isis.tu-berlin.de/mod/choice/view.php?id=1826608 The Barth Haas lecture will be on July, 5th, from 10-12 a.m. Regards Philip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065597",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-02T08:48:04+02:00",
+                                    "Content": "Good morning,  Please don't forget to vote for the date for the Hopsteiner presentation until tomorrow: https://isis.tu-berlin.de/mod/choice/view.php?id=1826608  Regards Philip",
+                                    "Response to": "p1064152"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Signing up for ABT examinations via MTS open",
+                            "Discussion_Id": "591279",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065158",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-04-30T15:27:21+02:00",
+                                    "Content": "Dear all, You can sign up for the oral examinations on MOSES/MTS: #31045v1: Advanced Brewing Technology (12 LP)  Examinations dates are: 05.09.2024 and 06.09.2024. Please pay attention to the MTS deadlines (sign up until 31.08.2024). If you are still planning to do the exam according to the old StuPO, please let us know.   Information for the examinations: At the beginning, the examinee independently presents a freely chosen topic from the scope of the lecture (duration 5 minutes, freely spoken, no PPT or similar, but a sketch can be made during the presentation). In the 5 minutes, details should be presented in as much depth as possible and the content area should be explained as fully as possible (i.e. it is better to narrow down the area and provide more details). Afterwards, further random content from the lecture content will be tested within 25 minutes.  Regards, Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "NABLAB video, etc. online",
+                            "Discussion_Id": "589810",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062952",
+                                    "Author": "Brian Richard Gibson",
+                                    "DateTime": "2024-04-25T13:21:21+02:00",
+                                    "Content": "Dear all, I have uploaded to Isis the material for the non-alcoholic beer lecture. I look forward to discussing this topic with you. Best wishes, Brian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beer Foam Video, Articles, etc. online",
+                            "Discussion_Id": "586314",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057552",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-04-16T11:07:26+02:00",
+                                    "Content": "Dear all, The video, the articles, and the questionnaire on beer foam are now available in the ISIS course.  We would like to additionally discuss with you the article \"Beer Foam is a Carrier of Aroma\" which was published last year and presents interesting research on volatization of certain aroma compounds together with beer foam. Regards, Philip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060931",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-04-22T15:37:00+02:00",
+                                    "Content": "Dear all,  Please fill out the questionnaire (and watch video/read the articles) if you haven't done it already: https://isis.tu-berlin.de/mod/quiz/view.php?id=1779155  Philip",
+                                    "Response to": "p1057552"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topics for SoSe 2024",
+                            "Discussion_Id": "586335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057584",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-04-16T11:43:49+02:00",
+                                    "Content": "Dear all,  As mentioned this morning, this course is a great chance to discuss/address certain topics that you find interesting and that are not yet covered in our courses. Here is a list of topics that we (will try) to cover this semester: Beer Foam NABLABs Very High Gravity Brewing Non-purity law brewing Dr. Carsten Zufall I Non-purity law brewing Dr. Carsten Zufall II Hop Arom Dry-Hopping Techniques  Barth Haas and Hopsteiner on Downstream Hop Products Hop Creep Gas Hopping Hybrid Yeast Yeast Genetics & GMO Sustainability Concenps by Tobias Becher (Ziemann Holvrieka) Maturation of Beer (Dry-Hopped) Cider Kombucha  Please feel free to write/add topics of interest in our shared forum. Regards Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Teilnehmer*innen Forum",
+                    "Forum_id": "1779114",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermine",
+                            "Discussion_Id": "604303",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084760",
+                                    "Author": "Max Clemens Krüger",
+                                    "DateTime": "2024-06-28T14:48:51+02:00",
+                                    "Content": "Hallo, Ich musste leider gerade feststellen, dass ich keinen der angebotenen Prüfungstermine (05./06.09.) wahrnehmen kann und wollte daher nachfragen ob es möglich wäre weitere Prüfungstermine Ende September oder Anfang August anzubieten. Beste Grüße, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture online or in person? ",
+                            "Discussion_Id": "603096",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083052",
+                                    "Author": "Clara Wandrey",
+                                    "DateTime": "2024-06-24T14:40:46+02:00",
+                                    "Content": "Dar all,   I just wanted to ask if the lecture about the hop desorber is going to be online or in person tomorrow?   Regards, Clara ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083063",
+                                    "Author": "Brian Richard Gibson",
+                                    "DateTime": "2024-06-24T15:05:29+02:00",
+                                    "Content": "Hi, The lecture tomorrow will be in person and will be presented by Torsten Seewald. Regards, Brian",
+                                    "Response to": "p1083052"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Upload of lectures",
+                            "Discussion_Id": "592061",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066361",
+                                    "Author": "Marc Leander Lauenstein",
+                                    "DateTime": "2024-05-03T12:19:44+02:00",
+                                    "Content": "Hello everyone,  I really enjoy the hybrid format of this module, but to be abled to participate in the debates I would need the material to be uploaded earlier during the week, ideally directly on tuesday, because the weekends & mondays are not always available for lecture preparation in my case.  Thank you and see you on tuesday! Marc",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066375",
+                                    "Author": "Alexander Huth",
+                                    "DateTime": "2024-05-03T12:35:51+02:00",
+                                    "Content": "Greetings, I agree to the previously mentioned points. Highly looking forward to the next discussion round.  Regards, Alex",
+                                    "Response to": "p1066361"
+                                },
+                                {
+                                    "Message_id": "p1066378",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-05-03T12:37:36+02:00",
+                                    "Content": "Hello,  The next two lectures will be face-to-face, in person lectures by PD Dr. Carsten Zufall from Polar Brewery, Venezuela. There is no video lectures uploaded beforehand.  Regards Philip",
+                                    "Response to": "p1066361"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "lecture data upload",
+                            "Discussion_Id": "589745",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062850",
+                                    "Author": "Alexander Huth",
+                                    "DateTime": "2024-04-25T11:35:12+02:00",
+                                    "Content": "Dear all, would it be possible to upload the lecture data? I would love to start working today, so I can manage to get through it all.  Regards, Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062866",
+                                    "Author": "Till Uwe Treetzen",
+                                    "DateTime": "2024-04-25T11:50:25+02:00",
+                                    "Content": 

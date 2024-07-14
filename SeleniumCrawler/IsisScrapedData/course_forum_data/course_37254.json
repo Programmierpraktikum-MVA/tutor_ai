@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "View Synthesis [SoSe 2024]",
+        "Course_id": "37254",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1754085",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Change of lecture room on 13th May 2024",
+                            "Discussion_Id": "587793",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059732",
+                                    "Author": "Oliver Schreer",
+                                    "DateTime": "2024-04-19T16:36:22+02:00",
+                                    "Content": "Lecture \"View Synthesis\"- Homography II Monday, 13th May 2024 at 10:15 am (1.5 hours) !!! The lecture room is changed. The lecture will be given in the lecture hall of the HHI main building at Einsteinufer 37 !!!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

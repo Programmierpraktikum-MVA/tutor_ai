@@ -1,0 +1,211 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Theoretische Optik",
+        "Course_id": "37671",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1765722",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausarbeitung, Folien, Poster auf Isis",
+                            "Discussion_Id": "606583",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088043",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-07-09T12:43:34+02:00",
+                                    "Content": "Da das heute mehrfach aufkam: wir stellen eure Präsentationsfolien, Poster und schriftlichen Ausarbeitungen gerne auf der Isis-Seite zur Verfügung. Natürlich ohne Gewähr für die Richtigkeit und nur von den Gruppen, die sich explizit damit einverstanden erklären. Bitte schickt mir also ggf zusammen mit eurer schriftlichen Ausarbeitung auch die Info, ob wir eure Arbeit auf Isis hochladen sollen oder nicht (und ggf. nochmal Poster oder Folien, falls wir diese auch dem restlichen Kurs zur Verfügung stellen sollen).  Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeitplan Projektvorträge",
+                            "Discussion_Id": "606268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087592",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-07-08T14:25:54+02:00",
+                                    "Content": "Die Vorträge finden morgen (9.7) ab 8:30 im Vorlesungsraum (ER 242) statt. Die Reihenfolge der Vorträge könnt ihr dem angehängten Zeitplan entnehmen. Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungstermin August",
+                            "Discussion_Id": "605507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086513",
+                                    "Author": "Andreas Knorr",
+                                    "DateTime": "2024-07-04T12:25:22+02:00",
+                                    "Content": "Der anvisierte Termin Theoretische Optik - Prüfung wird am 20.08. sein, ist bereits in SAP buchbar, viele Grüße, Andreas Knorr. ps: alle die mich direkt kontaktiert haben, sollten eine unabhängige Email erhalten, wenn weiterer Bedarf an diesem Tag besteht, jenseits der bisherigen 3-4 Interessenten, bitte melden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde von Lara am 3.7 entfällt",
+                            "Discussion_Id": "604834",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085581",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-07-01T23:26:27+02:00",
+                                    "Content": "Liebe Studierende, leider fällt die Sprechstunde von mir am Mittwoch (am 3.7) aus. Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beispiel für Plots auf Isis",
+                            "Discussion_Id": "600591",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079405",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-06-12T13:18:40+02:00",
+                                    "Content": "Liebe Studierende, auf Isis ist ein beispielhafter Python Code für Plots (im aktuellen Wochenabschnitt) verfügbar. Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektformat Verteilung",
+                            "Discussion_Id": "600485",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079268",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-06-12T08:15:26+02:00",
+                                    "Content": "Liebe Studierende, die Verteilung der Gruppen auf das Projektformat (Poster/Vortrag) ist in der Tabelle unten angegeben. Die individuellen Gesprächstermine zu den Projekten sind am 17.6 (für Poster-Gruppen), bzw. am 24.6 (für Vortragsgruppen) jeweils während der Tutorienzeit. Gruppe Format Gesprächstermin A Poster 17.6, 12:00 B Vortrag 24.6, 12:00 C Poster 17.6, 12:20 D Vortrag  24.6, 12:20 E Vortrag 24.6, 12:40 F Poster 17.6, 12:40 G Vortrag 24.6, 13:00 H Poster 17.6, 13:00 I Vortrag 24.6, 13:20 J Vortrag 24.6, 13:40 K Poster 17.6, 13:20  Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsevaluierung - Bitte um Teilnahme",
+                            "Discussion_Id": "600124",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078736",
+                                    "Author": "Andreas Knorr",
+                                    "DateTime": "2024-06-10T18:27:09+02:00",
+                                    "Content": "Bitte nehmt an der Evaluierung der VL teil, der folgende link sollte direkt auf die Umfrage führen: https://befragung.tu-berlin.de/evasys/online.php?pswd=QA9VX Viele Grüße, Andreas Knorr",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde von Lara am 5.6 entfällt",
+                            "Discussion_Id": "598831",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076860",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-06-04T13:04:44+02:00",
+                                    "Content": "Liebe Studierende, leider fällt die Sprechstunde von mir morgen (am 5.6) aus. Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projekt-Präferenzen: Vortrag oder Poster",
+                            "Discussion_Id": "597487",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074883",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-05-28T19:01:22+02:00",
+                                    "Content": "Liebe Studierende, bitte teilt mir bis zum 4. Juni per E-Mail an lara.greten@tu-berlin.de mit, ob ihr für das Projekt lieber einen Vortrag oder eine Posterpräsentation halten möchtet, oder ob ihr keine Präferenz habt. Weitere Informationen zu den beiden Formaten findet ihr im aktualisierten PDF \"Projektbeschreibung und Themen\" im ISIS-Kurs. Lest euch das Dokument unbedingt nochmal durch, da dort auch Infos zu den Präsentationsterminen und individuellen Gesprächsterminen verfügbar sind. Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tipp Ha 2",
+                            "Discussion_Id": "594963",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070949",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-05-16T14:36:51+02:00",
+                                    "Content": "Liebe Studierende, anbei könnt ihr die Ratengleichung für den Zerfall der Besetzungsdichte n_2 (im Tutorium hergeleitet) nachsehen.  Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neue Projektthemen",
+                            "Discussion_Id": "593598",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068796",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-05-10T11:50:20+02:00",
+                                    "Content": "Liebe Studierende, auf Isis sind die weiteren Projektthemen jetzt verfügbar. Bitte seht euch auch die neuen Themen an bevor ihr eure Prioritäten festlegt. Liebe Grüße Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Variante VL E mit Blochfunktionen ist aktualisiert",
+                            "Discussion_Id": "592205",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066599",
+                                    "Author": "Andreas Knorr",
+                                    "DateTime": "2024-05-03T19:47:15+02:00",
+                                    "Content": "viele Grüße an alle, AK.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsaufzeichnungen 3.Woche sind da -",
+                            "Discussion_Id": "592204",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066598",
+                                    "Author": "Andreas Knorr",
+                                    "DateTime": "2024-05-03T19:46:01+02:00",
+                                    "Content": "danke an Herrn Feldtmann und alle die geholfen haben! Andreas Knorr",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorläufige Semesterplanung",
+                            "Discussion_Id": "587177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058766",
+                                    "Author": "Lara Greten",
+                                    "DateTime": "2024-04-18T09:21:56+02:00",
+                                    "Content": "Liebe Studierende, anbei ist ein vorläufiger Plan für die Termine (Hausaufgaben und Projekte) im Kurs Theoretische Optik. Änderungen an diesem Plan werden ggf. über die ISIS Ankündigungen bekannt gegeben. Viele Grüße, Lara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Theoretische Optik, Beginn",
+                            "Discussion_Id": "586881",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058345",
+                                    "Author": "Andreas Knorr",
+                                    "DateTime": "2024-04-17T13:55:46+02:00",
+                                    "Content": "Ab 2. VL-Woche beginnen wir 08:30 mit der Vorlesung, viele Grüße, Andreas Knorr",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

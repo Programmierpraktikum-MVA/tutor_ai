@@ -1,0 +1,389 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Theoretische Grundlagen der Informatik",
+        "Course_id": "37927",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1791174",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Letzte Vorlesung / Fragestunde am Montag findet doch statt!",
+                            "Discussion_Id": "607371",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089148",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-07-12T07:42:24+02:00",
+                                    "Content": "Liebe Studierende, die Vorlesung am Montag, den 15.07. um 16:15 Uhr, findet noch statt. Es werden keine neuen Inhalte gelehrt, sondern Herr Prof. Sprekeler wird Ihnen für Fragen zur Verfügung stehen. Ab Dienstag finden dann keine Vorlesungen mehr statt, sondern nur noch die Tutorien zur Klausurvorbereitung am 22.7. und 24.7 (siehe meine andere Ankündigung). Herzliche Grüße, Ihr TheGI-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutor:innen gesucht für TheGI im WS!",
+                            "Discussion_Id": "606617",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088090",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-07-09T14:03:31+02:00",
+                                    "Content": "Liebe Studierende, wir sind aktuell wieder auf der Suche nach Unterstützung für unser TheGI Lehre-Team. Falls Ihnen das Modul Spaß macht, Sie Lust hätten, uns als Tutor:in zu unterstützen und das Gefühl haben, die Inhalte gut zu verstehen und weitergeben zu können, dann bewerben Sie sich bitte bei der Fakultät IV (offizielle Ausschreibung hier, Poster siehe unten). Dass Sie das Modul erst jetzt gerade belegen, ist kein Problem. Das ist sogar oft vorteilhaft, da die Kursinhalte dann im nächsten Semester noch frisch sind. Alle Studierenden, die TheGI abgeschlossen haben (oder zum Semesterende abschließen werden), können sich als Tutor:in für TheGI bewerben. Falls Sie sich für TheGI bewerben, schreiben Sie mir gerne eine kurze Nachricht, damit ich Sie bei der Tutorenverteilung der Fakultät berücksichtige. Oder wenn Sie Fragen haben, können Sie mich natürlich auch kontaktieren (denis.alevi@tu-berlin.de). Auch wenn Sie als Tutor in einem anderen Modul der Fakultät IV tätig sein wollen, können Sie sich hier bewerben. Für das WS werden noch Tutoren in mehreren Kursen gesucht! Und im Sommersemester 2025 werden wir bei TheGI mehrere neue Tutor:innen benötigen. Selbst wenn Sie in diesem Wintersemester in einem anderen Kurs beginnen, können Sie nächstes Semester zu TheGI wechseln, wenn Sie das wollen und wir noch Tutorenstellen füllen müssen. Um zum 1.10. eingestellt zu werden müssen Sie sich bis 15.7. bewerben. Aber auch eine spätere Bewerbung ist möglich, dann aber mit einer spätere Einstellung.  Herzliche Grüße, Denis Alevi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurvorbereitung, Klausur und Klausureinsicht",
+                            "Discussion_Id": "606544",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087987",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-07-09T11:19:59+02:00",
+                                    "Content": "Liebe Studierende, die letzten Hausaufgabenpunkte wurden gestern eingetragen und heute war die letzte Vorlesung. Es gibt ab jetzt keine regulären Vorlesungen und auch keine Hausaufgabenbesprechungen mehr. Klausurvorbereitung und Klausur Sie finden oben im Kurs zwei Altklausuren, die Sie zur Klausurvorbereitung nutzen könnne. Auch die Formelsammlung sollte bei der Vorbereitung hilfreich sein. Wir bieten in der Woche vor der Erstklausur zwei Tutorien zur Klausurvorbereitung an (Montag, 22.07. um 14:00 Uhr im MAR 001 und Mittwoch, den 24.07. um 14:00 Uhr im MAR 002), in denen Sie Fragen stellen können und in denen die Tutor:innen Aufgaben aus den Altklausuren mit Ihnen durchgehen. Die Klausuranmeldung wird ab nächstem Montag, den 15.07., auf ISIS möglich sein. Eine Anmeldung auf Moses ist nicht nötig oder möglich. Am Montag erhalten Sie zur Anmeldung und Klausur dann noch weiter Informationen. Die Klausur findet am 26.07. ab 12:20 online auf ISIS statt. Sie können sich die Termine für die Klausureinsicht jetzt schon notieren: Am Donnerstag, den 01.08. von 9 - 13 Uhr können Sie Ihre Klausur mit Bewertungen online auf ISIS einsehen. Sollten Sie nach dieser Einsicht Fragen haben oder einen Korrekturfehler vermuten, können Sie von 14 - 16 Uhr Ihre Klausur mit uns auf Zoom besprechen. Sollten Sie zu diesen Terminen keine Zeit haben, kontaktieren Sie die Übungsleitung (denis.alevi@tu-berlin.de) bitte rechtzeitig vor der Einsicht. Mit freundlichen Grüßen. Ihr TheGI-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DFA Korrektur abgeschlossen",
+                            "Discussion_Id": "604357",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084837",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-06-28T19:52:56+02:00",
+                                    "Content": "Liebe Studierende, die Korrektur für die DFAs (HA 16) ist nun abgeschlossen, Sie sollten Ihr Feedback und Ihre Punkte nun einsehen können. Die NFAs werden noch nachkorrigiert und bis Montag hochgeladen. Im Folgenden geben wir Ihnen einige Informationen, damit Sie die automatischen Korrekturen besser nachvollziehen können. Sollte es noch offene Fragen geben, können Sie sich wie gewohnt an die korrigierenden Tutoren wenden.   Feedback: Die Feedback-PDFs sind für alle Mitglieder einer Gruppe dieselben: Am Anfang finden Sie den ersten Teil der Hausaufgabe, den Sie zusammen abgegeben haben und der manuell korrigiert worden ist. Im Anschluss daran finden Sie alle Automaten Ihrer Gruppe nach den Teilaufgaben sortiert. Wie zuvor angekündigt, zählt in dieser Hausaufgabe der beste Versuch Ihrer Gruppe. Damit Sie alle aber die Korrektur Ihres Automaten einsehen können, sind dem Feedback-PDF alle Versuche beigefügt. Sollte bei den Automaten die automatische Korrektur nicht möglich gewesen sein, so finden Sie hier nur die Punktzahl des jeweiligen Automaten; eine manuelle Korrektur können Sie dann direkt im ISIS-Test, in dem Sie den Automaten angefertigt haben. Syntax (NFAs & DFAs) Zustandsnamen: Zustandsbezeichnungen (bspw. q_0, q_1 etc.) werden in der automatichen Korrektur in ganzzahlige Werte übersetzt (0,1,2,…) und so auch auf den Feedback-PDFs angezeigt. Startzustände: Endliche Automaten, ob DFAs oder NFAs haben stets einen Startzustand. Sollten Sie vergessen haben den Startpfeil zu setzen, wird Ihnen ein Punkt für falsche Syntax abgezogen und wir behandeln den von Ihnen zuerst gemalten Zustand (üblicherweise der Zustand 0) als Startzustand. Korrekturen allgemein Wir korrigieren nach dem Prinzip der Edit-Distanz. Sie bekommen einen Punkt Abzug für jede Veränderung die notwendig ist, um Ihren Automaten in einen korrekten Automaten umzuwandeln. Die zulässigen Veränderungen hier sind: Zustand löschen Zustand hinzufügen Übergang umbiegen Übergang hinzufügen Übergang löschen Akzeptstatus eines Zustandes ändern Startzustand ändern Finden Sie den Hinweis 'Die maximale Suchtiefe wurde erreicht', bedeutet dies, dass es nicht möglich war Ihren Automaten mit so wenigen Schritten in einen korrekten DFA umzuwandeln, dass es auf Ihre Abgabe noch Punkte hätte geben können. In diesem Fall erhalten Sie keine korrigierte Lösung. Korrektur DFAs: Die Übergangsfunktion f eines DFAs ist linksvollständig und rechtseindeutig. D.h. dass es zu jedem Paar aus (x,s) wobei x ein Zustand und s ein Symbol ist, f(x,s) definiert und eindeutig sein muss. Ist Ihr f an einer Stelle nicht definiert (es fehlt ein Pfeil) sprechen wir von einem unvollständigen Automaten. Fehlende Pfeile werden hinzugefügt bis Ihr Automat vollständig (also ein DFA) ist. Ist Ihr f an einer Stelle mehrfach definiert (es gibt mehrere Pfeile), sprechen wir von einem überdeterminierten Automaten. Hier entfernen wir Pfeile bis wir eine rechtseindeutige Funktion erhalten. Da es oft mehrere Varianten geben kann, Pfeile hinzuzufügen oder zu entfernen, testen wir jede dieser Varianten. Ihre Bewertung entspricht der Bewertung, die Ihnen die meisten Punkte bringt. Korrektur NFAs: Hier gilt prinzipiell das gleiche wie bei den DFAs, mit der Einschränkung, dass die Übergangsfunktion weder linksvollständig noch rechtseindeutig sein muss. Die entsprechenden Schritte aus der DFA Korrektur entfallen. Mit freundlichen Grüßen, Ihr TheGI-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bitte unterstützen Sie die Weiterentwicklung dieses Kurses durch das Ausfüllen der Lehrevaluation",
+                            "Discussion_Id": "603523",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083652",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-06-25T17:00:28+02:00",
+                                    "Content": "Liebe Studierende, wir möchten Sie nochmal freundlich bitten, die Lehrevaluation auszufüllen, falls Sie das noch nicht getan haben. Je mehr Antworten wir bekommen, desto repräsentativer ist das Ergebnis. Das würde uns sehr helfen, den Kurs weiter zu verbessern.  Hier geht es zur Lehrevaluation: https://isis.tu-berlin.de/mod/url/view.php?id=1791255  Herzliche Grüße, Ihr TheGI-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KEINE Präsenzvorlesung diese Woche (24. + 25.6.)",
+                            "Discussion_Id": "602951",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082845",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-06-24T10:43:34+02:00",
+                                    "Content": "Liebe Studierende, wegen eines Konferenzbesuchs kann die Präsenzvorlesung diese Woche leider nicht gehalten werden und entfällt. Bitte erarbeiten Sie sich die Inhalte der Woche mit den Vorlesungsvideos. Nächste Woche findet die Vorlesung wieder wie gehabt statt mit den Inhalten, die nach der aktuellen Woche kommen, also beginnend mit den Inhalten aus Video 34. (Semi-) Entscheidbarkeit (noch nicht veröffentlicht). Mit freundlichen Grüßen. Ihr TheGI-Team ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation bis 28.6.",
+                            "Discussion_Id": "601552",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080830",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-06-17T15:33:34+02:00",
+                                    "Content": "Liebe Studierende,  wir haben Ihnen auf ISIS einen Link für die Lehrevaluation zur Verfügung gestellt.  Bitte tun Sie uns den Gefallen, daran teilzunehmen, damit wir die Veranstaltung in Zukunft in Ihrem Sinne weiter verbessern können.  Die Evaluation endet am 28.6., also nächste Woche Freitag.  Vielen Dank im Voraus und herzliche Grüße, Ihr TheGI-Lehre Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL Dienstag, 11. Juni FÄLLT AUS - Stoff der Woche ist bereits abgedeckt",
+                            "Discussion_Id": "600131",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078744",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-06-10T19:06:25+02:00",
+                                    "Content": "Liebe Studierende,  Mit etwas Tempo in der vergangenen Woche und der heutigen Vorlesung sind wir bereits jetzt auf dem gleichen Stand mit den Vorlesungsvideos.  Die Vorlesung am morgigen Dienstag, dem 11. Juni fällt daher aus (zumal in der vergangenen Woche lediglich drei Studierende anwesend waren).  In den kommenden Wochen werden wir wieder beide Vorlesungen benötigen, diese Ankündigung gilt also nur für diese Woche.  Mit freundlichen Grüßen Henning Sprekeler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderungen in Hausaufgabe 18",
+                            "Discussion_Id": "596617",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073484",
+                                    "Author": "Daniel Fitler",
+                                    "DateTime": "2024-05-24T18:14:41+02:00",
+                                    "Content": "Liebe Studierende, in der Definition des NFAs hatte sich ein kleiner Fehler eingeschlichen: statt der korrekten Startzustandsmenge {s_0, s_3 } fand sich dort die Startzustandsmenge { s_0, s_2 }. Dies wurde nun korrigiert, damit die Definition des NFAs mit der grafischen Darstellung übereinstimmt. An der Aufgabe selbst hat sich nichts indes nichts verändert und wenn Sie nur mit der grafischen Darstellung gearbeitet haben, so ergeben sich auch keine Änderungen für Sie.  Liebe Grüße, Daniel Fitler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderungen in Hausaufgabe 17",
+                            "Discussion_Id": "595833",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072354",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-05-21T22:39:02+02:00",
+                                    "Content": "Liebe Studierende, die Hausaufgabe 17 hat sich verändert, falls Sie das Hausaufgabenblatt schon heruntergeladen haben, laden Sie bitte die neue Version herunter. Die Aufgaben selbst haben sich nicht verändert, nur die Form der Abgabe. Der zweite Teil der Hausaufgabe (grafische Darstellung von NFAs) wird nun ebenfalls auf ISIS direkt durchgeführt, so wie es auch für die DFAs in HA 16 gemacht wurde und wie es während der Klausur sein wird. Den ersten Teil (Angaben von Sprachen) laden Sie wie bisher als Datei in der Hausaufgabe hoch. Alle Studierenden können diese Aufgabe separat bearbeitet, es wird dann das beste Ergebnis für alle Mitglieder der Gruppe gewertet. Es genügt also, wenn eine Person pro Gruppe die Aufgabe bearbeitet. Wir empfehlen Ihnen aber sehr, sich alle wenigsten mit dem Format der Aufgabe vertraut zu machen als Vorbereitung für die Klausur. Herzliche Grüße, Denis Alevi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung morgen (21. Mai) FÄLLT AUS",
+                            "Discussion_Id": "595454",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071779",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-05-20T15:40:47+02:00",
+                                    "Content": "Liebe Studierende,  Leider fällt die TheGI-Vorlesung am morgigen 21. Mai aus gesundheitlichen Gründen aus.  Damit wir inhaltlich nicht zurückfallen, bitte ich Sie, sich den Stoff dieser Woche anhand der Lehrvideos (Videos 16-18) anzueignen. Ab nächster Woche finden dann wieder Präsenzvorlesungen statt.  Mit freundlichen Grüßen, Henning Sprekeler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Montag Feiertag: Keine Vorlesung und Frist für HAs Dienstag",
+                            "Discussion_Id": "594386",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070063",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-05-14T15:38:20+02:00",
+                                    "Content": "Liebe Studierende, nächsten Montag (20.05.) ist ein Feiertag (Pfingstmontag), deshalb entfällt die Vorlesung. Die Abgabefrist für die Hausaufgaben diese Woche wird deshalb um einen Tag verschoben, auf Dienstag, den 21.05. um 16:00 Uhr. Das Datum auf den PDFs der HA ist noch der 20.05., Sie können die Aufgaben aber bis zur neuen Frist am 21.05. auf ISIS hochladen. Und noch eine Bemerkung zur Erstellung der DFAs in Hausaufgabe 16 (Teil 2): Bitte folgen die den Anweisungen zur Erstellung der DFAs. Wir nutzen automatische Korrekturen für die DFAs. Wenn die Zustände und Übergänge in Ihren DFAs nicht beschriftet sind (so wie in der Anleitung erklärt), können diese nicht bewertet werden. Und denken Sie bitte daran, auch Start- und Endzustände korrekt zu markieren (ebenfalls in der Anleitung in der Aufgabe beschrieben). Herzliche Grüße, Denis Alevi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderungen in Hausaufgabe 16",
+                            "Discussion_Id": "594024",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069488",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-05-13T13:10:08+02:00",
+                                    "Content": "Liebe Studierende, die Hausaufgabe 16 hat sich verändert, falls Sie das Hausaufgabenblatt schon heruntergeladen haben, laden Sie bitte die neue Version herunter. Die Aufgaben selbst haben sich nicht verändert, nur die Form der Abgabe. Der zweite Teil der Hausaufgabe (grafische Darstellung von DFAs) wird nun auf ISIS direkt durchgeführt, so wie es auch während der Klausur sein wird. Den ersten Teil (Angaben von Sprachen) laden Sie wie bisher als Datei in der Hausaufgabe hoch. Alle Studierenden können diese Aufgabe separat bearbeitet, es wird dann das beste Ergebnis für alle Mitglieder der Gruppe gewertet. Es genügt also, wenn eine Person pro Gruppe die Aufgabe bearbeitet. Wir empfehlen Ihnen aber sehr, sich alle wenigsten mit dem Format der Aufgabe vertraut zu machen als Vorbereitung für die Klausur. Herzliche Grüße, Denis Alevi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Das Thema Relationen auf ISIS ist nun verfügbar",
+                            "Discussion_Id": "590639",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064192",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-04-29T09:59:54+02:00",
+                                    "Content": "Liebe Studierende, es gab einen Dreher im Datum der Bereitstellung der Unterlagen für Relationen, weshalb diese um 9 Uhr nicht verfügbar waren. Der Fehler ist behoben und Sie sollten nun Zugang haben. Herzliche Grüße, Denis Alevi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachtrag zur heutigen Vorlesung: Russell'sche Antinomie",
+                            "Discussion_Id": "588813",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061390",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-04-23T11:30:18+02:00",
+                                    "Content": "Liebe Studierende, in der heutigen Vorlesung habe ich aus Zeitgründen eine Folie aus den Lehrvideos übersprungen, nämlich zu den Grenzen des Mengenbegriffs (Russell'sche Antinomie). Auf dieser Folie wird aufgezeigt, dass nicht alles als Menge zugelassen werden kann. Das ist für unsere Vorlesung nicht weiter relevant, aber Sie sollten es doch einmal gesehen haben. Sie finden den Abschnitt im Video zur Mengenlehre bei 09:33 des Videos. Und das hier ist die dazugehörige Folie:   In der Vorlesung wurden ansonsten nun alle Inhalte behandelt, die auch in den Lehrvideos dieser Woche behandelt wurden und die Sie zum Bearbeiten der Hausaufgaben benötigen. Herzliche Grüße, Denis Alevi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Willkommen bei TheGI &amp; erste Ankündigungen",
+                            "Discussion_Id": "586729",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058143",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-04-17T10:36:12+02:00",
+                                    "Content": "Liebe Studierende, wir vom TheGI-Lehre-Team heißen Sie zunächst einmal herzliche willkommen bei \"Theoretische Grundlagen der Informatik\". Wenn noch nicht geschehen, schauen Sie sich bitte das Einführungsvideo von Prof. Sprekeler auf der Kursseite an, dort wird Ihnen die Struktur dieses Moduls erklärt. In diesem Semester bieten wir das erste Mal wieder Vorlesungen in Präsenz an, nachdem wir während der Pandemie auf ein Onlineformat umgestiegen sind. Wir werden unser Bestes geben, die Inhalte der Vorlesung und die Inhalte des online Materials auf ISIS synchron zu halten. Damit Sie wissen, welche Inhalte in den Vorlesungen abgehandelt wurden, haben wir nun eine Tabelle auf der Kursseite erstellt, aus der Sie diese Informationen entnehmen können. Sie können dort nun die Inhalte der ersten beiden Vorlesungen am Montag und Dienstag sehen. Die ersten Hausaufgaben sind seit gestern online. Sie haben 2 Wochen Zeit (bis zum 29.04.), diese zu auf ISIS einzureichen. Hausaufgaben 1 und 2 können Sie mit den Inhalten der Präsenzvorlesung dieser Woche schon bearbeiten. Die Inhalte für Hausaufgabe 3 werden im Lehrvideo 3. Prädikatenlogik behandelt, und am kommenden Montag in der Präsenzvorlesung.  Wir möchten Ihnen nahelegen, schon diese Woche mit den Hausaufgaben zu beginnen, da ab Montag (22.04.) schon die nächsten Hausaufgaben online verfügbar sein werden und diese ebenfalls bis zum 29.04. abgegeben werden müssen. Danach werden Sie immer 1 Woche Zeit zur Bearbeitung der neuen Hausaufgaben haben, die wir Ihnen montags online zur Verfügung stellen. Falls Sie noch keine Gruppe für die Hausaufgaben haben, bemühen Sie sich bitte jetzt darum, nutzen Sie hierfür das Gruppenfindungsforum. Sie können die Hausaufgaben erst abgeben, wenn Sie eine Gruppe haben. Sollten Sie Probleme bei der Gruppenfindung haben, kontaktieren Sie uns bitte rechtzeitig vor der Abgabefrist der ersten Hausaufgaben. Verspätete Abgaben oder Abgaben in zu kleinen Gruppen werden nicht bewertet. Wir wünschen Ihnen viel Spaß und Erfolg bei den Theoretischen Grundlagen der Informatik. Ihr TheGI-Lehre-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1791175",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Klausurvorbereitungsstunde?",
+                            "Discussion_Id": "606455",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087854",
+                                    "Author": "Eura Kim",
+                                    "DateTime": "2024-07-09T00:20:20+02:00",
+                                    "Content": "Guten Tag, da wir die 26. HA bereits in der letzten HA-Besprechung am Fretiag behandelt haben, frage ich mich, ob es in dieser Woche eine Klausurvorbereitungsstunde für die Altklausuren angeboten wird. Liebe Grüße, Eura Kim",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087997",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-07-09T11:36:12+02:00",
+                                    "Content": "Liebe Eura Kim,  diese Woche findet keine HA-Besprechung statt. Die Altklausuren werden in der Woche vor der Klausur besprochen, siehe meine Ankündigung von gerade eben.  Herzliche Grüße, Denis Alevi",
+                                    "Response to": "p1087854"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Letzte Vorlesung",
+                            "Discussion_Id": "606452",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087851",
+                                    "Author": "Oussema El Mzergui",
+                                    "DateTime": "2024-07-08T23:56:33+02:00",
+                                    "Content": "Hi, findet morgen die Letzte Vorlesung statt ? Danke LG Oussema",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087859",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-07-09T06:56:03+02:00",
+                                    "Content": "Ja.",
+                                    "Response to": "p1087851"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA26 Punkteverteilung",
+                            "Discussion_Id": "604395",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084903",
+                                    "Author": "Yusuf Arslan",
+                                    "DateTime": "2024-06-29T15:39:20+02:00",
+                                    "Content": "Die letzte Hausaufgabe sollte ursprünglich 40 Bonuspunkte umfassen, jedoch sind auf dem Hausaufgabenblatt für beide Aufgaben zusammen nur 25 Punkte angegeben. Ist es möglich, dass die Aufgabe mit Bonuspunkten übersehen wurde oder sind die Punkte so aufgeteilt, dass die erste Aufgabe 25 Punkte und die zweite Aufgabe 15 Punkte wert sind?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084968",
+                                    "Author": "Hannes Jakob Pohnke",
+                                    "DateTime": "2024-06-30T10:08:19+02:00",
+                                    "Content": "Hi, Für die erste Aufgabe gibt es 25 Punkte und für die zweite Aufgabe sind 15 Bonuspunkte möglich.",
+                                    "Response to": "p1084903"
+                                },
+                                {
+                                    "Message_id": "p1084982",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-06-30T11:46:37+02:00",
+                                    "Content": "Liebe Studierende,  kleine Korrektur zu der Antwort von Hannes: Wir haben bei der Kompilierung der Aufgabe 26 leider die Bonusaufgaben vergessen. Es gibt wie auf dem Aufgabenblatt angegeben 25 Punkte für beide Aufgaben zusammen. Da wir aber 15 Bonuspunkte angekündigt haben, werden alle, die bei Aufgabe 26 etwas abgegeben haben, auch die 15 Bonuspunkte erhalten (ohne eine extra Aufgabe dafür lösen zu müssen).  Herzliche Grüße, Denis Alevi",
+                                    "Response to": "p1084903"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA 16,17",
+                            "Discussion_Id": "603569",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083722",
+                                    "Author": "Adham Ahmed Mostafa Mohamed Ibrahim",
+                                    "DateTime": "2024-06-25T18:25:24+02:00",
+                                    "Content": "Guten Tag, ich möchte nach dem aktuellen Stand der Bewertung für die Aufgaben 16 und 17 fragen, da ich bisher noch keine Rückmeldung dazu erhalten habe. Könnten Sie mir bitte mitteilen, wann mit der Bewertung dieser Aufgaben zu rechnen ist? Ich wäre Ihnen sehr dankbar für eine kurze Information dazu. Vielen Dank im Voraus für Ihre Hilfe und Unterstützung. Mit freundlichen Grüßen, Adham",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084296",
+                                    "Author": "Denis Alevi",
+                                    "DateTime": "2024-06-27T11:21:20+02:00",
+                                    "Content": "Liebe Studierende,  die automatische Korrektur der Automaten ist leider komplizierter geworden als ich es erwartet hatte. Unsere Tutoren haben viel Arbeit in die Implementierung gesteckt und wir sind dabei die finalen Korrekturen laufen zu lassen. Ich bin mir bewusst, dass Sie Ihre Punktzahlen gerne früher bekommen hätten und ich möchte mich für die Verzögerung entschuldigen. Ich hoffe, dass die DFA-Korrekturen schon heute hochgeladen werden können. Die NFAs müssen wir leider teilweise doch manuell korrigieren, deshalb werden diese vermutlich erst zum Wochenende, spätestens aber am Montag hochgeladen.  Herzliche Grüße, Denis Alevi",
+                                    "Response to": "p1083722"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "NOte für Aufgabe 22 ist nicht eingetragen",
+                            "Discussion_Id": "602769",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082588",
+                                    "Author": "Stefanus Theo Chandra",
+                                    "DateTime": "2024-06-23T02:43:29+02:00",
+                                    "Content": "Ich habe für Aufgabe 22 die Note noch nicht eingetragen. In der Korektur habe ich 21 Punkte bekommt. Ist das ein fehler oder ich bekomme keine Punkten?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082882",
+                                    "Author": "Hannes Jakob Pohnke",
+                                    "DateTime": "2024-06-24T11:23:07+02:00",
+                                    "Content": "Sorry, da gab es wohl einen Fehler beim upload. Die Ergebnisse sollten jetzt da sein.",
+                                    "Response to": "p1082588"
+                                },
+                                {
+                                    "Message_id": "p1083241",
+                                    "Author": "Stefanus Theo Chandra",
+                                    "DateTime": "2024-06-24T19:40:27+02:00",
+                                    "Content": "Danke",
+                                    "Response to": "p1082882"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " Anfrage zu Extra-Punkten für die Online-Klausur",
+                            "Discussion_Id": "602990",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082900",
+                                    "Author": "Abdellah Zraa",
+                                    "DateTime": "2024-06-24T11:50:19+02:00",
+                                    "Content": "Liebe Dozenten und tutoren,   ich hoffe, es geht Ihnen allen gut.  Ich möchte eine Bitte an Sie richten: Wäre es möglich, für die kommende Online-Klausur im Fach 10 Extra-Punkte anzubieten? Letztes Semester wurde unser Antrag auf Anpassung des Notenspiegels abgelehnt, was viele von uns leider negativ beeinflusst hat.  Ich hoffe sehr, dass Sie unser Anliegen dieses Mal in Betracht ziehen können. Eine solche Maßnahme würde uns Studierenden erheblich helfen. Vielen Dank für Ihr Verständnis und Ihre Unterstützung. Mit freundlichen Grüßen Abdellah Zraa",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083181",
+                                    "Author": "Hannes Jakob Pohnke",
+                                    "DateTime": "2024-06-24T17:28:10+02:00",
+                                    "Content": "Guten Tag,  Es wird in der Klausur keine Extra-Punkte geben. Solch eine Anpassung wäre unfair für alle anderen Semester, die dieses Modul bereits belegt haben. Unserer Ansicht nach ist der Notenschlüssel, sowie das Klausurformat bereits sehr fair für die Studierenden.  Beste Grüße, Hannes",
+                                    "Response to": "p1082900"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Turingmaschine, Position des Lese/Schreibkopf am Ende",
+                            "Discussion_Id": "602965",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082861",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-06-24T11:06:43+02:00",
+                                    "Content": "Hallo,  muss der Lese/Schreibkopf bei einer Turingmaschine, wenn das Wort akzeptiert wird, wieder ganz nach links verschoben werden, sodass dieser wieder am Anfang des Wortes auf dem Band steht? Oder ist die Position egal?  Vielen Dank",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082886",
+                                    "Author": "Hannes Jakob Pohnke",
+                                    "DateTime": "2024-06-24T11:30:40+02:00",
+                                    "Content": "Hi, Der Kopf muss am Ende nicht verschoben werden. Sobald ein Endzustand erreicht ist, wird der Input akzeptiert.",
+                                    "Response to": "p1082861"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Graphische Darstellungen in der Prüfung",
+                            "Discussion_Id": "602339",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081917",
+                                    "Author": "Danilo Jose Duarte Neubern",
+                                    "DateTime": "2024-06-20T11:36:47+02:00",
+                                    "Content": 

@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Aktuelle Themen der Angewandten Geophysik (Moorkamp)",
+        "Course_id": "37720",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766993",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Erste Vorlesung",
+                            "Discussion_Id": "585920",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056987",
+                                    "Author": "Max Moorkamp",
+                                    "DateTime": "2024-04-15T12:04:56+02:00",
+                                    "Content": "Liebe Studierenden, die erste Veranstaltung fuer dieses Modul wird am Mittwoch den 24.4. von 14-16 Uhr im Raum BH 315 stattfinden. Mit freundlichen Gruessen Max Moorkamp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

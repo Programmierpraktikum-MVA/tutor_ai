@@ -1,0 +1,123 @@
+[
+    {
+        "Course_Name": "Online Marketing- Datenerhebung und -management SoSe 24",
+        "Course_id": "37425",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1758685",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Neuer Klausurtermin",
+                            "Discussion_Id": "603738",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083963",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-06-26T12:21:43+02:00",
+                                    "Content": "Liebe Studierende, da der Termin verschoben wurde, findet die Klausur nun am 2.7. im Raum H 3013 um 15h statt. Viele Grüße Mona",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085232",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-07-01T11:47:57+02:00",
+                                    "Content": "Liebe alle, bitte denkt daran, morgen zur Klausur euren Studierendenausweis mitzubringen. Viele Grüße Mona",
+                                    "Response to": "p1083963"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erster Termin",
+                            "Discussion_Id": "587812",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059765",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-19T17:09:53+02:00",
+                                    "Content": "Liebe Studierende, leider haben wir festgestellt, dass viele vorangemeldete Studierende nicht zur ersten Veranstaltung erschienen sind. Wenn Sie an der Veranstaltung interessiert sind, sollten Sie natürlich auch an den Veranstaltungsterminen teilnehmen, nur, falls das nicht ganz deutlich geworden ist. Wenn möglich, begeben sich die vorangemeldeten Studierenden bei Interesse nun noch zum MAR Gebäude, um den Rest der ersten Veranstaltung noch mitzubekommen. Wenn dies nicht möglich ist, Sie aber dennoch interessiert sind, teilzunehmen, melden Sie sich bitte bei uns (mona.frermann@tu-berlin.de) Zukünftig wäre es schön, wenn Sie sich selbstständig abmelden, wenn Sie spontan das Interesse an einem Kurs verlieren, weil alles andere schwierig zu planen und unfair anderen Studierenden gegenüber ist. Viele Grüße und danke für Ihr Verständnis Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung zu MAR0.002",
+                            "Discussion_Id": "587776",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059703",
+                                    "Author": "Kathrin Forchhammer",
+                                    "DateTime": "2024-04-19T16:09:17+02:00",
+                                    "Content": "Online Marketing findet in MAR0.002 statt in MAR0.007 statt. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start 'Online Marketing'",
+                            "Discussion_Id": "587249",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058892",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-18T11:52:27+02:00",
+                                    "Content": "Liebe Studierende, vielen Dank für Ihr Interesse an der Veranstaltung. Auch wenn wir mehr als 25 Vorregistrierungen erhalten haben, können erstmal alle vorregistrierten Studierenden morgen an der Einführungsveranstaltung teilnehmen (Ort und Uhrzeit finden Sie im ISIS-Kurs). Alle Unterlagen stehen ab morgen 15 Uhr zur Verfügung. Viele Grüße Mona",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059450",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-19T11:12:13+02:00",
+                                    "Content": "Liebe Teilnehmende,  bitte treten Sie dem Slack-Channel zum Kurs bei.  Liebe Grüße Mona",
+                                    "Response to": "p1058892"
+                                },
+                                {
+                                    "Message_id": "p1059599",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-19T14:04:37+02:00",
+                                    "Content": "Liebe Studierende,  wir haben bemerkt, dass sich einige Master-Studierende angemeldet haben. Der Kurs ist primär für Bachelorstudierende geeignet. Sie müssten daher selbstständig überprüfen, ob Ihnen der Kurs angerechnet werden kann.  Viele Grüße Mona",
+                                    "Response to": "p1059450"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorregistrierung für Online Marketing jetzt möglich",
+                            "Discussion_Id": "584358",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054715",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-02T11:05:57+02:00",
+                                    "Content": "Liebe Studierende, ihr könnt euch jetzt und bis zum 16.04. für die Veranstaltung 'Online Markering Datenerhebung und Management' vorregistrieren. Der Kurs ist begrenzt auf 25 Teilnehmende. Nur, wer sich vorregistriert, ist berechtigt auch an der Veranstaltung teilnehmen, solange die maximale Kapazität nicht erreicht ist. Viele Grüße Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen & Antworten",
+                    "Forum_id": "1758714",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Klausur Termin",
+                            "Discussion_Id": "588917",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061545",
+                                    "Author": "Philipp Sander Essig",
+                                    "DateTime": "2024-04-23T14:02:18+02:00",
+                                    "Content": "Hallo an alle, Ich habe mit Frau Frermann gesprochen und sie meinte, dass es möglich sei den Klausurtermin vorzuziehen. Jetzt müssen wir uns alle nur für einen Termin entscheiden. Ich habe dafür ein WA Gruppe erstellt, der ihr gerne beitreten könnt.  Link: https://chat.whatsapp.com/HaLQgR3I5UVKubmvdKu7NU",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Modern Signal Processing for Communications",
+        "Course_id": "37994",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Q&A",
+                    "Forum_id": "1813516",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "recommended readings or lecture slides",
+                            "Discussion_Id": "586548",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057901",
+                                    "Author": "Ekin Böke",
+                                    "DateTime": "2024-04-16T17:43:54+02:00",
+                                    "Content": "Hi, Will you upload recommended readings and lecture notes here ? How is the structure of the course ? Kind Regards  Ekin ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

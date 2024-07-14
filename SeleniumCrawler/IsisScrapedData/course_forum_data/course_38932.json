@@ -1,0 +1,63 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar Multilevel methods",
+        "Course_id": "38932",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1810147",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "First talk today, 16.15  in *** MA 366 ***",
+                            "Discussion_Id": "592913",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067739",
+                                    "Author": "Reinhard Nabben",
+                                    "DateTime": "2024-05-07T12:34:28+02:00",
+                                    "Content": "First talk today, 16.15  in *** MA 366 ***",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First talk Tuesday, Mai 7.  16.15 in MA 366",
+                            "Discussion_Id": "592121",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066467",
+                                    "Author": "Reinhard Nabben",
+                                    "DateTime": "2024-05-03T14:56:40+02:00",
+                                    "Content": "Dear all We need to change the date of our first talk of the seminar multilevel methods. It will be now Tuesday, Mai 7. 16.15   in MA 366. The talk  will  about Krylov subspace methods.  If you have time on Tuesday, join us.  I will be around on Monday, Mai 6, if there are any questions. Best  regards Reinhard  Nabben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1810148",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Next talk ",
+                            "Discussion_Id": "593857",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069207",
+                                    "Author": "Reinhard Nabben",
+                                    "DateTime": "2024-05-12T20:37:37+02:00",
+                                    "Content": "The next  talk will be on Monday, May 13th at 16.15 in MA 376. It will  be an overview talk on multigrid methods. Best  regards Reinhard Nabben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

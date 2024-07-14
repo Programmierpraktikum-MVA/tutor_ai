@@ -1,0 +1,94 @@
+[
+    {
+        "Course_Name": "High-dimensional Optimization and Learning",
+        "Course_id": "37441",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1759237",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam format",
+                            "Discussion_Id": "606447",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087844",
+                                    "Author": "David Martínez-Rubio",
+                                    "DateTime": "2024-07-08T23:13:01+02:00",
+                                    "Content": "[Btw, the participation in the teaching evaluation survey was quite low. I was just told it can still be filled here even though the deadline was June 29] As discussed in class, these are some guidelines for what I could ask, or I won't ask in the exam on August 1st: You do not need to memorize the proofs, as I won't ask to reproduce them. You should know the statements of theorems, facts, lemmas, definitions, etc. including relevant statements or properties and its usage, that are not in a box in the lecture notes, such as Example 2.4, Remark 4.1, equation (4.5) or what does the online-to-batch conversion imply, but not how to prove them. So I may ask you for definitions and to state some properties in these statements (whether FTL works in OL for linear Lipschitz losses, what property does the gradient of a Legendre function have, examples of cases in which we may want to use use looser losses (i.e. Remark 4.1) in OL and why, etc.) I may ask questions about the big picture that test your understanding on the material. I may give you a part of a proof that we saw or one we didn't see whose steps use the material and I may ask to justify why the steps hold. Such as when I write \"why?\" in the notes. I may ask for proving some things we didn't cover, similar to what the exercises ask in the lecture notes (I won't ask things as in the problems (note there is problems and exercises) and neither long exercises), including for the sections that do not have exercises.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "University teaching evaluation (Lehrevaluation)",
+                            "Discussion_Id": "603233",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083278",
+                                    "Author": "David Martínez-Rubio",
+                                    "DateTime": "2024-06-24T22:08:40+02:00",
+                                    "Content": "Hi all, the university has provided me with the link below, containing a questionnaire about the course. The math department and me would really appreciate if you could fill it by June 29th. https://befragung.tu-berlin.de/evasys/online.php?pswd=QY1A7 The form is in both German and English, there is a little flag on the top of the page to change the language. Thanks, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam date",
+                            "Discussion_Id": "601438",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080655",
+                                    "Author": "David Martínez-Rubio",
+                                    "DateTime": "2024-06-17T11:27:52+02:00",
+                                    "Content": "Hi all, As discussed in class, I propose August 1 for the date of the exam. Since we are not a big cohort it should be possible to do it in one day. We can move the date at a date around August 1 if there is something clashing or some other issue or big inconvenience. If that is the case for you, please use the feedback form linked in the course description. Also, it is a good opportunity to give any general feedback you may want to share. Best, David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New room for the 2nd lecture onward",
+                            "Discussion_Id": "588774",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061336",
+                                    "Author": "David Martínez-Rubio",
+                                    "DateTime": "2024-04-23T10:48:24+02:00",
+                                    "Content": "From tomorrow onward the lectures on High-Dimensional Optimization and Learning will take place at MA376.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture notes and more",
+                            "Discussion_Id": "587130",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058706",
+                                    "Author": "David Martínez-Rubio",
+                                    "DateTime": "2024-04-17T23:12:03+02:00",
+                                    "Content": "I uploaded the lecture notes corresponding to today's lecture. I added a set of exercises at the end. These exercises are optional and just for you to get familiar with the concepts of convexity and to learn about different properties. I also uploaded frank wolfe lecture notes for the lecture on May 15 that will be delivered by Christophe Roux since I'll be traveling for a conference on that day. I also added a set of references that contain most of the results that will be presented in the course, and references to delve deeper on the topic.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Change of location",
+                            "Discussion_Id": "585263",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056024",
+                                    "Author": "David Martínez-Rubio",
+                                    "DateTime": "2024-04-10T12:39:01+02:00",
+                                    "Content": "The lectures will take place at the room BIB 014. It was originally planned and displayed to be in a different room before.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,277 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Algebraic Process Calculi",
+        "Course_id": "38945",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1810330",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "later start on June 13",
+                            "Discussion_Id": "600691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079570",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-06-12T18:25:37+02:00",
+                                    "Content": "As the former inhabitants of the TEL-building will be informed tomorrow morning 9-10 in the H-building about \"the future\", I will likely come late to the session in E 124. You may nevertheless show up at the usual time and chat with your fellows until I arrive. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "exam registration (open until June 9)",
+                            "Discussion_Id": "599234",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077432",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-06-05T18:36:51+02:00",
+                                    "Content": "It is now possible to register for the exam in Moses.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078798",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-06-10T23:19:19+02:00",
+                                    "Content": "I have just extended the deadline by one week (June 16).",
+                                    "Response to": "p1077432"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "E 124",
+                            "Discussion_Id": "588004",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060064",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-20T19:13:36+02:00",
+                                    "Content": "Good news! It looks like we will be allowed to use room E 124 for this course. (Except for June 6.) This, however, will only be possible, if we end strictly before 13:45, so I suggest that the standard time slots will be 10:00-11:30 and 12:00-13:30. Of course, the actual 30-minutes break can and will be dealt with in a rather flexible manner. I will check the room coming Monday and will confirm afterwards (here), whether it suits our needs.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076020",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-06-01T11:35:25+02:00",
+                                    "Content": "We will have room E 124 also for the comming session on June 6 !",
+                                    "Response to": "p1060064"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction",
+                            "Discussion_Id": "586220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057406",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-15T23:01:13+02:00",
+                                    "Content": "As an emergency action requires replanning, the Introduction to this module will be held as a Zoom-Session. I am sorry for that, but we will not be allowed to enter the TEL-building physically this week.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058799",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-18T09:55:05+02:00",
+                                    "Content": "Of course, we start c.t. ... :-)",
+                                    "Response to": "p1057406"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion",
+                    "Forum_id": "1810331",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentation PICT",
+                            "Discussion_Id": "607179",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088873",
+                                    "Author": "Maximilian Dieter Kurz",
+                                    "DateTime": "2024-07-11T13:05:08+02:00",
+                                    "Content": "Our slides for PICT",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Docker for pict",
+                            "Discussion_Id": "607000",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088644",
+                                    "Author": "Lukas Maximilian Klapproth",
+                                    "DateTime": "2024-07-10T18:37:22+02:00",
+                                    "Content": "Hello, here is the link to a repository that contains a docker that can run Pict. Max and I will present you pict tomorrow and if you like to tinker with pict you can. Further you can code along our presentation if you like to(although not required). https://git.tu-berlin.de/lukas_klapproth/algproc2024_pict  (P.S. if it does not work, then please dont waste to much time trying to get it running)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "\"The most popular programming language in computer science\" (metanotation)",
+                            "Discussion_Id": "591821",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065987",
+                                    "Author": "Nathanael Sandy",
+                                    "DateTime": "2024-05-02T16:40:47+02:00",
+                                    "Content": "Hi! This is the talk I mentioned today, showing 32 different notations for substitution [1]. It also covers BNF. I particularly enjoy that there's both and . Invited Talk - Guy Steele [1]:",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066665",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-05-04T10:33:26+02:00",
+                                    "Content": "Thanks for sharing! Yes, I agree in many—though not all—ways with the speaker.",
+                                    "Response to": "p1065987"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pi- &amp; Lambda-Calculus Handbook",
+                            "Discussion_Id": "591825",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065994",
+                                    "Author": "Nathanael Sandy",
+                                    "DateTime": "2024-05-02T16:51:36+02:00",
+                                    "Content": "Hi! This is the document about Pi- & Lambda-Calculus I mentioned today, written by Benjamin C. Pierce. It's great to see the similarities and differences between them mentioned explicitly, but even if you don't know Lambda-Calculus, it might be a nice introduction to Pi-Calculus. https://web.archive.org/web/20060628052710/http://www.cis.upenn.edu/~bcpierce/papers/crchandbook.ps I'm also attaching a converted PDF file. Best Nate",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Matrix Group",
+                            "Discussion_Id": "590691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064271",
+                                    "Author": "Robin Daniel Cogan",
+                                    "DateTime": "2024-04-29T11:09:56+02:00",
+                                    "Content": "I finally got round to setting up the Matrix group as promised last time. Here's the link: https://matrix.to/#/#algprocalc24:matrix.tu-berlin.de",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Specification on \"contain at least one trivial pair that is not reachable from a contained non-trivial one\"",
+                            "Discussion_Id": "590411",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063831",
+                                    "Author": "Silja Vanessa Rheingans",
+                                    "DateTime": "2024-04-27T12:01:27+02:00",
+                                    "Content": "Hello!   We're having a discussion about the definition of the non-trivial property of simulations, specifically on aspect 3: Does \"from a contained non-trivial pair\" means \"from any contained non-trivial pair\" or \"from every contained non-trivial pair\"?   Depending on the meaning we reached different conclusions.  Also, how detailed should our argument be for why our solution is correct? And how far may we support our argument with program code?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063936",
+                                    "Author": "Nathanael Sandy",
+                                    "DateTime": "2024-04-28T10:21:00+02:00",
+                                    "Content": "I've tripped over this definition multiple times now, so I'll try to make it formal. \"We call simulations trivial if they contain at least one trivial pair that is not reachable from a contained non-trivial one.\"  For a simulation , let -  -  - (or: y is reachable from x, which is less clear phrasing to me)  Then the definition becomes: .  I think this captures why \"[...] from A contained [...]\" was used in the text, because we have two existential quantors. This corresponds to your EVERY version (unless I'm confusing things again, which might very well be possible).  Further, if we transform the second existential quantor into a universal one (so this is equivalent to the formalized definition above), we get: . Back to natural language: \"There is a trivial pair such that not all (or: not EVERY non-trivial pair) non-trivial pairs may reach it\". This explains where the every/any/a confusion comes from, I think.  Additionally, if ANY was the intended meaning here, I'd wonder: If there is a trivial pair in a simulation which is not reachable from any non-trivial pair, how did it end up in the simulation in the first place? (But honestly, I might be mixing up passive form or negation here again, I'm not sure...)  I hope this makes sense. Best Nate",
+                                    "Response to": "p1063831"
+                                },
+                                {
+                                    "Message_id": "p1064105",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-29T08:24:43+02:00",
+                                    "Content": "The comment \"how did it end up in the simulation in the first place\" is very close to the didactic goal of this exercise: Pairs may be contained in a simulation because the are needed (by others), or \"by accident\", i.e., not needed (by others).",
+                                    "Response to": "p1063936"
+                                },
+                                {
+                                    "Message_id": "p1064102",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-29T08:20:20+02:00",
+                                    "Content": "The intended meaning is \"any\". It would not make much sense, as no(!) trivial pair is reachable from \"all\" non-trivial ones.",
+                                    "Response to": "p1063831"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schedule for tomorrow?",
+                            "Discussion_Id": "589500",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062473",
+                                    "Author": "Nathanael Sandy",
+                                    "DateTime": "2024-04-24T16:34:02+02:00",
+                                    "Content": "Hi! Unfortunately I've taken ill and won't be able to attend tomorrow. I just wanted to make sure I understand how to compensate for that, and that I understand the Notes column stating \"§1-2\": Will you talk about Chapters 1 and 2 of the textbook, \"Introduction\" and \"Behaviour of Automata\"? (Apart from the recommended reading \"Elements of Interaction\" and \"What's in a name?\") I also found this talk The Laws of Programming with Concurrency which seems like it might be a nice introduction. Are there other talks you would recommend? Best Nate",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062609",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-24T19:45:55+02:00",
+                                    "Content": "The material in the Notes column refers to the document Formalisms—of which I have just uploaded the version v2024.1—and we will possibly work through up to 2.5. In the book, this roughly captures §3.1-4. I will touch only lightly upon §2 of the book. Get well soon!",
+                                    "Response to": "p1062473"
+                                },
+                                {
+                                    "Message_id": "p1062987",
+                                    "Author": "Silja Vanessa Rheingans",
+                                    "DateTime": "2024-04-25T14:03:05+02:00",
+                                    "Content": "Hi Nate,  we split up into groups today and you may join Juan and me for homework, if you like :) I've sent you my number in an ISIS dm, feel free to contact me, and I will add you to our group conversation.  Get well soon!",
+                                    "Response to": "p1062473"
+                                },
+                                {
+                                    "Message_id": "p1063079",
+                                    "Author": "Nathanael Sandy",
+                                    "DateTime": "2024-04-25T15:54:33+02:00",
+                                    "Content": "That's great, thanks a lot!",
+                                    "Response to": "p1062987"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slides from Introduction",
+                            "Discussion_Id": "588731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061274",
+                                    "Author": "Silja Vanessa Rheingans",
+                                    "DateTime": "2024-04-23T09:25:34+02:00",
+                                    "Content": "Good morning!   Would it be possible to upload the slides from the introduction meeting last week? I really enjoyed the wrap-up of models of computation, and I would like to have another look on the questions regarding topics we should be familiar with. Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062602",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-24T19:40:30+02:00",
+                                    "Content": "Is now available in the main table as L0.",
+                                    "Response to": "p1061274"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "About online availability of the course",
+                            "Discussion_Id": "586010",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057122",
+                                    "Author": "Raiyan Mahmud Tanim",
+                                    "DateTime": "2024-04-15T14:29:58+02:00",
+                                    "Content": "Dear Professor, I am a first-semester student of the program Msc Information Systems Management. Can this course be taken online? Due to the visa issues, I won't be able to attend in-person lectures until June. So if lectures can be taken online up until June, I will continue the course. Or else I'll need to unenroll. Can you confirm if the course can be attended remotely? Thank you.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057401",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-15T22:51:17+02:00",
+                                    "Content": "I am sorry, but no.",
+                                    "Response to": "p1057122"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

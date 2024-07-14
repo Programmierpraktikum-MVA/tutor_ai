@@ -1,0 +1,266 @@
+[
+    {
+        "Course_Name": "LaTeX: Einführung in das mathematisch-wissenschaftliche Textsatzsystem SoSe 2024",
+        "Course_id": "37684",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766238",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "LaTeZ: Pruefungsanmeldung nun freigegeben",
+                            "Discussion_Id": "606749",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088282",
+                                    "Author": "Erhard Zorn (Administrator)",
+                                    "DateTime": "2024-07-10T00:52:23+02:00",
+                                    "Content": "Liebe Studierende, die Pruefungsanmeldung fuer LaTeX: Einführung in das mathematisch-wissenschaftliche Textsatzsystem ist nun bis 15.08.2024, 23:59 Uhr moeglich.  Viele Gruesse Erhard Zorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussions-Forum",
+                    "Forum_id": "1766239",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hausaufgabe 11",
+                            "Discussion_Id": "606365",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087729",
+                                    "Author": "Paul Nolde",
+                                    "DateTime": "2024-07-08T17:27:16+02:00",
+                                    "Content": "Hallo, ich habe ein Verständnisproblem mit der letzten Hausaufgabe. Bei den anderen Hausaufgaben war es ja in Ordnung Fülltext oder unsinnige Inhalte zu nehmen, da der Inhalt des Kurses die Anwendung von LaTeX ist. Das konnte man auch in einigen der Videos sehen.  Nun soll man, meinem Verständnis nach, ein 10-seitiges, sinnvolles, komplett selbsterarbeites Dokument erstellen? Ich habe keine Hausaufgabe, Protokoll oder ähnliches in dem Umfang auf dem ich aufbauen kann. Die Aufgabe wäre dann 95% Inhalt erarbeiten ohne das ich überhaupt ein Thema oder ähnliches habe und 5% LaTeX anwenden.   MfG Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087961",
+                                    "Author": "Jannik Luca Dähn",
+                                    "DateTime": "2024-07-09T10:45:50+02:00",
+                                    "Content": "Du musst Erhard per Email (zorn@math.tu-berlin.de) schreiben. Er liest/antwortet nicht über Isis nicht.",
+                                    "Response to": "p1087729"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 5.2 setzen?",
+                            "Discussion_Id": "596724",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073669",
+                                    "Author": "David Koettlitz",
+                                    "DateTime": "2024-05-26T08:20:18+02:00",
+                                    "Content": "Hallo, in der Aufgabe 5.2 steht die Anweisung \"Setzt die folgende Formel\". Ich bin unsicher, was das heißen soll. Was sollen wir hier genau machen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073670",
+                                    "Author": "Fabian Alexander Aust",
+                                    "DateTime": "2024-05-26T08:34:44+02:00",
+                                    "Content": "setzen=hinschreiben  check mal die whatsapp gruppe aus",
+                                    "Response to": "p1073669"
+                                },
+                                {
+                                    "Message_id": "p1073671",
+                                    "Author": "David Koettlitz",
+                                    "DateTime": "2024-05-26T08:39:39+02:00",
+                                    "Content": "Wie komme ich da rein?",
+                                    "Response to": "p1073670"
+                                },
+                                {
+                                    "Message_id": "p1073672",
+                                    "Author": "Fabian Alexander Aust",
+                                    "DateTime": "2024-05-26T08:51:04+02:00",
+                                    "Content": "na hier im entspr. Forumsbeitrag!",
+                                    "Response to": "p1073671"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aus versehen HA3 bei HA2 abgegeben",
+                            "Discussion_Id": "595297",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071484",
+                                    "Author": "Luca Marko Zabel",
+                                    "DateTime": "2024-05-18T00:33:19+02:00",
+                                    "Content": "Wie der Titel beschreibt, habe ich soeben aus versehen meine 3. HA bei der 2. abgegeben und nun habe ich die Meldung, dass ich die 2. HA 4 Tage zu spät abgegeben habe.  Gibt es da eine Möglichkeit das Rückgängig zu machen?    VG Luca",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071675",
+                                    "Author": "Luca Marko Zabel",
+                                    "DateTime": "2024-05-20T02:12:58+02:00",
+                                    "Content": "Habe soeben für die Haus-Aufgabe 2, null Punkte bekommen, dass ich die dritte abgegeben habe. Ja ich weiß, deswegen habe ich den Forum Post gemacht. Würde mich freuen wenn ihr den Post auch liest und Feedback geben würdet @administrator. Danke :) VG Luca",
+                                    "Response to": "p1071484"
+                                },
+                                {
+                                    "Message_id": "p1071692",
+                                    "Author": "Jannik Luca Dähn",
+                                    "DateTime": "2024-05-20T10:44:12+02:00",
+                                    "Content": "Du musst Erhard per Email schreiben. Er liest/antwortet nicht über Isis nicht.",
+                                    "Response to": "p1071675"
+                                },
+                                {
+                                    "Message_id": "p1071720",
+                                    "Author": "Luca Marko Zabel",
+                                    "DateTime": "2024-05-20T12:15:24+02:00",
+                                    "Content": "Danke für die Info! :)",
+                                    "Response to": "p1071692"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 3 \\mathrm{i bzw. e}; boldtext?",
+                            "Discussion_Id": "595101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071171",
+                                    "Author": "Jascha Lasse Malte Wonerow",
+                                    "DateTime": "2024-05-17T10:22:36+02:00",
+                                    "Content": "Hallo, - in den Tutorialvideos heißt es, wir sollen Konstanten wie e oder i mithilfe von \\mathrm{} \"gerade\" schreiben. In der Hausaufgabe 3.3 (ii) und (iv) sind diese aber kursiv. Weiß jemand mehr? Ich hätte sie jetzt \"gerade\" gesetzt. - Ist der \"normale\" Text generell bold oder irre ich mich? Ich meine z.B.: \"Für eine Folge ... gilt\" Würde mich freuen, falls jemand mehr weiß. Danke! Jascha",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071476",
+                                    "Author": "Samia Marie Matscheroth",
+                                    "DateTime": "2024-05-17T23:47:31+02:00",
+                                    "Content": "Hi, also e als Exponentialfunktion wird immer gerade geschrieben. Somit sehe ich den Fehler im ursprünglichen Text, kann ja jedem Mal durchrutschen. Somit hab ich diese gerade geschrieben.  Bei dem anderen ist normaler Text. Kannst es ja ausprobieren, dann siehst du es sicherlich deutlich.",
+                                    "Response to": "p1071171"
+                                },
+                                {
+                                    "Message_id": "p1071666",
+                                    "Author": "Anna Rejka Valenti",
+                                    "DateTime": "2024-05-19T21:54:26+02:00",
+                                    "Content": "Hey,  im nicht deutschsprachigen Raum gibt es wiederum den Ansatz die Exponentialfunktion und die Imaginäre-Zahl kursiv (wie in der Vorlage) zu schreiben und nicht gerade. Solltest du dich jedoch für gerade entscheiden haben, empfiehlt sich ein Kommentar, der dies begründet. Entschuldige das späte Schreiben, hoffe es kann noch helfen",
+                                    "Response to": "p1071171"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 3.2 - Formeln trennen",
+                            "Discussion_Id": "594449",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070149",
+                                    "Author": "Jannek Roß",
+                                    "DateTime": "2024-05-14T17:32:57+02:00",
+                                    "Content": "Soll man die einzelnen Stichpunkte und die dazugehörigen Formeln mit subsections trennen, oder als ein ganzes Packet aufschreiben?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070200",
+                                    "Author": "Mert Hasan Cicek",
+                                    "DateTime": "2024-05-14T20:31:52+02:00",
+                                    "Content": "Das frage ich mich auch. Ist der Text und Formeln 1zu1 wie auf dem Aufgabenblatt abgebildet in Latex zu übertragen?",
+                                    "Response to": "p1070149"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 2.3",
+                            "Discussion_Id": "592320",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066818",
+                                    "Author": "Maximilian Benedikt Branscheid",
+                                    "DateTime": "2024-05-05T13:55:57+02:00",
+                                    "Content": "Hallo, ich habe die Aufgaben vorher nicht komplett bis zum ende gelesen und von anfang an horizontale und vertikale Linien verwendet. In der Hausaufgabe muss man am ende nochmal Tabellen erstellen, aus den vorherigen Beispielen, in denen die Linien verwendet werden. Muss ich jetzt alle meine Tabellen aus den Teilaufgaben vorher ändern und die Trennlinien rausnehmen, damit ich die erst in den letzten Teilaufgaben verwende oder kann ichs einfach so lassen? Beste Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066905",
+                                    "Author": "Vitus Roman Klein",
+                                    "DateTime": "2024-05-05T21:51:00+02:00",
+                                    "Content": "Ich kann dir in dem Punkt nicht weiterhelfen, aber den Modulverantwortlichen kannst du unter erhard@math.tu-berlin.de erreichen.  LG",
+                                    "Response to": "p1066818"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsappgruppe",
+                            "Discussion_Id": "591751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065883",
+                                    "Author": "Francisco Maria Maasberg",
+                                    "DateTime": "2024-05-02T14:18:03+02:00",
+                                    "Content": "Hallo, gibt es bereits eine Whatsappgruppe bzw. hätte jemand Interesse daran?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066005",
+                                    "Author": "Ivana Cosic",
+                                    "DateTime": "2024-05-02T17:06:57+02:00",
+                                    "Content": "Hey, ich würde gerne deiner Whatsappgruppe beitreten. LG Ivana",
+                                    "Response to": "p1065883"
+                                },
+                                {
+                                    "Message_id": "p1066038",
+                                    "Author": "Xiangyu Xie",
+                                    "DateTime": "2024-05-02T17:57:09+02:00",
+                                    "Content": "Hey, ich möchte auch gerne deiner Whatsappgruppe beitreten.  Können Sie mich in die Gruppenchat einladen?",
+                                    "Response to": "p1065883"
+                                },
+                                {
+                                    "Message_id": "p1066348",
+                                    "Author": "Artus Johann Samrotzki",
+                                    "DateTime": "2024-05-03T12:13:09+02:00",
+                                    "Content": "Hab mal eine erstellt: https://chat.whatsapp.com/JIySzdN3wko84iaRANlI6x",
+                                    "Response to": "p1065883"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA 1 Afg 3",
+                            "Discussion_Id": "590648",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064211",
+                                    "Author": "Vitus Roman Klein",
+                                    "DateTime": "2024-04-29T10:16:45+02:00",
+                                    "Content": "Ich habe eine Frage zur ersten Hausaufgabe. In Aufgabe 3 steht: \"Schreibt in den oben erzeugten Gliederungsebenen etwas Text (diesmal keinen Blindtext!)\" Sollen wir den Blindtext ersetzen oder sollen wir noch weitere Sätze von sinnvollem Text hinzufügen?  Vielen Dank im Voraus Vitus Klein",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065524",
+                                    "Author": "Joshua Nicolas Goldbach",
+                                    "DateTime": "2024-05-01T21:20:27+02:00",
+                                    "Content": "Ich habe die gleiche Frage. Aber ich habe es jetzt so gemacht, dass ich den Blindtext auskommentiert habe. Ich hoffe, dass das so passt?!",
+                                    "Response to": "p1064211"
+                                },
+                                {
+                                    "Message_id": "p1066296",
+                                    "Author": "Vitus Roman Klein",
+                                    "DateTime": "2024-05-03T11:00:27+02:00",
+                                    "Content": "Ich habe per Mail nachgefragt:  Lieber Vitus Klein,  wenn man den Blidntext wieder loescht, kann ich das ja nicht anschauen. Bei der 3. Aufgabe soll man natuerlich einen neuen Abschnitt erstellen.  Viele Gruesse Erhard Zorn",
+                                    "Response to": "p1065524"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Overfull \\hbox",
+                            "Discussion_Id": "591444",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065411",
+                                    "Author": "Norman Finlay Klauck",
+                                    "DateTime": "2024-05-01T13:05:32+02:00",
+                                    "Content": "Hallo, Ich bearbeite mein Dokument mit Overleaf. Dabei wird mir angezeigt \"Overfull \\hbox (6.0461pt too wide) in paragraph at lines 42--43\". Die gleiche Meldung steht auch in den logs. So wie ich das verstehe, ist das aber nur ein Hinweis, da die Datei trotzdem kompiliert. Ich wollte nur sicherheitshalber noch mal nachfragen, ob das bei der Bewertung irgendeinen Abzug bringt oder ich es ignorieren kann. Mit freundlichen Grüßen, Finlay",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] MINT-STP",
+        "Course_id": "38044",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1777311",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Laborübung",
+                            "Discussion_Id": "600578",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079385",
+                                    "Author": "Anna Efthymiou",
+                                    "DateTime": "2024-06-12T12:21:02+02:00",
+                                    "Content": "Liebe Studierende, die Folien von heute sowie die Messdaten aus der Übung sind nun im Kurs hochgeladen.  Freundliche Grüße Euer FSD- Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laufradgestaltung morgen - 22.5.24",
+                            "Discussion_Id": "595687",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072137",
+                                    "Author": "Anna Efthymiou",
+                                    "DateTime": "2024-05-21T14:19:35+02:00",
+                                    "Content": "Liebe Studierende, morgen werden wir in die Laufradgestaltung mithilfe von SolidWorks gehen. Dafür ist es notwendig, dass ihr einen Laptop dabei habt, auf dem auch SolidWorks installiert ist. Aufgrund einer Besprechung morgen ist der K004 ganztägig belegt. Wir treffen uns daher in unserem Tutorenbüro K002/ K003. Weiterhin bekommt ihr morgen alle relevanten Daten, die ihr für eure Laufradkonstruktion benötigt. Das heißt, ab morgen könnt ihr an eurem eigenen Laufrad arbeiten. Abgabe des CAD- Modells ist dann der 10.06.2024. 23:59 Uhr. Freundliche Grüße Euer FSD- Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freiarbeit heute 15.05.2024",
+                            "Discussion_Id": "594525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070279",
+                                    "Author": "Anna Efthymiou",
+                                    "DateTime": "2024-05-15T08:52:23+02:00",
+                                    "Content": "Liebe Studierende, wie schon erwähnt sind Markus und ich heute auf einer Messe und können euch daher nicht vor Ort betreuen. Wir haben im Kurs Folien hochgeladen, mit denen ihr euch heute zuhause beschäftigen sollt. Der Foliensatz zur Laufradgestaltung beinhaltet eine Selbstübung (bis S.8), in der ihr einen Adapter konstruieren sollt. Auf diesen Adapter wird später euer Laufrad geschraubt und anschließend auf der Welle des Motors montiert. Der zweite Teil dieser Vorlesung geht tiefer in die Laufradkonstruktion ein, was wir dann gemeinsam nächste Woche behandeln wollen. Ihr könnt euch natürlich auch schon daran versuchen. Falls ihr Fragen habt, schreibt gerne in das Forum oder per Mail an anna.efthymiou@tu-berlin.de Freundliche Grüße Euer FSD- Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MINT-STP heute um 10 Uhr im K004",
+                            "Discussion_Id": "593173",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068124",
+                                    "Author": "Markus Fischer",
+                                    "DateTime": "2024-05-08T10:01:04+02:00",
+                                    "Content": "Liebe Studierende,  das MINT-STP Projektlabor findet, wie immer, um 10:15 Uhr im Raum K004 statt. Bitte entschuldigt die falschen Informationen auf der ISIS-Seite, die heute dort kurzfristig veröffentlicht wurden.  Bis gleich! Markus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1777313",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Zwischenpräsentation auf 26. Juni verschoben",
+                            "Discussion_Id": "602014",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081487",
+                                    "Author": "Markus Fischer",
+                                    "DateTime": "2024-06-19T10:26:40+02:00",
+                                    "Content": "Hallo zusammen, aufgrund unzureichender Absprachen konnte die Zwisenschpräsentation heute nicht stattfinden. Wie besprochen, bekommt ihr die Möglichkeit, die Präsentation nächste Woche im Kurs nachzuholen. Heute werden die Anwesenden das fertig gedruckte Laufrad montieren. Nächste Woche wird dann die Messung stattfinden. Viele Grüße Euer FSD-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Montag, 3. Juni",
+                            "Discussion_Id": "597642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075117",
+                                    "Author": "Markus Fischer",
+                                    "DateTime": "2024-05-29T13:53:43+02:00",
+                                    "Content": "Unser nächster Termin ist der 3. Juni. An dem Tag werden wir die Zentralbibliothek der Uni besuchen. Treffpunkt am 3. Juni ist um 10:15 Uhr im Raum BIB 012 (im Erdgeschoss der Zentralbibliothek \"hinter\" der Cafeteria). Danach folgt eine Präsentation von mir zum wissenschaftlichen Arbeiten und Präsentieren im Raum K004. Viele Grüße Markus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SolidWorks",
+                            "Discussion_Id": "592923",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067752",
+                                    "Author": "Anna Efthymiou",
+                                    "DateTime": "2024-05-07T13:01:57+02:00",
+                                    "Content": "Liebe Studierende, für den SolidWorks- Download solltet Ihr ganz einfach über eine Google- Suche mit \"TU Berlin- SolidWorks\" auf folgende Seite gekommen sein: TU_SolidWorks Dort wird beschrieben, was ihr tun müsst, um das Programm (für 5 €) zu installieren.  Freundliche Grüße Euer FSD- Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

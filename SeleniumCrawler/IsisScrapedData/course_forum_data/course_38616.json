@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Strukturgeologie",
+        "Course_id": "38616",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1797857",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Erster Termin LV Strukturgeologie",
+                            "Discussion_Id": "584442",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054836",
+                                    "Author": "Robert Bussert",
+                                    "DateTime": "2024-04-02T18:55:47+02:00",
+                                    "Content": "Liebe Studierende, der erste Termin der LV Strukturgeologie ist Dienstag, der 16.04.2024, von 10:15 - 11:45 im BH-N 107. Robert Bussert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

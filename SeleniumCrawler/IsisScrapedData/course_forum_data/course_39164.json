@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Deep Learning on Graphs - Seminar",
+        "Course_id": "39164",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1820688",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentation Day",
+                            "Discussion_Id": "602352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081934",
+                                    "Author": "Jan Thorben Frank",
+                                    "DateTime": "2024-06-20T12:01:50+02:00",
+                                    "Content": "The final presentations will take place on 03.07.24 from 10:00 - 12:00 at MAR4.033. See you then. ~ Thorben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topics Are Distributed",
+                            "Discussion_Id": "596862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073892",
+                                    "Author": "Jan Thorben Frank",
+                                    "DateTime": "2024-05-27T09:28:29+02:00",
+                                    "Content": "Hey everyone, the topics should be distributed since last week. As already discussed during the kick-off meeting, you have the chance to meet with a supervisor from our group once if you have questions about the paper during preparation of your presentation (contact details for chosen topics see below). Note that this meeting is an optional offer and is not mandatory.  Topic / Supervisor / Email E(n) equivariant graph neural networks / Thorben Frank / thorbenjan.frank@gmail.com Hierarchical Graph Representation Learning with Differentiable Pooling / Thorben Frank / thorbenjan.frank@gmail.com Grand: Graph Diffusion Learning / Winfried Riepken / winfried.ripken@tu-berlin.de  Best wishes Thorben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic Selection is Open",
+                            "Discussion_Id": "594560",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070334",
+                                    "Author": "Jan Thorben Frank",
+                                    "DateTime": "2024-05-15T10:26:47+02:00",
+                                    "Content": "Topics can now be selected. Please select three topics and order them according to your preference. Closes in 1 week.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-off Meeting",
+                            "Discussion_Id": "592351",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066870",
+                                    "Author": "Jan Thorben Frank",
+                                    "DateTime": "2024-05-05T18:44:05+02:00",
+                                    "Content": "Dear all,   the kick-off meeting will take place on Tuesday, May 14th 2024, 16:00-17:30, MAR 4.044.  Best regards,  Thorben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

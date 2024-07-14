@@ -1,0 +1,92 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Master Project: Distributed Systems",
+        "Course_id": "37661",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1765333",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam registration open until April 30th",
+                            "Discussion_Id": "589318",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062196",
+                                    "Author": "Jonathan Samuel Will",
+                                    "DateTime": "2024-04-24T12:08:23+02:00",
+                                    "Content": "Dear students, The exam registration at Moses/MTS should now be open and remains open until April 30th at 23:59. If you are participating in the course, you need to register for the exam. With kind regards Jonathan & Patrick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Results of the participant selection procedure",
+                            "Discussion_Id": "588853",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061450",
+                                    "Author": "Jonathan Samuel Will",
+                                    "DateTime": "2024-04-23T12:15:10+02:00",
+                                    "Content": "Dear students, The selection procedure has concluded and the following students have been invited to participate in this semester's Distributed Systems Master Project: Topic A) Christian Helbig Leo Wilhelm Lierse Christian Adam Petri Inese Yilmaz Veit Ferdinand Laule Syed Muhammad Mahmudul Haque Omadbek Meliev  Topic B) Charlotte Sophia Cara Fritsch Arno Bock Daniel Dronov Melisa Akbaydar Felix Urban Jonas Uli Benn Tanem Basaraner Aleksander Gomilsek  See you tomorrow at the brainstorming and group formation session!  With kind regards, Jonathan & Patrick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "The rooms have changed!",
+                            "Discussion_Id": "588477",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060877",
+                                    "Author": "Jonathan Samuel Will",
+                                    "DateTime": "2024-04-22T14:58:23+02:00",
+                                    "Content": "Dear students, Due to the damages in the TEL building, we won't be able to use the seminar room there as we had originally planned. The next session on Wednesday will take place in HL 102  and the ones thereafter will be in MA 742. Our schedule, including the locations are also available on the course's ISIS page.  With kind regards, Jonathan & Patrick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to the Master Project Distributed Systems",
+                            "Discussion_Id": "585772",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056773",
+                                    "Author": "Jonathan Samuel Will",
+                                    "DateTime": "2024-04-15T06:00:00+02:00",
+                                    "Content": "Dear students,  Welcome to this semester's Distributed Systems Master Project. The course starts with the kick-off meeting today (Monday, April 15th) at 10:00-12:00 in room FH 301 With kind regards, Jonathan and Patrick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Questions & Discussions",
+                    "Forum_id": "1765334",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Admission Results?",
+                            "Discussion_Id": "588687",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061213",
+                                    "Author": "Charlotte Sophia Cara Fritsch",
+                                    "DateTime": "2024-04-23T00:21:50+02:00",
+                                    "Content": "Hi! Do we have admission results yet? Best, Charlotte",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Discord Group a)CO2eff FL ",
+                            "Discussion_Id": "585908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056970",
+                                    "Author": "Inese Yilmaz",
+                                    "DateTime": "2024-04-15T11:49:12+02:00",
+                                    "Content": 

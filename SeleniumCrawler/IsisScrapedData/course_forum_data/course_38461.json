@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Workshops im PC-Pool Physik",
+        "Course_id": "38461",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1792523",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Python Worshop",
+                            "Discussion_Id": "586641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058022",
+                                    "Author": "Marcus Hofmann",
+                                    "DateTime": "2024-04-16T22:54:35+02:00",
+                                    "Content": "Der Python Workshop wird auf Morgen den 17.04. um 16Uhr bzw. für nächste Woche dann auf den 24.04. um 16 Uhr verschoben, da so mehr Leute die Möglichkeit haben, teil zu nehmen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

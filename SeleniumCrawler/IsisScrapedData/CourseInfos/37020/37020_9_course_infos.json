@@ -1,0 +1,12 @@
+[
+    "Supervisor/Contact:",
+    "Bianca Scheibel",
+    "For this survey, research needs to be done regarding how Purple Team (play between attacker and defender site) emulations are working and how they are trained. Especially interesting is what approaches or algorithms are used, how they work, and how they perform compared to each other. The comparison only needs to be done theoretically based on the found information and must be done according to the selected research question for the seminar paper. It is not needed to describe the methods/algorithms in every detail, but it should be clear how they work.",
+    "The report should follow general good practices of scientific work and should take",
+    "B. Kitchenham",
+    "(2004) into account when conducting a literature survey. The final report should cover at least 15 papers on Purple Team emulation from the last 10 years. Furthermore, this review",
+    "MUST NOT",
+    "be a simple summary of those papers. Especially, it",
+    "MUST NOT",
+    "chain one summary paragraph/section after the other. The report must have a clearly defined research question that is used to select and analyze the papers for the report."
+]

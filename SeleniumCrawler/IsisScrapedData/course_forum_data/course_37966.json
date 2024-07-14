@@ -1,0 +1,182 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Numerische Implementierung der linearen FEM",
+        "Course_id": "37966",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1774149",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Zeitplan Prüfungen",
+                            "Discussion_Id": "606687",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088187",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-07-09T17:00:13+02:00",
+                                    "Content": "Hallo allerseits, hier ist der Zeitplan für die Prüfungen: Ich hoffe, ich konnte alle eure Wünsche berücksichtigen. Falls eine Gruppe fehlt oder etwas nicht passt, gebt mir bitte umgehend Bescheid.  Viel Erfolg bei eurer Vorbereitung! Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation - inständige Bitte um Teilnahme",
+                            "Discussion_Id": "606527",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087966",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-07-09T10:50:18+02:00",
+                                    "Content": "Liebe Studierende,  ich bitte Euch herzlich um Eure Unterstützung beim Ausfüllen dieser Lehrevaluation: https://befragung.tu-berlin.de/evasys/online.php?pswd=R7VTV (Das ist der Link zur Übung, ein weiterer zur Vorlesung folgt eventuell)  Die offiziellen Ergebnisse dieser Evaluation sind für uns Lehrende und die nächsten Semester dieser Lehrveranstaltung sehr wichtig. Wir hoffen, dass alles für Euch gepasst hat und zu guten Evaluationsergebnissen führt :)  Vielen Dank! Stefan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088111",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-07-09T14:31:33+02:00",
+                                    "Content": "Liebe Studierende, Das ist der Link für die Vorlesung, bittet füllt diese Umfrage ebenfalls aus: https://befragung.tu-berlin.de/evasys/online.php?pswd=DFM9G Vielen Dank! Stefan",
+                                    "Response to": "p1087966"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 26.06.2024 - ich bin verspätet",
+                            "Discussion_Id": "603661",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083868",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-06-26T09:57:16+02:00",
+                                    "Content": "Guten Morgen, ich bin gerade bei einem Pflichttermin der.TU Berlin, der sich noch ein wenig hinzieht. Ich komme daher leider etwas verspätet zur Übung. Heute ist ohnehin freies Arbeiten an den Hausaufgabenprojekten vorgesehen. Fangt schon mal an, bis später. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung und Übung kommende Woche fallen aus",
+                            "Discussion_Id": "597391",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074751",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-28T15:14:43+02:00",
+                                    "Content": "Liebe Studierende, auf Grund interner organisatorischer Erfordernisse fallen Vorlesung und Übung kommende Woche (03.06. und 05.06.2024) aus. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. &amp; 3. HA online",
+                            "Discussion_Id": "593669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068904",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-10T14:14:54+02:00",
+                                    "Content": "Hallo, die 2. und 3. Hausaufgabe in NILFEM sind jetzt online. Die Abgabefrist für die 3. HA entscheide ich anhand unserer Geschwindigkeit in der Übung. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Hausaufgabe ist online",
+                            "Discussion_Id": "590153",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063454",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-04-26T11:50:22+02:00",
+                                    "Content": "Liebe Studierende, die erste Hausaufgabe in NILFEM ist nun auf ISIS verfügbar. Die Abgabefrist ist der 06.05.2024, 23:59 Uhr. Ich bitte die verbleibenden Gruppen um die Zusendung der Gruppenzugehörigkeit an stefan.hildebrand@tu-berlin.de . Anschließend kann ich die Gruppen in ISIS anlegen und das Abgabeformular für die Hausaufgabe einrichten. Viel Erfolg! Stefan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066364",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-03T12:22:58+02:00",
+                                    "Content": "Hallo allerseits,  ich habe die Hausaufgabengruppen eben in ISIS eingegeben, bitte prüft, ob ihr alle Mitglied der richtigen Gruppe seid. Das Abgabefeld für die 1. HA in NILFEM ist nun ebenfalls freigeschaltet. Bitte versucht, ob die Abgabe möglich ist und ihr in der Gruppe dann alle die Abgabe sehen könnt.  Sollte etwas schief gehen, steht als Notfall-Variante meine E-Mail-Adresse zur Abgabe zur Verfügung: stefan.hildebrand@tu-berlin.de  Viele Grüße und viel Erfolg! Stefan",
+                                    "Response to": "p1063454"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Feiertag 1. Mai",
+                            "Discussion_Id": "590976",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064723",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-04-29T18:28:13+02:00",
+                                    "Content": "Liebe Studierende, am 1. Mai ist ein Feiertag, entsprechend findet keine Übung statt. Die Inhalte werden beim folgenden Übungstermin behandelt, ohne zusätzliche Aufgaben zum Selbststudium. Die Zeitplanung der Hausaufgaben wird ebenfalls dem Verlauf des Semesters angepasst.  Einen schönen Feiertag und bis bald Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1817240",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Morgiger Übungsinhalt",
+                            "Discussion_Id": "601890",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081295",
+                                    "Author": "Faris Al-Qaiwani",
+                                    "DateTime": "2024-06-18T16:10:58+02:00",
+                                    "Content": "Hallo Herr Hildebrandt, wird es morgen ein klassische Übung geben oder soll die Zeit für das Projekt genutzt werden? Ich werde es leider nicht schaffen, zu kommen.  Liebe Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081365",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-06-18T19:04:46+02:00",
+                                    "Content": "Hi, es wird morgen noch ein bisschen Inhalt geben, es gibt um die Integration von Kräften auf Knoten und die Nummerierung. Ein paar Folien dazu lade ich auch noch hoch. Der Fokus liegt aber darauf, weiter am Projekt zu arbeiten.  Viele Grüße Stefan",
+                                    "Response to": "p1081295"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wie viele Elemente sind für Konvergenz erforderlich?",
+                            "Discussion_Id": "597777",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075311",
+                                    "Author": "Haowang Zhang",
+                                    "DateTime": "2024-05-29T21:55:34+02:00",
+                                    "Content": "When we try to change the number of elements, u does not change in any way, so we are not sure what indicator should be used to judge whether it has converged.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075615",
+                                    "Author": "Stefan Hildebrand",
+                                    "DateTime": "2024-05-30T17:41:34+02:00",
+                                    "Content": "In general, the strains and thus stresses are the quantity in focus for a convergence analysis, because they converge slower than the displacements.  For this specific case, please think of the mechanical task that is solved, its analytical solution and how many elements (the plots show the results with quadratic elements, right?) are necessary to represent the curve of u accurately.",
+                                    "Response to": "p1075311"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA. Gruppe gesucht",
+                            "Discussion_Id": "590063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063327",
+                                    "Author": "Sirous Ahmadivala",
+                                    "DateTime": "2024-04-26T09:32:53+02:00",
+                                    "Content": "Hallo zusammen.  Leider konnte ich nicht bisher eine Gruppe finden. Falls es in einer Gruppe noch Platz gibt, würde ich mich freuen, euch beizutreten!  MfG Sirous",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,419 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Bahnbetrieb",
+        "Course_id": "37935",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1773379",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Sprechstunde heute, 12.07.24 um 16 Uhr",
+                            "Discussion_Id": "607370",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089147",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-07-12T07:41:34+02:00",
+                                    "Content": "Hallo, ich biete heute um 16 Uhr eine Sprechstunde an. Der Link kommt dann. Sorry für die Kurzfristigkeit, da gab es noch Terminkollisionen, die erst aus dem Weg geräumt werden mussten. VG Julius",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089416",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-07-12T15:57:21+02:00",
+                                    "Content": "https://tu-berlin.zoom.us/j/63129771403?pwd=4PO65KNrMzBRSnaaZewJlAJrPYP0br.1",
+                                    "Response to": "p1089147"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde morgen am 05.07. um 16 Uhr via Zoom",
+                            "Discussion_Id": "605416",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086381",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-07-04T07:44:35+02:00",
+                                    "Content": "Hallo, ich werde morgen um 16 Uhr eine Sprechstunde anbieten, die dann für alle offen sein wird. Den Zoom-Link werde ich im Laufe des Tages noch hier veröffentlichen. VG Julius",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086965",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-07-05T15:24:22+02:00",
+                                    "Content": "Hallo, hier der Einladungslink für die Sprechstunde in einer halben Stunde. Bis dahin. Julius  Batschari, Julius lädt Sie zu einem geplanten Zoom-Meeting auf der TU Berlin Zoom Instanz ein.  Thema: Sprechstunde Bahnbetrieb Projektaufgabe - Zoom Meeting von Batschari, Julius Uhrzeit: 5.Juli 2024 04:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien  Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/66330317385?pwd=feBM8ICf2CqLHddpcZo0DLwu7HujSQ.1  Meeting-ID: 663 3031 7385 Kenncode: 491196 Schnelleinwahl mobil +496971049922,,66330317385#,,,,,,0#,,491196# Deutschland +496950502596,,66330317385#,,,,,,0#,,491196# Deutschland  Einwahl nach aktuellem Standort +49 69 7104 9922 Deutschland +49 695 050 2596 Deutschland Meeting-ID: 663 3031 7385 Kenncode: 491196 Ortseinwahl suchen: https://tu-berlin.zoom.us/u/cbkhfPwXqN  Über SIP beitreten sip:66330317385.491196@fr.zmeu.us  Über H.323 beitreten 213.19.144.110 (Amsterdam Niederlande) 213.244.140.110 (Deutschland) 159.124.168.213 (Kanada Toronto) 65.39.152.160 (Kanada Vancouver) 207.226.132.110 (Japan Tokio) 149.137.24.110 (Japan Osaka) Kenncode: 491196 Meeting-ID: 663 3031 7385",
+                                    "Response to": "p1086381"
+                                },
+                                {
+                                    "Message_id": "p1086998",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-07-05T17:11:03+02:00",
+                                    "Content": "Hallo nochmal,  es ging eben in der Sprechstunde wieder um die Pufferzeiten und die Frage, ob die, nachdem man sie in den Streckendaten eingestellt hat, von FBS in die Blockbelegungszeit reingezählt werden, oder FBS bei Unterschreitung lediglich eine Warnung ausspuckt. Ich habe es eben ausprobiert und bei zwei dicht hintereinander fahrenden Zügen die Pufferzeiten zwischen zwei Betriebsstellen in den Streckendaten verändert. Dadurch haben sich auch die schraffierten Blockbelegungszeiten der Züge verändert, also wird das von FBS mit berücksichtigt. Was FBS jedoch NICHT berücksichtigt sind von den Standard-Pufferzeiten abweichende Pufferzeiten (nach Bräuer) hier seid ihr selber verantwortlich, diese einzuhalten!  Weiterhin viel Erfolg und schönes Wochenende!  VG Julius",
+                                    "Response to": "p1086381"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "605828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086944",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-07-05T14:36:18+02:00",
+                                    "Content": "Hallo, die Lehrevaluation der Fakultät hat begonnen und ihr habt hier die Möglichkeit bis zum 15.07. daran teilzunehmen: https://befragung.tu-berlin.de/evasys/online.php?pswd=Z9W22 Die Umfrage dauert max. 10 Minuten und wir würden uns sehr freuen, wenn ihr zahlreich teilnehmt, da wir nur durch das Feedback der Studierendenschaft unsere Lehre verbessern können.  Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung Planspiel alternative Antriebe / Einführungsvideo",
+                            "Discussion_Id": "603153",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083150",
+                                    "Author": "Ulrich Zimmermann",
+                                    "DateTime": "2024-06-24T16:43:50+02:00",
+                                    "Content": "Hallo zusammen, diese Woche findet das Planspiel alternative Antriebe statt und zwar nicht im gewohnten Vorlesungssaal, sondern bei uns auf dem SG-Gelände im SG12-002 (linke Halle im Erdgeschoss). Zusätzlich gibt es ein kurzes Einführungsvideo, das gerade im Kursbereich freigeschaltet wurde und das ihr euch im Vorfeld ansehen könnt. Wir sehen uns dann am Donnerstag. Schöne Grüße Uli",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exkursion in die Betriebszentrale der S-Bahn Berlin",
+                            "Discussion_Id": "603008",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082918",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-24T12:07:01+02:00",
+                                    "Content": "Hallo, am 04. Juli gibt es die Möglichkeit die Betriebszentrale der Berliner S-Bahn zu besichtigen. Dort gibt es einen einleitenden Vortrag und danach geht man in Gruppen durch die Räumlichkeiten und kann dem Stellwerkspersonal bei der Arbeit zu schauen und je nach Arbeitslast Fragen stellen. Treffpunkt für Exkursion ist vor der Betriebszentrale (Halenseestraße 28, 10711 Berlin), erreichbar z. B. über S-Bahnhof Westkreuz oder Halensee. Los geht es um 09:15, die Exkursion endet gegen 11:30. Die DB benötigt vorab die Namen aller Teilnehmenden. Bitte nehmt deshalb an der Umfrage teil. Die Umfrage ist offen bis zum 30.06.  Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Weitere Themen aus der Übung heute",
+                            "Discussion_Id": "602469",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082118",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-06-20T18:07:56+02:00",
+                                    "Content": "Hallo nochmal, bei den Bemerkungen der Trassenanmeldungen für die Charter-Züge sind einige von euch über die Formulierung \"ohne Lokumlauf\" gestolpert. Das bedeutet in dem Fall, dass der Zug schon fertig gereiht und gebildet aus dem Bahnbetriebswerk (BW) Schöneweide in den Bahnhof Schöneweide einfährt, ohne dass die Lok nochmal \"Kopf machen\", also um den Zug drum herum fahren muss. In Lübbenau muss der Zug dann nach Gleis 10 und dort muss die Lok dann umsetzen. Dadurch wird dann auch eine vereinfachte Bremsprobe am Zug nötig. Aus Gleis 10 kommt der Zug dann wieder an den Bahnsteig. Bei der Ankunft in Schöneweide kann der Zug ohne erneutes Umsetzen ins BW fahren und ist damit von der Hauptstrecke wieder verschwunden. Die Vmax der IC-Garnituren stimmt nicht. Eine Baureihe 146 und auch der vorgegebene Wagenzug können maximal 160 km/h fahren, das wird euch FBS auch so anzeigen. Das ist in dem Fall aber auch irrelevant, da auf den betrachteten Strecken weder LZB noch ETCS verbaut sind, d.h., dass signalgeführt gefahren wird und ihr wisst ja hoffentlich noch, wie schnell man da maximal in Deutschland fahren kann. VG Julius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kunersdorf Projektaufgabe und Sprechstunde",
+                            "Discussion_Id": "602459",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082105",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-06-20T17:27:04+02:00",
+                                    "Content": "Hallo zusammen, nach Beratschlagung mit Simon und vor dem Hintergrund, dass einige von euch schon relativ weit sind, sind wir zu dem Schluss gekommen, dass ihr Kunersdorf als Bahnhof ansehen dürft, auch wenn dies nicht der Realität entspricht. Die FBS-Daten sind in dem Fall für euch ausschlaggebend. Bitte vergesst also alles, was ich zu dem Thema Kunersdorf heute in der Übung gesagt habe und entschuldigt bitte die Verwirrung. Zu weiteren Fragen, die heute nicht abschließend in der Übung geklärt werden konnten, werden wir uns noch austauschen und dann unsere Ergebnisse hier im Isis-Kurs veröffentlichen. Im Kurs steht, dass ich auch Sprechstunden anbiete. Bisher wurden die noch nicht so frequent genutzt, da ich aufgrund von Schichtarbeit momentan keine festen Tage habe, an denen ich da bin und deshalb keine Zeiten in Isis stehen. Wenn ihr Bedarf habt, bitte schreibt mir eine Mail, oder Isis-Nachricht und wir machen einen Termin aus. Wenn dann eine Sprechstunde stattfindet, werde ich den Termin hier reinstellen, damit auch andere von euch den dann wahrnehmen können. Vielen Dank und bitte entschuldigt nochmal die Verwirrung wegen Kunersdorf. VG Julius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pufferzeiten Projektaufgabe Teil 1",
+                            "Discussion_Id": "599310",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077542",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-06-06T09:33:10+02:00",
+                                    "Content": "Hallo zusammen, aus gegebenem Anlass möchte ich euch darauf hinweisen, bei der Fahrplanbearbeitung in FBS daran zu denken, Pufferzeiten zwischen den Blockbelegungszeiten einzuplanen, auch wenn dies aktuell noch nicht explizit in der Aufgabenstellung steht. Verwendet bitte die Pufferzeitrichtlinien aus dem Gastvortrag von Herrn Bräuer. VG Julius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektaufgabe",
+                            "Discussion_Id": "598184",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075909",
+                                    "Author": "Simon Christian Houterman",
+                                    "DateTime": "2024-05-31T16:57:55+02:00",
+                                    "Content": "Hallo, die Aufgabenstellung für Teil 1 ist nun wie angekündigt aktualisiert auf ISIS. Die Gruppeneinteilung ist auch verfügbar. Liebe Grüße Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "598112",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075799",
+                                    "Author": "Simon Christian Houterman",
+                                    "DateTime": "2024-05-31T12:45:28+02:00",
+                                    "Content": "Hallo, wie gestern schon gesagt: Heute ist der letzte Tag der Prüfungsanmeldung. Guckt bitte nochmal im MTS, ob ihr wirklich angemeldet seid. Die Abmeldung ist noch etwa eine Woche möglich.  Liebe Grüße Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Installation FBS",
+                            "Discussion_Id": "597598",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075049",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-05-29T11:55:40+02:00",
+                                    "Content": "Hallo, damit wir in der morgigen Übung mit euch mit dem FBS arbeiten können, installiert euch bitte bis morgen das Programm wie in der unter \"Projektaufgabe\" bereitgestellten Installationsanweisung beschrieben. Bringt dann morgen bitte eure Rechner mit installiertem FBS mit. Falls einige von euch keine (Windows)Rechner haben, könnt ihr bei euren Kommiliton*innen zusammen reinschauen, da FBS nur auf Windows funktioniert. Viel Erfolg und bis morgen! Julius",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075071",
+                                    "Author": "Julius Batschari",
+                                    "DateTime": "2024-05-29T12:34:59+02:00",
+                                    "Content": "Hallo nochmal,  bitte auch die Datei \"Übungsnetz\" unter den Installationshinweisen runterladen, das benötigen wir ebenfalls für die morgige Übung.",
+                                    "Response to": "p1075049"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung",
+                            "Discussion_Id": "595906",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072464",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-05-22T10:36:11+02:00",
+                                    "Content": "Hallo, wichtiger Hinweis: Die Veranstaltung morgen (23.05.) findet abweichend im Raum SG12-002 (Erdgeschoss, weißes Gebäude im hinteren Teil des Severingeländes) statt. Los geht es unverändert um 12:15.  Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL 16.05. online",
+                            "Discussion_Id": "594688",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070541",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-05-15T15:21:05+02:00",
+                                    "Content": "Hallo, die morgige Vorlesung muss spontan online stattfinden. Los geht es wie gewohnt um 12:15 unter diesem Link: https://tu-berlin.zoom.us/j/69622081107?pwd=cmFXQ3V0dUpqUTlZSjJuTU1lZ1pwQT09 Zu Gast ist Herr Bräuer vom Institut für Regional- und Fernverkehrsplanung, der eine u. a. eine Einführung in das Fahrplanbearbeitungssystem (FBS) geben wird.  Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hallo",
+                            "Discussion_Id": "587041",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058567",
+                                    "Author": "Simon Christian Houterman",
+                                    "DateTime": "2024-04-17T17:30:30+02:00",
+                                    "Content": "Willkommen liebe am Bahnbetrieb Interessierte, morgen findet der Auftakt für Bahnbetrieb in diesem Semester statt. Um 12:15 geht es im BH-N 334 los. Wir gehen die Modalitäten durch und werden uns dann noch Gedanken über den Ablauf der Veranstaltung machen. Wir werden dafür vsl. nur die erste Hälfte der Zeit brauchen diese Woche. Bis dahin Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Fragen und Diskussionen",
+                    "Forum_id": "1820368",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "FBS - Umleitung des existirenden Zuges",
+                            "Discussion_Id": "604396",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084904",
+                                    "Author": "Jakub Dach",
+                                    "DateTime": "2024-06-29T15:43:58+02:00",
+                                    "Content": "Hallo, kann man in FBS im Nachhinein einen bereits existierenden Zug auf ein anderes Gleis verschieben ohne eine Parallelverschiebeung? VG Kuba",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084967",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-30T10:05:41+02:00",
+                                    "Content": "Guten Morgen Kuba,  leider weiß ich nicht, was du genau meinst. Kannst du das bitte etwas erklären?  Mit Parallelverschiebung ändert man nicht die Gleise eines Zuges im Bahnhof. Das macht man über die Funktion \"Bahnhofsgleise zuordnen\" im jeweiligen Bildfahrplan. Das wäre dann aber keine klassische Umleitung. Wenn du einen Zug ab einer Betriebsstelle auf eine andere Strecke schicken möchtes, dann würdes du den Zug bis zu der Betriebsstelle \"einkürzen\" (mit der Funktion \"Zug endet in Bahnhof\") wo noch alles passt. Dann würdest du einen Bildfahrplan erstellen, der die neue Strecke abbildet und die Betriebsstelle beeinhaltet, wo nach alles passt, und dann über die Trassensuche vorwärts die Trasse auf der \"neuen\" Strecke konstruieren.  Viele Grüße Paul",
+                                    "Response to": "p1084904"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Trassenführung",
+                            "Discussion_Id": "604129",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084498",
+                                    "Author": "Nils Benedict Zimmer",
+                                    "DateTime": "2024-06-27T18:40:51+02:00",
+                                    "Content": "Wie erstelle ich einen Bildfahrplan der über Cottbus Rl Nordseite? Automtische nimmt der immer Rl Südseite, wenn manuell Rl Nordseite ausgewählt wird, endet der Fahrplan in Rl Nordseite und führt nicht weiter zu BCS. Wir würden gerne den kompletten Cottbuser Bahnhof nutzen um die Trassen auszureizen. Danke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084545",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-27T23:47:13+02:00",
+                                    "Content": "Hallo Nils, du wählst wie gewohnt \"Bildfahrplan nach Karte\" und wählst Cottbus als ersten Knoten aus und dann musst du aber \"Nordseite\" mit Rechtsklick auswählen und die Route über diesen Bahnhöf führen.  Schließlich wählst du deinen Zielbahnhof mit Rechtsklick aus und wählst \"Route hierher verlängern\". Damit sollte der Bildfahrplan nun über die Nordseite geführt werden.     Passt aber auf, dass ihr bei der Bearbeitung eurer Züge jeweils im richtigen Bildfahrplan seid. Ansonsten gibt es schnell Fehler, weil Züge nicht vollständig und korrekt bearbeitet wurden. Viel Erfolg. Paul",
+                                    "Response to": "p1084498"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pufferzeiten bearbeiten",
+                            "Discussion_Id": "603718",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083941",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-26T11:35:47+02:00",
+                                    "Content": "Hallo, die Pufferzeiten werden in FBS über Vor- und Nachbelegungszeiten berechnet (siehe Foliensatz von Herrn Bräuer). Diese kann man über die Streckendaten einstellen. Dazu müsst ihr den entsprechenden Bildfahrplan öffnen und über da Menü Bearbeiten -> Streckendaten auswählen. Im Reiter Betriebsstellen gibt es nun tVN> und tVN<. Dort könnt ihr die Pufferzeiten global einstellen.  Viele Grüße Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084435",
+                                    "Author": "Noah Helfmann",
+                                    "DateTime": "2024-06-27T15:54:21+02:00",
+                                    "Content": "Hallo Paul,  bei uns ist unter dem Reiter \"Bearbeiten\" das Feld \"Streckendaten\" ausgegraut. Haben wir hier einen Schritt vergessen oder lässt sich die Option irgendwie aktivieren?  Viele Grüße Noah, Jakob und Moritz",
+                                    "Response to": "p1083941"
+                                },
+                                {
+                                    "Message_id": "p1084544",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-27T23:41:18+02:00",
+                                    "Content": "Hallo,  ich glaube, der Fehler liegt daran, dass man keinen \"kombinierten\" Bildfahrplan dafür benutzen darf.  Ihr müsst also eine der bunten Strecken auswählen bzw. dürft die dafür nicht kombinieren. Also z.B. geht das nur im Bildfahrplan der Strecke Berlin-Lichtenberg <-> Berlin Schöneweide.  Schaut ob das bei euch so klappt. Wenn nicht, müssen wir eine separate Sprechstunde vereinbaren um den Fehler zu finden.  Viele Grüße Paul",
+                                    "Response to": "p1084435"
+                                },
+                                {
+                                    "Message_id": "p1084453",
+                                    "Author": "Laurent Cornelius Putzier",
+                                    "DateTime": "2024-06-27T16:41:27+02:00",
+                                    "Content": "Hi Paul,  bei mir ist das Feld ebenfalls ausgegraut. Das Problem tritt also bei mehren auf.  LG Laurent",
+                                    "Response to": "p1083941"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verkehrliche vs. betriebliche Abfahrtszeit... oder: Wie kann ich einen Zug im Bahnhof zwei mal Halten lassen?",
+                            "Discussion_Id": "603757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083986",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-26T12:59:34+02:00",
+                                    "Content": "Liebe Studierende, es kam die Frage auf, ob man einen Zug in einem Bahnhof zwei mal halten lassen kann. Das ist natürlich ein besonderes Problem und kommt dann zustande, wenn der Bahnsteig am Streckengleis liegt und hinter dem Bahnsteig erst mehrere Gleise liegen, wo ich einen Zug zur Seite nehmen kann, um ihn überholen zu lassen. z.B. in Bestensee. Nehmen wir an, ein Zug kommt aus Richtung BKW und soll in Bestensee halten. Anschließend fährt der Zug weiter, aber nur auf Gleis 3 und wartet dort eine Überholung durch einen anderen Zug ab, um anschließend die Fahrt in Richtung Lübbenau fortzusetzen. Dafür gibt es in FBS (und übrigens auch bei der \"richtigen Eisenbahn\") verkehrliche und betriebliche Abfahrtzeiten (ergänzend dazu: https://www.dbnetze.com/resource/blob/5009676/475f67322a5df57fe0a42946ba949a86/2020_11_Flexstart-data.pdf). Verkehrliche Abfahrtzeiten bezeichnen dabei diejenigen Zeiten, die im Fahrplan an die Fahrgäste kommuniziert werden. In diesem Fall also die Abfahrt am Bahnsteig (Gleis 1). Diese verkehrliche Abfahrtzeit könnt ihr über die Abfahrts/ Ankunftszeiten eines Zuges im Bildfahrplan des gesamten Zuglaufes ändern. Beachtet aber die Zeiten und die Gleispläne! Euer Zug auf Gleis 3 kann nicht vor der Abfahrtzeit am Bahnsteig losfahren bzw. die betriebliche Abfahrtszeit muss in diesem Beispiel nach der verkehrlichen liegen. Ich hoffe, dass ihr das verstanden habt. Falls nicht, meldet euch nochmal hier im Forum mit einer konkreten Frage + ggf. Screenshots. Viele Grüße Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Züge wenden lassen, ohne dass die Fehlermeldung \"Einfahrt auf besetztes Gleis\" erscheint",
+                            "Discussion_Id": "603753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083982",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-26T12:44:54+02:00",
+                                    "Content": "Hallo zusammen, es gibt dazu ein Dokument, das heißt Wendeliste (wird auch auf diversen Betriebsstellen der DB InfraGO von den EVU gefordert, zu erstellen). Die kann man in FBS jedoch nur im Umlaufplan anlegen. Um das Problem dennoch zu beheben, ohne einen Umlaufplan zu erstellen, müsst ihr folgendes tun: Im Hauptmenü (da, wo ihr die Streckenkarte sehen könnt - da gelangt ihr mit TAB hin) Netzverwaltung auswählen und im Reiter Technische Daten die Standard-Bereitstellzeit für beginnende Züge und die Standard-Räumzeit für endende Züge halbieren. Dann habt ihr zusammengerechnet eine Wendezeit von 4 Minuten - das ist sehr knapp und sollte nicht unterschritten werden. Denkt an die Kolleg*innen, die den Führerstand wechseln müssen - bei jedem Wetter... Viele Grüße Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeitgenaue Abfahrtszeit am Startbahnhof",
+                            "Discussion_Id": "603717",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083940",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-26T11:31:57+02:00",
+                                    "Content": "Hallo, es kam die Frage auf, wie man die Abfahrtszeiten am Startbahnhof zeitgenau verändert. Prinzipiell wählt man im Bildfahrplan wieder den Zug aus und stellt sicher, dass man den Bildfahrplan des gesamten Zuglaufs ausgewählt hat. Im Menü über die Trassensuche gibt es auch die Option \"Trassensuche bis zur nächsten Zugmeldestelle\". Hierbei wird nur der Abschnitt bis zur nächsten Zugmeldestelle verändert, der Teil der Trasse danach bleibt bestehen.  Ein andere Option wäre, über den Fahrplan des Zuges die Abfahrtszeit zu verändern. Dazu den Zug auswählen, Rechtsklick, Abfahrts- und Ankunftszeiten des Zuges anzeigen und dann gleichzeitig STRG+Doppelklick auf die Betriebsstelle, die ihr bearbeiten wollt. Nun könnt ihr die Zeit eingeben. Diese Variante ist jedoch Fehleranfällig und wird deshalb nicht empfohlen.   Falls eure Frage damit nicht beantwortet wurde, schreibt nochmal im Forum. Viele Grüße Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Geschwindigkeit eines Zuges herabsetzen",
+                            "Discussion_Id": "602051",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081533",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-19T11:43:15+02:00",
+                                    "Content": "Liebe Studierende, es kam die Frage auf, wie man die Geschwindigkeit eines Zuges herabsetzen kann. Dazu müsst ihr wie immer zuerst den Bildfahrplan des betroffenen Zuges öffnen. Variante 1 Ihr verändert die Geschwindigkeit über die Zugdaten. Rechtsklick auf den Zug -> Zugdaten bearbeiten -> Reiter für einen Laufwegabschnitt öffnen -> STRG gedrückt halten und gleichzeitig in das Feld der Geschwindigkeit drücken. Jetzt könnt ihr da die Geschwindigkeit ändern. Variante 2 Diese Variante arbeitet mit allgemeinen Geschwindigkeitsprofilen. Ein Geschwindigkeitsprofil ist streckenspezifisch. Im Bildfahrplan öffnet ihr über das Menü Bearbeiten die Streckendaten. Im Fenster, das sich nun öffnet, müsst ihr den Reiter Geschwindigkeiten öffnen.   GP1 und GP2 sind voreingestellt Geschwindigkeitsprofile. Diese beschreiben die Höchstgeschwindigkeiten. Wenn ihr ein neues Geschwindigkeitsprofil anlegt, dürfen die Geschwindigkeiten nicht höher sein als die Grunddaten aus den Profilen GP1 und GP2. Die Geschwindigkeiten sind in diesem Beispiel so zu lesen: Ab km 12.700 (abs) gilt die Geschwindigkeit 100 km/h bis Kilometer 15.100 (abs). Habt ihr das Geschwindigkeitsprofil angelegt, könnt ihr in den Zugdaten dieses Geschwindigkeitsprofil auswählen.  Falls es Fragen gibt, schreibt gern hier im Forum. Viele Grüße Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Haltepunkte",
+                            "Discussion_Id": "599599",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077952",
+                                    "Author": "Noah Helfmann",
+                                    "DateTime": "2024-06-07T11:54:25+02:00",
+                                    "Content": "Hallo, wir erwägen auf Re Strecken teilweise Halte an Haltepunkten zu entfernen. Wäre das möglich, sofern wir es erklären? Wenn ja, wie entfernt man Haltepunkte in FBS. Beste Grüße Gruppe K",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079095",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-11T16:19:31+02:00",
+                                    "Content": "Hallo Noah,  als planendes Unternehmen im Eisenbahnbereich haben wir diverse Randbedingungen zu erfüllen, einige sind rechtlich, andere technisch und manche sind auch politisch. Die Forderung, an bestimmten Bahnhöfen zu halten, ist eine politische Forderung, die über die Aufgabenträger an die EVU übergeben wird. In der Regel wird das auch eingehalten, nur in bestimmten Ausnahmefällen gibt es Ausnahmen, wie z.B. vor einigen Jahren bei den Haltepunkten auf dem RE2 kurz vor Cottbus. Diese wurden damals nur morgens und abends bedient, um die Fahrzeiten und Nullknoten tagsüber halten zu können. Eine grundsätzliche Auslassung von Halten ist deshalb nicht Sinn der Aufgabe.  Die bestehenden Haltekonzepte sind in dieser Aufgabenstellung politisch gefordert und können nur in Ausnahmefällen mit Begründung und Ersatzkonzeption verändert werden.  Die Halte können wie folgt angepasst werden: 1) Direkt im Bildfahrplan über diesen Button:   Davor sollte jedoch der betroffene Zug ausgewählt werden.  2) Anpassung der Haltekonzepte -> ist etwas komplizierter und hat weitgehende Eingriffe, insbesondere wenn es falsch gemacht wird. Würde ich daher eher nicht empfehlen.  Zuerst die Symbolleiste über das Zahnrad in der Streckenkarte einblenden, dann auf die Netzweiten Fahrplandaten (Kalendersymbol) klicken, dann den Tab \"Regelaufenthalte\" öffnen. Damit verändert ihr für die festgelegten Zuggruppen für alle Züge die Aufenthalte!       Viele Grüße  Paul (Studentischer Mitarbeiter am Fachgebiet Bahnbetrieb und Infrastruktur)   Ergänzung: Die politische Forderung nach Verkehrshalten kann von den Aufgabenträgern natürlich nur an die EVU gestellt werden, wenn deren Leistungen durch die Aufgabenträger bestellt werden. I.d.R. also nur für Angebote im Nahverkehr (S-Bahn, RE, RB). Die gegebene Haltekonzeption in dieser Aufgabenstellung soll jedoch, wie oben beschrieben, unberührt bleiben.",
+                                    "Response to": "p1077952"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehlende Bahnhofspläne",
+                            "Discussion_Id": "599342",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077581",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-06T10:18:01+02:00",
+                                    "Content": "Liebe Studierende, die DB InfraGO veröffentlicht die Bahnhofspläne/ APN-Skizzen (APN-Anlagenportal Netz) für ihre Kunden im Internet. Am einfachsten findet ihr diese über den Trassenfinder (https://trassenfinder.de/). Wenn ihr nun an die gesuchte Betriebsstelle heranzoomt (BLO - Abkürzung für Berlin-Lichtenberg nach Ril 100) und diese auswählt, gibt es weiter unten dieses Karten-Symbol. Wenn ihr da raufklickt, wird die APN-Skizze der Betriebsstelle heruntergeladen.   Viel Erfolg beim Ausprobieren! Paul (Studentischer Mitarbeiter am FG Bahnbetrieb und Infrastruktur)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehlermeldung für besetztes Gleis in Endbahnhöfen",
+                            "Discussion_Id": "599337",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077575",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-06T10:10:04+02:00",
+                                    "Content": "Liebe Studierende,  der Grund dafür, dass FBS besetzte Gleise an Endbahnhöfen nicht anzeigt, wird vermutlich darin liegen, dass mit der letzten Ankunftszeit des Zuges der Zug für FBS endet und verschwindet. Beispielsweise könnten ja auch innerhalb eines Bahnhofs Rangierbewegungen stattfinden, für die es ja keine Fahrpläne gibt. Somit müssen sich hierzu die Planenden der Fahrpläne für Zugmeldestellen (FfZ-Bearbeiter:innen) darüber Gedanken machen und spätestens die Mitarbeitenden vom Betrieb (Ww und Fdl), die dann diesen Plan umsetzen. FBS kann dabei nur unterstützen.  Viele Grüße Paul (Studentischer Mitarbeiter am FG Bahnbetrieb und Infrastruktur)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zugnummern im Bildfahrplan anzeigen lassen",
+                            "Discussion_Id": "599329",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077567",
+                                    "Author": "Paul Mrosko",
+                                    "DateTime": "2024-06-06T10:02:45+02:00",
+                                    "Content": "Hallo zusammen, es kam die Frage auf, wie man Zugnummern im Bildfahrplan anzeigen lassen kann. Dazu müsst ihr euren Zug im Bildfahrplan auswählen (oder über das rote Häkchen mehrere Züge) -> Rechtsklick -> Zugdaten bearbeiten -> Anzeige -> im Feld \"Inhalt der Beschriftung im Bildfahrplan\" auf den Button \"Alle auf Standard\" klicken und mit ok bestätigen. Falls es nicht klappt, meldet euch nochmal. Viele Grüße Paul (Studentischer Mitarbeiter vom FG Bahnbetrieb und Infrastruktur)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

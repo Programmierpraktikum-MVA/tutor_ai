@@ -1,0 +1,63 @@
+[
+    {
+        "Course_Name": "Konstruktiver Ingenieurbau III - SoSe 2024",
+        "Course_id": "37727",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767010",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Stellenausschreibung Tutor*in",
+                            "Discussion_Id": "600347",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079059",
+                                    "Author": "Marco Maibaum",
+                                    "DateTime": "2024-06-11T15:33:05+02:00",
+                                    "Content": "Hallo zusammen, natürlich möchte ich auch auf unsere nach wie vor offene Tutor*innenstelle für die Module KI2 und KI3 aufmerksam machen (Ausschreibung anbei). Lasst euch nicht von der angegebenen Stundenzahl oder den Anfordeurngen abschrecken. Tretet gerne mit mir in Kontakt, wenn ihr Fragen dazu habt oder euch unsicher seid. Die Vorteile: studieren und arbeiten an einem Ort kurzer Draht zu den WiMis am Fachgebiet (hilfreich bei fachlichen Fragen oder bei der Suche nach einem Betreuer/ einer Betreuerin für eine Studien- oder Abschlussarbeit) flexible Arbeitszeiten Ihr könnt euch auch bewerben, wenn die Frist abgelaufen ist. Die Ausschreibung wird mit Sicherheit verlängert. Viele Grüße Marco",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083849",
+                                    "Author": "Marco Maibaum",
+                                    "DateTime": "2024-06-26T09:36:23+02:00",
+                                    "Content": "Hallo zusammen,  wie angekündigt wurde die Ausschreibung verlängert (anbei). Die flexible Wahl der Monatsstunden (40 bis 60) ist nun in die Ausschreibung integriert. Wir freuen uns auf eure Bewerbungen.  Viele Grüße  Marco",
+                                    "Response to": "p1079059"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Stellenausschreibung GMG",
+                            "Discussion_Id": "600284",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078966",
+                                    "Author": "Marco Maibaum",
+                                    "DateTime": "2024-06-11T13:02:59+02:00",
+                                    "Content": "Hallo zusammen, wie heute im Rahmen des Tutoriums vorgestellt, sucht das Büro von Herrn Professor Geißler studentische Mitarbeiter*innen. Bei Interesse meldet euch gerne bei denen auf der Stellenausschreibung (anbei) angegebenen Kontaktdaten. Viele Grüße Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Beulen",
+                            "Discussion_Id": "600130",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078743",
+                                    "Author": "Marco Maibaum",
+                                    "DateTime": "2024-06-10T19:00:17+02:00",
+                                    "Content": "Hallo zusammen, bringt bitte zum morgigen Tutorium nach Möglichkeit einen Laptop mit und ladet idealerweise das Programm EBPlate herunter. Mit dem Tool kann die kritische Beulspannung von ausgesteiften und nichtausgesteiften Beulfeldern bestimmt werden. Viele Grüße Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

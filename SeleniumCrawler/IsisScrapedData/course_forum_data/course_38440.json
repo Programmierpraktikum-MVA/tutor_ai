@@ -1,0 +1,121 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] KI und klimabedingter Landnutzungswandel: Diskussion aktueller Anwendungen",
+        "Course_id": "38440",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Gruppen, Fragen, Diskussion",
+                    "Forum_id": "1846012",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gruppe Mecklenburg Vorpommern",
+                            "Discussion_Id": "606259",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087580",
+                                    "Author": "Karl Louis Pötter",
+                                    "DateTime": "2024-07-08T14:13:44+02:00",
+                                    "Content": "Louis Pötter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe Sachsen",
+                            "Discussion_Id": "604544",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085142",
+                                    "Author": "Jonathan Sommer",
+                                    "DateTime": "2024-07-01T09:41:26+02:00",
+                                    "Content": "Jonathan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ressourcen für Shapefiles",
+                            "Discussion_Id": "603355",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083434",
+                                    "Author": "Marie-Christin Elisabeth Eckert",
+                                    "DateTime": "2024-06-25T11:16:08+02:00",
+                                    "Content": "Wie gestern besprochen hier noch ein paar Links zu Shapefile Ressourcen:  https://gadm.org/download_country.html (weltweite Verwaltungsgrenzen) http://download.geofabrik.de/ (bieten auch weltweite Verwaltungsgrenzen aber womöglich unvollständig) außerdem haben die Bundesländern Geodatenservices, von denen man sich shapefiles ziehen kann (meist braucht man aber einen Account) ... falls ihr noch mehr hilfreiche Links kennt, postet sie doch gerne ins Forum oder antwortet auf diesen Beitrag. VG  Marie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe Rheinland-Pfalz",
+                            "Discussion_Id": "603124",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083106",
+                                    "Author": "Lukas Nelde",
+                                    "DateTime": "2024-06-24T15:44:44+02:00",
+                                    "Content": "Lukas Nelde und Akbar Faraji  Wir sind nicht super scharf auf Rheinland-Pfalz, also falls das jemand haben will, nehmen wir gerne auch einfach etwas anderes :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe Bayern",
+                            "Discussion_Id": "602850",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082702",
+                                    "Author": "Pia Luz Marie von der Groeben",
+                                    "DateTime": "2024-06-23T19:06:43+02:00",
+                                    "Content": "Mirjam Schüller und Luz von der Groeben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe: Schleswig-Holstein ",
+                            "Discussion_Id": "602812",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082641",
+                                    "Author": "Nadine Reinert",
+                                    "DateTime": "2024-06-23T14:38:28+02:00",
+                                    "Content": "Hannah Scherreiks & Nadine Reinert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe Hessen",
+                            "Discussion_Id": "602800",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082628",
+                                    "Author": "Noura Leena Barakat",
+                                    "DateTime": "2024-06-23T13:00:59+02:00",
+                                    "Content": "Melvin Hildebrand und Noura Barakat",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe Nordrhein-Westfalen",
+                            "Discussion_Id": "602795",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082623",
+                                    "Author": "Karl Christian Wagemann",
+                                    "DateTime": "2024-06-23T12:40:57+02:00",
+                                    "Content": "Adnessa Nguyen & Karl Wagemann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

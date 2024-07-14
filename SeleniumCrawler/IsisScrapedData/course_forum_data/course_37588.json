@@ -1,0 +1,214 @@
+[
+    {
+        "Course_Name": "[SoSe 24] Julia Programming for Machine Learning",
+        "Course_id": "37588",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1763926",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "JuML Presentations and Source Code Upload",
+                            "Discussion_Id": "606186",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087477",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-07-08T12:02:19+02:00",
+                                    "Content": "Dear all, The final JuML presentations will take place next week. They are worth 10% of your grade and will be our \"first impression\" of your project before we evaluate the project. They are also your chance to show off to your project to your peers! Unfortunately, we have to cram all presentations into a single lecture, which creates strict time constraints. To alleviate this problem, I kindly ask you to start the lecture five minutes earlier at 14:10 and end it around 15:50 to have 100 minutes for 10 presentations. Submitting slides Each group will have 7 to 9 minutes to present their project: we will strictly cut you off at the 9 minute mark, so practice your presentation! no more than 8 slides of \"content\" are allowed for the presentation (this excludes title slides, references, animations etc.) Only PDFs are allowed, so unfortunately you won't be able to present your project in a Pluto notebook. Please upload the PDF of your presentation slides on ISIS until Monday, July 15th at 12:00 (noon) to give us time to assemble the presentations in one large PDF. Because of this, any late submission will be ignored. Contents Give an overview of your topic Avoid math-heavy explanations Present your package What functionality does it export? What design choices have you made? Demonstrate your code Is your package easy to use and well documented? Discussion & Outlook What problems did you encounter? If you had another 3 months to work on your project, what would you add or change? There will be no time for Q&A. Project upload We've decided to give you a bit more time to polish your projects. The deadline for the upload of the Project Source Code is July 16th at 23:59. Please create a zip archive of your repository and upload it to ISIS. Best regards  Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TU Berlin Course Survey",
+                            "Discussion_Id": "605835",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086953",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-07-05T14:59:32+02:00",
+                                    "Content": "Dear all, TU Berlin requests you to fill out a survey for the JuML course until July 12th: https://befragung.tu-berlin.de/evasys/online.php?pswd=JGTLW It should only take a couple of minutes to complete. Best regards Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Requirements for JuML Code Review Session 2",
+                            "Discussion_Id": "601870",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081267",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-06-18T15:42:31+02:00",
+                                    "Content": "Hello everyone, There are two weeks left until code review session 2. The following are the absolute minimum requirements for session 2: some subset of your package functionality must be working your README must describe your package your documentation must build correctly your documentation must include a usage example for (some subset of) your package's functionality your package tests must have at least 60% code coverage We are doing this for two reasons: it's no fun for your fellow students to have to review an empty package if you don't have these by July 2nd, it will be hard for you to finish the project on time As always, we are available to answer any questions you may have.  If you have any suggestions on how to improve the second session over the first, please give us anonymous feedback! Best regards,  Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Repositories for JuML Code Reviews",
+                            "Discussion_Id": "600001",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078565",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-06-10T13:23:35+02:00",
+                                    "Content": "Dear all,  This is a friendly reminder to make your repositories public and share the URL until this evening. If you haven't done so yet, you can send it to me at hill@tu-berlin.de. Best regards, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "JuML Code Reviews + Updates to website",
+                            "Discussion_Id": "598965",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077046",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-06-04T18:38:06+02:00",
+                                    "Content": "Dear JuML participants, 1. Structure of the code reviews Next Tuesday, June 11th, we will have our first code review session with mandatory attendance. This will be a peer review session: Each of you will be randomly paired with a code review partner from a different project. You will have time to look at the state of their repository, try to install (and maybe use?) their package and take a look at their source code. We will give you some guidance on what to look at. You will give online feedback in form of \"issues\" on your partner's repository.  You will then be given some one-on-one time to discuss your findings with your code review partner. Obviously, this requires that your repository is public and not completely empty. But we also don't expect your code to be functional by Tuesday either. We will review each other's work in progress. During all of this, your project supervisors will be available to answer questions on your projects. 2. Please share your repositories In preparation for the code review session, please make your repositories public and share the URL with your supervisor. 3. Updates to the website The JuML website has been updated with a page on writing and hosting documentation. This will be the last update to the site, unless you request some additional information. If you find any errors or typos, you are welcome to fork the course repository and open a PR with fixes. You can also send me an email, but why not become a contributor to the course? :) 4. Feedback Since we are doing the project work for the first time, we welcome your feedback. You can give us anonymous feedback on the JuML course feedback page. Best regards,  Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Updates to the JuML website: Hosting on GitHub",
+                            "Discussion_Id": "597759",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075286",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-05-29T19:40:55+02:00",
+                                    "Content": "Dear all, the JuML website has been updated with a guide on how to host your package on GitHub: https://adrianhill.de/julia-ml-course/git/ A page on writing documentation will follow soon. As always, let me know if anything is unclear or there is something else you would like to see. If you are running into issues with the project set-up, feel free to send me an email for individual office hours. Best regards Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "JuML Topic Assignments",
+                            "Discussion_Id": "597415",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074787",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-05-28T16:09:43+02:00",
+                                    "Content": "Dear all, The following topics have been assigned for the JuML projects: Group Topic Supervisor A KMeans Clustering Dr. Andreas Ziehe B Llama 2 Inference Adrian Hill C Explainable AI Adrian Hill D Llama 2 Inference Adrian Hill E Decision Trees Philip Naumann F Explainable AI Adrian Hill G Approx. Joint Diag. Dr. Andreas Ziehe H KMeans Clustering Dr. Andreas Ziehe I Gen./Evol. Algorithms Philip Naumann J Gen./Evol. Algorithms Philip Naumann  Your supervisors will contact your group with additional information on your topic. Best regards, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Updates to the JuML website",
+                            "Discussion_Id": "597177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074459",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-05-27T22:28:19+02:00",
+                                    "Content": "Dear all, As promised last Tuesday, the JuML website has been updated. New topics in the \"Workflows\" section include: Environments Enhancing your Julia REPL Setting up a Package with PkgTemplates.jl Writing source code Testing A page on documentation will follow soon. Let me know if anything is unclear or information is missing. Finally, the project selection ends at midnight. The final topic assignments will be announced tomorrow afternoon. Best regards, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Please self-assign groups and select a topic",
+                            "Discussion_Id": "595781",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072273",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-05-21T17:53:00+02:00",
+                                    "Content": "Dear All, 1. Assigning Groups Thanks to your feedback during today's project meeting, I've tried setting up groups that you should self-assign in: https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1835057 The group names are meaningless and not connected to topics in any way. If you haven't found a group yet, please announce your interests in the Discussion Forum to find like-minded students. 2. Topic Selection After assigning yourself to a group, one representative from your group should rank the available topics: https://isis.tu-berlin.de/mod/ratingallocate/view.php?id=1834680 I was hoping for this feature to support groups, but it looks like it doesn't. The deadline for both the group assignment and project selection is next Monday, 23:59. 3. Updates to the Website I'm in the process of writing up today's walkthrough on how to set up a Julia project using PkgTemplates.jl. The contents should hopefully be on the JuML website by the end of this week and will get a separate announcement here.  Please let me know if anything is broken and thank you for your understanding if things do not go 100% smoothly–this is my first time organizing project work. Best regards, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "JuML Project Announcement",
+                            "Discussion_Id": "594428",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070121",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-05-14T16:48:47+02:00",
+                                    "Content": "Hello everyone! The JuML project phase starts next week and I have several announcements to make, so please read the following carefully. 1. New project meeting location Since the room for the kick-off meeting was too small, our project meetings will take place in room MA 042 in the maths building. This includes the mandatory project selection meeting next week on May 21st. 2. Project topic proposals Next week, you are going to form groups of four students to work on a project of your choice. While we will give you some options to choose from, your topic ideas are also welcome. You can send me project topic proposals to my email hill@tu-berlin.de until this Friday. Please keep in mind that the project will focus on Julia workflows, such as testing, documentation and CI. So an ideal topic would be something related to Machine Learning that isn't novel research.  Topics that already have a Julia implementation are totally valid, but it would be even better if you suggested a topic that hasn't been implemented yet. Use JuliaHub package search (https://juliahub.com/ui/Home) for this purpose.  Maybe you will end up creating something useful for the wider Julia community? 3. Familiarize yourself with Git It is mandatory that you use Git to version control your project work. If you have don't have any experience with Git, don't be scared–this is a perfect opportunity to learn how to use it. Don't be afraid to try new things, make many mistakes and learn from them. To help out inexperienced people, I will present my workflow of choice at the project selection meeting next week. For this purpose, please install Git on your computer and bring it to the meeting. If you have no experience with Git at all, I suggest you do the following in preparation: Read the \"The Missing Semester of Your CS Education\" page on version control Play the video game \"Oh My Git!\", which should work on Linux, macOS and Windows  There is no right or wrong way to use Git. It's a flexible tool that should make your life easier, not harder, so use whatever makes you productive. 4. Set up an account on a code-sharing platform This course has a secret agenda: to turn you into a developer who contributes to the wider Julia ML community. Since the Julia community is mostly organized on GitHub, I encourage you to host your project work on GitHub, which requires the creation of a user account. This has several other advantages: GitHub provides access to remote computers (GitHub Actions) that can be used to run your test suite on each commit. GitHub pages can host your package documentation as a public website.  If you don't want to accept GitHub's terms of service, that is completely understandable and will not affect the grading of your project in any way. In this case, please use TU Berlin's self-hosted GitLab instance at git.tu-berlin.de or another public code-sharing platform of your choice. Whatever you platform you choose, please authenticate yourself by creating and adding SSH keys before next week. This allows you to push commits to these platforms from your command line. If you don't know what this means, guides can be found here: GitHub: https://docs.github.com/en/authentication/connecting-to-github-with-ssh TUB GitLab: https://git.tu-berlin.de/help/user/ssh.html  5. Deadline for the 4th homework Since these points are quite a lot of work for people unfamiliar with Git, I will move the deadline for homework 4 to Thursday, May 23rd. Please prioritize familiarizing yourself with Git until the project meeting. Let me know if you have any questions about any of these points! Best regards, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recordings for Week 4",
+                            "Discussion_Id": "594236",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069837",
+                                    "Author": "Janes Luc Sanne",
+                                    "DateTime": "2024-05-14T09:34:50+02:00",
+                                    "Content": "Dear JuML participants,  the recording for Week 4 are now available here.  The covered topics are: Lecture 6: Automatic differentiation Lecture 7: Deep Learning & Neural Networks As a friendly reminder, the deadline for Homework 4 is Thursday, May 23rd. Best regards, Janes  (Geändert von Adrian Rainer Hill - Originaleintrag Dienstag, 14. Mai 2024, 09:34)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recordings for Week 3 and this week's Office Hours on Friday",
+                            "Discussion_Id": "592801",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067573",
+                                    "Author": "Janes Luc Sanne",
+                                    "DateTime": "2024-05-07T09:32:47+02:00",
+                                    "Content": "Dear JuML participants,  the recordings for Week 3 are now available here.  The covered topics are: Lecture 4: Dicts, Sets and Custom Types Lecture 5: Machine Learning This Thursday, May 9, is a public holiday. Therefore, this week's office hours will be Friday from 10:15 to 11:45 instead. Zoom Link As a friendly reminder, the deadline for Homework 3 is Monday, May 13. Best regards, Janes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recordings for Week 2",
+                            "Discussion_Id": "591087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064880",
+                                    "Author": "Janes Luc Sanne",
+                                    "DateTime": "2024-04-30T10:01:22+02:00",
+                                    "Content": "Dear JuML participants,  the recording for Week 2 are now available here.  The covered topics are: Lecture 2: Arrays & Linear Algebra Lecture 3: Plots & DataFrames As a friendly reminder, the deadline for Homework 2 is Monday, May 6. Best regards, Janes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder to register for the exam",
+                            "Discussion_Id": "590530",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064030",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-04-28T19:17:50+02:00",
+                                    "Content": "Dear JuML participants, this is a friendly reminder that the deadline for the first homework is tomorrow, Monday, April 29th 2024 at 23:59. Since the homework is also part of the exam, you also need to register on Moses until tomorrow. Best regards, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recordings for Lecture 1 and timeslot for Office Hours",
+                            "Discussion_Id": "588727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061270",
+                                    "Author": "Janes Luc Sanne",
+                                    "DateTime": "2024-04-23T09:20:32+02:00",
+                                    "Content": "Dear JuML participants,  the recording for Lesson 1 is now available here. The covered topics are Types, Functions and Multiple Dispatch. Additionally we want to inform you that the office hours will be every Thursday from 12:15-13:45 via Zoom. Best regards, Janes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "List of participants",
+                            "Discussion_Id": "586608",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057979",
+                                    "Author": "Adrian Rainer Hill",
+                                    "DateTime": "2024-04-16T20:44:26+02:00",
+                                    "Content": 

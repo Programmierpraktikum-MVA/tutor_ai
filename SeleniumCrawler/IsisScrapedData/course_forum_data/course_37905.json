@@ -1,0 +1,64 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Entwurf, Analyse und Optimierung von Energieumwandlungsanlagen",
+        "Course_id": "37905",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "News & Announcements",
+                    "Forum_id": "1772742",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Important update for the upcoming semester",
+                            "Discussion_Id": "585408",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056221",
+                                    "Author": "Sergio Tomasinelli",
+                                    "DateTime": "2024-04-11T11:05:20+02:00",
+                                    "Content": "Dear Students, Due to unforeseen organizational challenges, we have made the difficult decision not to offer EAO in the current semester. We understand the disappointment this may cause, especially for those of you who have been looking forward to this course as part of your semester schedule. We are committed to offering EAO next year once the organizational challenges have been resolved. Thank you for your understanding. If you have any concerns, please do not hesitate to reach out to me directly. Warm regards, Sergio Tomasinelli",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056275",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-04-11T14:07:28+02:00",
+                                    "Content": "Liebe Studierende,  ich darf in diesem Zusammenhang auf ein anderes Modul unseres Fachgebietes hinweisen, dass ggf. für Euch interessant ist:  Optimierung in der Energietechnik, 3 LP Beginn: Mi., 17.4.2024, 10 Uhr, KT Gebäude, EG, PC-Pool  Modulbeschreibung: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/ansehen.html?nummer=30975  ISIS: https://isis.tu-berlin.de/course/view.php?id=38908  VG MH",
+                                    "Response to": "p1056221"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Registration via e-mail",
+                            "Discussion_Id": "585382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056181",
+                                    "Author": "Sergio Tomasinelli",
+                                    "DateTime": "2024-04-11T08:29:55+02:00",
+                                    "Content": "Dear students,  I would like to remind you that it is necessary to register via e-mail until tomorrow if you want to attend the class because we have a limited capacity. The e-mail must include the following information: Matriculation number Study program Courses already completed (Energietechnik I/II or Energy Engineering I/II, vertiefendes Rechnerpraktikum zur Energietechnik, other related courses) This information is also important for us to build the groups. Please send the e-mail to me: s.tomasinelli@tu-berlin.de.  Best regards, Sergio",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration via e-mail",
+                            "Discussion_Id": "584587",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055045",
+                                    "Author": "Sergio Tomasinelli",
+                                    "DateTime": "2024-04-04T09:52:14+02:00",
+                                    "Content": "Dear students,  We have a maximum number of participants for this class. If you want to attend the class, it is necessary to register via e-mail until the 12th of April. The e-mail must include the following information: Matriculation no. Degree program Courses already completed (Energietechnik I/II or Energy Engineering I/II, vertiefendes Rechnerpraktikum zur Energietechnik, other related courses)  Places are allocated on the basis of subject-specific qualifications. In the case of equal qualifications, the time of registration is decisive. Best regards, Sergio",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Physics of the Interstellar Medium",
+        "Course_id": "38237",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1784914",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Changed course times for the next three dates",
+                            "Discussion_Id": "586887",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058353",
+                                    "Author": "Michael Mathias Schulreich",
+                                    "DateTime": "2024-04-17T14:01:38+02:00",
+                                    "Content": "In order to compensate for a cancelled appointment at a later date, the course dates on 24 April, 8 May, and 15 May will be half an hour longer and last from 10:00 am to 12:00 pm (sharp).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important message to all non-physics students",
+                            "Discussion_Id": "589079",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061817",
+                                    "Author": "Michael Mathias Schulreich",
+                                    "DateTime": "2024-04-23T18:45:56+02:00",
+                                    "Content": "I would ask all students who do not attend this lecture as part of one of the physics master's modules presented (i.e. all non-physicists!) and who wish to use it for the \"Wahlbereich\" to enquire as soon as possible at their responsible examination office whether this is possible, i.e. whether module parts can also be credited for their field of study. It is essential that you clarify this beforehand, otherwise the examination cannot take place.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

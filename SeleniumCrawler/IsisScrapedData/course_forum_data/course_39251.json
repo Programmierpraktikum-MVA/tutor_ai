@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] ROMEIS - Brauwettbewerb",
+        "Course_id": "39251",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1834009",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "ROMEIS-Biere Gruppen",
+                            "Discussion_Id": "606312",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087652",
+                                    "Author": "Philip Wietstock",
+                                    "DateTime": "2024-07-08T15:36:04+02:00",
+                                    "Content": "Liebe Teilnehmer*innen, Mittlerweile hat sich eine Gruppe bei mir bzgl. des ROMEIS-Wettbewerbs gemeldet. Heißt das, dass alle anderen, die eingeschrieben sind, nicht brauen möchten? Wenn ihr noch Interesse habt, aber z.B. noch keine Gruppe, könnt ihr auch in das Teilnahmeforum schreiben. Viele Grüße Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

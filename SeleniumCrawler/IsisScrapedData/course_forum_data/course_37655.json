@@ -1,0 +1,94 @@
+[
+    {
+        "Course_Name": "Engineering Agile Civil Systems SS24",
+        "Course_id": "37655",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1765084",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Course feedback",
+                            "Discussion_Id": "604929",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085705",
+                                    "Author": "Lucian Constantin Ungureanu",
+                                    "DateTime": "2024-07-02T11:25:41+02:00",
+                                    "Content": "Dear all,  An online survey is available to get your valuable feedback on this course. I list the link here below. Please note that the evaluation survey is available until 21st of July.  https://befragung.tu-berlin.de/evasys/online.php?p=SWF4N Thank you in advance for providing your valuable feedback! KR, Lucian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1st Project's Presentations",
+                            "Discussion_Id": "595522",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071892",
+                                    "Author": "Lucian Constantin Ungureanu",
+                                    "DateTime": "2024-05-21T08:04:08+02:00",
+                                    "Content": "Dear all,  as mentioned during the last lecture, today you'll present your outcomes of the 1st project assignment. Please join in time (at 14:00) the class today, as the presentation order will be randomly decided on the spot. I'm looking forward to seeing your presentations today.  KR, Lucian ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Getting started withg Papyrus",
+                            "Discussion_Id": "594217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069803",
+                                    "Author": "Lucian Constantin Ungureanu",
+                                    "DateTime": "2024-05-14T08:09:23+02:00",
+                                    "Content": "Hi all,  since some of you experienced some issues setting up Papyrus, I prepared for you a short video to help you set it up. This is on ISIS under the first assignment section. Please note that the instructions are for Windows. Since I don't have a MAC computer, I'm unable to test and find a workaround for this operating system. My recommendation is to set it up on a Windows machine.  KR, Lucian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Today's support session",
+                            "Discussion_Id": "592557",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067202",
+                                    "Author": "Lucian Constantin Ungureanu",
+                                    "DateTime": "2024-05-06T13:28:40+02:00",
+                                    "Content": "Hi all, I'm traveling today and due to some unfortunate circumstances out of my control i'm experiencing some delays. Due to this reason I will not be able to attend today's support session. Please feel free to send me your queries via email, and I will try to answer as soon as possible.  Apologies for all inconveniences, ans see you tomorrow during the lecture!  KR, Lucian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grades first two reading assingments",
+                            "Discussion_Id": "591141",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064956",
+                                    "Author": "Lucian Constantin Ungureanu",
+                                    "DateTime": "2024-04-30T11:32:35+02:00",
+                                    "Content": "Dear all,  the grades for the first two reading assignments are posted on ISIS. feel free to reach out to me in case you have questions.  Preferably:  you send me an email with your query I will get back to you in the shortest time with clarifications to your query if needed, we can schedule a quick zoom call to discuss  https://isis.tu-berlin.de/mod/resource/view.php?id=1827582 KR, Lucian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Projetc assignment",
+                            "Discussion_Id": "590567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064086",
+                                    "Author": "Lucian Constantin Ungureanu",
+                                    "DateTime": "2024-04-29T07:15:01+02:00",
+                                    "Content": "Dear all,  Please inform me about the groups' componence. As mentioned in the last lecture, there need to be at least three active group members so that you can move on with the project assignment.  KR, Lucian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

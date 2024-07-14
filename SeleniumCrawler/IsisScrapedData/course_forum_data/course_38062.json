@@ -1,0 +1,514 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Cloud-Native Architecture & Engineering",
+        "Course_id": "38062",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1778210",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Oral Consulations",
+                            "Discussion_Id": "604321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084784",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-06-28T16:51:22+02:00",
+                                    "Content": "Dear students,  The schedule for the oral consultation is now final. The groups affected by the changes have already been notified by email. Please watch out for your specific consultation time. You can find the up-to-date schedule in the Assignments Section. Please be on time; we have a tight schedule and will not wait for you. All oral consultations take place in Room EN 258 in our offices. You can find us here: https://www.tu.berlin/en/ise/location-contact. We recommend Entrance D. The link has a detailed description of how to find us. If you are unexpectedly unable to attend, please let us know immediately. The general AllgStuPO rules apply. In valid cases (legal appointments, sick notes, etc.), we will try to find an individual solution for your examination at a later date.  Best, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder to upload your baseline system report by Friday 21.06.",
+                            "Discussion_Id": "601528",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080790",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-06-17T14:38:40+02:00",
+                                    "Content": "Dear all, we want to remind you to submit your baseline system report via ISIS by this weeks Friday 21.06.2024 at 23:59. You can find all instructions and required artifact information in the Assignments slide deck pages 10 to 16. Do not forget to give us Access to your gitlab repository with at least Reporter access. Do not forget to indicate clearly which group member did which kind of work on your assignment. Should you have any questions, feel free to ask them in the discussions forum. Best, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No Presentations or lecture on Friday the 14.06.",
+                            "Discussion_Id": "600542",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079343",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-06-12T10:57:01+02:00",
+                                    "Content": "Dear all, There is no Lecture / Presentation Slot this Friday 14.06. Hope you all have a great week and see you all on Monday 17.06. for the next round of exciting presentations. Best, - Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Shedule",
+                            "Discussion_Id": "598800",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076810",
+                                    "Author": "Sebastian Werner",
+                                    "DateTime": "2024-06-07T20:10:00+02:00",
+                                    "Content": "Dear Students, we have added the presentation schedule to the ISIS page, find them in the assignment area. We will only have presentations on the 10th and 17th. For the process, we will start at 12:00 sharp. All presentations are presented from the same laptop and as you uploaded them. We will be strict on time. Best, Sebastian and the CNAE-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Deadline Tomorrow 07.06. 10:00",
+                            "Discussion_Id": "597968",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075586",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-06-06T12:00:00+02:00",
+                                    "Content": "Dear all, As a short reminder, tomorrow, 07.06, at 10:00, you must have uploaded your group presentation slides here on ISIS. Best regards, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Schedule Conflicts",
+                            "Discussion_Id": "597974",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075593",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-05-30T17:00:45+02:00",
+                                    "Content": "Dear all, Your presentation will be in one of our lecture slots on 10.06, 14.06, or 17.06. We will publish the schedule with each group's presentation slot on 07.06. Out of respect, we would like all other groups examined on different days to attend each other's presentations. We hope for fruitful insights for everyone. Be aware that your presentation is an official examination. You must show up in person or have a valid excuse for being unable to attend. If you know you can't attend one of the three dates (Planned surgery, legal appointments, etc.), please contact us before 07.06. so we can consider this in our planning. Best regards, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Consultation Meeting",
+                            "Discussion_Id": "592931",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067760",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-05-07T13:17:49+02:00",
+                                    "Content": "Dear all, you have received your assignment mapping on Monday. It can be found in the Assignments Section. Should you have any questions, please contact us or use the discussion forum. In the meantime, we have decided to offer all of you a group consultation on Thursday 30th. This is not the oral examination but an optional meeting for your group to ask questions concerning your topic, problem, and aspired solution. Please email us to confirm that at least one member of your group will attend this meeting. We plan to do this via Zoom. If you prefer a meeting in person, please let us know. Best, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1075563",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-05-30T16:03:47+02:00",
+                                    "Content": "Dear all, I hope you found today's session helpful for your assignment. Additionally, here are some (hopefully) generally applicable tips:  1. We have provided two research papers for each topic. Please use that as the first reading material. Also, do more literature research concerning your ideas and prepare to answer questions concerning your approach and problem in the context of existing relevant approaches and how your approach differs. 2. Define your approach's scope, environment, and relevant measurements, and outline the setting for your architecture. Use this to your advantage, but don't abuse it.  Overall, you are all great on track with this assignment. There are already lots of great ideas and considerations. Should you have any further questions. Feel free to send us an email.  Best, Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Assignment Lecture and Moses Registration",
+                            "Discussion_Id": "591769",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065907",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-05-02T14:49:44+02:00",
+                                    "Content": "Dear all, There will not be a lecture tomorrow, Friday, 03.05—not even remotely via Zoom. I hope we clarified this enough at the end of the last lecture.  We hope you send us your project preferences by tomorrow, and we look forward to seeing you on Monday. We will inform you about your project and architecture via email on Monday.  Thanks for registering through Moses. You should all see that you are now admitted to this course through Moses. We have a few students who did not manage to sign up through Moses but are enrolled in a group. If you didn't sign up through Moses, contact us ASAP. Otherwise, we must remove you from your current group and cannot grade you for this course. Best, - Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group forming and moses registration",
+                            "Discussion_Id": "590227",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063563",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-26T14:07:47+02:00",
+                                    "Content": "Dear all, Please form groups of 5 people and register them in the Group Selection form. If we need to set up a new group for you, write an email to us.  In case you didn't find a group today, you are free to use the Discussion / Questions Forum to get in contact with other students. As a reminder, please email us your ordered topic preferences by 03.05.2024. One email per group is sufficient, but please have your other group members in cc. Do not forget to register officially via Moses(MTS) until 30.04. Best, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment lectures in presence / virtual",
+                            "Discussion_Id": "589792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062923",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-25T12:52:48+02:00",
+                                    "Content": "Dear all, as we received a few requests about tomorrow. Tomorrow 26.04., the Assignment lecture is going to be in person in A 053. The Group Assignment lecture on 3.5. is going to be virtual. Best, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New room for monday lectures in H 2032 ",
+                            "Discussion_Id": "588402",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060748",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-22T13:13:14+02:00",
+                                    "Content": "Dear all, apologies for the small room and the resulting uncomfortable seating situation today. That room was assigned to us initially by the university and it is clear that it is not suitable for a lecture with our amount of student participants. We have arranged a new room for our remaining lectures on Mondays in H 2032. Keep in mind that we keep the room for Fridays in A 053. Best, - Jannis and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CNAE Application Close",
+                            "Discussion_Id": "586509",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057842",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-16T16:36:37+02:00",
+                                    "Content": "Dear Students, we have just sent out the CNAE Admission emails via ISIS. You will hopefully receive this within the next 10 minutes. Unfortunately, you have not been selected if you didn't receive this email. We have received over 100 Applications and would have liked to give all of you a spot. We have decided to increase our capacity to a maximum of 65 students.  To that end, we have asked all students who received a slot and will not accept it to inform us by Friday so we can give it to someone else. Best, The CNAE Team",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1057906",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-16T17:49:11+02:00",
+                                    "Content": "It seems as if there has been a technical issue with ISIS in sending out emails to the students who received a spot. Please be patient. Hopefully, we can solve this issue by tonight.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1057934",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-16T18:36:03+02:00",
+                                    "Content": "The people who have gotten a spot should now hopefully have received an email via ISIS. If you can now see an additional Form but have not received an email, please contact me via ISIS so we can try to send the emails manually. Thanks in advance and again, sorry for the confusion.  Best regards, Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Virtual Kick-off and Registration Close",
+                            "Discussion_Id": "585814",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056827",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-15T09:08:01+02:00",
+                                    "Content": "Dear Students Today, 15.04, at 12:00, there will be the virtual Kickoff of CNAE, during which you can ask questions about the module, its organization, and the registration process. Please use the following Zoom link: https://tu-berlin.zoom.us/j/61247595804?pwd=N2F2ek05ZEdYNk5BMEYxb1RPamRnZz09 Additionally, keep in mind that today at 23:59, the application form closes. Our first Lecture is going to be on Monday the 22.04. We are looking forward to a great semester with you! - Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kickoff and Application Process",
+                            "Discussion_Id": "584913",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055531",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-08T13:00:00+02:00",
+                                    "Content": "Dear Students, Welcome to \"Cloud Native Architecture & Engineering.\" Thank you all for being interested in our course! We will upload more information about the course contents and organization in the coming week. A virtual Q&A session for your organizational questions will be on Monday, 15.04.2024, at 12:00. In the meantime, we already want to start the application process. A form is available until  Monday, 15.04.2024, 23:59. Please fill out this form until the deadline to apply. We're planning on accepting 50 students, but unfortunately, due to the nature of the course work, we cannot accept more. Here's some information regarding the application process. Priority will be given to students who attend the course as part of their obligatory elective courses (Wahlpflichtbereich). To check whether this course falls under your obligatory elective courses, please check the module description. Within this group, we will select students based on AllgStuPO § 48 (3) Satz 2f. Lastly, a little heads-up: We are planning on holding several student presentations and student consultations throughout the semester. Please apply only if you are able to commit to attending these required in-person dates. Thanks - Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion / Questions",
+                    "Forum_id": "1778211",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "GCP Credits",
+                            "Discussion_Id": "601101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080166",
+                                    "Author": "Emil Cyprian Balitzki",
+                                    "DateTime": "2024-06-14T14:09:40+02:00",
+                                    "Content": "Good morning,  I am sorry if I have missed this information, but as far as I can remember, we can get credits for GCP for our project, is that correct? If so, where can we find the link to get them?  Best regards, Emil Balitzki",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1080793",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-06-17T14:41:26+02:00",
+                                    "Content": "Hi, please send us an email with all your group members in cc so we can send you the credit link. Best, Jannis",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1081421",
+                                    "Author": "Emil Cyprian Balitzki",
+                                    "DateTime": "2024-06-19T00:12:32+02:00",
+                                    "Content": "Hi, Just wrote it, and we would be grateful to get the credits as soon as possible to run the tests on GCP before baseline report deadline :) Best, Emil",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grading for the presentation",
+                            "Discussion_Id": "599541",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077874",
+                                    "Author": "Juan Manuel Goyes Coral",
+                                    "DateTime": "2024-06-07T07:52:12+02:00",
+                                    "Content": "I remember that at the beginning of the course it was mentioned that the grading would be individual. For both reports there is a section contribution and in the repository we have the commit authors. However, it is not clear for me how the grading would be individual for the presentation. Do we need to include a slide with contribution?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline ",
+                            "Discussion_Id": "599402",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077668",
+                                    "Author": "Mohammad Matin Jalaeian Samany",
+                                    "DateTime": "2024-06-06T13:20:33+02:00",
+                                    "Content": "Hi, According to the Assignment table, the Deadline goes until 07.06 23:59. Is this incorrect, or has the schedule changed?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077731",
+                                    "Author": "Sebastian Werner",
+                                    "DateTime": "2024-06-06T15:15:06+02:00",
+                                    "Content": "Dear Mohammad, I can see that we have communicated multiple deadlines. So consider the 23:59 deadline as the final deadline but the 10:00 as the soft deadline.  Best, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gitlab required",
+                            "Discussion_Id": "593644",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068864",
+                                    "Author": "Emil Cyprian Balitzki",
+                                    "DateTime": "2024-05-10T13:15:51+02:00",
+                                    "Content": "Good morning, I have a quick question regarding the usage of Gitlab, is it required or could we use GitHub as an alternative?  The architecture we have chosen is located on GitHub (including already written GitHub actions files) and Github is also my personal tool of choice, thus if possible I would be happy to switch.  Best, Emil",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1075585",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-05-30T16:39:59+02:00",
+                                    "Content": "Hi,  Sorry for the late reply. You can use any git system that you prefer. However, for grading, archive, and accessibility reasons, we can grade tub Gitlab repositories only.  Whatever you do, you must port everything to gitlab in the end, including all commits and names, so that we can attribute your commits to your gitlab accounts and you for grading. I prefer github too, unfortunately we can only grade gitlab submissions.  That means we also won't be able to grade your GitHub actions.  Best regards, Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Infusing AI - Thrid question",
+                            "Discussion_Id": "595294",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071481",
+                                    "Author": "Juan Manuel Goyes Coral",
+                                    "DateTime": "2024-05-18T00:06:38+02:00",
+                                    "Content": "Dear CNAE Team, As part of the Infusing AI, the third question is: \"How can you ensure and attest the ethical and sustainability implication of this new integration?\" I have some problem to understand the question, specially the part of \"ethical\".  - How can be reformulate the question for me for better understanding?  - Are there any hints to answer this question from the ethical perspective? Thanks",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1072048",
+                                    "Author": "Sebastian Werner",
+                                    "DateTime": "2024-05-21T12:16:35+02:00",
+                                    "Content": "Dear Juan, this depends a bit on what type of \"AI\"-approach you will use as part of your refactoring. The question is aimed at two common issues: Firstly, training and using AI models, especially larger ones such as LLMs, have a significant impact on your application's energy consumption and carbon emissions. Hence, the question is, how can you account for that, given the value it's adding to the system? Secondly, some approaches (esp. given small training data) have implicit biases; depending on how you use the tools and where you use them, such a bias might have ethical implications, e.g., turning off components or scaling some down may prohibit some user groups from accessing your services. As with all the refactoring goals, we expect you to discuss and argue for the benefits and trade-offs of using this technology. Moreover, the question here is whether you can use technical means to make the actions and costs (in terms of sustainability) of using these approaches accountable so that issues can be spotted later on. Hope that helps, best, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reading Material",
+                            "Discussion_Id": "594670",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070520",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-05-15T14:39:35+02:00",
+                                    "Content": "Hi, We have the assignment IV-Infusing AI. I was going through the reading materials, however, I could not understand the relation between the given topic and the second reading material. As it is a long article, I would like to ask about the conceptual relevance before deciding whether to read it all or focus/research other papers from that domain.  Sincerely, Deniz Mert Tecimer",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070805",
+                                    "Author": "Sebastian Werner",
+                                    "DateTime": "2024-05-16T11:04:39+02:00",
+                                    "Content": "Dear Deniz,  the specific paper presents several approaches for Kubernetes scheduling, some of which \"infuse\" AI to achieve scheduling objectives. The paper, thus, functions as a first idea of how you could \"infuse AI\" beyond the application layer and thus should function as a good starting point. So, you should read this paper with the objective of identifying \"infused AI\" in this domain and getting ideas and snowballing material to find other approaches. In general, I would strongly recommend that you find other also directions in the literature that could apply to microservices or service architectures, regardless of how long the articles are, as foundational materials for the assignments.  Best, Sebastian Werner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "One last spot available in our group",
+                            "Discussion_Id": "590914",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064603",
+                                    "Author": "Arthur Kraft",
+                                    "DateTime": "2024-04-29T16:25:45+02:00",
+                                    "Content": "Hey there,  in our group, we have still one last spot available. So far, we have agreed on the following preferences, so it would be great if you're interested in the same topics: 1. Resilience and Fault Tolerance 2. Performance and Elastic Scalability 3. Extending to the Edge (The cloud provider and the architecture to be refactored is still under discussion) Let us know if you would like to join us!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063943",
+                                    "Author": "Jannis Kappel",
+                                    "DateTime": "2024-04-28T11:14:00+02:00",
+                                    "Content": "Hello everyone, I am looking for a group. I have experience with AWS & Google Cloud and am open to all topics. Feel free to reply or send me a DM. Best regards Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group assignments - 1 spot available",
+                            "Discussion_Id": "590246",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063591",
+                                    "Author": "Lena Elisabeth Hoffmann",
+                                    "DateTime": "2024-04-26T14:58:36+02:00",
+                                    "Content": "Hi everyone, we still have room for one more student in our group (G07). Our preference would be topic 1. Energy efficiency and sustainability, but we are open for other topics as well :)   Let us know if you would like to join us!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063614",
+                                    "Author": "Lena Elisabeth Hoffmann",
+                                    "DateTime": "2024-04-26T15:36:52+02:00",
+                                    "Content": "We already found someone :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group members",
+                            "Discussion_Id": "590202",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063525",
+                                    "Author": "Moritz Rauen",
+                                    "DateTime": "2024-04-26T13:26:08+02:00",
+                                    "Content": "Hey there,  we are looking for further group members interessted in the topics with the following or similar preference: 1. Resilience and Fault Tolerance 2. Performance and Elastic Scalability 3. Extending to the Edge 4. Energy Efficiency and Sustainability  5. Infusing AI If interessted just comment below. ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063551",
+                                    "Author": "Youssef Fettouh Ahmed Ahmed Moussa",
+                                    "DateTime": "2024-04-26T13:50:21+02:00",
+                                    "Content": "Hi Moritz, I’m interested :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Assignments",
+                            "Discussion_Id": "588831",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061420",
+                                    "Author": "Emil Cyprian Balitzki",
+                                    "DateTime": "2024-04-23T11:53:19+02:00",
+                                    "Content": "Good morning,  I just want to double-check if I read it correctly, by looking at the schedule on the main page, the Group Assignments at 03.05 will be done online (based on the gray color of the box)?  So there is no lecture in the presence that day?  Best regards, Emil Balitzki ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1062340",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-04-24T14:47:25+02:00",
+                                    "Content": "+1",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1062397",
+                                    "Author": "Sebastian Werner",
+                                    "DateTime": "2024-04-24T15:37:35+02:00",
+                                    "Content": "Dear Emil, Yes, the 3.5. will be only online and asynchronously. On that day, we will close the group selection and announce topic/group pairings. More will be presented this Friday.  Best, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Editing Application Form",
+                            "Discussion_Id": "586054",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057181",
+                                    "Author": "Julius Timo Palsherm",
+                                    "DateTime": "2024-04-15T15:39:55+02:00",
+                                    "Content": "Dear CNAE team,  I would like to edit my application form because an error has crept into my application.  Can you make the application form editable by the deadline  Best regards Julius",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1057246",
+                                    "Author": "Julius Timo Palsherm",
+                                    "DateTime": "2024-04-15T17:07:22+02:00",
+                                    "Content": "Hi Sebastian,  yes, please!  Thanks in advance, Julius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Page 2 in Application Form",
+                            "Discussion_Id": "584987",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055637",
+                                    "Author": "Ettore Carlo Marangon",
+                                    "DateTime": "2024-04-08T16:32:41+02:00",
+                                    "Content": "Dear CNAE team,  I was filling the application form when I notived that I wasn't able to see \"page 2 of 3\". I filled out points 1, 2, 3 , 4, ...,  6, 7, 8. Point 5 is missing for me. Am I the only one with this problem?  best regards  Ettore",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1055670",
+                                    "Author": "Emil Cyprian Balitzki",
+                                    "DateTime": "2024-04-08T18:16:12+02:00",
+                                    "Content": "That's the case for me too,  Best regards, Emil",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1055722",
+                                    "Author": "Christian Andreas Förster",
+                                    "DateTime": "2024-04-09T01:07:48+02:00",
+                                    "Content": "You get to see the second page only if you selected \"Other...\" at the fourth question (Which program are you enrolled in?), to further specify which program you are enrolled in.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1056150",
+                                    "Author": "Jannis Kiesel",
+                                    "DateTime": "2024-04-10T19:11:56+02:00",
+                                    "Content": "Thanks Christian Förster,  @Ettore, this is correct. Question 5 is optional and only visible to students who need to specify the program they are enrolled in further. Do not worry if you don't see question 5.  Best regards, Jannis and the CNAE Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Previous course application",
+                            "Discussion_Id": "584576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055024",
+                                    "Author": "Ali Aziri",
+                                    "DateTime": "2024-04-03T22:03:28+02:00",
+                                    "Content": "Hi, I tried last year to get into this course and unfortunately did not get a seat because of the limited capacity. Will my previous application be considered for this years course seats (please)?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1055048",
+                                    "Author": "Sebastian Werner",
+                                    "DateTime": "2024-04-04T10:14:28+02:00",
+                                    "Content": "Dear Aziri, we will follow the same AllgStupo process for admission as last year. So, students who applied last year and got rejected have a higher priority when getting a slot. Make sure to mention this as part of the application process. More announcements will follow on the 8th. Best, Sebastian and the CNAE team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

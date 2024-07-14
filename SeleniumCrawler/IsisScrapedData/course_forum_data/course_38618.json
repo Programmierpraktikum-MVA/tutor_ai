@@ -1,0 +1,110 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Statistik für Lebensmittelchemie",
+        "Course_id": "38618",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1797977",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abstimmung Klausurform und Evaluation ",
+                            "Discussion_Id": "597078",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074263",
+                                    "Author": "Helena Kieserling",
+                                    "DateTime": "2024-05-27T16:08:15+02:00",
+                                    "Content": "Liebe Studierende,  bitte denken Sie daran, bis morgen auf ISIS noch für die Klausurform abzustimmen und auch auf ISIS bis Donnerstag Mittag die Evaluation der Lehrveranstaltung durchzuführen.  Vielen Dank und bis Donnerstag, Helena Kieserling",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur und Nachholtermin Statistik",
+                            "Discussion_Id": "592463",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067057",
+                                    "Author": "Helena Kieserling",
+                                    "DateTime": "2024-05-06T10:37:15+02:00",
+                                    "Content": "Liebe Studierende,  wir sehen uns das nächste Mal wie gewohnt zur Vorlesung am 16.05. um 12:15 Uhr. Sowohl den Klausurtermin als auch den Nachholtermin für diese Woche müssen wir nochmal gemeinsam vor Ort klären. Danke für Ihr Verständnis und bis nächste Woche!  Viele Grüße Helena Kieserling",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen",
+                    "Forum_id": "1797982",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Frage VL 03 Bestimmtheitsmaß",
+                            "Discussion_Id": "597758",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075283",
+                                    "Author": "Maxim Dimitri Ardisson",
+                                    "DateTime": "2024-05-29T19:36:06+02:00",
+                                    "Content": "Guten Abend, ich habe eine Frage zum Bestimmtheitsmaß R2. In der Vorlesung wird der Maßkorrelationskoeffizient als  definiert. Das Bestimmtheitsmaß wird als r2 definiert. Nun wollte ich wissen, weshalb in der Übung das Bestimmtheitsmaß sich aus ergibt. Bei der anderen Formel benötigt man ja anscheinend nicht die Werte aus der Geradengleichung, um das Bestimmtheitsmaß zu berechnen. Vielen Dank Maxim",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075383",
+                                    "Author": "Helena Kieserling",
+                                    "DateTime": "2024-05-30T09:57:20+02:00",
+                                    "Content": "Vielen Dank für die Frage, ich werde heute in der Vorlesung auf die Antwort eingehen.  Viele Grüße Helena Kieserling",
+                                    "Response to": "p1075283"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung der heutigen Vorlesung",
+                            "Discussion_Id": "596928",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074008",
+                                    "Author": "Aleyna Özdemir",
+                                    "DateTime": "2024-05-27T11:24:36+02:00",
+                                    "Content": "Hallo an alle, da der Nachholtermin der Biochemie II Vorlesung heute nun doch auf 13 Uhr gelegt wurde, wollte ich fragen, ob die Statistik Vorlesung kurzfristig auf 14:30 Uhr verlegt werden kann oder ob es Einwände dazu gibt. Vielen Dank im Voraus. Grüße,  Aleyna",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074042",
+                                    "Author": "Helena Kieserling",
+                                    "DateTime": "2024-05-27T11:51:56+02:00",
+                                    "Content": "Liebe Studierende,  ich habe kein Problem mit einer Vorlesung von 14:30 Uhr bis 16:00 Uhr, Vorrang hat jedoch unser beschlossener Termin um 14:00 Uhr. Deshalb: Wenn jemand einen Einwand gegen den Start um 14:30 Uhr hat, dann bitte bis 12:30 Uhr hier im Chat Bescheid geben.  Liebe Grüße Helena Kieserling",
+                                    "Response to": "p1074008"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fragen Vorlesung 01",
+                            "Discussion_Id": "590332",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063713",
+                                    "Author": "Dario Alexander Ertz",
+                                    "DateTime": "2024-04-26T18:19:45+02:00",
+                                    "Content": "Hallo,  Zu Vl1 sind bei mir folgende Fragen aufgekommen: Was ist der Unterschied zwischen Beobachtungseinheiten und Merkmalsausprägungen? Sind das einfach x-/y-Werte? Könnten Sie mal ein paar Beispiele nennen? Bei dem arithmetischen Mittel gab es auch noch eine Formel, bei der die relativen Häufigkeiten mit reingespielt haben. Könnten Sie eventuell noch mal mit einem Beispiel erklären, wann diese Formel Anwendung findet? Vielen Dank! ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064185",
+                                    "Author": "Helena Kieserling",
+                                    "DateTime": "2024-04-29T09:54:51+02:00",
+                                    "Content": "Super, dass Sie das Fragen-Portal nutzen!  'Beobachtungseinheiten' sind die statistischen Einheiten, an denen die Daten über ein bestimmtes Merkmal erhoben werden. 'Merkmalsausprägung' beschreibt die Werte, die ein Merkmal annehmen kann. Hier zwei Beispiele: 1. Beispiel - Beobachtungseinheit: Avokado - Merkmal: Fettgehalt - Merkmalsausprägung: 0-X g/100 g - Daten: tatsächlich gemessener Wert von 10,5 g/100 g  2. Beispiel - Beobachtungseinheit: Patient - Merkmal: Blutgruppe - Merkmalsausprägung: 0, A, B, AB - Daten: tatsächlich ermittelte Blutgruppe von AB  Relative oder absolute Häufigkeiten können bei der Berechnung des arithmetischen Mittelwerts herangezogen werden, um einzelne Messwerte stärker zu gewichten, wenn sie z.B. in einer Messreihe häufiger vorkommen, als andere. Ein Beispiel wäre das Würfel-Spiel aus der Vorlesung, um nicht alle Werte für die gewürfelten Zahlen einzeln in die Formel einzubeziehen, können Sie auch direkt die relativen/absoluten Häufigkeiten direkt in die Formel mit aufnehmen. Die Formel kann auch als 'gewichtetes Mittel' bezeichnet werden, wobei dieser Begriff für jegliche Berechnung des Mittelwerts mit einem Gewichtungsfaktor verwendet wird. Ein gewichtetes Mittel könnte z.B. auch die Berechnung von Schulnoten sein, bei denen willkürlich festgelegte Faktoren für die Gewichtung einzelner Noten (schriftliche Leistungen, mündliche Prüfungen usw) benutzt werden.  Ich hoffe das erklärt Ihre Fragen, zögern Sie bitte nicht nochmal nachzuhaken oder eine neue Frage zu posten!",
+                                    "Response to": "p1063713"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

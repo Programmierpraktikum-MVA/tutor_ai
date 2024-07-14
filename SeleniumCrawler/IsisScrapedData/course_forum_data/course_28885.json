@@ -1,0 +1,107 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Optik und Photonik II",
+        "Course_id": "28885",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Nachrichtenforum",
+                    "Forum_id": "1310352",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Übung am 10.07.2024: Start um 13 Uhr!",
+                            "Discussion_Id": "606311",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087651",
+                                    "Author": "Melanie Müller",
+                                    "DateTime": "2024-07-08T15:33:32+02:00",
+                                    "Content": "Liebe Teilnehmende, wie schon in der VL angesprochen, wird die Übung am 10.07.24 schon um 13 Uhr starten. Viele Grüße, Melanie Müller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laborführung am FHI: 15.07.2024",
+                            "Discussion_Id": "606310",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087650",
+                                    "Author": "Melanie Müller",
+                                    "DateTime": "2024-07-08T15:32:14+02:00",
+                                    "Content": "Liebe Teilnehmende, am 15.07.2024 treffen wir uns nicht an der TU, sondern am Fritz-Haber-Institut in Dahlem. Dort werden wir ein Stunde VL machen (9:15 bis 10:15), an die sich eine Laborführung in der Abteilung \"Physikalische Chemie\" anschließt. Die Laborführung wird 4 Stationen/Labore enthalten: - Nichtlineare optische Spektroskopie and Wasser/Luft Grenzflächen (AG Thämer) - Hochfeld THz-Spektroskopie (AG Mährlein) - trARPES (AG Rettig) - THz-getriebenes Rastertunnelmikroskopie. Die beiden letzten Methoden werden in der letzten VL davor eingeführt. Wir treffen uns um 9:15 an dem Punkt zwischen den Gebäuden B und G! Anreise mit U3 - Freie Universität/Thielplatz. Ich freue mich auf Ihr Kommen! Viele Grüße, Melanie Müller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachtrag VL 17.6.24: Phasenbeziehung der Lasermoden + Modenkopplung",
+                            "Discussion_Id": "601517",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080775",
+                                    "Author": "Melanie Müller",
+                                    "DateTime": "2024-06-17T14:14:22+02:00",
+                                    "Content": "In der VL kam die Frage auf, wieso die Phasen der Lasermoden ohne Modenkopplung zufällig sind, bzw. wieso sich diese nicht immer zu einem kurzen Puls kohärent addieren. Der Grund ist:  - Die Atome im aktiven Medium sind unabhängige Oszillatoren - Ohne Modenkopplung kann jede erlaubte Lasermode unabhängig schwingen, wobei die Anfangsphasen der Schwingungen stochastisch verteilt sind. - Der Grund dafür ist die stochastische Natur der spontanen Emission. Jede Lasermode wird für sich isoliert betrachtet ursächlich durch einen spontanen Emissionsprozess populiert, d.h. das erste Photon in dieser Mode wird durch spontane Emission erzeugt. Im Weiteren Verlauf der Verstärkung wird jede Mode dann mit weiteren Photonen populiert, die phasenkohärent mit dem ersten Photon in dieser Mode sind. Die Phasenbeziehung der verschiedenen Moden untereinander ist allerdings nach wir vor aufgrund der ursächlichen spontanen Emission zufällig verteilt. - Spontane Emission ist auch als Rauschen immer zu einem gewissen Grad vorhanden, wodurch sich die Phasen zwischen den Moden zeitlich ändern können. Statistisch gesehen tritt also jede Phasenbeziehung zwischen Moden irgendwann mal auf. - Durch die Modenkopplung wird nun selektiv nur diejenige (irgendwann zufällig auftretende) Phasenbeziehung im Lasermedium verstärkt, bei der sich alle Moden konstruktiv zu einem Puls überlagern. Alle anderen Phasenbeziehungen werden - z.B. durch Einführen einer Apertur in der Kerr-Linsen-Modenkopplung (KLM) - weniger oder nicht signifikant verstärkt. - In der Realität gibt es bei KLM oft mehrere konkurrierende Moden im Kurzpulsbetrieb (Multi-Mode Betrieb). Die selektive Erzeugung einer einzelnen gewünschten Ultrakurzpuls-Mode (\"single-pulse mode\") erfordert eine genaue Justage der Kerr-Linse und der Apertur (bzw. der Resonatorspiegel).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung VL ab 17.6. ",
+                            "Discussion_Id": "601181",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080282",
+                                    "Author": "Melanie Müller",
+                                    "DateTime": "2024-06-14T21:11:54+02:00",
+                                    "Content": "Liebe Teilnehmende, ab kommende Woche, 17.6.24, wird die VL nur noch Montags stattfinden, und wir starten entsprechend ein wenig früher um 9:15 Uhr und machen nach Bedarf eine Pause. Ende ist um 11:45 wie bisher. Die VL am Donnerstag entfällt. Viele Grüße, Melanie Müller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung VL: 1x Pro Woche",
+                            "Discussion_Id": "600497",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079283",
+                                    "Author": "Melanie Müller",
+                                    "DateTime": "2024-06-12T09:09:28+02:00",
+                                    "Content": "Liebe Teilnehmer, wie schon kurz am Montag angesprochen, würde ich vorschlagen, dass wir die Vorlesung auf einen Tag in der Woche beschränken. Dafür fangen wir an diesem Tag etwas früher an und treffen uns etwas länger als die üblichen 1,5 Stunden. Morgen (Donnerstag 13.6.) möchte ich mit Ihnen vor Ort besprechen, welcher der beiden Tage besser geeignet ist.  Bis morgen, Melanie Müller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum",
+                            "Discussion_Id": "590709",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064301",
+                                    "Author": "Santiago Koloffon Rosas",
+                                    "DateTime": "2024-04-29T11:34:43+02:00",
+                                    "Content": "Hallo zusammen, beachtet bitte die Hinweise unter Praktikum. Dort läuft eine art Umfrage um die Termine der Praktika zu organisieren, bei der ihr bis morgen teilgenommen haben musst. Viele Grüße Santiago",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung am 29.04.24 fällt aus",
+                            "Discussion_Id": "590569",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064088",
+                                    "Author": "Tore Niermann",
+                                    "DateTime": "2024-04-29T07:22:49+02:00",
+                                    "Content": "Hallo allerseits, die Vorlesung muss heute (29.04.24) leider krankheitsbedingt ausfallen. Einen Ersatztermin werden wir in den nächsten Vorlesungen planen. Viele Grüße, Tore Niermann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

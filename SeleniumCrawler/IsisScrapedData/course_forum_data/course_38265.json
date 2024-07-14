@@ -1,0 +1,75 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computational modeling: A practical course",
+        "Course_id": "38265",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1785230",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No modeling course on June 25",
+                            "Discussion_Id": "602943",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082836",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-06-24T10:27:42+02:00",
+                                    "Content": "Dear students,  as announced last week, both Kristine Heiney and me are traveling this week, so there will be no course tomorrow (June 25).  We continue next week.  Best wishes,  Henning Sprekeler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "NO modeling course tomorrow",
+                            "Discussion_Id": "595455",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071780",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-05-20T15:42:28+02:00",
+                                    "Content": "Dear students,  I’m very sorry, but I have to cancel tomorrow’s modeling course for health reasons.  I hope this message reaches you in time.  Best wishes,  Henning Sprekeler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No modelling course on April 23, next meeting on April 30!",
+                            "Discussion_Id": "586687",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058088",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-04-17T09:41:13+02:00",
+                                    "Content": "Dear students,  as already announced yesterday, there will be no course next week (Tuesday, 23.4.), because I'm travelling.  I'm looking forward to seeing you again on April 30.  Best wishes, Henning Sprekeler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Admission modeling course: The math test is obligatory!",
+                            "Discussion_Id": "585866",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056904",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-04-15T10:46:56+02:00",
+                                    "Content": "Dear students,  we're looking forward to starting the course! May I remind you that the completion of the math test is obligatory to be admitted to the course? The deadline is today at noon.  Among those of you who completed the test, we will be able to admit 20 students. Unfortunately, that's our capacity limit.  Best wishes,  Henning Sprekeler",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057000",
+                                    "Author": "Henning Sprekeler",
+                                    "DateTime": "2024-04-15T12:21:10+02:00",
+                                    "Content": "Dear all,  we have extended the deadline to 3 pm, so if you are interested in the course, there is still a chance. All those who have not completed the test until then will not be admitted.  Best wishes, Henning Sprekeler",
+                                    "Response to": "p1056904"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+[
+    "Aktivität Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics auswählen",
+    "Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics",
+    "Datei",
+    "Hochgeladen 29.05.2024 10:21",
+    "Aktivität Abstract: Animals generate a vast array of behavio... auswählen",
+    "Abstract: Animals generate a vast array of behaviors by composing \ntogether a small set of stereotyped actions. By classifying these action\n motifs (or “syllables”) and identifying their occurrence in behavioral \nrecordings, researchers can better understand the complex ways that \nbehavior is altered by drugs, genes, neurons, and environmental \naffordances. Over last few years, keypoint tracking has emerged as a \npowerful method to measure animal pose over time, and there are now \nseveral methods for unsupervised segmentation of animal behavior using \nkeypoints as inputs. In this talk, I will discuss landscape of such \nmethods: their strengths, weaknesses, and core assumptions – with special \nfocus on keypoint-MoSeq, which was developed in our lab. My goal is to \nprovide a conceptual overview of the field, clarifying when these \nmethods are (and are not) useful and  how they can best be applied."
+]

@@ -1,0 +1,1875 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Multimodal Interaction",
+        "Course_id": "38273",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1786043",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Teaching Evaluation",
+                            "Discussion_Id": "601543",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080815",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-17T15:14:10+02:00",
+                                    "Content": "Dear participants of the Multimodal Interaction course, We kindly request your participation in a brief teaching evaluation questionnaire for our course. This exercise aims to identify areas of success and opportunities for improvement in our teaching methods and course content. Your valuable feedback will remain anonymous and contribute significantly to enhancing the quality of our education. The questionnaire will only require approximately 10 minutes of your time. Thank you for your assistance and dedication to the advancement of our academic community. Access the questionnaire here: https://isis.tu-berlin.de/mod/questionnaire/view.php?id=1844415 (You find the link under the two forums on the course page too.)  Best regards, Stefan Hillmann ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First test - Points available",
+                            "Discussion_Id": "601219",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080333",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-15T14:57:19+02:00",
+                                    "Content": "Dear students,  Points from your first test are now available for you to see under your grades.  A review of both tests will be possible after the second one together, and repetition for those with valid excuses will be possible after the second test.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First written test - 6th of June",
+                            "Discussion_Id": "597424",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074797",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-28T16:18:41+02:00",
+                                    "Content": "Dear all,  Please carefully read the following information about the procedure of the written test in MA 241 (aka Unix Pool) on June 6th. As you know, 1st written test is scheduled for June 6th between 08:00 and 10:00. We will write the test in two groups due to the limited capacity of the computer cabinet (MA 241, aka Unix Pool). Group A starts at 8 am; Group B starts at 9 am. Group A - you are in Group A, if your last name starts with A to L Group A starts with the written test at 8:00 am (s.t.). Please be at the entrance of the room 5 to 10 minutes before 8 am. All participants must stay in the room until the test ends at about 8:45 am. Afterward, Group A leaves the room through the dedicated exit. Group B - you are in Group B, if your last name starts with M to Z or any other character Group B starts with the written test at 9:00 am (s.t.). Please be at the entrance of the room 5 to 10 minutes before 9 am and wait until we open the door to not disturb Group A. After the test, Group B leaves the room through the dedicated exit.  You find the entrance to the Unix Pool by following the signs from the MA building’s main entrance on. Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Enrolment list (based on Survey) - Available",
+                            "Discussion_Id": "589717",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062806",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-25T10:52:28+02:00",
+                                    "Content": "Dear Students,  An enrolment priority list was created based on the information in your survey.   You can notice that we have expanded our limit to be able to accept all students who stated their interest by filling in the survey.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Survey - no question for previous year",
+                            "Discussion_Id": "588878",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061494",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-23T13:03:38+02:00",
+                                    "Content": "Dear students,  I told you in Zoom yesterday that I would check how to mention if students have already tried to get a place in MMI. This can't be the case, as after two rounds last year with a placement list and waiting list - all students who wanted to (and were on the waiting list) have been finally accepted to the course. This is why there is no question about it in this year's survey. If there are non-accepted students this year, we will reintroduce this question next year. Any other info you would like to mention, you can input in your survey under comments.   Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Lecture Forum",
+                    "Forum_id": "1786047",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Results",
+                            "Discussion_Id": "599391",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077652",
+                                    "Author": "Anna Sergeeva",
+                                    "DateTime": "2024-06-06T12:26:39+02:00",
+                                    "Content": "Hello, when do we get results of the homeworks and result of the first test?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078609",
+                                    "Author": "Yifan Zheng",
+                                    "DateTime": "2024-06-10T14:36:44+02:00",
+                                    "Content": "same question:)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079461",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-12T14:59:46+02:00",
+                                    "Content": "I don't have information about it; my estimation would be by the end of next week.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test Question from Chapter 6",
+                            "Discussion_Id": "599338",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077576",
+                                    "Author": "Béla Leon Milan Wilsdorf",
+                                    "DateTime": "2024-06-06T10:10:10+02:00",
+                                    "Content": "I think today's test was alright, however I want to mention that one question regarding the Semiotic classification of gestures and matching \"Deictic\" to pointing was only featured in Chapter 6 and therefore should not have been part of the first test.  Even though I already watched Chapter 6 I couldn't remember the answer to that question by heart, as I didn't prepare for it. It would be fair to not count the question towards the final score as it was out of the announced scope of the test.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077639",
+                                    "Author": "Barkin Can Karatay",
+                                    "DateTime": "2024-06-06T11:47:40+02:00",
+                                    "Content": "I agree. Not once have I heard the word \"semiotic\" in my life before today's test",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079460",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-12T14:57:05+02:00",
+                                    "Content": "This is indeed the case, and we will give all full points for this question to correct it.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "topics of the first test",
+                            "Discussion_Id": "595186",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071313",
+                                    "Author": "Maximilian Thomas Frank Bürger",
+                                    "DateTime": "2024-05-17T14:23:02+02:00",
+                                    "Content": "Hello MMI Team,  could you briefly explain what we should learn for the first test. Do we have to know every part of the eye? or is it more general.   greetings max ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1071839",
+                                    "Author": "Barkin Can Karatay",
+                                    "DateTime": "2024-05-20T20:42:04+02:00",
+                                    "Content": "I'm wondering the same, especially regarding chapter 2 since there is a lot of information.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1072011",
+                                    "Author": "Erik Pascal Fischer",
+                                    "DateTime": "2024-05-21T11:16:45+02:00",
+                                    "Content": "Yes, I'd be very interested aswell. A lot of content seem to be too in-depth to be relevant to the implementation of multimodal systems",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1072335",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-21T21:13:05+02:00",
+                                    "Content": "Hi all, everything on the slides (Chapters 1-5) can be asked in tests. Also, you can expect different questions, from multiple-choice and drag-and-drop to short open-ended questions. Results from previous years with such types of tests have shown that the material provided in the online lectures, together with the homework and additional material, is enough to receive good points and have a good grade in this course. Also, a short Mock-up Test will be available for you from next Monday, so that you can see what type of questions there could be, but will not simulate full length of the test. I hope this helps.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1074714",
+                                    "Author": "Dustin Winkler",
+                                    "DateTime": "2024-05-28T14:00:20+02:00",
+                                    "Content": "Can we write the answers in German? Especially for me as a non-native English speaker, it is always more difficult to express the content in English during exams.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1074829",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-28T16:47:04+02:00",
+                                    "Content": "Yes, for open end questions both English and German are allowed, but everything in test will be in English.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076818",
+                                    "Author": "Boris Cheshmedzhiev",
+                                    "DateTime": "2024-06-04T11:29:45+02:00",
+                                    "Content": "Are the additional resources provided also relevant for the exam?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077082",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-04T21:18:46+02:00",
+                                    "Content": "Additional resources are a good way of building an understanding of the topic, so that is why they are included in chapters - but they are, as the name says, additional material.  ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077585",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-06-06T10:22:22+02:00",
+                                    "Content": "If I am not mistaken, Ganglion cells and the vestibular system were included in the exam even though they were provided as additional material. And I skipped their details while preparing for the exam, which is unfortunately not quite fair for many other students. So I assume additional material is relevant for the second exam as well. Could you please place exam-related topics in the main content part or let us know which topics will be covered in the exam?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077608",
+                                    "Author": "Béla Leon Milan Wilsdorf",
+                                    "DateTime": "2024-06-06T10:56:32+02:00",
+                                    "Content": "I agree with Deniz here. Just checked the additional material and saw that it contains the exact answer for the Ganglion Cell question. As I mentioned in my other post, it is not fair to ask questions for contents that very explicitly stated to be out of the test scope (see above).",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077610",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-06-06T11:05:43+02:00",
+                                    "Content": "The question about Oviatt was also from additional material, the same as ON/OFF Ganglion cells and vestibular system. I would kindly ask you find a way of dealing generously with the grading of these questions, since many of us relied on this statement \"Additional resources are a good way of building an understanding of the topic, so that is why they are included in chapters - but they are, as the name says, additional material.\" and did not prioritise the content of additional ressources in our preparation for the test: We checked it out for broader understanding of the topic, but did not learn all detailed information by heart. It might not be the best idea to delete these questions completely from the score, since it took us students also time in the test to think about and answer them (maybe even to the disadvantage of completing other tasks), but maybe give these points as bonus points or slightly lowering the grading table. Any kind of adaption would be lovely!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077615",
+                                    "Author": "Béla Leon Milan Wilsdorf",
+                                    "DateTime": "2024-06-06T11:15:30+02:00",
+                                    "Content": "To be honest I am very annoyed by this. I spent multiple days learning all of the slide contents by heart, down to the specific words used and then we get asked multiple questions that aren't related to the slide contents at all. It is silly, de-motivating and it doesn't feel like working / studying hard to get a good grade pays off in the end. I appeal to you to grade accordingly (as Elsa said) and I also expect of you to change your designing approach of the second test or at least change the scope communication before the test.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078142",
+                                    "Author": "Mohamad Bassel Fatloun",
+                                    "DateTime": "2024-06-08T01:14:53+02:00",
+                                    "Content": "Same here, totaly unfair!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078184",
+                                    "Author": "Finn Frederick Hans Watermann",
+                                    "DateTime": "2024-06-08T15:33:43+02:00",
+                                    "Content": "I fully agree with you",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078993",
+                                    "Author": "Erik Pascal Fischer",
+                                    "DateTime": "2024-06-11T13:56:51+02:00",
+                                    "Content": "Sadly, I do have to agree. This module differes a lot from what I had expected it to be",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079379",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-12T12:11:24+02:00",
+                                    "Content": "Hi, my intention was not to lead you to false assumptions. In my opinion, saying it is material for the test means it can be part of the test. Saying it is additional means it will have less priority and be graded with fewer points. However, as I see, my previous post made you think otherwise, and this question will be graded as correctly answered for everyone. I believe this is a fair trade between misunderstanding and your effort spent on it.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079399",
+                                    "Author": "Béla Leon Milan Wilsdorf",
+                                    "DateTime": "2024-06-12T13:05:50+02:00",
+                                    "Content": "Thank you for your consideration, I appreciate it!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Conflict Matrix",
+                            "Discussion_Id": "598813",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076831",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-06-04T11:50:46+02:00",
+                                    "Content": "Hello, Are we supposed to extract values from a conflict matrix for the test? I didn't really understand, how to choose and categorize the both axis, so that we can select values to add together. A help or guide in this particularly would be very helpful. Thank a lot",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076854",
+                                    "Author": "Miriam Ines Elisabeth Arndt",
+                                    "DateTime": "2024-06-04T12:56:46+02:00",
+                                    "Content": "Hey, I'm not entirely sure if i understood it correctly, but I interpreted it this way. For the demand component of a task you assigned each stage (Perception, Cognition, Responding) a demand value. in the example it was Task A (2,1,1) and Task B (2,1,0). In the matrix you look at where the relevant resources of both tasks overlap. In the example visual-spatial(VS) was relevant. In Task A you look at VS in all three stages, but we assigned Task B a 0 for the stage Response so we don't have to regard it.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077092",
+                                    "Author": "Tanem Basaraner",
+                                    "DateTime": "2024-06-04T22:43:41+02:00",
+                                    "Content": "Do you know why we take the value for CS and RS instead of CV and RV?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077242",
+                                    "Author": "Benjamin Johannes Pfundstein",
+                                    "DateTime": "2024-06-05T11:34:32+02:00",
+                                    "Content": "I am not sure but maybe because the specific tasks \"driving at night\" and \"looking at a map\" only need spatial ressources in every stage: - VS: Visual-Spatial - CS: Cognitive-Spatial - RS: Response-Spatial  For example, the ressources CV (Cognitive-Verbal) or RV (Response-Verbal) might not be necessary for the specific tasks.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "question today's homework",
+                            "Discussion_Id": "598462",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076338",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-06-03T11:04:39+02:00",
+                                    "Content": "Dear MMI Team, what exactly do you mean by \"explanation of all dependencies\" in homework 5? what refers the term \"dependencies\" to? Thank you Elsa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Photochemical receptors",
+                            "Discussion_Id": "595262",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071421",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-05-17T17:29:01+02:00",
+                                    "Content": "Hey, I was trying to understand the part in Homework 3 about photochemical receptors. Do you mean photoreceptor cells by that? Regarding the term \"photochemical\", I couldn't find resources using that term and could not understand what it means in this concept. Sincerely, Deniz Mert Tecimer",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1072342",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-21T21:38:29+02:00",
+                                    "Content": "Hi, Photoreceptor cells are the cells in the retina that detect light. The term photochemical refers to the chemical changes these cells undergo when they absorb light. These reactions are fundamental to the process of converting light into visual information. In lecture 2 types of photochemical receptors are mentioned. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Formants in the spectrogram",
+                            "Discussion_Id": "593757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069053",
+                                    "Author": "Mika Andre Laßan",
+                                    "DateTime": "2024-05-11T14:47:01+02:00",
+                                    "Content": "When looking at external sources, the lowest formant is usually assigned F0. When mentioned in text the \"first two formants\" are often F1 and F2.    In this Spectrogram I would assume theres 3 visible Formants. One around 150, one around 600-700 and one around 1600. Which of these 3 are the \"first two\" we should be using for our data points?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1071022",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-16T16:50:48+02:00",
+                                    "Content": "Hi Mika,  at ~150 Hz you see the fundamental frequency (F_0) [1]. With F_1 (or F1) we mean the first Formant (here at ~650 Hz) and with F_2 (or F2) the second Formant (here at ~1,600 Hz) [2].  [1] https://en.wikipedia.org/wiki/Fundamental_frequency [2] https://en.wikipedia.org/wiki/Formant  Best Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 3: Slow pursuit and Fast phases",
+                            "Discussion_Id": "593831",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069162",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-05-12T16:07:43+02:00",
+                                    "Content": "Hello, while doing the homework for 3. chapter, i couldn't find any information regarding these two subtopics \"Slow pursuit\" and  \"Fast phases\". Should we make our own internet research or am i overseeing a part in lecture that talks about these topics. Thanks Best regards, Ali",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1071010",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-16T16:23:06+02:00",
+                                    "Content": "Hi,  It is part of the lecture on Visual perception. If you review the video provided under that part of the lecture in Chapter 3, I am sure you can find an answer. Also, using the the Internet for your research and learning is not forbidden, as long as you use reliable sources.   Best,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Harmonics vs Formants",
+                            "Discussion_Id": "594653",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070496",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-05-15T13:57:49+02:00",
+                                    "Content": "Hey everyone, I was struggling on understanding the Formants and what it actually means and how it differs from the harmonics. I find a nice explanation in the resource below. Just dropping it here maybe someone needs that as well. \"The peaks of the envelope are what we call the formants\" (The enveloped applied on harmonics) https://linguistics.stackexchange.com/a/32060",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 2 vowels",
+                            "Discussion_Id": "594479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070187",
+                                    "Author": "Judith Maria Bucher",
+                                    "DateTime": "2024-05-14T19:40:32+02:00",
+                                    "Content": "Hey, Is it okay if we use the vowel e instead of the vowel i? Thanks in advance Judith",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070266",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-15T08:14:47+02:00",
+                                    "Content": "Hi,  as the examples of the exercise show, it is okay depending on the language. i, a/ae, u in German correspond to e, a/ae, u on the phoneme level.  Best, Stefan",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070435",
+                                    "Author": "Domenique Alexandre Oetting",
+                                    "DateTime": "2024-05-15T12:15:35+02:00",
+                                    "Content": "Sorry, but just to clear this up: We used a different vowel (the german e instead of the german i) because of an technical error in the recordings. (And because we supposed that these vowels are just examples for vowels to be used). Is that ok, or are you insist on using these exact vowels? Sorry to aks but we are uncertain on that point right now though everything is already finished.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070443",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-15T12:32:04+02:00",
+                                    "Content": "In this case, clearly state in the submission which vowels you have used, then I see no problem.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 2",
+                            "Discussion_Id": "593845",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069183",
+                                    "Author": "Enea Gurra",
+                                    "DateTime": "2024-05-12T19:01:49+02:00",
+                                    "Content": "Hi everyone!  I had a question regarding the second homework. I am unsure what is required from us. Should we:  1- Record three sentences with all the three vowels in all of them. 2- Record three sentences where in each sentence one of the three values is stressed.  Thank you in advance! Best, Enea",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1069296",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-13T08:50:25+02:00",
+                                    "Content": "Dear Enea, each team member records each vowel three times. Please, use for each vowel a separate short sentence. In the end, each member has 9 recordings.  Best, Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a learning partner!",
+                            "Discussion_Id": "593605",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068803",
+                                    "Author": "Mohamad Bassel Fatloun",
+                                    "DateTime": "2024-05-10T12:00:00+02:00",
+                                    "Content": "Hello everyone! Are any of you interested in finding a learning partner to go through slides together? It's a great way to stay motivated and keep each other accountable. If yes then just pm me on Isis. Have a wonderful day!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "user input mode",
+                            "Discussion_Id": "590431",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063858",
+                                    "Author": "Bruno Ignaz Rothschild",
+                                    "DateTime": "2024-04-27T14:13:01+02:00",
+                                    "Content": "Hi,  I'm not sure if I understand user input mode correctly. At the moment I think it means parts of a machine the user interacts with, like screen, keyboard and mouse for a PC. In that sens computers today would be already multimodal system. But technically a keyboard nor a mouse are inputing information to the user.  regards Bruno",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063909",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-27T21:28:51+02:00",
+                                    "Content": "When we talk about \"input mode,\" we mean the different ways a person can give information to a computer, including using keyboards, mice, and touchscreens. However, when we say a system is \"multimodal,\" it means it uses more than just one type of input (for all of the above it is touch). A multimodal system can understand input from voice commands, hand gestures, or even where you're looking. This makes it easier and more natural for people to interact with machines. So, while a normal computer with a keyboard, mouse, and screen does use different ways to interact (like typing and clicking), a truly multimodal system is one that uses more than two different types of inputs to work better. I hope this explanation makes things clearer.  Best regards, Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Project Forum",
+                    "Forum_id": "1786048",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gameplay Video",
+                            "Discussion_Id": "607594",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089497",
+                                    "Author": "Muaaz Chihabi",
+                                    "DateTime": "2024-07-12T21:06:32+02:00",
+                                    "Content": "Hello I want to ask if we need to present with camera, or it is enough to present just screen sharing with explanation  thank you",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submitting from tub cloud",
+                            "Discussion_Id": "607515",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089381",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-07-12T14:57:08+02:00",
+                                    "Content": "Hello, We filmed the video for project but the size was 100mb therefore we submitted a link for tucloud folder, where the video of our presentation is to be found. Is it ok? Thanks a lot",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Voice recognition on macOs",
+                            "Discussion_Id": "605125",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085984",
+                                    "Author": "Maxim Lion Strzebkowski",
+                                    "DateTime": "2024-07-02T20:36:18+02:00",
+                                    "Content": "Hello, sadly the provided unity plugin for voice recognition on macOs called \"VoiceAttack\" is only available for windows. I am having trouble finding any other usable plugins or interfaces that provide a voice recognition API on macOs. Are there any other solutions you can recommend, or has anyone else found a solution for this problem? If not, are there any recommendations for other modality implementations we could work with on macOs devices? We would be very grateful for any help we can get on this issue. Thank you and kind regards, Maxim",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1086157",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-07-03T12:54:11+02:00",
+                                    "Content": "same ;(",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088567",
+                                    "Author": "Tanem Basaraner",
+                                    "DateTime": "2024-07-10T15:52:06+02:00",
+                                    "Content": "The free version of Microsoft Azure Speech SDK works on Mac :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088797",
+                                    "Author": "Benjamin Johannes Pfundstein",
+                                    "DateTime": "2024-07-11T10:45:37+02:00",
+                                    "Content": "Huggingface works on Mac as well: https://huggingface.co/blog/unity-asr",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1089287",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-12T12:03:29+02:00",
+                                    "Content": "Thank you all for sharing ideas about this problem, which was suggested in the Q&A Zoom session for the project.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question about Game",
+                            "Discussion_Id": "606709",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088220",
+                                    "Author": "Tanem Basaraner",
+                                    "DateTime": "2024-07-09T18:24:49+02:00",
+                                    "Content": "Should the game have a certain logic/ reward system such as collecting points etc. or is it enough if only the two modalities are present?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1089283",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-12T12:02:05+02:00",
+                                    "Content": "Hi,  as it is a game, I assume there will be some story for the scenario as you need to present the game with reasoning for modalities and fusion/fission, but there is no need for a particular logic/reward system. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Clarification on Modality Requirements",
+                            "Discussion_Id": "605830",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086946",
+                                    "Author": "Jamina Nöll",
+                                    "DateTime": "2024-07-05T14:41:01+02:00",
+                                    "Content": "Hello,  In Task 1, the instructions state: \"Further on, the task in the game also should be possible to complete by using only one modality. \" \"Video of game play where user is using only “first” modality\" In Task 2, the instructions state:  \"Video of your game play where user is using “second” modality\"  In Task 2, the word \"only\" is not included. Does that mean that the player has to be able to complete the game by using only the first modality, but not necessarily by only using the second modality? Is it sufficient if only certain tasks can be completed using the second modality (possibly in fusion with the first modality)?  Best regards, Jamina",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088659",
+                                    "Author": "Jamina Nöll",
+                                    "DateTime": "2024-07-10T19:08:07+02:00",
+                                    "Content": "Hi,  A response would be nice as this is important for completing the task.  Thank you.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1089282",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-12T11:59:36+02:00",
+                                    "Content": "Hi, \"Does that mean that the player has to be able to complete the game by using only the first modality, but not necessarily by only using the second modality?\" - Yes.  \"Is it sufficient if only certain tasks can be completed using the second modality (possibly in fusion with the first modality)?\" - Yes.  However, implementing more than one is not wrong; it is just extra. In that case, for the presentation, you need to choose which one will be your \"first\".",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Game Question",
+                            "Discussion_Id": "607124",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088804",
+                                    "Author": "Benjamin Johannes Pfundstein",
+                                    "DateTime": "2024-07-11T10:58:12+02:00",
+                                    "Content": "Hello, In our game, the player controls a character using the arrow keys and can shoot at monsters with a gun (triggered by mouse clicks). The monsters \"die\" only if the color of the bullet matches the color of the monster. To change the color of the bullet, the player must specify the desired color through voice input. Therefore, to defeat a specific monster, both modalities are required. While the voice input is being recorded, the player cannot shoot, as shooting is blocked by the system. Does this game design correspond to the concepts of fusion and fission? Thanks for your Help! Kind Regards,  Ben",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1089281",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-12T11:53:45+02:00",
+                                    "Content": "Hi,  I can see how you could have fusion and fission in your scenario, but your points will depend on how you showcase it and explain it in your presentation.  Best,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Both Modalities at task 1 and 2",
+                            "Discussion_Id": "605256",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086164",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-07-03T13:13:01+02:00",
+                                    "Content": "Hello, We are currently implementing a game, where our first person view character moves in 3d world and collects stuff with challenges. Does it count as valid solution, if our character moves just with keyboard, but does the other actions with specific keys or sound detection? For example: We walk with arrows for both solutions but in first you collect object with key \"x\" and in second you collect by shouting? Would this be valid, or since we use the keyboard to move also while using voice, this won't count as individual separate solutions?  Best regards, Ali ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1086663",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-04T17:37:53+02:00",
+                                    "Content": "I would advise you to think if you are using two modalities that can showcase what both fusion and fission are in the same or different scenarios. If you can name two different modelities and how they behave in both fusion and fission - you have everything needed to solve your project.  If I have understood your questions correctly, there is no need for you to perform one task separately with both of the modalities. So in your example, you don't need to be able to move using keyboard and to move using voice per se, but you do need to take care in which case you will introduce fusion and in which fission. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fission?",
+                            "Discussion_Id": "604712",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085391",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-07-01T14:56:44+02:00",
+                                    "Content": "Hello, we have a question about the second part of the third task - handling modality fission.  Background information: Our game implements clicking/hovering with the mouse on moving objects (first modality) and speech recognition to slow down the speed of the moving objects (second modality). When we click on the moving object, it vanishes and we get 1 point. We handled modality fusion the way that we click on the moving object while at the same time saying the colour that object has and the action this triggers is that the object vanishes and we get a higher amount of points.  Actual question: We handled modality fission in the way that once we click on a moving object, while saying the WRONG colour, we lose points. Now we are unsure, if this design actually meets the criteria of \"modality fission\". Our thoughts: In our current design the system deals with a  scenario in which there is no possible fusion of the input coming from the two different modalities, since the two inputs DON'T MATCH. However, this design does not actually put the system in the difficult position of having to deal with two CONFLICTING messages, since using only the second modality and saying a colour while not clicking on a matching object does not trigger ANY action on its own.  Please let us know soon if our current implementation fullfills the task, or if this is not actually something you would let pass as \"fission solution\" and we really need to go for a scenario where two CONTRADICTORY actions are triggered at the same time via the two different modalities.  Kind regards Elsa",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1085484",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-01T17:07:12+02:00",
+                                    "Content": "Hi, Your current design partially meets the criteria for modality fission by handling mismatched inputs. However, to fully meet the criteria for modality fission, your system should handle independently triggered and potentially conflicting actions from both modalities, requiring the system to resolve these conflicts.  A stronger implementation of modality fission would involve both modalities being capable of independent actions, with the system resolving conflicts when both actions occur simultaneously but contradict each other. I would in your position rething what could you add on top to be able to fully showcase scenario for fission.  Hope this helps. Tanja",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1085502",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-07-01T17:34:00+02:00",
+                                    "Content": "Yes, merci. :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project Solution",
+                            "Discussion_Id": "603832",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084096",
+                                    "Author": "Chiara Sophia Mezzogori",
+                                    "DateTime": "2024-06-26T16:34:25+02:00",
+                                    "Content": "I wanted to ask whether we are supposed to only upload the final video with explanations, or should we also hand in the code of our game. Moreover, I wanted to ask whether every group member has to do a part of the voice-over of the video or if it is also possible that only one person of the group records the voice-over. Thanks in advance.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1084907",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-29T15:52:45+02:00",
+                                    "Content": "You are submitting only video recordings as a group, and regarding the presenter, you can choose the best strategy for recording the presentation. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Clarification on Game Requirements",
+                            "Discussion_Id": "603139",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083130",
+                                    "Author": "Lennard Feger",
+                                    "DateTime": "2024-06-24T16:07:05+02:00",
+                                    "Content": "I wanted to ask whether the game we are developing needs to be a fully functioning game with a clear goal and an end, or if it is sufficient for us to simply implement the two required modalities.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083143",
+                                    "Author": "Lennard Feger",
+                                    "DateTime": "2024-06-24T16:26:06+02:00",
+                                    "Content": "We are also currently facing a challenge in creating a 15-minute gameplay video. We're unsure how to fill this duration effectively with engaging content. Is it okay if the video is shorter than 15 min?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083782",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-25T21:56:46+02:00",
+                                    "Content": "There is no need for gameplay to be 15 minutes - in some games, you can lose a life after less than a minute, while in others, you can walk around and look for something for a longer time. The purpose is not to create 15-minute gameplay but to create your own game so that you can explain the storyline of it, explain what two modalities you use for what in your game, and how those two modalities work together. If you go task by task and answer it in your presentation (in 3 or 15 minutes), you will be successful with this project. There is no hard limit on timing for gameplay or presentation. It is necessary that you understand tasks, explain them, show implementation, and record your presentation. Hope this helps.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083852",
+                                    "Author": "Lennard Feger",
+                                    "DateTime": "2024-06-26T09:41:38+02:00",
+                                    "Content": "Yes, thank you!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation video duration ",
+                            "Discussion_Id": "602593",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082306",
+                                    "Author": "Duaa Al-Alawi",
+                                    "DateTime": "2024-06-21T12:40:28+02:00",
+                                    "Content": "Hello, How long is the video presentation for the project supposed to be? ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083785",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-25T22:09:09+02:00",
+                                    "Content": "There is no time limit, it is important that you cover all tasks and questions given inside your presentation. So far presentations have been in between 3 and 15 minutes long, depending on topic and gameplay.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Modalities implementation",
+                            "Discussion_Id": "602808",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082636",
+                                    "Author": "Enea Gurra",
+                                    "DateTime": "2024-06-23T13:51:36+02:00",
+                                    "Content": "Hello,  Our group has come up with a simple game idea where the player dodges incoming objects by moving in four directions, with an optional shooting feature. We have discussed the modalities we want to implement but we are now a bit conflicted.  We first thought of using the keyboard for the haptic modality (allowing the player to move up and down) and voice commands for the auditory modality (e.g., \"move up,\" \"move down,\" \"shoot\"). However, we are uncertain if this is the right way to implement the modalities.  Another possibility we considered is having the auditory modality involve sound feedback when the player shoots and the visual modality represented by visual effects, such as a ball shooting at opponents.  Could you please clarify which approach we should take?  Best regards, Enea",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083784",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-25T22:08:04+02:00",
+                                    "Content": "Hi, both ideas can be valid option, it is just depending on who to you handle fusion and fusion in your scenarios and how do you explain them. So you can choose one, and explain it on that example. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Multiple Modalities for Game",
+                            "Discussion_Id": "602177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081687",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-06-19T16:07:00+02:00",
+                                    "Content": "Hello, Are we expected to implement a game, where we can finish the game using only keyboard, and voice is complementary? Or should we be able to finish the game using also just voice for task 2? What kind of fusion should we implement? We would be glad for a brief explaining. Thanks Best regards,  Ali",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1081936",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-20T12:02:40+02:00",
+                                    "Content": "Hi, it is not important in which part of the game you are implementing fusion, so you can choose it for yourself how it fits your gameplay the best. Imporant is that you have it in your game, and present in with reasoning in your video. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Group Building",
+                    "Forum_id": "1786049",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Group of Medientechnik Students",
+                            "Discussion_Id": "591481",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065475",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-05-01T17:08:56+02:00",
+                                    "Content": "Hey dear colleagues, During the introduction Q&A there was some potential group communication in the chat between different Medientechnik students, but I don't remember all the names. Feel free to get in touch if you are interested in building an MMI group together. :) I just thought it might be nice to meet other Medientechnik people since it is a small course of study and fellow students are hard to find throughout the bigger modules.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065528",
+                                    "Author": "Selim Gögce",
+                                    "DateTime": "2024-05-01T21:27:57+02:00",
+                                    "Content": "Hello, I also study Medientechnik and want to join your group :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065715",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-05-02T11:10:12+02:00",
+                                    "Content": "Nice :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067214",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-05-06T13:43:59+02:00",
+                                    "Content": "We are three so far but need one more member to enrole in our group =)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067356",
+                                    "Author": "Florian Imhof",
+                                    "DateTime": "2024-05-06T16:39:38+02:00",
+                                    "Content": "Hey, I am not a Medientechnik Student but I study Medieninformatik. I am also still looking for a group, do you still need a 4th member?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1068212",
+                                    "Author": "Elsa Getrud Plathe",
+                                    "DateTime": "2024-05-08T12:04:15+02:00",
+                                    "Content": "of course you would still have been very welcome! but group was full already unfortunately",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "592916",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067744",
+                                    "Author": "Florian Imhof",
+                                    "DateTime": "2024-05-07T12:51:13+02:00",
+                                    "Content": "Hey, I am Florian, Master Medieninformatik Student and I am also still looking for a group to join :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067786",
+                                    "Author": "Muaaz Chihabi",
+                                    "DateTime": "2024-05-07T13:47:40+02:00",
+                                    "Content": "wir haben noch 1 Platz frei Gruppe 23",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067883",
+                                    "Author": "Florian Imhof",
+                                    "DateTime": "2024-05-07T16:01:01+02:00",
+                                    "Content": "Super, ich bin euch beigetreten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "platz frei",
+                            "Discussion_Id": "592955",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067792",
+                                    "Author": "Muaaz Chihabi",
+                                    "DateTime": "2024-05-07T13:52:49+02:00",
+                                    "Content": "Wir haben in der Gruppe 23 noch einen Platz frei",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 group members",
+                            "Discussion_Id": "592705",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067426",
+                                    "Author": "Lucas Rinaldo Pereira",
+                                    "DateTime": "2024-05-06T18:40:28+02:00",
+                                    "Content": "Hey,  we are 2 computer science students looking for 2 more members for the group work :) PM me if you are interested in joining us  LG",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067496",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-05-06T22:04:10+02:00",
+                                    "Content": "hey lucas,  we are also 2 computer science students and would like to join your group if its still free  lg",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Searching for last 4th member",
+                            "Discussion_Id": "592373",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066907",
+                                    "Author": "Anastasia Weiz",
+                                    "DateTime": "2024-05-05T22:02:11+02:00",
+                                    "Content": "Hello people,  we are searching for a last member for our group. Please let us know if you are searching. Text me on ISIS :)  Greetings,  Anastasia ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066925",
+                                    "Author": "Felix Tobias Schröter",
+                                    "DateTime": "2024-05-05T23:34:47+02:00",
+                                    "Content": "Hey Anastasia, I was still looking for a group & joined yours (I hope that is alright), I'll send you a private message. :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 4th member",
+                            "Discussion_Id": "592353",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066881",
+                                    "Author": "Mihail Todorov",
+                                    "DateTime": "2024-05-05T19:44:40+02:00",
+                                    "Content": "Hello, We are looking for one more person for our group. If you are still looking for a group feel free to join group 56.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for Group",
+                            "Discussion_Id": "592268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066719",
+                                    "Author": "Gurdeep Singh",
+                                    "DateTime": "2024-05-04T16:24:11+02:00",
+                                    "Content": "Hi,  I am looking for a group. Feel free to text me if space is available.   Best,  Gurdeep Singh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CS Master Student looking for a Group",
+                            "Discussion_Id": "592233",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066646",
+                                    "Author": "Leonard Moritz Hübner",
+                                    "DateTime": "2024-05-03T23:18:06+02:00",
+                                    "Content": "Hey!  I'm Leo (29 yo; with a little daughter; working as an engineering lead for NXP besides studying) & I'm looking for a group :) I study Master Computer Science and am near the end (4th Semester). I do know lot's of different programming languages (C/C++,Rust,Python,Lisp,Ruby,Idris,Haskell,...) but for the purposes of the course project I'd want to use C# (which I've never used before; is not a deal breaker though!). Generally, I guess I'm pretty experienced with programming, but have never worked with Unity before. Additionally, I'm very good with git & gitlab/github and have a fair amount of experience with regards to working in software in teams.  With regards to the project's scope, I'm looking for something not complex with the vanilla keyboard + speech modalities. I wouldn't want to join a group with larger ambitions, since I need to juggle my family & my work besides university.  I prefer to meet digitally or on fridays at the campus. Besides English, I also speak German (nativ).  Currently, I'm all alone and am looking to form a group or join an existing one. If anyone is interested, PM me on ISIS!  Best, Leo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Searching for last member ",
+                            "Discussion_Id": "591780",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065928",
+                                    "Author": "Anna-Maria Sass",
+                                    "DateTime": "2024-05-02T15:18:15+02:00",
+                                    "Content": "Hey guys, we are three people searching for our 4th motivated group member. Feel free to dm me if you're interested!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066042",
+                                    "Author": "Kijan Parvaresh",
+                                    "DateTime": "2024-05-02T18:00:00+02:00",
+                                    "Content": "Hi Anna-Maria, would love to join :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066574",
+                                    "Author": "Anna-Maria Sass",
+                                    "DateTime": "2024-05-03T18:16:01+02:00",
+                                    "Content": "Our group is now complete :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a Group",
+                            "Discussion_Id": "591909",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066139",
+                                    "Author": "Hakob Kostanyan",
+                                    "DateTime": "2024-05-02T22:47:17+02:00",
+                                    "Content": "Hi, still looking for a group, so feel free to message me  :) LG",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066423",
+                                    "Author": "Hakob Kostanyan",
+                                    "DateTime": "2024-05-03T13:43:08+02:00",
+                                    "Content": "Looking for 2 more people",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 people ",
+                            "Discussion_Id": "591900",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066123",
+                                    "Author": "Vicente Ernesto Gaete Olmos",
+                                    "DateTime": "2024-05-02T21:18:46+02:00",
+                                    "Content": "Hi  We are looking for two people for our group. Contact me via ISIS. LG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "looking for 2 people",
+                            "Discussion_Id": "591898",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066120",
+                                    "Author": "Seungcheon Lee",
+                                    "DateTime": "2024-05-02T21:07:10+02:00",
+                                    "Content": "Hello,  We are looking for two more people for the group work. Please PM me if you are interested in. LG ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "591895",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066116",
+                                    "Author": "Philip Trieschmann",
+                                    "DateTime": "2024-05-02T20:54:25+02:00",
+                                    "Content": "Hey, I am looking for a group that still needs 1 more person or people that are also searching for a group and want to form one together. Both german/english are fine. Just write me a message on ISIS :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for Teammates ",
+                            "Discussion_Id": "591877",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066082",
+                                    "Author": "Shairal Sharma",
+                                    "DateTime": "2024-05-02T19:27:59+02:00",
+                                    "Content": "Hello , I am looking for motivated people . Feel free to pm and leave you no.(if you want) so that i can add you in whatsapp.Thanks !! -Shairal ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a 4th group member",
+                            "Discussion_Id": "591747",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065878",
+                                    "Author": "Lea Charlotte Wollersheim",
+                                    "DateTime": "2024-05-02T14:12:35+02:00",
+                                    "Content": "Hey Everyone, we are a group of three and are looking for a fourth person to join us :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066081",
+                                    "Author": "Max Henri Julian Hiort",
+                                    "DateTime": "2024-05-02T19:26:00+02:00",
+                                    "Content": "Hey, i would like to join your group if the spot is still free!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 group members",
+                            "Discussion_Id": "591860",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066054",
+                                    "Author": "Batuhan Hakan Erdem",
+                                    "DateTime": "2024-05-02T18:23:39+02:00",
+                                    "Content": "We're looking for 2 motivated group members.  Feel free to contact me via ISIS.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LFG",
+                            "Discussion_Id": "591827",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065999",
+                                    "Author": "Barkin Can Karatay",
+                                    "DateTime": "2024-05-02T16:57:11+02:00",
+                                    "Content": "Hi, master's student here looking for a group. feel free to text via isis or whatsapp +491727827868 both english/german are fine :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 group members",
+                            "Discussion_Id": "591636",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065728",
+                                    "Author": "Tang Diep Nguyen",
+                                    "DateTime": "2024-05-02T11:27:33+02:00",
+                                    "Content": "We're looking for 2 motivated group members.  Feel free to contact me via ISIS.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "591161",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064985",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-04-30T12:07:47+02:00",
+                                    "Content": "Looking for a motivated group that wouldn't drop the course :) Just write here or pm ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064999",
+                                    "Author": "Yagiz Günes Teker",
+                                    "DateTime": "2024-04-30T12:21:46+02:00",
+                                    "Content": "Hi. I am also looking for a group. Is there still an empty slot?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590942",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064652",
+                                    "Author": "Nicolas Guillaume Camerlynck",
+                                    "DateTime": "2024-04-29T17:20:20+02:00",
+                                    "Content": "Hey everyone, I'm still looking for a group, I'm a masters student with plenty of programming knowledge. Feel free to pm me if interested!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group of 3 ",
+                            "Discussion_Id": "590809",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064456",
+                                    "Author": "Jens Simon Schrammek",
+                                    "DateTime": "2024-04-29T14:25:08+02:00",
+                                    "Content": "We are a group of 3 people, who are looking for a last member.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064481",
+                                    "Author": "Tazio Faha",
+                                    "DateTime": "2024-04-29T14:39:57+02:00",
+                                    "Content": "Hello Jens, I would like to join your Team  Best,  tazio",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 group members",
+                            "Discussion_Id": "590533",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064034",
+                                    "Author": "Lin Sum Cheung",
+                                    "DateTime": "2024-04-28T19:31:47+02:00",
+                                    "Content": "Hi, We're looking for 2 motivated group members. If you're interested, please text me per isis. :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064436",
+                                    "Author": "Lin Sum Cheung",
+                                    "DateTime": "2024-04-29T14:08:48+02:00",
+                                    "Content": "We´re full now. :D",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for Group",
+                            "Discussion_Id": "590786",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064421",
+                                    "Author": "Tim Seeger",
+                                    "DateTime": "2024-04-29T14:00:13+02:00",
+                                    "Content": "Hey, I am looking for a group that still needs 1 more person or people that are also searching for a group and want to form one together. Both german/english are fine. Just write me a message on ISIS :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064403",
+                                    "Author": "Stefan Severin",
+                                    "DateTime": "2024-04-29T13:45:13+02:00",
+                                    "Content": "Hey I'm looking for a group to join :) Any Medieninformatik or other students looking? :) Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group ",
+                            "Discussion_Id": "590774",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064402",
+                                    "Author": "Advait Vinod",
+                                    "DateTime": "2024-04-29T13:44:46+02:00",
+                                    "Content": "Hey,  I am looking to be part of an existing group or to create a new one with motivated members. DM me per ISIS in either of the cases.   VG, Advait Vinod ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590499",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063974",
+                                    "Author": "Sandra Pia Zinnendorf",
+                                    "DateTime": "2024-04-28T14:12:59+02:00",
+                                    "Content": "Hey, I'am looking for a group if someone else is looking or if there is a free space, please contact me here of on Isis directly VG, Sandra",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063984",
+                                    "Author": "Julia Marie Schramm",
+                                    "DateTime": "2024-04-28T15:34:06+02:00",
+                                    "Content": "Hi Sandra, I am also looking for a group. If you want to form one, contact me via ISIS or whatsapp: +49173 9969174.  VG, Julia",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063987",
+                                    "Author": "Sandra Pia Zinnendorf",
+                                    "DateTime": "2024-04-28T15:52:42+02:00",
+                                    "Content": "Sure, I sent you an invite Link",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064001",
+                                    "Author": "Raiyan Mahmud Tanim",
+                                    "DateTime": "2024-04-28T16:40:28+02:00",
+                                    "Content": "Hey, I am also looking for a group. If you have a slot left, would you add me?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064300",
+                                    "Author": "Shairal Sharma",
+                                    "DateTime": "2024-04-29T11:34:06+02:00",
+                                    "Content": "Hey , Do you guys have still a place for me :) VG ,Shairal",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group ",
+                            "Discussion_Id": "590525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064024",
+                                    "Author": "Anna Sergeeva",
+                                    "DateTime": "2024-04-28T18:50:16+02:00",
+                                    "Content": "Hey, I'm looking for a group:) whats app/telegram +491779589676",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064032",
+                                    "Author": "Raiyan Mahmud Tanim",
+                                    "DateTime": "2024-04-28T19:24:01+02:00",
+                                    "Content": "Hi, I am also looking for a group. Would you like to team up?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2 Group members",
+                            "Discussion_Id": "590516",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064008",
+                                    "Author": "Carla Victoria Matthews",
+                                    "DateTime": "2024-04-28T17:12:40+02:00",
+                                    "Content": "Hi, we are Bachelor Informatik students and are looking for two more group members. If you're interested just reply to the post :) Greetings, Carla and Pia",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064018",
+                                    "Author": "Irem Kement",
+                                    "DateTime": "2024-04-28T17:56:53+02:00",
+                                    "Content": "I'd like to join if your group isn't full yet :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064023",
+                                    "Author": "Carla Victoria Matthews",
+                                    "DateTime": "2024-04-28T18:45:18+02:00",
+                                    "Content": "Hi, sorry we are full already. Good luck with your search :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche Gruppe ",
+                            "Discussion_Id": "590410",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063830",
+                                    "Author": "Pascal Dohmeier",
+                                    "DateTime": "2024-04-27T12:01:01+02:00",
+                                    "Content": "Hi, ich suche auch noch eine Gruppe oder Mitstudierende die eine gründen wollen. Schreibt mir gerne hier bei ISIS :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063901",
+                                    "Author": "Maxim Lion Strzebkowski",
+                                    "DateTime": "2024-04-27T19:04:02+02:00",
+                                    "Content": "Hey, ich suche auch noch eine Gruppe. Wir können gerne gemeinsam eine Gründen!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590446",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063882",
+                                    "Author": "Tanem Basaraner",
+                                    "DateTime": "2024-04-27T16:02:35+02:00",
+                                    "Content": "Hi everyone! I am looking for group members. I have worked with unity for a few projects already :)  Thanks!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group member [Ger/Eng]",
+                            "Discussion_Id": "590231",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063567",
+                                    "Author": "Mustafa Tugra Turna",
+                                    "DateTime": "2024-04-26T14:11:02+02:00",
+                                    "Content": "Hey guys, we are already a group of 3 and are looking for an additional group member. If you are motivated, reliable and willing to contribute to the group assignments (especially the unity project), you are invited to join our group by writing me a message on ISIS. Best,  Tugra",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063797",
+                                    "Author": "Mustafa Tugra Turna",
+                                    "DateTime": "2024-04-27T09:03:16+02:00",
+                                    "Content": "Our group is now complete, thank you.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "looking for a group",
+                            "Discussion_Id": "590264",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063618",
+                                    "Author": "Wensheng Cai",
+                                    "DateTime": "2024-04-26T15:44:22+02:00",
+                                    "Content": "hi everyone, I'm still searching for a group to join.  If you're looking for members, please feel free to text me.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590018",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063267",
+                                    "Author": "Yanqing Luo",
+                                    "DateTime": "2024-04-25T22:31:45+02:00",
+                                    "Content": "Hi all, I am looking for a group, if there's still slot in your group or you want to build a new group with me. Please just DM me. Best, Yanqing",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063595",
+                                    "Author": "Junling Yi",
+                                    "DateTime": "2024-04-26T15:05:57+02:00",
+                                    "Content": "We already have three and need one more, feel free to contact us!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590176",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063487",
+                                    "Author": "Seungcheon Lee",
+                                    "DateTime": "2024-04-26T12:26:33+02:00",
+                                    "Content": "Hello, Im still looking for a group or other people to make a group for exercises. Please PM me on ISIS if you are interested.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063545",
+                                    "Author": "Inci Burcu Emeksiz",
+                                    "DateTime": "2024-04-26T13:46:41+02:00",
+                                    "Content": "Hey we are two people do you wanna join ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for two group members",
+                            "Discussion_Id": "590167",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063477",
+                                    "Author": "Desara Hoxha",
+                                    "DateTime": "2024-04-26T12:10:24+02:00",
+                                    "Content": "Hello, We are a group of two and we are looking for two other members to join our group and work on the homework together. Let us know if you are interested. Thank you!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063499",
+                                    "Author": "Philip Trieschmann",
+                                    "DateTime": "2024-04-26T12:46:51+02:00",
+                                    "Content": "Hello, i am still searching for a group, is one place left?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063509",
+                                    "Author": "Ori Toledo Cohen",
+                                    "DateTime": "2024-04-26T13:02:29+02:00",
+                                    "Content": "Sent you a message",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063544",
+                                    "Author": "Inci Burcu Emeksiz",
+                                    "DateTime": "2024-04-26T13:45:13+02:00",
+                                    "Content": "Hey, we are also group of two can we join ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 group members",
+                            "Discussion_Id": "590069",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063336",
+                                    "Author": "Elias Marian Von Brunn",
+                                    "DateTime": "2024-04-26T09:39:59+02:00",
+                                    "Content": "Hi,  we are already 2 and are looking for 2 more members for our group, if you want to join feel free to pm me on ISIS or comment here :)   Have a nice day  Elias",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063442",
+                                    "Author": "Ori Toledo Cohen",
+                                    "DateTime": "2024-04-26T11:40:29+02:00",
+                                    "Content": "sent you a message :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063476",
+                                    "Author": "Elias Marian Von Brunn",
+                                    "DateTime": "2024-04-26T12:07:28+02:00",
+                                    "Content": "It is already full :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking to join or create a group",
+                            "Discussion_Id": "590007",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063250",
+                                    "Author": "Konstantinos Zamanis",
+                                    "DateTime": "2024-04-25T21:27:51+02:00",
+                                    "Content": "Hey guys ,  i'm also looking for a group for MMI , send me a pm on ISIS if you want me to join your group or to join me and create a group from scratch LG Konstantinos",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063419",
+                                    "Author": "Konstantinos Zamanis",
+                                    "DateTime": "2024-04-26T11:17:34+02:00",
+                                    "Content": "Group is full now, thank you",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group ",
+                            "Discussion_Id": "590045",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063303",
+                                    "Author": "Benjamin Johannes Pfundstein",
+                                    "DateTime": "2024-04-26T08:05:12+02:00",
+                                    "Content": "Hi everyone,  I'm still searching for a group to join. If you're looking for an additional member, please feel free to text me here. Im motivated to connect and contribute.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a motivated group",
+                            "Discussion_Id": "590025",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063275",
+                                    "Author": "Mohamad Bassel Fatloun",
+                                    "DateTime": "2024-04-25T23:29:46+02:00",
+                                    "Content": "I am looking for a motivated group of people who are reliable and want to meet early on to work on the homeworks. Dm me pls on isis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group ",
+                            "Discussion_Id": "589992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063226",
+                                    "Author": "Rafael Christof Zwiener",
+                                    "DateTime": "2024-04-25T19:58:36+02:00",
+                                    "Content": "Hi, I'm looking for a group, if someone is interested hit me up :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063256",
+                                    "Author": "Ori Toledo Cohen",
+                                    "DateTime": "2024-04-25T21:43:16+02:00",
+                                    "Content": "Sent you a message :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for two groupmembers",
+                            "Discussion_Id": "589918",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063112",
+                                    "Author": "Ella Friederike Bredow",
+                                    "DateTime": "2024-04-25T16:37:01+02:00",
+                                    "Content": "Hi, we are already two people and are looking for two more to join us so if you're interested PM me on Isis :D Have a nice day Ella",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063213",
+                                    "Author": "Ella Friederike Bredow",
+                                    "DateTime": "2024-04-25T19:26:15+02:00",
+                                    "Content": "The group is now full",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "suche 2 Personen",
+                            "Discussion_Id": "589935",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063142",
+                                    "Author": "Nikolaos Savvidis",
+                                    "DateTime": "2024-04-25T17:12:44+02:00",
+                                    "Content": "Hey, wir sind schon 2 Personen und suchen wir noch 2, um eine Grupe zu bilden. Wir haven kleine Erfahrung mit Unity aber sind schon sehr motiviert! Ihr könnt gerne hier antworten oder ein PM in Isis schicken :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppensuche(ich bin sehr gut in Unreal engine)",
+                            "Discussion_Id": "588450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060826",
+                                    "Author": "Muaaz Chihabi",
+                                    "DateTime": "2024-04-22T14:20:02+02:00",
+                                    "Content": "ich suche eine Gruppe ich habe sehr gute Erfahrung in unreel engine  PM LG",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063005",
+                                    "Author": "Muaaz Chihabi",
+                                    "DateTime": "2024-04-25T14:14:10+02:00",
+                                    "Content": "jetzt sind wir voll",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zwei Gruppenmitglieder gesucht ",
+                            "Discussion_Id": "589626",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062676",
+                                    "Author": "Samuel Karras",
+                                    "DateTime": "2024-04-25T03:02:28+02:00",
+                                    "Content": "Hallo, ich und ein Kollege suchen noch zwei Leute für eine Gruppe. Gerne einfach per Isis :)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1062940",
+                                    "Author": "Markos Kontogiorgos",
+                                    "DateTime": "2024-04-25T13:09:28+02:00",
+                                    "Content": "Hi, ich und ein Mitstudent suchen auch zwei Leute für die Gruppe, meine Nummer lautet +306970997544 lass eine Gruppe per whats App erstellen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Organization Forum",
+                    "Forum_id": "1786050",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "2nd written exam time",
+                            "Discussion_Id": "605330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086259",
+                                    "Author": "Anastasia Weiz",
+                                    "DateTime": "2024-07-03T16:59:37+02:00",
+                                    "Content": "Hello, I ask the following question because of organizational reasons. Can you please tell us if we write the 2nd written exam on the 25th of july at a similar time (between 8 and 10 am)? On ISIS there is the time written between 8 and 10 am but it says TBC.  Best regards,  Anastasia",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1086660",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-07-04T17:31:52+02:00",
+                                    "Content": "Hi,  I can confirm that according to all the information and plans that I have for this semester, it should take place as stated on the 25th of July between 8 and 10 (groups will be inverted this time, so the group that was starting at 8am will start at 9am and other way around).  I hope this information helps you with the organization.  Best,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1087163",
+                                    "Author": "Anastasia Weiz",
+                                    "DateTime": "2024-07-07T13:56:06+02:00",
+                                    "Content": "Thank you! Yes it helped :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unix Pool",
+                            "Discussion_Id": "598811",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076828",
+                                    "Author": "Chiara Blickwedel",
+                                    "DateTime": "2024-06-04T11:46:20+02:00",
+                                    "Content": "Hello, is there anything organisational we need to do to access the computers in the unix Pool? I have never been there and have heard from other students, that you get login information, when you get there the first time? Just wanted to make sure, since it would be a shame if i couldn't write the exam because of missing log in information :(",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077083",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-04T21:20:54+02:00",
+                                    "Content": "For the test, you will use the same login to access this ISIS course, so nothing additional is needed. This is different from the normal usage of Unixpool, as the full room is fully booked for us, and the computers are set in \"exam mode.\" ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077095",
+                                    "Author": "Chiara Blickwedel",
+                                    "DateTime": "2024-06-04T23:29:36+02:00",
+                                    "Content": "okay, thank you very much for clearing that up for me!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Are there alternative dates for writing the exams?",
+                            "Discussion_Id": "586891",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058357",
+                                    "Author": "Darius Pascal Becker",
+                                    "DateTime": "2024-04-17T14:05:13+02:00",
+                                    "Content": "Hello dear MMI team, will there be alternative dates at which we can write the exam? Best regards, Darius Becker",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1058387",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-17T14:27:20+02:00",
+                                    "Content": "Dear Darius, There are no alternative dates for it. In case of sickness, the student must provide documentation from a doctor and will be provided with an additional oral examination instead of a written test. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1075783",
+                                    "Author": "Dominique Julien Rustler",
+                                    "DateTime": "2024-05-31T12:19:14+02:00",
+                                    "Content": "Hello, I have the problem that I have another exam at the exact same time as the second test. Is there really no alternative?  Best regards, Dominique",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076187",
+                                    "Author": "Michelangelo Kozon",
+                                    "DateTime": "2024-06-02T20:27:47+02:00",
+                                    "Content": "Hi, I also have another exam at the same time (Cognitive Algorithms). We need some form of alternative.  Thanks, Michelangelo",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077079",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-04T21:10:29+02:00",
+                                    "Content": "Dear all, There are no alternative dates planned. However, being sick or having another exam/test on the same day are two situations that can be excused. In both cases, you need to send me an email and provide me with proof that you were sick (doctor's note) or that you took the other test on the same day. Please send these proofs individually to my email (tanja.kojic@tu-berlin.de). Best regards, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Skript",
+                            "Discussion_Id": "593777",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069083",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-05-11T18:41:36+02:00",
+                                    "Content": "Hello, is there a script to study for the topics other than the provided videos?  Thanks",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070839",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-16T11:44:02+02:00",
+                                    "Content": "Hi, for this course there is no script and videos and your own research are the main learning method. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Missed moses registration deadline",
+                            "Discussion_Id": "592773",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067532",
+                                    "Author": "Ben Richter",
+                                    "DateTime": "2024-05-07T01:27:04+02:00",
+                                    "Content": "Hello, I didn't realise the registration deadline was this early and missed it. Is there any chance to still participate?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067678",
+                                    "Author": "Batuhan Hakan Erdem",
+                                    "DateTime": "2024-05-07T11:15:07+02:00",
+                                    "Content": "I also missed the deadline for registration. I hope there's still a chance, as I already have a group",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067690",
+                                    "Author": "Isabella Benser",
+                                    "DateTime": "2024-05-07T11:32:57+02:00",
+                                    "Content": "Unfortunately me too. I also already have a group and hope that there is still a chance to participate.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1068204",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-08T11:49:13+02:00",
+                                    "Content": "Please, all of you in this situation, send me an email to tanja.kojic@tu-berlin.de, and we will see what we can do. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "GenAI Survey Invitation",
+                            "Discussion_Id": "592308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066792",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-05T12:06:43+02:00",
+                                    "Content": "Dear students, doctoral candidates and employees, the increasing use of Artificial Intelligence (AI) - especially Generative Artificial Intelligence (GenKI) such as ChatGPT, Midjourney, Bard and others - is changing the way we think and work, especially in higher education. We, an international team of researchers, would like to know your attitudes towards integrating GenKI tools and applications into your academic learning. GenKI applications enable natural conversations between humans and machines and offer intelligent features such as question answering, text critique, reasoning and programme planning. Their ease of use offers multiple learning opportunities with great pedagogical potential. We would be delighted if you could take a few minutes (about 10 minutes) to participate in our survey. Your opinion is important and will help us to better understand GenKI's contribution to academic learning. The survey is anonymous and your data will be treated confidentially. The information collected will be stored in anonymised form on a password-protected computer and will only be used for research purposes. Here is the link to the survey: https://befragungen.ovgu.de/GenAI/",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course withdrawel",
+                            "Discussion_Id": "591339",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065251",
+                                    "Author": "Paul Heiner Darius",
+                                    "DateTime": "2024-04-30T17:40:09+02:00",
+                                    "Content": "unfortunately, i cannot take part in the course on short notice. so, if somebody knows somebody who still wants to join, they can gladly take my place.  good luck everybody and have a great course! Paul",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065287",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-30T18:49:48+02:00",
+                                    "Content": "Everyone who filled in survey and expressed interested for MMI course was put on enrollment list, so this should not be the case. In any case, nice of you to care about other students. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration on Moses",
+                            "Discussion_Id": "590486",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063951",
+                                    "Author": "Mika Andre Laßan",
+                                    "DateTime": "2024-04-28T11:59:03+02:00",
+                                    "Content": "When trying to register on Moses, I get presented with two options: Which of these is the right one? Is there any difference to them at all?  Also, just to make sure, that is the only registration we need and the registration that is due the 3rd of May right?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064226",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-29T10:30:01+02:00",
+                                    "Content": "Hi, as they have the same ID numbers, it should cause no trouble, but anyhow our system admin is informed about this. I would personally choose one in English, but in case you haven't, it should not be a problem for your registrations as I see it. In case I will get to know differently later by admin, I will inform you all.  And yes, the deadline on 3rd of May for MOSES is the only one that you need for registration. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Report Errors",
+                    "Forum_id": "1786051",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Typo in Chapter 4",
+                            "Discussion_Id": "604266",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084715",
+                                    "Author": "Philip Ray Kolev Datchev",
+                                    "DateTime": "2024-06-28T13:29:19+02:00",
+                                    "Content": "In Chapter 4, on slide 5 perception is written as \"Perceipton\"",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1084909",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-29T15:56:10+02:00",
+                                    "Content": "Thank you for reporting!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Error on slide of Kelly-Lochbaum Structure",
+                            "Discussion_Id": "598866",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076901",
+                                    "Author": "Deniz Mert Tecimer",
+                                    "DateTime": "2024-06-04T14:02:25+02:00",
+                                    "Content": "In the video of Speech Production A, the P2+ equation is shown as \"(1+r12).P1+ + r12.P2-\". However, the r12 reflected back from P2- has a negative direction (-r12). Also as shown in the source here (https://thomaeblog.wordpress.com/modelling-of-the-vocal-tract/), the equation must be \"(1+r12).P1+ - r12.P2-\". Sincerely, Deniz Mert Tecimer",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077156",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-05T09:22:22+02:00",
+                                    "Content": "Dear Deniz, thank you for reporting this. We will check the equations on the slides and update where necessary. Best, Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

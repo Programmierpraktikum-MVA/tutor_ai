@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Innovative Mobilitätssysteme: Design Thinking",
+        "Course_id": "39186",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1822568",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Absage Modul",
+                            "Discussion_Id": "589659",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062722",
+                                    "Author": "Ricardo Ewert",
+                                    "DateTime": "2024-04-25T09:26:44+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der geringen Beteiligung in der Einführungsveranstaltung wird dieses Modul dieses Semester leider nicht angeboten.  Im kommenden Wintersemester ist das Modul jedoch wieder geplant.  Viele Grüße Ricardo Ewert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

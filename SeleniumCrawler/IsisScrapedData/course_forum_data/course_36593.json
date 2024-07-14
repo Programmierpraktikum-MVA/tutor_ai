@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Fotowettbewerb Studieren is(s)t mehr an der Fakultät IV",
+        "Course_id": "36593",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1694692",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fotoupload",
+                            "Discussion_Id": "551724",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1002898",
+                                    "Author": "Maria Barbara Fleßner-Jung",
+                                    "DateTime": "2023-10-17T13:48:11+02:00",
+                                    "Content": "Liebe Teilnehmende, uns ist ein kleiner Fehler für den Uploadlink passiert. Deshalb bekommt ihr einen Aufschub bis morgen, 18.10., um eure Bilder hochzuladen. Viel Glück!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

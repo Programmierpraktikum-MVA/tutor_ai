@@ -1,0 +1,76 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] MTV Project: Research at Work",
+        "Course_id": "38996",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1812069",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Module evaluation",
+                            "Discussion_Id": "601919",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081342",
+                                    "Author": "Andrei Aleksandrov",
+                                    "DateTime": "2024-06-18T17:42:42+02:00",
+                                    "Content": "Dear RaW participants,  as announced at the last JF, our module was chosen for teaching evaluation in this semester. The evaluation is done on a basis of a poll for students. The link to the poll is: https://befragung.tu-berlin.de/evasys/online.php?pswd=7KDK1 At the next JF (28.06), I will give you some time to complete the poll, and if you are not(!) joining the next JF, please, fill it out online using the link. I would really appreciate some feedback from you! You can change the language to English by clicking the British flag in the upper-right corner.  Regards Andrei",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Updates for the week 27.05 - 02.06",
+                            "Discussion_Id": "596805",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073820",
+                                    "Author": "Andrei Aleksandrov",
+                                    "DateTime": "2024-05-26T23:02:29+02:00",
+                                    "Content": "Dear RaW project participants,  for the incoming week, there are several updates that I want to summarize: The meeting on Tuesday is permanently moving to Zoom (the link is on ISIS homepage): there will not be another meeting in FH301! Please, do not forget that the registration deadline for the RaW project is 31st of May! Until Friday (31.06), please send me a one-page document with (1) your project title, (2) your considerations for the project with respect to the topic you have chosen and (3) a step-by-step project plan. The document is not graded and will not be used as a basis for grading later. On Friday (31.06), we will have a \"development kick-off\" where we will discuss how we proceed through the project development phase. I wish you a nice week and hope to see everyone on Friday!  Regards Andrei",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New rooms for RaW project",
+                            "Discussion_Id": "589741",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062844",
+                                    "Author": "Andrei Aleksandrov",
+                                    "DateTime": "2024-04-25T11:28:21+02:00",
+                                    "Content": "Dear RaW project participants,  starting with tomorrow (26.04.2024), we are moving into new rooms that replace now out-of-service ones in TEL. On Tuesday, we will be in FH 301 and on Friday, in MAR 4.062.  See you tomorrow in the MAR building!  Regards Andrei",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First RaW project meeting",
+                            "Discussion_Id": "585939",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057018",
+                                    "Author": "Andrei Aleksandrov",
+                                    "DateTime": "2024-04-15T12:42:57+02:00",
+                                    "Content": "Dear RaW project participants,  this is a quick reminder that the first RaW project meeting will take place tomorrow (on April 16th) at 10 a.m. in TEL 512. Hope to see everyone there!  Regards Andrei",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057264",
+                                    "Author": "Andrei Aleksandrov",
+                                    "DateTime": "2024-04-15T17:26:41+02:00",
+                                    "Content": "Dear students,  an emergency update about the tomorrow's RaW project meeting: because of a pipe failure, TEL building is now closed, which means that we cannot use the room for Tuesday's meetings. For us, it means that tomorrow, we will be doing an online meeting in Zoom. Please use the following link: https://tu-berlin.zoom.us/j/66678783848?pwd=UDFoOHE0azl4VmZoRGdHeTJWcWV0dz09  Regards Andrei",
+                                    "Response to": "p1057018"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

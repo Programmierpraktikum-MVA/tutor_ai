@@ -1,0 +1,109 @@
+[
+    {
+        "Course_Name": "Ausgewählte Kapitel der Sicherheit und Zuverlässigkeit technischer Anlagen",
+        "Course_id": "37802",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1769217",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Heute (24.06.) fällt wegen Krankheit aus",
+                            "Discussion_Id": "602889",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082766",
+                                    "Author": "Günter Becker",
+                                    "DateTime": "2024-06-24T08:28:07+02:00",
+                                    "Content": "Werte Teilnehmende, leider hat mich bereits Ende vergangener Woche ein grippaler Infekt erwischt. Über das Wochenende habe ich mich weitgehend erholt, aber heute ist meine Stimme fast weg. Da ich die zum Vortragen brauche, möchte ich die heutige Veranstaltung absagen. Wenn Sie Lust haben, schauen Sie sich im Kapitel 5 doch die Seiten über die Fehlerbaumanalyse an, besonders das Beispiel über die vereinfachte Eigenbedarfsschaltung eines Wärmekraftwerks. Viele Grüße Günter Becker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kapitel 5 des Skript hochgeladen",
+                            "Discussion_Id": "599849",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078331",
+                                    "Author": "Günter Becker",
+                                    "DateTime": "2024-06-09T23:12:31+02:00",
+                                    "Content": "Werte Teilnehmende, habe das Kapitel 5 des Skripts soeben hochgeladen. Gruß Günter Becker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exkursion MVTA",
+                            "Discussion_Id": "596209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072871",
+                                    "Author": "Harald Kruggel-Emden",
+                                    "DateTime": "2024-05-23T09:43:59+02:00",
+                                    "Content": "Liebe Studierende,  wir haben inzwischen das Ziel und den Termin für unsere Exkursion (siehe https://www.tu.berlin/mvta/studium-lehre/lehrveranstaltungen#c232077) festlegen können.  Es geht am 11. Juli in der Zeit von 9:30 Uhr – 11:30 Uhr zum Leibniz-Institut für Agrartechnik und Bioökonomie e.V. (ATB) in Potsdam.  Die Exkursion hat insbesondere einen Bezug zur Aufbereitung nachwachsender Rohstoffe.  Bei Interesse bitte unter sekretariat@mvta.tu-berlin.de anmelden.  Mit besten Grüßen,  Harald Kruggel-Emden",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Antwort Email bounced A. K.",
+                            "Discussion_Id": "588670",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061189",
+                                    "Author": "Günter Becker",
+                                    "DateTime": "2024-04-22T22:36:31+02:00",
+                                    "Content": "Werte Teilnehmende, vor ein paar Tagen hat mir einer von Ihnen eine Email geschickt mit der Bitte um Information über den Kurs. Ich habe geantwortet, aber am Wochenende meine Antwort im Spam Ordner gefunden. Der Adressat war in der Domäne tu-berlin.de unbekannt. Den Namen nenne ich lieber nicht (dem Datenschutz sei Dank). Aber die Initialen waren A. K. Dies nur, damit der Betreffende weiß, weshalb er keine Antwort bekommen hat. Viele Grüße Günter Becker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kursbeginn am 15. April; 22. April muss leider ausfallen",
+                            "Discussion_Id": "585143",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055851",
+                                    "Author": "Günter Becker",
+                                    "DateTime": "2024-04-09T14:54:48+02:00",
+                                    "Content": "Werte Teilnehmende, habe gerade die ISIS Seite für die Ausgewählten Kapitel der Sicherheit und Zuverlässigkeit technisher Anlagen eingerichtet. Ich bedanke mich für Ihr Interesse und freue mich auf die erste Veranstaltung am 15.04.2024, 16:00 c.t. (also 16:15 s.t.) Die ersten Seiten des Skripts, sowie ein Übersichtsblatt über die Veranstaltung finden Sie auf der ISIS Seite Gleichzeitig muss ich Ihnen mitteilen,, dass die Veranstaltung am 22. April in der Woche darauf leider ausfallen muss;  Bin an dem Tag auf Dienstreise. Viele Grüße Günter Becker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen und Antworten",
+                    "Forum_id": "1809579",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Zweite Musterbeispiel",
+                            "Discussion_Id": "602609",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082328",
+                                    "Author": "Lara Eckhardt Fernandez-Molina",
+                                    "DateTime": "2024-06-21T13:14:38+02:00",
+                                    "Content": "Guten Tag, ich verstehe nicht ganz die Funktionsweise dieses Systems. Warum war eine Wiederholung notwendig? Vielen Dank",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082874",
+                                    "Author": "Günter Becker",
+                                    "DateTime": "2024-06-24T11:15:42+02:00",
+                                    "Content": "Bei diesem Systen handelt es sich um ein 2-von3 System. Es hat drei Komponenten, die so zusammengeschaltet werden, dass das System funktioniert, wenn zwei beliebige Komponenten funktionieren. Der Zustand der dritten Komponente ist dabei egal für die Systemfunktion. Beispiel: Sie benötigen mindestens 100 l Wasser pro Stunde an einer gegebenen Stelle. Nun steht keine Pumpe zur Verfügung, die alleine diese Menge schafft. Zwei Pumpen, die jeweils 50 l / h fördern können würden reichen. Um die Verfügbarkeit zu erhöhen, wird eine dritte Pumpe installiert, die ebenfalls 50 l / h fördert..  Insgesamt haben sie in diesem Beispiel drei Pumpen, aber sie benötigen nur zwei. Das wäre das 2 von 3 System.  Nun soll dafür ein Zuverlässigkeitsblockdiagramm gezeichnet werden, welches die Knoten E und A genau dann mit intakten Komponenten verbindet, wenn zwei der drei Komponenten intakt sind. Man erkennt schnell, dass das ohne Wiederholungen nicht geht (einfach mal ausprobieren). Es gelingt aber ohne weiteres, wenn man (wie in der Grafik angegeben, die Komponenten mehrfach einzeichnet. Phi1 im oberen Pfad: 1 und 2 funktionieren. Phi2 darunter: 1 und 3 funktionieren etc.",
+                                    "Response to": "p1082328"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

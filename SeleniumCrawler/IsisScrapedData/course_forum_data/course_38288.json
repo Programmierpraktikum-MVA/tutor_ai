@@ -1,0 +1,268 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computer Security Seminar",
+        "Course_id": "38288",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1808873",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Today's meeting has been cancelled!",
+                            "Discussion_Id": "607242",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088971",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-07-11T15:37:46+02:00",
+                                    "Content": "As unfortunately no one is able to present today, today's meeting has been canceled. I'm sorry that I'm only able to let you know at such short notice, but the last cancellation came just a few minutes ago.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Alternative Seminar Session",
+                            "Discussion_Id": "604081",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084431",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-06-27T15:47:06+02:00",
+                                    "Content": "We have created a poll to find a date for an additional seminar session to replace the canceled session. Please select ALL dates that work for you. https://isis.tu-berlin.de/mod/choice/view.php?id=1848598 We will announce the final date on 2nd of July. Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085153",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-07-01T09:58:28+02:00",
+                                    "Content": "Please don't forget to select the dates until 23:59 today. Thanks!",
+                                    "Response to": "p1084431"
+                                },
+                                {
+                                    "Message_id": "p1086591",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-07-04T14:58:07+02:00",
+                                    "Content": "The alternative seminar session will take place on 09.07.24 at 16:00 in room E020. The speakers and I look forward to your participation in this additional session.",
+                                    "Response to": "p1085153"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching Evaluation",
+                            "Discussion_Id": "605325",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086250",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-07-03T16:37:29+02:00",
+                                    "Content": "This course was selected for the teaching evaluation this semester. You can take part in the evaluation under this link until 12.07.2024:  https://befragung.tu-berlin.de/evasys/online.php?pswd=9EVMM Written feedback at the very end of the evaluation helps me the most to improve the course. Thank you very much for participating!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Today's seminar is taking place via Zoom",
+                            "Discussion_Id": "603976",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084290",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-06-27T11:12:43+02:00",
+                                    "Content": "Today's seminar is taking place via Zoom because I caught Covid. Here is the link: https://tu-berlin.zoom.us/j/7817530438?pwd=NFRJZnpyZ3NIN2k4OHMxcXYyYWlHdz09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next week's seminar cancelled (20.06.24)",
+                            "Discussion_Id": "601196",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080301",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-06-15T10:39:40+02:00",
+                                    "Content": "Due to unforeseen events, the seminar will be canceled next week. I will get back to you as soon as we have found an alternative date. This will be the following week at the earliest.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slides of our first session are available ",
+                            "Discussion_Id": "600948",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079941",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-06-13T17:28:04+02:00",
+                                    "Content": "Computer Security Seminar Slides SS24",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentations beginning next week",
+                            "Discussion_Id": "596290",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072997",
+                                    "Author": "Christian Robert Werling",
+                                    "DateTime": "2024-05-23T13:00:14+02:00",
+                                    "Content": "Looking forward to our first two presentations next week (30.05.) by Thomas and Elias about \"Traffic Analysis\" and \"Attacks & Threats\". We will start at 16:15 in MAR 0.009.  Please note that physical attendance is required for everybody.  (If you can't make it, notify us know by mail in advance via seminar@sect.tu-berlin.de) Also, if you have any questions or concerns about your presentation, don't hesitate to contact us. See you soon, Christian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074892",
+                                    "Author": "Christian Robert Werling",
+                                    "DateTime": "2024-05-28T20:26:34+02:00",
+                                    "Content": "Due to one late drop-out and one participant being sick, we won't see each other this week just yet. Next week is no meeting either, as we had issues to find a suitable room (you can go to the TU Sommerfest instead ;))  Our first meeting will then be on June 13 (in two weeks) with Jonathan and Benedikt about Attacks & Malware and Machine Learning Applications.  See you in two weeks, Christian",
+                                    "Response to": "p1072997"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Last open seats now open for everybody else",
+                            "Discussion_Id": "590266",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063620",
+                                    "Author": "Christian Robert Werling",
+                                    "DateTime": "2024-04-26T15:48:33+02:00",
+                                    "Content": "We have five more open seats and so we enabled all remaining interested students to pick a topic and time slot. Please do so by Sunday if you would like to attend. Best, Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Two more seats assigned; more might come tomorrow at midnight",
+                            "Discussion_Id": "589205",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062015",
+                                    "Author": "Christian Robert Werling",
+                                    "DateTime": "2024-04-24T09:40:51+02:00",
+                                    "Content": "Due to drop outs, we were able to nominate two more people for the course (Mohamed and Krutarth). Please go ahead and pick a topic and presentation slot until tomorrow 23:59. After that, we might have additional seats open from people who did not pick a topic or presentation slot by that time. Best,  Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Please select your topic and a presentation slot",
+                            "Discussion_Id": "588603",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061093",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-04-22T18:27:41+02:00",
+                                    "Content": "Everyone who is part of the \"Participants\" group got a seat in this semester's seminar. You will need to select a topic and a presentation slot from 23. April 2024, 12:00 until 25. April 2024, 23:59. Please note that topic and slot selection are first come first serve.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tomorrow's intro meeting moved to Zoom",
+                            "Discussion_Id": "586785",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058216",
+                                    "Author": "Christian Robert Werling",
+                                    "DateTime": "2024-04-17T11:37:37+02:00",
+                                    "Content": "Unfortunately, due to a water damage in the TEL building, we will move tomorrow's intro meeting at 16:00 to Zoom: https://tu-berlin.zoom.us/j/64680175057?pwd=eVhJM3QwMkFsbzR3N25RcHpGdFJ2UT09 It's not clear yet whether the presentation meetings starting end of May can be in presence or online. See you tomorrow, Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Questions",
+                    "Forum_id": "1808874",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Today's session",
+                            "Discussion_Id": "605492",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086490",
+                                    "Author": "Mykhailo Klokta",
+                                    "DateTime": "2024-07-04T11:45:48+02:00",
+                                    "Content": "Will today's session also be online?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086545",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-07-04T13:34:08+02:00",
+                                    "Content": "No, it will take place in MAR.",
+                                    "Response to": "p1086490"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anyone able to switch time slots with me?",
+                            "Discussion_Id": "600804",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079737",
+                                    "Author": "Leon Suchy",
+                                    "DateTime": "2024-06-13T10:48:22+02:00",
+                                    "Content": "I'm struggling to complete my presentation because of my job and the unexpectedly high work load in other courses. Is there anyone who could switch with me? My time slot would be on the 20th (next week). I have already spoken to the organizers and they say that swapping is fine.  Thanks, Leon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentations attendance",
+                            "Discussion_Id": "589725",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062817",
+                                    "Author": "Mohamed Mohamed Abdellatif Abdelgawad",
+                                    "DateTime": "2024-04-25T11:04:40+02:00",
+                                    "Content": "Hello everybody, I would like to know if it is mandatory to attend all other presentation sessions or it is optional.  Best regards  Mohamed",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063001",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-04-25T14:10:49+02:00",
+                                    "Content": "Hey Mohamed,  attendance is mandatory, but it is okay to miss a session if you inform us in advance.  Kind regards, Niclas",
+                                    "Response to": "p1062817"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Meetings",
+                            "Discussion_Id": "589723",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062815",
+                                    "Author": "Benedikt Einar Utsch",
+                                    "DateTime": "2024-04-25T11:02:49+02:00",
+                                    "Content": "Hello, there will be no on site meeting today and the first meeting will be on 30.05, is that correct? Best regards",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062819",
+                                    "Author": "Mohamed Mohamed Abdellatif Abdelgawad",
+                                    "DateTime": "2024-04-25T11:05:36+02:00",
+                                    "Content": "Yes, I believe so.",
+                                    "Response to": "p1062815"
+                                },
+                                {
+                                    "Message_id": "p1062998",
+                                    "Author": "Niclas Kühnapfel",
+                                    "DateTime": "2024-04-25T14:08:19+02:00",
+                                    "Content": "Yes, the first meeting will be on 30.05..",
+                                    "Response to": "p1062819"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

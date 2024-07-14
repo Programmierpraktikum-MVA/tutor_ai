@@ -1,0 +1,317 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Mastermodul \"Einführung in die Bioelektronik\" (6LP)",
+        "Course_id": "38260",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1785083",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "CAD Übung 4",
+                            "Discussion_Id": "599657",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078030",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-06-07T14:56:37+02:00",
+                                    "Content": "Hallo, hier noch einmal Hinweise zur CAD Übung 4: - Die kreisförmigen Kontakte auf dem Sensorchip und auf den Chipmulden sind bei beiden Bauteilen Aufsätze mit einer Tiefe von 0,03 mm. Beim Zusammenfügen der Bauteile ist somit etwas Luft zwischen dem Sensorchip und dem Aufsatzboden. - Für Tipps zum Zusammensetzen von USB Stecker und Buchse schaut gerne in der TubCloud vorbei: https://tubcloud.tu-berlin.de/s/EXZd3tEMpH25oRW Ich würde empfehlen, zuerst den USB Stecker \"auf den Kopf zu drehen\", da er so rum mit der Buchse verbunden wird und es dann besser vorzustellen ist, wie die Verknüpfungen gesetzt werden müssen.  Für die erste Verknüpfung würde ich die blauen Kanten (markiert auf den Bildern CAD_4_Verknüpfung_1-2 und CAD_4_Verknüpfung_1-1) auswählen. Nach Bestätigung der Verknüpfung sollte der Stecker auf einer Achse fixiert sein, aber ihr könnt ihn mit der Maus noch verschieben (macht das ruhig, um die Kanten für weitere Verknüpfungen besser sichtbar zu machen; keine Sorge, wenn das erstmal komisch aussieht). Für die zweite Verknüpfung würde ich den blauen Punkt gezeigt auf CAD_4_Verknüpfung_2 und die innere, seitliche Wand des USB Steckers auswählen. Die dritte Verknüpfung \"in z-Richtung\" ist denke ich dann einfach zu festzulegen. Ihr könnt natürlich auch andere Verknüpfungen finden, solange das Bauteil am Ende aussieht wie in CAD4_Verknüpfung_fertig und in allen 3 Richtungen festgelegt ist (sprich: ihr könnt mit der Maus den USB Stecker nicht mehr aus der Buchse verschieben).  Viel Erfolg und ein schönes Wochenende! Madeline",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CAD Übung 3",
+                            "Discussion_Id": "598132",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075831",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-05-31T14:13:12+02:00",
+                                    "Content": "Hallo, hier noch einige Hinweise für die dritte CAD Hausaufgabe, die wir vorhin im Tutorium durchgegangen sind: 1.) Bitte kontrolliert nochmal, ob ihr MMGS als Einheit gesetzt habt.  2.) Die Erstellung einer Fase (die abgeschnittene Kante der Wellplatte) findet ihr bei Features unter Verrundungen. Beachtet bitte, dass nicht die Länge der Hypotenuse (5mm) dort einzutragen ist, sondern die Länge Katheten. Diese sind nicht aus der technischen Zeichnung direkt ersichtlich, bitte berechnet diese und tragt den Wert ein. 3.) Verrundungen an den Wells solltet ihr erst vornehmen, nachdem ihr die Wandung hinzugefügt habt - sonst verrundet SolidWorks die Rückseite des Wellbodens mit - das soll nicht so sein! 4.) Bei der Zeichnung: Bei der Bemaßung von Wellmittelpunkt zu Plattenkante wurde bei manchen von euch ein Radius statt einer Länge durch die intelligente Bemaßung angezeigt. Man kann statt in den Wellmittelpunkt zu klicken, den Wellrand auszuwählen - die Bemaßung sollte dann automatisch von Wellmittelpunkt zur Plattenkante gehen. Warum das bei manchen so ist, kann ich euch leider nicht sagen. Sonst als grobe Richtlinie, für alle, die heute nicht im Tutorium waren: 1.) Basis Rechteck erstellen 2.) Aufsatz Rechteck erstellen 3.) Verrundungen hinzufügen 4.) Fase hinzufügen 5.) Well erstellen 6.) Well linear kopieren (insgesamt 24 Stück) 7.) Wandung hinzufügen  8.) Verrundungen der Wells hinzufügen 9.) Zeichnung erstellen    Viel Erfolg bei der Hausaufgabe! Madeline",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neuer Veranstaltungsraum für die IV BE: Z20",
+                            "Discussion_Id": "596546",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073384",
+                                    "Author": "Mario Birkholz",
+                                    "DateTime": "2024-05-24T14:09:10+02:00",
+                                    "Content": "Liebe TeilnehmerInnen der Bioelektronik, ab nächster Woche (30. und 31.5.) werden die Vorlesungen und Übungen nicht mehr auf dem TIB-Gelände, sondern im Seminarraum Z20 in der Ackerstr. 76 durchgeführt. Viele Grüße Mario Birkholz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CAD Übung 2",
+                            "Discussion_Id": "596471",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073274",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-05-24T10:24:24+02:00",
+                                    "Content": "Hallo,  wie in der Übung vorhin besprochen unterscheidet sich das Tutorial je nach Solidworks Version. In der Tubcloud findet ihr, wie die Verrundungen bei mir im Tutorial aussehen, was, wie ich finde, besser erklärt wurde:  https://tubcloud.tu-berlin.de/s/ntWJiMcPaXBWmTx  Zudem waren häufige Fehlerquellen im Tutorium heute: 1.) Lineare Auftragung des Ringaufsatzes. Falls bei euch nicht automatisch nach \"Skizze beenden\" der Auftrag in gelb erscheint, haltet Strg gedrückt und wählt den inneren sowie äußeren Kreis aus (beide müssten blau markiert sein). Dann wählt bei dem Reiter \"Features\" \"Linear ausgetragener Aufsatz\" aus. 2.) Setzen der Mittellinie. Verbindet bitte das Ende eurer Mittellinie nicht mit einem Punkt auf eurem Ring, sondern \"setzt die Linie ins nichts\", sonst könnt ihr anschließend nicht die Bemaßung ändern. 3.) Temporäre Achsen anzeigen. Unter dem \"Augensymbol\" an der Taskleiste über eurem Bauteil könnt ihr die temporären Achsen anzeigen lassen (bei mir zweite Reihe von oben). 4.) Erstellen eines Kreismusters. Hier spezifisch neben den Verrundungen alle Bestandteile des Zylinders auszuwählen. Klickt hier bitte in das Fenster \"Features für Muster\" an. Druckt dann oben links auf den Feature Manager (kleines gelbes Bauteil Symbol). Es müsste sich rechts neben eurem Fenster eine Übersicht über eure konstruierten Bauteilbestandteile auftun. Wählt nun alle Features aus, die zum Zylinder gehören. 5.) Zeichenblatt anlegen. Bei manchen konnte man A (ANSI) Querformat nicht auswählen. Versucht bitte, das Häkchen bei \"nur Standardformate\" rauszunehmen. Bei einigen waren gar keine Formate aufrufbar. Erstellt bitte einfach ein custom Zeichenblatt mit entsprechenden Maßen.   Viele haben mir bei der letzten Übung privat auf ISIS geschrieben. Das ist natürlich auch weiterhin total in Ordnung, aber \"wenn ihr euch traut\", postet doch bitte ins Forum. Ggf. haben andere Studis ähnliche Fragen und ihr könnt euch untereinander auch schneller helfen, als ich das vielleicht kann.   Viel Erfolg :) Madeline",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abschlussreferat",
+                            "Discussion_Id": "596239",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072915",
+                                    "Author": "Mario Birkholz",
+                                    "DateTime": "2024-05-23T10:54:40+02:00",
+                                    "Content": "Liebe TeilnehmerInnen der Bioelektronik, die zur Auswahl stehenden Veröffentlichungen für das Abschlussreferat sind auf der ISIS-Seite der Veranstaltung freigeschaltet (ganz unten). Bilden Sie Teams und teilen Sie mir bis Do. nächster Woche, 12h, bitte mit, über welche Veröffentlichungen Ihr Team referieren möchte (3 Paper auswählen und mit 1-3 priorisieren). viele Grüße Mario Birkholz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgaben neu",
+                            "Discussion_Id": "596070",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072693",
+                                    "Author": "Mario Birkholz",
+                                    "DateTime": "2024-05-22T16:36:29+02:00",
+                                    "Content": "Liebe TeilnehmerInnen der Bioelektronik, wie angekündigt gibt es statt der bisherigen Übungsaufgaben ab jetzt jede Woche einen Text zum Selbststudium. Für letzte Woche wurden drei Unterkapitel aus dem Buch von Ron Pethig „Dielectrophoresis“ ausgewählt wie nun auch auf der ISIS-Seite erläutert. Es sind weder Multiple-Choicoe-Aufgaben zu lösen, noch Dateien hochzuladen, sondern lediglich der Text ist zu lesen, der wichtige Aspekte aus der Vorlesung wiederholt. Das gleiche Schema wird diese Woche angewandt werden. Für die CAD-Übung gilt natürlich weiterhin, dass Lösungsdateien hochzuladen sind: diesmal bis Freitag morgen drei Stück. Viele Grüße Mario Birkholz  PS: die angekündigte Publikation zur nachhaltigen Nutzung eines Smartphones ist inzwischen erschienen: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.2995",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CAD Übung 1",
+                            "Discussion_Id": "595148",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071254",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-05-17T12:41:46+02:00",
+                                    "Content": "Hallo, wie heute in der CAD Übung 1 besprochen für Bauteil 1 bitte nur das Tutorial bis einschließlich \"Erstellen einer Auswandung\" durchführen. Für Bauteil 2 sind alle Seiten des Tutorials relevant. Viel Erfolg! VG Madeline --------------------------- Dear all, as discussed this morning in CAD exercise 1, please only do the tutorial for the first part of the construction up to the hollowing out of the workpiece. For the second workpiece, all parts of the tutorial are relevant. Good luck!  Best Madeline",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071940",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-05-21T09:47:09+02:00",
+                                    "Content": "Hallo,  Ergänzung zur CAD Übung 1 nach den Fragen einiger Student*innen: Die Verrundungen nach der Auswandung werden anscheinend nochmal angepasst, was für das spätere Zusammenfügen der Teile nicht unwichtig ist. Wenn ihr das noch nicht gemacht habt, bitte ändert noch. Da ich euch da aber eine falsche Information gegeben habe, werde ich das nicht negativ bewerten.  LG Madeline  ------------------------------  Dear all, Addition to CAD exercise 1 following questions from some students: The fillets after hollowing out the workpiece are apparently adjusted again, which is not unimportant for the later assembly of the parts. If you haven't done this yet, please change it. However, as I have given you the wrong information, I will not assess this.  Best Madeline",
+                                    "Response to": "p1071254"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses Registration freigeschaltet",
+                            "Discussion_Id": "594833",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070767",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-05-16T10:02:11+02:00",
+                                    "Content": "Dear all, Moses registration portal has been set up for this course. Please register there asap. Best regards Peter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierenden Diskussionsforum",
+                    "Forum_id": "1785101",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "CAD Übung 8",
+                            "Discussion_Id": "605734",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086825",
+                                    "Author": "Clara Elisabeth Eckert",
+                                    "DateTime": "2024-07-05T11:12:07+02:00",
+                                    "Content": "Hallo ich habe eine Frage zur Übung 8 und zwar wir sollen ja das Balsa Holz mit PET vergleichen, was sollen wir für die Verarbeitung für Werte beim Holz einstellen? Danke im Voraus Clara",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Electrial Ordner CAD5",
+                            "Discussion_Id": "601038",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080087",
+                                    "Author": "Nele Sue Regehr",
+                                    "DateTime": "2024-06-14T10:55:52+02:00",
+                                    "Content": "Hallo, ich habe leider nach wie vor das Problem, dass der 'electrical' Ordner mit den Steckern, Kabeln und Klemmen in der Design Library nicht auftaucht, obwohl ich alle Einstellungen wie im Tutorial befolge. Hat jemand eine Idee, was ich noch versuchen könnte bzw könnte da auch beim Download des Programms etwas schief gelaufen sein? Danke schon mal",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080325",
+                                    "Author": "Sophia Horn",
+                                    "DateTime": "2024-06-15T14:13:31+02:00",
+                                    "Content": "Ich habe leider das gleiche Problem. Hast du versucht Solidworks electrical runterzuladen ? Hat bei mir nicht geklappt. Vllt liegt es daran. Hab auch schon gefühlt alles versucht.",
+                                    "Response to": "p1080087"
+                                },
+                                {
+                                    "Message_id": "p1080690",
+                                    "Author": "Stella Maria Martina Lochen",
+                                    "DateTime": "2024-06-17T12:01:09+02:00",
+                                    "Content": "Hast du das Problem inzwischen gelöst? Ich kann in der DesignLibrary zwar unter \"SOLIDWORKS\" eine Option \"Routing\" finden, aber da drin ist kein \"Electrical\". habe die Stecker auch nirgends anders gefunden. War es gleich bei dir?",
+                                    "Response to": "p1080087"
+                                },
+                                {
+                                    "Message_id": "p1081253",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-06-18T15:12:14+02:00",
+                                    "Content": "Hallo ihr drei,  Habt ihr schonmal über C:\\ProgramData\\SOLIDWORKS nachgeschaut (Aufruf heißt je nach Betriebssystem anders, ich verwende Windows), wie euer design library Ordner aussieht? Ist der routing Ordner vorhanden bzw leer?  LG Madeline",
+                                    "Response to": "p1080087"
+                                },
+                                {
+                                    "Message_id": "p1081367",
+                                    "Author": "Sophia Horn",
+                                    "DateTime": "2024-06-18T19:13:00+02:00",
+                                    "Content": "Im Routing Ordner gibt es zwei weitere Ordner, formats und system. Darin befinden sich einige Files, keines davon hat aber eine \"Electrical\" Bezeichnung.",
+                                    "Response to": "p1081253"
+                                },
+                                {
+                                    "Message_id": "p1081528",
+                                    "Author": "Stella Maria Martina Lochen",
+                                    "DateTime": "2024-06-19T11:35:37+02:00",
+                                    "Content": "Hello,  bei mir hat sich leider durch 2-malige neuinstallations und mehrfach zu verschiedenen Zeiten öffnen nichts getan. Der routing-Ordner ist nicht leer, aber electrical ist nicht drin. Auch nicht, wenn ich die Hidden Items aktiviere. Gibts noch Vorschläge? Kann man, wenn es bis Donnerstag nicht klappt, eine Fristverlängerung oder andere Aufgabe bekommen?  Ich werde es heute abend noch einmal auf einem anderen PC versuchen.  LG Stella",
+                                    "Response to": "p1081253"
+                                },
+                                {
+                                    "Message_id": "p1081381",
+                                    "Author": "Nele Sue Regehr",
+                                    "DateTime": "2024-06-18T20:27:12+02:00",
+                                    "Content": "Ich habe SolidWorks noch ein mal komplett neu Installiert und jetzt habe ich auch den electrical Ordner (ohne Solidworks Electrical extra herunterzuladen, dazu bräuchte man eine weitere Lizenz)...",
+                                    "Response to": "p1080087"
+                                },
+                                {
+                                    "Message_id": "p1081393",
+                                    "Author": "Nele Sue Regehr",
+                                    "DateTime": "2024-06-18T21:29:58+02:00",
+                                    "Content": "Ich hab Solidworks geschlossen und später neu geöffnet, weil mein Bauteil noch nicht fertig war und dann war die Design Library inklusive des electrical Ordners wieder weg -.-",
+                                    "Response to": "p1081381"
+                                },
+                                {
+                                    "Message_id": "p1081396",
+                                    "Author": "Nele Sue Regehr",
+                                    "DateTime": "2024-06-18T21:56:01+02:00",
+                                    "Content": "OK ich habs. Ich verlinke hier mal was, da ist echt gut beschrieben wie man den Ordner wiederfindet. Die file location geht wohl mal verloren, sodass die Design Library nicht auftaucht.  https://www.goengineer.com/blog/getting-started-solidworks-design-library#:~:text=Many%20times%2C%20especially%20during%20a,Design%20Library%20and%20click%20Add  Unter 'What if I do not see my design library folder?' wirds erklärt. Wichtig: Das mit dem versteckten Program Data Ordner, dass man die verstecken Option für den Ordner deaktivieren muss",
+                                    "Response to": "p1081393"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CAD Übung 4",
+                            "Discussion_Id": "600608",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079431",
+                                    "Author": "Nele Sue Regehr",
+                                    "DateTime": "2024-06-12T14:01:19+02:00",
+                                    "Content": "Hallo Alle, ich habe ein kleines Verständnisproblem zur CAD 4 Übung. Unsere Sensoren sind 0,7 mm breit (+0,03 mm diese 4 Nupsis). Die Bohrungen im Gehäuse sind 0,3 mm tief (-0,03 mm die Nupsis). Die Sensoren, wenn Nupsi auf Nupsi liegt, schauen also 0,46 mm aus dem Gehäuse raus. Die Wandung unserer Wellplatte ist aber 1 mm dick und die Bohrung an den Wellböden dementsprechend auch. Heißt aber, dass die Bohrungen in der Wellplatte nicht komplett von den Sensoren ausgefüllt werden und somit Kuhlen in den Wellböden übrig bleiben, soll das so? Ich bin gerade an dem Punkt, Gehäuse, Sensoren und Wellplatte zusammenzufügen, aber da bleibt immer irgendwo eine Lücke zwischen den Bauteilen oder eben eine Kuhle in den Wells. Bin etwas ratlos, wie die Teile denn nun richtig verbunden werden, sprich, welche Kanten ich im Assembly miteinander verknüpfen soll... Wie habt ihr das so gemacht bzw weiß jemand was dazu wie es aussehen soll? Danke schon mal :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Well Plate- Maße, Verrundungen",
+                            "Discussion_Id": "598493",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076381",
+                                    "Author": "Stella Maria Martina Lochen",
+                                    "DateTime": "2024-06-03T12:01:54+02:00",
+                                    "Content": "Hi :) Wo kann man die Abmessungen für die Well-Platte finden? Ich habe bisher eine Vorlage online gefunden, die allerdings keine Verrundung auf dem Well-Boden enthält und auch des Weiteren undeutlich ist. In einer Ankündigung mit Infos für Leute, die nicht in der Übung waren, steht etwas von einer Vorlage. Wo findet man die? Dazu wären Tipps zur Verrundung des Well-Bodens hilfreich, da diese bei mir \"zu rund\" ausfällt und ich nicht sehe, wie ich die Verrundung etwas weiter in die Ecken hineinziehen kann. Grüße Stella",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076939",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-06-04T15:18:18+02:00",
+                                    "Content": "Hi Stella,  welche Ankündigung meinst du? Ich verstehe nicht ganz, was du da mit Vorlage meinst. Prinzipiell sind alle Angaben im PDF File Mikrotiterplatte_bemaßt gegeben, was du auf ISIS unter der CAD 3 Abgabe findest. Die Verrundung der Wellböden sind dort auch angegeben (zwei verschiedene Radien sind angegeben bei der Wellplatte, daraus ableitbar).  VG Madeline",
+                                    "Response to": "p1076381"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeichnung Beschriftungsfeld",
+                            "Discussion_Id": "597493",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074894",
+                                    "Author": "Stella Maria Martina Lochen",
+                                    "DateTime": "2024-05-28T20:42:35+02:00",
+                                    "Content": "Hallo, wie kann man bei dem Zeichnungsblatt die Schriftgröße der Beschriftung unten rechts, des \"Titels\", ändern? Würde mich sehr über eine Antwort freuen.  Stella :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074976",
+                                    "Author": "Madeline Joann Sabine Altmann",
+                                    "DateTime": "2024-05-29T09:30:52+02:00",
+                                    "Content": "Guten Morgen Stella,  allgemein kann die Schriftgröße unter Optionen > Dokumenteigenschaften > Bemaßung umgestellt werden. Wenn du nur den Titel formatieren möchtest, geht das so: \"Rechtsklick irgendwo auf dem Zeichenblatt > Blattformat bearbeiten\". In diesem Modus kannst du dann mit Doppelklick den Titel auswählen. Es sollte links sich das Fenster \"Bezugshinweis\" auftun sowie eine Formatierungsleiste mit Schriftart, -größe usw über dem ausgewählten Text erscheinen. Nachdem du fertig bist und mit dem grünen Haken links die Formatierung angenommen hast, musst du um die Formateditierung zu verlassen \"Rechtslick irgendwo auf dem Zeichenblatt > Blatt bearbeiten\" auswählen.  LG Madeline",
+                                    "Response to": "p1074894"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teams Abschlussreferat",
+                            "Discussion_Id": "596843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073867",
+                                    "Author": "Arman Jafarizadeh",
+                                    "DateTime": "2024-05-27T08:55:28+02:00",
+                                    "Content": "Hey, gibt es noch Teams denen eine Person fehlt? Bin derzeit noch nicht in nem Team. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073874",
+                                    "Author": "Lennart Detlef Schulze",
+                                    "DateTime": "2024-05-27T09:08:12+02:00",
+                                    "Content": "Moin,  ich hab auch noch kein Team, wenn wir noch jemanden finden, könnten wir ja noch eins auf machen.",
+                                    "Response to": "p1073867"
+                                },
+                                {
+                                    "Message_id": "p1073955",
+                                    "Author": "Max Christian Lohmann",
+                                    "DateTime": "2024-05-27T10:41:09+02:00",
+                                    "Content": "Hi,  habe auch noch kein Team, wir könnten noch eins aufmachen.",
+                                    "Response to": "p1073874"
+                                },
+                                {
+                                    "Message_id": "p1073995",
+                                    "Author": "Arman Jafarizadeh",
+                                    "DateTime": "2024-05-27T11:12:11+02:00",
+                                    "Content": "Können wir gerne machen :)",
+                                    "Response to": "p1073955"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CAD Übung 1 Rundungsradius der Bauteile",
+                            "Discussion_Id": "595496",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071852",
+                                    "Author": "Lennart Detlef Schulze",
+                                    "DateTime": "2024-05-20T22:13:40+02:00",
+                                    "Content": "Hallo,  ist bei der Übung noch jemandem aufgefallen, dass die Rundungsradien am Objektiv (angegeben mit 5 mm) und Gehäuse (angegeben 10 mm) unterschiedlich sind? Beim Bauteile Zusammenfügen sieht das natürlich total unschön aus. Hab jetzt beide auf 5 mm gestellt. Denkt ihr, das ist so okay?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

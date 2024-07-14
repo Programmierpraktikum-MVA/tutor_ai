@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Seminar Hochspannungstechnik und Energieübertragung SoSe24",
+        "Course_id": "37691",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767870",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Nachtrag zu Vakuumschalter und CleanAir",
+                            "Discussion_Id": "603645",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083845",
+                                    "Author": "Felix Rösch",
+                                    "DateTime": "2024-06-26T09:20:29+02:00",
+                                    "Content": "Liebe Seminarler, noch ein wichtiger Nachtrag zum gestrigen Vortrag über Vakuumschalter. Aus dem Vortrag ging hervor, dass Vakuumschalter mit Clean-Air gefüllt werden. Das ist nicht der Fall. Vakuumschalter müssen kaskadiert werden um die höheren Spannungen schalten zu können, dabei können treten die Asymmetrien der Spannungsaufteilung auftreten usw. CleanAir wird hier mehr als Schlagwort benutzt.   Also bitte merkt Euch nicht das Falsche! Das ist mir wichtig. Bei weiteren Fragen, könnt Ihr Euch gern bei mir melden.  Liebe Grüße, Felix",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Veranstaltung findet dienstags statt",
+                            "Discussion_Id": "585907",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056968",
+                                    "Author": "Felix Rösch",
+                                    "DateTime": "2024-04-15T11:46:56+02:00",
+                                    "Content": "Liebe Studis, fehlerhafterweise stand bis vor kurzem in diesem ISIS-Kurs, dass die Veranstaltung donnerstags statt findet. Die Veranstaltung findet aber planmäßig am Dienstag statt. Entschuldigt den Fehler.  Ich hoffe wir können uns morgen zum ersten Termin alle im EMH260 um 12:15 Uhr sehen. Liebe Grüße, Felix Rösch",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Studentische Arbeiten in der Bauinformatik",
+        "Course_id": "39053",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1814486",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einladung Vortrag: Dienstag, 25.06., 10:30 Uhr, Thema: \"Herausforderungen in der Digitalisierung der Bauplanung\"",
+                            "Discussion_Id": "603083",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083027",
+                                    "Author": "Maximilian Sternal",
+                                    "DateTime": "2024-06-24T14:15:51+02:00",
+                                    "Content": "Liebe Studierende,  Ihr seid herzlich eingeladen zum morgigen Vortrag (Di, 25.06., 10:30Uhr) mit dem Titel \"Herausforderungen in der Digitalisierung der Bauplanung\". Dr. Bernold Kraft ist Leiter der Abteilung Digitalisierung und BIM Technologie der INROS LACKNER SE, einem großen deutschen Ingenieurbüro. Herr Dr. Kraft war lange Jahre wissenschaftlicher Mitarbeiter am Fachgebiet Bauinformatik und hat 2016 an der TU Berlin promoviert.  Der Vortrag findet in Seminar Raum R 309 TIB-25 (bei FG Straßenplanung, über SiWaWi) statt.  VG Euer Fachgebiet Bauinformatik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Kolloquium Bauinformatik | 30.5. | 14 Uhr",
+                            "Discussion_Id": "595625",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072057",
+                                    "Author": "Maximilian Sternal",
+                                    "DateTime": "2024-05-21T12:42:32+02:00",
+                                    "Content": "Liebe Studierende,  hiermit lädt das Fachgebiet Bauinformatik alle Interessierten zum 2. Kolloquium in 2024 ein, am nächsten Donnerstag, den 30. Mai, um 14 Uhr in der Bibliothek des Fachgebietes. Folgende Zwischen- und Abschlusspräsentationen sind geplant:   Antonio Carlone \"Identifikation signifikanter Kanten in Polygonen\" (Projektarbeit)   Noah Lerch \"Visualisierung von Versions- und Bindungsgraphen in objekt-orientierten Bauwerksmodellen\" (Projektarbeit)    Leonard Mondry \"Algorithmen und Implementierungen zur Bestimmung der konvexen Hülle einer Punktmenge im 3D\" (Zwischenpräsentation)   Maria Dworzynska \"Comparative Study of Open Source 3D Tools for Spatial Modeling and Graph Visualization in Civil Engineering\" (Zwischenpräsentation)  Im Anschluss gibt es mit allen Anwesenden die Möglichkeit zur Diskussion der präsentierten Ergebnisse und zukünftiger Themenfelder für Arbeiten in der Bauinformatik. Liebe Grüße,  Euer Fachgebiet Bauinformatik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

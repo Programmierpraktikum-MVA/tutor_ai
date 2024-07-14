@@ -1,0 +1,316 @@
+[
+    {
+        "Course_Name": "[INET] Cryptocurrency and Blockchain Networks Seminar [SoSe 2024]",
+        "Course_id": "37116",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1747529",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Peer-reviews",
+                            "Discussion_Id": "604884",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085650",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-07-02T09:52:46+02:00",
+                                    "Content": "Dear all,   You should have just received an email from easychair, with review of your colleagues on your paper.  Please update your current survey based on these reviews, and send the final version of your survey by 15th July.  Please don't forget to also register for the seminar in MOSES as well in the meantime.   Best regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important: Registration via MOSES",
+                            "Discussion_Id": "604605",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085224",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-07-01T11:37:33+02:00",
+                                    "Content": "Dear all,   The Deadline for MOSES registration is: 14.07.2024 23:59. This registration is mandatory if you want your grade to be recorded for this seminar.  Recommended way to register (if you are taking the seminar as a standalone course) Current Topics in Cryptocurrency and Blockchain Networks Alternatively if you know you need the following module instead you can register for it (please register for it only if you are sure you need it): Network Architectures - Bachelor Praxis   Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1085235",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-07-01T11:51:41+02:00",
+                                    "Content": "(link is corrected, the correct one is: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41058&version=1&sprache=2)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Examination opening date+ grades until now + best survey/presentation",
+                            "Discussion_Id": "603211",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083245",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-24T19:49:00+02:00",
+                                    "Content": "Dear all,  Just to let you know, the Moses registration will open on 1st of July.  Furthermore, if you are interested in your grades until now (the first 20%) please write me an email. I want to send your grades individually, so I can give you individual comments, rather than just a grade. In general, those who have participated in all activities on time until now, have received at least 16% of points. In particular, everyone who attended today's brainstorming session did a great job. Thanks for that.  Also, like last semesters, we would give 5 extra points to the best survey and best presentation. So you would be able to recover points, if needed :)  Best, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TODAY's Session Is Online",
+                            "Discussion_Id": "602885",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082761",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-24T08:24:23+02:00",
+                                    "Content": "Dear all,  Sorry for the short notice, but today's session will be fully online over zoom. I just got back from a conference late last week, and during the weekend I was struggling with symptoms that I now believe might be due to a type of flu. Although my coughing had slowed down by this morning, but in order to stop the possible chain of infection, it might be best to hold today's meeting online.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Review assignment",
+                            "Discussion_Id": "601686",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081040",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-18T08:23:44+02:00",
+                                    "Content": "Dear all,  Thanks for submitting your full text.  All of you who submitted their full text (except one) should have received a review request from easychair. Please check the email that you have used for submitting the survey.  The deadline for review submission is 1st of July. Please make sure to submit your review via the easychair form, not as an email or a PDF. The review should include a summary of the paper (in your own words). Then three positive points (one line each, use +1,+2,+3 notation), and three negative points (similarly, one line each, use -A,-B,-C notation). Then, in the detailed feedback, please detail the score that you gave, and issues with the paper. In the detailed feedback, referring to positive and negative is a plus.  Best, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Further notes for your survey submission",
+                            "Discussion_Id": "601643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080970",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-17T20:46:23+02:00",
+                                    "Content": "Dear all,  If you have updated your title/abstract, please update the metadata of your paper in easychair as well.  Also, please make sure to cover the basic requirements of a survey correctly: text should not be overlapped, table/figures/algorithms should have captions, your name must appear correctly, there should not be \"?\" marks in references, and so on.  Put yourself in the a reader's shoes: you will probably see such mistakes first even before going into technical details of your paper.  Best, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline of survey submission",
+                            "Discussion_Id": "600058",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078658",
+                                    "Author": "Huiran Liu",
+                                    "DateTime": "2024-06-10T15:42:46+02:00",
+                                    "Content": "Dear all,  The deadline of your survey submission is 23:59 on June 17th(next Monday).  Regarding writing, please refer to Arash’s recording (uploaded last month) on ISIS, which may be helpful if you are not clear about the structure of the survey.   Also the latex template has been provided, please find it on ISIS as well.  Thanks, Huiran Liu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guideline for writing task",
+                            "Discussion_Id": "595794",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072292",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-05-21T18:33:29+02:00",
+                                    "Content": "Dear all,  I have just added a video guideline that hopefully will help you for your writing task, given your feedback.  As I said in the video and before, please get inspiration about structure of paper also from papers assigned to you, and other papers. What I suggested is a basic version.  Furthermore, it is important to have your abstract to the point, because the rest of your paper can be seen as an \"extended abstract\". So feel free to get in touch with me if you need more input on your title and abstract.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Using LLMs...",
+                            "Discussion_Id": "595391",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071648",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-05-19T17:54:49+02:00",
+                                    "Content": "Dear all,  Unfortunately, I have seen many titles and abstracts that don't make any sense. Because those title abstracts are either completely wrong or meaningless, they would not get any grade for this task...  If you are using LLMs, please keep in mind that their errors would be echoed even more in your full version of the paper. Furthermore, I want to point out that the final presentation, which has 50% of the grade, involves extensive Q&A sessions, which would test \"your\" knowledge.  Therefore, I would strongly recommend you to avoid using LLM tools by simply copy pasting their results.  Do not trust LLMs too much: its outcomes are usually worse than what you could have outputted, even with less time. LLM tools, as advanced as they might seem, are prone to hallucination, in such a way that outcome seems reasonable from top, but might have fundamental flaws...  Best, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Deadline for Title and Abstract Submission is Today",
+                            "Discussion_Id": "595111",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071185",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-05-17T10:44:06+02:00",
+                                    "Content": "Dear all,  This is a kind reminder that the deadline for title and abstract submission is today.  You might think title and abstract are not important parts of a survey (as it only covers 5% of total grade). But, if you spend some time and also give us sometime to give you feedback on it, it would results in a better survey and presentation as well, because it would guide your thoughts and thoughts of your audience much more than you think (after all, we are all humans, and might not have attention span to be focused on the whole paper).  Those of you who have already submitted your title and abstract, should have received some feedback from me.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Extended deadline of abstract submission",
+                            "Discussion_Id": "594280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069904",
+                                    "Author": "Huiran Liu",
+                                    "DateTime": "2024-05-14T11:31:55+02:00",
+                                    "Content": "Dear all,  The extended deadline for your abstract submission is 23:59 on May 17th.  Please use your university email account to register on EasyChair. Each group only needs to be submitted by one of its members.  Thanks. Huiran Liu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Title and abstract submission",
+                            "Discussion_Id": "593540",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068699",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-05-10T07:24:18+02:00",
+                                    "Content": "Dear all,   This a reminder that title and abstract submission is on Monday, plus Huiran's lecture on writing.  Here are some general tips for this task.  Regarding title. 1- The title should be \"correct\" (in terms of claiming what you have, not overclaiming), however, it is okay to not include every property of your system. 2- A correct title can be a bit general, and also \"fun\". For example: \"Where is my Pizza?: Ensuring Validity of off-Chain Transactions\". 3- In general, see the title of your survey as \"advertisement\": it is there to motivate an \"academic\" reader to click on your paper, e.g. when he/she searches it in Google. So keep that in mind, and find a title that would be \"interesting\" to you and your colleague, but still mention some technical properties of the system.  4- Please do not include TUB/INET/BlockNET/... or your names in your title. Assume that you want to send your submission to a real-world conference. Regarding the abstract: There is a quote that says: “I have made this [letter] longer than usual because I have not had time to make it shorter.” So having short but meaningful abstracts is challenging, however, it would show that you spend time on it. Here are a few tips for a good abstract: 1- Please DO NOT copy-paste things from original abstracts. Rather read the original abstracts (and also the paper), put them aside, and try to write understanding in your own words. 2- Then, let yourself, or your colleague, read it critically: does it make sense? Is it \"technically\" sound, and so on? In particular: 3- As I said during the lecture, the abstract can be basically be contents of a good pitch. Hence, comments that I gave you applys here as well: (a) do not overcrowd it with abbreviations and such, (b) it should tell a story (c) it should tell the need for your paper first, then solutions provided, and so on. Regarding easychair (Huiran will give a demo Monday)  0- Try creating account here (as mentioned in the first page of ISIS), instead of easychair.org: https://easychair.org/conferences/?conf=blocknets24  1- TUB has its own \"spam defense\" system, maybe your registration confrimation email is there! https://www.tu.berlin/en/campusmanagement/it-support/spam-defense-quarantine-management  2- \"nicfd2016@easychair.org\" is not \"easychair\" support email (the tutorial is taken from previous conference, we will update it). The contact form is here, but please send me an email first if you have issue https://easychair.org/utils2/contact  3- PLEASE DO NOT CREATE A PREPRINT. You need to create a paper in blocknets24 conference.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group selection+ Practice session next Monday",
+                            "Discussion_Id": "588282",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060551",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-04-22T10:48:12+02:00",
+                                    "Content": "Dear all,  Thanks for selecting topics of your choice. All available topics have been selected. You should be able to see outcomes already.  If you have been assigned to this seminar via the central assignment system, and still want to take part in the seminar but have not selected a topic, please send me an email.  Until next Monday, please get in touch with your teammate, and come up with a 90 second pitch of the overarching idea of your papers. Please keep in mind that in contrast to the reading lecture, this time I would strictly enforce the time limit. There is no need to prepare slides, you just need to have a convincing, engaging and clear pitch.  You can find further resources about how to create a successful pitch in the course page.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group / Topic Selection",
+                            "Discussion_Id": "586087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057222",
+                                    "Author": "Huiran Liu",
+                                    "DateTime": "2024-04-15T16:38:09+02:00",
+                                    "Content": "Hi all, For the selected students in the seminar (which we notified and emailed you last week, please have a check on your university email account), if you’re unable to take the seminar this semester, please let us know by tomorrow so that we can then release places to students on the waiting list. Also, please be aware that the Group/Topic selection will be opened on Thursday, 18 April 2024, 9:00 AM and closed on Monday, 22 April 2024, 11:59 PM (via ISIS system), each topic from the paper list can be selected by the students with maximum of two, and the students with the same topic will form a group.  Please take a look at the paper list before the opening, make sure which one/two topics you’re interested in. Feel free to contact us if you have any questions.  Regards, Huiran",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to the seminar ",
+                            "Discussion_Id": "584786",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055342",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-04-05T21:19:49+02:00",
+                                    "Content": "Dear all,  Thanks for choosing this seminar.  Those participants that have been selected to take part in this seminar (from the central assignment system), have been notified via email with some guidelines about how to proceed. Unfortunately, we can not accommodate the rest in this iteration of the seminar: I hope to have you on board in the future.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1751127",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Moses Registration",
+                            "Discussion_Id": "607621",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089544",
+                                    "Author": "Mohammed Masifi",
+                                    "DateTime": "2024-07-13T11:53:48+02:00",
+                                    "Content": "Hello  Do i need to register this module as mandatory or elective. I study \"Wirtschaftsinformatik\"/\"business informatic\" and i am not so sure, what i should choose. ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1089552",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-07-13T12:43:56+02:00",
+                                    "Content": "Hello,  it depends.  At the bottom of the module page https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40888&version=3&sprache=2 you can see in which study programs the module can be taken.  If you are a M.Sc. Wirtschaftsinformatik student you can take the module as \"wahlpflicht\" (mandatory elective) as part of \"Distributed Systems and Networks\". Additinally you can take any module as \"freie wahl\" (free elective), including the ones you can take as \"wahlpflicht\" so also BlockNet. So you can choose either, and you have to know how you want to structure your studies and how many credits you need in different parts of your study program to make a good decision. When in doubt check your study program regulations (there's a semester table that tells you how many credits you need).  If you are B.Sc. Wirtschaftinformatik you can only take it as \"freie wahl\" (free elective) since the BlockNet module is not used in this study program.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1089554",
+                                    "Author": "Mohammed Masifi",
+                                    "DateTime": "2024-07-13T13:04:11+02:00",
+                                    "Content": "Alright, thank you very much",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MOSES Exam Registration",
+                            "Discussion_Id": "603178",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083186",
+                                    "Author": "Ayse Safa Erdem",
+                                    "DateTime": "2024-06-24T17:31:52+02:00",
+                                    "Content": "Hi,  I would like to ask when is the registration period for the module? I don't see it on Moses.  Sincerely,  Ayse",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083208",
+                                    "Author": "Huiran Liu",
+                                    "DateTime": "2024-06-24T18:06:06+02:00",
+                                    "Content": "Hi,  The registration is not yet open, but will be announced soon.  Regards, Huiran",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "References in survey",
+                            "Discussion_Id": "601630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080944",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-06-17T19:19:49+02:00",
+                                    "Content": "Hey, Because of a problem in our latex file, the references don't show up. Is it a problem or minus for the todays submission? Thanks We now refered to the sources as in the provided papers and can't update the markings since the bib connection is invalid. We hope that the proper references would just be important for final submission.  Best regards, Ali",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1080966",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-17T20:31:44+02:00",
+                                    "Content": "Dear Ali,  Correct referencing is a critical part of a survey. Without that, a paper/survey would not go through the first check of the program chair in a real conference/journal, and would be \"desk rejected\". In this seminar, your colleagues should be able to see them when they are peer-reviewing your survey. So Please fix the issue before submission.  Best, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Survey submission",
+                            "Discussion_Id": "601599",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080893",
+                                    "Author": "Ayse Safa Erdem",
+                                    "DateTime": "2024-06-17T17:24:32+02:00",
+                                    "Content": "Hi,  How are we going to upload our survey? Should we just follow the steps on EasyChair?   Sincerely, Ayse ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1080907",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-17T17:44:31+02:00",
+                                    "Content": "Hi,  Yes, you should be able to upload a PDF on easychair, under the abstract that you have submitted. Please do not create a new submission or add pdf as a pre-print.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CCS CONCEPTS",
+                            "Discussion_Id": "601313",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080485",
+                                    "Author": "Ali Obali",
+                                    "DateTime": "2024-06-16T21:06:42+02:00",
+                                    "Content": 

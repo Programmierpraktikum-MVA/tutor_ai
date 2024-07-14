@@ -1,0 +1,639 @@
+[
+    {
+        "Course_Name": "Tutorium Soziologische Theorien der Gegenwartsgesellschaft SoSe 2024",
+        "Course_id": "37230",
+        "Forums": [
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Handouts Dienstag",
+                    "Forum_id": "1785826",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Präsentation Latour",
+                            "Discussion_Id": "605062",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085892",
+                                    "Author": "Christoph Alexander Bethke",
+                                    "DateTime": "2024-07-02T16:31:22+02:00",
+                                    "Content": "Präsentation Latour",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Latour",
+                            "Discussion_Id": "605034",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085853",
+                                    "Author": "Christoph Alexander Bethke",
+                                    "DateTime": "2024-07-02T15:30:40+02:00",
+                                    "Content": "Handout Latour",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Foucault",
+                            "Discussion_Id": "603500",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083624",
+                                    "Author": "Sahra Nisan Kaya",
+                                    "DateTime": "2024-06-25T16:15:27+02:00",
+                                    "Content": "Anbei das Handout zu dem Referat",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "handout bourdieu",
+                            "Discussion_Id": "601885",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081289",
+                                    "Author": "Tonio Elias Meier",
+                                    "DateTime": "2024-06-18T16:05:44+02:00",
+                                    "Content": "handout bourdieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout + Präsentation Habermas",
+                            "Discussion_Id": "600364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079090",
+                                    "Author": "Kalle Wagner",
+                                    "DateTime": "2024-06-11T16:14:04+02:00",
+                                    "Content": "habermas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Luhmann",
+                            "Discussion_Id": "598750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076741",
+                                    "Author": "Hannah Katharina Ovelgönne",
+                                    "DateTime": "2024-06-04T08:59:34+02:00",
+                                    "Content": ".",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Esser ",
+                            "Discussion_Id": "597142",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074383",
+                                    "Author": "Anastasia Badinova",
+                                    "DateTime": "2024-05-27T19:33:26+02:00",
+                                    "Content": "Handout Esser ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Berger; Luckmann",
+                            "Discussion_Id": "594323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069967",
+                                    "Author": "Julia Ellen Forche",
+                                    "DateTime": "2024-05-14T12:42:44+02:00",
+                                    "Content": "Handout Berger; Luckmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PDF Handout Butler",
+                            "Discussion_Id": "593029",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067896",
+                                    "Author": "Elaine Marie Stockmann",
+                                    "DateTime": "2024-05-07T16:15:48+02:00",
+                                    "Content": "Siehe Anhang, nochmal als PDF statt Word Datei",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Butler Das Unbehagen der Geschlechter",
+                            "Discussion_Id": "592908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067733",
+                                    "Author": "Elaine Marie Stockmann",
+                                    "DateTime": "2024-05-07T12:25:17+02:00",
+                                    "Content": "Siehe Anhang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Hall",
+                            "Discussion_Id": "591301",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065184",
+                                    "Author": "Paul Robert Schlegel",
+                                    "DateTime": "2024-04-30T16:14:14+02:00",
+                                    "Content": "Handout zu Hall",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Wallerstein",
+                            "Discussion_Id": "589016",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061699",
+                                    "Author": "Viann Fricke",
+                                    "DateTime": "2024-04-23T16:17:20+02:00",
+                                    "Content": "https://isis.tu-berlin.de/pluginfile.php/3162013/mod_forum/post/1061699/Handout_%20The%20Modern%20World-System%2C%20Immanuel%20Wallerstein.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Handouts Donnerstag 10-12",
+                    "Forum_id": "1785827",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exzerpt: Reckwitz und Rosa: Resonanzkrise der Spätmoderne und die Konturen einer Postwachstumsgesellschaft",
+                            "Discussion_Id": "607602",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089512",
+                                    "Author": "Islamali Bär",
+                                    "DateTime": "2024-07-12T23:51:16+02:00",
+                                    "Content": "Im Anhang befindet sich das Exzerpt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exerpt Rosa",
+                            "Discussion_Id": "607069",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088732",
+                                    "Author": "Zoe Ursula Silvia Eichberg",
+                                    "DateTime": "2024-07-11T08:51:51+02:00",
+                                    "Content": "Im Anhang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt_Rosa",
+                            "Discussion_Id": "607003",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088647",
+                                    "Author": "Lina-Marie Barnowski",
+                                    "DateTime": "2024-07-10T18:41:36+02:00",
+                                    "Content": "Exzerpt_Lina Barnowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Latour",
+                            "Discussion_Id": "605472",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086460",
+                                    "Author": "Islamali Bär",
+                                    "DateTime": "2024-07-04T10:56:01+02:00",
+                                    "Content": "Maximilian Petzoldt Islamali Bär",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout \"Warum das Soziale so schwer nachzuzeichnen ist\"",
+                            "Discussion_Id": "605393",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086351",
+                                    "Author": "Islamali Bär",
+                                    "DateTime": "2024-07-03T22:44:49+02:00",
+                                    "Content": "Islamali Bär,Maximilian Petzoldt Handout Latour",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Der Panoptismus- Foucault ",
+                            "Discussion_Id": "603919",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084217",
+                                    "Author": "Miriam Johanna Klose",
+                                    "DateTime": "2024-06-27T04:17:16+02:00",
+                                    "Content": "Hallo, anbei schicke ich mein Exzerpt zu Foucaults Panoptismus.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Habermas",
+                            "Discussion_Id": "600724",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079621",
+                                    "Author": "Heorhii Trutniev",
+                                    "DateTime": "2024-06-12T22:22:37+02:00",
+                                    "Content": "Habermas https://isis.tu-berlin.de/pluginfile.php/3162014/mod_forum/post/1079621/Handout%20Habermas.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt Rosa",
+                            "Discussion_Id": "599323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077556",
+                                    "Author": "Tony Uwe Weggen",
+                                    "DateTime": "2024-06-06T09:50:53+02:00",
+                                    "Content": "Im Anhang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Excerpt zu Luhmann Systemtheorie",
+                            "Discussion_Id": "599279",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077496",
+                                    "Author": "Tobias Maximilian Feck",
+                                    "DateTime": "2024-06-05T23:34:28+02:00",
+                                    "Content": "Excerpt zu Luhmann Systemtheorie - stratifizierte und funktional Differenzierte Systeme",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Luhmann",
+                            "Discussion_Id": "599243",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077449",
+                                    "Author": "Lilly Lisa Käthe Langmack",
+                                    "DateTime": "2024-06-05T19:38:19+02:00",
+                                    "Content": "https://isis.tu-berlin.de/pluginfile.php/3162014/mod_forum/post/1077449/Handout%20Luhmann.pdf?time=1717609144971",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsi Esser",
+                            "Discussion_Id": "597838",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075394",
+                                    "Author": "Chantalle Anna Hanke",
+                                    "DateTime": "2024-05-30T10:24:43+02:00",
+                                    "Content": "Esser",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Esser",
+                            "Discussion_Id": "597546",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074966",
+                                    "Author": "Chantalle Anna Hanke",
+                                    "DateTime": "2024-05-29T09:08:33+02:00",
+                                    "Content": "Esser",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Butler",
+                            "Discussion_Id": "596223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072888",
+                                    "Author": "Anna Lindner",
+                                    "DateTime": "2024-05-23T10:16:28+02:00",
+                                    "Content": "Handout Butler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Berger-Luckmann",
+                            "Discussion_Id": "594848",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070783",
+                                    "Author": "Zoe Ursula Silvia Eichberg",
+                                    "DateTime": "2024-05-16T10:22:56+02:00",
+                                    "Content": "",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Stuart Hall",
+                            "Discussion_Id": "591764",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065902",
+                                    "Author": "Tobias Maximilian Feck",
+                                    "DateTime": "2024-05-02T14:38:06+02:00",
+                                    "Content": "Präsentation Stuart Hall",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Stuart Hall",
+                            "Discussion_Id": "591735",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065858",
+                                    "Author": "Tobias Maximilian Feck",
+                                    "DateTime": "2024-05-02T13:50:02+02:00",
+                                    "Content": "Handout Stuart Hall",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation Wallerstein",
+                            "Discussion_Id": "589711",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062797",
+                                    "Author": "Tony Uwe Weggen",
+                                    "DateTime": "2024-04-25T10:48:08+02:00",
+                                    "Content": "Hier ist ein Text",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Wallerstein",
+                            "Discussion_Id": "589570",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062574",
+                                    "Author": "Tony Uwe Weggen",
+                                    "DateTime": "2024-04-24T18:44:57+02:00",
+                                    "Content": "Anbei das Handout zum Vortrag zum Modern World-System nach Wallerstein (1976)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Handouts Donnerstag 14-16",
+                    "Forum_id": "1785828",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exzerpt Rosa ",
+                            "Discussion_Id": "606994",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088634",
+                                    "Author": "Phil Alexander Ehmke",
+                                    "DateTime": "2024-07-10T17:59:00+02:00",
+                                    "Content": "Donnerstag den 11.07",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt Rosa",
+                            "Discussion_Id": "606719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088233",
+                                    "Author": "Ioannis Pappas",
+                                    "DateTime": "2024-07-09T19:25:41+02:00",
+                                    "Content": "Exzerpt zum Text von Hartmut Rosa von Ioannis Pappas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt Latour Wiethüchter",
+                            "Discussion_Id": "605543",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086567",
+                                    "Author": "Milan Finn Wiethüchter",
+                                    "DateTime": "2024-07-04T14:17:18+02:00",
+                                    "Content": "Im Anhang das Exzerpt zu dem Text von Latour",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vortrag Latour",
+                            "Discussion_Id": "605540",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086564",
+                                    "Author": "Ioannis Pappas",
+                                    "DateTime": "2024-07-04T14:13:04+02:00",
+                                    "Content": "Folien zu Latour weil Beamer kaputt sind",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout Latour",
+                            "Discussion_Id": "605363",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086302",
+                                    "Author": "Ioannis Pappas",
+                                    "DateTime": "2024-07-03T19:10:44+02:00",
+                                    "Content": "Anbei das Handout zur Akteur-Netzwerk-Theorie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt zur Akteur-Netzwerk-Theorie, Latour",
+                            "Discussion_Id": "604947",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085730",
+                                    "Author": "Johanna Arzt",
+                                    "DateTime": "2024-07-02T11:59:03+02:00",
+                                    "Content": "https://isis.tu-berlin.de/pluginfile.php/3162015/mod_forum/post/1085730/Akteur-Netzwerk%20und%20neuer%20Materialismus%20Essay.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt zu Latours Panoptismus",
+                            "Discussion_Id": "603901",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084185",
+                                    "Author": "Philip Ludwig Deutscher",
+                                    "DateTime": "2024-06-26T21:01:45+02:00",
+                                    "Content": "Liebe Ricarda, Ich habe den Ordner zur Abgabe der schriftlichen Studienleistung leider nicht gefunden, daher lade ich mein Exzerpt hier hoch. Liebe Grüße Philip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084407",
+                                    "Author": "Philip Ludwig Deutscher",
+                                    "DateTime": "2024-06-27T14:34:41+02:00",
+                                    "Content": "* Foucaults Panoptismus",
+                                    "Response to": "p1084185"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation zum Panoptismus ",
+                            "Discussion_Id": "604053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084397",
+                                    "Author": "Lucia Malen Reuther Carioni",
+                                    "DateTime": "2024-06-27T14:18:30+02:00",
+                                    "Content": "Hier die Präsi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt Foucault Panoptismus",
+                            "Discussion_Id": "603983",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084300",
+                                    "Author": "Carl Christian Fettke",
+                                    "DateTime": "2024-06-27T11:28:03+02:00",
+                                    "Content": "<3",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Der Panoptismus - Michel Foucault ",
+                            "Discussion_Id": "603841",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084107",
+                                    "Author": "Lucia Malen Reuther Carioni",
+                                    "DateTime": "2024-06-26T16:54:27+02:00",
+                                    "Content": "Hier das Handout für Morgen <3",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vortrag Bourdieu- Der Habitus und der Raum der Lebensstile ",
+                            "Discussion_Id": "602392",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082005",
+                                    "Author": "Johanna Arzt",
+                                    "DateTime": "2024-06-20T14:13:12+02:00",
+                                    "Content": "https://isis.tu-berlin.de/pluginfile.php/3162015/mod_forum/post/1082005/Bourdieu-%20der%20Habitus%20und%20der%20Raum%20der%20Lebensstile.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bourdieu- Der Habitus und der Raum der Lebensstile Handout",
+                            "Discussion_Id": "602323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081896",
+                                    "Author": "Johanna Arzt",
+                                    "DateTime": "2024-06-20T11:04:11+02:00",
+                                    "Content": "https://isis.tu-berlin.de/pluginfile.php/3162015/mod_forum/post/1081896/Der%20Habitus%20und%20der%20Raum%20der%20Lebensstile%20Handout.pdf?time=1718874353271",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exzerpt und Fragenformulierung ",
+                            "Discussion_Id": "602210",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081735",
+                                    "Author": "Lili Marlen Weichert",
+                                    "DateTime": "2024-06-19T17:50:04+02:00",
+                                    "Content": "Liebe Ricarda,  leider habe ich die extra Datei, wo wir das Exzerpt hätten hochladen sollen nicht finden können. Deshalb hinterlege ich es hier.   Liebe Grüße Lili ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout zu Judith Butler",
+                            "Discussion_Id": "596303",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073016",
+                                    "Author": "Milan Finn Wiethüchter",
+                                    "DateTime": "2024-05-23T13:32:57+02:00",
+                                    "Content": "Das Handout zu der Sitzung zu dem Text von Judith Butler.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vortrag Hall-Rassismus als ideologischer Diskurs",
+                            "Discussion_Id": "591763",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065901",
+                                    "Author": "Philip Ludwig Deutscher",
+                                    "DateTime": "2024-05-02T14:37:52+02:00",
+                                    "Content": " Hier ist ein Text",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout: Hall Rassismus als ideologischer Diskurs ",
+                            "Discussion_Id": "591477",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065467",
+                                    "Author": "Phil Alexander Ehmke",
+                                    "DateTime": "2024-05-01T16:47:41+02:00",
+                                    "Content": "Anbei unser Handout zum Vortrag am 02.05.2024",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] [CommIT] Foundations of Statistical Inference, Detection, and Estimation",
+        "Course_id": "38642",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1799054",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "[FSI SoSe 2024] Project presentations",
+                            "Discussion_Id": "607663",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089612",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-07-13T21:22:20+02:00",
+                                    "Content": "Dear Students,  project presentation(s) will be during class time on Thursday 18.07 at starting at 14:00. Please be in class at 14:00 since we must do everything within the 2h.  Please be all present.  G ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[FSI SoSe2024] Reminder for the Final Exam",
+                            "Discussion_Id": "606384",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087754",
+                                    "Author": "Tom Szollmann",
+                                    "DateTime": "2024-07-08T18:01:22+02:00",
+                                    "Content": "Dear students, a litte reminder that the final exam will take place on THURSDAY, 11.07. at 14:15 in the lecture hall we used all semester. As for the midterm exam, you should bring: a pen, sufficient scratch paper for your deductions / calculations, one double-sided A4 page with formulas, a calculator. As before, the exam is \"closed books\", so make sure to shut down all digital accessories beforehand (or dont take them with you).  Best regards, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[FSI SoSe2024] PLAN FOR THE REST OF THE SEMESTER",
+                            "Discussion_Id": "599550",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077886",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-06-07T08:47:23+02:00",
+                                    "Content": "Week of June 10-16: Maximum-Likelihood parameter estimation, Fisher information, Cramer-Rao Bound; Week of June 17-21: problems on maximum likelihood estimation; Week of June 24-28: Bayesian inference, sum-product algorithm, belief propagation, approximated message passing, compressed sensing (let's see what we can do); Week of July 1-5: IMPORTANT: on Tuesday July 2 during lecture time, the end of semester projects will be discussed and assigned.  YOU MUST COME TO THE LECTURE AND GET YOUR PROJECT, OTHERWISE YOU CANNOT PASS THE COURSE AND GET YOUR CREDITS.  The time to work on your project is from Tuesday July 2 to the date of your project presentation, which will be either Tuesday July 16, or Thursday July 18, i.e., in the last week of the semester.  Week of July 8-12: SECOND WRITTEN TEST ON THURSDAY JULY 11. No class on Tuesday July 9 (you are working on your project and preparing the written test).   Week of July 15-19: PROJECT PRESENTATIONS",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[FSI SoSe24] IMPORTANT INFORMATION FOR THE MIDTERM TEST",
+                            "Discussion_Id": "594865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070808",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-05-16T11:07:09+02:00",
+                                    "Content": "Dear Students,  for the test you can have:  1) scratch paper 2) one A4 double-sided formula sheet, where you can annotate all the formulas you want. For the rest, the test is ``closed books'', which means: you cannot have a copy of the slides and of the problems with solutions, you cannot have laptops and other devices connected to the internet, you cannot ask ChatGPT, Wikipedia, and so on .... It is just you, your pen and paper, and your formula sheet to recall things that you may find useful.  Notice that preparing a good formula sheet is a great learning opportunity, since annotating by hand formulas and theorems helps not only remembering but also understanding.   Cheers,   G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[FSI SoSe 2024] Lecture schedule",
+                            "Discussion_Id": "585756",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056740",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-04-14T17:47:50+02:00",
+                                    "Content": "Dear Students,  the FSI module meets 2 times per week on Tuesday 14:00 - 16:00 and Thursday  14:00 - 16:00, both in Room HFT-TA 101 Before the first lecture (Tuesday April 16) I will post on ISIS the lecture notes (slides) of the first topic and the syllabus with all the information about the module.   Best wishes,  G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

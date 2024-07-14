@@ -1,0 +1,888 @@
+[
+    {
+        "Course_Name": "[S24] Motion Planning",
+        "Course_id": "37033",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1743057",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Charger + cables left after discussion session",
+                            "Discussion_Id": "607289",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089031",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-07-11T17:15:38+02:00",
+                                    "Content": "Dear all, someone forgot their charger and cables in the room after the discussion session. You can find that at the janitor's office.  Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Example exams posted",
+                            "Discussion_Id": "607074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088738",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-07-11T09:19:07+02:00",
+                                    "Content": "Dear all, please have a look at the two example exams that we just uploaded. We'll discuss any questions regarding the exams during the discussion session on Thursday, 18th July.  Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 12",
+                            "Discussion_Id": "606364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087727",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-07-08T17:24:21+02:00",
+                                    "Content": "Dear all,  Exercise 12 and the form for the discussion session are uploaded. Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 10 solution",
+                            "Discussion_Id": "606340",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087684",
+                                    "Author": "Akmaral Moldagalieva",
+                                    "DateTime": "2024-07-08T16:25:09+02:00",
+                                    "Content": "Dear all,  Grades and solution for the Exercise 10 are out.  Kind regards, Akmaral",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Programming Assignment 4",
+                            "Discussion_Id": "605691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086770",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-05T09:54:04+02:00",
+                                    "Content": "Dear Students,  Programming assignment 4 has now been posted on gitlab. Please follow the provided instructions in the readme file to update your fork. The deadline is July 24, 2024.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 11",
+                            "Discussion_Id": "604283",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084736",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-28T14:16:42+02:00",
+                                    "Content": "Dear all,  Exercise 11 and the form for the discussion session are uploaded. Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final deadline for programming assignment 2",
+                            "Discussion_Id": "604049",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084392",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-27T14:12:57+02:00",
+                                    "Content": "Dear Students,  Since the grading of programming assignment 2 didn't go as smoothly as expected, we'll give all students the opportunities to resubmit. I'll download, test and grade your submissions one last time on Monday 5 pm. Until then, you have the chance to work on your code again if you're not happy with the result. I will only upload grades that are better than the one you already received.  If you pushed your code to GitLab but haven't received feedback yet: Please (!) push your code with the correct tag ('assignment2'). Exactly this name. No capital letters, no additional characters. We cannot accept your submission otherwise.  Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "603227",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083270",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-24T21:26:54+02:00",
+                                    "Content": "Dear Students, We would be grateful if you could provide feedback for the class. The official TUB evaluation is available at https://befragung.tu-berlin.de/evasys/online.php?pswd=WW84A  It should only take 5-10 min and the deadline is this Friday.  Evaluations are crucial for us to improve the course and our lecture style in the future. Thanks, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office hour for Assignment 2",
+                            "Discussion_Id": "603125",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083110",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-24T15:47:59+02:00",
+                                    "Content": "Dear all, as there seem to be a lot of problems regarding programming assignment 2, there'll be an office hour Wednesday 26th June from 2-3 pm. If you have questions or want to show me your solution / explain your code, please use this time to do so! I'm happy to discuss all of the open problems or questions then.  Kind regards Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 10",
+                            "Discussion_Id": "602914",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082801",
+                                    "Author": "Akmaral Moldagalieva",
+                                    "DateTime": "2024-06-24T09:36:11+02:00",
+                                    "Content": "Dear all,  Exercise 10 and its form are uploaded.  See you on Thursday.  Kind regards, Akmaral",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Programming Assignment 3",
+                            "Discussion_Id": "601145",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080225",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-06-14T17:03:47+02:00",
+                                    "Content": "Dear all,  Programming assignment 3 has now been posted on gitlab. Please follow the provided instructions in the readme file to update your fork.  Good luck!  Regards, Khaled",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Programming Assignment 1 solution",
+                            "Discussion_Id": "599684",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078069",
+                                    "Author": "Akmaral Moldagalieva",
+                                    "DateTime": "2024-06-07T16:49:03+02:00",
+                                    "Content": "Dear all,  Solution for the Programming Assignment 1 is uploaded.  Have a good weekend everyone. Akmaral",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office hour for Programming Assignment 1  ",
+                            "Discussion_Id": "599482",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077775",
+                                    "Author": "Akmaral Moldagalieva",
+                                    "DateTime": "2024-06-06T16:50:03+02:00",
+                                    "Content": "Hello everyone!  There will be an office hour from 11:30 to 12:30 in MAR 4.018 on June 7th, 2024. If you have any questions, concerns regarding your Programming Assignment 1 grade, please come, I will be happy to discuss it with you. Kind regards, Akmaral",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 6",
+                            "Discussion_Id": "596882",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073925",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-05-27T10:09:17+02:00",
+                                    "Content": "Dear all,  Exercise 6 and its voting form are uploaded.   Regards, Khaled",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Programming Assignment 2",
+                            "Discussion_Id": "596481",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073288",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-05-24T10:58:56+02:00",
+                                    "Content": "Dear all,   Programming Assignment 2 has now been posted on gitlab. Please follow the provided instructions in the readme file to update your fork.  Good luck!  Regards, Khaled",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline Reminders",
+                            "Discussion_Id": "595851",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072378",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-22T08:01:53+02:00",
+                                    "Content": "Dear Students, Just as a reminder for the upcoming important deadlines: Programming Assignment 1 is due today at midnight. Make sure that you pass the continuous integration tests and that you tag your solution to avoid getting no points. The official enrollment for the course is due this Friday (at midnight) via MOSES. We'll post programming assignment 2 later this week and the points for assignment 1 next week.  Best, Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 5",
+                            "Discussion_Id": "595618",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072044",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-05-21T12:03:09+02:00",
+                                    "Content": "Dear all,  Exercise 5 and its voting form are uploaded.   Regards, Khaled",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration",
+                            "Discussion_Id": "594325",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069971",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-14T12:48:46+02:00",
+                                    "Content": "Dear Students, For the (binding) registration for this module (and choice of your exam date), please use MOSES. The registration deadline is Friday, May 24th (midnight). Best, Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 4",
+                            "Discussion_Id": "594139",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069666",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-05-13T17:07:46+02:00",
+                                    "Content": "Dear all,  Exercise 4 is now uploaded along with the voting form.   Regards, Khaled",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Discussion session for Exercise 3",
+                            "Discussion_Id": "591663",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065763",
+                                    "Author": "Akmaral Moldagalieva",
+                                    "DateTime": "2024-05-02T12:02:58+02:00",
+                                    "Content": "Dear all,  I would like to inform that we will have the discussion session for Exercise 3 today, May 2, 16.15-17.45 pm.  The form to vote is already available.  See you soon!  Akmaral",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gitlab Usernames",
+                            "Discussion_Id": "590816",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064472",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-04-29T14:32:50+02:00",
+                                    "Content": "Dear all,   Please for those who cannot find their repositories with their usernames in Motion Planning Gitlab repos, provide us with your Gitlab username by answering this question before tomorrow (11:59 pm, 30th of April, 2024).    Regards, Khaled",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064558",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-04-29T15:46:20+02:00",
+                                    "Content": "Dear all,  I apologize for the previous email. For those only who cannot find their usernames in the Motion Planning Repositories, respond to the question.  Regards, Khaled",
+                                    "Response to": "p1064472"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Programming Assignment 1",
+                            "Discussion_Id": "590842",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064511",
+                                    "Author": "Khaled Hassan Fouad Wahba",
+                                    "DateTime": "2024-04-29T15:03:34+02:00",
+                                    "Content": "Dear all,   Programming assignment 1 has now been posted. You will find a created repository with your username in Motion Planning Repositories. Each repository has the assignment and all the necessary instructions.  Please read the instructions well in the readme file, and do not hesitate to ask us questions if anything is not clear. If you cannot find your username/repository, please refer to this discussion. Good luck!  Regards, Khaled",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Please indicate whether you want to solve the programming assignment",
+                            "Discussion_Id": "589656",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062719",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-04-25T09:22:33+02:00",
+                                    "Content": "Dear all, many of you have already seen it but here is the official announcement: There's another poll in this week. Please use it to indicate whether you want to solve the programming assignment. 40% of your grade will come from these assignments. After the poll finished, we'll grant you access to the repository on TUB's GitLab. Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Discussion 2 Form",
+                            "Discussion_Id": "589654",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062717",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-04-25T09:19:02+02:00",
+                                    "Content": "Dear all, sorry about the confusion with the form for this week's discussion session. The form now allows multiple answers again.  Please fill the form until 4 pm and see you all later! Best, Pia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1743060",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Questions Assignment 4",
+                            "Discussion_Id": "606524",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087962",
+                                    "Author": "Viktor Karl Walter Lorentz",
+                                    "DateTime": "2024-07-09T10:47:12+02:00",
+                                    "Content": "Hello, I have a few questions regarding assignment 4: 1. Cvxpy is not in requirements.txt. Could you please add it upstream? CAR 2. Should we hardcode L and dt in our script, since we are not loading in the yaml here? 3. Can we ignore the control limits from assignment 2 here, or should we do temporal scaling? 4. I am not sure which approach to implement for the car case. Should we first optimize to find the bezier path and then use the output path of the bezier optimization as input for the new optimization with dynamics constraints? Should the dynamic constraints be added to the bezier optimization? Or should we just calculate the u values with flattened dynamics from x,y values of the bezier path? As mentioned in a previous question, this approach will lead to small errors because of the discretization. Is this fine? Should we run the actions through forward dynamics before saving them? ARM 5. The goal is out of reach for the default arm with L=[1,1,1]. Should we hardcode some higher values like [5,5,5]? 6. What exactly do you mean by “You can ignore collisions that are caused by the links.” Since the bezier path is not in collision, we do not have to do any collision checks? 7. Is using just a simple IK function (with maybe some singularity jumps) enough as long as the end effector traces the bezier path? Or do you want a jacobian approach? I would appreciate a quick answer to these questions. Thank you in advance.  Best, Viktor",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088260",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-09T22:09:10+02:00",
+                                    "Content": "Hi Vektor, 1. Done! 2. Yes, that's fine. Please rely on the parameters from the car_0 case. 3. Control limits should not be ignored, so please implement temporal scaling. 4. Ideally you use the differential flatness property, as the other suggested solutions are much more complicated. Small errors due to discretization are always expected and shouldn't affect our tests/grading. 5. You should rely on the parameters of the arm_0 case. You can move the goal location to be reachable for your own testing. 6. You should only execute collision checking for the end effector, not for parts of the arm with the environment. 7. A simple IK suffices. Best, Wolfgang",
+                                    "Response to": "p1087962"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 4, Task 3",
+                            "Discussion_Id": "606098",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087355",
+                                    "Author": "Bao Duc Cao",
+                                    "DateTime": "2024-07-08T10:24:12+02:00",
+                                    "Content": "Hi, I have a question about Assignment 4, Task 3. I used a cubic Bézier curve to create a path solution . Then is used to construct and , where , , , and are calculated using the first and second derivatives of the Bézier curve, and the step size is 0.1. I want to verify the results with the car's dynamics, but they do not match. Do you know where the problem might be? Many thanks in advance.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087812",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-08T21:21:22+02:00",
+                                    "Content": "Hi, The differential flatness of the car dynamics will be discussed in the next discussion session. Best, Wolfgang",
+                                    "Response to": "p1087355"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Issue with Assignment 3 Testing",
+                            "Discussion_Id": "605937",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087115",
+                                    "Author": "Rui Zhang",
+                                    "DateTime": "2024-07-06T23:04:38+02:00",
+                                    "Content": "Hello, I wanted to explain an issue with my Assignment 3 results. The test4 failed, but I believe the failure is not directly related to the core task requirements. After completing the main task, I tried to detect and run \"ompl_benchmark_statistics.py\" in the script directory. This worked fine locally, but the test program's temporary folder didn't match the file path within my script, causing the error. I know this is my fault, but since I met the main requirements, I hope this won't heavily affect my grade. I apologize for any inconvenience this may have caused and appreciate your understanding.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "changed requirements.txt ompl version",
+                            "Discussion_Id": "605400",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086364",
+                                    "Author": "Niklas Markus Keitsch",
+                                    "DateTime": "2024-07-04T00:16:26+02:00",
+                                    "Content": "I changed the OMPL version in the requirements.txt to ompl-1.6.0-cp310-cp310-manylinux_2_28_x86_64.whl, because this was the only version that worked for me, now the test from gitlab says: ERROR: ompl-1.6.0-cp310-cp310-manylinux_2_28_x86_64.whl is not a supported wheel on this platform. I hope this is no problem, because now it's too late to fix this.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "fcl incompability with numpy ",
+                            "Discussion_Id": "605370",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086314",
+                                    "Author": "Hassan Mohammadi",
+                                    "DateTime": "2024-07-03T20:24:27+02:00",
+                                    "Content": "Hello,  Is anyone else also getting the same kind of error as show in the picture. I don't really understand how could this happen. I was also running the tests today and also in the past days, but i've never encountered this error. It would be nice if anybody could help.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086320",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-03T20:44:13+02:00",
+                                    "Content": "Hi, Seems like you updated numpy to 2.x. You need to downgrade, see https://isis.tu-berlin.de/mod/forum/discuss.php?d=603606. Best, Wolfgang",
+                                    "Response to": "p1086314"
+                                },
+                                {
+                                    "Message_id": "p1086349",
+                                    "Author": "Hassan Mohammadi",
+                                    "DateTime": "2024-07-03T22:38:26+02:00",
+                                    "Content": "Hi, thank you, it worked now. I must have missed this on the Forum.  best regards Hassan",
+                                    "Response to": "p1086320"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Benchmarking with different samplers",
+                            "Discussion_Id": "605141",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086012",
+                                    "Author": "Reyk Hanno Carstens",
+                                    "DateTime": "2024-07-03T00:00:19+02:00",
+                                    "Content": "Hello,  I don't really understand how we are supposed to test planners with different state samplers in one file. To set up the \"Benchmark\" object, a \"SpaceInformation\" object is needed. Only in the \"SpaceInformation\" object the Space Sampler can be set. The \"SpaceInformation\" is also needed for creating a planner. When adding planners to the benchmark object, it is required that the \"SpaceInformation\" object is the same. When updating the state sampler in one of the planners space informations, it updates for all the planners because they are pointing to the same instance, therefore making it impossible to change the state samplers before the tests start. The second possibility I found is to switch the state sampler before starting the tests with a new planner by setting the \"setPlannerSwitchEvent\" with a corresponding function. However, until now I was not able to get this function working. For all of the things I tried, which was passing some sort of functions to this, I get the following error:  did not match C++ signature:     setPlannerSwitchEvent(ompl::tools::Benchmark*, std::function<void (std::shared_ptr<ompl::base::Planner>)>)  Do you have any ideas how this function can be called or how we are supposed to perform the benchmark?   Best Reyk",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086107",
+                                    "Author": "Andreas Orthey",
+                                    "DateTime": "2024-07-03T11:18:59+02:00",
+                                    "Content": "Hi Reyk,  you have the right idea. The planner switch function is exactly the right place to change functions in the SpaceInformation object including setting the StateSpaceSampler. However, I believe you might have not called the function in the right way from python. Here is a simple way of how you call it:  First, you need to define a function to change the sampler (there goes your logic for choosing samplers based on planner type/name).  def MyPreRunEvent(planner): planner.getSpaceInformation().setValidStateSamplerAllocator(.... your state sampler goes here....)  Then you need to tell this function to the benchmarker. benchmark.setPlannerSwitchEvent(tools.PreSetupEvent(MyPreRunEvent))  I suspect that you might not have used the PreSetupEvent? If this does not work, please post the line of code where you call the function.  Andreas",
+                                    "Response to": "p1086012"
+                                },
+                                {
+                                    "Message_id": "p1086150",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-07-03T12:44:35+02:00",
+                                    "Content": "Hi,  I seem to have a similar problem. I tried implementing it the way you suggested, cannot really get it to work correctly though... I have set the Switch and then added the 4 planners with benchmark. Before each run it seems to enter the MyPreRunEvent (I tested it with prints), but it doesn't change the StateSampler. It always stays uniform (as default). Do we have to call something in between adding the planners?  Thanks, Hannah",
+                                    "Response to": "p1086107"
+                                },
+                                {
+                                    "Message_id": "p1086268",
+                                    "Author": "Andreas Orthey",
+                                    "DateTime": "2024-07-03T17:28:34+02:00",
+                                    "Content": "Without a bit of code it is difficult to say what went wrong. Something which might have happened is that you used planner.name instead of planner.setName/planner.getName to handle the planner naming (this fails silently, likely because name is private). A minimal example which runs on my machine is:  def MyPreRunEvent(planner):   if planner.getName() == \"Sampler1\":     planner.getSpaceInformation().setValidStateSamplerAllocator(base.ValidStateSamplerAllocator(getStateSampler1))   elif planner.getName() == \"Sampler2\":     planner.getSpaceInformation().setValidStateSamplerAllocator(base.ValidStateSamplerAllocator(getStateSampler2)) planner = geometric.RRT(si) planner.setName(\"Sampler1\") planner = geometric.RRT(si) planner.setName(\"Sampler2\") benchmark.setPlannerSwitchEvent(tools.PreSetupEvent(MyPreRunEvent))",
+                                    "Response to": "p1086150"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grade for assignment 2 missing",
+                            "Discussion_Id": "603232",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083276",
+                                    "Author": "Kilian Daniel Laschewsky",
+                                    "DateTime": "2024-06-24T22:05:19+02:00",
+                                    "Content": "Hello, I still havent got feedback on assignment 2 on ISIS. Anyways, will there be a solution published? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083841",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-26T09:04:41+02:00",
+                                    "Content": "Hello Kilian,  yes, the solution will be published on Monday, as there were many open discussions regarding the grading. You haven't received your grade yet because you didn't name the tag correctly you pushed your code with. Due to the sheer amount of submissions and the therefore many, many ways to name the tags, we provided you with the correct name of the tag in the tutorial and reminded you multiple times about this. Our automated script for testing your submissions doesn't handle tags that differ from 'assignment2'.  I granted other students the chance to upload their code to the correct tag and then ran their code manually. Let me know as soon as you did that.  Best Pia",
+                                    "Response to": "p1083276"
+                                },
+                                {
+                                    "Message_id": "p1085644",
+                                    "Author": "Kilian Daniel Laschewsky",
+                                    "DateTime": "2024-07-02T09:31:58+02:00",
+                                    "Content": "Hey Pia, thanks for your explaination. I added the correct tag to the old code. Kilian",
+                                    "Response to": "p1083841"
+                                },
+                                {
+                                    "Message_id": "p1085912",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-07-02T17:04:57+02:00",
+                                    "Content": "Hello Kilian,  I'm sorry, but you missed the final deadline as announced here: https://isis.tu-berlin.de/mod/forum/discuss.php?d=604049 I won't update your grade now.  Best, Pia",
+                                    "Response to": "p1085644"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Runtime error in VL8-demo and tast3.2",
+                            "Discussion_Id": "604838",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085590",
+                                    "Author": "Huanyu Zhang",
+                                    "DateTime": "2024-07-02T00:48:17+02:00",
+                                    "Content": "Dear Team, I always get this wierd error when running demo2 without any modification. This leads to the same error when I do tast3.2. However I can run other demos without any problems. I tried to use shared pointer but it didn't work. I don't know how to fix it.  Does anyone else have the same error? Would be grateful if someone can fix it! best, Huanyu",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085599",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-02T07:28:21+02:00",
+                                    "Content": "Hi, This is an issue on Mac. You find discussion and resolution at https://isis.tu-berlin.de/mod/forum/discuss.php?d=602732. Best, Wolfgang",
+                                    "Response to": "p1085590"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gitlab Runner Down",
+                            "Discussion_Id": "604484",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085055",
+                                    "Author": "Viktor Karl Walter Lorentz",
+                                    "DateTime": "2024-06-30T19:46:18+02:00",
+                                    "Content": "Hi,   currently the gitlab runner is not available for me (its shared so probably for everyone). This is probably not something you can fix yourself, but i still wanted to make you aware of the issue. I hope this gets resolved soon.  I saw that you are running the benchmark in the pipeline. Depending on the benchmark setup, this will block the runner for quite a significant time, so maybe you could remove it or let it time out or something.   For anyone that still wants to run the pipeline right now:  If you have docker installed you can simply open a terminal to your repository directory and run the following command:  docker run --entrypoint bash --rm -w $PWD -v $PWD:$PWD -v /var/run/docker.sock:/var/run/docker.sock gitlab/gitlab-runner:v16.9.1 -c 'git config --global --add safe.directory \"*\";gitlab-runner exec docker test'  Source: https://stackoverflow.com/questions/32933174/use-gitlab-ci-to-run-tests-locally  This will pull the correct version gitlab runner image and should run all the tests in exactly the same way the tu gitlab does. This should give you a certain level of confidence that your job will complete when it is finally run on gitlab.  Best, Viktor",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085068",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-30T21:19:16+02:00",
+                                    "Content": "Hi, The gitlab runner is back online. Thanks for letting us know and for the instructions on how to run the tests locally! Best, Wolfgang",
+                                    "Response to": "p1085055"
+                                },
+                                {
+                                    "Message_id": "p1085383",
+                                    "Author": "Hassan Mohammadi",
+                                    "DateTime": "2024-07-01T14:46:47+02:00",
+                                    "Content": "Thank you so much for recommending a way to run the pipeline locally. I have tested this and it worked for me with the docker, but i have some questions regarding these tests. first: I see in the log that some tests regarding the collision check of assignment1 have failed, i don't understand why the collision.py has to be tested again. And even when i run the tests with the provided solution to the assignment1 the tests fail nevertheless. This is a bit weird.  second: Is it normal that no information on where the problem might be is provided when the tests fail? I just see the tests have failed and have no idea where the problem is.  thank you so much best regards Hassan",
+                                    "Response to": "p1085055"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "using meshcat in the docker",
+                            "Discussion_Id": "604646",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085290",
+                                    "Author": "Hassan Mohammadi",
+                                    "DateTime": "2024-07-01T13:03:37+02:00",
+                                    "Content": "Dear motion planning team, for the third part of assignment3 we have to use meshcat to visualize the tree during the construction. I'm personally using docker, because i couldn't install the ompl in my ubuntu system. When i tried to install meshcat using pip in the docker, it threw an error saying that i need to install some libraries first. But not having root access makes it impossible to install those dependancies. Has anyone else had the same issue?  best regards Hassan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085321",
+                                    "Author": "Viktor Karl Walter Lorentz",
+                                    "DateTime": "2024-07-01T13:44:45+02:00",
+                                    "Content": "Hi Hassan, i just pushed my docker image. It installs everything the same way the CI does from requirements.txt. So all dependencies, that we are allowed to use are there. https://hub.docker.com/layers/viktorlorentz/python-ompl-fcl-meshcat/latest/images/sha256-7994f805414852262311ec34edae5345aaf82004d6345e0847be8326217c8620?tab=layers  To use it you can simply run this in your repo directory: docker run --rm -it -v ${PWD}:/home/ompl -p 7001:7000 viktorlorentz/python-ompl-fcl-meshcat  It will give you an interactive console where you can run all the python commands as usual. This will also mount the repo directory and expose the meshcat port. Then you can open localhost:7001 and output files will be in your repo.  Hope this helps.  Best, Viktor",
+                                    "Response to": "p1085290"
+                                },
+                                {
+                                    "Message_id": "p1085326",
+                                    "Author": "Viktor Karl Walter Lorentz",
+                                    "DateTime": "2024-07-01T13:49:16+02:00",
+                                    "Content": "For reference, here is the Dockerfile in case anyone wants to change it or build it themselves:  # Use the latest Python image FROM python:latest # Set the working directory WORKDIR /home/ompl # Copy the requirements file into the container COPY requirements.txt . # Install dependencies RUN python3 -m pip install --no-cache-dir -r requirements.txt # Expose the Meshcat port EXPOSE 7000 # Set the entrypoint and open bash ENTRYPOINT [\"/bin/bash\"]",
+                                    "Response to": "p1085321"
+                                },
+                                {
+                                    "Message_id": "p1085343",
+                                    "Author": "Hassan Mohammadi",
+                                    "DateTime": "2024-07-01T14:07:27+02:00",
+                                    "Content": "Hello Viktor, thank you so much for providing your docker image, it worked for me.  best regards Hassan",
+                                    "Response to": "p1085321"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "approximate solutions",
+                            "Discussion_Id": "604504",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085085",
+                                    "Author": "Theodor Marius Wienert",
+                                    "DateTime": "2024-06-30T23:59:50+02:00",
+                                    "Content": "Dear Team, First question :  What should we do if the planner only finds an approximate solution for the car_1 example? Second question: What should we do here \"if this is <= 0, return the first solution; otherwise return best solution after the time is up\" should this return the first exact solution or the first Solution including approximate solutions?? Thanks for an answer Kind regards Theo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085096",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-01T06:56:39+02:00",
+                                    "Content": "Hi, 1. You can return the approximate solution. (But returning no solution should be, similar to assignment2, also OK for our test cases!) 2. The first exact solution. Best, Wolfgang",
+                                    "Response to": "p1085085"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PlannerType missing in arm_0",
+                            "Discussion_Id": "604271",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084721",
+                                    "Author": "Theodor Marius Wienert",
+                                    "DateTime": "2024-06-28T13:35:45+02:00",
+                                    "Content": "Dear Team, in cfg/arm_0.yaml  the planner type is not defined . Should we just use one defined case here? If not please push a new version to the upstream. Kind regards Theo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085095",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-01T06:51:53+02:00",
+                                    "Content": "Hi, You can fall back to a default planner, e.g., RRT. Best, Wolfgang",
+                                    "Response to": "p1084721"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Planners and Controls",
+                            "Discussion_Id": "603804",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084050",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-26T15:01:04+02:00",
+                                    "Content": "Hi, I have a question regarding the planners. It says that we should support RRT and SST. How should we implement the choice? As an input at the beginning? Or as a command? Or should we include it in the .yaml? Also we should only implement the choice for the car, right? Or should the arm also support both? Also I have a question regarding the stepwise and controls. dt is set as 0.1 in the .yaml file, but the controls are often applied multiple steps. Should we just safety the file the control once (and also just the \"end state\" after that control)? Or should we include the control x times with all the intermediate steps? Thanks, Hannah",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084068",
+                                    "Author": "Leonard Moschcau",
+                                    "DateTime": "2024-06-26T15:40:00+02:00",
+                                    "Content": "Regarding the first question: This is clarified in the assignment3.md file. For both arm and car a new key planner is introduced in the yaml file under hyperparameters. For the arm rrt, rrt* and rrt-connect should be supported, for the car rrt and sst should be supported.   Lg, Leonard",
+                                    "Response to": "p1084050"
+                                },
+                                {
+                                    "Message_id": "p1084182",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-26T20:34:56+02:00",
+                                    "Content": "Hi, The first question was already answered (thanks, Leonard!). For the second question: It is important that you output a valid kinodynamic motion plan, i.e., the resulting sequence of states and actions needs to be consistent with the robot dynamics. You can use multiple control steps during the propagation, but need to make sure that you output intermediate states and actions in the results file. Best, Wolfgang",
+                                    "Response to": "p1084050"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office Hour",
+                            "Discussion_Id": "603721",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083944",
+                                    "Author": "Max Yvon Zimmermann",
+                                    "DateTime": "2024-06-26T11:43:47+02:00",
+                                    "Content": "Hello, I am unable to come to the office hour for assignment 2. Is it possible to discuss my code at a later date / office hour?  Thank you, Max",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083973",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-26T12:35:53+02:00",
+                                    "Content": "Hi,  I also have a question regarding the office hour today: Is it also possible to ask questions regarding assignment 3?  Thanks, Hannah",
+                                    "Response to": "p1083944"
+                                },
+                                {
+                                    "Message_id": "p1083980",
+                                    "Author": "Georg Joachim Wolnik",
+                                    "DateTime": "2024-06-26T12:41:50+02:00",
+                                    "Content": "Regarding the office hour. Does it take place in MAR 4.018 like for programming assignment 1 or is it in another room?",
+                                    "Response to": "p1083944"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "OMPL",
+                            "Discussion_Id": "602732",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082516",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-22T13:16:58+02:00",
+                                    "Content": "Hi, When trying to run the Demo2 from last weeks lecture I get the attached error. There seems to be a problem when including the control space in control.SpaceInformation(). Has anyone else encountered this problem?  Would be very grateful for some help here! Thanks, Hannah",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082566",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-22T21:36:16+02:00",
+                                    "Content": "Hi, Andreas used the docker image. I also verified that it works with the suggested *.wheel on Linux. From what I remember, you are using Mac? Could you  1) provide the version of the installed OMPL (e.g., using  \"from importlib.metadata import version version('ompl')\" or using \"pip freeze | grep ompl\"? 2) Post the full error message (i.e., what is the C++ signature it's looking for)? If you have docker, it might be worth trying that, too (instructions are in the assignment). Best, Wolfgang",
+                                    "Response to": "p1082516"
+                                },
+                                {
+                                    "Message_id": "p1082574",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-22T22:28:20+02:00",
+                                    "Content": "Hi,  Yes, I am using Mac.  I have attached the version and the whole error message. Also including the frozen importlib._bootstrap I already showed you.  I have never used docker and was unsure about it, as it says, that you won't get code completion. What exactly does that mean?  Thanks, Hannah",
+                                    "Response to": "p1082566"
+                                },
+                                {
+                                    "Message_id": "p1082725",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-23T21:25:56+02:00",
+                                    "Content": "Hi, The last RuntimeWarning seems to cause it: the SpaceInformation always points to base, and not to control. I am not sure how to properly fix this problem and I recommend that you use the Docker approach instead. No code completion means that if you use an IDE (like VSCode), you won't get automatic hints on which functions are available when using the docker container (unless you use docker-specific extensions). Best, Wolfgang",
+                                    "Response to": "p1082574"
+                                },
+                                {
+                                    "Message_id": "p1083207",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-24T18:02:10+02:00",
+                                    "Content": "Hi,  Okay thanks! It seems to be working with the docker now. I only have problem with matplotlib now... When running the script with the given command 'docker run --rm -v ${PWD}:/home/ompl -P kavrakilab/omplapp python3 script.py' I always get the error that matplotlib could noch be found. Numpy etc. work. I don't think I need both in the same script though, so I can just run some with docker and the rest without. Or do you have an idea, how I could solve the problem with also including matplotlib?  Thanks, Hannah",
+                                    "Response to": "p1082725"
+                                },
+                                {
+                                    "Message_id": "p1083216",
+                                    "Author": "Nicolas Marco Hahn",
+                                    "DateTime": "2024-06-24T18:37:55+02:00",
+                                    "Content": "Hi,  I had the same issue. You can modify the Dockerfile und rebuild the image.  this Dockerfile works for me:  FROM kavrakilab/omplapp  USER root  RUN apt-get update && apt-get install -y \\ python3-pip \\ zlib1g-dev \\ libjpeg-dev \\ libpng-dev \\ libfreetype6-dev \\ && rm -rf /var/lib/apt/lists/*  RUN pip3 install matplotlib pyyaml meshcat --upgrade  WORKDIR /home/ompl  USER ompl  CMD [\"bash\"]",
+                                    "Response to": "p1083207"
+                                },
+                                {
+                                    "Message_id": "p1083243",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-24T19:42:41+02:00",
+                                    "Content": "Hi Nicolas,  Okay cool thanks! Do you then use 'docker run --rm -v ${PWD}:/home/ompl -P kavrakilab/omplapp python3 script.py' to execute? Or do just run the image?  Thanks, Hannah",
+                                    "Response to": "p1083216"
+                                },
+                                {
+                                    "Message_id": "p1083309",
+                                    "Author": "Nicolas Marco Hahn",
+                                    "DateTime": "2024-06-25T07:02:02+02:00",
+                                    "Content": "Hi Hannah,  I think there are many ways to do it. For me it works best when I start a container and connect to the command line inside the container.  This works for me with the Dockerfile I showed you:  # in Dockerfile folder docker build -t ompl .  # check with command docker images the name of the image  # start a container in the folder with your code from assignment (the -p 7000:7000 is port forwarding for the visualization stuff) docker run -it --rm -v $(pwd):/home/ompl -p 7000:7000 --name ompl_container ompl:latest  # then you are in the the command line of the container and can execute python files or you connect via VS code to the runnung container   Hope this helps Nico",
+                                    "Response to": "p1083243"
+                                },
+                                {
+                                    "Message_id": "p1083792",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-25T22:35:36+02:00",
+                                    "Content": "Hi Nico, Thank you so so much! It's working now :)",
+                                    "Response to": "p1083309"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ompl segmentation fault",
+                            "Discussion_Id": "603240",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083288",
+                                    "Author": "Jiaming Li",
+                                    "DateTime": "2024-06-24T22:56:30+02:00",
+                                    "Content": "Hi,  I am now trying to run the code(VL8-demo1a.py) on a ubuntu machine, and I used the requirements.txt to install the dependencies in my virtual environments. However, I always get a segmentation fault at line \"si.setting()\". Since I used python3.9 iin my virtual env I changed the wheel in the requirements.txt to cp39, would that be a problem? Or is there any way to solve that? Best, Jiaming Li",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083772",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-25T21:11:38+02:00",
+                                    "Content": "Hi, which Ubuntu version are you using? We tested with Ubuntu 22.04 and 24.04. Best, Wolfgang",
+                                    "Response to": "p1083288"
+                                },
+                                {
+                                    "Message_id": "p1083786",
+                                    "Author": "Jiaming Li",
+                                    "DateTime": "2024-06-25T22:11:20+02:00",
+                                    "Content": "Hi,  I am using 20.04, I thought it should be okay on this older version, but it seems not. Then I tried the docker image and it works for me now by using docker. And I also notice that since numpy release 2.0.0 last week, we need to downgrade numpy to get ompl work after running \"pip install -r requirements.txt\". So it might be helpful to modify the requirements.txt to fix this issue.  Best, Jiaming Li",
+                                    "Response to": "p1083772"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Requirements.txt needs to be updated for numpy 2.0.0",
+                            "Discussion_Id": "603606",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083770",
+                                    "Author": "Viktor Karl Walter Lorentz",
+                                    "DateTime": "2024-06-25T21:10:03+02:00",
+                                    "Content": "Hello,  last week, numpy 2.0.0 was released. This now causes the requirement.txt line numpy >= 1.24 to resolve to the 2.0 version. But fcl as well as ompl do not support numpy 2 yet. This will also break the CI tests.  I suggest replacing the line with`numpy < 2` until ompl and fcl release new versions.  Regards  Viktor",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083780",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-25T21:47:01+02:00",
+                                    "Content": "Hi, Thanks for pointing that out. I updated it upstream, so please update your forks if you haven't done that change locally already. Best, Wolfgang",
+                                    "Response to": "p1083770"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reusing code from last assignment ",
+                            "Discussion_Id": "603245",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083294",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-24T23:36:05+02:00",
+                                    "Content": "Hi, I have a question regarding the isValid() and Propagate() functions for ompl. Can we again just reuse our collision checker and use the steering functions from last assignment? This implementing it with fcl? Or are we supposed to build it differently? Thanks, Hannah",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083773",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-25T21:13:49+02:00",
+                                    "Content": "Hi, You should re-use as much of your own prior code as possible. Best, Wolfgang",
+                                    "Response to": "p1083294"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grade Assignment2 missing and Docker fcl:",
+                            "Discussion_Id": "602788",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082616",
+                                    "Author": "Nicolas Marco Hahn",
+                                    "DateTime": "2024-06-23T11:47:37+02:00",
+                                    "Content": "Hello, I first installed OMPL on my local computer and everything worked until the benchmark task. Here I had the problem that import ompl.tools as tools could not be imported (only this modul) That's why I'm currently using the Docker container. Here I discovered something that I don't understand at all and that cost me a lot of time.   If I first import OMPL in my script (for the robot arm) that I run on the container, I get collisions in the collision checks where no collisions occur at all. If I first import fcl and then ompl, everything works and only collisions are recognized if one occurs. Both times, however, the same fcl version is imported when I display the version: fcl version: 0.0.12  works: import fcl from ompl import base as base from ompl import geometric as geometric import ompl.control as control import ompl.tools as tools  does not work: from ompl import base as base from ompl import geometric as geometric import ompl.control as control import ompl.tools as tools import fcl   What could be the reason for this and what happens later in the test when the script is executed in a different environment? Also, I haven't received a rating for my Assignment2 (also exercise 6) yet. Is this still coming or has something gone wrong? I pushed it under the assignment2-solution tag. Many thanks for helping. Best, Nico",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083029",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-24T14:16:58+02:00",
+                                    "Content": "Hello Nico,  the name of the tag that you pushed to gitlab for assignment 2 was different than what our automated script expected. Please understand that, due to the amount of submissions, we can't always double check this manually (because - as you probably can guess - there's many ways to name the tags, which is why we provide the name in the first place). I'll grade your submission manually now and add it. But that is an exception, so please make sure to name your tags correctly for assignment 3.  Best Pia",
+                                    "Response to": "p1082616"
+                                },
+                                {
+                                    "Message_id": "p1083039",
+                                    "Author": "Nicolas Marco Hahn",
+                                    "DateTime": "2024-06-24T14:32:35+02:00",
+                                    "Content": "Thank you very much,  sorry for the circumstances. I thought the last commit was always tested. Thanks !  Best, Nico",
+                                    "Response to": "p1083029"
+                                },
+                                {
+                                    "Message_id": "p1083114",
+                                    "Author": "Yahuan Shi",
+                                    "DateTime": "2024-06-24T15:50:39+02:00",
+                                    "Content": "Hello,  Sorry, I have the same problem. Assignment 2 has not been graded. I hope you can help me add labels and grade it. I will pay attention to this problem in future assignments.  Thank you very much  Br,  Yahuan Shi",
+                                    "Response to": "p1083029"
+                                },
+                                {
+                                    "Message_id": "p1083612",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-25T15:59:22+02:00",
+                                    "Content": "Hello Yahuan,  you currently have two branches/tags in your repository that don't match the name of the tag we provided and expected for your submission. If you tell me to which tag you pushed your solution for assignment 2, I will manually test your code. Please make sure to push your code with the correct tag for the next exercise.  Best, Pia",
+                                    "Response to": "p1083114"
+                                },
+                                {
+                                    "Message_id": "p1083668",
+                                    "Author": "Yahuan Shi",
+                                    "DateTime": "2024-06-25T17:05:50+02:00",
+                                    "Content": "Hi Pia,  Thank you very much.  git tag assignment2 57b34bc86a44c2508dee4a5dbf473d9ac75b2435  Best,  Yahuan Shi",
+                                    "Response to": "p1083612"
+                                },
+                                {
+                                    "Message_id": "p1083684",
+                                    "Author": "Yahuan Shi",
+                                    "DateTime": "2024-06-25T17:25:28+02:00",
+                                    "Content": "Hi Pia,  Thank you very much. I just added the Tag. You can find the correct code now, thanks for your manual testing.  git tag assignment2  Best,  Yahuan Shi",
+                                    "Response to": "p1083612"
+                                },
+                                {
+                                    "Message_id": "p1083702",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-25T17:54:12+02:00",
+                                    "Content": "Hi Yahuan,  I've updated your grade after running the test manually. If you have any further questions or discussion topics, please make use of the office hour tomorrow at 2 pm in MAR 4.015.  Best Pia",
+                                    "Response to": "p1083684"
+                                },
+                                {
+                                    "Message_id": "p1083234",
+                                    "Author": "Wangdong Yin",
+                                    "DateTime": "2024-06-24T19:21:47+02:00",
+                                    "Content": "Hi Pia, I have same problem of that.sorry for that.Assignment 2 has not been graded.could you help add the right label. Thanks Best regards, Yin",
+                                    "Response to": "p1083029"
+                                },
+                                {
+                                    "Message_id": "p1083615",
+                                    "Author": "Pia Hanfeld",
+                                    "DateTime": "2024-06-25T16:02:30+02:00",
+                                    "Content": "Hello Yin,  your code has been pushed to the main branch on your repository. This is not the way we explained how we and our automated test script expects your code to be prepared for submission. Please push your code with the tag 'assignment2', let me know, and I will test your code manually. If you don't know how to use tags with git, please use the search engine of your choice to help you with that. Please make sure to push your code with the correct tag for the next exercise.  Best, Pia",
+                                    "Response to": "p1083234"
+                                },
+                                {
+                                    "Message_id": "p1083672",
+                                    "Author": "Wangdong Yin",
+                                    "DateTime": "2024-06-25T17:07:08+02:00",
+                                    "Content": 

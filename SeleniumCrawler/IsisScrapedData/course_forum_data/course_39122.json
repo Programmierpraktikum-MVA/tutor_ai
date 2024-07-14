@@ -1,0 +1,124 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Internet and Network Security - INET",
+        "Course_id": "39122",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1817753",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "More information about the upcoming practical part: A/D CTFs",
+                            "Discussion_Id": "597663",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075142",
+                                    "Author": "Sebastian Neef",
+                                    "DateTime": "2024-05-29T14:38:05+02:00",
+                                    "Content": "Hi all, thanks again for attending the Websecurity lecture and the great interest in the practical CTF exercise! As promised, we're providing you more information on the upcoming dates and rooms:  - A/D-CTF Testrun 1: Fri, 07.06. 12:00 - 17:00 in H 3025 - A/D-CTF Testrun 2: Fri, 14.06, 12:00 - 17:00 in H 3013 - A/D-CTF-Testrun (final): Tue, 25.06, 14:00 - 22:00 in H 3010 + H 3013  You can choose any of the dates, but we would appreciate an uniform distribution, so that our project students can get as much feedback from you as possible. Also, feel free to come to several events if you enjoy playing CTFs.  If you decide to come, please be there 15 minutes earlier, as we will start s.t. In case you have an overlapping lecture during these time slots, talk to us and we'll find a solution. However, it's the most fun and the best experience if you can stay the whole event. Once there, talk to either Henning or Sebastian so we can mix the InSec-course attendees with our project's attendees. You'll be playing the CTF as a team of 5-6 people, so you get the chance to learn from and help each other. If you bring a friend, we'll try to put you in the same group :)  Confidentiality: As the services/challenges you test in the testruns will be part of the official international ENOWARS competition, please keep the source code and all information confidential. It would be a pity if anything becomes public before the actual competition.  Preparation: As mentioned in the lecture, please try to come as prepared as possible. Bring motivation and an open mind to learn new things. You might feel overwhelmed, but this perfectly fine for someone's first CTF. Try to engage with your team members nonetheless :) Check the slides and Liveoverflow's video again to revise how attack-defense CTFs work. You'll be part of a team that has to defend their own VM and exploit other VMs. Bring your laptop or computer. We might not have access to a computer pool due to TU's room situation. If you don't have one, come nonetheless - \"looking over the shoulder\" works, too. Ensure you have a SSH-client and OpenVPN-client installed and a basic understanding of the Linux-command line. (Don't worry if you don't feel confident using the terminal - Copying the files to your (Windows?) system or using VisualStudio's remote-editing capabilities is also possible, but you'll to connect to the VM using SSH.) Check the \"CTF Cheat Sheet\" for some commands and configurations that might be useful during the CTF. Otherwise, don't hesitate to ask your team members. Check out the OWASP Top 10 [0] or some of the old ENOWARS  [1] services (README and documentation/-folder) to get an idea what kind of vulnerabilities there might be. You can find some writeups for the vulnerabilities and exploits of past ENOWARS iterations on CTFtime [2,3]. However, there will be simpler services/vulnerabilities, too.  If you have any questions, feel free to post them in the discussion forum or reach out to me neef [at] sect.tu-berlin.de.  Reminder: There is AG Rechnersicherheit [4] (a student IT-sec meetup) which meets every Tuesday from 18:00 - 20:00 and discusses IT-security topics, plays CTFs, etc. Due to the closure of TEL, the meeting room is MAR 0.0011 for now, but this could change. Check the website. Finally, it's open to all and always looking for new people :)  We are looking forward to seeing you Friday next week, Sebastian  [0] https://owasp.org/Top10/ [1] https://github.com/enowars?q=enowars&type=all&language=&sort= [2] https://ctftime.org/event/1340/tasks/ [3] https://ctftime.org/event/828/tasks/ [4] https://ag-rechnersicherheit.de/",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077427",
+                                    "Author": "Sebastian Neef",
+                                    "DateTime": "2024-06-05T18:17:55+02:00",
+                                    "Content": "Hi all,  this Friday is Testrun #1. Here are some remarks if you decide to join:  The CTF will start at 12.00 sharp. Be in H 3025 at 11.30 if possible. The network between the VMs will be open from the start. We would like you to provide feedback for the service you hack. Please join the other course [0] and use the ISIS-Etherpads. Bring some drinks/snacks so that you don't starve during the CTF. We are looking forward to seeing you there.  Cheers and see you on Friday, Sebastian  [0] https://isis.tu-berlin.de/course/view.php?id=38286",
+                                    "Response to": "p1075142"
+                                },
+                                {
+                                    "Message_id": "p1080261",
+                                    "Author": "Sebastian Neef",
+                                    "DateTime": "2024-06-14T18:39:01+02:00",
+                                    "Content": "Hi there,  we found a lone charger in the room last week. Is anyone of the attendees missing it? Reach out to me via email and I'll return it to you.  Best, Sebastian",
+                                    "Response to": "p1077427"
+                                },
+                                {
+                                    "Message_id": "p1079313",
+                                    "Author": "Sebastian Neef",
+                                    "DateTime": "2024-06-12T10:13:22+02:00",
+                                    "Content": "Hi all,  similar to last week, this Friday is the second CTF \"Testrun #2\". Here are some remarks if you decide to join:  The CTF will start at 12.00 sharp. Be in H 3013 at 11.30 if possible. The network between the VMs will be open from the start. We would like you to provide feedback for the service you hack. Please join the other course [0] and use the ISIS-Etherpads. Bring some drinks/snacks so that you don't starve during the CTF. We are looking forward to seeing you there.  Cheers and see you on Friday, Sebastian  [0] https://isis.tu-berlin.de/course/view.php?id=38286",
+                                    "Response to": "p1075142"
+                                },
+                                {
+                                    "Message_id": "p1082894",
+                                    "Author": "Sebastian Neef",
+                                    "DateTime": "2024-06-24T11:43:14+02:00",
+                                    "Content": "Hi all,  again a friendly reminder that tomorrow is the last chance to participate in our \"final testrun\". This time, all services will be played, so if you participated in one of the earlier testruns, you'll get the chance to see how the service has evolved. We would love to see you again :)  Date: 14:00 - 22:00 (main time: 14:00 - 18:00; 18:00 - 20:00 during AGRS and beyond) Room: H 3010 + H 3013  The structure is similar to the previous testruns, so please read the other announcements' instructions.  See you tomorrow, Sebastian",
+                                    "Response to": "p1075142"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "lecture online!",
+                            "Discussion_Id": "601668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081013",
+                                    "Author": "Stefan Schmid",
+                                    "DateTime": "2024-06-17T23:35:15+02:00",
+                                    "Content": "Dear all, as announced, this week we will learn about \"air-gapped networks\". This lecture will only take place online, via Zoom. So we will *not* meet in the lecture room this week. We will send a Zoom link soon. The slides will also be uploaded here before the lecture. Kind regards and see you tomorrow! Stefan Schmid",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081309",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-06-18T16:32:25+02:00",
+                                    "Content": "Dear all,  the link for the lecture tomorrow: https://tu-berlin.zoom.us/j/61961739545?pwd=Oiu9QpagHS3DS70xRVRdxPouHJbC3N.1  Best,  Max",
+                                    "Response to": "p1081013"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "lecture time and room",
+                            "Discussion_Id": "587062",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058603",
+                                    "Author": "Stefan Schmid",
+                                    "DateTime": "2024-04-17T18:29:53+02:00",
+                                    "Content": "Dear students, it seems that unfortunately, the ISIS page was down for some time recently. In case you did not find the lecture room today: we mainly discussed administrative aspects of the course. We will upload the slides here soon. And you can also ask questions next week in the lecture. We will start with the technical material next Wednesday, the usual time and place (415pm-545pm at H 2013). Apologies and see you next week! Stefan Schmid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions",
+                    "Forum_id": "1817754",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "[offtopic] TR-069 protocol - when an ISP gets hacked",
+                            "Discussion_Id": "600990",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080003",
+                                    "Author": "Dor Cohen",
+                                    "DateTime": "2024-06-13T20:48:10+02:00",
+                                    "Content": "Ok, the title is a bit of clickbait, but I found this super interesting story about a mega vulnerability in an ISP. https://samcurry.net/hacking-millions-of-modems",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration needed and Homework?",
+                            "Discussion_Id": "587380",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059101",
+                                    "Author": "Alexander Schwind",
+                                    "DateTime": "2024-04-18T15:28:52+02:00",
+                                    "Content": "Hello, I didnt attend the first lecture and I am wondering if there is any need to register, if there will be any homework and what I need to get the networked systems specialization (small). I am also attenting the course \"Datacenter Networking ...\". ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

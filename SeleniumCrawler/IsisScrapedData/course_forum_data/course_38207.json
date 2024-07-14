@@ -1,0 +1,274 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Numerische Thermo- und Fluiddynamik - Vertiefungen",
+        "Course_id": "38207",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1783948",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "UE09 Übungsaufgabe online",
+                            "Discussion_Id": "602706",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082469",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-06-21T21:23:55+02:00",
+                                    "Content": "Liebe Studierende, die Abstimmung hat ergeben, dass die Programmierübung bevorzugt wird. Die entsprechende Übungsaufgabe ist bereits online verfügbar. Bitte nehmt euch die Zeit, sie vor der Übung durchzugehen, damit ihr währenddessen gut mitkommt. WICHTIG: Bearbeitet die Aufgaben (a), (b) und (c) vor der Übung, sodass wir mit den folgenden Aufgaben zusammen weiterarbeiten können! Wenn es Probleme bei der Implementierung gibt, könnt ihr gerne meine Sprechstunde in Anspruch nehmen oder mir eine E-Mail schreiben. Um aktiv am Programmieren teilnehmen zu können, denkt bitte daran, euch entsprechend auszustatten (Laptop + Matlab). Viele Grüße Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abstimmung freigeschaltet",
+                            "Discussion_Id": "602155",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081664",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-06-19T15:39:43+02:00",
+                                    "Content": "Liebe Studierende, ab sofort ist die Abstimmung für das Format der nächsten Übung am 26.06.24 freigeschaltet. Ich bitte euch, bis Donnerstagabend abzustimmen. Vielen Dank! Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgabe UE07 online!",
+                            "Discussion_Id": "599568",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077911",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-06-07T09:57:57+02:00",
+                                    "Content": "Liebe Studierende, in der bevorstehenden Übung am Mittwoch, dem 12.06.2024, werden wir programmieren. Die entsprechende Übungsaufgabe ist bereits online verfügbar. Bitte nehmt euch die Zeit, sie vor der Übung durchzugehen, damit ihr währenddessen gut mitkommt. WICHTIG: Bearbeitet die Aufgaben (a) und (b) vor der Übung, sodass wir mit den folgenden Aufgaben zusammen weiterarbeiten können! Um aktiv am Programmieren teilnehmen zu können, denkt bitte daran, euch entsprechend auszustatten (Laptop + Matlab). Viele Grüße Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgabe UE05 ist online!",
+                            "Discussion_Id": "597087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074277",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-05-27T16:25:31+02:00",
+                                    "Content": "Liebe Studierende, in der bevorstehenden Übung am Mittwoch, dem 29.05.2024, werden wir programmieren. Die entsprechende Übungsaufgabe ist bereits online verfügbar. Bitte nehmt euch die Zeit, sie vor der Übung durchzugehen, damit ihr währenddessen gut mitkommt. Um aktiv am Programmieren teilnehmen zu können, denkt bitte daran, euch entsprechend auszustatten (Laptop + Matlab). Viele Grüße Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgabe UE 03 ist online",
+                            "Discussion_Id": "594129",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069647",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-05-13T16:35:04+02:00",
+                                    "Content": "Liebe Studierende, in der bevorstehenden Übung am Mittwoch, dem 15.05.2024, werden wir programmieren. Die entsprechende Übungsaufgabe ist bereits online verfügbar. Bitte nehmt euch die Zeit, sie vor der Übung durchzugehen, damit ihr währenddessen gut mitkommt. Um aktiv am Programmieren teilnehmen zu können, denkt bitte daran, euch entsprechend auszustatten (Laptop + Matlab). Viele Grüße Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der VL am 7. Mai",
+                            "Discussion_Id": "592394",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066939",
+                                    "Author": "Mathias Lemke",
+                                    "DateTime": "2024-05-06T06:52:01+02:00",
+                                    "Content": "Liebe Studierende, leider muss die VL am Dienstag, den 7. Mai, krankheitsbedingt ausfallen. Die nächste Vorlesung findet am 14. Mai um 14:00 Uhr statt. Die Übung am Mittwoch (8.5.) findet planmäßig statt. Bis dahin eine gute Zeit und herzliche Grüße  Mathias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung am 1. Mai fällt aus",
+                            "Discussion_Id": "591297",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065180",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-04-30T16:07:46+02:00",
+                                    "Content": "Liebe Studierende, aufgrund des Feiertages entfällt die Übung am Mittwoch, dem 01.05.2024. Viele Grüße Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung Beginn 14 Uhr",
+                            "Discussion_Id": "591296",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065179",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-04-30T16:06:10+02:00",
+                                    "Content": "Liebe Studierende, zukünftig beginnt die Vorlesung um Punkt 14 Uhr (nicht wie bisher um 14:15 Uhr). An den Übungszeiten ändert sich nichts. Viele Grüße Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde verschieben ",
+                            "Discussion_Id": "590671",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064239",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-04-29T10:39:24+02:00",
+                                    "Content": "Liebe Studierende, Leider habe ich ein paar technische Probleme mit Zoom und kann daher die Sprechstunde heute nicht anbieten. Stattdessen kann ich morgen nach Bedarf eine Sprechstunde von 10:30-11:30 Uhr anbieten. Alternativ könnt ihr auch Fragen nach der Vorlesung oder per E-Mail stellen.  Viele Grüße und bis morgen  Yannick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1783952",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "605606",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086646",
+                                    "Author": "Nico Nikolajew",
+                                    "DateTime": "2024-07-04T16:55:55+02:00",
+                                    "Content": "Hallo, kann man sich jetzt noch für die Prüfung dieses Semester anmelden? Ich dachte man muss nur am Ende des Semesters sich einen Termin raussuchen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage",
+                            "Discussion_Id": "604386",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084884",
+                                    "Author": "Wenjie Qiu",
+                                    "DateTime": "2024-06-29T12:12:59+02:00",
+                                    "Content": "Mathematically, what is the difference between reflective and non-reflective boundary conditions",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Notizen für die Letzte Übung 7",
+                            "Discussion_Id": "600750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079665",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-13T08:20:59+02:00",
+                                    "Content": "Hallo Yannik,  würdest du netterweise noch deine Notizen für die Letzte Übung hochladen? Herzliche Grüße, Sebastian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079785",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-06-13T12:17:28+02:00",
+                                    "Content": "Done!",
+                                    "Response to": "p1079665"
+                                },
+                                {
+                                    "Message_id": "p1080066",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-06-14T10:09:57+02:00",
+                                    "Content": "Danke :)",
+                                    "Response to": "p1079785"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lösung für Übungsaufgabe 3",
+                            "Discussion_Id": "600483",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079263",
+                                    "Author": "Nico Nikolajew",
+                                    "DateTime": "2024-06-12T07:42:22+02:00",
+                                    "Content": "Hallo Yannick, ich wäre heute gern zur Übung gekommen, jedoch fahren wegen den Politikern keine meiner Züge. Ich wollte dich bitten für diese Übungsaufgabe eine detaillierte Lösung bereit zu stellen. Freundliche Grüße Nico",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079789",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-06-13T12:23:31+02:00",
+                                    "Content": "Hi, ich habe eine Vergleichslösung für die einzelnen Zwischenschritte zur Kontrolle der Implementierung bereitgestellt. Außerdem gibt es den entsprechenden Code zur Visualisierung der Simulationsergebnisse. Sollten bei der Implementierung noch Probleme auftreten, stehe ich gerne zur Verfügung, um zu helfen. Viele Grüße Yannick",
+                                    "Response to": "p1079263"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "7. Übung Aufgabe",
+                            "Discussion_Id": "600206",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078860",
+                                    "Author": "Nico Nikolajew",
+                                    "DateTime": "2024-06-11T10:09:00+02:00",
+                                    "Content": "Wo finde ich die Aufgabenstellung?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078983",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-06-11T13:37:28+02:00",
+                                    "Content": "Unter den Dokumenten der akutellen Woche!",
+                                    "Response to": "p1078860"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 3 Lösungen",
+                            "Discussion_Id": "595074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071133",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-17T08:24:22+02:00",
+                                    "Content": "Liebes CFD2 Team, ich versuche mich gerade an der Aufgabe f aus der Übung, aber mein Gitter sieht nicht ganz genauso aus wie in der Lösung. Mir ist aufgefallen, dass die Größen auch nicht übereinstimmen bei der Colorbar. Das sind meine Funktionen für das Gitter: def x(xi: NUMBER, eta: NUMBER, alpha: float = ALPHA) -> NUMBER:     return xi + alpha * np.sin(xi-eta) def y(xi: NUMBER, eta: NUMBER, alpha: float = ALPHA) -> NUMBER:     return eta + alpha * np.sin(xi-eta) Habt Ihr vllt eine Idee woran das liegt? vielen Dank! Herzliche Grüße, Sebastian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071195",
+                                    "Author": "Yannick Schubert",
+                                    "DateTime": "2024-05-17T10:54:55+02:00",
+                                    "Content": "Wenn es dir möglich ist, komme bitte am Montag in meine Sprechstunde. Andernfalls wäre meine erste Frage, ob dein Ergebnis von e) korrekt aussieht. Es könnte auch hilfreich sein, den gesamten Code zu sehen.",
+                                    "Response to": "p1071133"
+                                },
+                                {
+                                    "Message_id": "p1071291",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-17T13:39:02+02:00",
+                                    "Content": "Ich werde in die Sprechstunde kommen :) e) sah für mich soweit richtig aus, aber vielleicht habe ich mal wieder was übersehen...  Danke!",
+                                    "Response to": "p1071195"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CFD WhatsApp Gruppe",
+                            "Discussion_Id": "588753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061309",
+                                    "Author": "Kirill Roesler",
+                                    "DateTime": "2024-04-23T10:18:24+02:00",
+                                    "Content": "Hallo zusammen,   damit bei der Prüfungsvorbereitung auch Fragen schnell unter den Kommilitonen beantwortet werden können, habe ich für CFD1/CFD2 eine WhatsApp Gruppe erstellt. So können wir uns gegenseitig auf schnelle Wege helfen.  https://chat.whatsapp.com/HZRjgu5Seh66YMuFvd55Nl   Liebe Grüße Kirill",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

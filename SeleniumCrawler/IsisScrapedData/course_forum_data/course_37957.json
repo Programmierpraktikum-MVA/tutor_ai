@@ -1,0 +1,97 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Einführung in die Finite Elemente Methode",
+        "Course_id": "37957",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1773991",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Die VL fällt am 3.6. aus",
+                            "Discussion_Id": "598228",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075973",
+                                    "Author": "Dragan Marinkovic",
+                                    "DateTime": "2024-05-31T19:57:35+02:00",
+                                    "Content": "Liebe Studierende, wie schon in der VL mitgeteilt, fällt die VL am kommenden Montag, den 3.6., aufgrund einer Dienstreise aus.  Wir sehen uns wieder mal am 10.6. Schönes Wochenende,  Dragan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Diskussionen unter Studenten",
+                    "Forum_id": "1832126",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abaqus hängt sich auf",
+                            "Discussion_Id": "600056",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078652",
+                                    "Author": "Lea Heide Emmerich",
+                                    "DateTime": "2024-06-10T15:36:44+02:00",
+                                    "Content": "Hallo, Bei mir hängt sich Abaqus beim Zeichnen der Geometrie immer auf. Man kann dann nicht mal mehr den Task Manager öffnen oder die Maus bewegen, sondern nurnoch ein Herunterfahren erzwingen.  Wie lässt sich das irgendwie lösen? Kann man Abaqus irgendwie über remote Desktop verwenden? Betriebssystem: Windows Danke vorab :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage VL am 03.06",
+                            "Discussion_Id": "598157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075862",
+                                    "Author": "Zizun Ge",
+                                    "DateTime": "2024-05-31T15:14:52+02:00",
+                                    "Content": "Hallo, leider wegen der Krankheit war an diesem Montag nicht anwesend. Würde gern fragen, ob die VL an nächstem Montag also 03. Juni stattfindet. Da früher sagte Dr. Marinkovic, dass er Anfang Juni im Ausland ist. VG Zizun",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage bezüglich Abaqus",
+                            "Discussion_Id": "596755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073733",
+                                    "Author": "Jannis Jonathan Vehse",
+                                    "DateTime": "2024-05-26T14:57:32+02:00",
+                                    "Content": "Hallo, ich habe das Problem, dass sich Abaqus bei mir während des zeichnens nicht so verhält wie in den Videos. Aktionen wie das erstellen von wires werden nur angezeigt, wenn sie abgeschlossen sind und nicht als preview. Das macht es umständlich und schwer, präzise zu klicken und kann dazu führen, dass ungewollte Abhängigkeiten zwischen Teilen entstehen - weil die Preview fehlt. Hier zwei Videos mit Direktvergleich zwischen der Übung und meinem Abaqus: Erwartetes Verhalten (Übung):   https://isis.tu-berlin.de/pluginfile.php/3227014/mod_forum/post/1073733/Abaqus_expected_behavior.mp4?time=1716728465122     Echtes Verhalten (bei mir):    https://isis.tu-berlin.de/pluginfile.php/3227014/mod_forum/post/1073733/Abaqus_behavior%20%281%29.mp4     Schon mal danke für die Hilfe :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073736",
+                                    "Author": "Jannis Jonathan Vehse",
+                                    "DateTime": "2024-05-26T15:14:13+02:00",
+                                    "Content": "Kurze Anmerkung: genauso werden rechteckige Auswahlboxen (also mit Linksklick mit der Maus über den Bildschirm ziehen) nicht angezeigt. Es ist so unglaublich nervig Teile zu dimensionieren, da man nie weiß, ob man gerade eine horizontale oder diagonale Dimension erstellt. Außerdem nutze ich Abaqus 2023.",
+                                    "Response to": "p1073733"
+                                },
+                                {
+                                    "Message_id": "p1073746",
+                                    "Author": "Dragan Marinkovic",
+                                    "DateTime": "2024-05-26T15:38:13+02:00",
+                                    "Content": "Hi Jannis  das Problem scheint Hardwarespezifisch zu sein. Versuch mal Hardware acceleration auszuschalten (hat in früheren Versionen geholfen). Such Dir abaqus_v6. env file im Installationsfolder (vorausgesetzt, der Name ist in der aktuellen Version tatsächlich so geblieben) und copy/paste die untere Zeile am Ende des Files.  abaqus_no_hardware_acceleration=ON File speihern, Abaqus neu starten und überprüfen, ob es was gebracht hat. (Bin am Flughafen, schreibe auf Handy, sorry für wahrscheinliche Schreibfehler). Viele Grüße, Dragan",
+                                    "Response to": "p1073733"
+                                },
+                                {
+                                    "Message_id": "p1073772",
+                                    "Author": "Jannis Jonathan Vehse",
+                                    "DateTime": "2024-05-26T17:37:00+02:00",
+                                    "Content": "Vielen, vielen Dank, das war genau die Lösung :D",
+                                    "Response to": "p1073746"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

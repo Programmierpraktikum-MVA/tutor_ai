@@ -1,0 +1,679 @@
+[
+    {
+        "Course_Name": "Thermodynamik I (SoSe 24)",
+        "Course_id": "37665",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1765595",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Sprechstunden",
+                            "Discussion_Id": "607151",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088837",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-07-11T11:52:27+02:00",
+                                    "Content": "Vor der Klausur werden folgende Sprechstunden angeboten: Do 18.07. 10-12 Uhr (H 2038) Di 23.07. 10-12 Uhr (H 2038) Fr 26.07. 10-12 Uhr (H 2038)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "605226",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086122",
+                                    "Author": "Simon Frank Homes",
+                                    "DateTime": "2024-07-03T11:49:00+02:00",
+                                    "Content": "Hallo, wie jedes Semester findet auch jetzt wieder die Lehrevaluation statt. Die Links dazu finden Sie auf ISIS und in dieser Ankündigung. Um unsere Lehre stetig zu verbessern, bitten wir um rege Teilnahme und konstruktive Kritik! Vorlesung: https://befragung.tu-berlin.de/evasys/online.php?pswd=HWS65 Übung: https://befragung.tu-berlin.de/evasys/online.php?pswd=LM345 Tutorium: https://befragung.tu-berlin.de/evasys/online.php?pswd=HXR95 Das Ausfüllen der Umfragen ist noch bis voraussichtlich Ende dieser Woche (7.7.24) möglich. Vielen Dank! Schöne Grüße Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung am 3.7. von 16-18 Uhr",
+                            "Discussion_Id": "605223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086118",
+                                    "Author": "Simon Frank Homes",
+                                    "DateTime": "2024-07-03T11:41:56+02:00",
+                                    "Content": "Hallo, um eine bessere inhaltliche Übereinstimmung von Übung und Vorlesung zu erreichen, findet heute (3.7.) Nachmittag von 16-18 Uhr entgegen der vorherigen Terminplanung eine Vorlesung statt. Übung 17 wird dann am kommenden Dienstag gehalten. Viele Grüße Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Di 02.07 10-12 und Di 14-16",
+                            "Discussion_Id": "604836",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085586",
+                                    "Author": "Alexej Seib",
+                                    "DateTime": "2024-07-02T00:20:32+02:00",
+                                    "Content": "Hallo zusammen, leider fallen meine beiden Tutorien diese Woche Dienstag (10-12 Uhr und 14-16 Uhr) aus. Da es in dieser Woche keine neuen Informationen in der Einführung gibt, solltet ihr bereits alle nötigen Informationen haben, um die dieswöchigen Aufgaben bearbeiten zu können. Beachtet die Hinweise zu den Aufgabenstellungen. Ich bitte um Entschuldigung und wünsche euch noch eine angenehme Woche. Viele Grüße Alexej",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrkonferenz Thermodynamik 1",
+                            "Discussion_Id": "603730",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083955",
+                                    "Author": "Simon Frank Homes",
+                                    "DateTime": "2024-06-26T12:08:39+02:00",
+                                    "Content": "Hallo, wir arbeiten stets daran, unsere Lehre zu verbessern. Aus diesem Grund gibt es nun eine Lehrkonferenz zu Thermodynamik 1 (also diesem Kurs), bei der wir mögliche Verbesserungsvorschläge diskutieren können. Wenn Ihr also Interesse habt, uns mit konstruktiver Kritik zu unterstützen, laden wir Euch herzlich am Montag, 8. Juli, um 14:00 Uhr s.t. in Raum MA 141 ein. Viele Grüße Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verspätung Tutorium Di 14-16 Uhr",
+                            "Discussion_Id": "603436",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083535",
+                                    "Author": "Alexej Seib",
+                                    "DateTime": "2024-06-25T14:07:42+02:00",
+                                    "Content": "Hallo zusammen, Leider werde ich mich heute um ca. 10-15 Minuten verspäten. Bitte schaut euch schon Mal die Präsentationsfolien an. Ich bitte vielmals um Entschuldigung. Liebe Grüße Alexej",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Mo 14-16 Uhr findet einmalig online statt",
+                            "Discussion_Id": "600993",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080006",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-06-13T21:18:05+02:00",
+                                    "Content": "Hallo zusammen,  ich möchte euch darüber informieren, dass das  Tutorium (Mo. 14-16 Uhr) nächste Woche ausnahmsweise über Zoom stattfinden wird. Die Uhrzeit bleibt unverändert.  Zoom-Link: https://tu-berlin.zoom.us/j/66313156787?pwd=MFVqTd2WtVZa5Ju92bPaWEOhXSyhpa.1 Bitte entschuldigt eventuelle auftretende Unannehmlichkeiten. Schöne Grüße  Kyra",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung",
+                            "Discussion_Id": "600409",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079152",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-06-11T18:06:21+02:00",
+                                    "Content": "Die Vorlesung am 12.06. von 16-18 Uhr wird ebenfalls im H 0105 stattfinden. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Dienstag 10-12 Uhr und 14-16 Uhr krankheitsbedingt ONLINE",
+                            "Discussion_Id": "597128",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074353",
+                                    "Author": "Alexej Seib",
+                                    "DateTime": "2024-05-27T18:11:30+02:00",
+                                    "Content": "Hallo liebe Studis,  krankheitsbedingt werden meine beiden Tutorien morgen online stattfinden. Die Zugangsdaten findet ihr anbei. Liebe Grüße Alexej  https://tu-berlin.zoom.us/j/66763599506?pwd=9hab8KqaEuaZtn6bFg5xK6OWfyA3vk.1 Meeting-ID: 667 6359 9506 Kenncode: 64062",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einmaliges Online Ersatztutorium",
+                            "Discussion_Id": "595481",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071825",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-05-20T19:51:51+02:00",
+                                    "Content": "Hallo zusammen,  da mein Tutorium diesen Montag (20.05.) ausgefallen ist (Feiertag), werde ich ein einmaliges Online Ersatztutorium am Freitag (24.05.) von 10-12 Uhr anbieten.  Der Link für das Zoommeeting ist der Folgende: https://tu-berlin.zoom.us/j/69314239317?pwd=enFMRnlndk9lSzdqUUQvdTRJUHZmZz09 Schöne Grüße Kyra",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblätter und Musterlösungen",
+                            "Discussion_Id": "590301",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063669",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-04-26T17:03:58+02:00",
+                                    "Content": "Hallo zusammen,  ein überarbeitetes Aufgabenblatt des ersten Tutoriums wurde hochgeladen. Falls ihr das vorherige Aufgabenblatt bereits heruntergeladen habt, bitte ich euch, es noch einmal herunterzuladen, um sicherzustellen, dass ihr das aktuelle Blatt verwendet. Die Musterlösungen für die Aufgaben der Tutorien werden in der Regel jeden Donnerstag nach dem letzten Tutorium um 14 Uhr freigeschaltet. In der kommenden Woche wird die Musterlösung einmalig erst am Freitag um 14 Uhr freigeschaltet. Die Aufgabenblätter für die folgende Woche, mit den dazugehörigen Hinweisen und Kurzlösungen, werden jeden Freitag hochgeladen.  Schöne Grüße  Kyra",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066415",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-05-03T13:34:54+02:00",
+                                    "Content": "Hallo zusammen,  da aufgrund des Feiertags auch nächste Woche zwei Tutorien Freitag erst statt finden, wird die Musterlösung nächste Woche ebenfalls erst am Freitag freigeschaltet.  Schöne Grüße Kyra",
+                                    "Response to": "p1063669"
+                                },
+                                {
+                                    "Message_id": "p1069048",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-05-11T13:51:27+02:00",
+                                    "Content": "Hallo zusammen,  ich hatte vergessen, die Musterlösung, die am Freitag freigegeben wurde, rechtzeitig zu aktualisieren.  Die Musterlösung ist nun aktualisiert worden und spiegelt den aktuellen Stand wider. Bitte entschuldigt die Verzögerung und eventuelle Verwirrung, die dadurch entstanden ist.   Vielen Dank für euer Verständnis.   Schöne Grüße  Kyra",
+                                    "Response to": "p1063669"
+                                },
+                                {
+                                    "Message_id": "p1069720",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-05-13T19:05:29+02:00",
+                                    "Content": "Hallo zusammen,  bei den Kurzlösungen des Aufgabenblatts für das Tutorium 3 ist uns ein kleiner Fehler unterlaufen: Die Temperatur im Zustand 4 beträgt nicht 103,43 Kelvin, sondern 293,18 Kelvin. Das aktualisierte Blatt wurde bereits hochgeladen.  Vielen Dank für euer Verständnis!  Schöne Grüße, Kyra",
+                                    "Response to": "p1063669"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung Tut Mo 14-16 Uhr FH 314",
+                            "Discussion_Id": "593752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069040",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-05-11T13:11:20+02:00",
+                                    "Content": "Hallo zusammen,  das montags (14-16 Uhr) Tutorium wird ab nächster Woche im Raum FH 314 (anstatt FH 312) statt finden.  Schöne Grüße  Kyra",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verspätung Tutorium Di 10-12",
+                            "Discussion_Id": "592817",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067594",
+                                    "Author": "Alexej Seib",
+                                    "DateTime": "2024-05-07T10:04:32+02:00",
+                                    "Content": "Hallo liebe Studierende, Wegen BVG Ausfällen werde ich mich verspäten. Bitte habt etwas Geduld. Bis gleich.  Liebe Grüße Alexej ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien in KW 19",
+                            "Discussion_Id": "591608",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065684",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-05-02T10:32:41+02:00",
+                                    "Content": "Hallo zusammen, da in der nächsten Woche der Donnerstag ein Feiertag ist, werden die entsprechenden Tutorien einmalig auf Freitag verlegt. Dh. es finden am Fr, 10.05., folgenden Tutorien in präsenz statt: 10-12 Uhr: FH 301 12-14 Uhr: FH 316 Außerdem lag die Teilnehmerzahl in beiden Tutorien am Dienstag unter den Anmeldungen, sodass diese - in begrenzter Anzahl - als Ausweichtermine zur Verfügung stehen.   VG Isabel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einmaliges Online Ersatztutorium",
+                            "Discussion_Id": "589982",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063212",
+                                    "Author": "Kyra Antonia Kubale",
+                                    "DateTime": "2024-04-25T19:18:31+02:00",
+                                    "Content": "Hallo zusammen,  da mein Tutorium nächsten Mittwoch (01.05.) ausfallen wird (Feiertag), werde ich ein einmaliges Online Ersatztutorium am Freitag (03.05.) von 12-14 Uhr anbieten.  Der Link für das Zoommeeting ist der Folgende: https://tu-berlin.zoom.us/j/68982146488?pwd=TWlmYm15USt4U0hzU2ljdWR6ZlNyZz09 Da online die Beschränkung durch die Raumgröße wegfällt, können alle Leute ohne Tutoriumsplatz gern daran teilnehmen. Schöne Grüße Kyra",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwahl Tutorien",
+                            "Discussion_Id": "587422",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059161",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-18T16:34:28+02:00",
+                                    "Content": "Die Auswahl der Tutorien ist ab sofort freigeschaltet.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061524",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-23T13:41:00+02:00",
+                                    "Content": "Hallo zusammen,  da am nächsten Mittwoch ein Feiertag ist, wird für das entsprechende Tutorium ein Ersatztermin an einem anderen Tag online stattfinden. Genaue Informationen dazu folgen in Kürze.  Da online die Beschränkung durch die Raumgröße wegfällt, können alle Leute ohne Tutoriumsplatz gern daran teilnehmen. Alternativ können diese Leute auch erstmal ein beliebiges anderes Tutorium besuchen.  Erfahrungsgemäß liegt die Zahl der tatsächlichen Teilnehmer in allen Tutorien (leider) deutlich unter der Zahl der angemeldeten Teilnehmer.  Wir werden das in der nächsten Woche beobachten und euch dann darüber informieren, wo es noch freie Plätz gibt damit sich ggf. Leute umverteilen können.  Bitte habt Verständnis, wenn es diese Woche teilweise sehr voll wird. Wir haben keinen Einfluss auf die Vergabe der Räume oder den durch die Verwaltung verursachten Personalmangel und bemühen uns eine gute Lösung für alle Beteiligten zu finden.  Viele Grüße Isabel",
+                                    "Response to": "p1059161"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Inhaltliche Fragen",
+                    "Forum_id": "1797049",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tutoriumsaufgabe 10.2",
+                            "Discussion_Id": "605025",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085840",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-07-02T15:14:37+02:00",
+                                    "Content": "Hi, bei Aufgabe 10.2 f) oder im Hinweis wird keine umgebungstemperatur angegeben.  MfG Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085928",
+                                    "Author": "Bertalan Polgar",
+                                    "DateTime": "2024-07-02T17:35:25+02:00",
+                                    "Content": "Hallo, als Umgebungstemperatur kann hierbei Tu = 25C angenommen werden (siehe 10.2 g) ).  Viele Grüße Bertalan",
+                                    "Response to": "p1085840"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung 4 ",
+                            "Discussion_Id": "602747",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082534",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-06-22T15:34:03+02:00",
+                                    "Content": "Hi, ist alles nach abschnitt 4.2 (Molekulare Wechselwirkungen) nicht Klausurrelevant, da es weder in der Übung noch im Tutorium behandelt wurde?  MfG Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082538",
+                                    "Author": "Simon Frank Homes",
+                                    "DateTime": "2024-06-22T16:00:07+02:00",
+                                    "Content": "Hallo,  Der vollständige Inhalt des 4. Kapitels der Vorlesung ist klausurrelevant. Da die Übung/Tutorium zeitlich begrenzt sind, kann leider dort nicht der komplette Stoff der Vorlesung im Detail behandelt werden. Trotzdem bleibt er klausurrelevant, da in der Vorlesung besprochen.  Bitte beachten Sie, dass ein Teil (20%) der Klausur aus Kurzfragen besteht.  Viele Grüße Simon",
+                                    "Response to": "p1082534"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgabe 10.3 b)",
+                            "Discussion_Id": "602218",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081746",
+                                    "Author": "Linus Daniel Stier",
+                                    "DateTime": "2024-06-19T18:46:51+02:00",
+                                    "Content": "Woraus kann man schließen dass das Wasser am Ende der Turbine bzw. beim Ende der Expansion einphasig (dampfförmig) vorliegt?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082368",
+                                    "Author": "Simon Frank Homes",
+                                    "DateTime": "2024-06-21T15:05:00+02:00",
+                                    "Content": "Hallo,  in der Aufgabe 10.3 b) ist gegeben, dass die Expansion bei T2 = 250 °C und p2 = 2.5 MPa endet. Da genau dieser Zustandspunkt in der Tabelle fürs Einphasengebiet steht (vorletzter Eintrag), bedeutet dies, dass wir im Einphasengebiet sind. Im Einphasengebiet (Reinstoff) ist ja jeder Zustand durch 2 Größen, wie z.B. T&p oder T&rho oder rho&p, genau festgelegt, siehe Gibbssche Phasenregel.  Ich hoffe, das hilft.  Viele Grüße",
+                                    "Response to": "p1081746"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wasserdampf = Einphasengebiet Übung 10.3.a?",
+                            "Discussion_Id": "601065",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080122",
+                                    "Author": "Niels Anouk Stefanski",
+                                    "DateTime": "2024-06-14T12:08:30+02:00",
+                                    "Content": "In Aufgabe 10.3.a wurden für den Zustand 1 die Größen der Tabelle 3: Einphasengebiet verwendet. In Zustand 1 betrachten wir jedoch Wasserdampf (Aufgabenstellung), der ja nicht aus einer Phase besteht.  Warum darf man also die Werte aus Tabelle 3 für den Wasserdampf verwenden? Aufgabenstellung:  Musterlösung:   Tabelle 3:",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080128",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-06-14T12:23:20+02:00",
+                                    "Content": "Wasserdampf bezeichnet Wasser als Stoff, der im Aggregatzustand Dampf vorliegt. Das ist genau eine Phase.",
+                                    "Response to": "p1080122"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Organisatorische Fragen",
+                    "Forum_id": "1797050",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Letzte Vorlesungswoche",
+                            "Discussion_Id": "600264",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078942",
+                                    "Author": "Florian Geißler",
+                                    "DateTime": "2024-06-11T12:15:07+02:00",
+                                    "Content": "Hallo, welche Woche ist denn die letzte Vorlesungswoche? Danke und freundliche Grüße Florian Geißler",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078947",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-06-11T12:28:35+02:00",
+                                    "Content": "Vermutlich werden die letzten Vorlesungen in der Woche vom 8.-12. Juli stattfinden.",
+                                    "Response to": "p1078942"
+                                },
+                                {
+                                    "Message_id": "p1079005",
+                                    "Author": "Florian Geißler",
+                                    "DateTime": "2024-06-11T14:11:32+02:00",
+                                    "Content": "Vielen Dank",
+                                    "Response to": "p1078947"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden",
+                            "Discussion_Id": "596981",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074095",
+                                    "Author": "Jule Ritter",
+                                    "DateTime": "2024-05-27T12:58:14+02:00",
+                                    "Content": "Gibt es die Möglichkeit Sprechstunden anzubieten? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074204",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-05-27T15:02:40+02:00",
+                                    "Content": "Die Tutorien sind nicht besonders stark besucht, sodass es möglich ist dort Fragen zu stellen.  Nach der Übung ist meisten noch Zeit, in der ebenfalls Fragen beantwortet werden.  Es gibt ein Forum, das extra für inhaltliche Fragen gedacht ist.  Solange diese Möglichkeiten nicht voll ausgeschöpft sind, werden keine Sprechstunden angeboten.",
+                                    "Response to": "p1074095"
+                                },
+                                {
+                                    "Message_id": "p1075074",
+                                    "Author": "Fabian Yasa Batu Turfan",
+                                    "DateTime": "2024-05-29T12:35:40+02:00",
+                                    "Content": "Nach meiner Beobachtung geht in den Tutorien trotzdem die allermeiste Zeit fürs Rechnen drauf. Fragen kann man dann meistens doch nur für die aktuelle Aufgabe stellen. Wäre auch begeistert, wenn es die Möglichkeit gäbe, einfach mal alle Fragen loszuwerden, die sich über die Zeit so ansammeln.",
+                                    "Response to": "p1074095"
+                                },
+                                {
+                                    "Message_id": "p1075083",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-05-29T12:55:20+02:00",
+                                    "Content": "Es gibt mehrere Tutorien, also besteht die Möglichkeit in einem zu rechnen und dann einfach in ein anderes zu gehen, um dort Fragen zu stellen. Dafür bietet sich z.B. das Tutorium Di 10-12 Uhr oder Do 12-14 Uhr an, weil die Teilnehmerzahl dort sehr gering ist. Ich bin mir sicher, keiner der Tutoren wird jemanden wegschicken, der Fragen stellt die nicht auf die aktuellen Aufgaben bezogen sind.  Außerdem besteht wie bereits erwähnt die Möglichkeit, gesammelte Fragen im dafür vorgesehenen Forum für inhaltliche Fragen zu stellen.  Wir haben in den vergangenen Semestern mehrfach Sprechstunden angeboten, die dann überwiegend einfach gar nicht besucht wurden. Daher gibt es Sprechstunden erst wieder kurz vor der Klausur.",
+                                    "Response to": "p1075074"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zu Tutorien",
+                            "Discussion_Id": "588557",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061018",
+                                    "Author": "Jesus Rolando Mendez Solis",
+                                    "DateTime": "2024-04-22T17:05:22+02:00",
+                                    "Content": "Hallo, ich konnte mich leider letzte Woche nicht u den Tutorien anmelden. Ich würde gerne trotzdem die 9 LP machen, ist es noch möglich, sich für ein Tutorium anzumelden? Die Gruppen sind voll :(, vielen Dank im Voraus",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061337",
+                                    "Author": "Masooma Raza",
+                                    "DateTime": "2024-04-23T10:50:30+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1061018"
+                                },
+                                {
+                                    "Message_id": "p1061590",
+                                    "Author": "Andrei Kochev",
+                                    "DateTime": "2024-04-23T14:40:49+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1061018"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "tutorienwahl ",
+                            "Discussion_Id": "588556",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061017",
+                                    "Author": "Jule Ritter",
+                                    "DateTime": "2024-04-22T17:05:03+02:00",
+                                    "Content": "Hallo,  was macht man, wenn alle Tutoriengruppen voll sind? Einfach trotzdem hingehen? Ich studiere EPT (9LP).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmelden zu Tutorien bei 6LP Thermodynamik",
+                            "Discussion_Id": "586677",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058077",
+                                    "Author": "Karl Kristian Stadsholt",
+                                    "DateTime": "2024-04-17T09:18:46+02:00",
+                                    "Content": "Hallo, ich studiere Verkehrswesen (B. Sc.) und kann somit Thermodynamik (6 LP) belegen. Ich weiß, dass ich trotzdem zu den Tutorien gehen darf. Meine Frage ist, ob ich mich auch zu einem Tutorium anmelden soll, oder ob das bei 6 LP nicht vorgesehen ist.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058084",
+                                    "Author": "Francesco Antonio Di Antonio",
+                                    "DateTime": "2024-04-17T09:33:39+02:00",
+                                    "Content": "Steht in \"wichtige Informationen zum Kurs Thermodynamik 1\" drinne, aber ja darfst du.",
+                                    "Response to": "p1058077"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsvideos",
+                            "Discussion_Id": "586023",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057139",
+                                    "Author": "Esra Aydin",
+                                    "DateTime": "2024-04-15T14:47:26+02:00",
+                                    "Content": "Hallo,  ich habe eine Frage, und zwar warum dieses Semester keine videos oder Altklausuren zur Verfügung stehen? Ich persönlich sehe das als Nachteil im Vergleich zu den studierenden, die vor mir das Modul abgeschlossen haben. Zumal nicht jeder 3-4 mal in der Woche zeit hat und sich die entsprechenden Videos ansehen kann und den Stoff somit nachholen kann. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057170",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-15T15:22:43+02:00",
+                                    "Content": "Dieselben Altklausuren wie in jedem Semester sind im Bereich \"Unterlagen\" zu finden.",
+                                    "Response to": "p1057139"
+                                },
+                                {
+                                    "Message_id": "p1057183",
+                                    "Author": "Esra Aydin",
+                                    "DateTime": "2024-04-15T15:41:09+02:00",
+                                    "Content": "Hallo Frau Nitzke, Und meine Frage zu den Videos, gibt es Gründe warum keine zur Verfügung stehen? Ich und andere sehen das nämlich als Nachteil.",
+                                    "Response to": "p1057170"
+                                },
+                                {
+                                    "Message_id": "p1057201",
+                                    "Author": "Markus Biela",
+                                    "DateTime": "2024-04-15T16:15:06+02:00",
+                                    "Content": "Ich kann mich hier nur anschließen, dass es helfen würde die Videos unterstützend zur Verfügung zu haben.  Mit freundlichen Grüßen Markus Biela",
+                                    "Response to": "p1057139"
+                                },
+                                {
+                                    "Message_id": "p1057213",
+                                    "Author": "Jakob Säverin",
+                                    "DateTime": "2024-04-15T16:33:55+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1057201"
+                                },
+                                {
+                                    "Message_id": "p1057231",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-15T16:47:55+02:00",
+                                    "Content": "Dieses Thema wurde vor 25min von Prof. Vrabec in der VL angesprochen und hätte dort mit ihm diskutiert werden können. Die Entscheidung liegt nicht bei mir.",
+                                    "Response to": "p1057213"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "9 Vorlesungen?",
+                            "Discussion_Id": "586001",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057109",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-04-15T14:18:17+02:00",
+                                    "Content": "Hi, werden in diesem Semester nur 9 Vorlesungen stattfinden?  MfG, Obinna Ononuju",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungstermine",
+                            "Discussion_Id": "585736",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056706",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-04-14T13:37:04+02:00",
+                                    "Content": "Hi, unter den Abschnitt „ Wichtige Informationen zum Kurs Thermodynamik“ unter Vorlesung steht da, dass 2 nicht redundanten Termine angeboten werden. Aber unter veranstaltungstermine der kommenden Wochen sind 4 Vorlesungs Termine aufgelistet. Sollen wir nur zu 2 von denen gehen?  MfG,  Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057065",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-15T13:42:35+02:00",
+                                    "Content": "Die Informationsseite wurde entsprechend geändert.",
+                                    "Response to": "p1056706"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutoriumszeiten",
+                            "Discussion_Id": "585308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056088",
+                                    "Author": "Viktoria Karolina Paula Rothenhagen",
+                                    "DateTime": "2024-04-10T16:00:26+02:00",
+                                    "Content": "Hallo, ich wollte fragen, ob die möglichen Zeiten für die Tutorien schon irgendwo bekannt gemacht wurden? Ich trage gerade meine Prioritäten für meine anderen Tutorien über Moses ein und wollte etwas genauer planen können. Vielen Dank im Voraus :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056339",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-11T16:15:38+02:00",
+                                    "Content": "Die Gruppenwahl für die Tutorien wird in der ersten VL Woche freigeschaltet.",
+                                    "Response to": "p1056088"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL und Übung ",
+                            "Discussion_Id": "585306",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056086",
+                                    "Author": "Markus Biela",
+                                    "DateTime": "2024-04-10T15:59:07+02:00",
+                                    "Content": "Hallo gibt es schon Tag + Uhrzeiten an welchen die VL wie auch die Übung stattfinden werden?   Liebe Grüße,  Markus ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056338",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-11T16:15:00+02:00",
+                                    "Content": "Die aktuellen Termine für VL und Übung werden zeitnah auf der ISIS Seite veröffentlicht.",
+                                    "Response to": "p1056086"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung schon in der ersten woche ?",
+                            "Discussion_Id": "585267",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056029",
+                                    "Author": "Oskar Malte Varduhn",
+                                    "DateTime": "2024-04-10T13:04:31+02:00",
+                                    "Content": "Hallo, ich wollte fragen, ob die Übung bereits in der ersten VL-woche stattfindet ? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056194",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-11T09:25:25+02:00",
+                                    "Content": "In der ersten Woche werden keine Übungen stattfinden.",
+                                    "Response to": "p1056029"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "6LP oder 9LP",
+                            "Discussion_Id": "584769",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055312",
+                                    "Author": "Esma Nur Balaban",
+                                    "DateTime": "2024-04-05T16:12:06+02:00",
+                                    "Content": "Heyy, ich studiere Verkehrswesen und wollte fragen warum denen bei den in der Prüfungsordnung nur die Variante mit 6 LP drinsteht nicht auch 9 LP angerechnet werden kann wenn mann zum Tutorium geht? Das Tutorium ist ja nützlich und ich würde da auch hingehen und halt den Zeitaufwand reinstecken, dann wäre doch auch eine Anrechnung von 9 LP für dieses Modul vorgesehen oder?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055314",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-05T16:40:06+02:00",
+                                    "Content": "Bitte lesen Sie unsere Informationsseite, bevor Sie Fragen im Forum stellen: https://isis.tu-berlin.de/mod/page/view.php?id=1797971",
+                                    "Response to": "p1055312"
+                                },
+                                {
+                                    "Message_id": "p1055319",
+                                    "Author": "Francesco Antonio Di Antonio",
+                                    "DateTime": "2024-04-05T17:05:12+02:00",
+                                    "Content": "Was ich der Frage hinzufügen würde wäre, ist es möglich, falls im Laufe meines Studiums die Verordnung die weiteren 3 Punkte zulassen, die Punkte im Nachhinein sich anrechnen zu lassen? Hab dazu nichts gefunden gehabt",
+                                    "Response to": "p1055314"
+                                },
+                                {
+                                    "Message_id": "p1055323",
+                                    "Author": "Isabel Nitzke",
+                                    "DateTime": "2024-04-05T17:19:48+02:00",
+                                    "Content": "Wir haben keinen Einfluss auf die Prüfungsordnungen einzelner Studiengänge oder auf die Anzahl der LP für einzelne Module. Kontaktieren Sie Ihren Studiengangsbeauftragten oder das Prüfungsamt.",
+                                    "Response to": "p1055319"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Lerngruppen",
+                    "Forum_id": "1797052",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "WhatsApp Gruppe",
+                            "Discussion_Id": "586079",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057214",
+                                    "Author": "Luise Klemp",
+                                    "DateTime": "2024-04-15T16:34:21+02:00",
+                                    "Content": "https://chat.whatsapp.com/Dnnb6S9jtCd64Yo3j1emEm",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "wöchentlich treffen ",
+                            "Discussion_Id": "585785",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056790",
+                                    "Author": "Fabian Yasa Batu Turfan",
+                                    "DateTime": "2024-04-15T00:50:53+02:00",
+                                    "Content": "Moin, Wenn du lust hast, jede woche live in ner kleinen Runde zu lernen, schreib mich gern auf WhatsApp an: 01797755223",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

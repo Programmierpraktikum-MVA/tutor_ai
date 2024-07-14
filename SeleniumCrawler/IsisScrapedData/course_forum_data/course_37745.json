@@ -1,0 +1,332 @@
+[
+    {
+        "Course_Name": "[SoSe 24] Programming Lab: Quality Data Science",
+        "Course_id": "37745",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767583",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Github repository",
+                            "Discussion_Id": "586961",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058456",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-04-17T15:35:37+02:00",
+                                    "Content": "Hi all,  here is the link to the EXACT Github repository. https://github.com/braindatalab/exact Best Rick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Sessoin",
+                            "Discussion_Id": "585872",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056912",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-04-15T10:49:34+02:00",
+                                    "Content": "Hi all, welcome to the programming lab \"Quality Data Science”. Our first session will take place in MAR 6.001 on April 17th at 2 pm.  During this session, we will motivate the explainable AI Benchmarking project and discuss specific topics you will learn about throughout the semester.  Additionally, we talk about organizational aspects and grading criteria and you will also have time to ask questions. Please, ensure that you have registered via the meta page https://isis.tu-berlin.de/course/view.php?id=37360. You can find our Moses page under https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=41138&version=2&sprache=2. Feel free to reach out if you have any further questions. Best Rick",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058368",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-04-17T14:10:02+02:00",
+                                    "Content": "Hi all, we are currently in room MAR 6.001, waiting for all participants. Around 2:15 pm, we are going to go down to our meeting room, MAR 4.012.  Cheers Benny & Rick",
+                                    "Response to": "p1056912"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1767584",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Moses ",
+                            "Discussion_Id": "592869",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067672",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-05-07T11:08:37+02:00",
+                                    "Content": "Hi all, we extended the registration period in Moses. https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/ansehen.html?number=41138 Cheers, Rick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final list of participants",
+                            "Discussion_Id": "588908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061535",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-04-23T13:51:58+02:00",
+                                    "Content": "Hi all, we want to finalize the list of participants for this semester. For all students who took part in our last introduction session, please let us know if you would like to continue this project. We have some other students on our waiting list.  Thanks & Best regards Rick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "General Forum",
+                    "Forum_id": "1767585",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Project run-in final milestones and presentation dates",
+                            "Discussion_Id": "605287",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086208",
+                                    "Author": "Benedict Edward Clark",
+                                    "DateTime": "2024-07-03T14:52:10+02:00",
+                                    "Content": "Hi guys, with the coming end of the semester we've just been discussing about which milestones to focus on and what to not worry about. We also have the dates of the poster session and final presentations etc. listed below. Just to note we think you guys are doing a really good job and have done some nice work so far, so final push and you'll be sorted! :)  As always, let us know if you have any questions, comments, or concerns.  what's important: - Final presentation Weds 17th (poster + live demo) - POSTER SESSION ON 23.7. 15:00-17:00; Main building H 3006 / H 3007 - project journal + github documentation August 14th  - project installation and setup workflow - functioning workflow from challenge creation -> user creation -> challenge completion -> see results - working leaderboard - user management - challenge creation with a leaderboard per challenge - multiple worker  what's not as important: - addition of the mri dataset   - advanced visualisation stuff  - security stuff - ptb server deployment (not important for you guys, I will do it)  Cheers, Benny and Rick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Consultation Weds 29th May",
+                            "Discussion_Id": "597566",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075000",
+                                    "Author": "Benedict Edward Clark",
+                                    "DateTime": "2024-05-29T10:15:49+02:00",
+                                    "Content": "Hi all! As Rick mentioned in the previous thread, today's session will also be cancelled. We'll meet as normal next week (Weds 6th June).  Let us know how you've got on this week here and as always if you have any problems, feel free to hit us up. Cheers, Benny",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076663",
+                                    "Author": "Konrad Albin Goldammer",
+                                    "DateTime": "2024-06-03T21:21:20+02:00",
+                                    "Content": "Hi Benny,  Sorry for the late response. I made a little demo video for the first milestone, which you can watch with this link: https://www.youtube.com/watch?v=Own2RpfzokU  Best Konrad",
+                                    "Response to": "p1075000"
+                                },
+                                {
+                                    "Message_id": "p1077297",
+                                    "Author": "Benedict Edward Clark",
+                                    "DateTime": "2024-06-05T13:45:57+02:00",
+                                    "Content": "That looks really great, good work guys and thanks for recording a nice youtube video! See you guys in 30 mins",
+                                    "Response to": "p1076663"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Consultation",
+                            "Discussion_Id": "595981",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072564",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-05-22T13:30:13+02:00",
+                                    "Content": "Hi all, we skip today's and next week's (June 6th) consultation session. For those sessions, please give us a short summary of your results and the problems you faced. If you have any questions or need any support, please feel free to reach out. Best Rick",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073747",
+                                    "Author": "Konrad Albin Goldammer",
+                                    "DateTime": "2024-05-26T15:46:49+02:00",
+                                    "Content": "Hi Rick,  over the last week we have made progress in the area of user and challenge management in the front and backend. Vincent and Matthew became more familiar with Django and worked out a structure for the endpoints for creating and interacting with the challenges in the REST-API. Mochtaba has read further into the technologies used in the frontend and has created a first version for the authentication-related pages (login and registration) using React. Nico, who is most interested in the ML side of the project, worked on the torch model setup. Additionally, I completed a first version of the endpoints for user management in the backend, which uses Django's default user model, and am currently busy refactoring some of the code created for the login and register page in the frontend to make it look cleaner and more ‚kaggle‘-like.  Regarding the problems we faced: In the frontend we're having a problem with session management because I can't get my axios HTTP client to include the session ID, stored as a cookie in the browser, in the header of its requests. But I'm sure we can fix this and other similar little things in the near future. We also realize that it takes us longer to familiarize ourselves with the technologies used than initially assumed, which could possibly affect the timely achievement of the milestones.  PS You announced that the consultation session would be skipped next week and referred to the date June 6th. Did you confuse that with May 29th or did you actually mean June 6th, which is the Wednesday of the week after next?  Cheers Konrad",
+                                    "Response to": "p1072564"
+                                },
+                                {
+                                    "Message_id": "p1074999",
+                                    "Author": "Benedict Edward Clark",
+                                    "DateTime": "2024-05-29T10:14:49+02:00",
+                                    "Content": "Hi Konrad,  Sorry for the late reply! That sounds great. Rick means we'll skip today as well (weds 29th) and then next week's session (Weds 6th June) we'll both be back available to meet as normal.  Cheers,  Benny",
+                                    "Response to": "p1073747"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "GitHub access",
+                            "Discussion_Id": "591731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065852",
+                                    "Author": "Konrad Albin Goldammer",
+                                    "DateTime": "2024-05-02T13:43:06+02:00",
+                                    "Content": "Hi,  I just want to ask kindly if the person responsible for the 'exact' GitHub repo could add us as collaborators so we can work with it. Our usernames are: Drachling0 (Vincent) mattycash66 (Matthew) n-pelleriti (Nico) minngeame (Mochtaba) konradag (Konrad) Thanks Konrad",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071525",
+                                    "Author": "Mateusz Plikus",
+                                    "DateTime": "2024-05-18T14:08:15+02:00",
+                                    "Content": "Hi, Can i get an invitation for user mattycash66 again please, the one sent earlier expired already. Thank you Matthew",
+                                    "Response to": "p1065852"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Architectural Overview",
+                            "Discussion_Id": "594685",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070537",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-05-15T15:14:11+02:00",
+                                    "Content": "Hi all, here is an architectural overview of the current application's state. Cheers, Rick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Milestone plan",
+                            "Discussion_Id": "593311",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068333",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-05-08T15:23:44+02:00",
+                                    "Content": "Hi all, please find the milestones we discussed today in the attachment. Best Rick",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Meeting tomorrow?",
+                            "Discussion_Id": "591071",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064859",
+                                    "Author": "Vincent Beyer",
+                                    "DateTime": "2024-04-30T09:29:24+02:00",
+                                    "Content": "Is there going to be a meeting tomorrow even though it's a holiday?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064944",
+                                    "Author": "Rick Wilming",
+                                    "DateTime": "2024-04-30T11:12:23+02:00",
+                                    "Content": "Hi all, We do not meet tomorrow. Please briefly summarize the team's results and/or problems you faced at the end of this week. For next week, it would be nice if you could give us a short demo of the project's current state. Enjoy the holiday. Cheers, Rick",
+                                    "Response to": "p1064859"
+                                },
+                                {
+                                    "Message_id": "p1065384",
+                                    "Author": "Konrad Albin Goldammer",
+                                    "DateTime": "2024-05-01T11:14:40+02:00",
+                                    "Content": "Hi Rick, Over the past week, we have focused on determining a sensible distribution of people across the respective areas. We met on Friday and, taking into account our previous programming experiences, we decided to divide the work as follows:  Vincent: backend/worker, Nico: backend/worker, Matthew: backend/worker, Mochtaba: frontend, Konrad: frontend (& partially backend/worker). We also noticed that this should not be a strict division, but rather a guideline to start with. Additionally, we worked on getting the existing code base running on our computers and understanding the project structure. So far I have received feedback from 3 out of 5 people that the code runs successfully on their devices. This gives us a good basis to slowly start implementing new functionality into the existing code base over the next weeks. Temporary problems included Tu leaving the project, which briefly upset our division of work, and dealing with container virtualization since none of us have in-depth experience with Docker. I believe that we have solved all problems for now. Cheers, Konrad",
+                                    "Response to": "p1064944"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kickoff slides, notebook, and resources",
+                            "Discussion_Id": "589446",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062395",
+                                    "Author": "Benedict Edward Clark",
+                                    "DateTime": "2024-04-24T15:36:35+02:00",
+                                    "Content": "Hi All!  I've uploaded the kickoff slides with some of the points to have a look at in the next week to google drive (max upload size of 2MB here!). I've also uploaded the jupyter notebook file (also in the google drive link) for you guys to play around with to get to know the data and the process of going data -> ml model -> xai -> evaluation. Afterwards I've given some resources of some of our papers as well as some of the XAI methods papers to help get you started, but there's no obligation to read everything, just as long as you (eventually) understand what's going on!  Tetris data workflow notebook  To get this running, you'll need to do the following things: Pull the XAI-TRIS repo: GitHub - braindatalab/xai-tris: XAI-Tris Setup a virtual environment using Pipenv or Anaconda. The Pipfile given forces you to use Python 3.7 due to some version compatibilities of libraries used in the full evaluation. This is not relevant for this Programmierpraktikum, so you can ignore that, change the python_version = \"3.7\" line to python_version = \"*\" and set it up. Otherwise use Anaconda or your virtual environment/package manager of choice and install the libraries given in the Pipfile. Ignore iNNvestigate and tensorflow and remove any other specific version requirements (replacing them with \"*\"). Generate the 8x8 Tetris data using the given instructions in the repo, aka by running the command:  python -m data.generate_data data_config_8by8 Load up jupyter notebook and take a look at the xai_tris_workflow.ipynb notebook The second cell loads generated data from the file output in step 3. Replace the path with the appropriate folder name, i.e. './artifacts/tetris/data/{TIMESTAMP GENERATED}/tetris_data_0.pkl' Go through the notebook and look at each component! XAI Resources The paper for the XAI-TRIS (tetris) data is available here: [2306.12816] XAI-TRIS: Non-linear image benchmarks to quantify false positive post-hoc attribution of feature importance (arxiv.org) The paper for the MRI data is available here: Frontiers | Benchmarking the influence of pre-training on explanation performance in MR image classification (frontiersin.org)  Rick's Scrutinizing XAI paper: Scrutinizing XAI using linear ground-truth data with suppressor variables | Machine Learning (springer.com) Theoretical XAI paper (only needed if interested): Theoretical Behavior of XAI Methods in the Presence of Suppressor Variables (mlr.press) XAI Methods papers LIME - [1602.04938] \"Why Should I Trust You?\": Explaining the Predictions of Any Classifier (arxiv.org) LRP - On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation | PLOS ONE SHAP - [1705.07874] A Unified Approach to Interpreting Model Predictions (arxiv.org)   Have a good week and catch you all next week. Let us know if you have any questions! Cheers, Benny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Re: Final List of participants",
+                            "Discussion_Id": "589032",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061723",
+                                    "Author": "Vincent Beyer",
+                                    "DateTime": "2024-04-23T16:42:55+02:00",
+                                    "Content": "I would like to continue the project.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061741",
+                                    "Author": "Nico Francesco Pelleriti",
+                                    "DateTime": "2024-04-23T16:50:54+02:00",
+                                    "Content": "As mentioned in my mail to Rick, I would also like to continue.",
+                                    "Response to": "p1061723"
+                                },
+                                {
+                                    "Message_id": "p1061746",
+                                    "Author": "Tu Dang Ngoc",
+                                    "DateTime": "2024-04-23T16:53:50+02:00",
+                                    "Content": "I also want to continue.",
+                                    "Response to": "p1061741"
+                                },
+                                {
+                                    "Message_id": "p1061757",
+                                    "Author": "Mateusz Plikus",
+                                    "DateTime": "2024-04-23T17:05:25+02:00",
+                                    "Content": "I want to also continue the project",
+                                    "Response to": "p1061723"
+                                },
+                                {
+                                    "Message_id": "p1061828",
+                                    "Author": "Konrad Albin Goldammer",
+                                    "DateTime": "2024-04-23T19:00:20+02:00",
+                                    "Content": "I want to continue too.",
+                                    "Response to": "p1061723"
+                                },
+                                {
+                                    "Message_id": "p1061892",
+                                    "Author": "Mochtaba Aljorani",
+                                    "DateTime": "2024-04-23T21:15:18+02:00",
+                                    "Content": "I also want to continue too.",
+                                    "Response to": "p1061723"
+                                },
+                                {
+                                    "Message_id": "p1061905",
+                                    "Author": "Khaled Guizani",
+                                    "DateTime": "2024-04-23T21:49:53+02:00",
+                                    "Content": "I would like to continue the project.",
+                                    "Response to": "p1061723"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp Group",
+                            "Discussion_Id": "586968",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058466",
+                                    "Author": "Vincent Beyer",
+                                    "DateTime": "2024-04-17T15:42:35+02:00",
+                                    "Content": "Here is the Link for our Whatsapp Group (for the 2 people that weren't there at the end) https://chat.whatsapp.com/KOV5gpiD8k52Cy1VXftCOl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First session?",
+                            "Discussion_Id": "585704",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056656",
+                                    "Author": "Konrad Albin Goldammer",
+                                    "DateTime": "2024-04-13T15:00:14+02:00",
+                                    "Content": "Hi everyone, Has a date for our first session already been announced? Have a nice weekend!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057165",
+                                    "Author": "Benedict Edward Clark",
+                                    "DateTime": "2024-04-15T15:18:01+02:00",
+                                    "Content": "Hi Konrad!  Rick posted the details for the first session (Wednesday 17th 2pm, MAR 6.001) earlier today in Ankündigungen   See you all on Wednesday!  Benny and Rick",
+                                    "Response to": "p1056656"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

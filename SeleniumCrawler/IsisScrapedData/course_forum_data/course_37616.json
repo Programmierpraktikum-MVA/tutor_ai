@@ -1,0 +1,276 @@
+[
+    {
+        "Course_Name": "[SoSe24] Variationsrechnung und Optimalsteuerung",
+        "Course_id": "37616",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764293",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "More exam dates",
+                            "Discussion_Id": "607570",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089464",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-07-12T18:15:30+02:00",
+                                    "Content": "Dear participants, I added some more choices of dates for an early exam in July and also in the first week of August. Regards, Michael Karow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam dates ",
+                            "Discussion_Id": "606448",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087845",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-07-08T23:15:14+02:00",
+                                    "Content": "Dear participants, those of you who need an early exam in this month can now choose a date on  the ISIS page of the course (no other registration is needed). There will be more exam dates in September, October, November (schedule will be announced later). Best regards, Michael Karow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation",
+                            "Discussion_Id": "605556",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086584",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-07-04T14:45:10+02:00",
+                                    "Content": "Dear participants, Using the link below you can evaluate the quality of the course: https://befragung.tu-berlin.de/evasys/online.php?pswd=W9TYY  Regards, Michael Karow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "homework, lectures this week, exam preparation",
+                            "Discussion_Id": "604500",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085080",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-06-30T22:50:43+02:00",
+                                    "Content": "Dear participants, 1) Exercise sheets 4 ad 5 are online.     Sheet 5 will not be graded, but I strongly recommend to      have a look at it, since it is relevant for the oral exam.      Solutions are written on the last pages. 2) Lectures this week are     Tuesday (2. July), 16-18 in H 110     Wednesday (3. Juy), 16-18 in BH-N 243 3) You can find now a list of exam questions on the course page. 4) There are some changes in the lecture slides.      Final versions will be online on 10. July. 5) Earliest exam dates will be published soon.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "lecture room tomorrow",
+                            "Discussion_Id": "603376",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083464",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-06-25T11:54:36+02:00",
+                                    "Content": "Hello everybody, the lecture tomorrow (Wednesday, 26. June) will take place in the room BH-N 243. Best regards, Michael Karow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "homework, FEM lecture",
+                            "Discussion_Id": "598731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076717",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-06-04T02:19:52+02:00",
+                                    "Content": "Dear participants, 1)  Homework assignment 3 is now available (exercises on the Leibniz rule)      Corrections of exercise sheets 1 and 2 will follow soon.     (I found now time to do this yet) 2) Some of you seem to be very much interested in the relationship     of Calculus of Variations and the Finite Element Method (FEM)     For this reason I prepared an introductory  lecture on this subject,     which I will give this Wednesday (tomorrow). Regards, Michael Karow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Forum (general forum)",
+                    "Forum_id": "1764298",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam registration",
+                            "Discussion_Id": "606372",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087737",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-07-08T17:37:14+02:00",
+                                    "Content": "At the moment it does not seem to be possible to register for the exam on MOSES. Will that be an option at some point, or are we supposed to use the written form (gelber Zettel) ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087846",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-07-08T23:18:41+02:00",
+                                    "Content": "Registration for the oral exam in July is no open on the ISIS page (no other registration is needed). There will be more exam dates in September, October, November (schedule not fixed yet)",
+                                    "Response to": "p1087737"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "when will be the exam",
+                            "Discussion_Id": "603890",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084171",
+                                    "Author": "Marwa Hamesh",
+                                    "DateTime": "2024-06-26T19:53:57+02:00",
+                                    "Content": "Can anyone tell me when will be the exam?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "When will the Exam take place?",
+                            "Discussion_Id": "599735",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078145",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-06-08T08:55:27+02:00",
+                                    "Content": "Do you already have an idea in what period the oral exams will take place? It's important for me to be able to plan ahead, since I'm going abroad for the next semester.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Upload is dated to 2023",
+                            "Discussion_Id": "593060",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067933",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-05-07T17:19:57+02:00",
+                                    "Content": "I cannot upload the homework because it's dated to 2023.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070972",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-05-16T15:09:05+02:00",
+                                    "Content": "I corrected the date. You can upload now.",
+                                    "Response to": "p1067933"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Left-Right Matrix Inversion",
+                            "Discussion_Id": "592917",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067745",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-05-07T12:53:21+02:00",
+                                    "Content": "Dear Dr. Karow,  In Homework 2) Exercise 5) we get A with linearly-independent columns, according to Wikipedia, it consequently has a left-inverse. G is given with linearly-independent rows, which means it as a right-inverse.  The equations I have come up with would be a lot easier to solve, if these were interchanged, i.e. A right-invertible, and G left-invertible.  Is this on purpose? In other words, is the point of the Exercise to find some way of inverting the matrices even though they're not invertible as such?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework group",
+                            "Discussion_Id": "590877",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064557",
+                                    "Author": "Zomer Noord",
+                                    "DateTime": "2024-04-29T15:43:39+02:00",
+                                    "Content": "Hi! Is there still anyone who does not have a homework group? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064767",
+                                    "Author": "Moritz Maximilian Seeliger",
+                                    "DateTime": "2024-04-29T21:07:55+02:00",
+                                    "Content": "Im still on the search",
+                                    "Response to": "p1064557"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework Group",
+                            "Discussion_Id": "590449",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063886",
+                                    "Author": "Jiacheng Xu",
+                                    "DateTime": "2024-04-27T16:57:48+02:00",
+                                    "Content": "Hey, We're looking for two homework teammates.  Anyone confirmed to join this varopt course, and interested in discussing homework problem, please contact me through ISIS ;) (we two: one from math bachelor & one from engineer bachelor)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064068",
+                                    "Author": "Zomer Noord",
+                                    "DateTime": "2024-04-28T23:10:37+02:00",
+                                    "Content": "Hi! I am still looking for a homework group, I'm doing a mathematics master",
+                                    "Response to": "p1063886"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 1 - I am about to loose my sanity",
+                            "Discussion_Id": "590294",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063661",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-04-26T16:54:01+02:00",
+                                    "Content": "Hello Everyone, I've been trying to solve Exercise 1 for three days now. I keep ending up with very, very impractical terms, often longer than the width of a page. Abbreviating functions as , here's my reasoning:      where .   With we get So we get the squared derivative of h. Are we seriously supposed to solve that integral? If so, how?? I've filled about 10 pages with integration by parts. No luck. I cannot get rid of .  I even end up with a second order derivative. Does anybody have an idea how to go about this?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064021",
+                                    "Author": "Michael Karow",
+                                    "DateTime": "2024-04-28T18:18:20+02:00",
+                                    "Content": "You should in the first step write u in terms of x and \\dot x (eliminating u from the calculation). And THEN do the variation (i.e. replace x by x_*+h) [In your equations you just replaced x by x_*+h and let u fixed. This is the wrong ansatz]",
+                                    "Response to": "p1063661"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgaben Partner Suche ",
+                            "Discussion_Id": "587542",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059351",
+                                    "Author": "Ali Ouhaddou",
+                                    "DateTime": "2024-04-19T09:24:29+02:00",
+                                    "Content": "hallo Wenn du Interesse daran hast, eine Gruppe  zu bilden und gemeinsam zu lernen, melde dich doch gerne per WhatsApp unter +49 1577 3655184.+ liebe Grüsse  Noha ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework Group",
+                            "Discussion_Id": "585771",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056770",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-04-14T22:07:23+02:00",
+                                    "Content": "Hello There ! :)  If you're looking for a homework group drop me message here on ISIS. I'm fluent in english, native in german, have an engineering background and have done mostly machine learning related courses lately. I'll also be working remotely most of the time but am happy to meet in person as often as I can. Best, Can",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056840",
+                                    "Author": "Marwa Hamesh",
+                                    "DateTime": "2024-04-15T09:24:16+02:00",
+                                    "Content": "Hi, I am also looking for a homework group.",
+                                    "Response to": "p1056770"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

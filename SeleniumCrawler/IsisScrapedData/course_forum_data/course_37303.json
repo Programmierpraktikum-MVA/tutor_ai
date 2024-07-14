@@ -1,0 +1,378 @@
+[
+    {
+        "Course_Name": "Einführung in die Informationstechnik für Ingenieur:innen (SS24)",
+        "Course_id": "37303",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1754944",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Klausurvorbereitung und Zweiter Kontrolltermin ",
+                            "Discussion_Id": "607497",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089358",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-07-12T14:25:21+02:00",
+                                    "Content": "Liebe Studierenden, am nächsten Vorlesungstermin, dem 17.07, wird eine Einheit zur Klausurvorbereitung stattfinden.  Dabei wird euch eine Probeprüfung sowie die Formelsammlung, welche während der Prüfung genutzt werden kann, vorgestellt. Da ich als Übungsleiter auch anwesend sein werde und die Klausurvorbereitung nicht die vollen 90 Minuten dauern wird, beginnt die darauf folgende Übung entsprechend früher.  Ich empfehle allen Studierenden zur Klausurvorbereitung und der darauf folgenden Übung zu erscheinen, um euch optimal für die Prüfung vorzubereiten. Falls ihr diesen Mittwoch nicht bereit seid, die KGÜ vollständig vorzustellen, werde ich nächsten Freitag von 15-16 Uhr im VELC anwesend sein und parallel ein Zoom Meeting öffnen, damit ihr es dort vorstellen könnt. Es wird übernächste Woche keine Übung stattfinden.  Viel Erfolg Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online-Link für die Lehrevaluation",
+                            "Discussion_Id": "606993",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088633",
+                                    "Author": "Zhongtian Wang",
+                                    "DateTime": "2024-07-10T17:52:34+02:00",
+                                    "Content": "Liebe Studierende, unsere Lehrveranstaltung neigt sich dem Ende zu, und wir möchten euch herzlich dazu einladen, an der Lehrevaluation teilzunehmen. Euer Feedback ist von unschätzbarem Wert, um die Qualität der Lehrveranstaltung kontinuierlich zu verbessern. Bitte nehmt euch ca. 10 min Zeit, um den folgenden Link zu besuchen und an der Bewertung teilzunehmen:  https://befragung.tu-berlin.de/evasys/online.php?pswd=13DTH Vielen Dank für eure Unterstützung und Mithilfe! Liebe Grüße Zhongtian Wang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Kontrolle und Übung am Freitag",
+                            "Discussion_Id": "605545",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086569",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-07-04T14:19:11+02:00",
+                                    "Content": "Liebe Studierende, ab dem 12.07 wird die Freitagsübung nicht mehr stattfinden. Alle betroffenen Studierenden können an den zwei Mittwochsübungen erscheinen, bevorzugt am zweiten Termin um 16 Uhr. Bitte kommt in der Woche der zweiten Kontrolle, dem 17.07, zu eurer eingetragenen Übung, bzw. zur zweiten Mittwochsübung. Die Übungen sind sonst zu voll, um eine faire Bewertung zu garantieren.  Freundliche Grüße und viel Erfolg bei der Aufgabe Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neue Aufgabenstellung von KGÜ",
+                            "Discussion_Id": "602118",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081619",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-06-19T14:40:07+02:00",
+                                    "Content": "Liebe Studierende,  bitte überprüft, dass ihr bei den Selbstübungen alle Punkte bei allen Aufgaben habt.  Solltet ihr alle Selbstübungen bearbeitet haben, aber noch an einer Stelle einen Fehler übersehen habt, meldet euch bitte bis Ende dieser Woche im Übungsforum.  Des Weiteren wurde die Aufgabenstellung der KGÜ aktualisiert. Ihr sollt nun zwei eigene Ideen zum Programm hinzufügen, wobei eine davon eine eigene Figur sein muss. Ließt dazu aufmerksam das neue PDF. Es wurden auch die Vorlagen als ZIP-Datei hochgeladen. Viel Erfolg Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verlängerung der Selbstübungen",
+                            "Discussion_Id": "600571",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079376",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-06-12T12:08:28+02:00",
+                                    "Content": "Liebe Studierende, damit die Teilnehmenden der Freitagsübung nicht benachteiligt werden, wird die Frist für die Bearbeitung der Selbstübungen auf diesen Sontag 23:59 Uhr verlängert. Viel Erfolg Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung der Vorlesungszeit",
+                            "Discussion_Id": "600012",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078582",
+                                    "Author": "Zhongtian Wang",
+                                    "DateTime": "2024-06-10T13:54:34+02:00",
+                                    "Content": "Liebe Studierende, bitte beachtet, dass die Vorlesungszeit für das Thema Rechnernetze nächste Woche (Mittwoch, den 19. Juni) verschoben wurde. Die Vorlesung findet nun am Dienstag, den 18. Juni, um 10:00 Uhr c.t. im Raum PTZ001 statt. Zusätzlich möchten wir euch informieren, dass diese Vorlesung gemeinsam mit den Studierenden der Vorlesung GIIT abgehalten wird. Außerdem wird diese Vorlesung auch aufgezeichnet und anschließend auf ISIS hochgeladen. Wir bitten um eure Aufmerksamkeit und Anpassung an den neuen Termin und die gemeinsame Lehrveranstaltung. Viele Grüße Zhongtian ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selbstübungen",
+                            "Discussion_Id": "598885",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076925",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-06-04T14:53:49+02:00",
+                                    "Content": "Liebe Studierenden, als Hinweis: die Selbstübungen sind bis nächste Woche, zum 12.6 23:59 Uhr, vollständig auszufüllen. Achtet darauf, dass ihr bei allen die volle Punktzahl erreicht habt. Die letzte Selbstübung wird morgen freigeschaltet.  Kommt gerne in die Übungen oder Sprechstunden um sie mit den Tutoren zusammen zu bearbeiten.   Des Weiteren sollt ihr bis zum 19.6 eine HA Gruppe gefunden haben. Nächste Woche wird auch die Projektaufgabe vorgestellt.  Freundliche Grüße Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung am Freitag dem 17.05",
+                            "Discussion_Id": "594147",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069676",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-05-13T17:17:49+02:00",
+                                    "Content": "Liebe Studierende,  die Übung diesen Freitag wird um 14:15 - 15:45 stattfinden. Dabei werde ich Erik vertreten.  Ihr könnt sonst auch gerne zu den anderen Übungsterminen diese Woche erscheinen! Zudem habe ich zwei Fehler in der letzten Selbstübung behoben und eine neue freiwillige Programmieraufgabe aus ISIS freigeschaltet, für alle die eine Herausforderung wollen! Freundliche Grüße Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall am Mittwoch 1.Mai",
+                            "Discussion_Id": "590675",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064246",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-04-29T10:48:55+02:00",
+                                    "Content": "Liebe Studierende, aufgrund des Feiertages am 1.Mai werden die Übungen am Mittwoch ausfallen. Ich werde eine Ersatzübung am Dienstag den 30.04 von 10 - 12 Uhr im VELC anbieten sowie ein Video hochladen.  Freundliche Grüße und einen schönen Tag der Arbeit, Paul Kursawe",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064510",
+                                    "Author": "Erik vor den Tharen",
+                                    "DateTime": "2024-04-29T15:02:51+02:00",
+                                    "Content": "Dementsprechend fällt auch mein Freitagstutorium diese Woche aus. Inhaltlich werden wir also wieder erst nächste Woche gemeinsam fortfahren.  Ich wünsche euch einen organisierten Tag der Arbeit!",
+                                    "Response to": "p1064246"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich Willkommen zu EII!",
+                            "Discussion_Id": "586867",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058325",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-04-17T13:34:34+02:00",
+                                    "Content": "Liebe Studierende, wir freuen uns euch zum neuen Semester in unserem Kurs begrüßen zu dürfen! Zwei Informationen zum Anfang: Wir haben die Teilnehmer Anzahl für die Übungen auf 35 hoch gesetzt. Es gibt zwar nur begrenzt Computer im Raum, aber da viele Studenten mit ihren eigen Laptops arbeiten, sollte dies kein Problem sein. Es existiert eine WhatsApp Gruppe um euch untereinander auszutauschen. https://chat.whatsapp.com/FmwLBH0qMbdIQDkSqdVY3y Vergesst nicht die Abfrage zum Vorlesungsbesuch und die Wahl des Übungstermins auszufüllen. Wir freuen uns auf euch! Freundliche Grüße, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zur Vorlesung",
+                    "Forum_id": "1755760",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesungsaufzeichnung zur VL Rechnernetze",
+                            "Discussion_Id": "604225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084657",
+                                    "Author": "Philippe Christian Karl Bourgeois",
+                                    "DateTime": "2024-06-28T12:02:41+02:00",
+                                    "Content": "Hallo zusammen, Ich möchte eine Bitte äußern, die wahrscheinlich auch andere betrifft. Sie hatten angekündigt, dass die Vorlesung 9 nicht regulär stattfinden wird und das Sie stattdessen eine Aufzeichnung zur Verfügung stellen werden. Leider konnte ich bisher keine entsprechende Aufzeichnung finden. Könnten Sie bitte die Vorlesungsaufzeichnung zur VL 9 hochladen? Es wäre wirklich hilfreich. Vielen Dank im Voraus für eure Hilfe! Beste Grüße, Philippe",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088237",
+                                    "Author": "Zhongtian Wang",
+                                    "DateTime": "2024-07-09T19:36:22+02:00",
+                                    "Content": "Hallo Philippe,  die Vorlesungsaufzeichnung ist jetzt online.  VG Zhongtian",
+                                    "Response to": "p1084657"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zur Übung",
+                    "Forum_id": "1755761",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Probeklausur/Altklausur",
+                            "Discussion_Id": "604461",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085016",
+                                    "Author": "Andrea Maria Millauro",
+                                    "DateTime": "2024-06-30T15:33:37+02:00",
+                                    "Content": "Hallo, Ich würde gerne nachfragen ob das Hochladen einer Probeklausur vorgesehen ist und ob Altklausuren zur verfügung gestellt werden ? Danke!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087891",
+                                    "Author": "Zhongtian Wang",
+                                    "DateTime": "2024-07-09T09:16:57+02:00",
+                                    "Content": "Hallo Maria,  ja, es gibt eine Probeklasur, an der wir noch arbeiten.  LG Zhongtian",
+                                    "Response to": "p1085016"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selbstübung nicht anerkannt ",
+                            "Discussion_Id": "603033",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082952",
+                                    "Author": "Mehdi Türkyilmaz",
+                                    "DateTime": "2024-06-24T12:45:44+02:00",
+                                    "Content": "Schönen Guten Tag,  leider habe ich bemerkt, dass ich wegen der Selbstübung 0 sowie der Selbstübung 7 nicht für das Projekt freigeschaltet wurde. Ich bin mir jedoch zu 100% sicher das ich beide mit den geforderten Punkten abgeschlossen habe. Ist das ein Fehler im System? bzw. wäre es möglich mich noch freizuschalten, da ich bereits wirklich viel Zeit in dieses Modul investiert habe. Mit freundlichen Grüßen  ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083686",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-06-25T17:28:15+02:00",
+                                    "Content": "Scheinbar wurden einige der Antworten nicht gespeichert. Eigentlich tritt bei Isis ein derartiger Fehler nicht auf, aber da alle anderen Selbstübungen gemacht wurden, gebe ich Ihnen die Möglichkeit während der Übung diesen Mittwoch die fehlenden Selbstübungen zu vervollständigen und mir zu zeigen.",
+                                    "Response to": "p1082952"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selbstübung zur Einsicht freigeben?",
+                            "Discussion_Id": "602586",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082294",
+                                    "Author": "Sinan Yunus Wilck",
+                                    "DateTime": "2024-06-21T12:14:24+02:00",
+                                    "Content": "Ich wollte fragen, ob die Selbstübungen wieder zur Einsicht freigegeben werden können. Meine Gruppe würde die Erklärtexte in den einzelnen Selbstübungen gerne nochmal durchgehen, um die Projektaufgabe besser lösen zu können.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083518",
+                                    "Author": "Julian Watter",
+                                    "DateTime": "2024-06-25T13:30:52+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1082294"
+                                },
+                                {
+                                    "Message_id": "p1083683",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-06-25T17:23:33+02:00",
+                                    "Content": "Ja! Ich werde sie Ende dieser Woche wieder freischalten. Ich kann nicht versprechen, dass eure Antworten sichtbar sein werden, aber dann werden die Musterlösungen dabei sein.",
+                                    "Response to": "p1082294"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selbstübung 1 nicht bestanden?",
+                            "Discussion_Id": "601525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080784",
+                                    "Author": "Gustav Nuthmann",
+                                    "DateTime": "2024-06-17T14:28:42+02:00",
+                                    "Content": "Schönen guten Tag, ich habe soweit ich das sehen kann bei der Selbstübung 1 0,22 Punkte nicht erhalten, heißt dass, das ich jetzt deshalb den Kurs nicht weitermachen kann?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080861",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-06-17T16:09:19+02:00",
+                                    "Content": "Der Fehler ist klein genug, dass wir ein Auge zudrücken können. Die Bewertung sollte über ISIS angepasst werden, sonst sprich in einer Übung uns noch mal darauf an. Aber du kannst auf jeden Fall mit dem Kurs weiter machen!",
+                                    "Response to": "p1080784"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehlende Punkte der Selbstübung 3-8",
+                            "Discussion_Id": "601391",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080589",
+                                    "Author": "Abdullah Halit Karaarslan",
+                                    "DateTime": "2024-06-17T10:25:25+02:00",
+                                    "Content": "Ich wollte mich gerade zur einer Projektaufgabengruppe eintragen, jedoch ist diese Möglichkeit für mich gesperrt. Mir wurden keine Punkte für die Selbstübungen 3-8 gut geschrieben. Ich hatte allerdings alles mehrmals kontrolliert und es war alles richtig. Gibt es eine Möglichkeit, wie ich mich dennoch einer Gruppe zuteilen kann?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080680",
+                                    "Author": "Erik vor den Tharen",
+                                    "DateTime": "2024-06-17T11:53:11+02:00",
+                                    "Content": "Du hast recht, dass du alle Aufgaben richtig gelöst hast. Die Übungen, die dir fehlen hast du am Ende nicht abgegeben. Wir hätten die Test so einstellen sollen, dass das automatisch passiert. Weißt du schon welcher Gruppe du beitreten möchtest? Dann kann ich dich der hinzufügen. Wenn nicht versuche ich weiterhin, dass Ergebnis der Selbstübungen auf ISIS einzutragen.",
+                                    "Response to": "p1080589"
+                                },
+                                {
+                                    "Message_id": "p1080696",
+                                    "Author": "Abdullah Halit Karaarslan",
+                                    "DateTime": "2024-06-17T12:08:59+02:00",
+                                    "Content": "Danke. Ich habe mich mit den Mitgliedern der Gruppe 7 abgesprochen. Ich wollte ihnen beitreten.",
+                                    "Response to": "p1080680"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selbstübung 2 Frage 5",
+                            "Discussion_Id": "600344",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079056",
+                                    "Author": "Gustav Nuthmann",
+                                    "DateTime": "2024-06-11T15:29:32+02:00",
+                                    "Content": "Ich wollte fragen ob ich bei der Aufgabe einen groben Fehler mache oder ob es da eine Fehler gibt. Meine Antwort ist bei der Spalte: bool test =a&&b&&(a+b)<=2.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079099",
+                                    "Author": "Erik vor den Tharen",
+                                    "DateTime": "2024-06-11T16:26:40+02:00",
+                                    "Content": "Die Aufgabe hat auch eine Aussage über die Variable 'c'. Die sehe ich zum Beispiel gar nicht in deiner Rechnung. Vielleicht hilft dir das schon weiter, sonst melde dich nochmal ;)",
+                                    "Response to": "p1079056"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage: Komponente bei der Installation",
+                            "Discussion_Id": "589550",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062551",
+                                    "Author": "Aaron Frederik Hoppe",
+                                    "DateTime": "2024-04-24T18:07:39+02:00",
+                                    "Content": "Hallo, ich bin gerade bei der Installation von Visual Studios und stehe gerade vor der Frage, welche Installationspakete/Workloads wir für den Kurs alles benötigen. Mit freundlichen Grüße Aaron Hoppe",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062990",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-04-25T14:04:00+02:00",
+                                    "Content": "Es gibt nur zwei Erweiterungen die notwenig sind: für C++ und Windows Desktop!",
+                                    "Response to": "p1062551"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für allgemeine Themen des Moduls",
+                    "Forum_id": "1755762",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Raum für Tutorium ",
+                            "Discussion_Id": "590122",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063409",
+                                    "Author": "Ben Weißgerber",
+                                    "DateTime": "2024-04-26T11:04:01+02:00",
+                                    "Content": "Hallo, In welchen Raum findet das Tutorium am Freitag statt?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063417",
+                                    "Author": "Erik vor den Tharen",
+                                    "DateTime": "2024-04-26T11:16:35+02:00",
+                                    "Content": "Alle Übungen finden im PTZ-VELC 511 statt.",
+                                    "Response to": "p1063409"
+                                },
+                                {
+                                    "Message_id": "p1063426",
+                                    "Author": "Paul Kursawe",
+                                    "DateTime": "2024-04-26T11:20:03+02:00",
+                                    "Content": "Die Tutorien sind im VELC! Dafür muss man im PTZ dem Pförtner am Eingang den Studentenausweis zeigen. Dieser öffnet die Tür zu den Fahrstühlen. Wenn man im 5. Stockwerk ist nach Rechts laufen. Auf der Isis Seite ist am Anfang der Weg mit Bildern nochmal beschrieben.",
+                                    "Response to": "p1063409"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

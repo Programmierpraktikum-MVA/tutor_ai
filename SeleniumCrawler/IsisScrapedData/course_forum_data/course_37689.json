@@ -1,0 +1,31 @@
+[
+    {
+        "Course_Name": "Hochspannungstechnik II VL SoSe24",
+        "Course_id": "37689",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767401",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Meldung Kursteilnahme",
+                            "Discussion_Id": "586013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057126",
+                                    "Author": "Felix Rösch",
+                                    "DateTime": "2024-04-15T14:34:14+02:00",
+                                    "Content": "Liebe Studis, heute in der ersten VL waren weniger Teilnehmer als vorliegende Voranmeldungen. Bitte meldet Euch bis Mittwoch 10:00 Uhr unter roesch@ht.tu-berlin.de, falls ihr heute nicht da sein konntet und trotzdem am Labor teilnehmen möchtet.  Entsprechend der Rückmeldung planen wir die Anzahl der Labortermine. Es wird keine Möglichkeit zur Nachmeldung nach dem Start der Laborgruppenwahl geben.  Vielen Dank im voraus und liebe Grüße, Felix Rösch",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

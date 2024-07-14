@@ -1,0 +1,8 @@
+[
+    "Aufgabenstellung:",
+    "In einem\nForschungsprojekt wird am Fachgebiet Mikro- und Feingeräte eine\nReplikationsmaschine für stark gekrümmte Beugungsoptiken aufgebaut. Stark\ngekrümmte Beugungsoptiken sind optische Bauteile, die z. B. in Spektrometern\nVerwendung finden. Die Replikation ist im Vergleich zu herkömmlichen\nFertigungsverfahren wesentlich günstiger und schneller. Flüssiges Hybridpolymer\nwird auf eine Präform appliziert. Eine Masterstruktur wird auf diese Präform\nabgesenkt. Dabei müssen die beiden Formhälften sehr genau zueinander\nausgerichtet werden, um einen definierten Spalt herzustellen. Eine UV-Lampe\nbelichtet das Hybridpolymer und es härtet aus. Nach dem Trennen der Formhälften\nist das Replikat fertiggestellt. Das Ausrichten der Formhälften erfolgt über\nPiezoaktoren und Festkörpergelenke die durch eine Kamera und Wägezellen\ngeregelt werden. In dem Semesterprojekt soll ein Regelkreis zur\nParallelisierung der Formhälften mittels einer Wägezelle aufgebaut werden. Die\nnötige Hardware ist vorhanden, fehlende Teile können durch 3D-Druckverfahren\nschnell und kostengünstig hergestellt werden. Softwareseitig muss LabVIEW\ngenutzt werden. Dabei sollen existierende Programme entsprechend erweitert\nwerden.",
+    "Wenn Ihr Interesse an einem\nkonkreten Hands-On Projekt habt, bei dem ihr Eure Fähigkeiten in der\nSystemintegration demonstrieren könnt, dann meldet Euch gerne an!",
+    "https://isis.tu-berlin.de/mod/videoservice/file.php/d40f681f952dad468d4fdd7e28b9dec898f6e152c0462df26803806ad170e4e7.mp4",
+    "Video:",
+    "https://isis.tu-berlin.de/mod/videoservice/file.php/d40f681f952dad468d4fdd7e28b9dec898f6e152c0462df26803806ad170e4e7.mp4"
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Fortgeschrittene Aspekte der Quantenchemie",
+        "Course_id": "38539",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1794288",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Der Abschluss des 3. Seminars ",
+                            "Discussion_Id": "607319",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089072",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-07-11T18:46:29+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, der Abschluss des 3. Seminars (8.07.24) als pdf ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Übungsblatt",
+                            "Discussion_Id": "605301",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086224",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-07-03T15:36:18+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, am kommenden Montag, 8.07.24, um 16:15 Uhr, ist das letzte Seminar des Semesters für alle geplant. Damit ist unsere Diskussion über die Störungstheorie abgeschlossen. Das entsprechende 3. Übungsblatt ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fortran: Verbleibende Aufgaben",
+                            "Discussion_Id": "603042",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082961",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-24T12:55:53+02:00",
+                                    "Content": "Dear all, I have just uploaded the remaining Fortran tasks. Best regards, Alexey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung in MOSES",
+                            "Discussion_Id": "602682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082433",
+                                    "Author": "Maria Ulrike Niederberger",
+                                    "DateTime": "2024-06-21T17:44:19+02:00",
+                                    "Content": "Liebe Studierende, die Prüfungsanmeldung ist in MOSES ab heute 18:00 Uhr bis zum 08.07.2024 möglich. Viele Grüße Ulrike Niederberger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fortran-related files: Part III",
+                            "Discussion_Id": "601803",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081188",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-18T12:58:41+02:00",
+                                    "Content": "Dear all, Just like a week and two weeks ago, I have put all the Fortran content we discussed yesterday in \"/work/lvc-109/\", and you can copy it using the same \"scp\" command. Now the name of the directory is \"Fortran_170624\".  Please, try to finish and test this program, following a pdf \"Fortran: Rayleigh-Ritz ...\" which I have uploaded last week. Best regards, Alexey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fortran-related files. Part II",
+                            "Discussion_Id": "600670",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079526",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-12T17:00:26+02:00",
+                                    "Content": "Dear all, Just like last time, I have put all the Fortran content we discussed two days ago in \"/work/lvc-109/\", and you can copy it using the same \"scp\" command. Now the name of the directory is \"Fortran_100624\" (rather than \"Fortran_alexey\").  I have also uploaded a pdf (\"Fortran: Rayleigh-Ritz ...\") of what we will do next Monday, 17.06.24. Best regards, Alexey",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fortran-related files",
+                            "Discussion_Id": "599671",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078051",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-07T16:06:31+02:00",
+                                    "Content": "Dear all, Everything turned out to be simpler. I have put all the Fortran-related files into the work directory of the \"lvc-109\". To copy the entire Fortran directory with all its subdirectories (in two clicks), - just go to your work directory and type: scp -r -P22 lvc-109@cluster.math.tu-berlin.de:/work/lvc-109/Fortran_alexey . (don't forget to type space and dot at the end: exactly as written above!) After that you will be prompted to type the password of \"lvc-109\" which you know (the same password template that have been used initially for your own accounts: \"FQC ...\" etc. ) We'll meet next Monday, 10.06.24 in the seminar room a little bit later than usually: at 5 pm, - as soon as it's released. Have a nice weekend, best regards! Alexey  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen (5.06.24)",
+                            "Discussion_Id": "598884",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076924",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-04T14:53:11+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, der Cluster ist wieder in Betrieb, daher treffen wir uns morgen, Mittwoch, den 5. Juni, um 12:15 Uhr im Seminarraum.  Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Seminar, 3.06.24 (pdf)",
+                            "Discussion_Id": "598668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076626",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-03T18:51:36+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 3. Seminar (3.06.24) als pdf ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Heute (Mo., 3.06.24)",
+                            "Discussion_Id": "598561",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076482",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-03T14:21:52+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, da das Dateisystem des Clusters noch nicht verfügbar ist, werden wir heute einige rein theoretische Fragen diskutieren. Viele Grüße, bis bald, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fortran-Einführun, 22.05.24 (pdf)",
+                            "Discussion_Id": "596099",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072727",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-22T17:42:06+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, die Fortran-Einführung (22.05.24) als pdf ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fortran-Kurs: Arbeitsmaterialien",
+                            "Discussion_Id": "595244",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071401",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-17T16:48:30+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, bringen Sie bitte nächsten Mittwoch (22.05.24) Ihre Laptops, da wir die praktischen Übungen starten werden. Beachten Sie bitte auch über die hochgeladenen Anweisungen (Arbeitsmaterialien), wie kann man die notwendigen Anwendungsprogramme unterladen und danach installieren. Sie können das im Voraus durchführen. Die erste Datei („PuTTY_XMing_Windows“) ist für die Windows-Benutzer/Innen, die zweite („QC-COURSE-X11- …“) für die Mac- Benutzer/Innen. Viel Erfolg! Viele Grüße, frohe Feiertage! Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Teil des 2. Seminars, 13.05.24 (pdf)",
+                            "Discussion_Id": "594666",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070515",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-15T14:27:13+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 2. Teil des 2. Seminars (13.05.24) als pdf ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Teil des 2. Übungsblatts &amp; 1. Teil des 2. Seminars, 6.05.24 (pdf)",
+                            "Discussion_Id": "593360",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068407",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-08T17:04:32+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 2. Teil des 2. Übungsblatts, das wir nächsten Montag (13.05.24) mit Ihnen besprechen werden, sowie das 1. Teil des 2. Seminars (6.05.24) als pdf sind ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Übungsblatt und 1. Seminar, 29.04.24 (pdf)",
+                            "Discussion_Id": "591787",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065942",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-02T15:38:49+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 2. Übungsblatt, das wir nächsten Montag (6.05.24) mit Ihnen besprechen werden, sowie das 1. Seminar als pdf sind ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Übungsblatt",
+                            "Discussion_Id": "589575",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062581",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-04-24T18:55:45+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 1. Übungsblatt, das wir nächsten Montag (29.04.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine",
+                            "Discussion_Id": "587757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059675",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-04-19T15:36:59+02:00",
+                                    "Content": "Liebe Teilnehmer, wie am Donnerstag in der Einführungsveranstaltung vereinbart wird die Vorlesung Mittwochs 12:30-14.00 Uhr stattfinden, beginnend nächsten Mittwoch, den 24.4.. Im Falle von Institutsratssitzungen, die typischerweise Mittwochs ab 13:30 uhr stattfinden, muss ich jeweils früher Schluss machen und dafür evtll. etwas früher anfangen. Das würden wir dann rechtzeitig ausmachen. Das Seminar wird Montags 16:15-17:45 stattfinden, vermutlich dann zum ersten Mal am 29.04. Beste Grüße und schönes Wochenende, Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung am 18.04.2024 um 12:00 Uhr s.t. in C074",
+                            "Discussion_Id": "585892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056944",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-04-15T11:26:41+02:00",
+                                    "Content": "Liebe Interessierte, die Einführungsveranstaltung findet am 18.04.2024 um 12:00 Uhr s.t. in C074 statt. Ich bitte um möglichst zahlreiche Teilnahme, da es auch um eine mögliche Terminfindung geht! Bitte auch noch Werbung bei weiteren möglichen Interessenten machen, sind im Moment noch in einem grenzwertigen Bereich. Jede/r sollte sich hier bei ISIS eintragen, um auch Infos zu bekommen. Viele Grüße und bis Donnerstag! Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

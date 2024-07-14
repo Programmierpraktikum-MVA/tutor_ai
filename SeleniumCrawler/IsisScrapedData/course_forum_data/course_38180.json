@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Projekte Leistungselektronik",
+        "Course_id": "38180",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782534",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Merkblatt Projekt Leistungselektonik",
+                            "Discussion_Id": "598052",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075718",
+                                    "Author": "Xiaomeng Geng",
+                                    "DateTime": "2024-05-31T10:01:58+02:00",
+                                    "Content": "Liebe Studenten,  Da viele Fragen zu diesem Thema eingehen, können Sie jetzt ein Merkblatt mit den allgemeinen Richtlinien des Projekts in ISIS unter der Kategorie 'Sonstiges' finden.  Viele Grüße, Xiaomeng",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

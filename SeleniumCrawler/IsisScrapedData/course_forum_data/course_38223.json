@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Numerische Mathematik II",
+        "Course_id": "38223",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1784515",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No  lectures on 9th and 10th of July",
+                            "Discussion_Id": "605984",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087192",
+                                    "Author": "Reinhard Nabben",
+                                    "DateTime": "2024-07-07T17:25:43+02:00",
+                                    "Content": "Hello Due to sickness there will be no lectures on 9th and 10th (also no tutorial). Best  regards Reinhard  Nabben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

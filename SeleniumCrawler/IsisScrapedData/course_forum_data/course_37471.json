@@ -1,0 +1,344 @@
+[
+    {
+        "Course_Name": "TKN Vehicular Networking and Cooperative Driving 2024s",
+        "Course_id": "37471",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1764063",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exams",
+                            "Discussion_Id": "606806",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088359",
+                                    "Author": "Falko Dressler",
+                                    "DateTime": "2024-07-10T10:08:19+02:00",
+                                    "Content": "Dear all, this message serves as a reminder to register for the exam in Moses (deadline July 20) and to pick a exam slot (in ISIS). Please don't forget to fill and bring the exam registration form to the exam. Best regards, Falko Dressler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs - Sheet 06",
+                            "Discussion_Id": "606208",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087505",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-07-08T12:32:35+02:00",
+                                    "Content": "Dear all, the next (and last) sheet for our labs will be released this Thursday and its deadline for submission is the 17th July. We will discuss the solution on 18th as usual. This week's lab session (on 11th July) will therefore be skipped. Please use the Discussion Forum if you have issues with the sheet. Best, Julian & Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs sessions -&gt; HFT-TA 339",
+                            "Discussion_Id": "596317",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073044",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-23T14:27:48+02:00",
+                                    "Content": "Dear all, starting from next week, we will be switching the room for our weekly C2X Labs session (12-14) to HFT-TA 339. The room is in the same building as the initial one (above the lecture hall). See you next week! Best, Fabian & Julian",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1085776",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-07-02T13:43:49+02:00",
+                                    "Content": "Dear all,  unfortunately, the room (HFT-TA 339) for our weekly lab session (12-14) is not available anymore. Thus, we need to move the sessions back to the original room (HFT-TA 101) starting already this week!  See you on Thursday!  Best, Fabian & Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs - Time Extension for Current Submission",
+                            "Discussion_Id": "603715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083938",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-06-26T11:29:36+02:00",
+                                    "Content": "Hi, since there were some initial problems with the skeleton code and someone asked for an extension, we decided to grant an additional week until we close the submission. However, we are disappointed that a request for time extension only comes a day before the deadline. There was opportunity to address the issues in the last debugging session. In order to avoid the appearance that you just started too late and now take last-minute advantage of the fact that there were initial problems with the skeleton, please address your issues earlier next time! Best, Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs - Routing Code Skeleton Bugs",
+                            "Discussion_Id": "601506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080762",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-06-17T14:01:24+02:00",
+                                    "Content": "Hi all, after some investigation with Julian, we found some shortcomings in the provided code skeleton for the current lab exercise. Please use the updated skeleton! See you on Thursday! :) Best, Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs - Copy/paste from PDF",
+                            "Discussion_Id": "595259",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071418",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-05-17T17:25:24+02:00",
+                                    "Content": "Hi all, since some of you reported issues with copying code examples from our labs' PDFs, we just updated them to improve the copy/paste experience. Let us know if there are still problems. Best, Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs - Sheet 03",
+                            "Discussion_Id": "592427",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066998",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-09T08:00:00+02:00",
+                                    "Content": "Dear all, starting from today, the third sheet for the labs is available via ISIS. This sheet is the first one with a mandatory submission, which counts for the exam requirement. The deadline for submission is the 23th May. We will introduce this sheet in our first lab session on 16th May. This sheet will be fundamental to the upcoming sheets. Please use the Discussion Forum for any kind of question that comes up. We will make sure to answer them there, bringing benefit also to other students in the course. Best regards, Julian & Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs",
+                            "Discussion_Id": "586320",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057561",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-25T08:00:00+02:00",
+                                    "Content": "Dear all,  Welcome to the Labs of the Vehicular Networking and Cooperative Driving course for 2024s!  Our first C2X lab session will take place on 16th May 2024 at 12:00 in HFT-TA 101. To make sure everyone is up-to-date with how the lab works, here is a quick summary: You need to pass the labs to be able to take the exam. To pass the labs, out of four mandatory submission exercises two need to be passed. The deadline for submission will be mentioned in the sheets. To submit the solutions for the assignments you can work in a group of up to 4 students. There will be more than four sheets, not all entail a submission, but are preparing for following assignments. Some sheets require more work - so the sheets will not be always released weekly. We will announce new exercise sheets on ISIS. We will be reachable via ISIS for any questions you have. In addition, there will be weekly meetings. We encourage you to use the Discussion Forum on ISIS as much as possible. This will allow us to know, if you are facing any particular problem, and we will reply to it as fast as possible. The Group selection is already available on ISIS. Please select a group until 8th May 2024. The initial instructions for installing the simulation environment are online on ISIS. Please prepare the environment before our first lab session.  Best regards, Julian & Fabian",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066973",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-06T08:59:46+02:00",
+                                    "Content": "Dear all,  remember to select a group in ISIS via the Group selection module before 8th May. You can only submit the homework in the labs, which is mandatory for the exam, if you have a group.  Best regards, Julian & Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C2X Labs - Sheet 02",
+                            "Discussion_Id": "591784",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065935",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-02T15:33:55+02:00",
+                                    "Content": "Dear all, starting from today, the second sheet for the labs is available via ISIS. Besides tutorials for the simulation framework, this sheets includes the first \"real\" tasks in the labs. This sheet will be fundamental to the upcoming sheets. Although submission of this sheet is not mandatory, it presents a good opportunity to try out the homework submission via ISIS. The deadline for submission is the 15th May. Thus, we will discuss this sheet in our first lab session on 16th May. Please use the Discussion Forum for any kind of question that comes up. We will make sure to answer them there, bringing benefit also to other students in the course. Best regards, Julian & Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start into the new semester",
+                            "Discussion_Id": "585407",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056219",
+                                    "Author": "Falko Dressler",
+                                    "DateTime": "2024-04-11T11:01:32+02:00",
+                                    "Content": "Dear students, next week, we will start into the new semester and also into the C2X lecture.  We will meet on Thursday, 10:15 in the lecture hall HTF-TA 131. I am looking forward to meeting you next week, Falko Dressler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1764064",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Adjustment of homework deadline due to bugs in skeleton code",
+                            "Discussion_Id": "603618",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083794",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-06-25T22:44:00+02:00",
+                                    "Content": "Hey Julian and Fabian,  would it be possible to extend the deadline? As you already have posted in your announcements it was not directly possible to fully work on the assignment due to some issues. We currently would need a bit more time. And since this was out of our control at the begining we would count on your goodwill.  Kindly, Mustafa.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083869",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-06-26T09:57:28+02:00",
+                                    "Content": "We have the problem that when we run the simulation using different configurations in the omnetpp.ini with iteration variables that the resulting .sca files are not written to the end. They stop at some point abruptly writing more information.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Packet generation for only XX",
+                            "Discussion_Id": "598325",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076121",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-06-02T14:11:01+02:00",
+                                    "Content": "Hello guys, I have a simulation run where only VO is configured to be true in the .ini. I also have done this for only of the RSUs as is desired. In the lower handler I am logging the arrival of a packet. I then calculate the end to end delay and record it using recordScalar(), for example such that \"e2e delay for VO: value\" is recorded. The resulting .sca file looks good and can be parsed in the next step. But I am noticing that there are not only entries with VO but also other priorities. Is that normal?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076126",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-06-02T14:23:21+02:00",
+                                    "Content": "I meant it is configured for only one of the RSUs. For every Config I only set the values that needed to be true. As all the others should be false by default.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077231",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-06-05T11:25:39+02:00",
+                                    "Content": "Hi Mustafa,  I did not fully get your issue. Are you saying that also other priorities are being sent? Unfortunately, it is very difficult to understand and debug your issue without specific details of your simulation. Thus, please provide us with the related lines from your ini file as well as the code and module description.  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slow simulation",
+                            "Discussion_Id": "595197",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071328",
+                                    "Author": "Martin Ludwig Determann",
+                                    "DateTime": "2024-05-17T15:01:47+02:00",
+                                    "Content": "Hi all, After increasing the quantity of cars, the simulation seems to take an exorbitant amount of time to execute. So I ask: Is the suggested 200 second simulation time truly necessary to get an accurate estimate of the total busy time?  Will the fast simulation option degrade the quality of the estimate?  What kind of speeds are you seeing? In roughly an hour into the simulation I'm at like 6 (simulated) seconds. I increased the CPU and RAM allocated to the VM to no avail. Thanks, Martin",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1071682",
+                                    "Author": "Franz Martin Zuther",
+                                    "DateTime": "2024-05-20T09:14:39+02:00",
+                                    "Content": "Just checking in case you didn't see the setting:  There is a fast-forward and even an express speed setting, which significantly speeds up the simulation.  For the first task, the 200 simseconds took roughly 200 real seconds on my 10-y old laptop with the express velocity.  The batch simulation went a little faster, with ~3 simsecs/sec.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1071949",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-21T09:55:59+02:00",
+                                    "Content": "Hi,  here are some keywords for enhancing the simulation performance: - OMNeT++ vs. Shell - Tkenv vs. Cmdenv - sumo-gui vs. sumo - C++ DEBUG vs. RELEASE mode - Batch mode  By default, you will run your simulation from within OMNeT++ with Tkenv & sumo-gui in DEBUG mode and only one run at the time. You can change all of this to get the most out of your system.  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TicToc Tutorial - Veins as a related project in Project Reference not available",
+                            "Discussion_Id": "593220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068191",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-05-08T11:28:30+02:00",
+                                    "Content": "Hello I was trying to set up the  tutorial but experience difficulty with this step as veins is not listed as a possible reference project with me. I tried with adjusting the workspace and also the location of the new project to be created but with no success. Has someone already done this and can maybe tell if they did something specific before? With regards, Mustafa.  ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1068479",
+                                    "Author": "Martin Ludwig Determann",
+                                    "DateTime": "2024-05-08T18:58:26+02:00",
+                                    "Content": "Hi Mustafa,  I had the same issue. Opening the veins project solved it. To open the project in the IDE, click: \"File\" > \"Open Projects from File System\". I'm not sure if the project has to be in a subdirectory of the workspace to be able to open it. In case it does, the veins project is located somewhere in .../home/veins/src/veins. After finding and opening the veins project, I was able to use it as an optional reference project.  All the best,  Martin",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1068506",
+                                    "Author": "Martin Ludwig Determann",
+                                    "DateTime": "2024-05-08T20:37:06+02:00",
+                                    "Content": "I also just noticed that there is a directory called ~/workspace.omnetpp. Not selecting that directory as the workspace also seems to cause issues relating to the veins references/imports",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1069832",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-05-14T09:21:34+02:00",
+                                    "Content": "Hey sorry for the late reply. This definetly helped. I have the manhattan.ned open in the design tab now. In the project explorer the folders of the projects are also shown (various veins folders, lte and inet). But now I can not find the modules we are supposed to add to the network. I tried filtering by name and nothing pops up. There are many other modules just not the ones needed in the exercise.   Also I noticed that the logos for the folders in the explorer have a red cross on them. I did just as you described. Do you have a solution?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070265",
+                                    "Author": "Martin Ludwig Determann",
+                                    "DateTime": "2024-05-15T07:57:17+02:00",
+                                    "Content": "It means your project references are still not correctly selected. Did you specify ~/workspace.omnetpp as your workspace directory? I had the exact same issue and using that as my wsdir solved it.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Search",
+                            "Discussion_Id": "592278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066738",
+                                    "Author": "Martin Ludwig Determann",
+                                    "DateTime": "2024-05-04T18:48:50+02:00",
+                                    "Content": "Hi all, Would anyone be interested in forming a group or offering me a spot in theirs? I'm a CE major and fairly new to Berlin. Thanks Martin",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066984",
+                                    "Author": "Waldemar Faist",
+                                    "DateTime": "2024-05-06T09:14:05+02:00",
+                                    "Content": "Hey, looking for a group as well - if you want to form one, I'd like to join. (CE)",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066986",
+                                    "Author": "Martin Ludwig Determann",
+                                    "DateTime": "2024-05-06T09:17:44+02:00",
+                                    "Content": "Hi Waldemar, How about we both join group 9 and hope it's empty? Anyone else is (of course) free to join as well.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Module registration",
+                            "Discussion_Id": "583893",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053984",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-03-25T09:45:30+01:00",
+                                    "Content": "Do any steps have to be taken already to register for the participation of this course?  Kindly, Mustafa.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1054685",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-02T09:28:23+02:00",
+                                    "Content": "Hi Mustafa,  we will explain the procedure during the first lecture.  See you then, Julian",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1055993",
+                                    "Author": "Ettore Carlo Marangon",
+                                    "DateTime": "2024-04-10T10:53:40+02:00",
+                                    "Content": "Hello Julian,  Will the first lecture be held on the 18th of April?  best regards,  Ettore",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1056207",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-11T10:24:20+02:00",
+                                    "Content": "Yes, correct! 18th April, 10:00 am in HFT-TA 131.  Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

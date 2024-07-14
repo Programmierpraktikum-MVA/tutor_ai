@@ -1,0 +1,31 @@
+[
+    {
+        "Course_Name": "Elektrische Isolierstoffe SoSe24",
+        "Course_id": "37686",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Teilnehmendenforum",
+                    "Forum_id": "1767332",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Upload der Zusammenfassung",
+                            "Discussion_Id": "603214",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083249",
+                                    "Author": "Vincent Benedikt Pohle",
+                                    "DateTime": "2024-06-24T19:58:40+02:00",
+                                    "Content": "Hallo, ich nutze den Forumsbeitrag nur, um die Zusammenfassung von Kuffel et al. hochzuladen, da ich morgen wahrscheinlich keinen Laptop dabei haben werde. LG und bis morgen Vincent",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

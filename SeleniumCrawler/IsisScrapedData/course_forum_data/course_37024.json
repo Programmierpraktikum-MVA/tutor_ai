@@ -1,0 +1,924 @@
+[
+    {
+        "Course_Name": "[SS24] Agententechnologien: Grundlagen und Anwendungen",
+        "Course_id": "37024",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1742114",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Agents in Touch - Nachlese",
+                            "Discussion_Id": "607153",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088839",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-11T11:58:13+02:00",
+                                    "Content": "Guten Tag, die Vortragsfolien und Links stehen nun auf der Textseite für Woche 13. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Feedbackgespräch zur Lehrevaluation ",
+                            "Discussion_Id": "606951",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088574",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-10T16:03:29+02:00",
+                                    "Content": "Guten Tag!  Die Ergebnisse der Lehrevaluation (ohne Ihre Kommentare) finden Sie auf der ISIS-Seite hier: Lehrevaluation: Ergebnisse Das Feedbackgespräch, an dem ich Stellung beziehe zur Evaluation und sehr gerne mit Ihnen Verbesserungen am Modul diskutieren möchte, findet Mittwoch um 09:30 - 10:00 online über zoom statt. Sie dürfen gerne anonym (ohne Kamera und ohne Ihren Klarnamen) daran teilnehmen.  Einladungslink: https://tu-berlin.zoom.us/j/68639180846?pwd=OGVFbE5paENTTUg4T2hJcUM0NVR6Zz09 Ich werde Stellung beziehen zu den Evaluationsergebnissen und mit Ihnen diskutieren, wie man die Lehre fürs nächste Sommersemester besser gestalten kann. Sehr gerne dürfen Sie auch Ihre Best Practices aus anderen Lehrmodulen einbringen.  Bitte nehmen Sie teil und zeigen Sie, dass auch Ihnen die Qualität der Lehre am Herzen liegt!  Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 3 - Forschungsfrage formulieren",
+                            "Discussion_Id": "606307",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087645",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-08T15:28:57+02:00",
+                                    "Content": "Guten Tag, es kam die Frage auf, wie man eine Forschungsfrage formuliert (auf sie wird im Anhang des 3. Aufgabenblattes verwiesen). Hier ein paar Informationen, die dieses Problem hoffentlich lösen helfen. Jedes Poster hat einen Titel. Dieser soll nicht \"Aufgabenblatt 3\" lauten, sondern Ihr Thema bzw. Ihre Fragestellung bezeichnen. Themenbeispiele: \"Einsatz von iBundle in der kooperativen Logistik\" oder \"Effektive Aufgabenverteilung mit kombinatorischen Auktionen\" oder \"Durchsetzung kombinatorischer Aufträge durch sequenzielle Auktionen\" Beispiele für Forschungsfragen: \"Welchen Einfluss hat das Risikoprofil von Bieteragenten in kombinatorischen Auktionen auf die gesamte Wohlfahrt?\", \"Wie wirkt sich der Planungshorizont auf die Systemperformance bei sequenziellen iBundle-Auktionen aus?\", \"Welche Bietstrategien optimieren den Nutzen im Umfeld risikoneutraler Konkurrenz?\" Eine Forschungsfrage ist typischerweise eine \"W\"-Frage (Fragepronomen \"wie viele\" \"welche\", usw), die sich nicht einfach mit ja oder nein beantworten lässt.  Wenn Ihr Poster mit einem Thema wie oben beispielhaft angegeben betitelt ist, dann sollte der erste Abschnitt Ihres Posters die Forschungsfrage thematisieren: Formulieren Sie die Frage, motivieren Sie kurz, warum diese Frage interessant ist und designen Sie dann Ihre Experiments zur Beantwortung derselben.  Ihre Simulationen sollen Sie daher als empirische Evaluation verstehen. Die Experimente liefern Zahlen (also quantitative Ergebnisse), die Sie entsprechend, zur Beantwortung Ihrer Forschungsfrage, interpretieren sollen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Woche 13 - Agents in Touch am Donnerstag",
+                            "Discussion_Id": "606191",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087483",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-08T12:06:41+02:00",
+                                    "Content": "Guten Tag! Montag findet keine Präsenzveranstaltung statt. Stattdessen freuen wir uns, Ihnen am Donnerstag aktuelle Forschungsprojekte vorstellen zu dürfen und mit Ihnen zu diskutieren. Bei Interesse besteht auch die Möglichkeit, als studentische Hilfskraft in einem unserer drittmittelgeförderten Projekte mitzuwirken. Vielleicht finden Sie hier ja auch Ihr Thema für die demnächst anstehende Bachelorarbeit? Treffpunkt ist Donnerstag, 10:15 vor dem Zentrum für erlebbare Künstliche Intelligenz (ZEKI) am Ernst-Reuter-Platz 2. Vor dem Eingang ist ein - schwer zu übersehendes - autonomes Fahrzeug (Tiguan) geparkt, dort beginnt die Führung. Konkret präsentieren wir: BeIntelli, das Schaufensterprojekt zur Digitalisierung der Infrastruktur für autonomes Fahren. ZEKI, das Zentrum für erlebbare Künstliche Intelligenz. In den Räumen finden Sie unter anderem einen Lieferroboter für autonome Logistik und viele vernetzte, sensorbasierte Anwendungen für das Büro der Zukunft und eine moderne Kücheninfrastruktur. ggfs. EMPAIA, eine Datenplattform für medizinische KI-Anwendungen, mit einem Schwerpunkt auf erklärbare KI. Ich freue mich auf Ihre Teilnahme! Stefan Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 3",
+                            "Discussion_Id": "602912",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082799",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-24T09:34:58+02:00",
+                                    "Content": "Liebe Studierende, Aufgabenblatt 3 ist verfügbar, die Codebase wird noch bereitgestellt. Viele Grüße, S. Fricke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083040",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-24T14:33:16+02:00",
+                                    "Content": "Liebe Studierende, Aufgabenblatt 3 ist nun vollständig verfügbar. Abgabe ist der 15.07. (kurzzeitig war hier der 10.07. angegeben) mit einer Feedback Runde übers Forum in der darauf folgenden Woche (Deadline 19.07. + 21.07.) Sollte es Fragen oder Probleme geben meldet euch gerne. Beste Grüße, Julian",
+                                    "Response to": "p1082799"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Woche 12",
+                            "Discussion_Id": "603081",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083024",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-24T14:14:49+02:00",
+                                    "Content": "Guten Tag! Woche 12 präsentiert den letzten inhaltlichen Block \"Faires Teilen\". Beim neidfreien Teilen (engl. \"fair division\") geht es darum, eine Ressource zwischen mehreren Agentinnen so aufzuteilen, dass alle zufrieden sind. Zufriedenheit lässt sich am besten durch Neidfreiheit ausdrücken: Niemand würde ihr Stück vom Kuchen gegen ein anderes eintauschen wollen. Wichtig hierbei: Die Agentinnen haben private Präferenzen, und ein \"Schiedsrichter\" existiert nicht. Weil Neidfreiheit bei vielen Spielern (viel meint hier bereits >3) nur sehr aufwändig algorithmisch in so genannte \"Zuweisungsprotokolle\" umsetzbar ist, begnügt man sich manchmal auch mit der schwächeren Proportionalität: Alle n Spielerinnen erhalten mindestens 1/n vom Kuchen. Es geht aber auch noch weiter: Bei teilbaren Ressourcen (z.B. einer Erbschaft) kann auch eine gerechte Verteilung erreicht werden, bei der alle Beteiligten gleichermaßen zufrieden sind. Einen guten informellen Einstieg, der auch bereits viele der in den Videos behandelten Protokolle beinhaltet, bietet dieser Beitrag im Spektrum der Wissenschaft: E. Klarreich: Neidfreies Teilen - wie man einen Kuchen fair aufteilt. Spektrum.de, online https://www.spektrum.de/news/neidfreies-teilen-wie-man-einen-kuchen-fair-aufteilt/1432192 In der letzten Woche gibt es dann noch \"Agents in Touch\" - Informationen folgen. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufruf zur Lehrevaluation",
+                            "Discussion_Id": "601428",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080643",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-17T11:16:20+02:00",
+                                    "Content": "(english version below)  Liebe/r Kursteilnehmer/in,     wir bitten um Ihre Teilnahme an der anoymen Lehrevaluation unter dem Link  https://befragung.tu-berlin.de/evasys/online.php?p=9QEPL  Sie benötigen ca. 15 Minuten für diese Befragung. Bitte füllen Sie sie nur einmal aus. Deadline ist der 28.06.2024.    Mit Ihrer Teilnahme tragen Sie aktiv zur Optimierung der Lehre bei. Denn schlecht bewertete Lehrveranstaltungen werden in der Ausbildungskommission besprochen.  Die anonymen Evaluationsergebnisse werden wir auf der ISIS-Kursseite veröffentlichen (jedoch nicht die Freitextantworten). Außerdem bieten ich einen Termin an, wo ich die Ergebnisse gerne mit Ihnen diskutiere.   Vielen Dank im Voraus, S. Fricke    Dear student,     we hereby kindly ask you for your (anonymous) feedback to this module, following the link     https://befragung.tu-berlin.de/evasys/online.php?p=9QEPL  You will need approx. 15 minutes to complete this survey. Please fill it out only once. Deadline is 28.06.2024.    With your participation, you actively contribute to the optimization of teaching. Poorly evaluated courses will be discussed in the Ausbildungskommission.  We will publish the anonymous evaluation results on the ISIS course page (but not the text comments). We will also offer a meeting to discuss the results with you.    Thank you in advance,     Stefan Fricke, on behalf of the trainers",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082798",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-24T09:32:36+02:00",
+                                    "Content": "Erinnerung an die Lehrevaluation des Moduls AOT, sofern Sie diese noch nicht ausgefüllt haben: https://befragung.tu-berlin.de/evasys/online.php?p=9QEPL",
+                                    "Response to": "p1080643"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Online",
+                            "Discussion_Id": "601379",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080575",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-17T10:02:48+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der geringen Nutzung der Präsenzsprechstunde am Montag wird auch diese vorerst Online stattfinden. Sollte jemand doch die Präsenzsprechstunde benötigen müsst ihr mir das vorher per Mail mitteilen. Die Zeiten am Montag (14:00 - 16:00 Uhr) und Mittwoch (13:00 - 15:00 Uhr) bleiben gleich. Beste Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reviews Blatt 1 und Griddateien",
+                            "Discussion_Id": "598980",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077068",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-04T20:02:40+02:00",
+                                    "Content": "Liebe Studierende, in der Abgabe von Aufgabenblatt 2 findet ihr nun die gridfiles der anderen Gruppen. Außerdem sollte jeder in Aufgabenblatt 1 das zu eurer Dokumentation erstellte Review finden, falls für eure Dokumentation kein Review abgegeben wurde erhaltet ihr ein zufälliges Review (Gilt für Gruppe 20 & 33). Beste Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 9",
+                            "Discussion_Id": "598555",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076472",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-03T14:14:12+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. Kombinatorische Auktionen kommen insbesondere im Business-to-Business zum Einsatz, wo Bündel von Common-Value-Gütern versteigert werden und außerdem bei der staatlichen Versteigerung von Funkfrequenzen an Telekommunikationsunternehmen. Gerade für Funkauktionen sind die meisten Auktionsmechanismen entwickelt worden, aus schlechten Erfahrungen mit minderwertigen Mechanismen in der Vergangenheit. Wir werden mit iBundle eine auf Güterbündel angepasste englische Auktion kennenlernen und auch die Vor- und Nachteile des direkten Mechanismus einer Vickreyauktion diskutieren. Interessant sind auch die vielen Anregungen im Ausblick, wo beispielsweise die komplexe Combinatorial Clock Auction vorgestellt wird. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde heute ",
+                            "Discussion_Id": "598554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076471",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-03T14:14:03+02:00",
+                                    "Content": "Liebe Studierende, wegen Bahnproblemen wird die heutige Sprechstunde ca. 5min später starten. Beste Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zur Gruppenrücksprache",
+                            "Discussion_Id": "597885",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075462",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-30T12:36:09+02:00",
+                                    "Content": "Guten Tag!  Die Anmeldung zur Gruppenrücksprache startet Montag, 14:00. Zur Wahl stehen Termine im Zeitraum vom 17.07. bis zum 02.08. Die Startzeiten sind (mit Ausnahme der letzten Vorlesungwoche) 08:30, 12:00, 16:00 (jeweils pünktlich).  Weiter unten sind die einzelnen Termine aufgelistet.  Koordinieren Sie sich innerhalb Ihrer Gruppe und einigen Sie sich auf passende Termine (am besten mehrere, falls Ihre 1. Präferenz bereits eine andere Gruppe gewählt haben sollte). Dann füllt eine Person Ihrer Gruppe die Anmeldung aus. Ihre Terminwahl ist verbindlich und kann nur nach Rücksprache mit mir (per Mail) geändert werden. Jede Gruppe darf nur 1 Termin wählen.  Wie eine Gruppenrücksprache abläuft erfahren Sie auf der Textseite \"Ablauf einer Gruppenrücksprache\".  Viele Grüße; S. Fricke Hier die Prüfungstermine: Tag Datum Beginn Mo 15.07 12:00 Di 16.07 08:30 Di 16.07 12:00 Di 16.07 16:00 Mi 17.07 08:30 Mi 17.07 10:00 Mi 17.07 16:00 Do 18.07 08:30 Do 18.07 10:00 Do 18.07 16:00 Fr 19.07 08:30 Fr 19.07 14:00 Fr 19.07 16:00 Mo 22.07 08:30 Mo 22.07 12:00 Mo 22.07 16:00 Di 23.07 08:30 Di 23.07 12:00 Di 23.07 16:00 Mi 24.07 08:30 Mi 24.07 12:00 Mi 24.07 16:00 Do 25.07 08:30 Do 25.07 12:00 Do 25.07 16:00 Fr 26.07 08:30 Fr 26.07 12:00 Fr 26.07 16:00 Mo 29.07 08:30 Mo 29.07 12:00 Mo 29.07 16:00 Di 30.07 08:30 Di 30.07 12:00 Di 30.07 16:00 Mi 31.07 08:30 Mi 31.07 12:00 Mi 31.07 16:00 Do 01.08 08:30 Do 01.08 12:00 Do 01.08 16:00 Fr 02.08 08:30 Fr 02.08 12:00 Fr 02.08 16:00",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 2",
+                            "Discussion_Id": "597304",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074645",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-28T12:23:48+02:00",
+                                    "Content": "Liebe Studierende, Aufgabenblatt 2 ist nun verfügbar. Bitte beachtet, dass es bereits am 03.06. eine Abgabe gibt unter Aufgabenblatt 2 - Gridworlds. Bei Fragen meldet euch oder nutzt die Sprechstunde. Beste Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 8",
+                            "Discussion_Id": "597077",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074262",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-27T16:07:36+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. 2 Wochen lang beschäftigen wir uns mit Auktionen. Wie bei Verhandlungen geht es um die Allokation von Gütern an nutzenbasierte Agenten. Jedoch wird der Vergabeprozess durch die Rolle des Auktionators gesteuert. Im ersten Teil behandeln wir Mechanismen zur Versteigerung einzelner Güter. Wichtige Mechanismusdesignziele sind hierbei Paretoeffizienz und - insbesondere bei Common Value-Gütern - die Verhinderung von Bieterkartellen.  Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 6",
+                            "Discussion_Id": "594044",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069513",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-13T13:56:12+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. Beim Contracting handelt der Initiator die Diensterbringung direkt mit den potenziellen Dienstanbieteragenten aus. Verschiedene Varianten des Contract Net Protocols realisieren die Umsetzung dieses Task-Sharing-Ansatzes. Kooperation kann aber auch bottom-up erfolgen, dann sprechen wir vom Result Sharing. Dieses erfolgt üblicherweise über ein Blackboard, das als Shared Memory zur Koordination dient. Viele Grüße, S. Fricke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072906",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-23T10:38:29+02:00",
+                                    "Content": "Da hatte ich doch leider den falschen Termin für den Flipped Classroom kommuniziert, nicht am 16.05. sondern am 23.05. sollte die Vertiefung von CDPS2 stattfinden.  Die Aufgaben der vergangenen Woche sind nun also zum Selbststudium freigegeben, die Lösungen habe ich auch bereits auf die ISIS-Textseite gestellt. Wir sehen uns dann am üblichen Montagtermin, um das Thema \"Verhandlungen\" zu vertiefen. Viele Grüße, S. Fricke",
+                                    "Response to": "p1069513"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 1 - Review",
+                            "Discussion_Id": "596177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072835",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-23T07:35:25+02:00",
+                                    "Content": "Liebe Studierende, jede Gruppe sollte in der Abgabe von Aufgabenblatt 1 die Dokumentation einer anderen Gruppe als Feedbackdatei erhalten haben, die für den letzten Teil des Aufgabenblatts genutzt werden soll. Für das Review ist eine neue Abgabe auf der Kursseite freigeschaltet. Beste Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 7",
+                            "Discussion_Id": "596072",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072696",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-22T16:41:59+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. In dieser Woche steigen wir in nutzenbasierte Agenten ein. Nutzenfunktionen und ihre Eigenschaften stellen die Grundlage für das Design von Mechanismen dar. In dieser und in den folgenden Wochen behanden wir verschiedene Themenbereiche für nutzenbasiert Agenten. Wir beginnen mit Verhandlungen. Hierbei tauschen - typischerweise 2 - Agenten wechselseitig Deals aus, um zu einem allseits akzeptierten Ergebnis zu kommen. Aber auch das Scheitern ist ein valides Ergebnis einer Verhandlung. Der nächste Flipped Classroom findet wieder Montag statt, für die Erarbeitung der Inhalte haben Sie also nur wenige Tage Zeit! Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Nächster Präsenztermin am Donnerstag, 16.05.",
+                            "Discussion_Id": "595088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071148",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-17T09:30:01+02:00",
+                                    "Content": "Guten Tag, der nächste Flipped Classromm findet wegen der Pfingstfeiertage erst am kommenden Donnerstag statt. Wir treffen uns am 16.05. um 10:15 im EW 202 und behandeln / vertiefen das Thema Contracting. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 05 und Lehrbuch",
+                            "Discussion_Id": "593341",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068382",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-08T16:38:28+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. In 1 Satz: Wir behandeln sequenzielle Spiele mit perfekter Information, die durch Spielbäume (so genannte Extensivform) repräsentiert werden, und auf denen Rückwärtsinduktion (bzw. Minimax, bzw. Maximin) angewendet wird, um teilspielperfekte Gleichgewichte zu bestimmen. Das Lehrbuch kann nun auch oben auf der ISIS-Kursseite gefunden werden. Genießen Sie den Feiertag! S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 1",
+                            "Discussion_Id": "592464",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067059",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-06T10:38:08+02:00",
+                                    "Content": "Liebe Studierende, Aufgabenblatt 1 ist nun verfügbar. Ab Mittwoch (08.05) wird es jede Woche 2 Sprechstunden geben (Online+Präsenz), die Zeiten findet ihr oben auf der Kursseite. Der Einstieg in das Aufgabenblatt, insbesondere in die Codevorgabe mit kotlin, jiac, etc. ist oft nicht ganz einfach, daher schreibt mir gerne per Mail oder im Forum wenn ihr Unterstützung braucht oder nutzt die Sprechstunde. Ihr benötigt für die Bearbeitung des Aufgabenblattes: das Java Development Kit, z.B. OpenJDK (jdk nicht nur jre) Maven und am besten eine IDE (Empfehlung IntelliJ), aber das ist eure Wahl   Bei Gruppenproblemen meldet euch bitte frühzeitig, damit es hinterher bei der Poolnote nicht zu Unstimmigkeiten kommt.  Beste Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 4",
+                            "Discussion_Id": "590823",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064484",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-29T14:42:51+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. Wir beschäftigen uns die nächsten 2 Wochen mit Spieltheorie und beginnen mit Normalformspielen (Simultanspielen), deren berühmtester Vertreter das Gefangenendilemma ist. Wir werden verschiedene Lösungstechniken kennenlernen, um rationale Handlungen in derartigen strategischen Situationen zu identifizieren. Ins Textfeld der letzten Woche habe ich noch eine Datei hochgeladen:  02B02 LN reaktive Agenten.pdf . Sie enthält Notizen zu den Folien zur Schwarmintelligenz und Lösungen zur Diskussion von Leitfragen zu Ameisenalgorithmen. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 3",
+                            "Discussion_Id": "589002",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061680",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-23T16:06:38+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite. Der erste Teil zum kooperativen Problemlösen beschäftigt sich mit der Delegation von Aufgaben bzw. der Vermittlung von Aufgaben mittels eines Brokers. Für diese relativ einfachen Formen des Task Sharings existieren standardisierte Interaktionsprotokolle, bei denen der Nachrichtenaustausch auf Sprechakten beruht. Mit der Principal Agent Theorie lassen sich die Beziehungen zwischen Auftraggeber und -nehmer analysieren - stets ist der Auftragnehmer im Vorteil, wenn er seinen Informationsvorsprung ausnutzen kann. Donnerstag findet wie üblich keine Präsenzlehre statt, nutzen Sie die Zeit für die Screencasts. Montag findet dann der Flipped Classroom (bzw. die Übung) statt, wo Sie mit Ihren Sitznachbarinnen Probleme diskutieren und Aufgaben lösen. Bevor wir in 3 Wochen den 2. Teil des kooperativen Problemlösens behandeln, beschäftigen wir uns zuvor noch 2 Wochen lang mit Spieltheorie. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AOT: Woche 2",
+                            "Discussion_Id": "587009",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058521",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-17T16:36:40+02:00",
+                                    "Content": "Guten Tag! Das Material für die kommende Woche finden Sie auf der entsprechenden Textseite.  Bitte schauen Sie sich die beiden Videos an, wir werden das Thema Agentenarchitekturen am Montag vertiefen, indem Sie mit Ihren Sitznachbarinnen für verschiedene Domänen Agenten identifizieren und ihnen passende Architekturen zuordnen. Außerdem gibt es eine Einführung in Schwarmintelligenz (als Impulsvortrag / Vorlesung). Dieses Thema ist relevant für das erste Aufgabenblatt. Am letzten Montag wurde die Bitte geäußert, ein Beispielaufgabenblatt zu haben, um die Art und den Umfang der Aufgaben einschätzen zu können. Dem komme ich hiermit gerne nach: Im Materialordner finden Sie das erste Aufgabenblatt aus dem letzten Jahr: 00Z01 Aufgabenblatt1_AOTSS23.pdf. Inhaltlich wird es gewisse Ähnlichkeiten mit dem 1. Aufgabenblatt des aktuellen Semesters aufweisen. Donnerstag findet keine Präsenzlehre statt, nutzen Sie die Zeit für die Screencasts. Viele Grüße, S. Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Willkommen im Bachelormodul Agententechnologien - Grundlagen und Anwendungen",
+                            "Discussion_Id": "585286",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056064",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-10T14:59:09+02:00",
+                                    "Content": "Guten Tag! Danke für Ihr Interesse an unserer Lehrveranstaltung. Hier ein paar Vorab-Informationen: Für die Anmeldung über Moses Qispos oder beim Prüfungsamt (Modulanmeldezettel) haben Sie bis 15.05. Zeit.   Es gibt keine Teilnahmebeschränkung. Bitte nehmen Sie sich ca. 10 Minuten Zeit für die anonyme Vorabbefragung. Wir möchten insbesondere Ihre Erwartungen und Befürchtungen zu diesem Kurs kennen lernen. In der 2. Semesterwoche nehme ich dazu Stellung. Für den Übungsbetrieb bilden Sie Kleingruppen von 3-4 Personen. Die Gruppenbildung sollte Ende der 2. Semesterwoche abgeschlossen sein. Über ISIS-Gruppenforen wird der Übungsbetrieb (Abgabe von Aufgabenblättern) organisiert. Ihre Note berechnet sich aus mehreren Portfolioelementen: 3 Aufgabenblätter + Rücksprache. Die Rücksprache wird online als Gruppenrücksprache durchgeführt. Zur Prüfungsvorbereitung stellen wir kommentierte Vorlesungsfolien und ein Skript bereit.  Ich freue mich auf Sie zum Auftakt am 15.04.!  Stefan Fricke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Organisationsforum",
+                    "Forum_id": "1742115",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Frage zu Einzelrücksprache",
+                            "Discussion_Id": "607546",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089426",
+                                    "Author": "Kenan Keskin",
+                                    "DateTime": "2024-07-12T16:21:05+02:00",
+                                    "Content": "Hallo Ich wollte fragen ob man bei der Einzelrücksprache die Themen wählen kann in denen man befragt wird?  Mfg, Kenan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089547",
+                                    "Author": "Ramon Felipe Kühne",
+                                    "DateTime": "2024-07-13T12:10:04+02:00",
+                                    "Content": "Bei Ablauf einer Gruppenrücksprache steht „Die Auswahl der Themengebiete erfolgt durch den Prüfer.“. Also ig man darf die Themen nicht selber wählen.",
+                                    "Response to": "p1089426"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Etherpad Lösungen",
+                            "Discussion_Id": "607292",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089034",
+                                    "Author": "Ramon Felipe Kühne",
+                                    "DateTime": "2024-07-11T17:23:32+02:00",
+                                    "Content": "Die Etherpad Lösungen der Übungen kann man nichtmehr angucken. Werden nochmal Musterlösungen zu den Übungen hochgeladen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Punkte Hausaufgaben",
+                            "Discussion_Id": "602750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082540",
+                                    "Author": "Ramon Felipe Kühne",
+                                    "DateTime": "2024-06-22T16:11:52+02:00",
+                                    "Content": "Wann kriegen wir eigentlich die Punkte für die Hausaufgaben?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083016",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-24T14:09:27+02:00",
+                                    "Content": "Hallo Ramon, die Punkte für Aufgabenblatt 1 erhaltet ihr diese Woche, die punkte für Aufgabenblatt 2 in 2 Wochen. Für Aufgabenblatt 3 gibt es noch keinen exakten Zeitplan. Beste Grüße, Julian",
+                                    "Response to": "p1082540"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 2",
+                            "Discussion_Id": "597036",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074196",
+                                    "Author": "Jamina Nöll",
+                                    "DateTime": "2024-05-27T14:59:58+02:00",
+                                    "Content": "Guten Tag, in den Intro Folien steht, dass das zweite Aufgabenblatt am 23.05 startet.  Zur besseren Koordination mit anderen Modulen würde ich gerne wissen wann das Blatt rauskommt und wie viel Zeit wir ca. dafür haben werden. Vielen Dank, Jamina",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074201",
+                                    "Author": "Kai Robin Kastenholz",
+                                    "DateTime": "2024-05-27T15:01:46+02:00",
+                                    "Content": "Das würde ich auch gerne wissen!",
+                                    "Response to": "p1074196"
+                                },
+                                {
+                                    "Message_id": "p1074411",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-27T20:21:11+02:00",
+                                    "Content": "Hallo Jamina, das Aufgabenblatt 2 wird morgen um 12 Uhr verfügbar sein, die Bearbeitungszeit ist 3 Wochen mit einer kleineren Teilabgabe bereits in der ersten Woche. Beste Grüße, Julian",
+                                    "Response to": "p1074196"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe alleine",
+                            "Discussion_Id": "592411",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066962",
+                                    "Author": "Parisa Ebrahimi",
+                                    "DateTime": "2024-05-06T08:37:31+02:00",
+                                    "Content": "Hallo zusammen, in letzter Zeit habe ich öfter meine Gruppen gewechselt und mich auch in Gruppen mit nur 1 oder 2 Mitgliedern eingetragen, da ich festgestellt habe, dass ich alleine in einer Gruppe bin. Jetzt habe ich erneut nachgeschaut und festgestellt, dass alle Gruppen außer meiner vier Mitglieder haben. Ich bin immer noch in einer Gruppe mit nur einer Person. So eine Situation hatte ich bisher an dieser Uni noch nie erlebt. Könntet ihr mir bitte sagen, was ich jetzt genau tun soll? Liebe Grüße, Parisa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Versehentlich aus Kurs abgemeldet",
+                            "Discussion_Id": "592729",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067467",
+                                    "Author": "Anton Anderten",
+                                    "DateTime": "2024-05-06T20:24:32+02:00",
+                                    "Content": "Hallo, Ich habe mich grade versehentlich aus dem ISIS Kurs abgemeldet und bin deshalb auf ISIS nicht mehr mitglied meiner Hausaufgabengruppe. Ich bin Mitglied der Gruppe 17. Meine Gruppenmitglieder können bestätigen, dass ich bis vor 5 min. noch in dieser Gruppe Mitglied war. Könnten Sie mich bitte wieder zur Gruppe 17 hinzufügen? Ich entschuldige mich vielmals für die Umstände M.f.G. Anton",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungszeitraum",
+                            "Discussion_Id": "589115",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061867",
+                                    "Author": "Anton Anderten",
+                                    "DateTime": "2024-04-23T20:17:58+02:00",
+                                    "Content": "Guten Tag, Ich habe zwei Fragen zur Organisation. Wird man für die Gruppenrücksprache die Möglichkeit haben aus mehreren Terminen oder frei zu wählen? Können sie schon ungefähr einschätzen, wie lang der Zeitraum ist, in dem die Gruppenrücksprachen stattfinden, wenn diese im Juli beginnen?  M.f.G. Anton",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066947",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-06T08:06:28+02:00",
+                                    "Content": "Freie Wahl der Prüfungstermine, diese finden ab der letzten VL-Woche statt.",
+                                    "Response to": "p1061867"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Modulanmeldung",
+                            "Discussion_Id": "585352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056140",
+                                    "Author": "Niels Wegener",
+                                    "DateTime": "2024-04-10T18:28:09+02:00",
+                                    "Content": "Guten Tag  Jetzt wo die ISIS seit da ist habe ich festgestellt, dass die Anmeldung über qispos nicht nur ne veraltete Information ist. Deswegen habe ich nachgeguckt und keine Möglichkeit zur Anmeldung da gefunden weshalb ich nochmal nachfragen wollte, ob es eine andere Methode gibt oder das Einreichen eines Formulars wirklich die einzige Möglichkeit ist. Mit Freundlichen Grüßen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056394",
+                                    "Author": "Bruno Ignaz Rothschild",
+                                    "DateTime": "2024-04-11T20:19:34+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1056140"
+                                },
+                                {
+                                    "Message_id": "p1056570",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-12T16:50:52+02:00",
+                                    "Content": "Die Anmeldung erfolgt natürlich über Moses.",
+                                    "Response to": "p1056140"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Inhaltsforum",
+                    "Forum_id": "1742116",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "HA 3 Abgabe Poster",
+                            "Discussion_Id": "606436",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087827",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-07-08T22:19:28+02:00",
+                                    "Content": "Wo können wir die Poster abgeben?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088265",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-09T22:22:41+02:00",
+                                    "Content": "Dafür wird noch ein extra Forum bereitgestellt. Beste Grüße, Julian",
+                                    "Response to": "p1087827"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA3 Exp Algos",
+                            "Discussion_Id": "604506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085087",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-07-01T00:45:25+02:00",
+                                    "Content": "Auf wie viel wird die Anzahl der Worker und Orders beschränkt sein? Kann es zum Verhängnis werden wenn man exponentialzeit Algos in Abhängigkeit der Order- oder Workeranzahl verwendet?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085226",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-01T11:39:49+02:00",
+                                    "Content": "Hallo Steffen, einen konkreten Wert kann ich euch nicht nennen, es wird aber auch weiterhin keine Stresstest o.ä. geben, daher solltet ihr euch in der Hinsicht nicht zu viele Sorgen machen. Falls ihr da eine konkretere Idee habt oder schon max. Anzahl an Workern/Orders mit denen es funktioniert kann ich euch gerne sagen ob das in Ordnung ist. Beste Grüße, Julian",
+                                    "Response to": "p1085087"
+                                },
+                                {
+                                    "Message_id": "p1086415",
+                                    "Author": "Feidi Kallel",
+                                    "DateTime": "2024-07-04T09:38:57+02:00",
+                                    "Content": "Hallo, wäre eine Anzahl von 4 Agenten und eine Auktion um 4 gleichzeitige Orders in Ordnung?",
+                                    "Response to": "p1085226"
+                                },
+                                {
+                                    "Message_id": "p1086444",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-04T10:31:00+02:00",
+                                    "Content": "Falls eure Implementierung dann wegen Laufzeitproblemen an ihre Grenzen kommt ist das in Ordnung, die Idee sollte aber auch für mehr Orders funktionieren. Beste Grüße, Julian",
+                                    "Response to": "p1086415"
+                                },
+                                {
+                                    "Message_id": "p1086469",
+                                    "Author": "Bruno Ignaz Rothschild",
+                                    "DateTime": "2024-07-04T11:08:02+02:00",
+                                    "Content": "Hi,  Also wenn wir die Orders O={a,b,c} haben, dann sollen unsere Agenten auch auf Teilmengen von O bieten können? Oder wäre es auch ausreichend, wenn wir nur auf einzelne Element von O bieten?  Grüße",
+                                    "Response to": "p1086444"
+                                },
+                                {
+                                    "Message_id": "p1086520",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-04T12:34:20+02:00",
+                                    "Content": "Die genaue Umsetzung ist euch überlassen. Es soll aber eine kombinatorische Auktion sein, das heißt immer nur einzelne Orders zu versteigern wäre nicht in Ordnung. Beste Grüße, Julian",
+                                    "Response to": "p1086469"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wie viel fuel verlieren die WorkerAgents?",
+                            "Discussion_Id": "605300",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086223",
+                                    "Author": "Lorenzo Imöhl von Flocken",
+                                    "DateTime": "2024-07-03T15:33:25+02:00",
+                                    "Content": "Hallo, laut der readme der Vorgabe verlieren die WorkerAgents ein Fuel pro Runde, und ein zusätzliches Fuel pro Bewegung. Each turn WorkerAgents loose 1 fuel as well as 1 additional fuel for moving actions. Der ServerAgent zieht aber kein zusätzliches Fuel pro Bewegung ab. Ist das readme einfach falsch? mfg Lorenzo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086441",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-04T10:26:17+02:00",
+                                    "Content": "Hallo Lorenzo, du hast recht das stimmt nicht überein. Die korrekte Variante ist die des Readme, im Server fehlt eine Zeile. Die Servervorgabe wird heute aktualisiert. Danke für den Hinweis. Beste Grüße, Julian",
+                                    "Response to": "p1086223"
+                                },
+                                {
+                                    "Message_id": "p1086477",
+                                    "Author": "Feidi Kallel",
+                                    "DateTime": "2024-07-04T11:32:06+02:00",
+                                    "Content": "Hallo, das heißt, für Bewegungszüge wird ein zusätzliches Fuel pro Bewegung verloren. Aber für Take- und Drop-Züge, wird kein zusätzliches Fuel verloren. Liege ich richtig?  mfG Feidi",
+                                    "Response to": "p1086441"
+                                },
+                                {
+                                    "Message_id": "p1086519",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-04T12:32:01+02:00",
+                                    "Content": "Ja genau",
+                                    "Response to": "p1086477"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Score 0 bei einem worker agenten",
+                            "Discussion_Id": "604676",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085346",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-07-01T14:10:35+02:00",
+                                    "Content": "Ist es gewollt, dass bei einer iBundle Implementierung der Auktioniär immer mit score = 0 aus dem spiel geht, soweit es nur einen worker gibt? oder sollen die Worker genau so viel zahlen, wie sie maximal können?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085739",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-07-02T12:16:04+02:00",
+                                    "Content": "Das konkrete Design der Auktion ist Ihnen überlassen. Sie können auch eine Preisfeststellung zum Erstpreis implementieren oder was immer Ihnen sinnvoll erscheint.",
+                                    "Response to": "p1085346"
+                                },
+                                {
+                                    "Message_id": "p1085753",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-02T12:40:14+02:00",
+                                    "Content": "Hallo Steffen, um das vielleicht noch zu konkretisieren. Ihr habt die Kontrolle über Gebote und Preise. Wenn ihr sagt wir machen eine Zweitpreisauktion, dafür hat die Auktionatorin nach einer Auktionsrunde weniger eingenommen, aber die Worker mehr Fuel, ist das genauso in Ordnung wie jedes mal den Erstpreis oder andere Varianten. Insgesamt sollte aber das \"Geld\" der Auktionatorin maximiert werden, dementsprechend auch eure Implementierung der Auktion das beachten (ohne jeden Sonderfall mit zu betrachten: nur 1 Order, nur 1 Worker, etc.) Beste Grüße, Julian",
+                                    "Response to": "p1085346"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CNP Auction",
+                            "Discussion_Id": "604451",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084999",
+                                    "Author": "Johannes Augustin Hack",
+                                    "DateTime": "2024-06-30T13:43:31+02:00",
+                                    "Content": "Liebes Lehrteam, liebe Studierende, ich frage mich wie man am besten damit umgehen könnte, dass der ServerAgent die unterschiedlichen Angebote erst nacheinander absendet. Somit weiß der AuctioneerAgent nie genau, ob alle in der Runde ausgegebenen Angebote schon angekommen sind und dann eine kombinatorische Auktion zu starten. Meine Idee ist jetzt erstmal, dass dieser nach jedem Angebot kurz wartet, ob möglicherweise noch ein weiteres Angebot eintrifft. Da mir die Lösung aber etwas unbefriedigend erscheint, wollte ich fragen, ob jemand noch eine bessere Idee hat oder ob es sogar vielleicht erlaubt wird in OrderMessage alle Order zu senden? LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085233",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-01T11:49:51+02:00",
+                                    "Content": "Hallo Johannes, mit Angebot meinst du immer die vom Server aus verkündeten Orders? Eine simple Lösung, die ihr gerne verwendet könnt ist es das ganze über die Griddatei zu steuern. Ihr könnt für Orders im Gridfile den Zeitpunkt an dem sie vom Server verkündet werden festlegen, gruppiert die Startzeitpunkte der Orders einfach manuell im Gridfile und lasst die Auktionatorin Kombinationen aus den Orders des selben Turns erstellen. Also anstatt 20 Orders in 20 verschiedenen Turns zu erstellen, kommen die Orders aufgeteilt in drei Gruppen nur in Turn 5, 10, 15. Beste Grüße, Julian",
+                                    "Response to": "p1084999"
+                                },
+                                {
+                                    "Message_id": "p1085267",
+                                    "Author": "Johannes Augustin Hack",
+                                    "DateTime": "2024-07-01T12:27:58+02:00",
+                                    "Content": "Ah ok vielen Dank. Das heißt der AuctioneerAgent darf auch eine Instanz vom Grid speichern und weiß somit wann welche Orders kommen.",
+                                    "Response to": "p1085233"
+                                },
+                                {
+                                    "Message_id": "p1085286",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-01T12:55:53+02:00",
+                                    "Content": "Nein, das ist nicht möglich, aber wenn ich dein Problem richtig verstanden habe geht es darum zu wissen ob noch weitere Orders kommen und ab wann die Orders gebündelt und angeboten werden statt weiter zu warten. Was ich meine ist, generell zu sagen die Auktionatorin wartet nicht sondern betrachtet nur die Orders des aktuellen Turns als Gruppe. Aus dieser Gruppe werden dann Bündel erstellt und angeboten. Da diese vereinfachte Methoden bei einem Gridfile in dem pro Turn nur eine Order kommt etwas sinnlos ist könnt ihr im Gridfile festlegen, wann die Orders veröffentlicht werden. Die Auktionatorin hat aber weiterhin keine Informationen über zukünftige Orders, die noch nicht veröffentlicht sind. Beste Grüße, Julian",
+                                    "Response to": "p1085267"
+                                },
+                                {
+                                    "Message_id": "p1085296",
+                                    "Author": "Johannes Augustin Hack",
+                                    "DateTime": "2024-07-01T13:09:11+02:00",
+                                    "Content": "Achso, was mein Problem ist, wie man die Orders des aktuellen Turn bündelt. Da die Nachricht der Order ja asynchron kommuniziert wird und die Angebote ja trotzdem vom Server aus im aktuellen Turn nacheinander abgesendet werden, kann der AuctioneerAgent ja nie nach einer ankommenden OrderMessage fest sagen, dass jetzt alle OrderMessages für dieses Turn angekommen sind und er jetzt anfangen kann diese zu bündeln. Oder liege ich hier falsch? Vielen Dank Johannes",
+                                    "Response to": "p1085286"
+                                },
+                                {
+                                    "Message_id": "p1085747",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-07-02T12:33:31+02:00",
+                                    "Content": "Ja da hast du recht, das definitiv zu wissen ist nicht möglich. Eine super elegante Lösung habe ich dafür auch nicht, aber die ist auch nicht unbedingt notwendig. Falls es aus eurer Sicht sehr wichtig ist auf alle Orders des Turns zu warten, dann könnt ihr das auch hardcoden oder die Info aus dem Grid nehemn (ABER: nur die Info wie viele Orders in welchem Turn kommen). Es ist genauso gut möglich zu sagen nach x Turns bilde ich Bündel aus den aktuell anliegenden Orders, auch wenn dann mal ein gutes Bündel vielleicht nicht gebildet werden kann. Beste Grüße, Julian",
+                                    "Response to": "p1085296"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Message Broker sendet nur unzuverlässig",
+                            "Discussion_Id": "601633",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080954",
+                                    "Author": "Tim Jonathan Müller-Bagehl",
+                                    "DateTime": "2024-06-17T19:51:38+02:00",
+                                    "Content": "wir verwenden: private val msgBroker by resolve<BrokerAgentRef>() aus der main kopiert und dann mit msgBorker.publish(...) schicken wir broadcasts raus die werden aber nur in seltenen Fällen überhaupt gesendet (1/3 Fällen). Woran kann das liegen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081203",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-18T13:40:48+02:00",
+                                    "Content": "Hallo Tim, dafür wären ein paar weitere Infos noch hilfreich. Funktioniert denn der Broadcast vom Server bei euch? Am besten meldest du dich per Mail direkt bei mir, dann kannst du mir auch euren Code schicken, das macht das ganze deutlich einfacher. Beste Grüße, Julian",
+                                    "Response to": "p1080954"
+                                },
+                                {
+                                    "Message_id": "p1081312",
+                                    "Author": "Tim Jonathan Müller-Bagehl",
+                                    "DateTime": "2024-06-18T16:34:11+02:00",
+                                    "Content": "Hat sich erledigt. Ich glaube das lag daran, dass die Prozesse synchron laufen können. Ich habe einfach nach jedem Broker Aufruf in setupAgent sleep(200) eingefügt. Das hat das Problem gelöst. Mfg Tim",
+                                    "Response to": "p1081203"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Screencasts hochladen",
+                            "Discussion_Id": "601288",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080444",
+                                    "Author": "Feidi Kallel",
+                                    "DateTime": "2024-06-16T16:19:03+02:00",
+                                    "Content": "Hallo,  wie laden wir die Screencasts hoch, wenn diese zu groß sind ( über 50 MB als zip). Können wir diese Screencasts in tubcloud zur Verfügung stellen und dann in der Dokumentation verlinken? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080483",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-16T20:47:39+02:00",
+                                    "Content": "Ja das geht auch. Beste Grüße, Julian",
+                                    "Response to": "p1080444"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Server bei Gleichzeitigkeit",
+                            "Discussion_Id": "599474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077765",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-06-06T16:29:15+02:00",
+                                    "Content": "Wie geht der Server mit gleichzeitigen Anfragen um? Also wenn z.b zwei RepairAgents gleichzeitig zwei verschiedene Werkstücke aufheben wollen? Irgendwie freezen unsere Agenten manchmal in solchen fällen, kommen also zb auf Material, wollen dieses im gleichen Turn an der ein anderer RepairAgent schon eine TranferMessage geschickt hat aufheben, bleiben dann auf dieser Stelle stehen und kommen nie dazu eine TranferMessage abzuschicken - während der Agent, der als erstes die Message schickt auch eine TransferInform vom Server zurückbekommt und weitermachen kann. Das gleiche gilt für das Aufheben usw. Das Problem scheint in der Gleichzeitigkeit von Aktionen zu stecken... Gibt es hierzu Ideen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077851",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-06-06T21:38:56+02:00",
+                                    "Content": "solved!",
+                                    "Response to": "p1077765"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA02 Beispie Grids falsch",
+                            "Discussion_Id": "598260",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076028",
+                                    "Author": "Anton Anderten",
+                                    "DateTime": "2024-06-01T13:00:05+02:00",
+                                    "Content": "Hallo, In den Dateien \"example.grid\" und \"readme.md\", in dem grids folder der Vorlage, sind die x und y achse jeweils bei der Darstellung verstauscht. Da die Darstellung mit # und . für Hindernisse in unserer Griddatei Abgabe relevant ist, wäre es gut zu wissen, welche Axe zu welcher Seite gehören soll. M.f.G. Anton",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076443",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-06-03T13:19:47+02:00",
+                                    "Content": "Hallo Anton, das Example.grid sollte das korrekte sein. Beste Grüße, Julian",
+                                    "Response to": "p1076028"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA02 - Werden Obstacles revealed?",
+                            "Discussion_Id": "597712",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075219",
+                                    "Author": "Johann Wucherpfennig",
+                                    "DateTime": "2024-05-29T16:55:55+02:00",
+                                    "Content": "Im readme.md steht: obstacles and repair points will be revealed at the start of the game Aber im ServerAgent ist die obstacle List nullable und es wird geschaut, ob revealObstacles true ist. Wovon sollen wir also ausgehen? Muss ein WorkerAgent darauf eingestellt sein, dass Obstacles im vorhinein nicht bekannt sein könnten?  Grüße Johann Wucherpfennig",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075331",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-30T00:07:54+02:00",
+                                    "Content": "Hallo Johann, der Parameter revealObstacles bleibt für das Aufgabenblatt auf true, die Obstacles werden also am Anfang immer revealed. Beste Grüße, Julian",
+                                    "Response to": "p1075219"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA 02 - Fragen zur Umsetzung",
+                            "Discussion_Id": "597762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075290",
+                                    "Author": "Jan Niklas Schäfer",
+                                    "DateTime": "2024-05-29T19:45:24+02:00",
+                                    "Content": "Hallo, bei der Bearbeitung der 2. Hausaufgabe haben sich bei uns in der Gruppe einige Fragen ergeben. Da wir heute in der Sprechstunde leider keine Zeit hatten und die nächste erst am Montag ist, wollten wir die Fragen einmal hier im Forum stellen.  1. Dürfen Collect Agents untereinander kommunizieren? Wie sieht es analog mit den RepairAgents aus?  2. Wenn die Collect Agents untereinander kommunizieren dürfen, darf man einen Agenten nutzen um für alle Agenten das Grid zu updaten ? 3. Müssen wir declinen um das CNP einzuhalten, oder können wir es weg lassen wenn es für unsere Implemenation nicht notwendig ist ? 4 Dürfen Participants Im Contract-Net-Protokoll Participants ein Accept \"rejecten\" oder dürfen sie eine Aufgabe als \"failure\" deklarieren ohne diese auszuführen? 5. Sollen wir die Aufgabe, wie bei Aufgabe 1, nur für eine begrenzte Anzahl von Agenten entwickeln? Falls ja, wie hoch ist diese Zahl?. 6. Darf der Initiator (CollectAgent) beim CNP auch eine failure Nachricht verschicken, äquivalent zu der failure Nachricht vom Participant (RepairAgent) in Phase 5? Ich danke im voraus für das beantworten der Fragen. Grüße, Jan.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075330",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-30T00:06:32+02:00",
+                                    "Content": "Hallo Jan, zu 1. & 2. steht auch was im Aufgabenblatt: \"Auch andere Nachrichten zwischen den Agenten sind erlaubt, beispielsweise zur Koordination im Hinblick auf ergiebige Materiallager\" zu 3. an welcher Stelle wollt ihr ein Decline weglassen? Generell ist das eure Umsetzung und solange ihr euch einigermaßen an das CNP aus der Vorlesung haltet sind kleine Änderungen völlig in Ordnung. Am besten Beschreibt ihr aber genau diese Änderungen und den Grund dafür in eurer Dokumentation zu 4. Im CNP sind Accepts sowas wie verbindliche Verträge, direkt ein failure zu senden ist natürlich möglich, aber am Ende ist das CNP ja ein Protokoll für kooperierende Agenten, wie sinnvoll das dann für euch ist das failure als Standard zu haben könnt ihr gerne in eurer Umsetzung selbst entscheiden zu 5. die Anzahl an Agenten wird durch das Grid bestimmt, also könnt ihr euch etwas an den Grids der anderen Gruppen orientieren, da sind sicher die meisten in einem vernünftigen Rahmen. Generell wird es keinen Stresstest mit hunderten Agenten geben und auch weniger als die maximale Ameisenanzahl von 40 zu 6. prinzipiell sind failure Nachrichten immer möglich als Abbruchoption, der initator sollte aber falls noch in Phase 4. das reject-proposal nutzen. Beste Grüße, Julian",
+                                    "Response to": "p1075290"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage wie man mit der Hausaufgabe starten sollte",
+                            "Discussion_Id": "595285",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071464",
+                                    "Author": "Kenan Keskin",
+                                    "DateTime": "2024-05-17T21:46:20+02:00",
+                                    "Content": "Hallo, Also ich und meine Gruppe sitzen jetzt seit einigen Tagen an der Hausaufgabe und sind leider gar nicht weitergekommen. Wir haben die vorgegebene Dokumentation mehrmals durchgelesen, aber kommen einfach nicht dahinter, wie man messages sendet (also die Startgamemessage um spezifisch zu sein). Wir wollten deswegen Fragen, ob wir gerade einfach mit dem falschen ding starten und erst das behaviour von der ant machen sollten gefolgt vom environment. Mit unserem jetzigen Code (der nur in environmentliegt) kriegen wir einen uninitialized Error (Exception in thread \"main\" kotlin.UninitializedPropertyAccessException: lateinit property current has not been initialized).  Wir wissen wirklich nicht wir weiter machen sollen und würden jegliche Hilfe willkommen heißen. MfG Gruppe 13",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071500",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-18T10:25:50+02:00",
+                                    "Content": "Vermutlich habt ihr die das senden der StartGameMessage direkt in die behavior Funktion geschrieben, in dieser Funktion muss aber die JIAC funktionalität benutzt werden. Heißt im behavior müsst ihr erst \"on<>\", \"every<>\" etc. als \"auslöser\" haben und könnt dann darein ganz normal euren Code schreiben. Im Server seht ihr das auch mit every als Beispiel. Beste Grüße, Julian",
+                                    "Response to": "p1071464"
+                                },
+                                {
+                                    "Message_id": "p1071817",
+                                    "Author": "Kenan Keskin",
+                                    "DateTime": "2024-05-20T19:26:33+02:00",
+                                    "Content": "Hi, Hätte wieder eine Frage zu der HA. Also wir haben es jetzt geschafft die StartGameMessage zum Sever zu senden und der hat auch die ID's von den Ant Agenten bekommen. Jetzt sind wir uns aber nicht sicher wie man die Ants initialisieren kann mit der Nest Position von StartGameResponse. Wir haben versucht bei EnvironmentAgent on<>() zu benutzen für wenn die Message ankommt aber sind uns nicht sicher ob die wirklich ankam, weil wir keinen richtigen weg fürs testen kennen in Jiac Vi. Deswegen sind wir gerade etwas stuck bei der Bearbeitung, weil wir versucht haben in dem on eine message an jeden ant agent zu senden, wo die Nest position enthalten ist.  Danke im voraus für die Hilfe",
+                                    "Response to": "p1071500"
+                                },
+                                {
+                                    "Message_id": "p1072541",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-22T12:53:24+02:00",
+                                    "Content": "Hallo Kenan, solltet ihr da weiterhin Probleme haben nutzt am besten die Sprechstunde die gleich stattfindet, da lässt sich das ganze vermutlich leichter klären oder ihr schreibt mir eine Mail. Beste Grüße, Julian",
+                                    "Response to": "p1071817"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe Vorlage ausführen",
+                            "Discussion_Id": "592707",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067430",
+                                    "Author": "Jan-Philip Brauwers",
+                                    "DateTime": "2024-05-06T18:42:37+02:00",
+                                    "Content": "Wir sitzen gerade an der Hausaufgabe und kriegen sie nicht ausgeführt. ```bash $ mvn package [Downloading....] [INFO] Building jar: /home/[....]/ants01/target/jiacvi-gridworld-0.1.0-jar-with-dependencies.jar [INFO] ------------------------------------------------------------------------ [INFO] BUILD SUCCESS [INFO] ------------------------------------------------------------------------ [INFO] Total time: 35.210 s [INFO] Finished at: 2024-05-06T18:05:59+02:00 [INFO] ------------------------------------------------------------------------ ... $ java -jar target/jiacvi-gridworld-0.1.0-jar-with-dependencies.jar Error: Could not find or load main class sandbox.MainKt Caused by: java.lang.ClassNotFoundException: sandbox.MainKt ```  Wir denken, dass in `pom.xml` der String `sandbox.MainKt` durch `de.dailab.jiacvi.aot.gridworld.MainKt` ersetzt werden muss.  Damit erhalten wir wieder einen successful build und nun ```bash $ java -jar target/jiacvi-gridworld-0.1.0-jar-with-dependencies.jar Exception in thread \"main\" java.lang.NoClassDefFoundError: org/apache/logging/log4j/util/StackLocator$FqcnCallerLocator at org.apache.logging.log4j.util.StackLocator.(StackLocator.java:38) at org.apache.logging.log4j.util.StackLocatorUtil.(StackLocatorUtil.java:32) at org.apache.logging.slf4j.Log4jLoggerFactory.getContext(Log4jLoggerFactory.java:44) at org.apache.logging.log4j.spi.AbstractLoggerAdapter.getLogger(AbstractLoggerAdapter.java:48) at org.apache.logging.slf4j.Log4jLoggerFactory.getLogger(Log4jLoggerFactory.java:30) at org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:358) at org.slf4j.LoggerFactory.getLogger(LoggerFactory.java:383) at de.dailab.jiacvi.platform.ModulesKt$platformModules$1$1.invoke(Modules.kt:27) at de.dailab.jiacvi.platform.ModulesKt$platformModules$1$1.invoke(Modules.kt) at org.kodein.di.bindings.Factory$getFactory$1.invoke(standardBindings.kt:20) at org.kodein.di.internal.DKodeinBaseImpl.Instance(DKodeinImpl.kt:32) at de.dailab.jiacvi.AgentSystem.start(AgentSystem.kt:627) at de.dailab.jiacvi.aot.gridworld.MainKt.main(Main.kt:21) at de.dailab.jiacvi.aot.gridworld.MainKt.main(Main.kt) Caused by: java.lang.ClassNotFoundException: org.apache.logging.log4j.util.StackLocator$FqcnCallerLocator at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581) at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178) at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527) ... 14 more Exception in thread \"Thread-0\" kotlin.UninitializedPropertyAccessException: lateinit property log has not been initialized at de.dailab.jiacvi.AgentSystem.terminate(AgentSystem.kt:457) at de.dailab.jiacvi.AgentSystem$start$3.invoke(AgentSystem.kt:368) at de.dailab.jiacvi.AgentSystem$start$3.invoke(AgentSystem.kt:33) at de.dailab.jiacvi.platform.RuntimeKt$installShutdownHook$1.run(Runtime.kt:8) at java.base/java.lang.Thread.run(Thread.java:829) ``` Ich würde sagen wir sind unserem Ziel näher gekommen. Kann das jemand bestätigen?  btw. wir sind irgendwann mal von VSCode auf Intellij IDEA umgestiegen, aber das funktioniert noch schlechter, dort kriegen wir den Error `Kotlin: API version 1.3 is no longer supported; please, use version 1.4 or greater.` , hier kommen wir leider nicht weiter... ``` Executing pre-compile tasks… Running 'before' tasks Checking sources Copying resources... [jiacvi-gridworld] Kotlin: connecting to daemon Kotlin: compiling [jiacvi-gridworld] Kotlin: kotlinc-jvm 1.9.23-release-779 (JRE 11.0.23+9) Kotlin: API version 1.3 is no longer supported; please, use version 1.4 or greater. Errors occurred while compiling module 'jiacvi-gridworld' Finished, saving caches… Builder Kotlin Builder requested build stop Executing post-compile tasks… Synchronizing output directories… 06.05.24, 18:16 - Build completed with 1 error and 0 warnings in 964 ms ```  Wir wären dankbar für Tipps und Amerkungen, insbesondere was IntelliJ angeht oder Einrichtuing von VSCode für Kotlin/Maven.  Einen schönen Abend noch, JP",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067473",
+                                    "Author": "Julian Frederic Krumrey",
+                                    "DateTime": "2024-05-06T20:31:51+02:00",
+                                    "Content": "Hallo JP, guckt mal ob ihr in euren Intellij Einstellungen unter \"kotlin compiler\" eine korrekte kotlin Version habt (1.9) und in den Einstellungen des Projekts (project structure) das gridworld modul die Einstellungen nicht überschreibt, dafür gibt es oben eine Ceckbox. Dann sollte das ohne Änderungen der pom funktionieren. Beste Grüße, Julian",
+                                    "Response to": "p1067430"
+                                },
+                                {
+                                    "Message_id": "p1069095",
+                                    "Author": "Bruno Ignaz Rothschild",
+                                    "DateTime": "2024-05-11T20:59:43+02:00",
+                                    "Content": "Hi,  Ich hatte das gleiche Problem und konnte mit den folgenden Änderungen in der `pom.xml` lösen.  1. In der pom.xml `sandbox.MainKt` durch `de.dailab.jiacvi.aot.gridworld.MainKt` ersetzt (Wie oben) 2. Die Dependencies hinzufügen: ```     <properties>         <java.version>11</java.version>         <kotlin.version>1.9.23</kotlin.version>         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>   <log4j.version>2.14.1</log4j.version>     </properties>  <dependencies>   <dependency>    <groupId>org.apache.logging.log4j</groupId>    <artifactId>log4j-api</artifactId>    <version>${log4j.version}</version>   </dependency>   <dependency>    <groupId>org.apache.logging.log4j</groupId>    <artifactId>log4j-core</artifactId>    <version>${log4j.version}</version>   </dependency>  </dependencies> ``` hinzufügen.   Dann kann ich bei mir mit  ```     mvn clean package     java -jar ./target/jiacvi-gridworld-0.1.0-jar-with-dependencies.jar ``` das System erfolgreich starten.  PS: Über Intellij Idea `Main.kt` direkt zu starten hat erst geklappt, nachdem ich in der pom.xml die Kotlin Version von `1.9.xx` auf `1.8.0` gesetzt habe.  Vielleicht hilft das jemanden. ^^",
+                                    "Response to": "p1067473"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "NGG Wahrscheinlichkeit",
+                            "Discussion_Id": "592555",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067198",
+                                    "Author": "Ramon Felipe Kühne",
+                                    "DateTime": "2024-05-06T13:22:28+02:00",
+                                    "Content": "Was sagt mir die NGG Wahrscheinlichkeit aus?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068391",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-08T16:45:09+02:00",
+                                    "Content": "Bitte präziser formulieren, dieser Begriff existiert in unserer Terminologie nicht. Ggfs. meinen Sie die \"Indifferenzwahrscheinlichkeit\"?",
+                                    "Response to": "p1067198"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrbuch",
+                            "Discussion_Id": "593136",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068049",
+                                    "Author": "Alexander Ratnikov",
+                                    "DateTime": "2024-05-07T22:48:38+02:00",
+                                    "Content": "Sehr geehrtes AOT Team, ich wollte fragen, ob ihr das Lehrbuch neu verlinken könnt. Der Link aus der ersten Woche scheint nicht zu funktionieren. Vielen Dank. Beste Grüße Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068385",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-05-08T16:39:42+02:00",
+                                    "Content": "jetzt hier zugreifbar.",
+                                    "Response to": "p1068049"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "Course_Name": "MTAP: Pre-Processing für die Additive Fertigung SoSe2024",
+        "Course_id": "37552",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1762969",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Link Lehrevaluation",
+                            "Discussion_Id": "607473",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089326",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-07-12T13:30:32+02:00",
+                                    "Content": "Sehr geehrte Studierende, die Lehrevaluation für diese Veranstaltung ist ab jetzt bis zum 15.Juli auf der ISIS Startseite einsehbar. Wir bitten Sie alle, diese auszufüllen und würden uns über eine positive Rückmeldung sehr freuen. Sie gelangen außerdem über folgenden Link zu der Umfrage: https://befragung.tu-berlin.de/evasys/online.php?pswd=A6LA2 Mit freundlichen Grüßen Franziska Heusler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung Versuchsfeldführung",
+                            "Discussion_Id": "601719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081083",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-06-18T09:36:42+02:00",
+                                    "Content": "Sehr geehrte Studierende, die für morgen, den 19.06., angesetzte Versuchsfeldführung wird um eine Woche verschoben und am 26.06. stattfinden. Morgen wird regulär die Vorlesung zu PreAM stattfinden. Mit freundlichen Grüßen Franziska Heusler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Vorlesung morgen, 24.04.2024",
+                            "Discussion_Id": "588700",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061230",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-04-23T07:39:49+02:00",
+                                    "Content": "Sehr geehrte Studierende, ich möchte daran erinnern, dass der morgige Vorlesungstermin ausnahmsweise ausfällt, da am Donnerstag zur gleichen Zeit die Vorstellung der Firma Xolo stattfindet, zu der Sie herzlich eingeladen sind.  Mit freundlichen Grüßen Franziska Heusler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1819781",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Altair Inspire Download Probleme",
+                            "Discussion_Id": "599300",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077529",
+                                    "Author": "Jupp-Nepomuk Haasler",
+                                    "DateTime": "2024-06-06T09:08:34+02:00",
+                                    "Content": "Hallo, mein Gruppenpartner und ich hatten beide Probleme beim herunterladen von Inspire. Bei mir kommt immer folgende Fehlermeldung, dass der Server nicht erreichbar ist.  Hatte jemand das selbe Problem und kann uns vielleicht weiterhelfen? Vielen Dank schon im Voraus.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077563",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-06-06T09:59:04+02:00",
+                                    "Content": "Hallo Herr Haasler, hatten Sie die Systemumgebungsvariablen entsprechend der Anleitung in Folie 15 der Vorlesung bearbeitet?  Mit freundlichen Grüßen Franziska Heusler",
+                                    "Response to": "p1077529"
+                                },
+                                {
+                                    "Message_id": "p1079512",
+                                    "Author": "Jupp-Nepomuk Haasler",
+                                    "DateTime": "2024-06-12T16:35:04+02:00",
+                                    "Content": "Hallo,  ich habe jetzt alles wie in der Vorlesung beschrieben Eingerichtet. Leider erscheint immer noch der selbe Fehler beim Herunterladen des Installers. Anbei ein Bild nach welchen Fenster er abbricht.  Beste Grüße",
+                                    "Response to": "p1077563"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenpartner",
+                            "Discussion_Id": "594658",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070502",
+                                    "Author": "Patricio Haro Lopez",
+                                    "DateTime": "2024-05-15T14:11:14+02:00",
+                                    "Content": "Hallo, Ich bin noch auf der Suche nach einem Gruppenpartner, falls jemand noch keine Gruppe hat, bin ich in Gruppe 11.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppen Teammitglied",
+                            "Discussion_Id": "593305",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068323",
+                                    "Author": "Patricio Haro Lopez",
+                                    "DateTime": "2024-05-08T14:59:53+02:00",
+                                    "Content": "Hallo, ich suche einen Gruppenpartner, wenn jemand noch einen Gruppenpartner sucht, schreibt mir bitte.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

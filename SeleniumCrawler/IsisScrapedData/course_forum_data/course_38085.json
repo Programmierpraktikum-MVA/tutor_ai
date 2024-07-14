@@ -1,0 +1,103 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Tutorium Mathematik Malz- und Bierherstellung",
+        "Course_id": "38085",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1779097",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Mathetest 1. und 2. Termin",
+                            "Discussion_Id": "598822",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076848",
+                                    "Author": "Natalia Svedlund",
+                                    "DateTime": "2024-06-04T12:48:20+02:00",
+                                    "Content": "Liebe Teilnehmer*Innen, aufgrund der Exkursion am 20.06. werde ich den 2. Termin der Matheklausur auf den 27.09. um 10-11:30 Uhr verschieben. Der 1. Termin wird dann am 19.07. um 12-14h sein. viele Grüße, Natalia",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088191",
+                                    "Author": "Natalia Svedlund",
+                                    "DateTime": "2024-07-09T17:01:16+02:00",
+                                    "Content": "Liebe Teilnehmer*Innen, nächste Woche ist die Matheklausur, ich bitte euch in der Gruppe einzutragen sodass wir den Drucken plannen können...  Die Termine sind: Mathetest 1. Termin: 19.07.2024, 12Uhr Mathetest 2. Termin 27.09.2023 10Uhr  man darf nur einen Termin wählen.  https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1854179  Danke und schöne Woche noch!  Natalia",
+                                    "Response to": "p1076848"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LV Evaluation",
+                            "Discussion_Id": "604848",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085604",
+                                    "Author": "Natalia Svedlund",
+                                    "DateTime": "2024-07-02T07:48:55+02:00",
+                                    "Content": "Liebe Teilnehme*innen, Bitte füllt die folgende Evaluation aus: https://befragung.tu-berlin.de/evasys/online.php?pswd=4YXML Damit tragt ihr aktiv zur Verbesserung der Qualität unserer Lehre bei. Danke und viele Grüße Natalia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mathetutorien fangen am 26.04. in ACK 378 an",
+                            "Discussion_Id": "587409",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059139",
+                                    "Author": "Natalia Svedlund",
+                                    "DateTime": "2024-04-18T16:09:23+02:00",
+                                    "Content": "Liebe Teilnehmer*innen, die Termine für die Tutorien und Klausuren sind im Kurs veröffentlicht worden. Die Mathe-Tutorien beginnen nächste Woche. Nutzt diese Termine, damit ihr selbst mit Matheaufgaben üben könnt! Das Problem bei der Klausur ist meist nicht die Schwierigkeit der Aufgaben, sondern die Zeit! viele Grüße, Natalia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Teilnehmer*Innen Forum",
+                    "Forum_id": "1779171",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einheiten/Rundungsdezimalen in der Prüfung",
+                            "Discussion_Id": "607562",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089452",
+                                    "Author": "Alexander Huth",
+                                    "DateTime": "2024-07-12T17:25:14+02:00",
+                                    "Content": "Hallo liebe alle, ich hoffe, ich wiederhole die Frage hier nicht, doch wollte ich nach Berechnung der Tutoriumsaufgaben erkundigen, ob zu den Aufgaben in der Prüfung ebenso die gewollte Einheiten/Rundungsdezimalen aufgelistet werden?  Viele Grüße, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "inhaltliche Aufteilung Mathetutorien",
+                            "Discussion_Id": "587547",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059358",
+                                    "Author": "Alexander Huth",
+                                    "DateTime": "2024-04-19T09:38:46+02:00",
+                                    "Content": "Hallo allerseits, da ich nur noch den Braumatheteil des Moduls abschließen muss, wollte ich fragen, ab wann im Tutorium die Brauaufgaben besprochen werden, bzw. ob es sich komplett durchmischt.  Viele Grüße, Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059459",
+                                    "Author": "Simon Leonhard Latz",
+                                    "DateTime": "2024-04-19T11:21:11+02:00",
+                                    "Content": "Hallo,  wir laden die Tutorien vorher hoch, du kannst dann schauen welche Woche für dich interessant ist. Tendenziell rechnen wir zuerst Malzmatheaufgaben.  Viele Grüße, Simon",
+                                    "Response to": "p1059358"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

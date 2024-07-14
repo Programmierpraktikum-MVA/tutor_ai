@@ -1,0 +1,586 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Formale Sprachen und Automaten",
+        "Course_id": "37748",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767673",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Schriftliche Prüfung: 4 statt 3 Stunden",
+                            "Discussion_Id": "607585",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089481",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-07-12T19:11:58+02:00",
+                                    "Content": "Der zuständige Prüfungsausschuss Informatik ist nicht der Meinung, dass eine Verkürzung der Klausurzeit von 4 auf 3 Stunden als studierendenfreundlich zu interpretieren sei, da dann ja deutlich weniger Bearbeitungszeit zur Verfügung stünde. Für einen formalen Änderungsantrag der Modulbeschreibung ist es jedoch zu spät. Die Klausur wird dementsprechend nun also doch 4 Stunden dauern, so wie es in der formal beschlossenen Modulbeschreibung steht. Die angekündigte Startzeit der Prüfung bleibt unverändert. Schönes Wochenende!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium 11.07. 8-10",
+                            "Discussion_Id": "606944",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088565",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-07-10T15:49:15+02:00",
+                                    "Content": "Liebe Studierende, das Tutorium morgen von 8-10 Uhr muss leider ausfallen. Bitte verteilt euch auf die anderen Tutorien dieser Woche. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutoriumsblatt 12",
+                            "Discussion_Id": "606943",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088563",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-07-10T15:45:45+02:00",
+                                    "Content": "Liebe Studierenden, wir haben das Blatt Tut12 aktualisiert, da sich ein paar Tippfehler eingeschlichen hatten bei Aufgabe 2b. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "keine MK heute (9.7.)",
+                            "Discussion_Id": "606611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088077",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-07-09T13:46:27+02:00",
+                                    "Content": "Kurzfristig muss auch die für heute geplante Modulkonferenz leider ausfallen. Kommende Woche wird sie dagegen wieder stattfinden. Dann werden wir unter anderem auch die Ergebnisse der Evaluation besprechen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aktualisierung Woche02",
+                            "Discussion_Id": "605657",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086721",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-07-05T00:23:05+02:00",
+                                    "Content": "Liebe Studierenden, wir haben das Tutorium und die Zusatzaufgaben aktualisiert und mit einem Hinweis (siehe Tut02 3b) versehen. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kahoot zu Woche 11",
+                            "Discussion_Id": "605101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085946",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-07-02T18:08:07+02:00",
+                                    "Content": "Ein zu dieser Woche passendes Kahoot!-Quiz ist nun über die Kahoot!-Site bzw -Apps spielbar.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "605031",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085849",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-07-02T15:28:28+02:00",
+                                    "Content": "Liebe Studierende, die Prüfungsanmeldung in Moses ist nun verfügbar. Im Zeitraum vom 1.7. bis 19.7.24 könnt ihr euch dort für die Klausur am 22.7.24 an- und abmelden. Beachtet bitte, dass Rücktritte nach dem 19.07. nur noch in begründeten Ausnahmefällen (z.B. wegen Krankheit) über das Sekretariat möglich sind. Ohne Anmeldung in Moses ist die Teilnahme an der Klausur nicht möglich. Das gilt auch für Personen in einem unterbrochenen Versuch und bei einer Wiederholung. Reminder an Studierende im unterbrochenen Versuch: Wer ein/mehrere Prüfungselement/e nachholen möchte, muss sich diesbezüglich bei forsa (AT) mtv.tu-berlin.de melden. Viele Grüße Das ForSA-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Weitere Tutorienstreichungen",
+                            "Discussion_Id": "604908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085679",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-07-02T10:32:41+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der geringen Nachfrage kommt es zu einigen Änderungen bei den Tutorien: Mi 10-12 bei David fällt weg Bitte verteilt euch auf die anderen Tutorien. Die Änderungen gelten ab dieser Woche, sind also morgen das erste Mal relevant. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden KW 27&amp;28",
+                            "Discussion_Id": "604347",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084817",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-28T18:10:56+02:00",
+                                    "Content": "Liebe Studierenden, meine Sprechstunden am 02.07. und 09.07. muss leider ausfallen. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "keine MK am 2.7.",
+                            "Discussion_Id": "604328",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084791",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-06-28T17:05:36+02:00",
+                                    "Content": "Wie ich schon am Dienstag in der MK dieser Woche angekündigt hatte, wird am Dienstag kommender Woche keine MK stattfinden. (Tutorien finden natürlich statt, und auch die Lernräume bleiben offen.) Schönes Wochenende!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Angebot: dritter MC-Test",
+                            "Discussion_Id": "604323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084786",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-28T16:56:55+02:00",
+                                    "Content": "Liebe Studierende, wir möchten euch eine weitere Möglichkeit geben, das Kriterium zu erlangen, um zum zweiten Klausurtermin zugelassen zu werden. Daher bieten wir einen dritten MC-Test am 23.09. zwischen 10:00-11:00 Uhr an. Dies wird jedoch der letzte für dieses Semester sein. Die Bedingungen sind die gleichen, wie schon bei den beiden vorherigen. Wer schon zur Klausur zugelassen ist und zum zweiten Termin schreiben will, muss diesen natürlich nicht wiederholen. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Fr. 28.06 12-14 ",
+                            "Discussion_Id": "604192",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084597",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-28T10:09:57+02:00",
+                                    "Content": "Liebe Studierende, Kims Tutorium von 12-14 Uhr im E-N 185 muss heute leider ausfallen. Parallel dazu findet Toms Tutorium im Raum FH 311 statt. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Valeria 26.6.24",
+                            "Discussion_Id": "603591",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083749",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-06-25T19:40:47+02:00",
+                                    "Content": "Liebe Studierende,  meine Sprechstunde morgen muss leider ausfallen. Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ankündigung Tutorienstreichung",
+                            "Discussion_Id": "603590",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083748",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-06-25T19:40:08+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der geringen Nachfrage kommt es zu einigen Änderungen bei den Tutorien: Fr 10-12 bei Lenard fällt weg Fr 12-14 bei Eduard fällt weg Fr 14-16 bei Lisa fälllt weg Bitte verteilt euch auf die anderen Tutorien. Die Änderungen gelten ab dieser Woche, sind also kommenden Freitag das erste Mal relevant. Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation (17.6.-28.6.24)",
+                            "Discussion_Id": "600959",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079959",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-06-13T17:56:45+02:00",
+                                    "Content": "Liebe Studierende, die Lehrevaluation für den ForSA-Kurs dieses Semester steht an. Vom 17.06. - 28.06.2024 könnt ihr uns Rückmeldung zur Veranstaltung geben. Eure Antworten sind dabei anonym. Bitte nutzt diese Gelegenheit um eure Kritikpunkte und Verbesserungswünsche mit uns zu teilen. Dann können wir gegebenenfalls noch im Semester darauf reagieren. Unter dem folgenden Link kommt ihr zu der Evaluation: https://befragung.tu-berlin.de/evasys/online.php?pswd=KLDTH Freundliche Grüße, das ForSA-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung als Mentor*in gestartet!",
+                            "Discussion_Id": "600512",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079302",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-12T09:57:18+02:00",
+                                    "Content": "Wir möchten auf folgende Nachricht aus dem Mentoring der Fakultät IV hinweisen: Hallo! Ab sofort kannst du dich wieder als Mentor*in anmelden und wir freuen uns, wenn du dieses Jahr (wieder) dabei bist. Mentoring ist mehr als nur ein Modul, denn als Mentor*in profitierst du mindestens genauso davon wie hinterher die Erstis von dir. Auch in diesem Jahr haben wir Events für Mentor*innen geplant mit vielen Gelegenheiten, die Uni aus einer anderen Perspektive, mit neuen Möglichkeiten kennen zu lernen. Außerdem bieten wir dir zusätzlich: 3 LP Vorbereitungsschulungen, Feedbacktreffen und individuelle Begleitung Lerninhalte wie z.B. Gruppenleitung, Kommunikation, Motivation, Awareness u.v.m. Mentor*innenevents mit hohem Spaßfaktor Achso, du weißt noch gar nicht, was deine Aufgabe als Mentor*in ist? Du begleitest im Team eine Gruppe von Erstis bei ihrem Start ins Studium. Wie genau das gedacht ist, kannst du auf unserer Website erfahren oder auch in einem unserer kommenden Q&A Treffen. Komm vorbei und stelle deine Fragen.  Termine: Q&A Mentoring Meeting (online) Wann? 14. Juni 15:00-16:00 Uhr Wo? Zoom: https://tu-berlin.zoom.us/j/68007662297?pwd=s389c9ibzKQKHUKeEUzbzsNL3lweqb.1  Mentoring Warm-up mit ehemaligen Mentor*innen Wann? 5. Juli ab 17 Uhr Wo? Kulturfabrik Moabit Q&A Mentoring (online) Wann? 22. August 15:00-16:00 Uhr Wo? Zoom: https://tu-berlin.zoom.us/j/68007662297?pwd=s389c9ibzKQKHUKeEUzbzsNL3lweqb.1   Natürlich kannst du uns auch jederzeit eine Mail schreiben (mentoring@eecs.tu-berlin.de), anrufen (+49 30 314 -73194) oder vorbeikommen (MAR 6.006).   Wir freuen uns auf jeden Fall, wenn du dieses Jahr Teil des Mentorings bist. Viele Grüße Luis & Maria Links: Website: https://mentoring.eecs.tu-berlin.de/werde-mentor-in/ ISIS-Kurs mit Anmeldung: https://isis.tu-berlin.de/course/view.php?id=39260",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse Online-Tests",
+                            "Discussion_Id": "600506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079294",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-12T09:42:26+02:00",
+                                    "Content": "Liebe Studierenden, es sollte nun einsehbar sein, wie die einzelnen Antworten von euch gewertet wurden. Die Punktzahl kann in einigen Aufgaben abweichen, wenn dort stand, dass alle Häkchen richtig sein müssen, ist dies nicht der Fall, gab es wie angekündigt 0 Punkte auf diese Aufgaben. Bei individuellen inhaltlichen Fragen meldet euch gern bei uns:  forsa (AT) mtv.tu-berlin.de. Bitte schreibt nicht jeden von uns einzeln an. Hier noch einmal der Hinweis: Die Mindestpunktzahl von 20 Punkten ist eine feste Grenze, die wir nicht verschieben. Anfragen, die eine Bitte um Verschiebung dieser Grenze beinhalten, werden wir aus zeitlichen Gründen nicht mehr individuell beantworten. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde KW25",
+                            "Discussion_Id": "600384",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079122",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-11T17:13:03+02:00",
+                                    "Content": "Liebe Studierenden, meine Sprechstunde kommende Woche muss ich leider auf den Mittwoch (19.06.) um 09:00 Uhr verschieben. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurvorbereitung",
+                            "Discussion_Id": "600239",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078905",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-11T11:23:28+02:00",
+                                    "Content": "Liebe Studierende, das Semester ist nun schon etwas vorangeschritten. Mit dem gestrigen Test haben noch mal mehr die Zugangsvoraussetzung erfüllt. Da die Klausur am 22.07. (erster vorlesungsfreier Tag) stattfindet, geben wir euch jetzt schon die Möglichkeit der Vorbereitung. Auf der ISIS-Seite stehen euch sowohl alte Klausuren als auch Hausaufgaben zur Verfügung. Da ForSA zum SoSe 20/21 umgestellt wurde, haben sich auch Inhalte und Schwerpunkte etwas verändert. Ältere Klausuren können daher Themen beinhalten, die wir nicht mehr behandeln. Grundsätzlich sind alle Themen, die wir in den Screencast, der Modulkonferenz und den Tutorien bearbeitet haben, potenzielle Themen für eine Klausur. Wie immer könnt ihr Fragen im Lernraum und den Sprechstunden stellen. Musterlösungen wird es zu diesen Aufgaben nicht geben. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse Online-Test 10.06.",
+                            "Discussion_Id": "599957",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078492",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-10T11:37:21+02:00",
+                                    "Content": "Liebe Studierende, die Ergebnisse des heutigen Online-Tests sind nun für euch einsehbar. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien Tom heute",
+                            "Discussion_Id": "599558",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077899",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-06-07T09:31:59+02:00",
+                                    "Content": "Liebe Studierende, krankheitsbedingt muss Toms Tutorium heute von 14:00-16:00 Uhr ausfallen. Bitte verteilt euch auf die parallel stattfindenden Tutorien. Das frühere Tutorium bei Tom um 12:00 Uhr wird vertreten und fällt nicht aus. Freundliche Grüße, das ForSA-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung fürs Fachmentoring am Montag",
+                            "Discussion_Id": "599456",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077735",
+                                    "Author": "Hannah Martina Katharina Herbers",
+                                    "DateTime": "2024-06-06T15:23:33+02:00",
+                                    "Content": "Mein Fachmentoring am Montag den 10.06 fällt aus.  Ab dem 17.06 wird das Montags Fachmentoring nur noch stattfinden, wenn sich mindestens eine Person in die Terminabfrage im ISIS Kurs vom Fachmentoring eingetragen hat.  Die Abfrage findet ihr hier: https://isis.tu-berlin.de/mod/organizer/view.php?id=1837457 Das Fachmentoring am Dienstag bleibt unverändert. Viele Grüße  Hannah ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderungen - Tut Valeria Do 14-16",
+                            "Discussion_Id": "598906",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076955",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-06-04T15:40:59+02:00",
+                                    "Content": "Liebe Studierende, aus organisatorischen Gründen kommt es für mein Tutorium Do 14-16 Uhr zu einigen Raumänderungen. Bitte achtet darauf, dass dies bereits diese Woche relevant ist. Zu den folgenden Terminen ist es sind wir nicht im MAR 0.008, sondern: 6.6.24   H3002 4.7.24   MAR 0.003 11.7.24 A 060  18.7.24 A 060 Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien-Kürzungen",
+                            "Discussion_Id": "598775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076774",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-06-04T10:26:11+02:00",
+                                    "Content": "Liebe Studierende, aufgrund der geringen Nachfrage kommt es zu einigen Änderungen bei den Tutorien: Mi 10-12 bei Paul fällt weg Mi 12-14 bei David wird von Enzo übernommen, Enzos Tutorium fällt weg Mi 14-16 bei Enzo fällt weg Mi 16-18 Hannah und Eduard teilen sich Eduards Tutorium Do 16-18 bei Tom fällt weg Bitte verteilt euch auf die anderen Tutorien. Für alle wegfallenden gibt es zeitgleich stattfindende Tutorien. Die Änderungen gelten ab dieser Woche, sind also morgen das erste Mal relevant.  Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde 4.6.",
+                            "Discussion_Id": "598692",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076662",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-06-03T21:21:06+02:00",
+                                    "Content": "Liebe Studierenden, meine Sprechstunde muss morgen leider ausfallen. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einsicht MC-Test",
+                            "Discussion_Id": "597701",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075206",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-05-29T16:29:20+02:00",
+                                    "Content": "Aufgrund der mehrfachen Nachfrage: Wie gestern bereits in der Modulkonferenz mitgeteilt, wird es keine Möglichkeit zur Einsicht in den MC-Test geben. Da es sich bei diesem Test nicht um eine Prüfungsleistung handelt, gibt es dazu auch keine rechtliche Vorgabe. Wir empfehlen denjenigen, die bei der ersten Teilnahme nicht genügend Punkte sammeln konnten, sich zur Vorbereitung mit den Aufgaben der Wochen 00-04 aktiv auseinanderzusetzen — d.h., eigenständig Lösungen zu erstellen — und auch die Lernräume zu besuchen, um mit den dort anwesenden Tutor:innen Fragen und mögliche Antworten zu Beispielen zu besprechen. Viel Erfolg beim Test am 10.6.!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien - Fr 31.5. und MC-Test (DS)",
+                            "Discussion_Id": "596970",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074078",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-05-27T12:36:31+02:00",
+                                    "Content": "Liebe Studierende, da diesen Freitag der MC-Test für Diskrete Strukturen stattfindet, kommt es zu einigen Ausfällen bei den Tutorien: Das FLINTA-Tutorium fällt aus. Alle Tutorien ab 14:00 fallen aus mit einer Ausnahme: Toms Tutorium 14:00-16:00 findet statt. Freundliche Grüße, Das ForSA-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse Online-Test 27.5.24",
+                            "Discussion_Id": "596960",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074060",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-05-27T12:08:58+02:00",
+                                    "Content": "Liebe Studierende, die Ergebnisse des heutigen Online-Tests sind nun für euch einsehbar. Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online-Test, Probelauf, Quizze",
+                            "Discussion_Id": "591337",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065248",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-04-30T17:39:44+02:00",
+                                    "Content": "Liebe Studierende,  hier folgen einige Informationen zum Online-Test. Er findet an zwei Terminen statt: * Montag, 27.05.2024 um 10:00 Uhr * Montag, 10.06.2024 um 10:00 Uhr  Informationen zum Ablauf des Online-Tests: Der Online-Test kann zwischen 10:00 und 11:00 Uhr auf ISIS begonnen und dabei maximal für 36 Minuten bearbeitet werden. Um 11 Uhr endet er jedoch automatisch und somit bei späterem Beginn ggf. vor dem Ablauf einer Bearbeitungszeit von 36 Minuten. Insgesamt gibt es 36 Punkte (also einen Punkt pro Minute Bearbeitungszeit), die auf 21 Fragen mit je 1, 2 oder 4 Punkten aufgeteilt sind. Inhaltlich umfasst der Online-Test die Wochen 00-04. Allgemeine Fragen zum Beweisen und zu Beweismethoden sind möglich. Die Formelsammlung, sowie das Logik Cheat Sheet dürfen benutzt werden. Während des Online-Tests wird von uns ein Matrix-Chat betreut, in dem technische Fragen gestellt und Probleme gemeldet werden können.  Fragetypen: Bei Single Choice müsst ihr euch für genau eine Antwort entscheiden. Bei Multiple-True-False müsst ihr für jede Antwortmöglichkeit entscheiden, ob diese wahr oder falsch ist. Falsch angekreuzte Antworten und komplett unangekreuzte Antworten werden mit 0 Punkten bewertet. Die erreichten Punkte werden aus den prozentualen korrekten Antworten berechnet werden. Bei Multiple-True müssen alle Antworten richtig sein, damit ihr auf die Aufgabe Punkte bekommt. Bei Multiple-Choice (hier schließen sich Antworten gegenseitig aus) müsst ihr unter mehreren Optionen die richtigen Antworten ankreuzen, falsche Antworten führen zu Punktabzug. Eine Aufgabe wird mit mindestens 0 Punkten bewertet.  Informationen zum technischen Probelauf: Am Dienstag, den 21.5.24, von 10 bis 15 Uhr wird es einen technischen Probelauf auf ISIS geben, damit ihr vorab die technische Umsetzung testen könnt und checken könnt, ob es Probleme gibt. Es wird dabei nicht um Inhalte gehen.  Quizze zum Üben: Wir werden euch spätestens ab dem 21.5.24 Quizze aus dem WS 19/20 bereitstellen, mit denen ihr einen Eindruck davon gewinnen könnt, wie der Online-Test inhaltlich aufgebaut ist. Seit dem WS 19/20 haben sich Inhalte des Kurses verändert und Schwerpunkte verschoben. Dennoch sind die Quizze eine sehr gute Ergänzung zur Vorbereitung auf den Online-Test. Die Quizze werdet ihr im ISIS-Kurs unter dem Thema \"Materialien vergangener Jahre\" finden.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071034",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-05-16T17:23:58+02:00",
+                                    "Content": "Liebe Studierenden,  der Online-Test umfasst die Inhalte von Woche 00-04. Zum Üben stehen euch nun Quizzes zur Verfügung. Wie schon geschrieben sind diese aus dem WiSe 19/29, seitdem hat sich der Schwerpunkt des Moduls geändert. Bedenkt das beim Lernen. Auch die Fragetypen haben sich geändert. Diese könnt ihr im Probetest am 21.05.24 von 10-15 Uhr ansehen. Außerhalb dieser Zeit, steht der Probetest nicht zu Verfügung.  Viele Grüße, euer ForSA-Team",
+                                    "Response to": "p1065248"
+                                },
+                                {
+                                    "Message_id": "p1073533",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-05-24T21:06:48+02:00",
+                                    "Content": "Liebe Studierenden,  hier ist noch einmal eine Erinnerung an den Online-Test kommenden Montag von 10:00-11:00 Uhr. Wir wünschen euch viel Erfolg und sind bei technischen Fragen im Matrix-Chat erreichbar.  Grüße, Nadine",
+                                    "Response to": "p1071034"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde 28.05.",
+                            "Discussion_Id": "596641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073532",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-05-24T21:04:39+02:00",
+                                    "Content": "Liebe Studierenden, meine Sprechstunde kommenden Dienstag (28.05.) muss einmalig ausfallen. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien Enzo am Mittwoch, dem 22.05., 12:00 Uhr sowie 14:00 Uhr",
+                            "Discussion_Id": "595868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072405",
+                                    "Author": "Enzo Berteit",
+                                    "DateTime": "2024-05-22T09:05:17+02:00",
+                                    "Content": "Aufgrund von Krankheit müssen meine beiden Tutorien heute leider ausfallen. Es gibt aber Paralleltermine, die nicht zu voll sind. Stattdessen können also folgende Tutorien besucht werden: 12:00 Uhr: MA 548 14:00 Uhr: MA 642",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verwendung der Formelsammlung",
+                            "Discussion_Id": "595106",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071178",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-05-17T10:32:29+02:00",
+                                    "Content": "Liebe Studierende, da es einige Unklarheiten diesbezüglich gab, hier einige Hinweise zur Nutzung der Formelsammlung. 1) Ihr dürft und sollt sie in den Tutorien verwenden. Dabei empfehlen wir euch, sie ausgedruckt dabeizuhaben. So könnt ihr schon jetzt die Arbeit damit üben und seid nicht erst in der Klausur damit konfrontiert ohne Strg+F Inhalte finden zu müssen. Außerdem müsst ihr dann nicht auf demselben digitalen Gerät Formelsammlung und Tutorienblatt verfügbar haben. 2) Ihr dürft gerne Text in der Formelsammlung markieren und Seitenmarker nutzen. Was nicht erlaubt ist, sind neue schriftliche Ergänzungen, z.B. Notizen oder Symbole.  Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fachmentoring am 13.05. online",
+                            "Discussion_Id": "593733",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069007",
+                                    "Author": "Hannah Martina Katharina Herbers",
+                                    "DateTime": "2024-05-10T21:04:01+02:00",
+                                    "Content": "Das Fachmentoring am Montag, 13.05.2024 um 12 Uhr findet ausnahmsweise online statt. Hier der Link zum Zoom: https://tu-berlin.zoom.us/j/65062945326?pwd=NkF5REtwZkhtZTNZS0duN0psK1RUdz09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wochenübersicht: Inhalte",
+                            "Discussion_Id": "593634",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068851",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-05-10T12:55:37+02:00",
+                                    "Content": "Aufgrund eines dummen Fehlers meinerseits(!) standen in den ersten 4 Wochen nicht die intendierten Links auf das Vorbereitungsmaterial. Anstelle der relativ ausführlichen Anweisungen, wie man sich auf die wöchentliche MK vorbereiten sollte, standen dort nur die Verweise auf die Seiten mit dem Zugriff auf die Screencasts. Der Fehler fiel erst in dieser Woche auf, nachdem in der MK die fehlende Vorbereitung in Sachen Abschlussoperatoren (die eben nicht durch Screencasts abgedeckt sind) zur Sprache kam. Das tut mir sehr leid. Ich habe die Links nun auch rückwirkend entsprechend ausgetauscht – anstelle von \"SC\" wird hier nun das Kürzel \"VL\" verwendet –, so dass nun auch da die Vorbereitungsseiten (im Nachhinein) erreichbar sind.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien KW19",
+                            "Discussion_Id": "592385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066927",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-05-05T23:48:00+02:00",
+                                    "Content": "Liebe Studierende, auch in dieser Woche haben wir einen Feiertag (Donnerstag), an dem keine Tutorien stattfinden. Wir bitten alle, die am Donnerstag ein Tutorium haben, sich gleichmäßig auf Mittwoch und Freitag zu verteilen. Da es an der TU keinen offiziellen Brückentag gibt, finden alle Veranstaltungen am Freitag regulär statt. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Do 8-10 - Startzeit",
+                            "Discussion_Id": "591654",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065750",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-05-02T11:47:27+02:00",
+                                    "Content": "Liebe Studierende, solltet ihr bisher nicht daran teilgenommen haben oder mal darauf ausweichen wollen: Für das Tutorium, das donnerstags um 8 Uhr morgens bei mir stattfindet, haben wir uns darauf geeinigt um 8:30 zu beginnen. Wir hören dann entsprechend später um 10:00 auf.  Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wegfall Online-Tutorium und Tutorien KW18",
+                            "Discussion_Id": "591292",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065173",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-04-30T16:01:04+02:00",
+                                    "Content": "Liebe Studierenden, aus organisatorischen Gründen wird das Online-Tutorium donnerstags 10-12 Uhr ab dieser Woche wegfallen und wir werden nur noch Präsenztutorien anbieten.  Da dies ein zusätzliches Angebot war, bitten wir euch in eure zugeteilten Tutorien zu gehen. Da morgen ein Feiertag ist, finden dort keine Tutorien statt. Bitte verteilt euch gleichmäßig auf die Tutorien am Donnerstag und Freitag. Viele Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien[blätter]",
+                            "Discussion_Id": "590384",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063788",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-04-27T03:14:40+02:00",
+                                    "Content": "Liebe Studierenden, die Lösung des ersten des Tutoriums ist für euch online. Für die Zusatzaufgaben wird es keine Lösungen geben. Wir gehen ab der nächsten Woche davon aus, dass ihr auch die Inhalte von Woche00 kennt und in den Tutorien Zugriff auf die Formelsammlung und das CheatSheet habt und damit umgehen könnt, um in den Tutorien mitzukommen. Solltest ihr damit noch Probleme haben, dann kommt gern in die Lernräume und Sprechstunden, da wir uns im gesamten Modul auf diese Grundlagen stützen werden. Grüße, Nadine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung Donnerstags-Tutorien 10 bis 12",
+                            "Discussion_Id": "589505",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062479",
+                                    "Author": "Lenard Mollenkopf",
+                                    "DateTime": "2024-04-24T16:40:57+02:00",
+                                    "Content": "Liebe Alle,  die Donnerstags-Tutorien von 10 bis 12 bei Nadine und Lenard finden ab sofort in anderen Räumen statt. Im MAR 6.011 und MAR 6.004.  Viele Grüße das ForSA-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vertretung Tutorien von Hannah heute",
+                            "Discussion_Id": "589357",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062258",
+                                    "Author": "Hannah Martina Katharina Herbers",
+                                    "DateTime": "2024-04-24T13:15:29+02:00",
+                                    "Content": "Leider muss mein Tutorium heute um 14 Uhr ausfallen.  Das Tutorium um 16 Uhr wird von Tom übernommen, kann also stattfinden.  (Geändert von Valeria Zahoransky von Worlik - Originaleintrag Mittwoch, 24. April 2024, 13:15)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062292",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-04-24T13:52:46+02:00",
+                                    "Content": "Liebe Alle,  beide Tutorien finden statt. Nadine wird das erste Tutorium vertreten.  Viele Grüße, das ForSA-Team",
+                                    "Response to": "p1062258"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Modulkonferenz | Zoom",
+                            "Discussion_Id": "588826",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061410",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-23T11:42:14+02:00",
+                                    "Content": "Es wurde anonym nachgefragt, wie man an den Zoom-Link kommt, wenn wir die heutige Modulkonferenz als Hybridveranstaltung durchführen. Dieser steht auf der Seite Organisation der Lehrveranstaltung unter Modulkonferenz (\"Vorlesung\"). Der Techniktest letzte Woche war erfolgreich, so dass ich grundsätzlich erwarte, dass das nachher funktionieren wird. Aber im Live-Einsatz kann es immer mal vorkommen, dass etwas nicht funktioniert. Wir werden sehen. Wer über Zoom teilnimmt, kann sich auch per Mikrofon beteiligen und wird dann auch im Hörsaal gehört werden. Fragen können auch über das in Zoom integrierte Q&A-Modul gestellt werden. Natürlich kann man sich im Hörsaal in Zoom einwählen; dann sollte man jedoch darauf achten, das ohne Audio zu tun, um unerwünschte Interferenzen zu vermeiden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Eduards Tutorium Freitag 26.4.24 12-14 Uhr",
+                            "Discussion_Id": "588267",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060524",
+                                    "Author": "Valeria Zahoransky von Worlik",
+                                    "DateTime": "2024-04-22T10:33:53+02:00",
+                                    "Content": "Liebe Studierende, aus organisatorischen Gründen werde ich diese Woche Eduards Tutorium am Freitag vertreten. Wir fangen dabei schon um Punkt 12 Uhr und hören um 13:30 auf. Falls ihr in dieses Tutorium kommt, denkt also bitte daran schon um 12 Uhr s.t. vor Ort zu sein. Freundliche Grüße, Valeria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Inhalte Woche 01",
+                            "Discussion_Id": "587913",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059925",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2024-04-20T00:13:14+02:00",
+                                    "Content": 

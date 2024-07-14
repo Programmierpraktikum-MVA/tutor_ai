@@ -1,0 +1,56 @@
+[
+    {
+        "Course_Name": "Seminar: Operating Complex IT-Systems SoSe 24",
+        "Course_id": "37660",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1765249",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Topic Assignments",
+                            "Discussion_Id": "588291",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060563",
+                                    "Author": "Sören Becker",
+                                    "DateTime": "2024-04-22T10:56:55+02:00",
+                                    "Content": "Dear Students, the topic selection process has been completed, and all topic assignments have been finalized. The algorithm tried to match each student with their preferred topics as indicated in their selections. Students who did not make a selection have been randomly assigned one of the remaining topics. Please review the topic list PDF to find your supervisor's contact information and arrange an initial meeting with them. Best regards, Soeren",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Topic Selection Deadline This Sunday",
+                            "Discussion_Id": "587907",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059916",
+                                    "Author": "Sören Becker",
+                                    "DateTime": "2024-04-19T23:33:04+02:00",
+                                    "Content": "Dear students, This is a reminder that the deadline to select your topics is approaching and is set for this Sunday at 23:55.  Please participate in the Bachelor/Master Topic election by submitting a preference list of topics. If you do not submit your preferences, we will have to assign a topic to you randomly. Have a nice weekend, Best regards, Soeren",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bachelor seminar selection completed",
+                            "Discussion_Id": "584826",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055404",
+                                    "Author": "Sören Becker",
+                                    "DateTime": "2024-04-07T13:35:20+02:00",
+                                    "Content": "Dear students, the selection process for the bachelor seminars has been completed. Those of you who have been selected for the seminar have been enrolled in the course and were added to the \"Bachelor Seminar\" group. You should now be able to select your preferred topics here. Please let me know if you encounter any problems or decide to not attend the seminar. Best, Soeren",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

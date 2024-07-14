@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Stochastic models in neuroscience / Current topics in computational neuroscience (Seminar)",
+        "Course_id": "38874",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1808459",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "date of seminar presentations and topic assignments",
+                            "Discussion_Id": "597677",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075169",
+                                    "Author": "Tilo Schwalger",
+                                    "DateTime": "2024-05-29T15:32:54+02:00",
+                                    "Content": "Dear participants of the seminar, thank you for choosing a date and a topic for the seminar presentations. The date will be  Thursday July 25, 2024 The location and starting time will be announced later. According to your choices, I made the following suggestion. Please let me know if you wish any changes! Name Topic Janik Faust Introduction Stochastic processes Haoyang Luo Fluctuation limits for mean-field interacting nonlinear Hawkes processes Florian Werner From micro to macro, part 1 Yuxin Xue Mesoscopic modeling of hidden spiking neurons Alfonso Yamamoto Rodriguez Quasi-renewal approximation  Please make an appointment with me (schwalger@math.tu-berlin.de) to discuss the content of your presentation.  Also, please send slides about one week before the seminar, so that I can still give feedback before your presentation.  Best, Tilo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Choosing topics",
+                            "Discussion_Id": "596242",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072918",
+                                    "Author": "Tilo Schwalger",
+                                    "DateTime": "2024-05-23T10:56:19+02:00",
+                                    "Content": "Dear all, if you have not yet done so, please be reminded to choose a topic until tomorrow if you want to take part in the seminar and get credits. In case you need more time for choosing a topic, please let me know. According to the poll, the date of the seminar will likely be on July 25. Best regards, Tilo Schwalger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Choosing the dates of the block seminar",
+                            "Discussion_Id": "593323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068351",
+                                    "Author": "Tilo Schwalger",
+                                    "DateTime": "2024-05-08T15:50:09+02:00",
+                                    "Content": "Dear all, I have now opened the poll for the dates of the block seminar: https://isis.tu-berlin.de/mod/choice/view.php?id=1830814 I f you want to take part in it, please vote until next week May 15th. Choosing multiple dates is possible. Please, be reminded that you can choose topics until May 24. I have added a few papers and I noted the roughly the field: math: mathematical neuroscience comp neuro: computational neuroscience Please, let me know if you have any questions. Best regards, Tilo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Initial meeting April 19, 12:30pm at MAR 0.011",
+                            "Discussion_Id": "587232",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058865",
+                                    "Author": "Tilo Schwalger",
+                                    "DateTime": "2024-04-18T11:16:15+02:00",
+                                    "Content": "Dear all, for the seminar \"Stochastic models in neuroscience\", there will be an initial organizational meeting tomorrow at 12:30pm in MAR 0.011.  We will mainly discuss the dates of the seminar presentations, which will take place in a block seminar at the end of the lecture period (presumably 2-3 days July). Best regards, Tilo Schwalger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

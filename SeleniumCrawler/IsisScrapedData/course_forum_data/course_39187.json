@@ -1,0 +1,78 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Statistische Verfahren für komplexe Versuchspläne II",
+        "Course_id": "39187",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1822675",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "606702",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088211",
+                                    "Author": "Gisela Müller-Plath",
+                                    "DateTime": "2024-07-09T17:44:00+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, bitte nehmen Sie an der Lehrevaluation der Mittwochs-Vorlesung/-übung teil und tragen damit zu einer kontinuierlichen Verbesserung unserer Lehre bei. Die Umfrage ist so kurz, dass sie in weniger als 10 Minuten ausgefüllt werden kann. Der Befragungszeitraum läuft bis zum 15.07.24.   https://befragung.tu-berlin.de/evasys/online.php?pswd=ENHU9 Vielen Dank. gez. G. Müller-Plath",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verbindliche Wahl eines Prüfungstermins; Prozedere bei Nichterscheinen bzw. Nichtbestehen",
+                            "Discussion_Id": "605877",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087014",
+                                    "Author": "Gisela Müller-Plath",
+                                    "DateTime": "2024-07-05T18:51:07+02:00",
+                                    "Content": "Liebe Kursteilnehmerinnen und -teilnehmer, bitte wählen Sie verbindlich mit eigenhändiger Unterschrift einen der beiden Terminblöcke für die mündliche Rücksprache (6./7. August oder 14./15. Oktober). In den Lehrveranstaltungen am Mittwoch, 3. Juli und Mittwoch, 10. Juli gebe ich dafür eine Lister herum. An den übrigen Tagen liegt die Liste im Sekretariat bei Frau Lüdtke aus. Wer also an den LV nicht teilnehmen kann, unterschreibe bitte im Sekretariat (am besten einen Termin vereinbaren, damit Frau Lüdtke da ist: katrin.luedtke@tu-berlin.de). Die Liset wird bis zum 12. Juli bereitstehen. Danach werden wir die Termine zuteilen und auf der Fachgebiets-Homepage veröffentlichen. Eine Änderung ist dann nicht mehr möglich. Wer zur Prüfung angemeldet ist, sich aber nicht einträgt, wird dem Oktobertermin zugeteilt. Abmeldungen sind bei Frau Lüdtke mit ärztlichem Attest möglich. Nichterscheinen und Nichtbestehen Wenn Sie zu Ihrem Prüfungstermin nicht erscheinen, wird Ihre Leistung in der mündlichen Rücksprache mit 0 Punkten bewertet. Wenn Sie erscheinen und Ihre Leistung in der mündlichen Rücksprache mit \"nicht ausriechend\" bewertet wird, erhalten Sie eine Punktzahl zwischen 0 Punkten (vollkommen ungenügende Leistung) und 34 Punkten (knapp nicht bestanden). Zusammen mit den beiden benoteten Hausaufgaben ergibt sich für Sie eine Punktsumme und eine Note nach dem Notenschlüssel in der Modulbeschreibung. Es kann also sein, dass Sie die mündliche Rücksprache (knapp) nicht bestehen, aber das Modul dennoch bestanden haben (i.d.R. mit einer schlechten Note)! Nur, wenn Sie das Modul insgesamt nicht bestanden haben, also die Punktsumme aus beiden Hausaufgaben und der mündlichen Rücksprache unter 50 Punkten liegt, müssen (bzw. dürfen) Sie das Modul wiederholen. Dies dauert 1 Jahr. Eine Wiederholung nur der mündlichen Rücksprache ist nicht möglich, da es sich um die Prüfungsform \"Portfolio\" handelt (vgl. AllStuPO). gez. Gisela Müller-Plath",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine für die mündliche Rücksprache",
+                            "Discussion_Id": "593395",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068456",
+                                    "Author": "Gisela Müller-Plath",
+                                    "DateTime": "2024-05-08T18:24:15+02:00",
+                                    "Content": "Für die mündliche Rücksprache stehen zwei Terminblöcke zur Auswahl: Terminblock 1: 6./7. August 2024 Terminblock 2: 14./15. Oktober 2024 Die verbindliche Wahl eines Terminblocks erfolgt schriftlich in den letzten drei Vorlesungswochen. Dann werde ich auch noch Details zum Ablauf der Prüfungen erzählen. gez. G. Müller-Plath",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Fragen und Anmerkungen zu den Seiten 79-84",
+                    "Forum_id": "1846193",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Frage zur A-Priori-Poweranalyse",
+                            "Discussion_Id": "604866",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085623",
+                                    "Author": "Tim Waldemar Sigmund",
+                                    "DateTime": "2024-07-02T08:49:01+02:00",
+                                    "Content": "Ich würde mich freuen, wenn Sie nochmal erklären könnten warum die Effektgröße genau halb so groß angelegt werden muss bei einer Effektkodierung gegenüber der Grundkodierung (siehe letzter Paragraf zu A-Priori-Poweranalyse auf S. 82)? Vielen Dank und bis Mittwoch! Tim Sigmund",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

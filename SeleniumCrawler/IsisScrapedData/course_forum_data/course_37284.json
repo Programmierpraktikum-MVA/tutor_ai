@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "IWWT-Team",
+        "Course_id": "37284",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1754823",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "IWWT - Strategieworkshop - 28 June",
+                            "Discussion_Id": "587006",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058517",
+                                    "Author": "Cecilia Müller",
+                                    "DateTime": "2024-04-17T16:31:45+02:00",
+                                    "Content": "Dear all,  The strategy workshop will take place on Friday 28 June at 9:00 in Wannsee. More information will follow. Best regards Cecilia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "IWWT- Team Meeting Heute 14:00 EB126 ",
+                            "Discussion_Id": "586757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058181",
+                                    "Author": "Cecilia Müller",
+                                    "DateTime": "2024-04-17T11:07:43+02:00",
+                                    "Content": "Liebe alle, Wir treffen uns heute um 14:00 Uhr in EB126. Wenn Ihr eine Präsentation zeigen möchte, schickt ihr sie bitte im Voraus oder bringt ihr sie auf einem Stick mit, da der Projektor nur über einen WGA-Anschluss verfügt. Bis später, Cecilia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "IWWT-Team ISIS-Kurs",
+                            "Discussion_Id": "583039",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1052648",
+                                    "Author": "Cecilia Müller",
+                                    "DateTime": "2024-03-12T16:14:03+01:00",
+                                    "Content": "Hallo zusammen, hier ist die ISIS-Kurs für das IWWT-Team. Hier können Sie Nachrichten an die ganze Gruppe senden.  Wir werden auch die Liste mit allen Maschinen im Institut hochladen, sobald wir sie aktualisiert haben. Sie sind alle Trainer, also aktualisieren Sie gern Ihren Teil mit weiteren Informationen.  Es wird auch eine zweite Alternative für eine Mailingliste geben, die ich in den nächsten Tagen verschicken werde.  Mit freundlichen Grüßen Cecilia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

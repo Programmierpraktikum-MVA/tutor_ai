@@ -1,0 +1,858 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Hardwarepraktikum",
+        "Course_id": "38866",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1808012",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gruppen Fr-08: Wahl des Zeitslots der Rücksprache vom 10. Blatt",
+                            "Discussion_Id": "607406",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089193",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-07-12T10:06:10+02:00",
+                                    "Content": "Hallo, ich habe für die Gruppen am Freitag 8-12 eine Wahl zum Zeitslot der Rücksprache fürs 10. Blatt angelegt. Bitte wählt euch bis zum 17.07. um 12:00 einen euch passenden Zeitslot aus. Es darf nur eine Person pro Gruppe abstimmen, sprecht euch also untereinander ab! Viele Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppen Do-08: Wahl des Zeitslots der Rücksprache vom 10. Blatt",
+                            "Discussion_Id": "607114",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088792",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-07-11T10:36:35+02:00",
+                                    "Content": "Hallo, ich habe für die Gruppen am Donnerstag 8-12 eine Wahl zum Zeitslot der Rücksprache fürs 10. Blatt angelegt. Bitte wählt euch bis zum 17.07. um 12:00 einen euch passenden Zeitslot aus. Es darf nur eine Person pro Gruppe abstimmen, sprecht euch also untereinander ab! Viele Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung an den Vorgaben von Blatt09",
+                            "Discussion_Id": "605475",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086465",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-07-04T11:00:51+02:00",
+                                    "Content": "Hallo, ich musste an den Vorgaben von Blatt09 noch eine Kleinigkeit bezüglich der USE Anweisungen in ArmDataPath.vhd verändern. Bitte führt also nochmal ein \"git pull vorgaben main\" aus. Wenn ihr die ArmDataPath.vhd bereits bearbeitet habt, commitet oder stasht davor eure Änderungen. Viele Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "603975",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084289",
+                                    "Author": "Antonio Saavedra",
+                                    "DateTime": "2024-06-27T11:11:31+02:00",
+                                    "Content": "Guten Tag, die Lehrevaluation findet ihr hier: https://befragung.tu-berlin.de/evasys/online.php?pswd=AJLA2 Bitte nimmt euch einen Moment Zeit, um die Umfrage zu beantworten. Sie ist für uns als Team sehr wichtig, damit wir das Modul verbessern und besser auf die Bedürfnisse der Studierenden anpassen können.  Vielen Dank Antonio",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Downtime von GitLab",
+                            "Discussion_Id": "600702",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079586",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-12T19:40:25+02:00",
+                                    "Content": "Hallo, es gibt heute wieder eine Wartung/ein Update bei dem GitLab der Universität. Dieses wird somit heute von 23:00 bis Mitternacht nicht verfügbar sein. Die Abgabefrist wird entsprechend um eine Stunde verschoben und ist also am 13.06.2024 um 00:59. Viele Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung Sprechstunde",
+                            "Discussion_Id": "596792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073805",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-26T21:23:21+02:00",
+                                    "Content": "Hallo, die Sprechstunde morgen (und voraussichtlich auch jede Woche ab jetzt) findet nicht mehr im EN, sondern stattdessen im MAR 6.029 (also dem kleinen Rechnerraum) statt. Viele Grüße Jan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076269",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-03T09:22:14+02:00",
+                                    "Content": "Nochmal als kleine Erinnerung: Die Sprechstunde heute findet im MAR 6.029 statt. ",
+                                    "Response to": "p1073805"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zusätzliche Sprechstunde am 4.6.",
+                            "Discussion_Id": "598396",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076224",
+                                    "Author": "Antonio Saavedra",
+                                    "DateTime": "2024-06-03T01:27:49+02:00",
+                                    "Content": "Hallo an alle,  Wie ich in meinem Freitagstermin angekündigt hatte, werden wir diese Woche eine zusätzliche Sprechstunde am Dienstag zwischen 10 und 12 Uhr im Raum MAR 6.029 anbieten.  Viele Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden diese Woche",
+                            "Discussion_Id": "595510",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071878",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-21T03:01:23+02:00",
+                                    "Content": "Hallo, es gibt diese Woche zwei Sprechstunden (da die Sprechstunde am Montag ja nicht stattfinden konnte): heute (21.05.2024) von 10 bis 12 Uhr im MAR 6.029 morgen (22.05.2024) von 10 bis 12 Uhr, voraussichtlich auch im MAR 6.029 Viele Grüße Jan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072368",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-22T00:07:45+02:00",
+                                    "Content": "Nochmal als Bestätigung: Ja, am 22.05.2024 (also Mittwoch) wird es wirklich der Raum MAR 6.029 sein.",
+                                    "Response to": "p1071878"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Simulation mit Vivado",
+                            "Discussion_Id": "593437",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068541",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-09T05:07:08+02:00",
+                                    "Content": "Heyo alle, da ModelSim (der Simulator, den wir eigentlich nutzen) dieses Semester ein paar Probleme macht, werden wir für die ersten paar Blätter Vivado nicht nur zur Synthese, sondern auch zur Simulation nutzen. Um die Testbenches des 1. Blattes in Vivado zu auszuführen, geht bitte wie folgt vor: Fügt die Dateien \"ArmDataReplication.vhd\", \"ArmRamBuffer.vhd\", \"ArmConfiguration.vhd\", \"ArmTypes.vhd\" und \"ArmFilePaths.vhd\" in euer Projekt als Design Sources ein. Fügt die Dateien \"ArmDataReplication_TB.vhd\", \"ArmInstructionAddressRegister_tb.vhd\" und \"TB_Tools.vhd\" in euer Projekt als Simulation Sources ein. Klickt in der linken Sidebar im Abschnitt \"Simulation\" auf \"Run Simulation\". Per Default führt Vivado nun 1000ns euer Simulation aus (was nicht genug ist). Klickt in der oberen Toolbar auf \"Run All\" (das kleine blaue Play-Zeichen) oder drückt F3. Nun führt Vivado die vollständige Simulation aus. Schaut euch das Transcript in der Tcl Console an und betrachtet die Waveform (im Tab \"Untitled #\"). Wenn ihr euren Code ändert, könnt ihr die Simulation jederzeit mit \"Relaunch Simulation\" (auch in der oberen Toolbar) neu starten. Auch hier müsst ihr wieder im Anschluss \"Run All\" verwenden. Beachtet außerdem folgende Dinge: Stellt sicher, dass ihr Vivado 2017.3 verwendet und auf den Servern den \"source ...\"-Befehl nicht vergesst. Die Testbenches dienen nur zur Orientierung und die Punkte, die ausgegeben werden, sind nicht notwendigerweise die Punkte, die ihr bekommen werdet. Wenn es Fehler gibt, könnt ihr versuchen die Simulation zurückzusetzen, indem ihr im Unterfenster \"Sources\" im Baum den Knoten \"sim_1\" auswählt und dann das Kontextmenü mit Rechtsklick öffnet. Dort könnt ihr dann \"Reset Simulation > Reset Behavioural Simulation\" auswählen. Solltet ihr Fehler beim Ausführen der Simulationen nicht selbst beheben können, erstellt gerne einen Forumspost, wir versuchen euch dann selbstmöglich weiterzuhelfen. Wenn ihr zu Hause mit Ubuntu arbeitet und eine Version, die neuer als Jammy ist, verwendet, so müsst ihr die Pakete \"libtinfo5\" und \"libncurses5\" manuell herunterladen und installieren. Nutzt dafür am besten https://packages.ubuntu.com/. Viel Erfolg beim ersten Blatt Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikumstermin heute am 9.5.",
+                            "Discussion_Id": "593435",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068539",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-09T04:51:58+02:00",
+                                    "Content": "Heyo, da ja heute Feiertag ist, findet der Donnerstagstermin nicht statt. Stattdessen stellen wir euch ein Video zur Verfügung. Schaut also dieses Video morgen (oder auch heute, wenn ihr an einem Feiertag Hausaufgaben machen wollt) und bearbeitet die Aufgaben selbstständig. Wenn ihr Fragen habt, geht bitte zur Sprechstunde am Montag, schreibt uns eine E-Mail oder erstellt ein Thema im Forum. Ich werde außerdem einen weiteren Post hier im Forum mit einer kurzen Anleitung zur Simulation mit Vivado erstellen. Viele Grüße und einen schönen Feiertag Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WICHTIG: Info für alle \"Teilnehmern ohne Termin\"",
+                            "Discussion_Id": "591290",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065171",
+                                    "Author": "Antonio Saavedra",
+                                    "DateTime": "2024-04-30T16:00:05+02:00",
+                                    "Content": "Hallo zusammen,  Dies betrifft nur diejenigen, die als \"Teilnehmer ohne Termin\" zugewiesen wurden und auf die Umfrage zur Wahl eines neuen Termins geantwortet haben. Diejenigen, die bei der ersten Umfrage auf einen festen Termin oder auf die Warteliste verteilt wurden, müssen nichts tun:  Aufgrund eines technischen Problems von ISIS werden die maximalen Antwortgrenzen der zweiten Umfrage zwar für die Desktop-Version eingehalten, nicht aber für die mobile Version. Aus diesem Grund hat das Termin am Freitag um 8 Uhr seine maximale Kapazität weit überschritten.  Da uns diese Einschränkung von ISIS nicht bekannt war und wir nicht feststellen können, wer die Umfrage vor der Überschreitung des Limits beantwortet hat, sind wir leider gezwungen, diesen Vorgang zu wiederholen. Daher werden wir heute um 19:00 Uhr eine neue Umfrage starten, um diesen Vorgang zu wiederholen. Wir bedauern diese Situation sehr, aber sie liegt außerhalb unserer Kontrolle.  tldr: Alle die ursprünglich keinen Termin bekommen haben und dann einen neuen gewählt haben, müssen dies erneut in der neuen Umfrage tun.  Viele Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse der Anmeldung und Tutorienverteilung ",
+                            "Discussion_Id": "591005",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064759",
+                                    "Author": "Antonio Saavedra",
+                                    "DateTime": "2024-04-29T20:42:42+02:00",
+                                    "Content": "Hallo an alle,  nachdem die Anmeldung nun abgeschlossen ist, möchten wir Sie über die Ergebnisse der Tutorienverteilung informieren. Sie können die Ergebnisse dieses Prozesses auf ISIS sehen. Auf der Hauptseite wird es als Nachricht angezeigt, die Sie je nach der Gruppe, an die Sie verteilt wurden, sehen können.  Da es zu viele Teilnehmer gab, die nur den Donnerstagstermin zur Verfügung hatten, haben wir die ausgewählten Teilnehmer ausgelost. Dabei wurde jeder von Ihnen als Teilnehmer mit einem bestimmten Termin, als Teilnehmer ohne Termin oder als Warteliste eingestuft.  Für alle Teilnehmer ohne Termin (die, die nur am Donnerstagtermin teilnehmen wollten, aber nicht ausgelost wurden), haben wir eine neue ISIS-Umfrage vorbereitet, die ab jetzt und bis diese Mittwoch um 23:59:59 geöffnet sein wird. In dieser Umfrage können sie sich in einen von den freitags Terminen eintragen. Die verbliebene Kapazität an den Freitagsterminen würde durch FCFS (first come, first serve) Prinzip geteilt.  Für diejenigen, die auf der Warteliste stehen: Wir werden Sie rechtzeitig informieren, wenn Plätze frei werden.  Viele Grüße, Antonio",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Überfüllter Termin Donnerstag 8-12",
+                            "Discussion_Id": "590527",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064027",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-04-28T19:08:11+02:00",
+                                    "Content": "Hallo alle, zum aktuellen Stand wäre der Termin am Donnerstag 8-12 stark überfüllt (37 Teilnehmende vs. 25 Sitzplätze), wenn wir versuchen würden trotz der beschränkten Teilnehmeranzahl alle Studierende, die dieses Modul als Pflichtmodul haben, zuzulassen. Also an alle, die angegeben haben, nur am Donnerstagstermin Zeit zu haben und dieses Modul als Pflichtmodul haben: Bitte überprüft einmal, ob ihr nicht doch an einem der anderen Termine Zeit habt und aktualisiert eure Angaben, wenn dies der Fall ist. Viele Grüße und vielen Dank Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung und Tutorienverteilung",
+                            "Discussion_Id": "588612",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061102",
+                                    "Author": "Antonio Saavedra",
+                                    "DateTime": "2024-04-22T18:40:28+02:00",
+                                    "Content": "Hallo an alle,  dieses Jahr haben wir begrenzte Kapazitäten für die Teilnahme an diesem Modul. Aus diesem Grund müssen Sie, um an dem Modul teilnehmen zu können, an dem Anmeldungsprozess teilnehmen.  Hierfür haben wir eine Umfrage vorbereitet, die jetzt geöffnet wird. Alle, die teilnehmen möchten, müssen diese Umfrage bis Sonntag, den 28.04., beantworten.  Gleichzeitig mit der Anmeldung werden wir die Tutorien verteilen. Dafür werdet ihr eine bestimmte Tutorien wählen müssen, jede mit einem bestimmten wöchentlichen 4-Stunden-Termin. Wir werden drei Termine, in unterschiedlichen Zeitslots, anbieten. Die sind: - Donnerstag, um 8 Uhr. - Freitag, um 8 Uhr. - Freitag, um 14 Uhr.  Die Plätze werden gemäß § 48 (3) AllgStuPO vergeben.  Bitte vergessen Sie nicht, wie bereits angekündigt, dass wir am Freitag um 10 Uhr den Einführungsvortrag für alle, unabhängig von dem ausgewählten Zeitslot, halten werden!  Viele Grüße, Antonio",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Allgemeine Fragen",
+                    "Forum_id": "1808038",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Bewertung",
+                            "Discussion_Id": "605489",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086486",
+                                    "Author": "Jalaa Sadi",
+                                    "DateTime": "2024-07-04T11:43:21+02:00",
+                                    "Content": "Hallo wann werden die Bewertungen der restlichen Blätter auf ISIS hochgeladen ? Danke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folien 6. Termin Gruppe Fr-08",
+                            "Discussion_Id": "601795",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081178",
+                                    "Author": "Elena Julia Gandert",
+                                    "DateTime": "2024-06-18T12:41:27+02:00",
+                                    "Content": "Werden die Folien zu oben stehendem Termin noch hochgeladen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081257",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-18T15:21:54+02:00",
+                                    "Content": "Hallo,  ich habe die Folien hochgeladen.  Viele Grüße Jan",
+                                    "Response to": "p1081178"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unterstützung bei Dateiverwechslung für Aufgabe 1 von Blatt05",
+                            "Discussion_Id": "599983",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078535",
+                                    "Author": "Achraf Akremi",
+                                    "DateTime": "2024-06-10T12:44:17+02:00",
+                                    "Content": "Hallo liebes HWPTI Team, ich habe bei der Aufgabe 1 von Blatt05 festgestellt, dass ich die Datei \"<Projekt>/<Projekt>.srcs/sources_1/ip/ArmClkGen/ArmClkGen.xci\" erhalten habe, anstatt der erwarteten Datei \"<Projekt>/<Projekt>.srcs/sources_1/ip/ArmClkGen/ArmClkGen_sim_netlist.vhdl\". Könntet ihr bitte dabei helfen, dieses Problem zu lösen? Vielen Dank im Voraus für eure Unterstützung!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078549",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-10T12:59:29+02:00",
+                                    "Content": "Hallo,  bitte stelle sicher, dass du die richtige Vivado Version (2017.3) verwendet. Ist dies nicht der Fall, so schaue dir bitte die Anleitung von Blatt 0 nochmal an. Achte dabei insbesondere auf den \"source\"-Befehl im Abschnitt 1 (\"Arbeitsumgebung\").  Es ist notwendig, diesen Befehl vor jedem Start von Vivado einzugeben, damit die richtige Version gefunden werden kann.  Solltest du bereits die richtige Version verwenden oder sollte das Problem trotz Wechsel auf die richtige Version fortbestehen, melde dich bitte erneut.  Viele Grüße Jan",
+                                    "Response to": "p1078535"
+                                },
+                                {
+                                    "Message_id": "p1078556",
+                                    "Author": "Achraf Akremi",
+                                    "DateTime": "2024-06-10T13:14:14+02:00",
+                                    "Content": "ich verwende bereits die richtige Version von Vivado, nämlich die v2017.3 (64-bit)  LG Achraf",
+                                    "Response to": "p1078549"
+                                },
+                                {
+                                    "Message_id": "p1079157",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-11T18:22:01+02:00",
+                                    "Content": "Hallo,  versuche dann mal den IP-Kern (und vielleicht auch das ganze Projekt) zu entfernen und erneut zu generieren. Wenn dies auch nicht hilft, dann packe am besten den ganzen Vivado-Projekt-Ordner in eine ZIP und sende sie uns zu, dann gucken wir uns das mal genauer an.  Viele Grüße Jan",
+                                    "Response to": "p1078556"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folien Fr14-18 fehlen",
+                            "Discussion_Id": "597452",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074832",
+                                    "Author": "Dominique Marcel Stevens",
+                                    "DateTime": "2024-05-28T16:52:56+02:00",
+                                    "Content": "ich weiß nicht ob das nur bei meiner Gruppe ist aber wir können die Folien von Blatt03 nicht sehen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074855",
+                                    "Author": "Maximilian Wirth",
+                                    "DateTime": "2024-05-28T17:33:16+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1074832"
+                                },
+                                {
+                                    "Message_id": "p1074856",
+                                    "Author": "Ken Othman",
+                                    "DateTime": "2024-05-28T17:33:34+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1074832"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde",
+                            "Discussion_Id": "593947",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069359",
+                                    "Author": "Bassel Hossam Sewesy",
+                                    "DateTime": "2024-05-13T10:32:42+02:00",
+                                    "Content": "Hallo,  Findet die Sprechstunde jetzt statt? Der Raum ist anscheinend gerade besetzt von einem anderem Tutorium. Gibt es vielleicht eine Raumänderung?  MfG Bassel ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069372",
+                                    "Author": "Mohamad Aiham Mariam",
+                                    "DateTime": "2024-05-13T10:39:06+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1069359"
+                                },
+                                {
+                                    "Message_id": "p1069401",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-13T11:13:29+02:00",
+                                    "Content": "Hallo,   die Sprechstunde findet im E-N 653 statt. Leider stand im ISIS Kurs der falsche Raum... Das tut mir leid. Ich werde dementsprechend auch etwas länger bleiben, damit alle Zeit haben, die Fragen zu stellen.  Viele Grüße Jan",
+                                    "Response to": "p1069359"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Basys 3",
+                            "Discussion_Id": "592368",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066899",
+                                    "Author": "Matin Gohar Far",
+                                    "DateTime": "2024-05-05T21:18:21+02:00",
+                                    "Content": "Hallo, gibt es irgendeine Möglichkeit, als Student vergünstigt an so eine basys 3 ranzukommen? Würde mir das gerne mal anschaffen, um Implementierungen in der Praxis zu beobachten, aber im Internet finde ich kein Angebot unter 120 Euro.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungstermin verpflichtend",
+                            "Discussion_Id": "589952",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063163",
+                                    "Author": "Matin Gohar Far",
+                                    "DateTime": "2024-04-25T17:38:21+02:00",
+                                    "Content": "Ich bin morgen leider verhindert und wollte deswegen fragen: Ist der Einführungstermin morgen verpflichtend ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063175",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-04-25T17:53:17+02:00",
+                                    "Content": "Hallo,  Der Termin ist nicht verpflichtend. Es werden jedoch wichtige Informationen besprochen. Schau dir also auf jeden Fall zeitnah die Folien an, die wir nach dem Termin hochladen werden.  Viele Grüße Jan",
+                                    "Response to": "p1063163"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungstermin",
+                            "Discussion_Id": "588815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061392",
+                                    "Author": "Carsten Frederic Schlieben",
+                                    "DateTime": "2024-04-23T11:32:56+02:00",
+                                    "Content": "Hallo, im Isis Kurs ganz oben bei \"Wichtige Informationen\", sowie in der Ankündigung ist vom Einführungstermin am 26.4. um 10 Uhr die Rede. Beim Zeitplan steht jedoch 14 Uhr im Raum H2053. Ich nehme an 10 Uhr ist die richtige Zeit. In der Ankündigung wird aber kein Raum genannt. In welchem Raum wird der Einführungstermin dann stattfinden? Gruß Carsten",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061462",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-04-23T12:25:57+02:00",
+                                    "Content": "Hallo,  Du hast recht, 10 Uhr ist die richtige Zeit. Ich habe den Text im Zeitplan angepasst. Der angegebene Raum stimmt jedoch.  Viele Grüße Jan",
+                                    "Response to": "p1061392"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum",
+                            "Discussion_Id": "587024",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058547",
+                                    "Author": "Sarra Bouallegue",
+                                    "DateTime": "2024-04-17T17:10:23+02:00",
+                                    "Content": "Ich wollte noch fragen, ob eine Anmeldung im Moses erforderlich ist oder nicht? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058701",
+                                    "Author": "Antonio Saavedra",
+                                    "DateTime": "2024-04-17T22:45:21+02:00",
+                                    "Content": "Hallo Sarra,  Nein, das war nicht nötig. Wir werden das über eine ISIS-Umfrage machen. Am Freitag werden wir über den Ablauf der Umfrage informieren, die am kommenden Montag beginnen wird.  Viele Grüße Antonio",
+                                    "Response to": "p1058547"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Gruppenfindung",
+                    "Forum_id": "1808039",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gruppensuche Freitag 14:00",
+                            "Discussion_Id": "592363",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066892",
+                                    "Author": "Niki Trester",
+                                    "DateTime": "2024-05-05T20:38:48+02:00",
+                                    "Content": "Hallo, ich konnte leider bei dem ersten Termin nicht anwesend sein und suche daher noch eine Gruppe, falls ihr noch einen Platz in eurer Gruppe frei habt oder auch noch auf der Suche seid, meldet euch gerne auf WhatsApp oder Telegram :) +4915120178163 Lg Niki",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche Gruppe Fr 8-12",
+                            "Discussion_Id": "592231",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066643",
+                                    "Author": "Eren Varol",
+                                    "DateTime": "2024-05-03T22:52:59+02:00",
+                                    "Content": "Hi Ich suche eine Gruppe für freitags 8-12 mfg Eren",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche Gruppe für Freitag 14-18 Uhr",
+                            "Discussion_Id": "591530",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065565",
+                                    "Author": "Mohamad Aiham Mariam",
+                                    "DateTime": "2024-05-02T06:35:33+02:00",
+                                    "Content": "Hallo,  Ich bin auf der Suche nach einer motivierten Gruppe für HWPTI. Freitag 14-18 ist mein Termin. Danke.  LG Aiham",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066133",
+                                    "Author": "Melvin Christopher Melemeng Melemeng",
+                                    "DateTime": "2024-05-02T22:09:36+02:00",
+                                    "Content": "Hey ich habe noch keine Gruppe",
+                                    "Response to": "p1065565"
+                                },
+                                {
+                                    "Message_id": "p1066457",
+                                    "Author": "Christian Thiele",
+                                    "DateTime": "2024-05-03T14:43:55+02:00",
+                                    "Content": "Ich hätte auch noch keine. Sitze ganz hinten links",
+                                    "Response to": "p1065565"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen zu der Installation / Benutzung der Tools zuhause",
+                    "Forum_id": "1808040",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausgang wird bei Simulation nicht belegt",
+                            "Discussion_Id": "594734",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070615",
+                                    "Author": "Phil Pereira Schultz",
+                                    "DateTime": "2024-05-15T17:01:02+02:00",
+                                    "Content": "Hey, Wir führen auf dem Remote Server der TU die Simulation des ersten Blattes erfolgreich aus(Source-Befehl, Run Simulation, Run all, etc.). Nun ist es aber so das unser DRP_OUTPUT nicht belegt wird egal was wir machen, er liefert immer denselben Output(siehe Bild). Dies haben wir paralell auf drei verschiedenen Systemen zweimal auf den Uniservern und einmal auf einem lokalen Windows-Rechner versucht  und haben immer das selbe Ergebnis bekommen. So ist es uns offensichtlich nicht möglich unseren Code zu testen deswegen ist Hilfe dringend notwendig, vielen Dank :).  LG Phil",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070684",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-15T21:03:37+02:00",
+                                    "Content": "Hallo,  Die Simulation scheint mir zu funktionieren. Der Ausgang ist nämlich nicht unbelegt (das wäre dann \"UUUUUUUU\"), sondern es treten Konflikte auf. Prüft also einmal, ob ihr nicht eventuell das Output Signal an mehreren Stellen (mit verschiedenen Werten) zuweist.  Viele Grüße Jan",
+                                    "Response to": "p1070615"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabe fehlerhaft",
+                            "Discussion_Id": "594126",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069639",
+                                    "Author": "Bassel Hossam Sewesy",
+                                    "DateTime": "2024-05-13T16:28:24+02:00",
+                                    "Content": "Hallo, Ich habe das Programm gestern zum Laufen gebracht und es hat alles funktioniert. Nun habe ich immer noch 2 Fehler. 1. Der Code, der bei meinen Partnern richtig kompiliert wird und richtig ist wird bei mir ausgeführt, führt aber zu 4 Fehlern (siehe Anhang). Ich befolge genau den Schritten, die in dem Forum Post \"Simulation mit Vivado\" steht. Ich runne erstmal den code, dann mit run all. Der Code wurde bei mir auch nicht geändert. 2. Mein Programm will die 2te Testbench nicht ausführen. Was genau muss man machen, wenn man mit der 2ten Aufgabe anfängt?   MfG Bassel ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Simulation funktioniert nicht",
+                            "Discussion_Id": "593808",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069133",
+                                    "Author": "Bassel Hossam Sewesy",
+                                    "DateTime": "2024-05-12T13:25:08+02:00",
+                                    "Content": "Hallo, Ich habe Probleme mit dem runnen der Testbench. Wie kann ich das Problem beheben?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069177",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-12T17:59:24+02:00",
+                                    "Content": "Hallo,  in der Tcl Console steht, dass beim Kompilieren der Testbench Fehler aufgetreten sind. Dies kann an drei Gründen liegen: Du hast die Testbench verändert. Die Testbench baut auf einem Modul von dir auf und dieses Modul enthält Fehler (in den meisten Fällen tritt dieser Fehler jedoch erst später auf). Du hast nicht alle für die Testbench notwendigen Dateien in Vivado hinzugefügt. Ich denke, dass es in deinem Fall vermutlich 3. ist. Schaue deshalb am besten nochmal in die Ankündigung zur Simulation mit Vivado und füge die Dateien entsprechend zu Vivado zurück.  Wenn der Fehler weiterhin auftritt, teile bitte den vollständigen Output in der Tcl Console, sowie die \"xvhdl.log\"-Datei (siehe Fehlermeldung in der Tcl Console).  Viele Grüße Jan",
+                                    "Response to": "p1069133"
+                                },
+                                {
+                                    "Message_id": "p1069218",
+                                    "Author": "Bassel Hossam Sewesy",
+                                    "DateTime": "2024-05-12T21:27:26+02:00",
+                                    "Content": "Hallo,  Ich habe alle Testbenches hinzugefügt (wie in dem Forumpost geschrieben). Das Modul hat bei meinen Partnern keine Fehler, deswegen gehe ich davon aus, dass dies nicht der Fall sein sollte. Die  Testbench habe ich ebenso nicht verändert. Hier ist der xvhdl.log und tcl log. Wenn es hier nicht klappt, komme ich morgen in der Sprechstunde vorbei.",
+                                    "Response to": "p1069177"
+                                },
+                                {
+                                    "Message_id": "p1069224",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-12T21:51:35+02:00",
+                                    "Content": "Bitte guck einmal nach, ob du auch die \"ArmTypes.vhd\" (als Design-Source!) hinzugefügt hast. Und sende am besten ein Screenshot von dem Tab \"Compile Order\" bei \"Sources\".",
+                                    "Response to": "p1069218"
+                                },
+                                {
+                                    "Message_id": "p1069225",
+                                    "Author": "Bassel Hossam Sewesy",
+                                    "DateTime": "2024-05-12T21:55:39+02:00",
+                                    "Content": "Habe das jetzt zum Laufen gebracht. Vielen Dank!  Komme morgen aber trotzdem sicherheitshalber zur Sprechstunde, um zu gucken ob ich etwas falsch gemacht habe oder alles richtig aussieht.",
+                                    "Response to": "p1069224"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Run Implication",
+                            "Discussion_Id": "593767",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069068",
+                                    "Author": "Aziz Bandar",
+                                    "DateTime": "2024-05-11T17:20:11+02:00",
+                                    "Content": "Sehr geehrtes HWPTI-Team,  ich habe mich ein erneutes mal mit dem Guide für den Bitstream auseinander gesetzt. Es kam erneut dazu, dass die Synthese durchläuft doch an der Stelle der Implikation failed, wodurch es zu keiner Möglichkeit kam den Bitstream zu generieren. Im Anhang ist auch ein Bild des Problems. Da es vielleicht mehrere Leute interessieren könnte, dachte ich es wäre angebracht es im Forum anzusprechen.  Vielen Dank im Voraus!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069071",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-11T17:45:21+02:00",
+                                    "Content": "Hallo,  du hast die Testbench als Design-Source hinzugefügt und als Top-Level-Modul festgelegt. Vivado versucht entsprechend die Testbench auf dem FPGA zu implementieren, was nicht funktionieren kannst. Um dies zu beheben, kannst du entweder die Testbench ganz entfernen oder sie zu einer Simulation-Source machen.  Außerdem solltest du normalerweise nur eine Constraints-Datei haben.  Viele Grüße Jan",
+                                    "Response to": "p1069068"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Aufgabenblätter",
+                    "Forum_id": "1808041",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Blatt08 numeric_std library",
+                            "Discussion_Id": "605128",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085991",
+                                    "Author": "Dominic Pascal Groth",
+                                    "DateTime": "2024-07-02T21:31:02+02:00",
+                                    "Content": "Dürfen wir für Blatt08 die numeric_std library verwenden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086293",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-07-03T18:22:19+02:00",
+                                    "Content": "Ja, die dürft ihr verwenden.",
+                                    "Response to": "p1085991"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Blatt 07 Aufgabe 02 ",
+                            "Discussion_Id": "603791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084035",
+                                    "Author": "Mahmoud Ossama Hamed Elsayed",
+                                    "DateTime": "2024-06-26T14:39:10+02:00",
+                                    "Content": "ich versuche, die Generics bei Aufgabe 02 anzupassen, komme allerdings nicht weiter :/.  kriege immer bei der DATA_OUT von der von Ihnen gegebenen Testbench alles auf 0 gesetzt, egal welche TestVector ich auswähle.   Die Frage ist, ob ich da ArmBarrelShifter_HILEVEL.vhd auch im Sources Ordner hinzufügen soll?   Hatte jemand vllt. das gleiche Problem?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084056",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-26T15:20:27+02:00",
+                                    "Content": "Ja, du solltest den ArmBarrelShifter_HILEVEL zumindest als Simulation Source hinzufügen.",
+                                    "Response to": "p1084035"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Blatt 6 Aufgabe 1: Module",
+                            "Discussion_Id": "601848",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081239",
+                                    "Author": "Elena Julia Gandert",
+                                    "DateTime": "2024-06-18T14:50:18+02:00",
+                                    "Content": "Im Blatt steht: \"Sie können, um die Übersichtlichkeit zu steigern, Module oder Funktionen zur Zählung in den Teilvektoren anlegen.\" Ich bin nicht sicher, ob ich es richtig verstehe: Darf man Module in separaten Dateien anlegen, sofern man sie in der Abgabedatei einbindet und auch diese Modul-Dateien pusht?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081260",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-18T15:22:57+02:00",
+                                    "Content": "Hallo,  Ja, du verstehst es richtig. Ihr könnt gerne eigene Module und Dateien anlegen, sofern ihr diese korrekt einbindet und pusht.  Viele Grüße Jan",
+                                    "Response to": "p1081239"
+                                },
+                                {
+                                    "Message_id": "p1081269",
+                                    "Author": "Elena Julia Gandert",
+                                    "DateTime": "2024-06-18T15:44:01+02:00",
+                                    "Content": "Super, danke!",
+                                    "Response to": "p1081260"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Blatt4 verschieben",
+                            "Discussion_Id": "599241",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077447",
+                                    "Author": "Melvin Christopher Melemeng Melemeng",
+                                    "DateTime": "2024-06-05T19:32:33+02:00",
+                                    "Content": "Hallo zusammen, wir möchten euch bitten, die Abgabefrist für Blatt 04 zu verschieben. Insbesondere Aufgabe 2 ist schwer zu verstehen, da die Präsentationsfolien nicht verfügbar sind und wir viel nachschlagen müssen. Vielen Dank.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Blatt 04: Iteration-Limit beim Ausführen der Testbench (Error)",
+                            "Discussion_Id": "599147",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077296",
+                                    "Author": "Johann Theodor Lehmann",
+                                    "DateTime": "2024-06-05T13:41:56+02:00",
+                                    "Content": "Hey Zusammen, wenn wir versuchen unsere ArmRS232Interface_tb auszuführen, erhalten wir einen Error, da wir ein Iteration-Limit erreicht haben. Liegt das an der Testbench (bzw. an den Vivado-Einstellungen) oder ist das auf unseren Code zurückzuführen? Beste Grüße und vielen Dank für die Hilfe im Vorraus!  Hier nochmal ein Ausschnitt der Meldung: ... Note: Test der seriellen Schnittstelle (Transmitter). Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd Note: Ueber den Datenbus werden Testdaten in das RS232_INTERFACE geschrieben, die Ausgaben auf der TXD-Leitung ausgewertet und bzgl. Korrektheit und Zeitanforderungen ueberprueft Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd Note: Das Signal CURRENT_RECEIVED_VALUE, sichtbar in der ModelSim-Waveform, enthaelt die jeweils von der seriellen Leitung gelesenen Bits, bis zum Empfang des letzten Bits sind unbekannte Werte hier normal. Das letzte Empfangene Bit ist das Stoppbit Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd Note: Zusaetzlich erfolgt die Ausgabe der gemessenen oder abgeschaetzten Dauer jeden Bits einer Uebertragung in der Form: Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd Note: Startbit | Bit 0 | Bit 1 | ... Bit 6 | Bit 7 | Stoppbit | Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd Note: Die Dauer des Stoppbits wird bis zum Ende des aktuellen Tests oder zum Auftreten der nachsten fallenden Flanke auf RS232_TXD gemessen Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd Note: -------------------------------------------------------------------------------- Time: 0 ps  Iteration: 0  Process: /ArmRS232Interface_tb/tb  File: /home/tu-berlin.de/j.t.leh/irb-ubuntu/Desktop/TU Berlin/HWPTI/src/ArmRS232Interface_tb.vhd FATAL_ERROR: Iteration limit 10000 is reached. Possible zero delay oscillation detected where simulation time can not advance. Please check your source code. Note that the iteration limit can be changed using switch -maxdeltaid. Time: 0 ps  Iteration: 10000",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077369",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-05T16:16:31+02:00",
+                                    "Content": "Hallo, das liegt daran, dass ihr den ArmWaitStateGenAsync (leicht) falsch verwendet.  Der Output WSG_WAIT von diesem Modul hängt nämlich direkt (also ohne Speicher dazwischen) vom Input WSG_START ab (siehe Zeile 30 in ArmWaitStateGenAsync.vhd). In eurem Code macht ihr nun den Input WSG_START vom Output WSG_WAIT direkt anhängig. Dadurch entsteht eine sogenannte kombinatorische Schleife (a hängt von b ab, aber b häng auch von a ab). Der Simulator kann diese nicht simulieren und bricht deshalb ab.  Um dies zu beheben, müsstet ihr die direkte Abhängigkeit umgehen, z.B. indem ihr das WSG_START erst einen Takt später ändert.  Viele Grüße Jan",
+                                    "Response to": "p1077296"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Blatt5 Theorie",
+                            "Discussion_Id": "598876",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076915",
+                                    "Author": "Jalaa Sadi",
+                                    "DateTime": "2024-06-04T14:28:12+02:00",
+                                    "Content": "Guten Tag ,  bei zweiter  Frage in Theorie , die sagte, welche arten von Slack bei Taktversatz gibt, konnte mit der gegeben Quellen keine Info finden, habe danach im Internet gesucht und bin verwirrt welche die richtige begriffe sind , einmal habe ich 3 arten gefunden und zwar Positive slack , Negative Slack und Zero Slack, und in anderer Quelle habe ich zwar arten gefunden und zwar Hold Slack und Setup Slack . also welche is die richtige in diesem Fall ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076948",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-04T15:26:57+02:00",
+                                    "Content": "Hallo, Ja, es gibt verschiedene Arten von Slack. Diese sind üblicherweise Setup und Hold Slack.  Slack kann als Zahlenwert außerdem entweder positiv oder negativ sein. Für weitere Informationen zu Skew und Slack, würde ich euch raten, folgende Xilinx Dokumente zu verwenden: UG949: https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_1/ug949-vivado-design-methodology.pdf  UG472: https://docs.amd.com/v/u/en-US/ug472_7Series_Clocking Viele Grüße Jan",
+                                    "Response to": "p1076915"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Blatt 4 Aufgabe 1: Waveform",
+                            "Discussion_Id": "598846",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076879",
+                                    "Author": "Elena Julia Gandert",
+                                    "DateTime": "2024-06-04T13:27:36+02:00",
+                                    "Content": "Hallo, muss bei Blatt 4 Aufgabe 1 in der Waveform das Signal `shift_reg` enthalten sein? Also muss ich es in der Testbench als Signal implementieren? Ich schätze nein, weil es kein Port des Schieberegisters ist. Allerdings ist es in der Abbildung enthalten.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076904",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-06-04T14:05:29+02:00",
+                                    "Content": "Hallo,  Das Signal muss nicht in der Waveform enthalten sein und auch nicht anderweitig implementiert werden. Es dient lediglich als Referenz (über den internen Zustand einer möglichen Implementierung) und ist nicht notwendigerweise in eurer Implementierung so enthalten.  Viele Grüße Jan",
+                                    "Response to": "p1076879"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Weitere Bibliotheken einbinden",
+                            "Discussion_Id": "598303",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076094",
+                                    "Author": "Robert Apitius",
+                                    "DateTime": "2024-06-02T12:05:56+02:00",
+                                    "Content": "Ist es erlaubt für das Lösen der Aufgaben weitere Bibliotheken einzubinden? z.B. bei PISOShiftReg.vhd ist nur ieee.std_logic_1164.all eingebunden. Darf ieee.numeric_std.all eingebunden werden?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zu Blatt 3 Aufgabe 2",
+                            "Discussion_Id": "597063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074237",
+                                    "Author": "Robert Apitius",
+                                    "DateTime": "2024-05-27T15:32:33+02:00",
+                                    "Content": "Ich habe schon sehr viel Zeit in die zweite Aufgabe gesteckt und meinen Code mehrfach komplett geändert, aber leider komme ich nicht wirklich weiter.  Die Testbench wirft bei Testcases 0 - 7 jeweils 4 Fehler. Ich habe mir die Signale angeschaut und verstehe nicht wo mein Fehler liegen soll  Note: Testcase 1: word (        Wortzugriffe                                                                            ) Note: Datenbus-Datenausgang des Speichers und Referenzspeicher stimmen nicht ueberein. Note: Adresse: 0 und Testcase word Note: Erwartetes Datum:         10110001011000101100101000000000 Note: gelesenes Datum:  UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU Note: Instruktionsbus-Datenausgang des Speichers und Referenzspeicher stimmen nicht ueberein. Note: Adresse: 0 und Testcase word Note: Erwartetes Datum:         10110001011000101100101000000000 Note: gelesenes Datum:  UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU Note: Datenbus-Datenausgang des Speichers und Referenzspeicher stimmen nicht ueberein. Note: Adresse: 0 und Testcase word Note: Erwartetes Datum:         10110001011000101100101000000000 Note: gelesenes Datum:  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Note: Instruktionsbus-Datenausgang des Speichers und Referenzspeicher stimmen nicht ueberein. Note: Adresse: 0 und Testcase word Note: Erwartetes Datum:         10110001011000101100101000000000 Note: gelesenes Datum:  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Error: Fehler in Testcase 1 Note: Fehler in Testcase 1  Bei Testcase 10 ist mir auch unklar, warum angeblich Schreibzugriffe trotz deaktiviertem enable Signal durchgehen. Die Testbench von Aufgabe 1 hat keinerlei Fehler angezeigt.  Note: Testcase 10: Schreiben in die jeweils unterste Zelle jeder Speicherzeile (Adressen 0 und 2048) bei deaktiviertem ENABLE-Signal mit allen moeglichen Zugriffsarten (Wort, Halbwort_0, ...) Note: Die Schreibzugriffe duerfen keine Wirkung haben. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Note: Unerwarteter Schreibzugriff, DDE wird nicht korrekt ausgewertet oder DnRW falsch interpretiert fuer die obere Speicherhaelfte. Error: Fehler in Testcase 10 Note: Fehler in Testcase 10  Komischerweise läuft die Testbench auch nicht mehr bis zum Ende durch. Die Tabelle am Ende mit den erzielten Punkten fehlt. Was mache ich falsch?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074273",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-27T16:20:49+02:00",
+                                    "Content": "Hallo,  es sieht so auf, als würdest du den Eingang DDE (also den Enable-Eingang vom Datenbus) nicht korrekt beachten. Du sollst bei deaktiviertem Enable, keinerlei Operationen durchführen und ein hochohmiges Signal an den Ausgängen anlegen.  Wenn du deinen Code in dein Repo pushst, kann ich auch mal einen Blick drauf werfen ;)  Viele Grüße Jan",
+                                    "Response to": "p1074237"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenblatt 3 fehlende Quelle",
+                            "Discussion_Id": "595466",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071799",
+                                    "Author": "Robert Apitius",
+                                    "DateTime": "2024-05-20T17:53:31+02:00",
+                                    "Content": "In der Vorbereitung unseres Vortrags ist uns aufgefallen, dass im Aufgabenblatt 3 etwas von einer Quelle \"Dokumentation Anforderungen an Arbeitsspeicher und Speicheranbindung\" steht, die als Handout verfügbar sein soll. Muss diese vielleicht noch freigeschaltet werden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071810",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-20T18:47:08+02:00",
+                                    "Content": "Hallo, vielen Dank für den Hinweis. Ich habe das Handout jetzt freigeschaltet.",
+                                    "Response to": "p1071799"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TAR test 3 und 5 nicht erfolgreich",
+                            "Discussion_Id": "595371",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071613",
+                                    "Author": "Advait Vinod",
+                                    "DateTime": "2024-05-19T14:09:41+02:00",
+                                    "Content": "Hey,  Ich habe nicht Test 3 von ArmRedAddressTranslation_tb.vhd verstanden. Bei uns sind Test 1,2 und 4 erfolgreich, aber bei Test 3 kommt in jeder Kombination \"UUUUU\"  als physical address. Gibt die test \"UUUU\" als Eingabe ein ? oder haben wir etwas verpasst? In unsere Code haben wir keinen Fälle, wenn die Eingabe U, X oder L ist .    VG Advait ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071645",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-19T17:35:22+02:00",
+                                    "Content": "Hallo,  Der Test 3 heißt \"Test 3: Abbildung _aller_ moeglich binaeren Parameterkombinationen inkl. nicht erlaubter Modus-Codes durch die Abbildungsfunktion. Die physische Adresse muss dabei immer binaer erzeugt werden (kein X,Z,U,W,L).\" Wie aus dem Namen hervorgeht, testet dieser Test alle möglichen Parameterkombinationen, auch solche, die eigentlich ungültig sind (z.B. ungültige Modi). Hierbei muss euere Funktion immer einen validen (also bestehend aus '0' und '1') Rückgabewert liefern. Der Test 3 selber sollte allerdings keine nicht-binären Eingabewerte anlegen, diese entstehen also vermutlich in eurer Funktion, z.B., weil ihr für ungültige Modi kein Rückgabewert festlegt.  Generell setzten wir trotzdem voraus, dass egal welche Eingaben (auch 'U', 'X' etc.) eure Funktion bekommt, sie niemals einen Rückgabewert zurückgibt, der nicht ausschließlich aus '0' und '1' besteht. Diese Anforderung findet sich auch auf dem Aufgabenblatt wieder: \"Es bleibt Ihnen überlassen, welches Verhalten die Übersetzungsfunktion zeigt, wenn Kombinationen nicht genutzt sind oder „ungültige Werte“ angelegt werden. Es sollte aber für jede denkbare Kombination der Argumente ein definierter Rückgabewert (kein ’X’ oder ’U’) erzeugt werden.\"  Ich hoffe, ich konnte euch damit weiterhelfen.  Viele Grüße Jan",
+                                    "Response to": "p1071613"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe in Gitlab",
+                            "Discussion_Id": "594715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070586",
+                                    "Author": "Maxim Mjakinin",
+                                    "DateTime": "2024-05-15T16:22:52+02:00",
+                                    "Content": "Hallo, ich hätte eine Frage bezüglich der Verzeichnisstruktur in unserem Repository. Genauer gesagt würde mich interessieren, was mit 'flacher Verzeichnisstruktur im Repository' gemeint ist. Sollen sämtliche Dateien direkt im Hauptverzeichnis platziert werden, oder ist es erlaubt, Unterordner anzulegen, beispielsweise für jedes Aufgabenblatt, für eine bessere Übersichtlichkeit?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070601",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-15T16:38:29+02:00",
+                                    "Content": "Hallo, Die flache Verzeichnisstruktur bezieht sich auf Code-Abgaben. Im Endeffekt sollt ihr also die vorgegebenen VHDL-Dateien direkt bearbeiten und nicht verschieben.  Alle anderen Dateien (also Reports etc.) dürft ihr organisieren, wie ihr wollt.  Viele Grüße Jan",
+                                    "Response to": "p1070586"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Master.xdc constraint und Workflow",
+                            "Discussion_Id": "593858",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069209",
+                                    "Author": "Matin Gohar Far",
+                                    "DateTime": "2024-05-12T20:41:29+02:00",
+                                    "Content": "Hallo, muss ich eigentlich den Master.xdc constraint weiterhin für die weiteren Aufgabenblätter benutzen? Soweit ich verstanden habe, war dieser nur dazu da, um einen auf einen FPGA (Basys 3) übertragbaren Bitstream zu generieren, lasse mich hier aber gerne korrigieren. Andererseits habe ich noch eine Frage zum Workflow: Wie kann man hier eigentlich mit Git, Vivado, Remotedesktopumgebung möglichst effizient arbeiten? Ich hab die neuen Vorgaben in das Gruppenrepo gepullt, dieses Repo dann lokal in der Remotedesktopumgebung auf dem TU VPN Server geklont, die wichtigen Files extrahiert und dem Vivadoprojekt in den src-Ordner hinzugefügt und dann mit Vivado simuliert und gearbeitet. Gibt es hier einen effizienteren Weg?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Blatt 1 Aufgabe 2: Instruktionsadressregister",
+                            "Discussion_Id": "593828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069159",
+                                    "Author": "Mahmoud Ossama Hamed Elsayed",
+                                    "DateTime": "2024-05-12T15:53:53+02:00",
+                                    "Content": "Liebes HWPTI- Team,  ich wollte mal fragen, ob es da einen Weg gibt, das Output von den Testbenches zu sehen, wie wir damals in ROrg-Pr hatten. kann man da was in Terminal machen oder geht das lediglich über Vivado?   Ich sehe, beispielsweise (Siehe Screenshot) das hier und nehme mal an das es falsch ist, weiß aber nicht wo das Problem liegen könnte bzw. was ich da falsch gemacht habe. Gibt es dazu Tipps?   Meine zweite Frage wäre dann, ob man in der Datei ArmFilePaths.vhd was ändern muss.   da sieht man hier folgendes:     -- Pfad zum Testvektorverzeichnis, betriebssystem- und und Projektabhängig;  constant TESTVECTOR_FOLDER_PATH : STRING := \"/bitte/eigenen/Pfad/zu/den/Testvektoren/eintragen\"; und daher frage ich mich was mit dem Testvektorverzeichnis gemeint.   Vielen Dank im Voraus.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069176",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-12T17:54:23+02:00",
+                                    "Content": "Hallo,  den Output der Testbench siehst du in der \"Tcl Console\" nachdem du die gesamte Testbench durch einen Klick auf \"Run all\" (das blaue Play-Symbol in der oberen Toolbar) ausgeführt hast. Für eine genauere Erklärung zur Simulation mit Vivado kannst du auch nochmal in der Ankündigung nachsehen.  Ansonsten werden nur die ersten 1000 ns ausgeführt, was nicht genug ist.  Viele Grüße Jan",
+                                    "Response to": "p1069159"
+                                },
+                                {
+                                    "Message_id": "p1069178",
+                                    "Author": "Jan Caspar Marx",
+                                    "DateTime": "2024-05-12T18:00:52+02:00",
+                                    "Content": "Und zu 2.:  Die \"ArmFilePaths.vhd\"-Datei muss noch nicht abgeändert werden.",
+                                    "Response to": "p1069159"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

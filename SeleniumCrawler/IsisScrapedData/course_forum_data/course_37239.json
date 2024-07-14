@@ -1,0 +1,530 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar Quality and Usability",
+        "Course_id": "37239",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1753424",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "MAR 0.013",
+                            "Discussion_Id": "607207",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088914",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-07-11T14:17:06+02:00",
+                                    "Content": "Wir sind heute im MAR 0.013.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Link für heute",
+                            "Discussion_Id": "605519",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086530",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-07-04T12:51:41+02:00",
+                                    "Content": "Hallo zusammen, das heutige Treffen findet statt und der Link ist:  https://tu-berlin.zoom.us/j/63362949279?pwd=RUxHVXAyZERXL25jWm12d3R5cndOQT09#success  Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe zu dieser Woche und Typo in der Literaturliste",
+                            "Discussion_Id": "604710",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085389",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-07-01T14:54:47+02:00",
+                                    "Content": "Liebe alle, im Zusammenhang mit der Hausaufgabe zur aktuellen Woche (Dialogmanagement) hat sich leider ein Typo in der Literaturliste eingeschlichen. In der Aufgabenstellung wird McTear 2016, genannt. In der Literaturliste wurde diese Quelle irrtümlich als McTear 2014 bezeichnet. Die Literaturliste ist nun korrigiert. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "604219",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084644",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-28T11:39:20+02:00",
+                                    "Content": "Liebe alle, bitte füllt, wie gestern angekündigt, unsere Umfrage zur Lehrevaluation aus: https://isis.tu-berlin.de/mod/questionnaire/view.php?id=1848455  Der Link ist auch unter dem Frage/Antwort Forum auf der Kursseite zu finden. In der nächsten Woche wollen wir das als Grundlage für eine Feedbackrunde nutzen. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DPO und Overfitting",
+                            "Discussion_Id": "601198",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080303",
+                                    "Author": "Benjamin Weiss",
+                                    "DateTime": "2024-06-15T11:39:05+02:00",
+                                    "Content": "Ich schulde Euch noch einen Nachtrag. Im originalen Artikel zu DPO steht ja nichts zum overfitting. Wie Vlad präsentiert hat, gibt es bei DPO eher die Möglichkeit zum Overfitting durch das direkte Anpassen der Gewichte zu den menschlichen Präferenzen. Hier gibt es typische Ansätze mit Regulatisierung zu arbeiten. RLHF ist (da lag ich falsch) grundsätzlich von Instabilität betroffen, weniger von Overfitting.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe zur nächsten Woche ",
+                            "Discussion_Id": "601063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080119",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-14T12:03:26+02:00",
+                                    "Content": "Hallo zusammen, die Aufgabe zur nächsten Woche war mit einem falschen Start- und Abgabedatum versehen. Diese sind nun korrigiert; an der Aufgabe selber ändert sich nichts. Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Training von LLMs bei Meta",
+                            "Discussion_Id": "600972",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079977",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-13T18:44:31+02:00",
+                                    "Content": "Hier der Hinweis auf einen Blogeintrag bei Meta der gut zum Seminar passt: https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/  Viele Grüße  Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung an Raumänderung",
+                            "Discussion_Id": "599044",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077165",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-05T09:43:17+02:00",
+                                    "Content": "Guten Tag zusammen, bitte denkt daran, dass das Seminar morgen in einem anderen Raum und Gebäude stattfindet. Wir sind im Raum H 0111 (Hauptgebäude). Viele Grüße Stefan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PDF mit LLM Ausgaben",
+                            "Discussion_Id": "597971",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075590",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-30T16:53:26+02:00",
+                                    "Content": "Ein PDF mit den Ausgaben der LLMs zur RNN-Hausaufgabe ist jetzt in der entsprechenden (also aktuellen) Woche hochgeladen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hinweise zu den Hausaufgaben und Ausarbeitungen",
+                            "Discussion_Id": "594777",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070675",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-15T20:16:17+02:00",
+                                    "Content": "Guten Abend, die Vortragenden müssen die Hausaufgaben zu dem Termin ihres Vortrags nicht abgeben, die Punkte für die Hausaufgabe erhalten die Vortragenden automatisch, wenn der Vortrag gehalten wird. Die Ausarbeitung zu dem eigenen Vortrag muss erst _nach_ dem Halten des Vortrags abgegeben werden - spätestens bis zum 31.07.2024. Meine Empfehlung ist, die Ausarbeitung zeitnah nach dem Vortrag anzufertigen, wenn Sie jeweils noch gut im Thema stecken. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderungen",
+                            "Discussion_Id": "594410",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070096",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-14T16:09:20+02:00",
+                                    "Content": "Liebe alle, das TEL Gebäude bleibt bis mindestens Oktober geschlossen. Alle Termine finden daher im MAR-Gebäude statt. Im Juli jedoch nicht im gewohnten Raum, daher gibt die Thementabelle nun auch die Information, in welchem Raum wir zu einem Termin sind. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage zur Nutzung von KI-Tools durch die Uni Magdeburg",
+                            "Discussion_Id": "592075",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066389",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-03T13:00:11+02:00",
+                                    "Content": "Liebe Studierende, Dokoranden, Mitarbeitende, die zunehmende Nutzung von Künstlicher Intelligenz (KI) – insbesondere Generativer Künstlicher Intelligenz (GenKI) wie ChatGPT, Midjourney, Bard und anderen – verändert unsere Denk- und Arbeitsgewohnheiten, besonders in der höheren Bildung. Wir, ein internationales Forscher:innen-Team möchten gerne Ihre Einstellungen zur Integration von GenKI-Tools und -Anwendungen in Ihr akademisches Lernen kennenlernen. GenKI-Anwendungen ermöglichen natürliche Konversationen zwischen Menschen und Maschinen und bieten intelligente Funktionen wie Antworten auf Fragen, Textkritik, Schlussfolgerungen und Programmplanung. Ihre Benutzerfreundlichkeit bietet vielfältige Lernmöglichkeiten mit großem pädagogischem Potenzial. Wir würden uns freuen, wenn Sie sich einige Minuten Zeit nehmen könnten (ungefähr 10 Minuten), um an unserer Umfrage teilzunehmen. Ihre Meinung ist wichtig und hilft uns, den Beitrag von GenKI zum akademischen Lernen besser zu verstehen. Die Umfrage ist anonym, und Ihre Daten werden vertraulich behandelt. Die gesammelten Informationen werden in anonymisierter Form auf einem passwortgeschützten Computer gespeichert und nur für Forschungszwecke verwendet. Hier der Link zur Studie: https://befragungen.ovgu.de/GenAI/",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe von Vortragsfolien und Ausarbeitungen",
+                            "Discussion_Id": "591950",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066203",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-03T08:38:15+02:00",
+                                    "Content": "Guten Morgen, unter der Tabelle mit der Themenübersicht sind nun zwei Aufgaben freigeschalten. # Abgabe der Folien Hierüber sollen nach dem eigenen Vortrag die Folien als PDF-Datei abgegeben werden. Falls Sie weiteres Material haben, dann geben Sie uns bitte Bescheid. # Abgabe der Ausarbeitung zum eigenen Vortrag Hierüber wird die Ausarbeitung abgegeben. In der Aufgabenbeschreibung finden Sie Hinweise zur Länge als auch das Template (Word-kompatibel, LaTeX), das verwendet werden muss sowie den Link zu einem Dokument, das hilfreiche Hinweise zum Anfertigen von schriftlichen wissenschaftlichen Arbeiten gibt. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übersicht zu den Vorträgen",
+                            "Discussion_Id": "591889",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066107",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-02T20:31:39+02:00",
+                                    "Content": "Guten Abend, Die Tabelle mit der Vortragsübersicht im Abschnitt Allgemeines zeigt nun die Zuordnung der Themen zu Personen. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literatur und Aufgabe für den nächsten Termin in 2 Wochen",
+                            "Discussion_Id": "591832",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066006",
+                                    "Author": "Benjamin Weiss",
+                                    "DateTime": "2024-05-02T17:07:25+02:00",
+                                    "Content": "... sind freigeschaltet. Falls Probleme auftreten, bitte direkt melden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnis der Themenverteilung",
+                            "Discussion_Id": "591013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064771",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-29T21:21:07+02:00",
+                                    "Content": "Guten Abend, das Ergebnis der Themenverteilung ist nun veröffentlicht.  Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frist für Themenwahl verlängert",
+                            "Discussion_Id": "590579",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064108",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-29T08:27:01+02:00",
+                                    "Content": "Die Frist für die Angabe der Präferenzen für Themen wurde auf heute um 14 Uhr verlängert. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldefrist",
+                            "Discussion_Id": "590388",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063792",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-27T06:38:53+02:00",
+                                    "Content": "Hallo zusammen, die Anmeldefrist in MOSES ist nun auf den 30.04. korrigiertet. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung in MTS",
+                            "Discussion_Id": "590128",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063415",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-26T11:13:33+02:00",
+                                    "Content": "Guten Tag, das Modul ist in der Prüfungsanmeldung unter dem Namen \"Quality & Usability\" zu finden. Es ist wichtig \"&\" anstatt von \"und\" einzutippen.  Für den Abgleich, die Modul ID lautet #40661. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themenwahl und Hausaufgaben",
+                            "Discussion_Id": "590005",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063248",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-25T21:16:29+02:00",
+                                    "Content": "Hallo, die Themenwahl, basierend auf der Angabe von Präferenzen bis Sonntag 23:59 Uhr, ist nun für alle zugelassenen Teilnehmenden verfügbar. Wann die Präferenzen im Abstimmungszeitraum angegeben werden, spielt keine Rolle in der Auswertung. Auch die Hausaufgaben zur nächsten Woche sind nun freigeschaltet. Es gibt zwei Gruppen (Gruppe A und B) zu denen Sie zufällig zugeordnet wurden. Jede Gruppe liest Literatur zu einem der beiden Vortragsthemen. Sämtliche genannte Literatur ist im Abschnitt \"Literatur\" des Kurses, über die Wochenabschnitten, zu finden. Generell gilt, zu Terminen, an denen man seinen eigenen Vortrag hält, erhält man auch automatisch die volle Bewertung für die Hausaufgabe nach dem Vortrag. Beste Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mitteilung der Teilnahme",
+                            "Discussion_Id": "589276",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062141",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-24T11:09:53+02:00",
+                                    "Content": "Lieber alle, Yasmin Hillebrenner hat vor alle, die sich bei ihr oder über den Metakurs gemeldet hatten, über die Zulassung zum Seminar bzw. das Platzieren auf der Warteliste per E-Mail informiert.  Alle, die für das Seminar angenommen wurden, sollten auch den Text \"Wenn Sie diesen Text sehen, dann haben Sie einen Platz in dem Seminar erhalten.\" unter dem Punkt Allgemeines sehen. Falls nicht, dann bitte bei mir oder Benjamin Weiss melden, um sicherzustellen, dass die Übernahme der Zuteilung in den ISIS Kurs für alle geklappt hat. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme von Studierenden in Bachelorstudiengängen",
+                            "Discussion_Id": "586960",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058453",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-17T15:34:38+02:00",
+                                    "Content": "Guten Tag, in den ISIS-Kurs sind mittlerweile 36 Studierende eingetragen. Die maximale Teilnehmeranzahl ist 22 Personen. Um ggf. die Situation schneller zu klären, an dieser Stelle nochmal der Hinweis, dass alle Plätze für Bachlorstudierende bereits über den Meta-Kurs für Seminare und Praktika vergeben wurden. Dies war und ist das vorgegebene Verfahren. Bachelorstudierende, die nicht bereits in der Meta-Kurs-Verteilung angemeldet sind, können also nicht mehr für das Seminar zugelassen werden. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Student Initiative Promotion",
+                            "Discussion_Id": "586022",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057138",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-15T14:46:37+02:00",
+                                    "Content": "Liebe alle, im Folgenden die Einladung einer Studierendeninitiative zu einer Vortragsreihe mit interessanten Sprecher:innen im Bereich generative KI und Large Language Models. ####################### Are you interested in Gen AI or LLMs? Then [BLISS](https://bliss.berlin) is the place for you! We are a student initiative that organizes events like talks, reading groups and hackathons. Register for the following FREE events: [Speaker Series with Google DeepMind & Microsoft Research](https://www.meetup.com/bliss-speaker-series/) [Hackathon@Google on 22th of May](https://www.eventbrite.com/e/blissathon-2024-google-tickets-861729434937?aff=courses)  #####################",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung",
+                            "Discussion_Id": "585972",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057062",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-15T13:33:29+02:00",
+                                    "Content": "Liebe Interessierte an diesem Seminar, das TEL Gebäude ist bis auf Weiteres geschlossen. Deshalb findet die Veranstaltung bis auf weiteres im Raum MAR 0.015 (in der Marchstraße) statt. Viele Grüße Stefan Hillmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Frage & Antwort",
+                    "Forum_id": "1753426",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "04.07 Passwort ",
+                            "Discussion_Id": "605546",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086570",
+                                    "Author": "Marla Huxhold",
+                                    "DateTime": "2024-07-04T14:19:18+02:00",
+                                    "Content": "Hallo, Ich kann leider dem Meeting nicht beitreten, da mir das Passwort fehlt.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086576",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-07-04T14:36:19+02:00",
+                                    "Content": "Das Kennwort ist  906886",
+                                    "Response to": "p1086570"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "04.07_online_Zoomlink",
+                            "Discussion_Id": "605396",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086357",
+                                    "Author": "Leon Josef Bechen",
+                                    "DateTime": "2024-07-03T23:09:38+02:00",
+                                    "Content": "In den Terminen steht, dass das morgige Treffen online stattfindet. Bekommen wir dazu morgen einen Zoom link oder findet das Treffen doch anwesend statt ? LG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe zum 06.06.",
+                            "Discussion_Id": "597969",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075587",
+                                    "Author": "Margarita Bilyarchyk",
+                                    "DateTime": "2024-05-30T16:48:42+02:00",
+                                    "Content": "Hallo Stefan, stimmt es, dass wir Kapitel 11 „Fine-Tuning and Masked Language Models“ von Jurafsky und Martin bearbeiten sollen? Von der Überschrift der Hausaufgabe her hätte ich Kapitel 10 „Transformers and Large Language Models“ erwartet und wollte sicherheitshalber nachfragen :) Vielen Dank im Voraus für deine Rückmeldung!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075605",
+                                    "Author": "Benjamin Weiss",
+                                    "DateTime": "2024-05-30T17:27:48+02:00",
+                                    "Content": "Danke für die nachvollziehbare Frage. Die Hausaufgabe bezieht sich tatsächlich auf die Kap. 11.2/11.3. Hier geht es ja noch nicht um Finetuning im Detail, sondern die Architektur und Training von bi-direktionalen Encodern und um Contextual Embeddings. Viele Grüße, Benjamin",
+                                    "Response to": "p1075587"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literatur 1. Hausaufgabe ",
+                            "Discussion_Id": "591901",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066125",
+                                    "Author": "Margarita Bilyarchyk",
+                                    "DateTime": "2024-05-02T21:37:42+02:00",
+                                    "Content": "Guten Abend, ich finde die Literatur „McTear et al. 2016, Kapitel 3 Toward a Technology of Conversation“ nicht im Isis-Kurs. Sollte diese extern besorgt werden?  (Ich muss die Hausaufgabe aufgrund meines Nachrückens von der Warteliste nachreichen.)  Vielen Dank im Voraus für eure Hilfe! MfG, Margarita",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066189",
+                                    "Author": "Benjamin Weiss",
+                                    "DateTime": "2024-05-03T07:51:27+02:00",
+                                    "Content": "Hallo Margarita, danke für den Hinweis. Es geht um McTear et al. 2014. Ich habe den Hinweis korrigiert. Viele Grüße, Benjamin",
+                                    "Response to": "p1066125"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "In welcher Woche ist der Vortrag \"Large Language Models - Retrieval Augmented Generation\" ",
+                            "Discussion_Id": "591864",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066060",
+                                    "Author": "Jennifer Franziska Gaertig",
+                                    "DateTime": "2024-05-02T18:36:03+02:00",
+                                    "Content": "Guten Tag,  ich wurde für das Thema \"Large Language Models - Retrieval Augmented Generation\" zugeordnet. Ich wollte fragen, in welcher Woche ich mit meinem Vortrag dran bin. Vielen Dank.  Viele Grüße, Jennifer Gaertig",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066099",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-02T20:10:55+02:00",
+                                    "Content": "Das Thema ist für den 18. Juli vorgesehen.",
+                                    "Response to": "p1066060"
+                                },
+                                {
+                                    "Message_id": "p1066188",
+                                    "Author": "Benjamin Weiss",
+                                    "DateTime": "2024-05-03T07:49:19+02:00",
+                                    "Content": "Hallo Jennifer, das ist der 18.7., Vortrag A. Viele Grüße, Benjamin",
+                                    "Response to": "p1066060"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literatur und Aufgabe für den nächsten Termin in 2 Wochen nicht einsehbar",
+                            "Discussion_Id": "591859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066053",
+                                    "Author": "Jennifer Franziska Gaertig",
+                                    "DateTime": "2024-05-02T18:21:19+02:00",
+                                    "Content": "Leider kann ich die Literatur und Aufgabe für den nächsten Termin in 2 Wochen nicht einsehen. Viele Grüße, Jennifer",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066097",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-05-02T20:09:18+02:00",
+                                    "Content": "Nun sollte es gehen. Viele Grüße Stefan",
+                                    "Response to": "p1066053"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Formale Vorgaben für Zusammenfassungen und Kennzeichnung KI Einsatz",
+                            "Discussion_Id": "591024",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064787",
+                                    "Author": "Tobias Gerd Hermann Schulz",
+                                    "DateTime": "2024-04-29T22:36:31+02:00",
+                                    "Content": "Hallo, ich habe zwei Fragen: Gibt es formale Vorgaben für die Abgabe der Zusammenfassungen? Wenn ja wo finde ich diese bzw. wie lauten sie? In der Aufgabenstellung zur ersten Zusammenfassung ist der Einsatz von KI zur Zusammenfassung als Möglichkeit genannt. Wie müssen wir die Nutzung kennzeichnen?  Danke für die Infos.  Viele Grüße Tobias Schulz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064824",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-30T08:11:57+02:00",
+                                    "Content": "Hallo,  zu 1) als formale Vorgabe ist die maximale Länge in Zeichen angegeben. Abgegeben wird über die Eingab in das Textfeld in ISIS. Die vorgeben Länge entspricht wenigen Sätzen, daher ist keine formale Struktur vorgegeben.  zu 2) Es muss angegeben werden welches Werkzeug in welcher Version und auf Basis welches Foundation Model verwendet wurde.  Viele Grüße Stefan Hillmann",
+                                    "Response to": "p1064787"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themenpräferenzwahl nicht auffindbar.",
+                            "Discussion_Id": "589057",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061772",
+                                    "Author": "Leon Josef Bechen",
+                                    "DateTime": "2024-04-23T17:26:37+02:00",
+                                    "Content": "Wir hatten letzte Woche ja besprochen, dass Sie eine Umfrage starten wollen um die präferierten Themen aller Studenten zu sammeln und zuzuordnen. Ich wollte nur nochmal fragen wann Sie die freischalten weil ich es so verstanden hatte, dass wir diese Angaben bis zum Termin diese Woche abgeben sollen.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061960",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-24T07:54:27+02:00",
+                                    "Content": "Hallo,  heute Vormittag werden die Registrierungen priorisiert. Danach werden alle, die sich bei Frau Hillerbrenner gemeldet hatten über die Teilnahme bzw. die Aufnahme in die Warteliste informiert. Im Anschluss daran werden wir dann die Themenpräferenzenabfrage freischalten.  Viele Grüße Stefan Hillmann",
+                                    "Response to": "p1061772"
+                                },
+                                {
+                                    "Message_id": "p1062035",
+                                    "Author": "Tobias Gerd Hermann Schulz",
+                                    "DateTime": "2024-04-24T09:59:58+02:00",
+                                    "Content": "Hallo Herr Hillmann,  mussten sich auch die Bachelorstudierenden, die über die Meta-Seite für das Modul ausgewählt wurden, bei Frau Hillerbrenner melden?  Viele Grüße Tobias Schulz",
+                                    "Response to": "p1061960"
+                                },
+                                {
+                                    "Message_id": "p1062064",
+                                    "Author": "Benjamin Weiss",
+                                    "DateTime": "2024-04-24T10:15:39+02:00",
+                                    "Content": "Nein Wenn Ihr als Ba-Studenten doch nicht teilnehmen möchtet, bitte Nachricht an uns und Fr. Hillebrenner.  Grüße, Benjamin",
+                                    "Response to": "p1062035"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme zum Einführungstermin verpflichtend?",
+                            "Discussion_Id": "586862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058317",
+                                    "Author": "Theodor Hagen",
+                                    "DateTime": "2024-04-17T13:20:00+02:00",
+                                    "Content": "Hallo an alle, ich habe das Problem, dass sich die Einführungsveranstaltungen von meinem Seminar und meinem Programmierpraktikum genau überschneiden (18.4 14-16 Uhr). Das Kick-off Meeting meines Programmierpraktikums ist dabei verpflichtend. Ist das bei dem Seminar auch der Fall? Wie schlimm wäre es den ersten Termin zu verpassen? Kann man das nur mit den Folien wieder aufarbeiten? Echt blöde Situation, dass die mir zugewiesenen Veranstaltungen sich überschneiden. Die Überschneidung ist auch nur diesen Donnerstag einmalig. Beste Grüße, Theodor Hagen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058442",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-04-17T15:28:12+02:00",
+                                    "Content": "Hallo, ich habe Ihnen per Mail geantwortet. Viele Grüße Stefan Hillmann",
+                                    "Response to": "p1058317"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

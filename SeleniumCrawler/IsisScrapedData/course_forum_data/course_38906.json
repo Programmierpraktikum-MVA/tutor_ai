@@ -1,0 +1,135 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Current trends in graph theory and combinatorics",
+        "Course_id": "38906",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1809096",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentations",
+                            "Discussion_Id": "606602",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088066",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-09T13:22:51+02:00",
+                                    "Content": "Dear all,  the presentations will take place on next tuesday, 16.07.2024. We will start at 10:00 in MAR 0.010. We will have to switch rooms to FH 313 at 12:00 and to FH 315 at 14:00. There will presumably be six presentations in total, 45 minutes each.  Best regards, GTC-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic matching",
+                            "Discussion_Id": "593585",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068777",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-05-10T11:00:57+02:00",
+                                    "Content": "Dear all,   a file stating the selected paper for each participant is now available on ISIS. You can already start to read your paper and shortly we will assign an advisor to each of you and provide further information.  Best regards, The GTC-Team",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070054",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-05-14T15:25:42+02:00",
+                                    "Content": "Hello all, we have now assigned the advisors to your projects.  \"Shrub-Depth\", \"MSO1 Model-Checking on bounded shrub-depth\" and \"Lacon, Shrub, and Parity Decompositions\" will be advised by Johannes( j.schroeder.1@tu-berlin.de ).  \"Introduction to Sparsity\", \"Deciding First-Order Properties of Locally Tree-Decomposable Structures\" and \"Sparse Model Checking\" will be advised by Amelie( a.heindl@tu-berlin.de ).  \"Elementary FO model checking\" and \"Flipper Games\" will be advised by Dario ( d.cavallaro@tu-berlin.de ),  \"Combinatorial and Algorihmic Aspects of Monadic Stability\" and \"Stable Model-Checking\" will be advised by Prof. Kreutzer ( stephan.kreutzer@tu-berlin.de ).  If you have any question regarding your paper feel free to contact your advisor. Registration for the exam will open shortly and will close a week before the submission of your writing assignment(28.06.24)  Kind regards,  The GTC-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline for topic submission: Reminder",
+                            "Discussion_Id": "592956",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067794",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-05-07T13:53:30+02:00",
+                                    "Content": "Hello everyone, this is a quick reminder that the deadline to submit three topics, that you would like to work on, is this evening. You can do so by writing an E-mail with those topics to \"stephan.kreutzer@tu-berlin.de\". You do not have to register on Moses yet. This will be done later in the semester. Cheers Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deciding on Seminar Topics",
+                            "Discussion_Id": "591274",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065147",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-04-30T15:08:45+02:00",
+                                    "Content": "Dear all, if you want to participate in the seminar, please send the topics/papers you want to work on to Professor Kreutzer (stephan.kreutzer@tu-berlin.de) until next tuesday, 07.05.2024. Please give at least three papers. By the end of next week, we will publish the result of the student-paper-matching and further informations. Best  regards, Amelie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Meeting and Seminar Topics",
+                            "Discussion_Id": "590310",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063681",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-04-26T17:15:14+02:00",
+                                    "Content": "Dear all,  a list with topics and papers is now available on ISIS. The first meeting on April 30th will take place in FH 314.  In this meeting, you can decide on preferences about which topic you would like to work on.  Note: some of the papers are quite long and deciding on a paper does not mean that the whole paper has to be worked on  See you on Tuesday, Amelie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schedule updated",
+                            "Discussion_Id": "587224",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058843",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-04-18T10:57:43+02:00",
+                                    "Content": "Hello everyone, we just updated the schedule on the site. The introductory meeting will be on April 30 at 2 pm. Prof Kreutzer will upload the topics for the seminar tomorrow. See you on April 30 Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion and Questions",
+                    "Forum_id": "1809208",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Daten für den Kurs",
+                            "Discussion_Id": "586832",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058271",
+                                    "Author": "Florentine Jutta Seuffert",
+                                    "DateTime": "2024-04-17T12:22:03+02:00",
+                                    "Content": "Hallo, ich benötige die Infos dazu wann der Kurs stattfindet. Wann können wir denn damit rechnen? Ich bin in meinem letzten Semester und müsste ein Alternativmodul belegen falls es zeitlich nicht klappt mit diesem Kurs. Das ist der Hintergrund, warum es wirklich wichtig ist bald Bescheid zu wissen. Vielen Dank und liebe Grüße Florentine",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "modul as a nebenfach",
+                            "Discussion_Id": "586491",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057821",
+                                    "Author": "Anna Sergeeva",
+                                    "DateTime": "2024-04-16T16:15:24+02:00",
+                                    "Content": "hello, im studying BSc. Mathematik. Can I take this seminar as a module in my Informatik Nebenfach?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

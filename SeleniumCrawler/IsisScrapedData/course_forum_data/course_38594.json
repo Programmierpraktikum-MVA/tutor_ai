@@ -1,0 +1,185 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Vorlesung Festkörperphysik II",
+        "Course_id": "38594",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1796767",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Nächste Übung am 4.7.: Vortrag Laserdioden",
+                            "Discussion_Id": "605351",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086285",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-07-03T18:02:58+02:00",
+                                    "Content": "Liebe Studierende, morgen (4.7.) findet um 10:15 der Vortrag zum Thema LEDs im EW561 (und hybrid via Zoom) statt. Viele Grüße, Tim p.s.: Vergesst wieder nicht, euch während des Vortrags Fragen zu notieren - die Leute im Zoom dürfen wieder zuerst anfangen ;-)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laborführung CV und LED am Do, 27.6. ab 10:15",
+                            "Discussion_Id": "603849",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084117",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-06-26T17:10:21+02:00",
+                                    "Content": "Hallo, morgen finden um 10:15 die Laborführungen CV und LEDs statt. Treffpunkt ist wie üblich der EW561. Viele Grüße   Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Übung 20.6. (heute): Vortrag LEDs",
+                            "Discussion_Id": "602265",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081812",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-06-20T08:02:00+02:00",
+                                    "Content": "Liebe Studierenden,  heute (20.6.) findet um 10:15 der Vortrag zum Thema LEDs im EW561 (und hybrid via Zoom) statt.  Viele Grüße und bis nachher!  Tim p.s.: Vergesst nicht, euch wärend des Vortrags Fragen zu notieren - die Leute im Zoom dürfen heute zuerst anfangen ;-)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation zur VL FKP II im SoSe 2024",
+                            "Discussion_Id": "600795",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079727",
+                                    "Author": "Michael Kneissl",
+                                    "DateTime": "2024-06-13T10:19:06+02:00",
+                                    "Content": "Liebe Studierende, vom 17.06. bis 29.06.2024 findet für das Sommersemester 2024 wieder die anonyme Lehrevaluation für die Vorlesung statt. Anbei der Link zum Fragebogen für die Lehrveranstaltung Festkörperphysik II (Vorlesung): https://befragung.tu-berlin.de/evasys/online.php?pswd=6GGSR Viele Grüße, Michael Kneissl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Übung 13.6.: Vortrag CV",
+                            "Discussion_Id": "600738",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079644",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-06-13T00:21:55+02:00",
+                                    "Content": "Liebe Studierenden,  am Donnerstag, 13.6. um 10:15 (also heute) findet die nächste Festkörperphysik Übung im EW561 mit dem Vortrag zum Thema CV-Messungen statt.  Der Vortrag ist auch hybrid per Zoom verfügbar (link ist unten zu finden)  Viele Grüße   Tim  https://tu-berlin.zoom.us/j/68906202100?pwd=d3pwbXIyMVNUVWcxdWVaMXhtdW9YQT09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine FKÜ heute, nächster Termin 13.6.,10:15",
+                            "Discussion_Id": "599317",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077550",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-06-06T09:41:32+02:00",
+                                    "Content": "Hallo, wie letzte Woche besprochen findet heute keine FKÜ statt! Der nächst Termin ist nächste Woche Donnerstag, 13.6. um 10:15 im EW561 und online über zoom.  Viele Grüße  Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung FKP II (ab Dienstag online)",
+                            "Discussion_Id": "597938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075540",
+                                    "Author": "Michael Kneissl",
+                                    "DateTime": "2024-05-30T15:24:48+02:00",
+                                    "Content": "Hallo,  Patrick Vogt wird kommenden Dienstag (4.6.) das Kapitel Oberflächen übernehmen. Da er momentan außerhalb von Berlin tätig ist, wird dieses Kapitel nur online über Zoom angeboten. Ab Kapitel Magnetische Eigenschaften wird Norbert Nickel die VL übernehmen und wie gewohnt live in EW 202 (und über Zoom) fortführen.  Viele Grüße,  Michael Kneissl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "FKÜ heute: Laborführung PL, Treffpunkt EW561",
+                            "Discussion_Id": "597818",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075365",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-05-30T09:14:16+02:00",
+                                    "Content": "Hallo,  wie letzte Woche angekündigt findet heute die FKÜ PL-Laborführung statt. Treffpunkt ist der EW561. Gruppe 1: 10:15 Uhr Gruppe 2: 10:45 Uhr  Viele Grüße  Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "FKÜ Donnerstag, 23.5., 10:15, EW209",
+                            "Discussion_Id": "596037",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072639",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-05-22T15:14:43+02:00",
+                                    "Content": "Liebe Studierenden, die FKÜ findet morgen (Donnerstag, 23.5.), 10:15, im EW209 statt. Es gibt den Vortag zum Thema Photolumineszenz.  Viele Grüße   Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neuer Termin | Update geplante Termine | Gruppenwahl",
+                            "Discussion_Id": "593310",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068332",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-05-08T15:23:44+02:00",
+                                    "Content": "Liebe Studierenden, wie heute besprochen, wird die Übung ab jetzt Donnerstags 10-12 Uhr stattfinden. Den Raum werde ich später bekannt geben. Die Vorträge der Übung werden auch hybrid übertragen (wobei ich die Teilnahme in Person empfehle). Der Zoom Einwahllink für die Übung ist: https://tu-berlin.zoom.us/j/68906202100?pwd=d3pwbXIyMVNUVWcxdWVaMXhtdW9YQT09 Meeting ID: 689 0620 2100 Passcode: 345870  Ich lade gleich eine neue Übersicht mit den Terminen hoch und werden außerdem die Termine bei ISIS eintragen (wenn ich es nicht vergesse). Der nächste Termin ist der Vortrag Photolumineszenz am 23.5.2024; 10:15 Uhr. Der Laborbesuch bei der PTB wird nach Smestersende stattfinden und dadurch haben sich einige Vorträge etwas verschoben. Bitte kontaktiert mich, wenn ihr Ungereimtheiten feststellt.  Da die Gruppe recht groß ist, werden wir die Laborführung in zwei Gruppen durchführen. Die Teilnehmer der ersten Gruppe starten 10:15 Uhr, die Teilnehmer der zweiten Gruppe können etwas später kommen (10:45 Uhr) - allerdings kann es sein, dass wir ein paar Minuten später starten, wenn die Laborführung der ersten Gruppe etwas länger dauert. Ich habe eine Gruppenwahl angelegt, damit ihr euch in Gruppe 1 und 2 einteilen könnt (die Gruppen sollten ungefähr gleichgroß sein). https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1830800 Viele Grüße  Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Laborbesuch 8.5./ Umfrage - FKÜ-Termin/ Vorlesung",
+                            "Discussion_Id": "591814",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065980",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-05-02T16:32:53+02:00",
+                                    "Content": "Hallo, zu Erinnerung: Am 8.5. (nächste Woche Mittwoch) schauen wir uns das Ellipsometrielabor am ISAS an. Treffpunkt ist 12:15 Uhr die Schwarzschildstr. 8 in Berlin Adlershof (Eingang vom ISAS). Falls ihr dort ankommt und niemanden findet (vielleicht seid ihr zu früh oder zu spät oder am falschen Ort), werde ich meine Büronummer auf mein Handy umleiten und ihr könnt mich unter folgender Nummer erreichen: 030/314 79705. Umfrage Übungstermin: Bisher kann ich noch keinen neuen Übungstermin verkünden, da noch nicht alle an der Umfrage teilgenommen haben und einige von euch sehr restriktiv mit ihrer Zustimmung sind. Bitte stimmt alle ab, sodass wir wirklich eine Zustimmung zum neuen Termin von allen Teilnehmenden haben! Bitte gebt so viele Zeitslots wie nur irgendwie möglich an (einige haben nur exakt einen Zeitslot angegeben, was quasi automatisch dazu führt, dass ich keinen Termin finden kann, der allen passt) - ihr solltet problemlos eure Abstimmung ändern können. Wenn ich kein OK von allen Teilnehmenden bekomme, muss ich beim alten Termin bleiben (was für mich OK ist aber den Komilitionen, die auch Festkörpertheorie hören wollen, unkollegial wäre). Teilnahme an der Vorlesung: Bei der Vorlesung sind relativ wenige von euch anwesend. Das ist natürlich grundsätzlich kein Problem und ihr habt die freie Wahl euch das Wissen aus einem Buch anzueignen - allerdings macht die Vorlesung mit mehr Teilnehmenden mehr Spaß und ihr habt (gerade in so eine kleinen Gruppe) auch die Möglichkeit dem Professor fragen zu stellen und ihr bekommt im Hinblick auf die Prüfung auch direkt vermittelt, welche Themen, Argumentationsweisen und Zusammenhänge für uns wichtig sind. Habt also keine Scheu die Vorlesung zu besuchen!  Viele Grüße  Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neuer Termin für die FKÜ?",
+                            "Discussion_Id": "588212",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060419",
+                                    "Author": "Tim Wernicke",
+                                    "DateTime": "2024-04-22T09:21:44+02:00",
+                                    "Content": "Hallo, Wie in der Einteilungsveranstaltung besprochen, wäre es für einige Teilnehmer*innen vorteilhaft die FKÜ zu verlegen. Ich habe eine Umfrage bei ISIS aufgesetzt. Bitte gebt bis Ende der Woche (26.4.2024) die Zeiten an, zu denen ihr verfügbar seid. https://isis.tu-berlin.de/mod/choice/view.php?id=1822473  Viele Grüße  Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online Zugang zur Vorlesung FKP II",
+                            "Discussion_Id": "586441",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057746",
+                                    "Author": "Michael Kneissl",
+                                    "DateTime": "2024-04-16T15:00:32+02:00",
+                                    "Content": "Liebe Studierende, leider war auf ISIS der falsche Hyperlink für den Zoom-Zugang zur Vorlesung Festkörperphysik II hinterlegt. Wir haben das jetzt korrigiert. Ab Donnerstag sollte es möglich sein der Vorlesung auch online zu folgen (wer möchte). Viele Grüße, Michael Kneissl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

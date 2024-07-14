@@ -1,0 +1,82 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Projekt Python & Akustik",
+        "Course_id": "38615",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1797818",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abschlusspräsentationen",
+                            "Discussion_Id": "606324",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087665",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-07-08T16:01:23+02:00",
+                                    "Content": "Wie gemeinsam in der letzten Woche vereinbart, finden die Abschlusspräsentationen am 15.7., ab 13.00 bis 16.00 Uhr statt und zwar im üblichen Raum HFT-TA 441. Bitte beachten Sie den Beginn eine Stunde früher als sonst, damit jede Gruppe ausreichend Zeit hat für die Vorstellung der Ergebnisse. Hinweise für die Präsentationen: Gesamtdauer pro Gruppe ca. 20 min. + Zeit für Diskussion und Fragen kurze Vorstellung der Aufgabe, der (wichtigsten) daraus abgeleiteten Anforderungen (2-3 Folien) kurze Erläuterung zur Umsetzung (Ansatz, ggf. verwendete Software etc) (1-2 Folien) kurze Vorstellung der Dokumentation (1 Folie) Demonstration und Erläuterung der Software (ca. 10 Minuten) Hinweise zur Abgabe der Ergebnisse: bis 28.7. per Email an ennes.sarradj@tu-berlin.de (gern auch früher) Anforderungsdefinition als PDF Software-Quelltext als Link zum Repo Dokumentation als PDF oder Link oder zip-File mit html in der Abgabe-Email bitte alle Gruppenmitglieder CC und eine Erklärung, wer welchen Anteil hatte für jedes Gruppenmitglied Erklärung, in welchem Studiengang und welchen Bereich das Modul eingebracht werden soll",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "GUI toolkits",
+                            "Discussion_Id": "594177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069724",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-05-13T19:10:24+02:00",
+                                    "Content": "Weil wir es noch nicht geschafft haben, bei den Präsenzterminen darüber zu sprechen: Einige Gruppen stehen vor der Aufgabe, auch eine grafische Benutzeroberfläche bereitzustellen. In Python gibt es sehr verschiedenen Möglichkeiten, das zu realisieren. native GUI toolkits (für 'standalone' Anwendungen) wie tkinter, wx oder qt Diese erlauben sehr große Freiheiten, bringen aber von Hause aus relativ wenig Funktionen mit. Je nach Anwendung kann das ein Vorteil oder ein Nachteil sein. Webtoolkits, bei denen die grafische Oberfläche im Browser dargestellt wird. Es gibt immer einen (auch lokalen) Webserver, der mindestens einen Teil der Funktionen bereitstellt (in der gleichen Art wie bei Jupyter). Diese bringen (uU viele) vorgefertigte Elemente und Funktionen mit, sind besonders komfortabel und einfach zu realisieren. Nicht vorgefertigte GUI-Elemente lassen sich nur mit höherem Aufwand realisieren. Ein modernerer Vertreter ist Panel, das ausdrücklich auf Anwendungen zur Datenanalyse zielt.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenzuordnung",
+                            "Discussion_Id": "587839",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059815",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-04-19T18:10:34+02:00",
+                                    "Content": "Nach dem Ende der Themenwahl hat nun die endgültige Verteilung auf die fünf Gruppen stattgefunden. Allen Wünschen konnte insoweit entsprochen werden, dass die 1. oder 2. gewünschte Gruppe vergeben wurde. Bitte vergewissern Sie sich, in welcher Gruppe Sie nun Mitglied sind und nehmen Sie bitte spätestens zum nächsten Veranstaltungstermin am 22.4. Kontakt mit Ihren Mitstreitern auf.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WICHITIG: Kursteilnahme und Gruppenwahl",
+                            "Discussion_Id": "586168",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057337",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-04-15T19:18:42+02:00",
+                                    "Content": "Hier sind einige Informationen zur Teilnahme am Kurs und Wahl der Gruppen, die am 15.4. in der Lehrveranstaltung bekannt gegeben wurden. Siehe auch Slides vom 15.4. 1. es können leider nur 20 Personen teilnehmen 2. Interessierte, die das Modul als Wahlpflicht belegen, haben Vorrang und können sich ab 15.4., 18 Uhr in die Wahl \"Teilnahme an einer Projektgruppe\" eintragen. Dies gilt als Anmeldung zur Portfolioprüfung, von der Sie bis spätestens 5.5. zurücktreten können. 3. Interessierte, die das Modul nicht als Wahlplicht belegen, können sich ab 17.4., 18 Uhr in die Wahl \"Teilnahme an einer Projektgruppe\" eintragen, solange noch Plätze verfügbar sind. Danach gibt es noch 5 Warteplätze, die die Möglichkeit zur Teilnahme eröffnen, sofern jemand anderes sich noch bis  5.5. sich wieder abmeldet. 4. Nach der erfolgreichen Eintragung in \"Teilnahme an einer Projektgruppe\" sollten Sie bitte bis 19.4., 18 Uhr an der Aktivität \"Wahl der Gruppenthemen\" teilnehmen und dort aus den fünf angebotenen die drei Themen markieren, die Sie persönlich favorisieren. Im Anschluss erfolgt die automatische Einteilung in die Gruppen nach einem Algorithmus der \"fairen Verteilung\". Die fünf Themen wurden gemeinsam mit allen ausgewählt, die am 15.4. in der Lehrveranstaltung dabei waren und sind in den Slides vom 15.4. noch etwas ausführlicher beschrieben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mögliche Teilnahme am Kurs",
+                            "Discussion_Id": "585025",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055691",
+                                    "Author": "Ennes Sarradj",
+                                    "DateTime": "2024-04-08T20:26:34+02:00",
+                                    "Content": "Liebe Kurs-Interessierte, bei Interesse an der Kursteilnahme bitte ich Sie, sich bis 15.4. nachmittags in die Abfrage Wahlpflicht/freie Wahl einzutragen. Danke!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

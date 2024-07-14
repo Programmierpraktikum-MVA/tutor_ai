@@ -1,0 +1,56 @@
+[
+    {
+        "Course_Name": "Ingenieurholzbau SoSe 2024",
+        "Course_id": "37475",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1760462",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "IHB diese Woche 2x Übung",
+                            "Discussion_Id": "596915",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073988",
+                                    "Author": "Cornelia Otto",
+                                    "DateTime": "2024-05-27T11:09:05+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, diese Woche haben wir Di und Do eine Übung in Ingenieurholzbau. Bitte schaut euch für morgen noch einmal die letzte UE03 an, da die UE04 sehr stark darauf aufbaut und ihr dann besser mitkommt in der Übung. Für die UE05 am Donnerstag schaut bitte einmal in das Dokument \"Grundlagen starrer Verbund\", insbesondere dann, wenn ihr hierzu in der vergangenen Woche nicht in der Vorlesung ward. Viele Grüße Cornelia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Besichtigung Holz-Hybrid-Bau (Südkreuz)",
+                            "Discussion_Id": "592166",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066531",
+                                    "Author": "Cornelia Otto",
+                                    "DateTime": "2024-05-03T16:37:43+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, am kommenden Montag 06.05.2024 - 16:00Uhr gibt es die Möglichkeit die Vattenfallzentrale (Berlin Südkreuz) zu besichtigen. Es handelt sich hierbei um einen innovativen und sehr ansprechenden Holz-Hybrid-Bau mit einigen Besonderheiten. Der Projektleiter Herr Elze vom Buro Happold wir ebenfalls dabei sein und kann sicherlich einiges Spannendes erzählen. Das Gebäude ist durchaus beeindruckend und nicht öffentlich zugänglich. Es sind noch 5 Plätze frei! Bei Interesse meldet euch bitte bis Montag Mittag über die Isis-Seite HIER dafür an. Den genauen Treffpunkt teile ich euch dann mit. Viele Grüße und ein schönes Wochenende Cornelia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Baustellenbesichtigung zum Estrel-Tower Berlin",
+                            "Discussion_Id": "591203",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065048",
+                                    "Author": "Michael Hecker",
+                                    "DateTime": "2024-04-30T13:16:51+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, im Zuge des Moduls \"Hochbau II\" findet eine Baustellenbesichtigung vom Estrel-Tower statt. Es sind noch Plätze frei, falls Ihr daran also Interesse haben solltet, meldet euch doch bitte bei Michael Hecker (michael.hecker@tu-berlin.de).  Die Besichtigung findet am 08.05.2024 statt und startet um 16 Uhr an der Baustelle in der Sonnenallee 225, 12057 Berlin. Wir haben das Glück, dass unsere Führung über die Baustelle von dem Büro \"Bollinger + Grohmann Ingenieure\" durchgeführt wird, die uns zur Tragwerksplanung aus erster Hand berichten werden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

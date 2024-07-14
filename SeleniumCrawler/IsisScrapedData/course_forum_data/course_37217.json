@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe24] Neural Information Processing Projects",
+        "Course_id": "37217",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1752661",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Poster submission deadline and additional info on poster session",
+                            "Discussion_Id": "605438",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086411",
+                                    "Author": "Lena Maria Salfenmoser",
+                                    "DateTime": "2024-07-04T09:29:39+02:00",
+                                    "Content": "The submission deadline for posters is Monday, 8th July, 12 noon. Please send a pdf file of your poster to Christoph Metzner via email (cmetzner@ni.tu-berlin.de). Posters will be printed and brought to the poster session. Posters should be A0, portrait, and there is only one poster per group. In the poster session on Wednesday, 10th July, each student will shortly present their work with the aid of the poster (roughly 4-5 minutes), followed by a short discussion.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group assignments have been uploaded",
+                            "Discussion_Id": "588844",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061438",
+                                    "Author": "Lena Maria Salfenmoser",
+                                    "DateTime": "2024-04-23T12:06:06+02:00",
+                                    "Content": "The group assignments have been uploaded. Please get in touch with your group mates and contact your supervisor in order to schedule a first meeting.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,277 @@
+[
+    {
+        "Course_Name": "Programmierpraktikum: Datensysteme (SoSe 24)",
+        "Course_id": "37355",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1756928",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Grading",
+                            "Discussion_Id": "607620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089543",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-13T11:43:30+02:00",
+                                    "Content": "Hi all, we now finalized the grading of all DAMS groups, and uploaded the results in MOSES. We're happy to announce that all groups who submitted projects passed the course. Please check your data and grade in MOSES and let us know if there are issues. The grades for D2IP groups will follow in the next weeks. We will then export this info to Qispos mid August. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "603277",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083336",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-06-25T08:54:57+02:00",
+                                    "Content": "Hi all, just as a reminder, the course evaluation is still active until June 28 and so far we only have 1 eval. https://befragung.tu-berlin.de/evasys/online.php?pswd=6T3SG So please participate (we appreciate both positive and negative feedback).  Regards, Matthias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086710",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-04T22:14:08+02:00",
+                                    "Content": "Here is the teaching evaluation: https://tubcloud.tu-berlin.de/s/KNKceWpBF9wLpX4 We'll talk about it briefly in our last lecture/project presentations.  Regards, Matthias",
+                                    "Response to": "p1083336"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PPDS Project Presentations",
+                            "Discussion_Id": "605129",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085992",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-02T21:33:37+02:00",
+                                    "Content": "Hi all,  the project presentations are coming up: Monday, July 08, 4pm (start 4.15pm) through 6.30pm in H 0111. Attendance is mandatory (your presentation is part of the grading) and all of you want to have a respectful audience. In total, we have 13 presentations of 10min each (~130min total + 5min break). In order to avoid loosing time switching teams, we use the following process.  1) Upload of Presentations: All presentations will be given from my laptop, and I bring a pointing device to advance slides. In order to prepare everything before the lecture, please upload you slides as powerpoint (PPTX) or PDF to the following nextcloud folder (with the name XX_PPDS_DAMS.* or XX_PPDS_D2IP.* where XX is your team number) by July 07 EOD:  https://tubcloud.tu-berlin.de/s/GqmsdBWCJqDk8KG  2) Ordered Seating: Furthermore, to avoid a scramble when switching teams, please follow the following seating scheme (so entire teams can stand up or sit down).  * Row 1: for teaching assistants / lecturers * Row 2: DAMS 01 (left from entry), DAMS 02 (right from entry) * Row 3: DAMS 03 (left), DAMS 04 (right) * Row 4: DAMS 05 (left), DAMS 06 (right) * Row 5: DAMS 07 (left), DAMS 08 (right) * Row 6: DAMS 09 (left), DAMS 10 (right) * Row 7: DAMS 11 (left), N/A * Row 8: D2IP 01 (left), D2IP 02 (right)  3) Presentation: You have 10min for presentation and questions. We recommend to do 8+2min but to have at least 1min for questions, I'll strictly interrupt your presentation at the 9min mark. How you split up the speaking/answering time among yourself is up to you, but it would be good if not just one team member does all the talking.  We are looking forward to your presentations.  Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next Lecture Jun 17 in EN 148",
+                            "Discussion_Id": "599705",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078100",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-06-07T18:22:05+02:00",
+                                    "Content": "Hi all, as a reminder our next PPDS lecture will take place Monday June 17, 4pm - 6pm, and I now moved it to a nicer room: EN 148. Hope to see many of you there. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next Lectures",
+                            "Discussion_Id": "596708",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073630",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-05-25T17:15:04+02:00",
+                                    "Content": "Hi all, as a reminder, there are few changes for our next two lectures. The lecture May 27 will take place only virtually because we lost our room to the Teaching Day. The lecture Jun 10 is moved to Jun 17 in order to allow again for in-person participation (as I'm at a conference in Santiago, Chile on Jun 10). I booked the room MAR 0.003 accordingly. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PPDS Instance Selection",
+                            "Discussion_Id": "588134",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060289",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-04-21T20:16:59+02:00",
+                                    "Content": "Hi all, just as a reminder the PPDS instance selection is due Apr 22 EOD (tomorrow night). Right now we have 26 responses, but there are 73 people on this ISIS course. So just in case somebody missed it, here is the link again: https://tinyurl.com/5c5cbedm  And tomorrow there will be no lecture (next one Apr 29), which gives us a chance to assign and modify the groups in the next days. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kickoff Lecture",
+                            "Discussion_Id": "585715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056677",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-04-13T22:02:17+02:00",
+                                    "Content": "Hi all, welcome to the programming practical Data Systems in the summer semester 2024. Our first lecture will take place next Monday Apr 15, 4pm c.t. (4.15pm) in H 0111. In case you can't make it, this is fine because attendance at all lectures (except the project presentations) is optional, and we also offer live streaming via zoom and upload the recorded zoom videos after lecture. https://tu-berlin.zoom.us/j/9529634787?pwd=R1ZsN1M3SC9BOU1OcFdmem9zT202UT09 Meeting ID: 952 963 4787 Passcode: 266710 At the end of the first lecture, we'll also share a link to a survey to select the course instance (DAMS or D2IP) you want to participate in by Apr 22, which is the ground truth for assigning seats. Looking forward to meeting you next Monday. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Q&A Forum",
+                    "Forum_id": "1756931",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Question regarding grades",
+                            "Discussion_Id": "607633",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089566",
+                                    "Author": "Nikolás Adriaan Manfred Görlitz",
+                                    "DateTime": "2024-07-13T14:38:40+02:00",
+                                    "Content": "Hello all, firstly, I‘d like to thank the team for both the course organisation and quick grading. You stated, that individual grades (i.e. more fine-grained than pass/fail) were available internally. Would it - out of interest - be possible to share these with us?  Best regards Nikolas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089570",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-13T15:00:29+02:00",
+                                    "Content": "thanks and yes, I just sent you an email with the detailed assessment. Anybody else who's also interested can likewise sent me an email and I'll answer directly (without posting them here). Regards, Matthias",
+                                    "Response to": "p1089566"
+                                },
+                                {
+                                    "Message_id": "p1089575",
+                                    "Author": "Kenil Bharatbhai Maniya",
+                                    "DateTime": "2024-07-13T15:22:41+02:00",
+                                    "Content": "hello, i would also like to know the detailed assement and the overall grading. Regards, Kenil",
+                                    "Response to": "p1089570"
+                                },
+                                {
+                                    "Message_id": "p1089583",
+                                    "Author": "Dimitar Vandev",
+                                    "DateTime": "2024-07-13T16:18:01+02:00",
+                                    "Content": "Hello, I would also like to get this information. Best regards, Dimitar",
+                                    "Response to": "p1089570"
+                                },
+                                {
+                                    "Message_id": "p1089587",
+                                    "Author": "Kolja Leonard Blauhut",
+                                    "DateTime": "2024-07-13T17:12:54+02:00",
+                                    "Content": "Hello, I would also be interested in getting the detailed assessment for our Group. Thank you, Kolja",
+                                    "Response to": "p1089570"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses registration",
+                            "Discussion_Id": "604322",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084785",
+                                    "Author": "Nikolás Adriaan Manfred Görlitz",
+                                    "DateTime": "2024-06-28T16:53:21+02:00",
+                                    "Content": "Hello all, I've just gone through my Moses \"exam\" registrations and noticed, that this programming practical seems to be missing - and seems to be the only PP for which one isn't able to sign up. I've also checked other programming practicals which all seem to have some sort of sign up within Moses. Is this by design, or have I missed something (crucial)? I know I'm a little late with this question, but better late than never ;).  Best regards, Nikolas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084823",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-06-28T18:31:46+02:00",
+                                    "Content": "We will sign you up while entering the grades (only for actual project submissions which is in favor of students who potentially drop out). After you see the grades in Moses, we will ask you to inform us about necessary corrections (e.g., if you need it for other types of courses than Wahlpflicht) before actually exporting them and importing them in Qispos (and thus hand them over to the examination office).  Regards, Matthias",
+                                    "Response to": "p1084785"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Searching for a group who are willing to use rust",
+                            "Discussion_Id": "591387",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065318",
+                                    "Author": "Elias Alexander Engel",
+                                    "DateTime": "2024-04-30T21:23:52+02:00",
+                                    "Content": "Hey, I am looking for other students motivated to complete this course work in rust.  Currently, we are 2/4 so, if you are interested in joining our endeavor, just pm me :) Best Elias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kontakt zu anderen Mitglieder von DAMS5",
+                            "Discussion_Id": "590986",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064736",
+                                    "Author": "Murat Zaydullin",
+                                    "DateTime": "2024-04-29T19:02:56+02:00",
+                                    "Content": "Hallo zusammen, Ich konnte leider die 1. Vorlesung nicht besuchen, deswegen gab für mich keine Möglichkeit, die Mitglieder von meiner Gruppe kennen zu lernen. Da es kein passenderes Forum gibt, scheibe ich in diesem.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenzuteiliung",
+                            "Discussion_Id": "590762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064383",
+                                    "Author": "Joshua Balthasar Kobschätzki",
+                                    "DateTime": "2024-04-29T13:23:33+02:00",
+                                    "Content": "Sehr geehrtes PPDS Team,  am 26.04. wurde mir eine Gruppe und eine Programmiersprache per E-Mail zugewiesen. Dies hat mich etwas gewundert, da in der Kick-Off Lecture, falls ich mich richtig erinnere, die Gruppen und Programmiersprachwahl als selbstorganisiert angegeben wurde. Könnten Sie bitte zu diesem Teil der Kursorganisation Auskunft geben?  Falls die Gruppen/Sprachen zugeteilt werden, würde ich sie auch um Auskunft zur Möglichkeit des Gruppenwechsels und Sprachwechsels bitten.  Es würde mich freuen, von Ihnen zu hören.  Mit freundlichen Grüßen Joshua Kobschätzki",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064404",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-04-29T13:45:57+02:00",
+                                    "Content": "Well, view this semi-random assignment as an initial proposal (to avoid that people spent time too much time assembling groups). Unfortunately, I forgot to add a field for group preferences (beyond the languages, btw if you did not fill the language preference we assumed you can work with all). In any case, yes we allow reassignments - so contact your mentor and they will re-assign in batches.",
+                                    "Response to": "p1064383"
+                                },
+                                {
+                                    "Message_id": "p1064615",
+                                    "Author": "Joshua Balthasar Kobschätzki",
+                                    "DateTime": "2024-04-29T16:34:35+02:00",
+                                    "Content": "Thank you for the quick response.",
+                                    "Response to": "p1064404"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahmeanfrage",
+                            "Discussion_Id": "585642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056546",
+                                    "Author": "Gleb Polyakov",
+                                    "DateTime": "2024-04-12T15:46:48+02:00",
+                                    "Content": "Ich würde gerne in diesem Semester an diesem Kurs teilnehmen, ihr habt noch Plätze frei, oder? Ich habe den Kontakt der verantwortlichen Person nicht gefunden, deshalb poste ich die Anfrage hier. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056554",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-04-12T16:10:05+02:00",
+                                    "Content": "Yes, we only got 28/48 participants assigned through the meta course, got about 5 requests for additional seats via email, and there are plenty more registered in the ISIS course. So we do the kickoff on Monday with everybody interested, and there will be link for the instance (DAMS/D2IP) selection after which we do the actual seat assignment. All people registered through the meta course have precedence though.",
+                                    "Response to": "p1056546"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Q/A D2IP Project",
+                    "Forum_id": "1814995",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "First Lecture Today in EN 742",
+                            "Discussion_Id": "590776",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064405",
+                                    "Author": "Ziawasch Abedjan",
+                                    "DateTime": "2024-04-29T13:46:08+02:00",
+                                    "Content": "Hi due to the problems in the TEL Building the first lecture of our instance will be moved to the EN Building.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

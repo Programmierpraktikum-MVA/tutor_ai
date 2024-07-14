@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "Informationen Auslandsangebote für SETUB-Studierende",
+        "Course_id": "36747",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1704705",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Folien der Infoveranstaltung online",
+                            "Discussion_Id": "553101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1005221",
+                                    "Author": "Christina Wolff",
+                                    "DateTime": "2023-10-20T12:48:27+02:00",
+                                    "Content": "Liebe Studierende, haben Sie vielen Dank für Ihre Teilnahme gestern an unserer Infoveranstaltung zu Auslandsmöglichkeiten im Lehramtstudium. Wir hoffen, wir konnten Sie begeistern und einige Ihrer Fragen klären. Sie finden nun die beiden Präsentationen von gestern im ISIS-Kurs. Kommen Sie bei Fragen gerne auf uns zu! Beste Grüße Christina Wolff",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

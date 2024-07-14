@@ -1,0 +1,511 @@
+[
+    {
+        "Course_Name": "Schaltungstechnik 2024",
+        "Course_id": "37305",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1755146",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Änderung für das Tutorium Freitag 10-12 Uhr ",
+                            "Discussion_Id": "606682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088182",
+                                    "Author": "Daniel Rung",
+                                    "DateTime": "2024-07-09T16:50:52+02:00",
+                                    "Content": "Liebe Studierende, das Tutorium Freitag 10-12 Uhr wird jetzt von Laurin im E204 gehalten. Mein Tutorium wird Freitag von 10-12 Uhr nicht mehr stattfinden aber das Tutorium 12-14 Uhr bleibt bei mir weiterhin unverändert erhalten und das von Laurin von 12-14 Uhr ebenfalls. Dafür gibt es eine Sprechstunde jetzt von mir am Freitag von 10-11 Uhr im E213. Viele Grüße, Daniel Rung",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neue Sprechstunden der Tutor*Innen",
+                            "Discussion_Id": "604240",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084679",
+                                    "Author": "Emil Arthur Thaon de Saint André",
+                                    "DateTime": "2024-06-28T12:30:40+02:00",
+                                    "Content": "Liebe Studierende,  auf der ISIS-Kursseite gibt es nun eine Tabelle mit Sprechstunden der Tutor*Innen. Diese gelten ab der kommenden Woche bis zum Ende der Vorlesungszeit.  In den Semesterferien wird es vor den Klausuren noch viele weitere Sprechstunden geben, sodass hoffentlich alle Fragen rechtzeitig geklärt werden können. Diese werden am Ende der Vorlesungszeit angekündigt.  Viele Grüße und ein schönes Wochenende, Emil",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Doppelvorlesung in der kommenden Woche (Mi und Do)",
+                            "Discussion_Id": "604013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084339",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-06-27T12:48:06+02:00",
+                                    "Content": "Liebe Studierenden, nächste Woche findet sowohl am Mittwoch (03.07. - 8:15-9:45 Uhr), als auch am Donnerstag (04.07. - 12:15-13:45 Uhr) jeweils in MA 005 eine Vorlesung statt, damit wir mit dem Stoff wieder vor den Tutorien sind. Wenn alles gut läuft wird dafür die Vorlesung in der letzten Vorlesungswoche wegfallen. MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation Sommersemester 2024",
+                            "Discussion_Id": "604005",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084330",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-06-27T12:39:53+02:00",
+                                    "Content": "Liebe Studierenden, aktuell läuft die Lehrevaluation für die Veranstaltung Schaltungstechnik (Vorlesung/Übung/Turtorium). QR-Code und Link zur Umfrage findet ihr auf der ISIS-Seite und im Matrix Chat. Wir bitten euch möglichst alle an der Umfrage teilzunehmen, da wir uns nur mit Feedback verbessern können ;-)  MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schaltungstechnik Vorlesung am 20.06.2024 (morgen-online)",
+                            "Discussion_Id": "602086",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081576",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-06-19T13:25:24+02:00",
+                                    "Content": "Moin, da Prof. Thewes aus gesundheitlichen Gründen diese Woche leider nicht nach Berlin kommen kann, findet wie bereits gestern in Matrix und heute in der Großübung vorgewarnt die Schaltungstechnik Vorlesung morgen (20.06.2024) von 12:15 Uhr bis 13:45 Uhr online statt (Zugangsdaten s.u.). MfG, Alex Die Zoom Zugangsdaten sind: Direktlink: https://tu-berlin.zoom.us/j/61541129403?pwd=3UzMOX95lv7z5uYkawk6Whf2ComLQh.1 Meeting-ID: 615 4112 9403 Kenncode: 003632",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Daniel 12-14 Uhr im E204",
+                            "Discussion_Id": "602044",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081524",
+                                    "Author": "Daniel Rung",
+                                    "DateTime": "2024-06-19T11:30:39+02:00",
+                                    "Content": "Hallo liebe Studierende,  ich möchte nochmal daran erinnern, dass das Tutorium heute um 12-14 Uhr im Raum E204 stattfindet, das Tutorium um 14-16 Uhr findet normal wie immer im EN-Raum statt.  Viele Grüße,  Daniel Rung",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Schaltungstechnik-Großübung (Kleinsignalersatzschaltbilder)",
+                            "Discussion_Id": "601882",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081284",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-06-18T16:00:58+02:00",
+                                    "Content": "Moin liebe Studierenden, wie bereits in der letzten Vorlesung und im Matrix Raum angekündigt, findet diesen Mittwoch  (morgen), den 19.06.2024 von 8:15-9:45 Uhr im Horsaal MA 005 die 3. Schaltungstechnik-Großübung zum Thema \"Kleinsignalersatzschaltbilder\" statt. MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorienzusammenlegung Schaltungstechnik Mittwoch 12-14 Uhr",
+                            "Discussion_Id": "600610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079434",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-06-12T14:02:36+02:00",
+                                    "Content": "Moin liebe Studierenden, die beiden Schaltungstechnik Tutorien am Mittwoch von 12-14 Uhr werden ab sofort zusammengelegt und finden gemeinsam in Raum E 204 bei Daniel Rung statt. MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage zu Wiederholung HLB in Schaltungstechnik",
+                            "Discussion_Id": "600545",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079346",
+                                    "Author": "Uwe Kerst",
+                                    "DateTime": "2024-06-12T11:01:16+02:00",
+                                    "Content": "Liebe Studierende, es gab Beschwerden über zu viel Wiederholung aus Halbleiterbauelemente. Daher haben wir eine Umfrage dazu eingerichtet. Bitte nehmen Sie bis Montag daran teil, um die Veranstaltung zu verbessern. Umfrage HLB in ST",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tut 11.6 in E220 einmalig gewechselt ",
+                            "Discussion_Id": "600325",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079029",
+                                    "Author": "Yixue Bai",
+                                    "DateTime": "2024-06-11T14:33:04+02:00",
+                                    "Content": "Liebe Studis  Wegen der Raumbesetzung von Mathematiker in MA850 haben wir den Raum einmalig zu E220 gewechselt  Yixue",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tut 11.6 in E220 einmalig gewechselt ",
+                            "Discussion_Id": "600324",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079028",
+                                    "Author": "Yixue Bai",
+                                    "DateTime": "2024-06-11T14:33:04+02:00",
+                                    "Content": "Liebe Studis  Wegen der Raumbesetzung von Mathematiker in MA850 haben wir den Raum einmalig zu E220 gewechselt  Yixue",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Matrix-Raum zur Schaltungstechnik Veranstaltung",
+                            "Discussion_Id": "599868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078361",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-06-10T08:17:56+02:00",
+                                    "Content": "Liebe Schaltungstechik Studierende, wie bereits in der letzten Vorlesung angekündigt, gibt es ab sofort einen eigenen Matrix-Raum zur Schaltungstechnik Veranstaltung. Leider hat sich in den Zugangsdaten ein Fehlerteufel eingeschlichen und ich habe aus versehen den falschen Link zu einem anderen Matrix-Raum gepostet, diese Unachtsamkeit meinerseits und die dadurch ausgelöste Verwirrung bitte ich zu entschuldigen. Mittlerweile habe ich den Fehler korrigiert und auf der ISIS-Seite ist nun der korrekte Link und der korrekte QR-Code zu sehen. Zusätzlich habe ich beides dieser Ankündigung nochmals angehängt.  MfG, Alex  Matrix-Raum: ein Raum für Diskussionen, Lerngruppensuche, allgemeine Vernetzung und mehr rund um die Veranstaltung Schaltungstechnik #schaltungstechnik:matrix.tu-berlin.de (Raumlink für Element) https://matrix.to/#/#schaltungstechnik:matrix.tu-berlin.de (Direktlink zur Webanwendung)    Anleitung: Innocampus Seite mit Tutorial verfügbar als Webanwendung, App und Desktop Anwednung für alle gängigen Betriebssysteme auf der element-Webseite: element matrix-client",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Schaltungstechnik-Großübung",
+                            "Discussion_Id": "597249",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074565",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-05-28T10:31:24+02:00",
+                                    "Content": "Moin liebe Studierenden, wie bereits in der letzten Vorlesung angedeutet, findet diesen Mittwoch (15.05.) 8:15-9:45 Uhr im Horsaal MA 005 die 2. Schaltungstechnik-Großübung zum Thema Kleinsignalparameter statt. MfG, Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074579",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-05-28T10:47:27+02:00",
+                                    "Content": "Natürlich ist die zweite Großübung am 29.05. und nicht am 15.05. ;-)",
+                                    "Response to": "p1074565"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ersatzsprechstunde am 21.05. um 10:00 Uhr",
+                            "Discussion_Id": "595385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071635",
+                                    "Author": "Michael Böttge",
+                                    "DateTime": "2024-05-19T16:48:19+02:00",
+                                    "Content": "Liebe Studierende, aufgrund des morgigen Feiertags wird die Sprechstunde kommende Woche am Dienstag (21.05.2024) um 10:00 Uhr wie gewohnt im Raum E213 stattfinden. Viele Grüße und einen schönen Feiertag",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schaltungstechnik: Vorlesung und Großübung am 15. und 16.05.",
+                            "Discussion_Id": "594158",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069690",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-05-13T17:45:22+02:00",
+                                    "Content": "Moin liebe Studierenden, wie bereits in der letzten Vorlesung angedeutet, findet diesen Mittwoch (15.05.) 8:15-9:45 Uhr ausnahmsweise die Vorlesung statt. Dafür findet diesen Donnerstag (16.05.) 12:15-13:45 Uhr die 1. Großübung statt. Beides im Horsaal MA 005. MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutoriumsausfall und Mitschriften",
+                            "Discussion_Id": "593977",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069413",
+                                    "Author": "Laurin Angel",
+                                    "DateTime": "2024-05-13T11:24:31+02:00",
+                                    "Content": "Liebe Studierende, das Tutorium von mir (Laurin) muss am 16.05.24 um 14:15 muss leider einmalig ausfallen. Besucht gerne das parallel stattfindende Tutorium von Emil im HFT-FT 131. In der nächsten Woche findet der Termin wie gewohnt statt. Weiterhin gibt es nun nach vielen Nachfragen einen Ordner für die Tutoriumsmitschriften im ISIS-Kurs. Dort findet ihr die Mitschriften der Tutor*innen in einem Ordner mit dem jeweiligen Namen.  Viele Grüße Laurin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schaltungstechnik-Vorlesung diese Woche ",
+                            "Discussion_Id": "592483",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067084",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-05-06T11:08:40+02:00",
+                                    "Content": "Moin, wie bereits in der Vorlesung angekündigt und im ISIS-Kurs stehend, findet die Schaltungstechnik Vorlesung aufgrund des Feiertags diese Woche am Mittwoch (08.05.2024) 8:15-9:45 in Hörsaal MA 005 statt. MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderungen der Schaltungstechnik-Tutorien",
+                            "Discussion_Id": "590676",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064248",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-04-29T10:49:27+02:00",
+                                    "Content": "Moin, wie bereits in der letzten Vorlesung angekündigt gibt es einige Raumänderungen für die Schaltungstechnik Tutorien. Diese Änderungen gelten ab sofort! Bitte erkundigt euch auf der ISIS-Website über eure neuen Räume für die Tutorien.  MfG, Alex [Sie/Ihr]",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kommende Feiertage, Raumänderungen, Tutorienausfälle",
+                            "Discussion_Id": "589056",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061771",
+                                    "Author": "Emil Arthur Thaon de Saint André",
+                                    "DateTime": "2024-04-23T17:24:47+02:00",
+                                    "Content": "Liebe Studierenden, in dieser Woche beginnen die Sprechstunden und Tutorien in diesem Modul. Bitte beachtet dabei die Raumänderungen, die in der Tabelle der Tutorien auf der Startseite des ISIS-Kurses eingetragen sind. In den folgenden zwei Wochen werden wir allerdings gleich von der angezeigten Tabelle abweichen. Grund dafür sind mehrere Feiertage und meine Abwesenheit für ein paar Tage. Euer Termin fällt aus? Dann wählt bitte einen der grün markierten Termine als Ersatz, da alle anderen vermutlich voll ausgelastet sind. Die Tutorien 2 und 3 finden an folgenden Terminen statt:   Tutorium 2   Uhrzeit    Mo 29.4    Di 30.4     Mi 1.5    Do 2.5    Fr 3.5    10:15 - 11:45     Feiertag     Michael MA005    Laurin MA750   Daniel E204    Laurin A060   12:15 - 13:45     Emil E020   (Ersatztermin)     Feiertag    Daniel MA649     Laurin E204   14:15 - 15:45     Yixue MA841     Feiertag   Michael HFT-FT 131     Laurin MA550    Tutorium 3   Uhrzeit    Mo 6.5     Di 7.5    Mi 8.5    Do 9.5    Fr 10.5    Mo 13.5   10:15 - 11:45     Michael E204     Feiertag     Daniel E204   Laurin A060   12:15 - 13:45     Yixue E204   Daniel EN185   Feiertag   Daniel MA649    Laurin E204   Emil E020   (Ersatztermin)     14:15 - 15:45     Yixue MA841     Michael E204   Daniel EN185   Feiertag   Ab dem 14.5.24 finden alle Tutorien wieder nach Plan statt. Wir hoffen, dass so jede/-r eine Möglichkeit hat, an einem passenden Tutorium teilzunehmen. Sollte es Fragen/Unklarheiten geben, meldet Euch bitte bei uns.   Viele Grüße und einen guten Start in das Semester, Eure Tutor*Innen  Edit: Bitte beachtet die neuen Räume. Diese wurden hier bereits nachgetragen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neue Infos: Schaltungstechnik 2024",
+                            "Discussion_Id": "587727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059635",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-04-19T14:48:33+02:00",
+                                    "Content": "Moin, hier ein paar neue Infos zur Veranstaltung: Die Tutorienverteilung ist erfolgreich abgeschlossen und ihr solltet mittlerweile alle einem Tutorium zugeordnet sein. Die Zeiten und Räume der Tutorien könnt ihr jetzt auch auf ISIS einsehen. Wenn ihr noch einen Tutorienplatz braucht, schreibt mir bitte eine Mail oder Nachricht. Wenn ihr Tutorien tauschen wollt, beachtet bitte, dass gerade am Anfang des Semesters die Tutorien in den kleineren Räumen vorraussichtlich keine zusätzlichen Plätze haben. Die Tutorien in den Räumen MA 141 und A 060 sollten jedoch genug Kapazitäten aufweisen. Die Anmeldung für beide Klausurtermine ist mittlerweile freigeschaltet auch wenn es noch etwas hin ist. MfG, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Infos: Schaltungstechnik 2024",
+                            "Discussion_Id": "585843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056869",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-04-15T10:06:21+02:00",
+                                    "Content": "Moin, nochmal ein paar Information für alle die im laufenden Semester Schatungstechnik belegen wollen: die Anmeldung für die Tutorien ist noch bis Mittwoch, den 17.04.2024 18:00 Uhr s.t. möglich die Tutorien starten ab Montag, den 22.04.2024 die erste Vorlesung findet am Donnerstag, den 18.04.2024 um 12:00 Uhr c.t. statt MfG, Alex [sie/ihr]",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1755705",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tutorium 7 - Aufgabe 7.2). c) Schaltung 1 Ausgangswiderstand raus",
+                            "Discussion_Id": "599196",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077377",
+                                    "Author": "Daniel Rung",
+                                    "DateTime": "2024-06-05T16:28:26+02:00",
+                                    "Content": "Hallo liebe Studierende, der Ausgangswiderstand raus=1/gds2 ist richtig berechnet worden mit raus=uaus/(-iaus), da iaus=(-uaus)*gds2 aus dem ausgangsseitigen Kleinsignalersatzschaltbild so definiert ist. Dies wird ebenfalls in den Mitschriften nochmal korrigieret und am Ende der Woche hochgeladen. Viele Grüße, Daniel Rung",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Großübung 2 Mitschrift",
+                            "Discussion_Id": "598019",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075667",
+                                    "Author": "Lenian Freiherr von Streit",
+                                    "DateTime": "2024-05-30T22:14:58+02:00",
+                                    "Content": "Guten Abend, Ich wäre sehr dankbar, wenn die Mitschrift der zweiten Großübung hochgeladen werden würde. Vielen Dank im Voraus!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "alle Tutoriumsblätter zur Verfügung stellen ",
+                            "Discussion_Id": "595949",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072524",
+                                    "Author": "Haris Imamovic",
+                                    "DateTime": "2024-05-22T12:27:35+02:00",
+                                    "Content": "Sehr geehrtes Team Schaltungstechnik,  wäre es möglich uns bereits alle Tutoriumsblätter zur Verfügung zu stellen? (vielleicht in einem Sonder Ordner beispielsweise)  Mit freundlichen Grüßen Haris Imamovic ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072768",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-05-22T19:32:20+02:00",
+                                    "Content": "Moin, wir behalten uns vor (und das passiert auch hin und wieder), bis eine Woche vorher noch Änderungen/Aktualisierungen oder Korrekturen an den Tutorienaufgaben vorzunehmen. Da wir nicht mit verschiedenen Versionen hier Verwirrung stiften wollen, stellen wir die Tutorien frühestens eine Woche vorher online. Wenn du die alten Tutorienblätter vorher haben willst, findest du diese im ISIS-Kurs des Vorjahres, allerdings ist dann damit zu rechnen, dass sich hin und wieder etwas inhaltlich ändert.  MfG, Alex",
+                                    "Response to": "p1072524"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mitschrift Großübung",
+                            "Discussion_Id": "595052",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071091",
+                                    "Author": "Stevie Filbert Febryanto",
+                                    "DateTime": "2024-05-16T20:27:43+02:00",
+                                    "Content": "Liebes ST-Team, könnte bitte die Mitschrift der heutigen Großübung hochgeladen werden? Das wäre sehr hilfreich (: Viele Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071101",
+                                    "Author": "Michael Böttge",
+                                    "DateTime": "2024-05-16T21:02:23+02:00",
+                                    "Content": "Hallo Stevie,  die Mitschrift befindet sich bei den Tutoriumsmitschriften ganz oben im Kurs.  Viele Grüße",
+                                    "Response to": "p1071091"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Letzte vorgetragene Folie",
+                            "Discussion_Id": "594207",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069782",
+                                    "Author": "Luis Bruno Bernatzky",
+                                    "DateTime": "2024-05-13T23:38:15+02:00",
+                                    "Content": "Hallo, ich wollt in Vorbereitung dieser Woche wissen, bei welcher Folie pausiert wurde. BG Luis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069811",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-05-14T08:33:59+02:00",
+                                    "Content": "Soweit ich mich erinnere haben wir Ende Kapitel 2 gestoppt.",
+                                    "Response to": "p1069782"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Werbung Lötlabor",
+                            "Discussion_Id": "589781",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062905",
+                                    "Author": "Michel Schnitker",
+                                    "DateTime": "2024-04-25T12:26:05+02:00",
+                                    "Content": "Hallo zusammen, in der heutigen Vorlesung habe ich kurz das Lötlabor auf dem Campus vorgestellt. Für alle, die interessiert sind, hier ist noch einmal der Link zu unserer Webseite: https://www.loetlabor.org/ Ihr seid herzlich eingeladen, vorbeizukommen, sei es zum Basteln oder einfach nur, um euch einmal umzuschauen. Gruß aus dem Lötlabor",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063097",
+                                    "Author": "Salih Kaya",
+                                    "DateTime": "2024-04-25T16:19:33+02:00",
+                                    "Content": "Hallo, ich wollte nochmal fragen, ob ihr das Löten auch beibringt. Ich wäre stark daran interessiert, das Löten zu lernen aber ich habe halt überhaupt kein Vorwissen und kann mir auch keine Projekte ausdenken. Gruß Salih",
+                                    "Response to": "p1062905"
+                                },
+                                {
+                                    "Message_id": "p1069772",
+                                    "Author": "Michel Schnitker",
+                                    "DateTime": "2024-05-13T22:52:28+02:00",
+                                    "Content": "Hallo Salih,  Danke für deine Geduld. Da deabonniert man einmal ein Isis-Forum und dann kommt doch eine wichtige Nachricht...  Kurze Antwort: Wenn es die Zeit erlaubt, helfen wir natürlich gerne. Löten ist ein Handwerk, man muss es einfach ausprobieren. Wir haben zwei Beispielprojekte, um direkt einzusteigen, oder wir unterstützen gerne bei der Projektfindung und geben den ein oder anderen Rat. Komm doch einfach vorbei, wenn es dir passt.  Gruß Michel (vom Lötlabor)  PS: Diese Nachricht wurde manuell erstellt, da meine KI mir nicht beim erstellen von Beiträgen für ein Isis-Forum behilflich sein wollte.",
+                                    "Response to": "p1063097"
+                                },
+                                {
+                                    "Message_id": "p1069786",
+                                    "Author": "Salih Kaya",
+                                    "DateTime": "2024-05-14T00:25:47+02:00",
+                                    "Content": "Hallo Michel, danke für die Rückmeldung. Ich komme gerne nächste Woche vorbei! Gruß Salih",
+                                    "Response to": "p1069772"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutoriumsblätter",
+                            "Discussion_Id": "590506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063986",
+                                    "Author": "Lenian Freiherr von Streit",
+                                    "DateTime": "2024-04-28T15:52:34+02:00",
+                                    "Content": "Moin, Ich wäre sehr dankbar, wenn die Tutoriumsblätter frühzeitiger hochgeladen werden, damit man sich darauf vorbereiten kann. Vielen Dank im Voraus! MfG Lenian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063991",
+                                    "Author": "Laurin Angel",
+                                    "DateTime": "2024-04-28T16:08:19+02:00",
+                                    "Content": "Hallo Lenian,  das zweite Tutoriumsblatt ist jetzt verfügbar.  VG Laurin",
+                                    "Response to": "p1063986"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien zur Vorlesung 18.4.",
+                            "Discussion_Id": "589330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062211",
+                                    "Author": "Valentin Uli Andreas Schindlbeck",
+                                    "DateTime": "2024-04-24T12:26:53+02:00",
+                                    "Content": "Hallo, Ich wollte mal nachfragen ob diese Woche bereits Tutorien begleitend zu der Vorlesung vom 18.4. Statfinden oder ob sie erst Nach der Vorlesung am 25.4. Starten. Mit freundlichen Grüßen, Valentin ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062225",
+                                    "Author": "Lenian Freiherr von Streit",
+                                    "DateTime": "2024-04-24T12:44:28+02:00",
+                                    "Content": "Diese Woche finden/fanden schon Tutorien statt",
+                                    "Response to": "p1062211"
+                                },
+                                {
+                                    "Message_id": "p1062232",
+                                    "Author": "Emil Arthur Thaon de Saint André",
+                                    "DateTime": "2024-04-24T12:48:59+02:00",
+                                    "Content": "Hallo Valentin,  in dieser Woche finden die ersten Tutorien nach Plan statt. Das erste Tutoriumsblatt wird dort gerechnet. Solltest Du Dein Tutorium verpasst haben, so kannst Du gerne noch in ein späteres in dieser Woche gehen. Den Tutorienplan findest Du auf der Hauptseite des Kurses.  Viele Grüße, Emil",
+                                    "Response to": "p1062211"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Großübung",
+                            "Discussion_Id": "588804",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061377",
+                                    "Author": "Tina Phuong Uyen Thai",
+                                    "DateTime": "2024-04-23T11:17:46+02:00",
+                                    "Content": "Hallo, Findet morgen bereits die Großübung statt? Danke Mit freundlichen Grüßen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061477",
+                                    "Author": "Laurin Angel",
+                                    "DateTime": "2024-04-23T12:43:12+02:00",
+                                    "Content": "Hallo,  die Großübung findet nur nach Ankündigung statt.  Mit freundlichen Grüßen Laurin",
+                                    "Response to": "p1061377"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsvideos",
+                            "Discussion_Id": "585894",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056948",
+                                    "Author": "Maximilian Benedikt Branscheid",
+                                    "DateTime": "2024-04-15T11:30:05+02:00",
+                                    "Content": "Hallo, wie aktuell sind die Vorlesungsvideos von 2022 noch? Haben sich die Vorlesungen auch stark bis komplett verändert oder kann man noch gut auf die Videos zurückgreifen und nur die Tutorien in Präsenz besuchen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057726",
+                                    "Author": "Alex Wiemhoefer",
+                                    "DateTime": "2024-04-16T14:42:49+02:00",
+                                    "Content": "Moin, die Vorlesung wird mit jedem Jahr weiterentwickelt und Fehler/Ungenauigkeiten korrigiert, allerdings haben sich meines Wissens in den vergangenen 2 Jahren keine großen Änderungen in den Vorlesungsfolien ergeben (im Gegensatz zu den Tutorien). Allerdings gibt es in den Vorlesungsvideos einige fehlende Inhalte, welche aus technischen Gründen damals nicht aufgenommen werden konnten, bzw. für die in den betreffenden Vorlesungen zeitlich kein Platz war.  Zusammenfassend kann ich nur empfehlen die Vorlesung zu besuchen, da die Videos zwar ein gute Möglichkeit zur Wiederholung bieten, jedoch nicht eine komplette Abdeckung aller Klausur-relevanten Themen garantieren. Zumal die Möglichkeit der direkten Verständisrückfragen mit Professor Thewes (eigene und die der Andreren auf die man selbst nie gekommen wäre) zum Stoff der Vorlesung nicht unterschätzt werden sollte.  Beste Grüße, Alex [sie/ihr] wiss. Mitarbeiterin",
+                                    "Response to": "p1056948"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

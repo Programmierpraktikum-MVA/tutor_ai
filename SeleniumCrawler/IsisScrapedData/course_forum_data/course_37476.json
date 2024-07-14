@@ -1,0 +1,128 @@
+[
+    {
+        "Course_Name": "Advanced LCA - SoSe 2024",
+        "Course_id": "37476",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Forum - Announcements",
+                    "Forum_id": "1760659",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Schedule for presentations on 10.07",
+                            "Discussion_Id": "604586",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085199",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-07-01T11:04:06+02:00",
+                                    "Content": "Dear students, On the 10th of July, we will have your homework topic presentations. To remind you, you have a limit of 15 minutes to present, followed by a 5-minute discussion. Please remember that content beats the time limit – you can keep the presentation shorter than 15 minutes if you cover all the relevant details. We have 9 presentations in total and will use both the lecture and seminar slots. To ensure everything runs smoothly, please upload your slides on ISIS (“slides submission”) or send them to me via email (blizniukova@tu-berlin.de). Here is the current time plan: Slot 1: 12:15 - 13:40 12:15 - 12:20: Introduction and setup 12:20 - 12:40: Topic 1: Dynamic LCA 12:40 - 13:00: Topic 2: Life-LCA 13:00 - 13:20: Topic 3: Nutritional LCA 13:20 - 13:40: Topic 4: Inventory data for chemicals Break: 13:40 – 14:00 (20 minutes) Slot 2: 14:00 – 15:45 14:00 - 14:20: Topic 5: Pharmaceuticals in LCA 14:20 - 14:40: Topic 6: City OLCA 14:40 - 15:00: Topic 7: Distance-to-Target 15:00 - 15:20: Topic 8: Consequential LCA (Building sector) 15:20 - 15:40: Topic 9: Circularity in LCA 15:40 – 15:45: Wrap-up Looking forward to your presentations! Best regards, Daria",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087367",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-07-08T10:40:31+02:00",
+                                    "Content": "Dear students, There is a small change om the order of presentations. Please find the updated schedule below: Slot 1: 12:15 - 13:45 • 12:15 - 12:20: Introduction and setup • 12:20 - 12:40: Topic 7: Distance-to-Target • 12:40 - 13:00: Topic 1: Dynamic LCA • 13:00 - 13:20: Topic 2: Life-LCA • 13:20 - 13:40: Topic 3: Nutritional LCA Break: 13:40 – 14:00 (20 minutes) Slot 2: 14:00 – 15:45 • 14:00 - 14:20: Topic 4: Inventory data for chemicals • 14:20 - 14:40: Topic 5: Pharmaceuticals in LCA • 14:40 - 15:00: Topic 6: City OLCA • 15:00 - 15:20: Topic 8: Consequential LCA (Building sector) • 15:20 - 15:40: Topic 9: Circularity in LCA • 15:40 – 15:45: Wrap-up After presenting, each group should receive one question or comment from the previous group on the list. This means, Group 7 gives feedback to Group 1, Group 1 gives feedback to Group 2, and so on. The last group, Group 9, will give feedback to Group 7. I kindly remind you to upload your slides on isis in advance. Best regards, Daria",
+                                    "Response to": "p1085199"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Input-Output: seminar solution + questions",
+                            "Discussion_Id": "604332",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084796",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-06-28T17:24:42+02:00",
+                                    "Content": "Dear students, The solution to the input-output seminar has just been uploaded. Additionally, I have provided comments for each step in Task 1. During the seminar, two questions regarding the IO tables were raised: 1)      Meaning behind the total intensity F and its connection to the Leontief inverse: This parameter functions as a characterization factor and includes both direct emission intensity (of the sector itself) and indirect (upstream) intensity associated with all flows consumed by a sector from other sectors. In the seminar solution spreadsheet, I included a detailed visualization of how this term is calculated. While the Leontief inverse aggregates all flows going into a sector from upstream processes (like a tree, see the visualization), the F factor combines the emissions intensity with all these flows. I will go into this in detail during the summary lecture.  2)      Why is the total output equal to the total input: The IO table represents the entire economy. This means that its output cannot be larger that what has been “invested”: resources/services, but also value added (e.g., taxes, labour). Thus, total input represents the cost of production, while total output reflects the final value of produced goods and services. These two values should be equal due to the principle of economic equilibrium. These questions, like the seminar content, will not be part of the exam, but thank you for raising such interesting points! Best regards, Daria  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Advanced Weighting audio + course structure changes",
+                            "Discussion_Id": "598208",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075948",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-05-31T18:34:52+02:00",
+                                    "Content": "Dear Students, an audio explanation of the Advanced Weighting slides has been recently uploaded on tubCloud. Please download the file to your desktop, as it may not display correctly otherwise. The seminar solution will be uploaded later today.  Additionally, there are some minor updates to the course structure: There will be no seminar next week. The lectures on Input-Output LCA (including the seminar) and Consequential LCA have been swapped. You can find the updated course structure slide on isis. Have a nice weekend! Best regards, Daria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture and seminar today (29.5)",
+                            "Discussion_Id": "597529",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074945",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-05-29T08:16:43+02:00",
+                                    "Content": "Dear students, today's lecture and seminar have been canceled due to illness. I apologize for notifying you on a short notice. The slides and the seminar task can be found online. Additionally, I will record a video explaining the slides, which will be available in the next days. Best regards, Daria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New lecture room: Z113",
+                            "Discussion_Id": "594540",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070305",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-05-15T09:37:16+02:00",
+                                    "Content": "Dear Students, Today's lecture and seminar will take place in room Z113.  The seminar will start at 14:00 - please don't forget your laptops. Best regards, Daria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework assignment groups",
+                            "Discussion_Id": "592040",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066333",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-05-03T11:50:07+02:00",
+                                    "Content": "Dear students, The overview of the homework assignment groups has been uploaded.   At the moment there are two groups with one participant in each (topics \"Biodiversity impacts\" and \"Inventory Data for Chemicals\") and \"Dynamic LCA\" with two participants.  To keep the workload fair for everyone, I would encourage you to either merge smaller groups or to switch from completed groups to one of these three topics. The maximum number of participants per topic is four.  Please notify me of any changes via a short email by the end of the next week (12.05).  Wishing you a nice weekend and see you next week!  Best regards, Daria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam slots",
+                            "Discussion_Id": "591250",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065114",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-04-30T14:36:14+02:00",
+                                    "Content": "Dear students, the exam dates have just been published - both for \"normal\" LCA exams and the Schwerpunkt. Please reserve one slot by July 17th.  Importantly, reserving a slot does not replace the official exam registration via MTS, which will be open starting from tomorrow. Tomorrow there will be no lecture. Wishing you a ncie holiday! Best regards, Daria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework assignment ",
+                            "Discussion_Id": "586947",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058436",
+                                    "Author": "Daria Blizniukova",
+                                    "DateTime": "2024-04-17T15:23:46+02:00",
+                                    "Content": "Dear students, Thank you for joining today's lecture! Due to a higher than anticipated number of attendees, I want to ensure everyone willing to participate in the homework assignment gets a spot in a group. Please take a moment to complete the survey located under \"Homework assignment\" to indicate whether you are planning to participate. Please keep in mind that the homework assignment is required to take the exam. Depending on the survey results, I might add a few extra topics to choose from. Please vote by Wednesday, April 24th. Otherwise, I cannot guarantee sufficient topics for everyone. Best regards, Daria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

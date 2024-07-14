@@ -1,0 +1,180 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Multivariate Analysis",
+        "Course_id": "38591",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1796395",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Next live lecture tomorrow, Wednesday June 26",
+                            "Discussion_Id": "603547",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083692",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-06-25T17:39:34+02:00",
+                                    "Content": "I will be giving the next live lecture tomorrow from 14:15-15:45 at C 264. I hope to see you there. A. Werwatz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorial 19.06.2024",
+                            "Discussion_Id": "602209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081734",
+                                    "Author": "Tim Finn Hainbach",
+                                    "DateTime": "2024-06-19T17:49:33+02:00",
+                                    "Content": "Dear students, I will be 15 minutes late today. Please use this time to evaluate the course. Sorry for the inconvenience! Kind regards, Tim Finn Hainbach",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "You can evaluate the tutorial online (until 24.6)",
+                            "Discussion_Id": "601423",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080631",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-06-17T11:09:52+02:00",
+                                    "Content": "https://befragung.tu-berlin.de/evasys/online.php?pswd=PYU5L",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "You can evaluate the lecture online (until 24.6)",
+                            "Discussion_Id": "601421",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080628",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-06-17T11:08:55+02:00",
+                                    "Content": "https://befragung.tu-berlin.de/evasys/online.php?pswd=PKJVN",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next live lecture this Wednesday (June 19)",
+                            "Discussion_Id": "601404",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080605",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-06-17T10:50:20+02:00",
+                                    "Content": "I will be giving the next live lecture this Wednesday (19.6.2024) from 14:15-15:45 at C 264.  I hope to see you there!  Axel Werwatz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next live lecture this Wednesday (June 12)",
+                            "Discussion_Id": "600119",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078731",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-06-10T18:17:07+02:00",
+                                    "Content": "I am back in Berlin and will be giving a live lecture on Wednesday (12.6.2024) from14:15-15:45 at C 264. I hope to see you there!  Axel Werwatz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sorry, no live lecture May 29.",
+                            "Discussion_Id": "596801",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073815",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-05-26T22:14:20+02:00",
+                                    "Content": "I am awfully sorry, but due to an emergency, I cannot be there on Wednesday.  I let you know about the next live lecture as soon as I can.  Regards, A. Werwatz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next live lecture NEXT Wednesday, May 29",
+                            "Discussion_Id": "595847",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072372",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-05-22T05:15:12+02:00",
+                                    "Content": "Next live lecture will take place Wednesday, May 29th at the usual time and place.  See you there!  Axel Werwatz ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next live lecture this Wednesday ",
+                            "Discussion_Id": "594209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069784",
+                                    "Author": "Axel Werwatz",
+                                    "DateTime": "2024-05-13T23:51:56+02:00",
+                                    "Content": "Next live lecture this Wednesday, May 15th at the usual time and place.  See you there!  Axel Werwatz ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First tutorial ",
+                            "Discussion_Id": "588862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061469",
+                                    "Author": "Tim Finn Hainbach",
+                                    "DateTime": "2024-04-23T12:35:59+02:00",
+                                    "Content": "Dear students, the problems for the first tutorial are now available in Tutorial_01 - Graphical Methods. See you tomorrow! Kind regards, Tim Finn Hainbach",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First lecture: 24.04.2024",
+                            "Discussion_Id": "585974",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057064",
+                                    "Author": "Tim Finn Hainbach",
+                                    "DateTime": "2024-04-15T13:37:37+02:00",
+                                    "Content": "Dear students, welcome to the class Multivariate Analysis in the summer term 2024. We are looking forward to this semester with you! All relevant information and material regarding this course will be made available here on ISIS. The first live lecture will be on the 24th of April 2024. The first tutorial will be later on the same day. See you there! Kind regrads, Tim Finn Hainbach",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion",
+                    "Forum_id": "1796396",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "whatsapp group for exam preperation",
+                            "Discussion_Id": "605956",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087146",
+                                    "Author": "Sid Lamichhane",
+                                    "DateTime": "2024-07-07T12:09:47+02:00",
+                                    "Content": "Hey everyone,  feel free to join this whatsapp group to share questions, points of discussions, notes etc. https://chat.whatsapp.com/IiTOzOoxtlMD88CA2hZR1C Together one learns best :) Regards, Sid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

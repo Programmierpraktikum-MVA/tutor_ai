@@ -1,0 +1,13 @@
+[
+    "Aktivität The exercise takes place in room TIB13b - 180. To ... auswählen",
+    "The exercise takes place in room TIB13b - 180.",
+    "To install hms, please download the following folders, extract them and copy them on your computer:",
+    "https://tubcloud.tu-berlin.de/s/gr2PApzP6xmbyFP",
+    "Set\nup\nhms:",
+    "1.Download the\nhms-libraries and exercises from isis, extract them and save them\non your\nPC",
+    "2.Open Eclipse",
+    "3.Create a new\njava\nproject called „exercises“",
+    "4.Right-click on the project: Build path > configure build path > libraries > add library > JUnit > Junit4",
+    "5.Add External Jar > select all files in the folder „lib“, Apply & close",
+    "6.Drag & drop the folder \"exercises\" into the package \"src\" of your project"
+]

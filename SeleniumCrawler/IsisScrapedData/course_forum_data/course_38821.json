@@ -1,0 +1,431 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Medical Image Processing",
+        "Course_id": "38821",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1806247",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam Questions",
+                            "Discussion_Id": "605497",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086499",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-07-04T11:59:25+02:00",
+                                    "Content": "Todays lab session will be an opportunity for you to ask questions about the exam. Please prepare questions.  Best Hinrich",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest Lecture",
+                            "Discussion_Id": "604966",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085757",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-07-02T12:48:30+02:00",
+                                    "Content": "REMINDER:  Today we have a guest lecture. It will take place at the Charite Vierchow Klinkum. The details for the room can be found in todays Lecture 11 - Guest Lecture",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Dates",
+                            "Discussion_Id": "604937",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085717",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-07-02T11:37:57+02:00",
+                                    "Content": "Dear all,  The possible exam dates are: 25.07.  9:30, 10:20, 11:10 07.08.  13:00, 14:00 08.08.  10:00, 11:00 13.08.  14:00, 16:00  Please write an email to tina.troebs@charite.de with at least three examination dates that work for you. She will then assign an exam date for you. If none of these examination dates work for you please write to Tina Troebs for an examination date in end of September.  Best Hinrich ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission Lab 9",
+                            "Discussion_Id": "603639",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083833",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-06-26T08:47:26+02:00",
+                                    "Content": "Dear all,  I forgot to add a submission for Lab 9, sorry.  I added the submission, so feel free to upload your lab session if you want a correction.  Best Hinrich",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 18th June 2024",
+                            "Discussion_Id": "601896",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081304",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-06-18T16:26:29+02:00",
+                                    "Content": "Dear All, Due to technical problems Anja Hennemuth will provide a video for todays lecture. Enjoy the sun!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Registration",
+                            "Discussion_Id": "597335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074680",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-05-28T13:15:51+02:00",
+                                    "Content": "Dear all,  please remember to register for the exam via Moses until the 15.07.24. We will schedule the exact dates of your oral examination after the 15.07.24.   Best Hinrich",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MRI Visit",
+                            "Discussion_Id": "596397",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073153",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-05-23T17:32:38+02:00",
+                                    "Content": "Dear all,  as announced in the lecture and the lab, we will have the MRI visit on MONDAY 27.05.24 at 16:00 s.t. Please be on time.  Best  Hinrich",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074036",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-05-27T11:49:25+02:00",
+                                    "Content": "You find the meetingpoint in this weeks \"Lecture\" pdf: https://isis.tu-berlin.de/mod/resource/view.php?id=1835221  Please be at the meeting point at 15:50.",
+                                    "Response to": "p1073153"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start of the Lab",
+                            "Discussion_Id": "586595",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057960",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-04-16T19:44:02+02:00",
+                                    "Content": "This week's lab is a do-it-yourself lab to get to know MeVisLab. Learn where to download the software and get started with the basics. While no submission is necessary this week, try to tackle as many tasks as you can, as we'll only briefly review the lab next week. Don't hesitate to reach out with any questions on the helpdesk forum. Our first in-person lab session will be on April 25th.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Helpdesk",
+                    "Forum_id": "1813529",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Approximate exam dates",
+                            "Discussion_Id": "601283",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080438",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-16T15:51:45+02:00",
+                                    "Content": "Dear Mr. Rahlfs, as you stated in the announcements, the exact exam dates will be announced after the 15.07.2024. It would help to get an approximate exam period for the Medical Image Processing Oral Exams (like for example a week in July/August where you plan) for the organisation of my/our exams. Is this possible from your site? It would be really helpful. Thank you very much! Kind Regards, Cederic Aßmann",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080580",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-06-17T10:06:50+02:00",
+                                    "Content": "We are planing the exams for the weeks 22.07.-09.08.  If none of these exam dates work for you, we can also provide exam dates in september.",
+                                    "Response to": "p1080438"
+                                },
+                                {
+                                    "Message_id": "p1080638",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-17T11:14:00+02:00",
+                                    "Content": "Thank you very much!",
+                                    "Response to": "p1080580"
+                                },
+                                {
+                                    "Message_id": "p1081986",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-06-20T13:49:13+02:00",
+                                    "Content": "I would like to hold my oral exam on August 1st, can we confirm that already?  Best Niklas",
+                                    "Response to": "p1080580"
+                                },
+                                {
+                                    "Message_id": "p1082332",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-06-21T13:31:59+02:00",
+                                    "Content": "Hi Niklas,  I am not able to confirm the exam date atm. We did not plan the existing exam slots yet and the available dates depend on the availabilities of Prof. Hennemuth. I should be able to give more information beginning of July.",
+                                    "Response to": "p1081986"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab session 9",
+                            "Discussion_Id": "602376",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081978",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-06-20T13:37:48+02:00",
+                                    "Content": "Hi, Is the lab session for Lab 9 happening today? Best regards, Niklas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082062",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-06-20T16:13:52+02:00",
+                                    "Content": "Yes it is happening.",
+                                    "Response to": "p1081978"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission Lab 8",
+                            "Discussion_Id": "601600",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080894",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-06-17T17:25:44+02:00",
+                                    "Content": "Hey, I am not able to submit my solutions for Lab 8, since there is not option for that in ISIS this week. Is this on purpose? Greetings, Niklas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080908",
+                                    "Author": "Nina Krüger",
+                                    "DateTime": "2024-06-17T17:47:03+02:00",
+                                    "Content": "Sorry about that! I just added the submission option.  Cheers, Nina",
+                                    "Response to": "p1080894"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab Session 8 | Image Data",
+                            "Discussion_Id": "600982",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079988",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-13T19:09:11+02:00",
+                                    "Content": "Dear Med IP Team, the paths you provided to the image data we want to registrate are either not existing or in my MeVisLab Setup is something wrong. Could you maybe upload the images we should registrate? Or did I missed something else? Kind regards, Cederic",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079989",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-06-13T19:23:02+02:00",
+                                    "Content": "You have to change „\\“ to „/„",
+                                    "Response to": "p1079988"
+                                },
+                                {
+                                    "Message_id": "p1079994",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-13T19:46:01+02:00",
+                                    "Content": "Thank you very much, you two!!",
+                                    "Response to": "p1079989"
+                                },
+                                {
+                                    "Message_id": "p1079990",
+                                    "Author": "Yann Lucien Michel Lerquemain",
+                                    "DateTime": "2024-06-13T19:25:27+02:00",
+                                    "Content": "The images are available in the install directory of meVisLab, under Packages / MeVisLab / ITK, Modules / ML / ITKExtras / Network / Images",
+                                    "Response to": "p1079988"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab4.2 Voxel Spacing",
+                            "Discussion_Id": "595584",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071991",
+                                    "Author": "Sebastian Kralik",
+                                    "DateTime": "2024-05-21T10:47:42+02:00",
+                                    "Content": "Hi, Is there a way to read PixelSpacing/SpacingBetweenSlices directly in a PythonArithmetic Panel (without loading the file once more with pydicom)? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071998",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-05-21T11:02:43+02:00",
+                                    "Content": "Hi, you can access it using the Info module.  ctx.field(\"Info.voxelSizeX\").value",
+                                    "Response to": "p1071991"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab3 Blobness calculation",
+                            "Discussion_Id": "592149",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066510",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-05-03T15:56:01+02:00",
+                                    "Content": "Dear all, Does anybody get good results for the blob detection algorithm? I was wondering by just implementing the formula: result[u, t, c, z, y, x] = sigma**2 * np.linalg.det(hessian) and changing the sigma from sigma = 1 to e.g. sigma = 35, the change highlights an inverse mask of the tumor.  I thought the tumor should be filled with the SoView2DOverlay module. Regarding the task .pdf it means that in the tumor region the det(hessian) is small -> no intensity peaks. Makes sense, but how to detect desired blobs? Has anybody the same problem? Can somebody give me a hint on that? Or is that the desired outcome? Thank you! Cederic Aßmann",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067500",
+                                    "Author": "Yann Lucien Michel Lerquemain",
+                                    "DateTime": "2024-05-06T22:11:05+02:00",
+                                    "Content": "I have the same issue. I also tried with a threshold on the eigenvalues of the Hessian Matrix instead of its determinant, to no avail. However, the eyes are detected very nicely (as they should).",
+                                    "Response to": "p1066510"
+                                },
+                                {
+                                    "Message_id": "p1067731",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-05-07T12:20:51+02:00",
+                                    "Content": "Hi,  There are multiple parts to the answer.  1. The size of the detected blobs needs to be changed in the module gaussHessian. (This is the module calculating the Hessian. The sigma in the RunPythonScript only scales the result).  2. A blob with an intensity maximum leads to negative eigenvalues => negative determinant. This is why you have a positive determinant at the eyes (dark blob) but a negative determinant at the tumor (light blob). You can try calculating the absolute value of the determinant or by multiplying by -1.  3. As you already see, blob detection is not the best method for tumor segmentation. You will hear about different methods in today's lecture.   For the submission, an implementation of blob detection is fine. You will not need to find the perfect sigma to get the maximum number of points.",
+                                    "Response to": "p1066510"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorial Class",
+                            "Discussion_Id": "591738",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065862",
+                                    "Author": "Naveed Ul Mustafa",
+                                    "DateTime": "2024-05-02T13:57:19+02:00",
+                                    "Content": "Hi, I am sort of confused where to find the Lab. Would appreciate if anyone helps me out.. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065876",
+                                    "Author": "Ann Laube",
+                                    "DateTime": "2024-05-02T14:10:54+02:00",
+                                    "Content": "Hi Naveed, we will upload the Lab 3 before the session this afternoon.",
+                                    "Response to": "p1065862"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Smoothing Algorithms 3D medical images",
+                            "Discussion_Id": "589685",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062764",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-04-25T10:20:34+02:00",
+                                    "Content": "Dear Mr. Rahlfs, Dear Mrs. Hennemuth, in the lecture, it was mentioned that those methods in the lecture 2 are simple and basic algorithms/techniques for visualisation, but not state-of-the-art. What are current state-of-the-art techniques for pretty 3D medical image visualisation. Imagining for the simple case of having a discrete looking MRI head like in Lab 1 Material, what would be the choice to get a smooth surface. I hope that I stated my question/suggestion understandable and hope that you could provide some information on that. Thank you Cederic",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung und Übung ",
+                            "Discussion_Id": "589011",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061692",
+                                    "Author": "Omar Mohamed Mohieldin Mahmoud Elgamal",
+                                    "DateTime": "2024-04-23T16:14:58+02:00",
+                                    "Content": "Hallo, Aus familiären Gründen kann ich die Vorlesung und die Übung erst ab nächster Woche besuchen. Wird das ein Problem sein?  Mit freundlichen Grüßen, Omar Elgamal",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062239",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-04-24T12:54:18+02:00",
+                                    "Content": "Hallo Omar,  please enter your questions in english so all students are able to get information if they need to.  Attendance to the lecture and exercise are not mandatory. I strongly encourage you to get familiar with the content of the lecture and implement&submit the Lab Exercises. The knowledge gained in the first lectures/exercises is the basis for the following weeks.  Best Hinrich",
+                                    "Response to": "p1061692"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recording of lectures",
+                            "Discussion_Id": "588876",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061492",
+                                    "Author": "Aleksander Gomilsek",
+                                    "DateTime": "2024-04-23T13:02:46+02:00",
+                                    "Content": "Hello, would it be possible to record the lectures, as I have a overlap with another course.  Best, Aleksander Gomilšek",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission",
+                            "Discussion_Id": "588307",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060588",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-04-22T11:20:34+02:00",
+                                    "Content": "Hey, where can we upload the networks for task 2 and 3 of the current lab exercise? Best, Niklas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060645",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-04-22T11:54:51+02:00",
+                                    "Content": "Hi Niklas,  you do not need to submit Lab1 as we did not provide a lab session with tutors. We will upload a solution next week so that you can check your solution.  Best Hinrich",
+                                    "Response to": "p1060588"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "RescaleSlope und RescaleIntercept missing in DICOM file 'Brain_Gliomatosis_T2-TIRM.dcm'",
+                            "Discussion_Id": "588253",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060489",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-04-22T10:11:22+02:00",
+                                    "Content": "Dear Mr. Rahlfs,  I was wondering about the missing tags of RescaleSlope and RescaleIntercept in the above named Dicom file. Could you please explain, why those tags are missing in this type of medical image data? Thank you and best regards! Cederic Aßmann",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060542",
+                                    "Author": "Hinrich Christian Rahlfs",
+                                    "DateTime": "2024-04-22T10:43:24+02:00",
+                                    "Content": "It is correct that the two are missing in this data set. This is because it is a T2-weighted MRI scan. RescaleIntercept/Slope are used to convert the voxel values into a unit. However, a T2-weighted MRI scan is not a quantitative measurement and therefore cannot/does not need to be converted into a unit.  The situation is different for CT scans, for example. CT scans are quantitaive and are mesured in Hounsfield Units.",
+                                    "Response to": "p1060489"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Students Forum",
+                    "Forum_id": "1813532",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exercise partner",
+                            "Discussion_Id": "589964",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063182",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-04-25T18:13:46+02:00",
+                                    "Content": "Hey, Is anyone interested in working on the exercises together and submitting them together? Best Niklas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063290",
+                                    "Author": "Sebastian Kralik",
+                                    "DateTime": "2024-04-26T07:02:46+02:00",
+                                    "Content": "Hello Niklas, I would be happy to work together.",
+                                    "Response to": "p1063182"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

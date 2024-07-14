@@ -1,0 +1,50 @@
+[
+    {
+        "Course_Name": "P2_Üb_Bd-kunde_SoeSe24",
+        "Course_id": "36943",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1734093",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abstimmung zum Exkursionstag P2",
+                            "Discussion_Id": "603171",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083177",
+                                    "Author": "Felix Maximilian Engelke",
+                                    "DateTime": "2024-06-24T17:21:50+02:00",
+                                    "Content": "Hallo liebe Alle! Ihr könnt ab heute 18 Uhr abstimmen, an welchem Tag ihr an der Exkursion ins Bieselfließ (23.07/24.07/25.07) teilnehmen möchtet. Die Verteilung wird über eine gerechte Verteilung laufen. Ihr könnt bis zum 05.07. abstimmen. Das Ergebnis wird dann am nächsten Tag veröffentlicht. Am besten ihr macht es direkt, damit ihr es nicht vergesst. Wer nicht abstimmt, wird zufällig zugeteilt. Falls ihr dieses Semester nicht teilnehmen möchtet, gebt uns bitte Bescheid. Alle weiteren Infos zu der Exkursion findet ihr in den Ankündigungsfolien. Wir freuen uns auf euch! Bis dahin! Felix",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087157",
+                                    "Author": "Felix Maximilian Engelke",
+                                    "DateTime": "2024-07-07T13:30:33+02:00",
+                                    "Content": "Hallo liebe Alle,  die Abstimmungsergebnisse sind jetzt veröffentlicht. Personen, die nicht abgestimmt haben, wurden zugeteilt. Sagt gerne bescheid, wenn ihr nicht kommen werdet.  Bis dahin, Felix",
+                                    "Response to": "p1083177"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder Abstimmung Geländetag",
+                            "Discussion_Id": "605309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086232",
+                                    "Author": "Anne Wagner",
+                                    "DateTime": "2024-07-03T16:06:41+02:00",
+                                    "Content": "Liebe Studierende, ich möchte hiermit nur noch mal an die Wahl des Geländetages erinnern. Herzliche Grüße Anne Wagner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

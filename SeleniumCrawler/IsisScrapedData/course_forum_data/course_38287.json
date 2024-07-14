@@ -1,0 +1,198 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Quantum Computing",
+        "Course_id": "38287",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1804224",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Next Exercise Session ",
+                            "Discussion_Id": "606010",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087226",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-07-07T21:32:49+02:00",
+                                    "Content": "Dear Students, The next exercise session will be on Friday, 12 July 2024 Time: 14:00 to 16:00. There will be no exercise on Monday, 08 July 2024.  Regards, Darshit Suratwala",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088598",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-07-10T16:53:11+02:00",
+                                    "Content": "The next exercise session will be on Friday, 12 July 2024 Time: 14:00 to 16:00, in Room no. 004 Math building.",
+                                    "Response to": "p1087226"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam dates",
+                            "Discussion_Id": "604018",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084344",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-06-27T12:54:44+02:00",
+                                    "Content": "1st exam: Date: Monday, 05. August 2024  Time: 12:00 - 14:00 Place: EW 201  2nd exam: Date: Monday, 19. August 2024 14:00 - 16:00 Place: Place: MA 001",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Survey",
+                            "Discussion_Id": "603967",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084280",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-06-27T11:02:34+02:00",
+                                    "Content": "Dear Students, I hope you are doing well. A gentle reminder, that it would be great if you could fill out the survey form. The link is below:   https://befragung.tu-berlin.de/evasys/online.php?pswd=VT7C2. Regards, Darshit Suratwala",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation",
+                            "Discussion_Id": "602922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082809",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-06-24T09:47:40+02:00",
+                                    "Content": "Dear Mr./Ms. Prof. Dr. Seifert,  with this e-mail you will receive the link as well as the associated QR-code for a survey for your course \"Quantum Computing (Vorlesung/ Übung)\": https://befragung.tu-berlin.de/evasys/online.php?pswd=VT7C2.  The survey should take place from 06/17 - 06/28/2024. The survey period for individual courses can be extended on request. Please forward the link to other people in your group if necessary.  Please pass the link on to the students in the course and give them about 5 - 10 minutes to complete it. You are also welcome to use the QR-code at the end of this email.   Further information on evaluation at Faculty IV and tips for increasing the response rate can be found here.  You will receive the results of the survey after the end of the survey period, so you can still have a feedback meeting within the semester.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise Session",
+                            "Discussion_Id": "602877",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082750",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-06-24T06:24:00+02:00",
+                                    "Content": "Hello Students, Today's exercise session is from 14:00 to 16:00 in room number PC 203. Regards, Darshit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deutsch-Jozsa Algorithm File",
+                            "Discussion_Id": "600809",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079743",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-06-13T11:09:09+02:00",
+                                    "Content": "Hello Students,  The presentation in the pdf format has been attached below. Please have a look. Note: Many slides have been added later for better understanding and it will get updated as and when required. Regards, Darshit Suratwala",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081129",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-06-18T11:02:03+02:00",
+                                    "Content": "Hello Students,  The pdf file is attached below for your first tutorial which includes an explanation of the Deutsch-Jozsa Algorithm and how to install Qiskit.  Note: Complete the Hello World example by taking a screenshot of your work and creating a PDF by next week. I will tell you later how to upload it.  Note: To avoid uploading different files, I will edit the same attachment as we progress further in the tutorials.  Regards, Darshit",
+                                    "Response to": "p1079743"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise session",
+                            "Discussion_Id": "600298",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078991",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-06-11T13:54:12+02:00",
+                                    "Content": "Hello, There will be an exercise session on 17th June, Monday at 14:00 to 16:00, room number: PC 203",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture/session today",
+                            "Discussion_Id": "593900",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069279",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-05-13T08:14:16+02:00",
+                                    "Content": "Dear Students, Sorry for the inconvenience but there will be no lecture/session today due to unforeseen reasons. So see you all next week for the lecture and exercise session. Best Regards, Darshit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "no lecture today",
+                            "Discussion_Id": "585948",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057028",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-04-15T12:52:12+02:00",
+                                    "Content": "Dear students, sorry about the chaos today and me not showing up. Due to the shutdown of the TEL building (water flood all over from broken waterpipe) we have no offices and were told to do home office. As I want to give the course not via zoom, I thought that one of my team announced that the course will regularly start next week in person. So, see you all next week. Best,    jps",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions and Questions",
+                    "Forum_id": "1804225",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "YouTube Channel on Quantum Computing",
+                            "Discussion_Id": "607538",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089413",
+                                    "Author": "Peter Kopylov",
+                                    "DateTime": "2024-07-12T15:53:32+02:00",
+                                    "Content": "I discovered a really good YouTube channel explaining many things covered in the lecture in a clear and concise way, I wanted to share it. Check it out, it might be helpful!  https://www.youtube.com/@quantum-soar/featured",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "next exercise",
+                            "Discussion_Id": "604620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085250",
+                                    "Author": "Marco Alexander Gerometta",
+                                    "DateTime": "2024-07-01T12:14:48+02:00",
+                                    "Content": "Will there be another exercise session today?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085269",
+                                    "Author": "Darshit Paresh Suratwala",
+                                    "DateTime": "2024-07-01T12:30:01+02:00",
+                                    "Content": "There will be no exercise session today.",
+                                    "Response to": "p1085250"
+                                },
+                                {
+                                    "Message_id": "p1087105",
+                                    "Author": "Yvonne Marie Lasars",
+                                    "DateTime": "2024-07-06T19:09:21+02:00",
+                                    "Content": "Will there be one next Mon?",
+                                    "Response to": "p1085269"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LaTeX of today's lecture's formulas",
+                            "Discussion_Id": "603041",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082960",
+                                    "Author": "Friedrich Magnus Tschirpke",
+                                    "DateTime": "2024-06-24T12:54:55+02:00",
+                                    "Content": 

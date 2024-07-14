@@ -1,0 +1,108 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminars AG Geometrie",
+        "Course_id": "38993",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1811955",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Bobenko Seminar 23.07.2024, 10-12, MA 875",
+                            "Discussion_Id": "606860",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088442",
+                                    "Author": "Alexander Bobenko",
+                                    "DateTime": "2024-07-10T11:59:52+02:00",
+                                    "Content": "Das Seminar \"Geometrie und integrable Systeme\" findet am 23. Juli um 10 Uhr in MA 875 statt. Die Vorträge findet man in ISIS. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar date Sullivan: Mo. 22.7.",
+                            "Discussion_Id": "606142",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087418",
+                                    "Author": "John Matthew Sullivan",
+                                    "DateTime": "2024-07-08T11:20:31+02:00",
+                                    "Content": "The talks in my part of the seminar (Geometry and Topology) will be held on Monday, 22 July from 10:00 (s.t.) to 16:00 in the H-Café, MA 875. The exact schedule is posted on ISIS.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar date Springborn",
+                            "Discussion_Id": "605323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086248",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-07-03T16:35:59+02:00",
+                                    "Content": "The Springborn-seminar will take place in on Wednesday, July 24, from 10:00 (s.t.)  to 18:00, including a lunch break from 13:00-14:00. The room is MA 875.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Terminplaner for Seminar \"Geometry and Topology\"",
+                            "Discussion_Id": "605262",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086171",
+                                    "Author": "John Matthew Sullivan",
+                                    "DateTime": "2024-07-03T13:25:21+02:00",
+                                    "Content": "To the 5 students signed up for my part of the seminar: Please read the email I sent yesterday to your campus addresses, and fill out the Terminplaner so that we can schedule the talks.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar topics assigned",
+                            "Discussion_Id": "594297",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069934",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-05-14T12:04:50+02:00",
+                                    "Content": "Dear Students, sorry it took so long. We have assigned the topics with two goals in mind: 1. As many students as possible should get a topic. 2. Respect first choices as often as possible.  You can see the results here. Next, please contact the respective professor to discuss your topic. If you did not get a topic this time, there are still some left to choose. Sincerely, Boris Springborn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Choose your topics",
+                            "Discussion_Id": "592073",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066386",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-05-03T12:51:27+02:00",
+                                    "Content": "If you would like to give a talk in one of the seminars, please choose your favorite topics by the end of next Tuesday, 7 May. See the ISIS-page for instructions.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First meeting",
+                            "Discussion_Id": "589337",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062221",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-04-24T12:40:37+02:00",
+                                    "Content": "The first meeting of the geometry and mathematical physics seminars will take place on Tuesday 30 April, at 14:15 in room MA 875. We will present the topics, and afterwards you will have a few days time to choose.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "Course_Name": "Data Analytics für Chemieingenieure und Chemiker (Integrierte Veranstaltung) SS 2024",
+        "Course_id": "37548",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1762688",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "AI policy",
+                            "Discussion_Id": "606345",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087694",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-07-08T16:44:37+02:00",
+                                    "Content": "Dear students,  You may wonder why a class on machine learning needs an AI policy. I just want to make sure that we are all on the same page: you are allowed to use ChatGPT and other large language models (LLMs) for coding. you are responsible for the quality and correctness of the results obtained this way. LLM code isn't always good. Use at your own risk.  You must disclose the use of LLMs for coding, and mark the respective code sections. This also applies if you modified the mode. In this case mark it as \"Adapted from [LLM] code\".  You must disclose as well if you use LLMs for hypothesis generation or model selection. The use of LLMs for data postprocessing is prohibited. Your code must work with the original data provided in the download. Please also disclose which LLM was used (e.g. ChatGPT, Perplexity.ai, etc.). Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literature recommendations",
+                            "Discussion_Id": "605077",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085909",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-07-02T17:00:27+02:00",
+                                    "Content": "Dear students,  I would like to give you some literature recommendations. Unfortunately, since the field of Data Science is developing so quickly, textbooks become outdated before they are even published, so take everything with a grain of salt. Particulary, the Python examples in textbooks often don't work with the most recent versions of the used packages and require updating. And there is no chemistry-focused textbook as far as I am aware of, so you have to connect the dots between the textbooks and original literature yourselves. These books are good starting materials: P. Sarang: \"Thinking Data Science\" (2023): good introduction into the workflow, a few errors, Python examples already require updating in most cases. Github repository. Unlike traditional classes, websites are often better resources: E. Medina et al.: Webbook: Machine learning in chemical engineering: Machine learning techniques with a focus on chemical engineering Towards Data Science Website: not everything accessible, but more extensive resource than textbooks distill.pub website: more advanced examples in visual style with a focus on image processing. Some useful articles: A gentle introduction into graph neural networks Understanding convolutions on graphs Exploring Bayesian Optimization (was not a topic in the class, but you will encounter this in the literature) How to use t-SNE effectively Geeks for Geeks website: has an article about almost every method. Some recommended general readings: Feature Engineering Introduction to Dimensionality Reduction Types of Machine Learning Underfitting and Overfitting What Are Embeddings in Machine Learning? What is Generative AI? Scikit documentation: check this out if you are interested in the details and parameters of individual methods  Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project work",
+                            "Discussion_Id": "604912",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085685",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-07-02T10:41:43+02:00",
+                                    "Content": "Dear students,  This is just a little reminder: if you want to use the seminar class time today to work on your group project, feel free to do so. I will unlock the room TC033 at 2:15 pm, so you can use it for your group work. Please keep it clean and don't be noisy :-)   Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fellowship opportunity at TU Berlin",
+                            "Discussion_Id": "603677",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083890",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-06-26T10:13:28+02:00",
+                                    "Content": "Dear students,  Currently, the application for the \"Deutschlandstipendium\" is open at TU Berlin. All students enrolled at TU Berlin (Bachelor/Master) are eligible to apply. The fellowship is dedicated to excellent students, but personal circumstances are also considered and comes with 300 €/month funding for one year (and can be extended by one year). Please find more information here: https://www.tu.berlin/careerservice/d-stipendium/nachrichtendetails/jetzt-bewerben-deutschlandstipendium-2024-2025  Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Script Sharing for Group Projects",
+                            "Discussion_Id": "603536",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083666",
+                                    "Author": "Iris Guo",
+                                    "DateTime": "2024-06-25T17:05:30+02:00",
+                                    "Content": "Hi All,  As you are starting to work on the group projects, for those who wants to use shared scripts, Google Colab (https://colab.research.google.com/notebooks/intro.ipynb) is a reasonable option. Check out their FAQ page (https://research.google.com/colaboratory/faq.html) if you are interested. Additionally, this stackoverflow thread https://stackoverflow.com/questions/55253498/how-do-i-install-a-library-permanently-in-colab discusses ways to set up an environment so that you don't need to re-install the missing dependencies each time.  Note: Google Colab assigns quota to the user, and will shut down your script after prolonged inactivity or a long runtime. It is probably preferable to write and run codes locally, and only upload the refined codeblocks and saved variables to the shared workspace. You can also use TUBCloud for file sharing.  Best Regards, Iris Guo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "About group projects",
+                            "Discussion_Id": "603282",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083344",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-06-25T09:09:24+02:00",
+                                    "Content": "Dear students,  Thank you for signing up for the group projects yesterday. I created a group selector. Please sign into your respective groups (A-E). This will later enable the group homework submission. I forgot to mention yesterday, we have assigned group work tutors: For the project 1 (catalysis), Iris will be your advisor,  and for project 2 (organic solar cells), I will be your advisor.  If you need help figuring out the project or have questions, please direct them to the responsible person. In addition to the short introduction on the projects I gave yesterday, I have also uploaded more detailed project descriptions where you can read more details on the projects. Please find the project data in the general section on top of the ISIS page.   Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Research projects",
+                            "Discussion_Id": "601819",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081206",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-06-18T13:58:31+02:00",
+                                    "Content": "Dear students,  Next Monday, June 24, we will give out the projects and form project groups. Please be aware that the completion of the project is the requirement to get credit for the class. This is why I ask everyone who would like to have credit for the class to be in class next Monday and join a project group. If you can't come to class on Monday and don't have a group yet, please let me know.   Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Datacamp",
+                            "Discussion_Id": "600428",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079188",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-06-11T19:33:02+02:00",
+                                    "Content": "Dear students,  As some of you may have noticed, the access to DataCamp has expired. I'm trying to get it renewed. Please be patient, this may take a few days. I'll let you know when/if it's possible to continue the Datacamp course.  Best wishes Franziska Hess",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079297",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-06-12T09:45:13+02:00",
+                                    "Content": "Dear students,  The Datacamp access was approved over night. Unfortunately, I had to recreate the class, which means you have to sign up again, and your progress bar is back to zero :-( But you can jump right into the course you were working on last and don't need to redo everything. Please use the new sign-up link: https://www.datacamp.com/groups/shared_links/6ad97fe0e515246900327e154e8749db62e6d10ef73bc7028e5d7cd7abe80980  Sorry about the inconvenience Franziska Hess",
+                                    "Response to": "p1079188"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses registration",
+                            "Discussion_Id": "596271",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072964",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-05-23T11:56:30+02:00",
+                                    "Content": "Dear students,  The registration in Moses is now open. You can register until 19.7.24. Please mind that the exam dates will be arranged individually with each group during the semester break, and there will be several dates available. The content of the exam will be the group project work (presentation + discussion + general questions about the material).   Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom link for class",
+                            "Discussion_Id": "594347",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070007",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-05-14T14:01:57+02:00",
+                                    "Content": "Dear students,  Please use the following link for the online class today: https://tu-berlin.zoom.us/j/69589938160?pwd=ZWVsUmtMbi8rVFdtelVSOG01MkRFUT09  Best wishes Franziska Hess",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070017",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-05-14T14:20:17+02:00",
+                                    "Content": "Sorry, this is the correct link:  https://tu-berlin.zoom.us/j/66997351162?pwd=TjNvd3NxQ1RjVXlhajJNc1pGNy94QT09",
+                                    "Response to": "p1070007"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar tomorrow, and classes next week",
+                            "Discussion_Id": "594127",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069641",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-05-13T16:30:57+02:00",
+                                    "Content": "Dear students,  The seminar tomorrow will take place online. We will open the room TC033 for you in case you would like to sit there to take the class, but you are free to attend from home as well, whichever suits you best. Next week, there will be no lecture because of the holiday. The seminar will take place on Tuesday as usual. Best wishes Franziska Hess  Zoom link to the seminar: https://tu-berlin.zoom.us/j/66997351162?pwd=TjNvd3NxQ1RjVXlhajJNc1pGNy94QT09 Meeting ID: 669 9735 1162 Passcode: 018960  (Edited by Iris Guo - original submission Monday, 13 May 2024, 4:30 PM)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture and seminar swapped next week",
+                            "Discussion_Id": "588542",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060987",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-04-22T16:34:20+02:00",
+                                    "Content": "Dear students,  Next week, the lecture and seminar will be swapped, which means that  the seminar will take place on Monday (April 29), at 2:15 pm, and  the lecture will take place on Tuesday (April 30), at 2:15 pm.  Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neue Eigenständigkeitserklärung",
+                            "Discussion_Id": "587716",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059620",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-04-19T14:33:25+02:00",
+                                    "Content": "Liebe Studierende, die TU Berlin empfiehlt eine neue Eigenständigkeitserklärung (s.u., in der Version mit KI-Tools). Bitte übernehmen Sie diese für Ihre Abschlussarbeiten. Viele Grüße Franziska Hess Eigenständigkeitserklärung Hiermit versichere ich, dass ich die vorliegende Arbeit ohne Hilfe Dritter und ausschließlich unter Verwendung der aufgeführten Quellen und Hilfsmittel angefertigt habe. Alle Stellen die den benutzten Quellen und Hilfsmitteln wörtlich oder inhaltlich entnommen sind, habe ich als solche kenntlich gemacht. Sofern generative KI-Tools verwendet wurden, habe ich Produktnamen, Hersteller, die jeweils verwendete Softwareversion und die Art der Nutzung (z.B. sprachliche Überprüfung und Verbesserung der Texte, systematische Recherche) benannt. Ich verantworte die Auswahl, die Übernahme und sämtliche Ergebnisse des von mir verwendeten KI-generierten Outputs vollumfänglich selbst. Die Satzung zur Sicherung guter wissenschaftlicher Praxis an der TU Berlin vom 8. März 2017. https://www.static.tu.berlin/fileadmin/www/10000060/FSC/Promotion___Habilitation/Dokumente/Grundsaetze_gute_wissenschaftliche_Praxis_2017.pdf habe ich zur Kenntnis genommen. Ich erkläre weiterhin, dass ich die Arbeit in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegt habe.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: First Data Analytics lecture ",
+                            "Discussion_Id": "585660",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056566",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-04-12T16:44:06+02:00",
+                                    "Content": "Dear students,  Just a reminder: there will be no Data Analytic lecture on Monday! The first lecture will take place on Tuesday, 2:15 pm, at TC033.  Best wishes Franziska Hess",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion",
+                    "Forum_id": "1762690",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Use of Datacamp?",
+                            "Discussion_Id": "587022",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058545",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-17T17:09:00+02:00",
+                                    "Content": "Hi, Is the datacamp considered for personal use or are those topics/tasks we'll solve during our seminar?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058580",
+                                    "Author": "Franziska Heß",
+                                    "DateTime": "2024-04-17T17:52:15+02:00",
+                                    "Content": "We will have different problems in the seminar. The Datacamp is for supplementary information/practice/examples if you want to dive deeper into the topics. It's not mandatory, but recommended if you have time or want to do revision later in the semester.",
+                                    "Response to": "p1058545"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

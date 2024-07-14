@@ -1,0 +1,89 @@
+[
+    {
+        "Course_Name": "[SoSe 2024 & WiSe 2024/25] Design Methods for Sustainable Thermal Systems",
+        "Course_id": "38624",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1798161",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No lecture or practice session in the week of July 15",
+                            "Discussion_Id": "607067",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088730",
+                                    "Author": "Stefan Elbel",
+                                    "DateTime": "2024-07-11T08:47:26+02:00",
+                                    "Content": "That means we are done for this semester... see you in October for part II",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture and no practice problem session in the week of June 10",
+                            "Discussion_Id": "599887",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078384",
+                                    "Author": "Stefan Elbel",
+                                    "DateTime": "2024-06-10T09:32:39+02:00",
+                                    "Content": "No lecture and no practice problem session in the week of June 10",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar on Monday, May 27 at 16:00",
+                            "Discussion_Id": "596036",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072638",
+                                    "Author": "Stefan Elbel",
+                                    "DateTime": "2024-05-22T15:14:40+02:00",
+                                    "Content": "We will have a seminar on Monday, May 27 at 16:00 in KT101 with Prof. Riley Barta from Purdue University. The title of his talk will be  \"Challenges and Opportunities with Environmentally Friendly Working Fluids in Thermal Systems\". Please join if you are available.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "DMSTS - Forum",
+                    "Forum_id": "1844703",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No lecture or practice problems in the week of June 24",
+                            "Discussion_Id": "602515",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082190",
+                                    "Author": "Stefan Elbel",
+                                    "DateTime": "2024-06-21T07:55:08+02:00",
+                                    "Content": "No lecture or practice problems in the week of June 24",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Updated lecture slides for Chapter 4",
+                            "Discussion_Id": "601753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081132",
+                                    "Author": "Stefan Elbel",
+                                    "DateTime": "2024-06-18T11:03:53+02:00",
+                                    "Content": "Please download the PDF for Chapter 4 again, I added the pipe network simulation we covered in class today. THX.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

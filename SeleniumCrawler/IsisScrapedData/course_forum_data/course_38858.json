@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Microwave and Radar Remote Sensing",
+        "Course_id": "38858",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1807744",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Recordings of the lecture",
+                            "Discussion_Id": "598932",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076987",
+                                    "Author": "Andreas Reigber",
+                                    "DateTime": "2024-06-04T16:43:32+02:00",
+                                    "Content": "Dear all, I finally uploaded the recordings of lecture 4. Additionally, I added links to recordings of lectures 1 to 3 from prior years. I usually change a few things here and there from year to year and don't explain everything the same way, but better something than nothing, right? There shouldn't be much of a difference. See you tomorrow, Andreas Reigber",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

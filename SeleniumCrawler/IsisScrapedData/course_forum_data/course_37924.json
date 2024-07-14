@@ -1,0 +1,128 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Thermodynamiksimulation von Fahrzeugantrieben",
+        "Course_id": "37924",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1773240",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung am 1.7. fällt aus",
+                            "Discussion_Id": "601799",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081184",
+                                    "Author": "Clemens Biet",
+                                    "DateTime": "2024-06-18T12:51:36+02:00",
+                                    "Content": "Hi, die TSF-VL am 1.7. wird ausfallen, da ich auf einer nichtverschiebbaren Dienstreise sein werde. Beste Grüße, Clemens Biet",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Musterlösung Übung 5",
+                            "Discussion_Id": "599197",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077379",
+                                    "Author": "Fatih Durmus",
+                                    "DateTime": "2024-06-05T16:31:05+02:00",
+                                    "Content": "Hallo zusammen, die Musterlösung ist hochgeladen!  Viele Grüße Fatih",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL hochgeladen",
+                            "Discussion_Id": "598651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076599",
+                                    "Author": "Clemens Biet",
+                                    "DateTime": "2024-06-03T17:38:37+02:00",
+                                    "Content": "Hi, ich habe jetzt die Unterlagen von VL6 und VL7 ergänzt. Hinweis: Bei VL6 gabs keine eKreide und bei VL7 gabs keine Folien. Schön weiter Bescheid sagen, wenn ich das Hochladen mal vergesse. Beste Grüße, Clemens Biet",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Hausarbeit 1",
+                            "Discussion_Id": "597057",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074228",
+                                    "Author": "Fatih Durmus",
+                                    "DateTime": "2024-05-27T15:22:31+02:00",
+                                    "Content": "Hallo zusammen, in der Aufgabenstellung steht als Abgabedatum Donnerstag, der 29.05.2024. Der 29.05.2024 ist jedoch ein Mittwoch. Die Abgabe soll also am Mittwoch, den 29.05.2024 um 10 Uhr erfolgen. Ich entschuldige mich für die mögliche Verwirrung, die dadurch entstanden ist.  Viele Grüße Fatih Durmus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Musterlösung Übung 4",
+                            "Discussion_Id": "596569",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073412",
+                                    "Author": "Fatih Durmus",
+                                    "DateTime": "2024-05-24T15:09:35+02:00",
+                                    "Content": "Hallo zusammen, wie in der Übung angekündigt habe ich Diagramme zu Übung 4 hochgeladen, mit denen ihr eure Modelle vergleichen könnt. Ich möchte noch mal darauf hinweise, dass ich gerne online Sprechstunden anbiete und bei der Terminfindung flexibel bin. Falls ihr diese beanspruchen möchtet schickt mir einfach euer aktuelles Modell und eure spezifischen Fragen zu. So kann ich euer Modell genauer Anschauen und euch besser helfen. Dann noch viel Erfolg mit der Hausarbeit und schönes Wochenende noch!  Viele Grüße Fatih",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "594686",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070538",
+                                    "Author": "Fatih Durmus",
+                                    "DateTime": "2024-05-15T15:17:09+02:00",
+                                    "Content": "Hallo zusammen, hiermit nochmal der Hinweis, dass die Prüfungsanmeldungen bis heute 23:59 Uhr erfolgen müssen.  Viele Grüße Fatih Durmus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hybrid Übung &amp; Simulink",
+                            "Discussion_Id": "588471",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060865",
+                                    "Author": "Fatih Durmus",
+                                    "DateTime": "2024-04-22T14:50:09+02:00",
+                                    "Content": "Hallo zusammen, wie in der ersten Übung angekündigt, bitte ich euch bis zur nächsten Übung Simulink und Matlab runterzuladen. Hier die Anleitung zum Installieren von Simulink und Matlab  Weiterhin wollte ich euch mitteilen, dass die nächste Übung noch Hybrid sein wird; anschließend werden die Übungen (vorläufig) nur noch vor Ort stattfinden.    Viele Grüße Fatih Durmus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1817395",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Whatsapp Gruppe",
+                            "Discussion_Id": "590299",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063667",
+                                    "Author": "Jeremy Rößler",
+                                    "DateTime": "2024-04-26T16:58:49+02:00",
+                                    "Content": "Hello, ich hab mal ne Whatsapp Gruppe erstellt, könnte die Gruppenfindung und evtl bei Fragen zu den Hausaufgaben oder so helfen: https://chat.whatsapp.com/HzdRemRhg56FOQBSpKByOD Jeremy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

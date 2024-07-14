@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Inverse Problems",
+        "Course_id": "37452",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1759331",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Time and place",
+                            "Discussion_Id": "584354",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054710",
+                                    "Author": "Ruming Zhang",
+                                    "DateTime": "2024-04-02T10:52:34+02:00",
+                                    "Content": "Monday 10:00-12:00, Mar 0.002 Wednesday 10:00-12:00, Mar 0.015",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

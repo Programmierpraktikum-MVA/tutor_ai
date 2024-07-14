@@ -1,0 +1,152 @@
+[
+    {
+        "Course_Name": "[SS24] RoboCup",
+        "Course_id": "37023",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1741901",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hands on NAO",
+                            "Discussion_Id": "597650",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075127",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-05-29T14:08:52+02:00",
+                                    "Content": "In next week (6.6.2024), we will have on site lecture/meeting in ZEKI (https://ze-ki.de/), you can access to real NAO in groups. Please bring laptop with you. I will collect you together in end front door at 13:00. I have room booked from 13:00-15:00. If you can only join later, please leave message here.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1741904",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Clarification Needed on \"Joint-Control\" Tasks",
+                            "Discussion_Id": "593751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069038",
+                                    "Author": "Duc Anh Hoang",
+                                    "DateTime": "2024-05-11T13:08:13+02:00",
+                                    "Content": "Hello, I've got a few questions about the tasks we're working on in \"Joint-Control.\" Can we use the line \"from scipy.interpolate import CubicSpline\" in Task 2, \"Keyframe Motion\"? When we call NAO, should it start moving right away, or should it wait until perception.time is 0? What will be the method of control for these tasks? Thanks for the help. Best, Duc Anh Hoang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Issues with PyCharm",
+                            "Discussion_Id": "591157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064979",
+                                    "Author": "Willy Siegfried Erich Malke",
+                                    "DateTime": "2024-04-30T12:02:52+02:00",
+                                    "Content": "Hello,  I have run into an issue when trying to open the project in PyCharm. For some reason, the IDE does not recognize the import \"from spark_agent import SparkAgent\" in any of the files where it's called. I've been trying to solve the problem for a few days now, but I haven't found a solution yet. Everything was installed as required, but it still doesn't seem to work on PyCharm. Could someone please help me with this? Best regards, Willy Malke",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064994",
+                                    "Author": "Willy Siegfried Erich Malke",
+                                    "DateTime": "2024-04-30T12:15:51+02:00",
+                                    "Content": "I forgot to say that it is an \"Unresolved reference\" error for both 'spark_agent' and SparkAgent",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065872",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-05-02T14:07:46+02:00",
+                                    "Content": "I have no experience with pycharm, but I think it is related to you working directory, e.g. change working directory to root of project. or add root of project to PYTHONPATH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project organisation",
+                            "Discussion_Id": "589916",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063110",
+                                    "Author": "Mateusz Zakrzewski",
+                                    "DateTime": "2024-04-25T16:34:50+02:00",
+                                    "Content": "Hello,   I would like to ask, how this project is going to look like?  Right now there are some tasks to learn to implement the movement of the robot. I understand that this is a preparation for the project.  Is there any specified task to do for a project, or each group can look for anything they want?  How is it going to be organized? Is there any schedule of the project? How is it going to be pointed / graded?   Thank you in advance, Mateusz Zakrzewski ",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064319",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-29T12:05:22+02:00",
+                                    "Content": "Hi,  The project will be done in small group of student, topic should be a small demonstration of autonomous robot ( e.g. including sense, think, act)  The project is planned to start after sessions online in first weeks, but it also depends on when we have access to our lab (The TEL building is closed now, hopefully it will open again)  You can check slides from first week for grading guideline (and other information you asked here)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration",
+                            "Discussion_Id": "587490",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059257",
+                                    "Author": "Ben Richter",
+                                    "DateTime": "2024-04-18T20:05:30+02:00",
+                                    "Content": "Hey,  in the QA-Session we were pointed to the moses page to register for this course but I can't find an option to register on the moses page. Is the registration available yet?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1060594",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-22T11:23:19+02:00",
+                                    "Content": "Hi, thanks for reporting, I have asked my colleague to help on this issue, will let you know when it works.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1060639",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-04-22T11:52:46+02:00",
+                                    "Content": "Moses registration is now open",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Issue with the Installation ",
+                            "Discussion_Id": "587916",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059932",
+                                    "Author": "Duc Anh Hoang",
+                                    "DateTime": "2024-04-20T01:46:58+02:00",
+                                    "Content": "Hey, during the installation process, specifically when trying out the sample agent, I encountered an error message: Traceback (most recent call last):   File \"C:\\Users\\[...]\\programming-humanoid-robot-in-python\\software_installation\\spark_agent.py\", line 8, in <module>     from sexpr import str2sexpr   File \"C:\\Users\\[...]\\programming-humanoid-robot-in-python\\software_installation\\sexpr.py\", line 7, in <module>     import future ModuleNotFoundError: No module named 'future'   I'd appreciate your assistance in resolving this issue. Thanks in advance.  Best regards, Duc Anh Hoang",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1060601",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-22T11:26:00+02:00",
+                                    "Content": "Hi, the problem is recent python 3 version remove `future` package, you can simply remove this line 7 in sexpr.py, or install `future` package with `pip3 install future`",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1060603",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-22T11:28:55+02:00",
+                                    "Content": "or you can pull the code again, I have fixed it with try ... except",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

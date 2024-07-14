@@ -1,0 +1,180 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Machine Intelligence II: Unsupervised Methods",
+        "Course_id": "37912",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1772916",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Office hour from 9am instead of lecture next week",
+                            "Discussion_Id": "607416",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089216",
+                                    "Author": "Ronja Anita Barbara Strömsdörfer",
+                                    "DateTime": "2024-07-12T10:29:20+02:00",
+                                    "Content": "Dear all,  next week Friday, the 19th of July, there will be no lecture. Instead I will use the room from 9 - 10 am to offer you a space to ask questions regarding the exam. I will not prepare anything (additional) for that hour.  Best,  Ronja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework tutorial today only online",
+                            "Discussion_Id": "605711",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086797",
+                                    "Author": "Ronja Anita Barbara Strömsdörfer",
+                                    "DateTime": "2024-07-05T10:33:29+02:00",
+                                    "Content": "Dear all,   due to some unexpected events, today the homework tutorial will only take place online. You can access it via zoom : https://tu-berlin.zoom.us/j/67334859019?pwd=rPKMb8FIhozAyX2BLIc5U0OJdwKlXp.1  Best,  Ronja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No big tutorial next week Thursday (13.06.2024)",
+                            "Discussion_Id": "599029",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077144",
+                                    "Author": "Ronja Anita Barbara Strömsdörfer",
+                                    "DateTime": "2024-06-05T16:00:00+02:00",
+                                    "Content": "Dear all,  since I am absent, I can not give the tutorial next week Thursday (13.06.2024), neither 10-12, n'or 13:30-15. We will continue with the topic of '3.0 Stochastic Optimization' on Thursday the 20th of June.  To not lose track due to the two-weeks break, I will give an office hour on Wednesday, the 19th of June from 9-10 am in MAR 5060. You can come with questions regarding all topics we have discussed up until that point.  Best,  Ronja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No HW-Tutorial tomorrow, Friday 17.05.2024",
+                            "Discussion_Id": "594903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070862",
+                                    "Author": "Ronja Anita Barbara Strömsdörfer",
+                                    "DateTime": "2024-05-16T12:21:43+02:00",
+                                    "Content": "Dear all,  due to some unfortunate events, Kris' homework tutorial for tomorrow (Friday, the 17th of May 2024) has to be canceled.  All the best,  Ronja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder",
+                            "Discussion_Id": "592845",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067631",
+                                    "Author": "Ronja Anita Barbara Strömsdörfer",
+                                    "DateTime": "2024-05-07T10:33:25+02:00",
+                                    "Content": "Dea all,  as a friendly reminder, this week (Thu, 09.05.24 & Fri 10.05.24) no tutorials, no lecture, due to the holiday this Thursday.  Enjoy your free time! Ronja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Room found for HW-Tutorial",
+                            "Discussion_Id": "587828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059795",
+                                    "Author": "Ronja Anita Barbara Strömsdörfer",
+                                    "DateTime": "2024-04-19T17:39:19+02:00",
+                                    "Content": "Dear all,  as is seems, we can use the room MAR 5060 for the homework-tutorials, starting next week Friday 12-14 for everyone that's interested. Further information about this can be found in Lecture 0.0: Course Organization or Course Schedule.  Best,  Ronja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Public Discussion Forum",
+                    "Forum_id": "1772917",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "IMPORTANT: TOPICS HW TUTORIAL THIS WEEK",
+                            "Discussion_Id": "607300",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089044",
+                                    "Author": "Kristian Kutzke",
+                                    "DateTime": "2024-07-11T17:40:44+02:00",
+                                    "Content": "Hello, in contrast to our agreement last week, to talk about the \"mock exam\" this week in the HW tutorial, I will move this to next week, as I have not had the time yet to take a look at it.  As always you will be able to discuss Sheet 1 up to the current Sheet, Sheet 9 with me. Furthermore, as always we can also discuss theory and also the mock exam, however on the second one, this time I might not be able to answer all questions properly. This only will be the case next week. Similarly, as I have not received any specific topic requests for this week, I won't be especially prepared to explain lecture material in detail, just as usual from my regular knowledge. Therefore I want to emphasize again to please name specifics about topics until next Wednesday evening, in case you want to discuss lecture material on them in detail next week.   See you tomorrow, Kris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Information about HW Tu today",
+                            "Discussion_Id": "604194",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084599",
+                                    "Author": "Kristian Kutzke",
+                                    "DateTime": "2024-06-28T10:13:18+02:00",
+                                    "Content": "Hello, just as a reminder in case I forgot to mention it last time: For those of you who generally come without homework questions, but uniquely for my explanations on theoretical parts of homework or tricky parts of code, today it will be a pure question-orientated tutorial, as this weeks sheet (Sheet 7) does not require much additional explanations and solutions from me if u did NOT try to do it yet. Apart from that, I will as always answer questions and help out with your solutions on this sheet. Furthermore, as has been the case lately, due to low number of questions on the current sheets, I expect again to be able to answer questions on all sheets up to and including Sheet 7. If you want to listen in on those discussions, you are naturally also welcome to attend. Yours, Kris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "NO HW Tutorial today due to sickness!!!",
+                            "Discussion_Id": "598082",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075751",
+                                    "Author": "Kristian Kutzke",
+                                    "DateTime": "2024-05-31T10:58:22+02:00",
+                                    "Content": "See the title please, sorry!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "H1.1 - PCA - Shape Problem when Reconstructing Data",
+                            "Discussion_Id": "593850",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069193",
+                                    "Author": "Tom Rüger",
+                                    "DateTime": "2024-05-12T19:35:26+02:00",
+                                    "Content": "Hi, I am not sure how to reconstruct the PCA data when only a single eigenvector (PC1 or PC2) is used, i.e. M = P C 1 . The solution states, that the matrix M should be inverted, but this is only possible for square matrices and not for vectors, right? (At least I get an error message when I try to use numpy.linalg.inv on an eigenvector) . So how can I invert a vector or is this even required? Maybe I don't understand the formula correctly.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework upload url",
+                            "Discussion_Id": "590917",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064606",
+                                    "Author": "Borja Esteban Sanchis",
+                                    "DateTime": "2024-04-29T16:27:37+02:00",
+                                    "Content": "Dear organisers, In the organisation slides, we can find it: \"\"\" For each sheet, submit one zip file per group via ISIS containing: 1 Jupyter notebook with source code and results for programming exercises 2 PDF file with results (e.g. scanned hand-written solutions; PDF of Jupyter notebook) \"\"\" However, I can't find such a place to upload our answers. Maybe it's my fault, there are too many elements on the moodle page. Could you indicate in more detail where to upload the answers? Best regards, Borja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a Study/Homework Group",
+                            "Discussion_Id": "587590",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059416",
+                                    "Author": "Tom Rüger",
+                                    "DateTime": "2024-04-19T10:45:39+02:00",
+                                    "Content": "Hi, I am looking for some people who would like to meet regularly and solve the exercise sheets together.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

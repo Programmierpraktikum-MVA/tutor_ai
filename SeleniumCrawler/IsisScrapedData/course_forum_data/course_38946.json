@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Water Treatment",
+        "Course_id": "38946",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1826218",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Course evalutaion",
+                            "Discussion_Id": "605413",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086378",
+                                    "Author": "Aki Sebastian Ruhl",
+                                    "DateTime": "2024-07-04T07:42:54+02:00",
+                                    "Content": "Dear Course Participants who could not come this Wednesday,  It would be helpful if you could provide a feedback in the course evaluation at the following address:  https://befragung.tu-berlin.de/evasys/online.php?pswd=K9QNU Your participation it highly appreciated! Thanks and best regards Aki S.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam",
+                            "Discussion_Id": "604152",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084532",
+                                    "Author": "Anastasiya H. S. Khamashta",
+                                    "DateTime": "2024-06-27T22:36:31+02:00",
+                                    "Content": "Good evening,   I was wondering when dates the exam is taking place and sadly couldn'd find anything online. Are the dates already known? Thanks in advance! Anastasiya",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Selection of dates for the laboratory course",
+                            "Discussion_Id": "590279",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063638",
+                                    "Author": "Aki Sebastian Ruhl",
+                                    "DateTime": "2024-04-26T16:16:46+02:00",
+                                    "Content": "Dear Participants, As discussed in our meeting this week, we moved the decisions regarding the dates for the laboratory course to ISIS. The poll is open now and you can influence the selection of dates there. The options with the largest numbers of agreements will be chosen. Please provide your choice until Friday next week (May 3). Best regards Aki S.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

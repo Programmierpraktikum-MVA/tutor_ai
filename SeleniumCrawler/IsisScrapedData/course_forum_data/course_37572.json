@@ -1,0 +1,81 @@
+[
+    {
+        "Course_Name": "Sicherheit gefügter Bauteile 1",
+        "Course_id": "37572",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1763328",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "606036",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087271",
+                                    "Author": "Michael Rethmeier",
+                                    "DateTime": "2024-07-08T08:40:29+02:00",
+                                    "Content": "Bitte gerne teilnehmen ;-) https://befragung.tu-berlin.de/evasys/online.php?pswd=Z3RMQ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folien Schweißsimulation aktualisiert",
+                            "Discussion_Id": "602431",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082067",
+                                    "Author": "Michael Rethmeier",
+                                    "DateTime": "2024-06-20T16:19:06+02:00",
+                                    "Content": "anbei die Folien zur Schweißsimulation:   https://isis.tu-berlin.de/pluginfile.php/3132638/mod_forum/post/1082067/VL_10_S_g_B_1_Schweisssimulation_Grundlagen_2024_06_04.pdf?time=1718893107520",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Link zu VL Unterlagen",
+                            "Discussion_Id": "586263",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057479",
+                                    "Author": "Michael Rethmeier",
+                                    "DateTime": "2024-04-16T09:31:48+02:00",
+                                    "Content": "https://tubcloud.tu-berlin.de/s/fK3MwpWzBtZ3Qta  PWD gibt's in der VL ;-)  Start HEUTE um 14:15 PTZ S105",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL Termine",
+                            "Discussion_Id": "585320",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056103",
+                                    "Author": "Michael Rethmeier",
+                                    "DateTime": "2024-04-10T16:43:09+02:00",
+                                    "Content": "Di. 14:00 – 16:00  (Start 14:15) PTZ S105  16.04.   Einführung  03.04.  Konstruktion „allgemein“ 30.04.  Konstruktion „Laser, Beanspr.   07.05.  Leichtbau Leichtmetalle    14.05.  Leichtbau Stähle 21.05.  entfällt          28.05.  (Gu)  Additive Manufacturing     04.06.  (AP)  Schweißsimulation  11.06.  Eigenspannungen 1 18.06.  Eigenspannungen 2    25.06.   Verzug + Zusammenfassung   Juli    entfällt  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Allgemeines",
+                            "Discussion_Id": "582576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1051927",
+                                    "Author": "Michael Rethmeier",
+                                    "DateTime": "2024-03-06T11:27:18+01:00",
+                                    "Content": "Die Vorlesung findet als Vor-Ort Vorlesung statt. Jeweils Dienstags von 14:15 - 15:45 Ort: PTZ S105 Vorlesungsunterlagen werden als pdf zum Download zur Verfügung gestellt. Zugangsdaten in der Vorlesung.  Prüfung: mündl. Prüfung des Gesamtmoduls (SgB 1 + Sgb 2) nach Vereinbarung",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Praktikum Psychoakustik",
+        "Course_id": "38454",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1792222",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Rücksprachetermine Labor Nr. 3",
+                            "Discussion_Id": "606815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088374",
+                                    "Author": "Moritz Schuck",
+                                    "DateTime": "2024-07-10T10:30:52+02:00",
+                                    "Content": "Hallo liebe Kursteilnehmende, es freut mich zu hören, dass Sie fleißig am finalen Protokoll Nr. 3 arbeiten.  Als kleine Randinfo möchte ich Ihnen noch einmal die Abgabe und Rücksprache Termine zusammenfassen. Sie haben bis Ende Sonntag den 14. Juli Zeit, Ihr Protokoll einzureichen. Bitte dafür das passende Modul Ihrer Gruppe im Kurs wählen. Rücksprachetermin wäre dann am Mittwoch 17. Juli als Online Zoom Call ab 14:00 Uhr (den Link werde ich rechtzeitig veröffentlichen). Ich schätze, dass wir für eine Feebackrunde circa 30 Minuten brauchen. Deshalb würde ich folgende Reihenfolge vorschlagen: Gruppe A: 14:00 - 14:30 Uhr Gruppe B: 14:30 - 15:00 Uhr Gruppe C: 15:00 - 15:30 Uhr Liebe Grüße Moritz Schuck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Labor Nr. 3",
+                            "Discussion_Id": "604299",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084755",
+                                    "Author": "Moritz Schuck",
+                                    "DateTime": "2024-06-28T14:42:42+02:00",
+                                    "Content": "Liebe Studierende, vielen Dank für Ihre zahlreiche und zuverlässige Teilnahme am 3. Psychoakustik-Labor Paarvergleich und Rating Skala. Es freut mich sehr, dass Sie dem Praktikum mit viel Motivation entgegengekommen sind. Ich habe es inzwischen geschafft, Ihnen die Materialien zur Verfügung zu stellen. Ab sofort finden Sie die Hörversuchsdaten Ihrer Gruppe unter dem jeweiligen Modul im ISIS-Kurs. Für jede Gruppe gibt es ein ZIP-Paket, das die verwendeten Audiosignale, Audiologs sowie die Aufgabenstellung enthält. Die Aufgabenstellung für Gruppe A und Gruppe C unterscheidet sich nicht, aber bei Gruppe B ist Aufgabe Nummer 3 etwas verändert. Ich bitte die Mitglieder aus Gruppe A und Gruppe C, einen Datenaustausch durchzuführen. Da Ihre Gruppen eher klein sind, wäre es empfehlenswert, beide Datensätze für Ihre Auswertung zu berücksichtigen. Die Schalldruckpegel waren bei beiden Versuchsgruppen übereinstimmend kalibriert und dieselben Stimuli wurden präsentiert (nur die Reihenfolge war unterschiedlich), also bitte darauf achten. Für allgemeine Hinweise zur Auswertung und Interpretation von Paarvergleichsexperimenten stehen Ihnen das Laborskript sowie ein Tutorial von Prof. Inga Holube zur Verfügung, die Sie beide auf der Kursseite finden können. Bitte nehmen Sie die Abgabe im Kurs vor. Eine Person gibt für die gesamte Gruppe ab. Vergessen Sie nicht, davor den Kurztest durchzuführen! Bei weiteren Fragen kontaktieren Sie mich gerne (m.schuck@tu-berlin.de). Viele Grüße, Moritz Schuck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Labor SDT - Plotten von ROC-Kurven",
+                            "Discussion_Id": "601740",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081111",
+                                    "Author": "Niklas Meier",
+                                    "DateTime": "2024-06-18T10:39:21+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer am Praktikum Psychoakustik, für diejenigen unter Ihnen, die noch Probleme bei der graphischen Umsetzung ihrer ROC-Kurven haben bzw. mit dem Erscheinungsbild ihrer Plots nicht zufrieden sind, ist in ISIS nun ein Hifsmittel in Form eines Python-Skripts hinterlegt (benötigt Seaborn, Pandas, Numpy, Scipy und Matplotlib). Es müssen lediglich die Sensitivitätsparameter für die 4 experimentellen Bedingungen im ersten Abschnitt des Codes eingegeben werden. Bei Fragen können Sie mich gern kontaktieren.  Mit freundlichen Grüßen  Niklas Meier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Labor SDT - Frage zur Ermittlung von z-Werten",
+                            "Discussion_Id": "601563",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080845",
+                                    "Author": "Niklas Meier",
+                                    "DateTime": "2024-06-17T15:57:40+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer am Praktikum Psychoakustik, da in den letzten Tagen vermehrt die Frage aufkam, wie im Fall einer Häufigkeit h(Treffer)=1 bzw. h(falscher Alarm)=0 der dazugehörige z-Wert zu ermitteln sei, hier nochmal einige Anmerkungen zu diesem Problem: Eine verbindliche Lösung existiert nicht. Deshalb können Sie einen willkürlichen Wert unterhalb oder oberhalb der empirischen Häufigkeit ansetzen, der dann lediglich im Protokoll vermerkt werden sollte (z.B. 0.99 statt h(Treffer)=1 bzw. 0.01 statt h(falscher Alarm)=0). Jedoch gebe ich zu bedenken, dass die Wahl des \"Ersatzwertes\" elementar ist. 0.95  --> 1.64 (-1.64) 0.99  --> 2.32 (-2.32) 0.999  --> 3.09 (-3.09) 0.9999  --> 3.71 (-3.71)  Daher wird häufig ein Wert gewählt, der die Anzahl an vorliegenden Werten berücksichtigt. D.h.: Sind sich sehr viele Versuchsteilnehmende sicher, wird ein höherer Wert angesetzt, als wenn es sich nur um eine sehr kleine Stichprobe handelt. Hierbei könnte man beispielsweise einfach anwenden, 1/n (für 0) oder 1-1/n (für 1). Umso größer n ausfällt, desto zulässiger ist es, einen Wert nahe 0 bzw. 1 zu verwenden  Ich wünsche Ihnen viel Erfolg bei der Erstellung Ihres Protokolls!  Mit freundlichen Grüßen  Niklas Meier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Daten zum Hörversuch SDT hinterlegt",
+                            "Discussion_Id": "599469",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077756",
+                                    "Author": "Niklas Meier",
+                                    "DateTime": "2024-06-06T16:16:46+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer am Praktikum Psychoakustik, in ISIS sind nun die Daten hinterlegt, die zur Auswertung des Hörversuchs zur Signalentdeckungstheorie benötigt werden (Korrekturmatrizen für die Stimuluspräsentation, Audiodateien zur spektrografischen Darstellung, Hinweise zur Auswertung). Bitte reichen Sie Ihr Protokoll innerhalb folgender Fristen ein: Gruppe A: 24.06., 23.59 Uhr Gruppe B: 20.06., 23.59 Uhr Gruppe C: 24.06., 23.59 Uhr Mit freundlichen Grüßen Niklas Meier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsmodalitäten",
+                            "Discussion_Id": "598887",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076927",
+                                    "Author": "Cleopatra Christina Moshona",
+                                    "DateTime": "2024-06-04T14:55:39+02:00",
+                                    "Content": "Sehr geehrte Studierende, ab dem 10.06.2024 und bis zum 07.07.2024 ist es möglich sich für mündliche Prüfungen anzumelden.  Die Anmeldung findet über MTS statt. Die Termine sowie eine Anleitung zur Vorgehensweise finden Sie im Abschnitt \"Prüfungsanmeldung\" hier im ISIS-Kurs. Bitte lesen Sie die dort aufgelisteten Informationen aufmerksam durch. Beste Grüße, Cleopatra Moshona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Labor Psychoakustik",
+                            "Discussion_Id": "596059",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072672",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-05-22T15:58:15+02:00",
+                                    "Content": "Sehr geehrte Teilnehmende des Praktikums Psychoakustik, in der nächsten Woche findet das 2. Labor zur Signalentdeckungstheorie für die Gruppe A bzw. B sowie in der darauffolgenden Woche für die Gruppe C statt.  Unterlagen zum 2. Labortermin finden Sie im ISIS-Kurs. Bitte denken Sie daran, das Protokoll zum 1. Labor zur Bestimmung der Frequenzunterschiedsschwelle rechtzeitig im ISIS-Kurs abzugeben (bis zum 24.05. 23.59 Uhr) und den kurzen Online-Test zum Thema des 1. Labors (bis zum 26.05., 23.59 Uhr) zu absolvieren. Vielen Dank!  Bei Fragen können Sie mich gern jederzeit kontaktieren. Mit besten Grüßen, André Fiebig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hörerzahlerfassung",
+                            "Discussion_Id": "591723",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065844",
+                                    "Author": "Cleopatra Christina Moshona",
+                                    "DateTime": "2024-05-02T13:38:02+02:00",
+                                    "Content": "Liebe Studierende,  im Rahmen der allgemeinen Statistik zur turnusmäßigen Hörerzahlerfassung, sind wir verpflichtet die Anzahl der aktiv im ISIS-Kurs eingeschriebenen Personen an die zuständigen Stellen zu übermitteln. Sollten Sie an dem Kurs NICHT aktiv teilnehmen wollen, oder mit diesem Vorgehen NICHT einverstanden sein, tragen Sie sich bitte bis zum 10.05.2024 aus der Gruppe \"Hörerzahlerfassung\" aus.  Mit der Auflistung in der Hörerzahlerfassung geht für Sie keine Prüfungsverbindlichkeit einher.  Besten Dank, Cleopatra Moshona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Labortermine Psychoakustik",
+                            "Discussion_Id": "591558",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065605",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-05-02T09:03:43+02:00",
+                                    "Content": "Sehr geehrte Studierende, die Termine für erste Labor im Rahmen der Lehrveranstaltung \"Angewandte Psychoakustik\" stehen bevor. Morgen, Freitag (03.05.) um 10.00 Uhr, am Montag (06.05.) um 12.00 Uhr und am Mittwoch (08.05.) um 10.00 Uhr sind die Labortermine angesetzt (immer s.t.). Die Labortermine finden im TAP Seminarraum (Technische Akustik, Prüfhalle) statt und werden knapp 2h dauern. Bitte erscheinen Sie pünktlich und schauen sich die im ISIS-Kurs bereitgestellten Unterlagen im Vorfeld an. Mit freundlichen Grüßen, André Fiebig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

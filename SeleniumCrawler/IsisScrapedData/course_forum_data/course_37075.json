@@ -1,0 +1,129 @@
+[
+    {
+        "Course_Name": "KI an der TU Berlin",
+        "Course_id": "37075",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Diskussion zu KI",
+                    "Forum_id": "1745452",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "KI-Umfrage: Ihre Meinung ist gefragt! / Invitation to participate in the \"AI survey\" TU Berlin",
+                            "Discussion_Id": "602284",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081842",
+                                    "Author": "Katharina Kinga Kowalski",
+                                    "DateTime": "2024-06-20T09:27:29+02:00",
+                                    "Content": "Liebe Kolleg*innen,  die TU Berlin will ihre Mitarbeitenden durch ein bedarfsgerechtes Angebot an digitalen Systemen (insbesondere KI-gestützte Apps oder Software) sowie Schulungen zu digitalen und KI-Kompetenzen in ihrer Arbeit unterstützen. Dafür bitten wir Sie um Ihre Teilnahme an der TU-weiten Umfrage, mit der wir Ihre Erfahrungen, Einstellungen und Bedürfnisse in diesen Bereichen ermitteln möchten. Ihre Meinung ist uns wichtig!  Wir freuen uns, wenn Sie sich die Zeit nehmen, an der Umfrage teilzunehmen. Die Bearbeitung dauert nur ca. 15 Minuten. Sie finden die Umfrage unter: https://umfragen.tu-berlin.de/index.php/818974?lang=de  Bei Fragen und Rückmeldungen stehen wir Ihnen gerne unter cio@tu-berlin.de zur Verfügung.  Mit freundlichen Grüßen  Hans Laser, Veronique Riedel und Dr. Katharina Kinga Kowalski (Digital Office TU Berlin)   Invitation to participate in the \"AI survey\" TU Berlin  Dear colleagues,  The TU Berlin would like to support its employees in their work by providing a demand-oriented offer of digital systems (especially AI-based applications or software) and training courses for digital and AI skills. To this end, we would like to ask you to take part in a survey to find out about your experiences, attitudes and needs in these areas. Your views are important to us!  We would be grateful if you could take the time to complete the survey. It will only take about 15 minutes to complete. You can find the survey at https://umfragen.tu-berlin.de/index.php/818974?lang=en  If you have any questions or feedback, please do not hesitate to contact us at cio@tu-berlin.de.  Yours sincerely  Hans Laser, Veronique Riedel and Dr. Katharina Kinga Kowalski (Digital Office TU Berlin)  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Veranstaltungstipp: Tag der Lehre am Montag zu KI an der TU Berlin",
+                            "Discussion_Id": "595773",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072263",
+                                    "Author": "Levi Vincent Geiser",
+                                    "DateTime": "2024-05-21T17:35:55+02:00",
+                                    "Content": "Guten Tag, nächsten Montag (27.05.) findet ab 13:00 der Tag der Lehre 2024 \"Alles KI\" statt. Dieses Jahr wird der Tag studentisch organisiert und es wird um KI und studentische Akteur*innen gehen. Es gibt ein paar echt spannende Workshops zu KI-Tools, den KI Richtlinien und KI als Lehrthema sowie eine Infomesse mit vielen Akteur*innen aus KI in der Hochschullehre. Ganzes Programm unter https://www.tu.berlin/go253363/ Studentische Grüße Philipp und Levi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "EU AI Act",
+                            "Discussion_Id": "583239",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1052931",
+                                    "Author": "Elmer van der Wel",
+                                    "DateTime": "2024-03-14T15:51:29+01:00",
+                                    "Content": "Die EU KI-Richtlinie wurde beschlossen: https://taz.de/Gesetz-zur-kuenstlichen-Intelligenz/!5994905/ https://www.europarl.europa.eu/topics/de/article/20230601STO93804/ki-gesetz-erste-regulierung-der-kunstlichen-intelligenz Ich fände eine Einschätzung dazu für die Forschung ganz gut (in meinem Fall soziotechnische Forschung in Sachen Mobilität/Verkehr); an wen kann ich mich da wenden? Gibt es hier Einschätzungen? Beste Grüße, Elmer van der Wel, Zentrum Technik und Gesellschaft",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1052936",
+                                    "Author": "Roland Hauschulz",
+                                    "DateTime": "2024-03-14T16:26:24+01:00",
+                                    "Content": "Hej Elmer,  guter Punkt. Diese Information der EU-Kommission dazu ist sicherlich von Relevanz: https://ec.europa.eu/commission/presscorner/detail/de/QANDA_21_1683  (Beantwortet deine Fragen nicht, aber trägt etwas zur Klärung der meisten Fragen bei)  Zitat EU-Kommission: \" Welche Risikoeinstufungen gibt es? Die Kommission schlägt einen risikobasierten Ansatz mit vier Risikostufen für KI-Systeme sowie die Ermittlung spezifischer Risiken für KI-Modelle mit allgemeinem Verwendungszweck vor: [...] Hohes Risiko: Eine begrenzte Zahl von KI-Systemen, die im Vorschlag definiert werden und sich potenziell nachteilig auf die Sicherheit der Menschen oder ihre (durch die Charta der Grundrechte der Europäischen Union geschützten) Grundrechte auswirken, gilt als mit einem hohen Risiko behaftet. Dem KI-Gesetz beigefügt ist die Liste der KI-Systeme mit hohem Risiko. Diese Liste kann überarbeitet werden, um sie an die Entwicklung der KI-Anwendungsfälle anzupassen. [...] Gibt es Beispiele für die in Anhang III genannten Anwendungsfälle mit hohem Risiko? Bestimmte kritische Infrastrukturen, z. B. in Bereichen wie Straßenverkehr und Wasser-, Gas-, Wärme- und Stromversorgung; allgemeine und berufliche Bildung, z. B. Bewertung von Lernergebnissen, Steuerung des Lernprozesses und Überwachung von Prüfungsbetrug; [...] Ab wann wird das KI-Gesetz uneingeschränkt anwendbar sein? Nach seiner Annahme durch das Europäische Parlament und den Rat wird das KI-Gesetz am zwanzigsten Tag nach seiner Veröffentlichung im Amtsblatt in Kraft treten. Es wird dann 24 Monate nach dem Inkrafttreten in vollem Umfang anwendbar sein, wobei das folgende abgestufte Verfahren gilt: 6 Monate nach Inkrafttreten: Die Mitgliedstaaten schalten verbotene Systeme schrittweise ab; 12 Monate: Die Verpflichtungen in Bezug auf KI mit allgemeinem Verwendungszweck werden anwendbar; 24 Monate: Alle Vorschriften des KI-Gesetzes werden anwendbar, einschließlich der Verpflichtungen für Hochrisikosysteme, die in Anhang III (Liste der Anwendungsfälle mit hohem Risiko) festgelegt sind; 36 Monate: Die Verpflichtungen für Hochrisikosysteme gemäß Anhang II (Liste der Harmonisierungsrechtsvorschriften der Union) werden anwendbar.\"  Das beschlossene EU-Gesetz gibt es im Volltext hier: https://www.europarl.europa.eu/RegData/commissions/libe/inag/2024/02-02/CJ40_AG(2024)758862_EN.docx",
+                                    "Response to": "p1052931"
+                                },
+                                {
+                                    "Message_id": "p1055131",
+                                    "Author": "Elmer van der Wel",
+                                    "DateTime": "2024-04-04T15:24:55+02:00",
+                                    "Content": "Hey, etwas verspätet aber: vielen Dank für die Infos.  Zitat 1: As regards the management and operation of critical infrastructure, it is appropriate to classify as high-risk the AI systems intended to be used as safety components in the management and operation of road traffic and the supply of water, gas, heating and electricity, since their failure or malfunctioning may put at risk the life and health of persons at large scale and lead to appreciable disruptions in the ordinary conduct of social and economic activities.  Zitat 2: High-risk AI systems pursuant to Article 6(2) are the AI systems listed in any of the following areas: 2. Management and operation of critical infrastructure: (a)AI systems intended to be used as safety components in the management and operation of road traffic and the supply of water, gas, heating and electricity. Bin mir gerade unsicher ob ein ADS eines einzelnen Fahrzeuges auch als safety component klassifiziert werden würde. Freue mich auch auf Einschätzungen dazu :)",
+                                    "Response to": "p1052936"
+                                },
+                                {
+                                    "Message_id": "p1056506",
+                                    "Author": "Gabriela Fernandes",
+                                    "DateTime": "2024-04-12T13:08:01+02:00",
+                                    "Content": "Hey Elmer, ich kann nicht einschätzen, wie verlässlich die Info ist, aber evtl. interessant:   \"Consequently, rather than being subject to the AI Act, certain vehicle-related components (namely AI-related safety components within the meaning of the AI Act) shall likewise be caught by the Type-Approval Framework Regulation as sector-specific legislation, even if these products and systems qualify as high-risk AI (Art. 2(2)(f)).\" https://www.twobirds.com/en/insights/2023/global/impact-of-the-eus-ai-act-proposal-on-automated-and-autonomous-vehicles  Viele Grüße Gabriela",
+                                    "Response to": "p1055131"
+                                },
+                                {
+                                    "Message_id": "p1056577",
+                                    "Author": "Roland Hauschulz",
+                                    "DateTime": "2024-04-12T17:07:03+02:00",
+                                    "Content": "Hej Elmer,  hier gibt es auch noch was dazu. Hab mir das selbst allerdings noch nicht angeschaut. https://vimeo.com/910538582/1b3b1dbb33  Weitergeleitete Grüße, Roland",
+                                    "Response to": "p1052931"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wissenschaftliche Kommunikation",
+                            "Discussion_Id": "583397",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053157",
+                                    "Author": "Mario Birkholz",
+                                    "DateTime": "2024-03-18T11:06:14+01:00",
+                                    "Content": "Wir sollten bei der Nutzung der großen Kommunikationsplattformen berücksichtigen, dass dort KI-Methoden immer stärker verwendet werden. Verschiedene gut dokumentierte Beispiele zeigen, wie mit KI-gesteuerten Bot-Netzwerken z.B. der Klimawandel klein geredet und geleugnet wird (nur ein Fall von vielen: https://www.abc.net.au/news/science/2024-02-28/twitter-x-fighting-bot-problem-as-ai-spam-floods-the-internet/103498070 ). Wir müssen uns darauf einstellen, dass Posts auf den großen Plattformen immer stärker von finanzstarken Interessengruppen gekauft und mit KI-Methoden zur Manipulation der Öffentlichkeit eingesetzt werden. Dieses Problem ist den großen Plattformen inhärent und läßt sie zunehmend für die wissenschaftliche Kommunikation als ungeeignet erscheinen. Eine Gruppe von Wissenschaftler*innen und ITlern hat deshalb die Hochschulen aufgefordert, ihre Accounts auf X/Twitter stillzulegen und Mastodon und die wirklich sozialen Medien des Fediverse zu nutzen: https://www.openpetition.de/UnisInsFediverse; ein Ansatz, der gut mit den Vorgaben aus dem Leitbild der TU Berlin vereinbar ist. Grundsätzlich sollte die KI-Nutzung an der TU Berlin dem Ziel einer „gemeinwohlorientierten Digitalisierung“ folgen wie von Organisationen der Zivilgesellschaft formuliert (Wikimedia Deutschland, Open-Knowledge Foundation, Reporter ohne Grenzen u.a.).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ChatGPT datensparsam nutzen mit dem HAWKI-Interface",
+                            "Discussion_Id": "578289",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1045030",
+                                    "Author": "Mattis Neiling",
+                                    "DateTime": "2024-02-08T13:05:47+01:00",
+                                    "Content": "Die HAWK Hochschule in Hildesheim, Holzminden und Göttingen hat eine Open-Source-Software entwickelt, die ChatGPT datenschutzkonform auf Basis eines Interfaces \"API\" einbindet, vgl. https://hochschulforumdigitalisierung.de/blog/design-als-schnittstelle-zur-ki-wie-chatgpt-co-sinnvoll-nutzbar-werden/.  Mittlerweile setzen einige Hochschulen die Plattform ein und stellen ihren Mitgliedern bereits kostenlose Zugänge zur Verfügung, z.B. die Hochschule München und die Universität Hildesheim. Einer der Entwickler hinter HAWKI über LLMs und das Interface: https://yewtu.be/watch?v=W4cx1w4qCv0  --- Auf der Plattform Invidious https://yewtu.be/ können Videos von Youtube legal ohne Werbung angeschaut werden. Lediglich die Videodatei selbst wird von Youtube als externer Inhalt geladen. Youtube-Videos können über die Plattform Invidious  datensparsam abgespielt werden, indem die URL mit demselben „Watch-Code“ von Youtube aufgerufen wird, d.h. statt https://www.youtube.com/watch?v=rqpRQhK9Al0  wird https://www.yewtu.be/watch?v=rqpRQhK9Al0 aufgerufen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Willkommen!",
+                            "Discussion_Id": "577019",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1043187",
+                                    "Author": "Gabriela Fernandes",
+                                    "DateTime": "2024-02-02T12:28:59+01:00",
+                                    "Content": "Liebe TU-Kolleginnen und Kollegen, willkommen im ISIS-Kurs \"KI an der TU Berlin\"! Wir möchten Ihnen und euch hier eine Plattform bieten, verschiedenste Aspekte von KI zu diskutieren. Von sinnvollen Möglichkeiten für die Lehre über den Einsatz in der Forschung bis zur hilfreichen Nutzung für Technik, Service und Verwaltung. Herzliche Grüße Ihr Team digit (formerly known as Online-Lehre-Team)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1044691",
+                                    "Author": "Mattis Neiling",
+                                    "DateTime": "2024-02-07T15:02:48+01:00",
+                                    "Content": "Auf den Seiten des Forums Hochschuldigitalisierung gibt es eine Auswertung von Leitlinien/Handreichungen zu generativer KI an HS:  https://hochschulforumdigitalisierung.de/wp-content/uploads/2024/02/Blickpunkt-Leitlinien.pdf",
+                                    "Response to": "p1043187"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

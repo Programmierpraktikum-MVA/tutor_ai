@@ -1,0 +1,107 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Automatisierungstechnik",
+        "Course_id": "38801",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1805429",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Notizen Übung",
+                            "Discussion_Id": "606236",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087550",
+                                    "Author": "Alexander Rudolph",
+                                    "DateTime": "2024-07-08T13:41:56+02:00",
+                                    "Content": "Hallo zusammen, die gesammelten Notizen zur Übung (AT UE SoSe24 Notizen) findet ihr unter Übung 7. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termin Sprechstunde vor Klausur ",
+                            "Discussion_Id": "603257",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083313",
+                                    "Author": "Alexander Rudolph",
+                                    "DateTime": "2024-06-25T07:22:37+02:00",
+                                    "Content": "Hallo zusammen, in der Umfrage Termin Sprechstunde vor Klausur könnt ihr bis zum 15.07.24 abstimmen, wann die Sprechstunde stattfinden soll. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gesucht: Studentische Hilfskraft",
+                            "Discussion_Id": "598123",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075817",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-31T13:35:28+02:00",
+                                    "Content": "Hallo zusammen, wir suchen derzeit dringend studentische Hilfskräfte. Bei Interesse bitte bei mir melden oder auch gerne direkt bewerben: https://www.jobs.tu-berlin.de/stellenausschreibungen/180453 Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenpräsentationen online",
+                            "Discussion_Id": "596262",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072947",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-23T11:38:45+02:00",
+                                    "Content": "Hallo zusammen, auf Rückfrage einiger Teilnehmer, habe ich die Präsentationen nun auf online umgestellt. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AT: Gruppenpräsentationen",
+                            "Discussion_Id": "595124",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071209",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-17T11:20:25+02:00",
+                                    "Content": "Hallo zusammen, aufgrund der Gruppenwahl ist nun die Termineinteilung für die Präsentationen online. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AT: Vorlesung am 2.5. online",
+                            "Discussion_Id": "591396",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065338",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-04-30T23:55:08+02:00",
+                                    "Content": "Hallo zusammen, am 2.5. findet die Vorlesung AT online statt. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AT: Gruppenwahl Mini-Projekt nun online",
+                            "Discussion_Id": "587348",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059052",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-04-18T14:30:29+02:00",
+                                    "Content": "Hallo zusammen, die Gruppenwahl für die Mini-Projekte ist nun online. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

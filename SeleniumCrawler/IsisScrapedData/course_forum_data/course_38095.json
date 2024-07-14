@@ -1,0 +1,235 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Energy Systems",
+        "Course_id": "38095",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1779223",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tutorial instead of lecture tomorrow",
+                            "Discussion_Id": "606764",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088303",
+                                    "Author": "Philipp Glaum",
+                                    "DateTime": "2024-07-10T12:00:00+02:00",
+                                    "Content": "Dear students,  As Prof. Brown has already announced in his lecture, tomorrow, 11.07.24, there will be no lecture. Instead, we will have an additional tutorial.  In the morning tutorial, we will cover generation investment, and in the afternoon, long-term dynamics.  See you tomorrow!  Best wishes, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture today ON ZOOM not in presence",
+                            "Discussion_Id": "606479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087883",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-07-09T09:03:02+02:00",
+                                    "Content": "Dear Energy System students, Apologies for the short notice, but due to a health issue the lecture today (Tuesday 9th July) will be online on zoom, NOT in presence. The lecture will start 1415 as usual, here is the zoom link. Meeting ID: 612 2503 4869 Passcode: 381125 The lecture will be recorded, but please attend live so you can ask questions. Best wishes, Tom Brown",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorial tomorrow online",
+                            "Discussion_Id": "605266",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086177",
+                                    "Author": "Philipp Glaum",
+                                    "DateTime": "2024-07-03T13:30:08+02:00",
+                                    "Content": "Dear students,  unfortunately, I have to give the tutorial tomorrow, 04.07.2024 at 8:00 am, online on Zoom. You can join the tutorial using the link below https://tu-berlin.zoom.us/j/61225034869?pwd=T2ExRXhJVW4zcWl4bWoxb2trU2s5dz09  Best wishes, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No live lecture on Thursday 27th June - video instead",
+                            "Discussion_Id": "603866",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084138",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-06-26T18:02:59+02:00",
+                                    "Content": "Dear Energy System enthusiasts, Unfortunately the International Energy Workshop doesn't have facilities for me to give the lecture on Thursday 27th June live on zoom, so please watch the following videos: European renewable storage+transmission example from 1:13:40 to the end of this video Introduction to discounting and LCOE for dynamic optimisation from 0:18:00 to 1:20:45 of this video - this material is close to the energy economics lecture, and is the first half of these slides I can answer and questions or comments in the live lectures next week. Best wishes, Tom Brown",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No Tutorial on 27.06.2024",
+                            "Discussion_Id": "603278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083338",
+                                    "Author": "Philipp Glaum",
+                                    "DateTime": "2024-06-25T08:59:49+02:00",
+                                    "Content": "Dear students,  As mentioned in the last tutorial, there is no tutorial on 27.06.2024 8:00. Instead, I have uploaded a recording of the tutorial, which you can watch on your own. If you have questions, please write them down and bring them to the tutorial next week, which will again be in person.  Best wishes, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture tomorrow (Tuesday 18th June) online on zoom",
+                            "Discussion_Id": "601597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080889",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-06-17T17:17:28+02:00",
+                                    "Content": "Dear Energy System students, Since I am just recovering from a cold, the lecture tomorrow (Tuesday 18th June) will be online on zoom, NOT in presence. The lecture will start 1415 as usual, here is the zoom link. Meeting ID: 612 2503 4869 Passcode: 381125 I'm expecting to be well enough to do the lecture on Thursday 20th June in presence. The lecture will be recorded, but please attend live so you can ask questions. Best wishes, Tom Brown",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Return to usual schedule and bonus point presentation",
+                            "Discussion_Id": "601535",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080801",
+                                    "Author": "Philipp Glaum",
+                                    "DateTime": "2024-06-17T14:47:54+02:00",
+                                    "Content": "Dear students, Starting tomorrow, we will return to our usual course schedule, as the lecture and tutorial-free period has ended. This week's tutorial on Thursday, 20.06.2024, at 8:15, each group must present their assigned part (see table) of their project in presence. You can either connect your own laptop or bring the presentation on a USB stick. Each presentation should not exceed 5 minutes. Group Topic Group Topic Group 1 1.a Group 9 1.d Group 2 - Group 10 1.e Group 3 1.b Group 11 1.e Group 4 - Group 12 2. Group 5 1.c Group 13 3. Group 6 - Group 14 3. Group 7 -   Group 8 1.d   Best wishes, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No live lecture on Thursday 23rd May: video instead",
+                            "Discussion_Id": "595776",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072267",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-05-21T17:41:30+02:00",
+                                    "Content": "Dear energy system modellers, Sorry that there is again no live lecture this Thursday 23rd May, instead there is a video. The topic is \"Electricity markets re-interpreted as optimisation problems\", here are the slides. Please watch the video from 00:17:30 until the end (1 hour and 15 minutes). In the live lecture on Tuesday 28th you can ask any questions about the material. Best wishes, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First half of live lecture on Tuesday 21st May: seminar topic presentations",
+                            "Discussion_Id": "594732",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070610",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-05-15T16:49:51+02:00",
+                                    "Content": "Dear energy system modellers, Last announcement of the day: for the first 45 minutes of the live lecture on Tuesday 21st May in C243 we will present the topics for the two 3 LP seminars. The lecture on optimisation will continue from 1500. If you are not doing the seminars, you need only arrive at 1500. Links to the ISIS pages for the seminars: Energy Markets New Research in Energy System Modelling See you then! Best wishes, Tom Brown",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No live lecture on Thursday 16th May: video instead",
+                            "Discussion_Id": "594729",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070607",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-05-15T16:47:05+02:00",
+                                    "Content": "Dear energy system modellers, This Thursday 16th May there is no live lecture, instead there is a video. The topic is \"Storage and Demand-Side Management (DSM)\", here are the slides: https://isis.tu-berlin.de/pluginfile.php/3227668/mod_resource/content/1/es-6-storage.pdf Please watch the whole of the first video on storage: https://isis.tu-berlin.de/mod/videoservice/view.php/cm/1779267/video/200473/view and the first 22 minutes of the second video on DSM: https://isis.tu-berlin.de/mod/videoservice/view.php/cm/1779268/video/200474/view In the lecture on Tuesday 21st you can ask any questions about the material. Best wishes, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 2",
+                            "Discussion_Id": "590630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064175",
+                                    "Author": "Antonia Maria Seibold",
+                                    "DateTime": "2024-04-29T09:46:58+02:00",
+                                    "Content": "Dear students, I uploaded the solutions for last weeks exercise. The 2nd exercise includes a coding task which I already uploaded as well. I would like to ask you to familiarize yourself with python and try to solve the tasks by yourself. This will give you the best possible learning effect before I present the solution on Thursday. Best regards Toni",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No live lecture on Tuesday 23rd April: video instead",
+                            "Discussion_Id": "587540",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059348",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-04-19T09:20:19+02:00",
+                                    "Content": "Dear energy system modellers, This Tuesday 23rd April there is no live lecture, instead there is a video. The topic is \"Energy Balances\" - if you have already covered this in other courses, please look over the slides to refresh your memory: https://isis.tu-berlin.de/mod/resource/view.php?id=1821633 The video starts at 0:35:30 in video \"Lecture 3 - 26.04.2022\" here: https://isis.tu-berlin.de/mod/videoservice/view.php/cm/1779260/video/200466/view and continues until 0:22:00 in video \"Lecture 4 - 28.04.2022\" here: https://isis.tu-berlin.de/mod/videoservice/view.php/cm/1779261/video/200467/view The next live lecture will be Thursday 25th April on Time Series, when you can ask any questions on Energy Balances. Best wishes, Tom Brown",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to the Energy Systems Course!",
+                            "Discussion_Id": "585924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056992",
+                                    "Author": "Philipp Glaum",
+                                    "DateTime": "2024-04-15T12:07:27+02:00",
+                                    "Content": "Dear students,  Welcome to the Energy Systems course of the summer semester 2024!  The first lecture will take place tomorrow, 16 April 2024, at 14:00 in room C 243. We are looking forward to getting to know you!  Best wishes, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum - Content",
+                    "Forum_id": "1779225",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Links from lectures in week starting 27.05",
+                            "Discussion_Id": "597991",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075626",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-05-30T17:52:35+02:00",
+                                    "Content": "BNEF New Energy Outlook 2024 EUPHEMIA market clearing algorithm JRC Report on European Redispatch and Congestion Downloadable PTDFs for FBMC (utility tool - not working recently)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Links from lecture in week 19",
+                            "Discussion_Id": "594727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070602",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-05-15T16:39:32+02:00",
+                                    "Content": "Giant Batteries Are Transforming the Way the U.S. Uses Electricity Battery storage is dramatically reshaping the California grid, and finally moving it away from gas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Links from lectures in week 18",
+                            "Discussion_Id": "591802",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065962",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-05-02T16:01:20+02:00",
+                                    "Content": "RMI: Green corridors for iron PIK: Impact of global heterogeneity of renewable energy supply on heavy industrial production and green value chains European Hydrogen Bank pilot auction results BMWK: Fortschritte bei der Energiewende",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Links from lecture in week 17",
+                            "Discussion_Id": "589907",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063096",
+                                    "Author": "Thomas William Brown",
+                                    "DateTime": "2024-04-25T16:18:50+02:00",
+                                    "Content": 

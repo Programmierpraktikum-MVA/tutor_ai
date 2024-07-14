@@ -1,0 +1,149 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computergestützte Modellierung technischer Systeme",
+        "Course_id": "38729",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1802587",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "607423",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089229",
+                                    "Author": "Isabella Sophia Zimmermann",
+                                    "DateTime": "2024-07-12T10:39:16+02:00",
+                                    "Content": "Hallo zusammen, ich würde euch bitten eine kurze Lehrevaluation auszufüllen. Die Umfrage ist natürlich anonym. Das würde uns sehr weiterhelfen das Modul weiter zu verbessern! Link: https://befragung.tu-berlin.de/evasys/online.php?p=8MF87 QR-Code:  Viele Grüße Isabella",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe",
+                            "Discussion_Id": "598435",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076296",
+                                    "Author": "Isabella Sophia Zimmermann",
+                                    "DateTime": "2024-06-03T10:13:43+02:00",
+                                    "Content": "Liebe CMTS-Teilnehmende,  die Hausaufgabe ist ab heute zur Bearbeitung freigeschaltet. Die Abgabe erfolgt bis zum 28.07.2024 über die Kursseite.  Bitte meldet euch über Moses bis zum 23.06.2024 für die Prüfung an! Ohne diese wird keine Hausaufgabe kontrolliert.  Viele Grüße Euer CMTS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zugang zur Software",
+                            "Discussion_Id": "588419",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060774",
+                                    "Author": "Isabella Sophia Zimmermann",
+                                    "DateTime": "2024-04-22T13:33:14+02:00",
+                                    "Content": "Liebe CMTS-Teilnehmer*innen, auf der Kurs Seite findet ihr nun den Abschnitt Software. Durch die Ausfüllung der Befragung \"Zugang zur Software\" erhaltet ihr den Download-Link für NX und den Lizenzschlüssel (diesen unbedingt notieren!). In der TUB-Cloud steht euch die komplette .zip Datei zur Verfügung. Aus Erfahrung kann der Download etwas tricky sein. Deshalb liegt dort auch noch eine geteilte .zip Datei (.zip.00X) zum Download. Diese müsst ihr alle einzeln runterladen und dann mit 7zip(!) entpacken, sodass die Originaldatei wieder zusammengesetzt wird. Ihr braucht nur EINES der beiden runterzuladen! Für den Download empfehlen wir eine stabile Internetleitung (z.B. die in der Uni) und ggf. auch unterschiedliche Browser ausprobieren. Die TUB-Cloud ist leider bekannt dafür, große Downloads schnell abzubrechen. Falls der Download auch dann nicht funktioniert, werde ich das Runterladen der Software auf einen von euch mitgebrachten Stick ermöglichen (der Stick sollte ca. 12 GB freien Speicherplatz haben). Schreibt mir dafür eine Mail. Viel Spaß und viele Grüße Euer CMTS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Willkommen im Kurs!",
+                            "Discussion_Id": "588407",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060758",
+                                    "Author": "Isabella Sophia Zimmermann",
+                                    "DateTime": "2024-04-22T13:20:13+02:00",
+                                    "Content": "Liebe CMTS-Teilnehmer*innen, wir möchten euch hiermit in diesem Semester zu \"Computergestützte Modellierung Technischer Systeme\" willkommen heißen. Ablauf: Das Modul ist so aufgebaut, dass die Inhalte selbstständig erarbeitet und dann in einer finalen Hausaufgabe auch angewendet werden müssen. Dazu werden wir wöchentlich, beginnend mit der KW 18, jeweils ein Foliensatz mit Übungsaufgaben und Erklärungen zu den vier großen Themenblöcken (Skizzieren, Modellieren, Baugruppen & Zeichnungen) hochladen. Zusätzlich werden wir vereinzelt auch kurze Videos bereitstellen, die sich mit speziellen Funktionen beschäftigen. Eine weitere Informationsquelle, die wir euch empfehlen wollen, ist das Internet in all seiner Vielfalt. Zu NX gibt es diverse Videotutorials oder auch Foren, in denen ihr viele Informationen findet. Achtet aber auch darauf, dass einige Sachen eher in englischer Sprache zu finden sind als auf Deutsch. Dazu findet ihr auf der Kursseite auch eine Liste mit hilfreichen Links. Außerdem werden wir mit dem Beginn der Bearbeitungszeit der Hausaufgabe auch regelmäßig Sprechstunden anbieten, in denen ihr eure Fragen loswerden könnt. Sollten bis dahin schon Fragen aufkommen, nutzt bitte das Forum oder schreibt uns direkt eine E-Mail und wir können ggf. eine Sprechstunde vereinbaren. Prüfung: Um das Modul zu bestehen, werden wir ungefähr zur Hälfte des Semesters eine Hausaufgabe hochladen, die ihr bearbeiten sollt. Inhalt dieser Hausaufgabe werden alle relevanten Funktionen aus den Themenblöcken sein. Die An- & Abmeldung erfolgt ausschließlich über Moses und ist auch verbindlich. Software: Wenn ihr die Befragung \"Zugang zur Software\" (Verfügbar ab KW17) ausfüllt, findet ihr einen Link zur TUB-Cloud, um euch NX runterzuladen. Aufgrund der Downloadgrenze der TUB-Cloud, könnte es sein, dass ihr nur das geteilte Zip-Archiv herunterladen könnt. Versucht den Download auch im TU-Netz oder mit einer VPN Verbindung. Solltet ihr Probleme bei dem Download haben, gibt es die Möglichkeit in der Uni euch die Software auf einen von euch mitgebrachten Stick zu kopieren (der Stick sollte ca. 12 GB freien Speicherplatz haben), schreibt dafür eine Mail an uns. Notiert euch unbedingt auch den Lizenzschlüssel am Ende der Befragung!! Wir wünschen euch viel Spaß in diesem Semester. Euer CMTS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "CMTS Forum",
+                    "Forum_id": "1815535",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Beschädigte Datei",
+                            "Discussion_Id": "590980",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064729",
+                                    "Author": "Marvin Michalk",
+                                    "DateTime": "2024-04-29T18:57:12+02:00",
+                                    "Content": "Hallo, ich probiere seit Tagen die Dateien der TUB-Cloud runter zu laden. Ich habe mittlerweile drei verschiedene Pc's genutzt. Sowohl gesamte .zip, als auch die unterteilten .zip's wollen einfach nicht. Die unterteilten werden auf allen Rechnern als beschädigt gekennzeichnet.  Könnten Sie das nochmal überprüfen oder mir einen Tipp geben? Danke VG Marvin",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065619",
+                                    "Author": "Isabella Sophia Zimmermann",
+                                    "DateTime": "2024-05-02T09:18:36+02:00",
+                                    "Content": "Hallo,  kannst du keine der beiden Möglichkeiten runterladen und möchtest es auf einen USB-Stick laden oder hast du die geteilte Zip runtergeladen und hast Probleme beim Entpacken? Für das Entpacken findest du hier einen Anleitung wie es mit dem Programm WinRAR geht (andere Programme können es auch entpacken, z.B. 7zip): https://www.win-rar.com/split-files-archive.html?&L=0  Freundliche Grüße",
+                                    "Response to": "p1064729"
+                                },
+                                {
+                                    "Message_id": "p1065926",
+                                    "Author": "Marvin Michalk",
+                                    "DateTime": "2024-05-02T15:13:10+02:00",
+                                    "Content": "Hallo, dadurch, dass die .zip's geteilt sind haben Sie eine .00X Endung. WinRAR und 7zip haben beide ein Problem damit die Datei zu öffnen. Sowohl beim Belassen sowie der Namensänderung werden die Dateien als beschädigt gekennzeichnet.  Ich hab mittlerweile die Lösung gefunden :) Microsoft Edge ist anscheinend nicht so toll. Firefox löst das Problem. Vielleicht hilft es ja jemandem anderen auch.  Ich danke!",
+                                    "Response to": "p1065619"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wann geht es los? +Präsenz",
+                            "Discussion_Id": "588140",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060297",
+                                    "Author": "Noah Linus Kothlow",
+                                    "DateTime": "2024-04-21T20:50:16+02:00",
+                                    "Content": "Hallo, ich möchte gerne wissen, wann es hier losgeht. Es steht etwas davon, dass die Inhalte hochgeladen werden und die Bearbeitung asynchron ist, trotzdem hat mir meine Anmeldung auf Moses einen \"Tutoriumstermin\" inkl. Raum zugeteilt. Was hat es damit auf sich?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mosesanmeldung",
+                            "Discussion_Id": "587382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059103",
+                                    "Author": "Muhammed Sari",
+                                    "DateTime": "2024-04-18T15:30:50+02:00",
+                                    "Content": "Schönen guten Tag, auf der Startseite steht, dass die Anmeldung bis zum 17.04.2023 getätigt werden muss. Ist dies ein Verschreiber oder gilt das für das letzte Semester. Ich würde gerne das Modul belegen, jedoch bin ich wegen diesem Datum leicht verwirrt.  Viele Grüße Muhammed Sari",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorraussetzung zu Bestehen",
+                            "Discussion_Id": "586130",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057281",
+                                    "Author": "Haozhe Wang",
+                                    "DateTime": "2024-04-15T17:42:37+02:00",
+                                    "Content": "Hallo, In den Einführungsfolien steht, dass man 50% der Hausaufgabenpunkte erreichen muss, um die Hausaufgabe zu bestehen und 3 Leistungspunkte (LP) zu erhalten. Jedoch wird auf der Moses-Plattform angegeben, dass der Kurs insgesamt 6 Leistungspunkte (LP) umfasst. Wie kann ich diesen Widerspruch klären oder wen sollte ich kontaktieren, um eine klare Auskunft zu bekommen? MfG Haozhe",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057340",
+                                    "Author": "Isabella Sophia Zimmermann",
+                                    "DateTime": "2024-04-15T19:32:49+02:00",
+                                    "Content": "Hallo, auch auf Moses steht die korrekte Anzahl erreichbarer Leistungspunkte: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=50866&version=2&sprache=1 Es gibt maximal 3 LP für das Modul (unbenotet). Freundliche Grüße",
+                                    "Response to": "p1057281"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Analytische Geochemie",
+        "Course_id": "37955",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1773982",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Geo-Sommerfest",
+                            "Discussion_Id": "604659",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085315",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-07-01T13:33:29+02:00",
+                                    "Content": "Im Anhang die Ankündigung zum Geo-Sommerfest.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beginn der Vorlesungen",
+                            "Discussion_Id": "599754",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078170",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-06-08T14:10:44+02:00",
+                                    "Content": "Liebe Studierende im Modul Analytische Geochemie, am Montag beginnen die Vorlesungen, wie verabredet von 11.45 bis 13.15 Uhr im Raum BH 107. Mit besten Grüßen Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Analytische Geochemie - Einführungsveranstaltung am 22. April",
+                            "Discussion_Id": "585135",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055840",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-04-09T14:17:44+02:00",
+                                    "Content": "Liebe Studierende im Modul Analytische Geochemie, die Einführungsveranstaltung findet am Montag, den 22. April um 12.00 Uhr im Seminarraum 107 (BH-N Gebäude) statt. Beste Grüße Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

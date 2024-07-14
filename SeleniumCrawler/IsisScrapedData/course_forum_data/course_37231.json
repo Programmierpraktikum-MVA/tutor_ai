@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Quantum Information Science & Technology",
+        "Course_id": "37231",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1752884",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "SAP Sign-in - QuIST Lecture - MO_20867",
+                            "Discussion_Id": "592957",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067795",
+                                    "Author": "Tobias Heindel",
+                                    "DateTime": "2024-05-07T13:53:57+02:00",
+                                    "Content": "Dear Participants of the course \"Quantum Information Science & Technology\", Some remaining technical issue was solved by the SAP-team. Those of you studying physics should now be able to sign-in for the module searching for the term \"MO_20867\". Please do so before May 15, 2024, if you would like to receive the credits for this course in the end. Thank you and see you on May 16, Tobias Heindel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

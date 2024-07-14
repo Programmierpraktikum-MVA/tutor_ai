@@ -1,0 +1,12 @@
+[
+    "[if !vml]",
+    "[endif]",
+    "Aufgabenstellung:",
+    "Das Fertigungsverfahren der Zwei-Photonen-Lithographie zeichnet sich \ndurch die freie Formgestaltung von 3D-Strukturen aus. Um das Potenzial \ndieses Fertigungsverfahrens voll ausschöpfen zu können, soll ein \nLinearaktor im Submillimeterbereich entworfen werden. \nUnter Berücksichtigung der Randbedingungen soll ein Konzept entwickelt \nund umgesetzt werden. Dabei sollen Kenngrößen wie die auftretenden \nReibkräfte bestimmt werden. Neben der konstruktiven Auslegung des Aktors\n soll auch ein Konzept erarbeitet werden, um ein magnetisches Fluid \nanzuwenden und dadurch die Funktionalität des Systems zu gewährleisten. \nIm Rahmen der Arbeit besteht die Möglichkeit, verschiedene Modelle \nmithilfe der vorhandenen Zwei-Photonen-Lithographie-Anlage am Fachgebiet\n herzustellen und gegebenenfalls auf ihre Funktionalität zu testen. Im \nzweiten Teil der Arbeit soll ein Schaltplan zur Aktivierung des Aktors \nerstellt werden. Dieser Schaltplan dient dazu, die Gesamtfunktion des \nSystems zu überprüfen.",
+    "Hinweise",
+    ":",
+    "Wünschenswert sind Erfahrungen in der Auslegung und Gestaltung\nvon Bauteilen, sowie in Elektrotechnik.",
+    "https://isis.tu-berlin.de/mod/videoservice/file.php/c824dccff90a847d90928795c4d28bf5495118d3801ef5a98f454b4ea3553787.mp4",
+    "Video:",
+    "https://isis.tu-berlin.de/mod/videoservice/file.php/c824dccff90a847d90928795c4d28bf5495118d3801ef5a98f454b4ea3553787.mp4"
+]

@@ -1,0 +1,208 @@
+[
+    {
+        "Course_Name": "[INET] Datacenter Networking and Software-Defined Networks [SoSe 23/24]",
+        "Course_id": "37429",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1758819",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Projects",
+                            "Discussion_Id": "602341",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081919",
+                                    "Author": "Vamsi Krishna Addanki Venkata Lalitha Sesha S.",
+                                    "DateTime": "2024-06-20T11:40:25+02:00",
+                                    "Content": "Hi all, Next two weeks (25 June and 02 July), there will be no lecture and we dedicate these two weeks for projects.  We prepared three fun projects for you to choose from. You may also propose your own project based on any other networking tools. Please discuss with us if you have a project idea of your own. Projects can be done in groups of size at most 3. Individual projects are allowed, but we request you to find group mates as far as possible. Please make use of the discussion forum on ISIS. Once you have chosen a project and formed a group, please enter your project details here (this data only stays within TU servers and will be deleted after a month): https://nextcloud.inet.tu-berlin.de/s/ejrNmsHc9kq9sdF ns3 project This project is within the context of large-scale distributed training of language models. Typically, GPUs are arranged in a CLOS topology and large model is trained in a distributed manner using all these GPUs. There has been much research activity both from Industry and Academia in the recent years, to understand the traffic patterns in such clusters and the underlying problems. This project gives a tiny glimpse of some of the issues arising from load-balancing (ECMP) and congestion control.   k-ary fat-tree topology with 128 GPU nodes (interpret these as servers). Every link has 100Gbps bandwidth and 500 nanoseconds latency/delay. The simulation setup is as follows: Workload: Choose one of the following traffic patterns for the project AllReduce: All-to-All communication i.e., every GPU has one transmission towards every other GPU in the topology. All transmissions have the same start time.  Scatter: Choose a GPU, say 64, then GPU 64 has one transmission towards every other GPU in the topology. All transmissions have the same start time. Gather: Choose a GPU, say 64, then every GPU in the topology (except GPU 64) has one transmission towards GPU 64. Transfer size: Choose one of the following for the size (\"MaxSize\" attribute) of *every* flow in your workload 8KB 32KB 64KB Transport protocol: Please refer to the example discussed in the lecture for queue disc and TCP configurations. Choose one of the following as your transport protocol. Set the buffer size to 100 packets. DCTCP: Set the marking threshold of RED queue disc to 20 packets RENO: Use FIFO queue disc Cubic: Use FIFO queue disc Once you choose a workload + transfer size + transport protocol, simulate the network in both the following cases: Per-flow ECMP routing: Config::SetDefault(\"ns3::Ipv4GlobalRouting::FlowEcmpRouting\", BooleanValue(true)); Packet spraying: Config::SetDefault(\"ns3::Ipv4GlobalRouting::RandomEcmpRouting\", BooleanValue(true));  Output: Log the completion time of each flow in your simulation and plot a CDF of the completion times. Compare the results for ECMP and packet spraying. Note: Completion time is the time it takes from the start time of a flow until the last packet of the flow has been successfully transmitted. As discussed in the lecture, please use ns3-datacenter repository for this project. Write your simulation code within the your own directory in simulator/ns3.39/examples/yourExample  P4 project As discussed during the lecture, in-band network telemetry is one of the techniques used by HPCC and PowerTCP that enables much more fine-grained congestion control in datacenters. In this context, there have been many research works on efficiently inserting the telemetry metadata in to packets (eg., TCP-INT, TCP's Third Eye).  This project gives a starting point for you with P4 programming, packet header field manipulation and telemetry. Write a p4 program that can insert telemetry data in to TCP packets. This technique is usually referred as in-band network telemetry (INT). Assume that the incoming packets have the following format. Every packet arrives with a TCP option initialized at the sender. This option has custom format as follows: First byte: Indicates the option number 250 Second byte: Indicates the length of this option i.e, 4  Third byte: Timestamp Fourth byte: Queue length Your p4 program has to insert the current timestamp in the third byte and the current queue length (corresponding to the output queue used by the packet) in the fourth byte.  Gurobi project Self-adjusting and reconfigurable topologies are a hot-topic in networking recently. In this context, optimizing the topology for the traffic that it serves, can significantly improve performance. Among others, the throughput of a demand-aware network can be significantly better than a static topology. You can take a look at some of the recent works at INET: demand-aware throughput bounds, Mars, Duo, Cerberus. Write a linear program in Gurobi to find the best (directed) topology that maximizes throughput given a demand matrix, and degree constraints for each node. The setup is as follows: There are N nodes, let this be a parameter and set it to any power of 2 value greater than 8 Each node has d outgoing links and d incoming links. Let d be a parameter and set it to any power of 2 value less than or equal to N All links have a capacity of 1 unit Choose any n x n d-doubly stochastic matrix i.e, the sum of every row and column is equal to d. For example:  - Uniform matrix: All values are (n-1)/d except the diagonal  - Permutation matrix: The entry in Row i, Column (i+1)%n has a value of d, for all 0<= i < n and all other values are zero Note: The above problem is slightly similar to the throughput maximization problem discussed in the lecture, except that the graph is not fixed. Your LP has to find the optimal graph. Here, nodes are fixed but you need to find the edge set.  Have fun :) We would like to remind that the project component is mainly a learning process, and it will not be graded. However, it would help in getting few extra points in the oral exam. If anything is unclear, or if you need any help, always feel free to contact us.   Thanks, Vamsi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "tomorrow: video lectures",
+                            "Discussion_Id": "606425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087803",
+                                    "Author": "Stefan Schmid",
+                                    "DateTime": "2024-07-08T20:47:41+02:00",
+                                    "Content": "Dear students, after the project phase, we are now moving back to lecturing.  To this end, tomorrow, we will not meet in person yet but we would like you to watch the two following videos offline. 1- https://www.youtube.com/watch?v=QzxYqBpi6DI&t=214s 2- https://www.youtube.com/watch?v=NzGBt6HAzr0  We will discuss your comments and questions on the topic next week then in the lecture room and will continue with the additional topics from the onward in person as usual. Kind regards and looking forward to seeing you next week! Stefan Schmid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "NS3 Build",
+                            "Discussion_Id": "600345",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079057",
+                                    "Author": "Vamsi Krishna Addanki Venkata Lalitha Sesha S.",
+                                    "DateTime": "2024-06-11T15:30:45+02:00",
+                                    "Content": "Hi, For  those who are facing packet tag error and consequently a crash, please use --build-profile=release or --build-profile=optimized. Please run the following commands: export LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH ./ns3 clean # This is important, so that you can have a new configuration CXXFLAGS=-w ./ns3 configure --build-profile=release --enable-examples --disable-tests --enable-python-bindings --disable-werror --disable-warnings ./ns3 build ./ns3 run dcn-congestion-control-simple  Please feel free to ping me if you still face any issues with build. It would be great if you could have the build ready and have the example simulation ready by next lecture, so that we could go into further details. -- Vamsi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online lecture on Tuesday 14th May, on Programmable Dataplane",
+                            "Discussion_Id": "593631",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068847",
+                                    "Author": "Vamsi Krishna Addanki Venkata Lalitha Sesha S.",
+                                    "DateTime": "2024-05-10T12:50:35+02:00",
+                                    "Content": "Hi everyone, Next week's lecture will take place on zoom. The lecture will be on programmable network dataplane and particularly on p4 (https://p4.org/). Towards the end of the lecture, we will do a hand-on exercise: https://github.com/gycsaba96/p4-load-balancing-exercise Please follow the steps in the README.md for the setup (compatible with Linux, Windows and Mac), and you could try running the p4app already (It is absolutely not obligatory). We will do this exercise during the lecture. Csaba Györgyi, a PhD student with Prof. Stefan Schmid, and an expert on P4, will give the lecture on Tuesday. Slides will be uploaded on ISIS before the lecture. Zoom details: https://tu-berlin.zoom.us/j/65815590681?pwd=R1ZwTk5wYWhjZHNyWm5IWUwyMm9XZz09 Meeting ID: 658 1559 0681 Passcode: 619398  Thanks, Vamsi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "slides online: introduction to datacenter networks",
+                            "Discussion_Id": "591008",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064763",
+                                    "Author": "Stefan Schmid",
+                                    "DateTime": "2024-04-29T20:58:40+02:00",
+                                    "Content": "Dear students, the slides for tomorrow's lecture are now online on ISIS.  We will get an overview of some concepts, trends and challenges in datacenter networks and also introduce some preliminaries. See you tomorrow at 12:15pm at BH-N 243! Stefan Schmid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First lecture and initial organization",
+                            "Discussion_Id": "585953",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057035",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-04-15T13:04:40+02:00",
+                                    "Content": "Dear all, the first lecture will take place next week (23rd of April) and will only cover organizational topics. The first technical lecture will take place the week after on the 30th of April. Best, Max ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1758820",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "ns3 project - flow completion time",
+                            "Discussion_Id": "606745",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088275",
+                                    "Author": "Justus Krebs",
+                                    "DateTime": "2024-07-09T23:02:58+02:00",
+                                    "Content": "Hello I am working on the ns3 project assignment. I am having problems judging the flow completion time. I get the results below:  Minimum completion time: 9.000000 seconds Maximum completion time: 9.000010 seconds Mean completion time: 9.000002 seconds Median completion time: 9.000000 seconds  Now the unusual part is that the times are identical for ECMP on and off. Does anybody have a solution? I have linked my current simulation code here.  Kind regards Justus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture on 09.07.?",
+                            "Discussion_Id": "605676",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086752",
+                                    "Author": "Stanislav Kosorin",
+                                    "DateTime": "2024-07-05T09:19:01+02:00",
+                                    "Content": "Hey, I was wondering if there are still lectures after the project phase, e.g. next week on 09.07? Thanks.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam dates",
+                            "Discussion_Id": "604378",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084870",
+                                    "Author": "Dor Cohen",
+                                    "DateTime": "2024-06-29T09:24:57+02:00",
+                                    "Content": "Hey, I was wondering regarding the expected date of the exam. Is there any information?  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a project group",
+                            "Discussion_Id": "603017",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082932",
+                                    "Author": "Cornelius Tim Schulz-Trieglaff",
+                                    "DateTime": "2024-06-24T12:23:38+02:00",
+                                    "Content": "Hello everyone, I'm looking for a group which still needs a third participant or 2 other students to form a new group with for the upcoming project. I would be particularly interested in the P4 project. Feel free to send me a message, if you are interested.  Regards Cornelius",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083083",
+                                    "Author": "Aleksander Gomilsek",
+                                    "DateTime": "2024-06-24T15:22:59+02:00",
+                                    "Content": "Hi I am interested",
+                                    "Response to": "p1082932"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "How to get the Networked Systems Specialization?",
+                            "Discussion_Id": "587384",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059105",
+                                    "Author": "Alexander Schwind",
+                                    "DateTime": "2024-04-18T15:31:47+02:00",
+                                    "Content": "Hello,  I would like to get the Networked Systems Specialization but am wondering if I only have to attend the lectures and where I have to register.  Also is it possible to attend this lecture this semester and the Internet and Network Security lectures next summer?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059878",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-04-19T20:42:12+02:00",
+                                    "Content": "Hi Alexander,  there are two different specializations, small and big. For small you'll have to attend 2 courses, and 3 for big. You will have to register on Moses, you don't have to attend all courses in the same semester so can attend the security lecture next year.   Best,  Max",
+                                    "Response to": "p1059105"
+                                },
+                                {
+                                    "Message_id": "p1059879",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-04-19T20:42:12+02:00",
+                                    "Content": "Hi Alexander,  there are two different specializations, small and big. For small you'll have to attend 2 courses, and 3 for big. You will have to register on Moses, you don't have to attend all courses in the same semester so can attend the security lecture next year.   Best,  Max",
+                                    "Response to": "p1059105"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ice Breaker Question",
+                            "Discussion_Id": "587063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058604",
+                                    "Author": "Vamsi Krishna Addanki Venkata Lalitha Sesha S.",
+                                    "DateTime": "2024-04-17T18:30:15+02:00",
+                                    "Content": "Datacenter or Data Center? These networks are not anymore centers for \"Data\" per se. We prefer \"Datacenter\" :D What do you think? -- Vamsi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058663",
+                                    "Author": "Dor Cohen",
+                                    "DateTime": "2024-04-17T20:35:00+02:00",
+                                    "Content": "Well, in the spirit of Serverless and Blockchain I’d go with Datacenter",
+                                    "Response to": "p1058604"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

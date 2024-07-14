@@ -1,0 +1,14 @@
+[
+    "Aktivität Ankündigungen auswählen",
+    "Ankündigungen",
+    "Forum",
+    "Aktivität Willkommen bei Rapid Prototyping!Rapid Prototyping... auswählen",
+    "Willkommen bei Rapid Prototyping!",
+    "Rapid Prototyping behandelt die wesentliche Schritte eines Vorentwicklungsprozesses. Hierbei steht die schnelle Entwicklung einer passenden Lösung für einen Prototypen im Vordergrund.",
+    "Der im Praktikum betrachtete Prototyp ist ein geregelter Dreimassenschwinger. Der physische Teil dieses Prototypen existiert dabei bereits und muss nun noch durch den regelungstechnischen Teil ergänzt werden.",
+    "Im Praktikum sollen die Studierenden gleich einem Vorentwicklungsteam den regelungstechnischen Anteil des Prototypens entwickeln. Dafür wird State-of-the-Art-Hardware von Speedgoat genutzt, die eine schnelle Implementierung verschiedenester regelungstechnischer Komponenten und deren Austausch erlaubt. Das Speedgoat-System wird dabei über Matlab mittels der Simulink-Realtime-Toolbox direkt angesteuert.",
+    "Beginnend mit der Kommunikation zwischen Prüfstand und Speedgoat, beschäftigen sich die Studierenden in diesem Praktikum mit allen wesentlichen Schritten eines regelungstechnischen Entwicklungsprozesses, der bis zu einem funktionierenden Prototypen durchschritten werden muss. Im Praktikum stehen demnach auch  Modellidentifikation, Zustands- und Störschätzung sowie die eigentliche Regelung im Vordergrund.",
+    "Das Modul wird als integrierte Veranstaltung angeboten. Neben einer für die Teilnahme verbindlichen Vorbesprechung ist die einzige weitere Anwesenheitskomponente das Praktikum. Dieses hat eine Dauer von fünf Tagen. Die Note für das Modul setzt sich zusammen aus einer Bewertung mit 70%iger Gewichtung eines Berichts und der mit 30%iger Gewichtung eingehenden mündlichen Prüfung. Die Erstellungszeit für den Bericht beträgt 6 Wochen. Vor der Praktikumswoche werden zudem Voraufgaben ausgegeben, deren Bearbeitung zwingend notwendig für die Teilnahme ist.",
+    "Weiter ist der Besuch von Mehrgrößenregelung im Zeitbereich sowie das Beherrschen von Matlab/Simulink obligatorisch.",
+    "Weitere organisatorische Informationen zum Kurs folgen im Laufe des Semesters."
+]

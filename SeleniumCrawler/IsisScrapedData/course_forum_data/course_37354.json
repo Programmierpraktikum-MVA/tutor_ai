@@ -1,0 +1,577 @@
+[
+    {
+        "Course_Name": "Architecture of Machine Learning Systems (SoSe 24)",
+        "Course_id": "37354",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1756921",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam Preparation",
+                            "Discussion_Id": "605988",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087198",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-07T18:18:18+02:00",
+                                    "Content": "After the AMLS lecture this Thursday, we do a second part for Q&A and exam preparation. In preparation of this discussion, I just uploaded a mock-exam with example questions: https://mboehm7.github.io/teaching/ss24_amls/12b_ExamPreparation.pdf Give it a try if you like, and we'll talk about example solutions (there many valid answers) on Thursday. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "603275",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083333",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-06-25T08:52:16+02:00",
+                                    "Content": "Hi all, just as a reminder, the course evaluation is still active until June 28 and so far we only have 2 evals for the lecture and 0 for the exercise. Lecture: https://befragung.tu-berlin.de/evasys/online.php?pswd=KTRLR Project/Exercises: https://befragung.tu-berlin.de/evasys/online.php?pswd=DAA1K So please participate (we appreciate both positive and negative feedback). Regards, Matthias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086709",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-04T22:11:51+02:00",
+                                    "Content": "Here are the results of the teaching evaluations Lectures: https://tubcloud.tu-berlin.de/s/MfFGqFcSgYmjrx5 Exercises: https://tubcloud.tu-berlin.de/s/6TQbXSm2wYrsNqG We'll talk about it in our last lecture.",
+                                    "Response to": "p1083333"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office Hours Jun 4 -&gt; Jun 5",
+                            "Discussion_Id": "598025",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075676",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-31T00:10:38+02:00",
+                                    "Content": "Hi Everyone,  Next week's office hours are moved from Tuesday the 4. to Wednesday the 5. at 16:00 due to unrelated overlapping events.  Best regards Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture May 23 -&gt; May 21",
+                            "Discussion_Id": "593087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067970",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-05-07T18:30:27+02:00",
+                                    "Content": "Hi all, since I'm at a faculty retreat May 23, I'm moving this single lecture to Tuesday May 21, 4pm (start 4.15pm) in H 0111. I hope many of you can make the changed time slot, otherwise we upload the video as usual. Sorry. Regards, Matthias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071135",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-17T08:49:29+02:00",
+                                    "Content": "Furthermore, the office hours, will be moved to just after the lecture is finished, otherwise they would be overlapping with each other. The office hours therefore start at 6pm and end at 7pm.  Regards Sebastian",
+                                    "Response to": "p1067970"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise Update --- Infrared",
+                            "Discussion_Id": "593139",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068052",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-07T23:01:24+02:00",
+                                    "Content": "Hi AMLS students, Hubert [1] and others have correctly pointed out that the task description incorrectly requests you to plot using an ultraviolet spectral band instead of infrared. Sentinel 2 data does not have ultraviolet bands (10–400 nm). Therefore, we have updated the exercise text in task 1 (2 words) to reflect the colours wanted. You can find the updated version on [2]. The plot in the task description did not change because it used the infrared band.  You can go to the discussion forum on link [1] for further clarification. Sorry for the inconvenience. Best regards, Sebastian [1] https://isis.tu-berlin.de/mod/forum/discuss.php?d=590458 [2] https://mboehm7.github.io/teaching/ss24_amls/AMLS_2024_Exercise_V2.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office hours Online",
+                            "Discussion_Id": "588526",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060956",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-04-22T16:01:06+02:00",
+                                    "Content": "Hi AMLS students, The office hours are tomorrow, Tuesday, the 23 of April 16:00., online because the TEL building is unavailable. The following two weeks will also be online only (After that we will see if we have somewhere to host it). The Zoom meeting link is in the course description, but just for redundancy, here is the link as well: https://tu-berlin.zoom.us/j/8342089208?pwd=ZFZOb0d1dkRKU01JMVEzZ2JiSWQxZz09 The structure of the office hours is up to you. Therefore, feel free to join and ask questions about project details, course materials, and exercises (preferably related to AMLS). There are no requirements to persist through the entire office hours, and you can come and go as you please. Best regards, Sebastian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to AMLS in SoSe'24",
+                            "Discussion_Id": "586418",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057709",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-04-16T14:28:09+02:00",
+                                    "Content": "Hi all, on Thursday we have our kickoff lecture for AMLS in summer 2024. We start 4pm c.t. (i.e., 4.15pm) in H 0107. Additionally, we provide zoom live streaming and upload the recorded zoom videos after the lecture: https://tu-berlin.zoom.us/j/9529634787?pwd=R1ZsN1M3SC9BOU1OcFdmem9zT202UT09 Meeting ID: 952 963 4787 Passcode: 266710 About all other logistics, including the projects and alternative exercise, we will talk during the kickoff. Looking forward to work with you. Regards, Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Q&A Forum",
+                    "Forum_id": "1756926",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "naming of zip",
+                            "Discussion_Id": "606431",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087816",
+                                    "Author": "Hakan Tutulmaz",
+                                    "DateTime": "2024-07-08T21:33:31+02:00",
+                                    "Content": "in the exercise, we are supposed to name  AMLS Exercise <student ID>.zip should we have all 3 of our names and matrikelnummer in the name?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087829",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-07-08T22:23:32+02:00",
+                                    "Content": "Yes, That would make it easier for me. Thanks",
+                                    "Response to": "p1087816"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test data",
+                            "Discussion_Id": "606270",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087595",
+                                    "Author": "Arina Shumeliuk",
+                                    "DateTime": "2024-07-08T14:27:45+02:00",
+                                    "Content": "Hi! We have a couple of questions regarding \"The test data for all accuracy results shown in the report should use the latitude north: 52.574409 south: 52.454927, and longitude west: 13.294333 east: 13.500205.\"  1. Should the test data include only Berlin and nothing else? 2. Is this enough if we once checked that this coordinates correspond to Berlin and we use Berlin as test data or should we implement a function to take coordinates as an input? Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087614",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-07-08T14:48:53+02:00",
+                                    "Content": "Hi Arina,  1. Up to you. The coordinates should only include Berlin unless I made a mistake. Therefore, OSM data only for Berlin should contain almost all the buildings. 2. Yes, that sounds fine, and no, you do not need to implement a function that takes coordinates as input unless you want to. But, since the evaluation should only contain buildings inside the specified range. Unless you have some excellent reasons not to follow the description of the task, it is most likely beneficial for you to implement such a function.  However, given that the deadline is today, I suggest focusing your time on writing the report.  Best regards Sebastian",
+                                    "Response to": "p1087595"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam question",
+                            "Discussion_Id": "605867",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087000",
+                                    "Author": "Hakan Tutulmaz",
+                                    "DateTime": "2024-07-05T17:23:31+02:00",
+                                    "Content": "Since there are 3 different exam dates I would like to ask if it is possible to write on the second and third date? Also do I have to write on the first exam date to write on the second and third?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087003",
+                                    "Author": "Matthias Böhm",
+                                    "DateTime": "2024-07-05T17:37:36+02:00",
+                                    "Content": "You can freely choose any of these three exams. If you fail an exam, you can use any of the subsequent exams for a repetition exam. The second and third exams should have more than enough capacity (we likely return one of the rooms in the second exam) so you don't need to speculate and register for multiple right now.  Regards, Matthias",
+                                    "Response to": "p1087000"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Max Upload size 10MB",
+                            "Discussion_Id": "605100",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085945",
+                                    "Author": "Mikhail Farber",
+                                    "DateTime": "2024-07-02T18:07:35+02:00",
+                                    "Content": "Dear AMLS Team.  Could you please increase the upload limit for submittion files on ISIS. In the exersice description it states that the zip file should be max 20MB, but ISIS allows max 10MB. In another courses I saw they used 25MB limit, so it should be technically possible to do.  Thank you. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085954",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-07-02T18:23:08+02:00",
+                                    "Content": "Hi Mikhail,  I have increased the limit to 20MB.  Best regards Sebastian",
+                                    "Response to": "p1085945"
+                                },
+                                {
+                                    "Message_id": "p1085963",
+                                    "Author": "Mikhail Farber",
+                                    "DateTime": "2024-07-02T18:40:37+02:00",
+                                    "Content": "Thank you",
+                                    "Response to": "p1085954"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Cloud coverage weird values",
+                            "Discussion_Id": "601553",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080832",
+                                    "Author": "Elias Cain Arthur Tranchant",
+                                    "DateTime": "2024-06-17T15:38:54+02:00",
+                                    "Content": "Hi! I'm currently trying to debug my implementation of the data acquisition pipeline in Python using OpenEo. I will try to explain my problem clearly below.  According to documentation, pixel values for RGB bands must be included in [0-10,000], which is what I obtain when I'm not trying to remove clouds from the image. I've tried two different implementations for cloud removal, and they both display the same problem. For temporal dimension reduction, I use the 'median' reducer, but the problem also happens when using 'mean' or 'first' reducers.  - My first implementation is to use the max_cloud_cover argument of connection.load_collection. Using the value 1% (because 0% doesn't seem to work), I notice that the pixel values I obtain are included in [-32768, 17432] in int16 or [1, 65531] in uint16. This behaviour is weird. - My second implementation consist of using the SCL band to mask pixels with clouds. The dimension reducer should then only use pixels without clouds and return a clear image. But I obtain the exact same problem as the first implementation, as my pixel values are outside of [0-10,000].  Again, when ignoring cloud masking, the pixel values are spread correctly.  I really don't understand where my mistake is. Do you have any insight about this specific issue?  Thank you, Elias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081112",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-06-18T10:39:43+02:00",
+                                    "Content": "Hi Elias  I have the same issue with the data when I download, the values for Berlin are for instance: max: 17544 and min: -32768 on the blue band just like your Int16 case. The interesting thing is when you download an image with clouds the values are consistently high on all bands. Therefore a 'simple' cloud cover removal would be to filter out sliced blocks that have 'high' pixel values. I am unaware of what the issue is as well, but I worked around this limitation because it is how the source data is.  To make it concrete I used two different cloud removal strategies (both very primitive). 1. Use the max_cloud_cover argument when interacting with openeo or any other image provider. 2. Filter sliced blocks from the training data that contain 'too many' high-valued pixels indicating that it contains clouds.  Is it the best solution? I do not think so, but it is sufficient for solving the task.  Best regards Sebastian",
+                                    "Response to": "p1080832"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "About the Input Image Type",
+                            "Discussion_Id": "600846",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079801",
+                                    "Author": "Yigit Mesci",
+                                    "DateTime": "2024-06-13T12:50:32+02:00",
+                                    "Content": "Hi there again, I want to ask another question about the alternative exercise. We have gathered images in different bands including RGB, single band, IRB. Since we aim to collect training data in similar distribution, I think it would make sense to choose one band type, am I right?  There isn't any hint in the sheet about which type should be chosen. Is there any restrictions about the image type? Thanks. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079813",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-06-13T13:12:27+02:00",
+                                    "Content": "Hi Yigit,  The hint is in part 1.2. Perhaps the formulation is unclear because the concept of channels implicitly is the bands in the satellite images.  In essence, each band is one channel of input data. Therefore, I suggest you download data from the 4 10x10 resolution bands corresponding to B, G, R, and I.  I hope this helps.  Sebastian",
+                                    "Response to": "p1079801"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wrong projection?",
+                            "Discussion_Id": "599848",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078329",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-06-09T22:59:31+02:00",
+                                    "Content": "Hello, I am working on the pipeline for A1.1 right now and I am trying to correctly stack the building data on top of the satellite image. I am doing this by projecting the building data as well as the corner points of the satellite image from EPGS:4326 to UTM and calculating the correct pixel coordinates of the buildings using the 10x10m resolution. However my building pixels are always slightly offset compared to the satellite image. I am thinking that it maybe is not correct to project into UTM. A1.1 mentions an equal earth projection but I think there are multiple ones and I am not quite sure if its correct to use UTM in this context or if another projection would be better? Thanks for any info!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078791",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-06-10T22:53:48+02:00",
+                                    "Content": "Apparently, openEOs load_collection() does not precisely return an image in the borders of spatial_extent but sometimes with a few meters offset. Has anyone else noticed this?",
+                                    "Response to": "p1078329"
+                                },
+                                {
+                                    "Message_id": "p1078804",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-06-11T00:29:49+02:00",
+                                    "Content": "Hi Laurids,  Yes, the edges of either data do not match up, and the images loaded from openEO do not use the same coordinate borders as the ones used in the request. It seems like it rounds to the nearest larger block, based on my experience.  The most elegant solution I found (there are probably better ones) is to project the OSM data onto the projection of the satellite images, not the other direction. One argument for this solution is that the lowest resolution data is the satellite images, while the OSM building data is at a much finer granularity.  If you have trouble with the specific details, feel free to come and ask questions at the office hours.  Best regards Sebastian",
+                                    "Response to": "p1078791"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "About the Evaluation of the Sentinel Model",
+                            "Discussion_Id": "598264",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076033",
+                                    "Author": "Yigit Mesci",
+                                    "DateTime": "2024-06-01T14:10:52+02:00",
+                                    "Content": "Hello, I have a question about the data preparation & evaluation of the alternative exercise model. In sheet it says \"For the sake of comparison, everyone must use the latitude and longitude ranges specified as test data\". So does it mean that we should also create coordinate mapper to produce the sub-image patch from the larger image? Also another one about 1x1 output convolution : \"The single value should indicate if the pixel contains a building.\" Does it mean the complete image hence the pixels there right? It confused me a little there too. Thanks",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076067",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-06-01T22:48:58+02:00",
+                                    "Content": "Hi Yigit,  The task is a segmentation problem, which means it can take any image input size and classify each pixel. Therefore, for the test image, it should be possible to predict the entirety of the Berlin image by the coordinates provided without having to construct sub-image patches. The only reason I can see for predicting patches is to reduce memory requirements.  > So does it mean that we should also create a coordinate mapper to produce the sub-image patch from the larger image?  What do you mean in this question? If I understand it correctly, then yes. Your task one pipeline should be able to create (almost) any size image, and the prediction pipeline should be able to segment those images. When you train the model you can choose a consistent size of patches to make the training efficient.  > Also another one about 1x1 output convolution : \"The single value should indicate if the pixel contains a building.\" > Does it mean the complete image hence the pixels there right? It confused me a little there too.  The 1x1 output convolution is a single value per pixel, but it translates to many in a picture. I think you have thought of it as a fully connected layer. In the fully connected case, it would be a single classification of the entire input rather than one per pixel.   Hope this helps, otherwise just ask again.  Best regards Sebastian",
+                                    "Response to": "p1076033"
+                                },
+                                {
+                                    "Message_id": "p1076278",
+                                    "Author": "Yigit Mesci",
+                                    "DateTime": "2024-06-03T09:43:58+02:00",
+                                    "Content": "Thanks for the answer Sebastian, I thought the task as a single prediction from the image and not as segmentation of the buildings.  Now everything is clear.",
+                                    "Response to": "p1076067"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Downloading satellite images using openeo and dataspace copernicus",
+                            "Discussion_Id": "595506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071869",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-21T00:14:49+02:00",
+                                    "Content": "In the past couple of days, i was trying to download the satellite images using openeo python client and https://openeo.dataspace.copernicus.eu url, the pipeline is downloading completely non-sense satellite images. However from the https://browser.dataspace.copernicus.eu/ i could manually download the satellite images with all the required bands, RGB, Single, IRB. Furthermore, I tried sentinel-hub in which both from the browser and sentinelhub python package i could very easily download the satellite images as requested in task one with all the bands. not to forget that sentinal hub is well documented. I would like to ask if there's anything wrong with datascpace.copernicus or openeo client ? has anyone successfully downloaded the satellite images using openeo with a pipeline ? Furthermore, i would like to ask if downloading the photos from sentinelhub is acceptable ? Thank you, Sultan Numyalai",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071873",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-21T00:36:04+02:00",
+                                    "Content": "Hi Sultan,  First of all, yes, you can download the images from anywhere you like. The task is flexible for you to construct any pipeline that downloads and processes the images to the specified bands.  I downloaded the images from the suggested provider in the task description worked out fine for me. The difficulty is that the images are not in the standard format that you would expect. Therefore, to make sense of the downloaded data you have to analyze the values and look at the documentation to make it work.  One benefit of the suggested provider is that you can specify cloud coverage and time range. Another is that you can push certain preprocessing operators to the cloud before you get the result downloaded to reduce the amount of data received.  If you have issues with it you can always join the office hours.  Best regards Sebastian",
+                                    "Response to": "p1071869"
+                                },
+                                {
+                                    "Message_id": "p1071875",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-21T01:39:05+02:00",
+                                    "Content": "Thank you for the quick reply,  \"One benefit of the suggested provider is that you can specify cloud coverage and time range. Another is that you can push certain preprocessing operators to the cloud before you get the result downloaded to reduce the amount of data received.\"  All of the above features, are available with sentinelhub too, I guess openeo is also accessing from sentinalhub not sure though. I would definitely love to make it work with openeo too, as i liked the API's provided by them more.  Thank you, Sultan",
+                                    "Response to": "p1071873"
+                                },
+                                {
+                                    "Message_id": "p1072090",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-21T13:27:46+02:00",
+                                    "Content": "Completely up to you, feel free to use other frameworks/tools as well.  Best regards Sebastian",
+                                    "Response to": "p1071875"
+                                },
+                                {
+                                    "Message_id": "p1075149",
+                                    "Author": "Rafael Dobler",
+                                    "DateTime": "2024-05-29T14:52:20+02:00",
+                                    "Content": "Hi Sultan, we've run into similar issues when downloading satellite images from openeo/copernicus. However when we tried to download the satellite image from Sentinelhub we get a Request error, that the file size is too big.  Server response: \"{\"status\": 400, \"reason\": \"Bad Request\", \"message\": \"Invalid request\", \"code\": \"COMMON_BAD_PAYLOAD\", \"errors\": [{\"parameter\": \"output->height\", \"invalidValue\": 4412, \"violation\": \"must be less than or equal to 2500\", \"description\": \"The request image height. Must be an integer between 1 and 2500. <br />*Only one pair of parameters \\\"width\\\"/\\\"height\\\" or \\\"resx\\\"/\\\"resy\\\" must be set at the same time.*\"}, {\"parameter\": \"output->width\", \"invalidValue\": 3494, \"violation\": \"must be less than or equal to 2500\", \"description\": \"The request image width. Must be an integer between 1 and 2500. <br />*Only one pair of parameters \\\"width\\\"/\\\"height\\\" or \\\"resx\\\"/\\\"resy\\\" must be set at the same time.*\"}\"  Did you also encounter this problem?",
+                                    "Response to": "p1071875"
+                                },
+                                {
+                                    "Message_id": "p1075160",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-29T15:16:30+02:00",
+                                    "Content": "hey Rafael,  Yes it happens, you need to lower the request image height and width.",
+                                    "Response to": "p1075149"
+                                },
+                                {
+                                    "Message_id": "p1075487",
+                                    "Author": "Rafael Dobler",
+                                    "DateTime": "2024-05-30T13:14:20+02:00",
+                                    "Content": "Got it, thanks.",
+                                    "Response to": "p1075160"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MOSES exam registration",
+                            "Discussion_Id": "596429",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073204",
+                                    "Author": "Leo Gabriel Paoletti",
+                                    "DateTime": "2024-05-23T21:24:27+02:00",
+                                    "Content": "Hello, Do we have any news about the registration process through MOSES ? There is no exam available at the moment. Best.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073222",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-23T23:30:43+02:00",
+                                    "Content": "Hi Leo,  We intentionally do not have a signup yet, once there is one, Matthias will tell in the lecture.  Best regards Sebastian",
+                                    "Response to": "p1073204"
+                                },
+                                {
+                                    "Message_id": "p1073353",
+                                    "Author": "Leo Gabriel Paoletti",
+                                    "DateTime": "2024-05-24T13:18:56+02:00",
+                                    "Content": "Hi, thank you.",
+                                    "Response to": "p1073222"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for one more partner for the exercise",
+                            "Discussion_Id": "596482",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073289",
+                                    "Author": "Hakan Tutulmaz",
+                                    "DateTime": "2024-05-24T11:01:09+02:00",
+                                    "Content": "One of our group members left so we have one free spot for anyone looking.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problems with pipeline setup",
+                            "Discussion_Id": "594766",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070656",
+                                    "Author": "Oskar Felix Kupke",
+                                    "DateTime": "2024-05-15T18:42:49+02:00",
+                                    "Content": "Hi everybody,  we are currently working on the alternative exercise, but struggling in setting up the pipeline correctly.  We have downloaded the OSM data for a city, extracted the boundaries and buildings, and, using the boundaries, downloaded the Sentinel2 data for that area.  However, we can't find a good way for aligning the buildings with the satellite images.  We tried going over each pixel and checking if the position in that pixel is within any of the building polygons, but that would take multiple days for even just a single city.  We also tried exporting the buildings as as png image and overlaying it over the satellite image, but didn't find a way to scale them correctly so that they align.  So, has someone here already accomplished this? Do you have any tips?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070735",
+                                    "Author": "Johannes Constantin Keller",
+                                    "DateTime": "2024-05-16T08:29:47+02:00",
+                                    "Content": "Hi, you can quite easily align the CRS (coordinate reference system) of the building map with the CRS of the image, there is even a function: https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.to_crs.html",
+                                    "Response to": "p1070656"
+                                },
+                                {
+                                    "Message_id": "p1073024",
+                                    "Author": "Oskar Felix Kupke",
+                                    "DateTime": "2024-05-23T13:50:16+02:00",
+                                    "Content": "Hey,  thanks for the tip. I've been trying to incorporate this into our pipeline, but I don't really see how/where to do that.  Our pipeline is currently set up like this: Download data for some city from OpenStreetMaps using pyrosm Extract boundaries and buildings in that data Determine the city's bounding box by getting the min/max latitudes and longitudes of the extracted boundaries Download satellite data for the determined bounding box Export buildings and satellite data as images However, the downloaded satellite imagery seems to not line up perfectly with the downloaded city data, as can be seen here:    The left image shows a satellite image of Denver, the right image shows the buildings. I guess our pipeline is just set up in a not intended way that makes it harder to align the images. Do you (or anybody else?) have an idea for how to do it differently?",
+                                    "Response to": "p1070735"
+                                },
+                                {
+                                    "Message_id": "p1073163",
+                                    "Author": "Till Gerhard Hecht",
+                                    "DateTime": "2024-05-23T18:00:09+02:00",
+                                    "Content": "It is the scale. Your sentinel images, are way more zoomed in compared to the buildings. You should make sure that you use the right scaling of the sentinel-images. I use a similiar pipeline and mine do line up, but it is a bit tricky to get both the same pixel-size and scaling.",
+                                    "Response to": "p1073024"
+                                },
+                                {
+                                    "Message_id": "p1073223",
+                                    "Author": "Sebastian Baunsgaard",
+                                    "DateTime": "2024-05-23T23:42:28+02:00",
+                                    "Content": "In the preprocessing pipeline, do not scale the sentinel images. It makes it a bit confusing since 1 pixel is equal to 10 by 10 meters in the real world in the original data, and if you scale the images, then this property is lost. Instead, use the polygons of the buildings in OSM that are much more precise and project and plot them onto the same projection used in the Sentinel 2 images.  Thanks.",
+                                    "Response to": "p1073163"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Third Group Member for Alternative Exercise",
+                            "Discussion_Id": "595925",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072494",
+                                    "Author": "Silvio Leon Echsle",
+                                    "DateTime": "2024-05-22T11:21:48+02:00",
+                                    "Content": "Hello everyone, Unfortunately, one of our group members had to leave, so now we are only two members in our group. We are looking for a third member to join our team for the alternative exercise. If there's a possibility to add another group member, and if anyone is interested in joining us, please let me know. Looking forward to hearing from anyone interested! Best regards, Silvio",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072502",
+                                    "Author": "Biranavan Parameswaran",
+                                    "DateTime": "2024-05-22T11:41:03+02:00",
+                                    "Content": "Hey, I am interested. I messaged you privately :)",
+                                    "Response to": "p1072494"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "593344",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068386",
+                                    "Author": "Troy Matthew Good",
+                                    "DateTime": "2024-05-08T16:40:41+02:00",
+                                    "Content": "Hello! I am still looking for a group for the exercises. If anyone has an open spot, let me know :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group for the excercise",
+                            "Discussion_Id": "593151",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068078",
+                                    "Author": "Mhd Oubada Al Kiddeh",
+                                    "DateTime": "2024-05-08T07:40:17+02:00",
+                                    "Content": "Hello, I am looking for a group/partners to do the excercise, If interested please pm.  Best Oubada",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group for the exercise",
+                            "Discussion_Id": "592067",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066376",
+                                    "Author": "Hakan Tutulmaz",
+                                    "DateTime": "2024-05-03T12:36:38+02:00",
+                                    "Content": "Hi, i forgot to register for the exercise, are there any groups who need a partner?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066698",
+                                    "Author": "Muhammad Kaleem Ullah",
+                                    "DateTime": "2024-05-04T13:53:26+02:00",
+                                    "Content": "Yes, I'm looking for someone to do a project.",
+                                    "Response to": "p1066376"
+                                },
+                                {
+                                    "Message_id": "p1066746",
+                                    "Author": "Hakan Tutulmaz",
+                                    "DateTime": "2024-05-04T20:41:01+02:00",
+                                    "Content": "sorry 2 people already messaged me, maybe u could ask the other people in the forum post",
+                                    "Response to": "p1066698"
+                                },
+                                {
+                                    "Message_id": "p1066734",
+                                    "Author": "Mhd Oubada Al Kiddeh",
+                                    "DateTime": "2024-05-04T18:11:06+02:00",
+                                    "Content": "Hey,  I am also searching for a goup for the exercise, if you are still searching please pm.  Best",
+                                    "Response to": "p1066376"
+                                },
+                                {
+                                    "Message_id": "p1066756",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-04T23:08:15+02:00",
+                                    "Content": "Hey, I am also looking to join or create a group for the exercise. Feel free to reach out to me !",
+                                    "Response to": "p1066734"
+                                },
+                                {
+                                    "Message_id": "p1067186",
+                                    "Author": "Martin Christoph Kühner",
+                                    "DateTime": "2024-05-06T13:12:57+02:00",
+                                    "Content": "Same here :D if there are still some people interested in creating a group or are missing a person hit me up!",
+                                    "Response to": "p1066756"
+                                },
+                                {
+                                    "Message_id": "p1067212",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-06T13:40:26+02:00",
+                                    "Content": "We are two in the group now, you can team up with us if you would like to.",
+                                    "Response to": "p1067186"
+                                },
+                                {
+                                    "Message_id": "p1067270",
+                                    "Author": "Asier Serrano Aramburu",
+                                    "DateTime": "2024-05-06T14:45:37+02:00",
+                                    "Content": "Hi, I am also looking for a group! :)",
+                                    "Response to": "p1067212"
+                                },
+                                {
+                                    "Message_id": "p1067329",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-06T15:49:47+02:00",
+                                    "Content": "We have one spot availiable in our group",
+                                    "Response to": "p1067270"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AMLS Alternative Exercise",
+                            "Discussion_Id": "592290",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066757",
+                                    "Author": "Sultan Numyalai",
+                                    "DateTime": "2024-05-04T23:14:26+02:00",
+                                    "Content": "Hello,  I am looking to team-up with already existing teams that still have place in their groups or would like to create a group for the alternative exercise, feel free to reply to this post or reach out to me via PM if you are also looking for a group.  Thanks,",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group to do the exercise",
+                            "Discussion_Id": "591934",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066168",
+                                    "Author": "Silvio Leon Echsle",
+                                    "DateTime": "2024-05-03T00:03:48+02:00",
+                                    "Content": 

@@ -1,0 +1,193 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Hands-on project to finite element analysis",
+        "Course_id": "37504",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1760990",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation ",
+                            "Discussion_Id": "605810",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086920",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-07-05T14:03:24+02:00",
+                                    "Content": "Dear Students,  We kindly ask you to take a survey to evaluate our course. The survey will not take longer than 10 minutes. Access to the survey is via the link:  https://befragung.tu-berlin.de/evasys/online.php?pswd=R7L8T  or via the QR-Code on the ISIS webpage of the course. Please complete this survey before 15.07.2024.   Thank you and best regards, LKM-team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "The 1st intermediate presentation",
+                            "Discussion_Id": "604264",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084711",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-06-28T13:24:47+02:00",
+                                    "Content": "Dear Students, Submission of the 1st intermediate presentation is now available on the ISIS webpage of the course. Please upload your presentation in pptx or pdf format (50 MB is the size limit). To remind you about the expectations: We will see each other on Monday, July 1st in MS 107. Your presentation should include the results of a single-element test: motivation, results, discussion, and outlook. Provide an overview of the FE model of the microelectronic component you are modeling (material models, symmetries, boundary conditions, mesh, etc.). You have 10 minutes to present. Let's train your sense of time: 9 or 11 minutes is already not so good! Not every member of the group has to present. One or two people should be a reasonable number of speakers. The presentation should be a complete story: starting with the motivation and problem description, ending with the conclusions/outlook, and having a logical sequence of statements in between. Once again, this presentation is a milestone and not an examination. Your performance on Monday will not affect your final grade. After we give comments on your presentation, feel free to ask questions regarding the project. Best regards and see you on Monday! LKM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Consultation Hour on 21.06.24",
+                            "Discussion_Id": "602561",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082260",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-06-21T10:53:18+02:00",
+                                    "Content": "Dear Students, In today's consultation hour, we will discuss the third homework. Afterwards, you will have the opportunity to ask questions regarding your projects. To ensure everyone has enough time for their questions, we plan to address them in the order of Groups 1, 2, and 3. Best regards and see you later LKM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group formation",
+                            "Discussion_Id": "601352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080539",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-06-17T08:41:51+02:00",
+                                    "Content": "Dear all,  Students who have passed the midterm screening test can enroll in their respective groups until Tuesday, June 18, 2024 at 11 p.m. Thank you and best regards, LKM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration",
+                            "Discussion_Id": "601351",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080537",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-06-17T08:37:39+02:00",
+                                    "Content": "Dear students, You can now register for the exam in Moses. Here are the crucial details you need to know: Registration Deadline: July 1, 2024 Withdrawal Deadline: July 19, 2024 Please ensure that you register for the exam by the specified deadline. If you have any questions, do not hesitate to ask us. Best regards, LKM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Results of the midterm test",
+                            "Discussion_Id": "601132",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080207",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-06-14T15:55:55+02:00",
+                                    "Content": "Dear All, Congratulations to all who have passed the test! We have reviewed the results, and for some of you, the scores have improved. Please check your results again. We will meet on Monday, June 17th, during our regular Zoom consultation session at 16:00 to discuss the following: Projects overview The 3rd homework Group formation This semester is very short, and we would like to finalize the groups by Monday. We wish you all the best and good luck in the following semesters for those who did not pass the test today. You are welcome to participate in this course again if you wish. You may stay in the course as long as you want, and you will still have access to all the materials that have been available so far. Best regards, LKM Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Midterm screening test",
+                            "Discussion_Id": "599724",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078126",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-06-07T21:06:50+02:00",
+                                    "Content": "Dear All,  the midterm screening test will be taken online on ISIS on Friday, June 14, 2024, from 14:00 to 16:00. The questions of the midterm screening test will be similar to those of the task catalog and the weekly quizzes. However, the questions of the midterm screening will be considerably shorter compared to those of the task catalog.  The midterm screening test consists of 20 questions. There are different types of questions: single or multiple choice, or short-answer questions. The test is in English and the answers must be given in proper English language.  There is a time limit of 90 minutes (it is more than enough, no stress!) for the trial of the midterm screening test. It is possible to jump back and forth between the questions. Please make sure that you have a stable internet connection and enough charge in your laptop. Also, please be careful and do not close the tab with the test. There are randomly selected questions in the test and I cannot guarantee that if you start the test over you will get exactly the same set of questions.   To pass you have to answer correctly not less than 75% of the questions (at least 15 correct answers of 20 questions). You will not get the results immediately after the midterm test, but only when I have processed your answers.  During the test I will be available in the zoom meeting room (the regular link for Fridays) to answer your questions about the test if needed. We will meet all together there at 14:00 and at 14:05 starts the test itself.  If you have any organizational questions, do not hesitate to ask us via e-mail.   Best regards, LKM Team ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First homework",
+                            "Discussion_Id": "594268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069879",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-05-14T10:51:08+02:00",
+                                    "Content": "Dear All, As discussed earlier, yesterday marked the \"deadline\" for Abaqus installation. The first homework assignment is now available on ISIS page and must be delivered by 26.05.2024. Please ensure careful reading of the task instructions, outlining both the required actions and the expected final submission. Additionally, remember to complete the quizzes as scheduled. Should you have any questions or require clarification on any matter, please do not hesitate to contact us. Best regards, LKM-Team  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abaqus installation",
+                            "Discussion_Id": "592104",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066443",
+                                    "Author": "Narges Panjalipoursangari",
+                                    "DateTime": "2024-05-03T14:15:34+02:00",
+                                    "Content": "Dear All, as you heard, we use Abaqus software to run finite element simulations for the project. Even with very detailed instructions, the installation of this software is challenging and not always easy. To get ready in time, please start the installation procedure already this week. You can find all the relevant links and instructions in the corresponding section \"Abaqus\" on the ISIS webpage of the course.  I kindly ask you to install the version \"Abaqus 2023\",  strictly follow the provided installation guidelines, and read through our advice (given in \"Abaqus\" section on ISIS webpage) if you have any problems with graphics or licenses. It would be very convenient for you to have the same version as your group-mates because Abaqus have problems with backward compatibility. In addition, we have Abaqus 2023 installed on our computers in the PC pool, which you are very welcome to use during this project. If you have any problems with the installation, please, contact us with a detailed description of the problem (please don't send just \"Something went wrong, and it didn't install. Could you help me?\"). Let us define a deadline for this: 13th of May. Once again: the installation might be tricky. I insist: please do not leave it on the last Sunday. On Monday 13.05.2024, we will start with the first FEA-homework in Abaqus. Please, be prepared!    Best regards, LKM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Updated zoom links ",
+                            "Discussion_Id": "588523",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060952",
+                                    "Author": "Ana Stankovic",
+                                    "DateTime": "2024-04-22T15:53:45+02:00",
+                                    "Content": "We look forward welcoming you to the consultation hour for the lecture in some minutes. Please note that the Zoom links on ISIS and on the module descriptor are updated.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion",
+                    "Forum_id": "1760991",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Homework Exercice 2",
+                            "Discussion_Id": "598681",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076643",
+                                    "Author": "Ewen Georges Albert Juhel",
+                                    "DateTime": "2024-06-03T19:59:08+02:00",
+                                    "Content": "Hello, I think I have a problem with the units of calculation in the software. I enter a Young's modulus equal to 200,000MPa in the material properties to be able to display results that take millimetres into account. My Poisson's ratio is 0.3. I apply a deformation in the xx direction equal to 0.01 (=1%). When I display the results, my U strain is indeed equal to 0.01, but unfortunately I have a coefficient of +E3 in my S11 stress and my E11 strain: I get 2,000,000 MPa and 10% strain respectively, whereas I should get S11 = 2,000 MPa and E11 = 0.01%. I don't know how to change this, I've tried changing the parameters but I can't work out where it's coming from. Could you please help me?      Thanks a lot in advance for your answer and have a nice week. Best regards, Ewen JUHEL.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework exercice 1",
+                            "Discussion_Id": "594180",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069732",
+                                    "Author": "Ewen Georges Albert Juhel",
+                                    "DateTime": "2024-05-13T19:36:40+02:00",
+                                    "Content": "Hello,  I am sorry but I totally forgot to attend the Zoom appointment from today (13.05.2024), and as far as I remember, you were supposed to give us the instructions for the homework exercices during today's session.  I saw some information about it on the ISIS page, section \"Homework exercice 1\", which seems to be quite complete, but could you please tell me if I missed any important information regarding this exercice? Thank you very much for your answer, and once again I am really sorry for the mistake... Best regards, Ewen JUHEL.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abaqus Licensing - Server Error",
+                            "Discussion_Id": "593474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068601",
+                                    "Author": "Mehmet Fatih Sönmez",
+                                    "DateTime": "2024-05-09T13:27:06+02:00",
+                                    "Content": "Hello! I am having the following error. Does anyone know a possible solutiion?  best,",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

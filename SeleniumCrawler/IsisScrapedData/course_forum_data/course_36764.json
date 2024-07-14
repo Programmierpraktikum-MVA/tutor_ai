@@ -1,0 +1,56 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] ISR PROJEKTE - SoSe 24",
+        "Course_id": "36764",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "TAUSCHBÖRSE (Swap Meet)",
+                    "Forum_id": "1705844",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Möchte jemand das Warschau-Projekt gegen das Tegel-Projekt tauschen?",
+                            "Discussion_Id": "586951",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058443",
+                                    "Author": "Sophia Katharina Reitz",
+                                    "DateTime": "2024-04-17T15:28:50+02:00",
+                                    "Content": "Hallo, ich hab doch etwas Probleme mit den Terminen und würde gerne das Warschau-Projekt gegen das Tegel-Projekt tauschen. Hat jemand Interesse?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tausche Tegel gegen Raumordnung",
+                            "Discussion_Id": "586600",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057965",
+                                    "Author": "Natalie Debora Wilk",
+                                    "DateTime": "2024-04-16T20:03:14+02:00",
+                                    "Content": "Möchte jemand aus dem Raumordnungs-Projekt lieber zu Tegel? ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche jemanden vom Warschau-Projekt der ins Tegel-Projekt möchte",
+                            "Discussion_Id": "586587",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057951",
+                                    "Author": "Tessa Katharina Heiden",
+                                    "DateTime": "2024-04-16T19:31:55+02:00",
+                                    "Content": "Tauschangebot Tegel gegen Warschau!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

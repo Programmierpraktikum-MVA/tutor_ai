@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] 2024 Denkmalwerte - Denkmalkritik",
+        "Course_id": "38857",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1807722",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kursbeginn erst am 13.05.",
+                            "Discussion_Id": "591199",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065043",
+                                    "Author": "Katharina Sahm",
+                                    "DateTime": "2024-04-30T13:15:19+02:00",
+                                    "Content": "Liebe Studierende, auf Grund der Exkursion des HBD verschiebt sich der Kursbeginn dieser Veranstaltung auf den 13.05. Viele Grüße Katharina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kursbeginn erst am 06.05.2024",
+                            "Discussion_Id": "585799",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056807",
+                                    "Author": "Katharina Sahm",
+                                    "DateTime": "2024-04-15T08:33:16+02:00",
+                                    "Content": "Liebe Studierende, auf Grund anderer Verpflichtungen kann der Kurs von Herrn Haspel leider erst am 06.05. starten. Viele Grüße und einen guten Semesterstart Katharina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

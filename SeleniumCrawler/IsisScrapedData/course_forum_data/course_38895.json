@@ -1,0 +1,121 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Quantitative Forschungsmethoden (BA-KulT BiWi 2)",
+        "Course_id": "38895",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1808735",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Sitzung am Freitag findet statt!",
+                            "Discussion_Id": "603898",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084181",
+                                    "Author": "Anja Schultze-Krumbholz",
+                                    "DateTime": "2024-06-26T20:31:49+02:00",
+                                    "Content": "Liebe Studierende, ich wurde darauf aufmerksam gemacht, dass für kommenden Freitag im ISIS-Kurs noch ein alter Text zu finden war. Die Sitzung diese Woche Freitag findet auf jeden Fall in Präsenz statt! Bitte entschuldigen Sie, falls dadurch Unanehmlichkeiten entstanden sind. Viele Grüße, Anja Schultze-Krumbholz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Planung für die kommende Sitzung",
+                            "Discussion_Id": "602162",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081671",
+                                    "Author": "Anja Schultze-Krumbholz",
+                                    "DateTime": "2024-06-19T15:51:30+02:00",
+                                    "Content": "Liebe Studierende, in der kommenden Sitzung haben sie 30 (bis 45) Minuten Zeit, in Ihren Arbeitsgruppen die deskriptive Statistik für Ihre eigenen Daten zu berechnen. Wer nicht an der Erstellung eines Fragebogens beteiligt war, sucht sich jetzt eine Gruppe, bei der sie*er mitmachen möchte. Im Anschluss machen wir weiter mit den Qualitätskriterien und der Normalverteilung. Bitte bereiten Sie sich entsprechend vor. Am 28.06. machen wir dann die Unterschiedsanalysen und Korrelationen. Ich passe die Einteilung im ISIS-Kurs entsprechend an. Bitte bereiten Sie sich mit den verfügbaren Materialien vor, sodass wir ggf. inhaltliche Fragen im Seminar besprechen können. Herzliche Grüße und bis Freitag, Anja Schultze-Krumbholz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Links zu den Fragebögen online",
+                            "Discussion_Id": "596138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072782",
+                                    "Author": "Anja Schultze-Krumbholz",
+                                    "DateTime": "2024-05-22T20:48:36+02:00",
+                                    "Content": "Liebe Studierende, die Links zu den Fragebögen habe ich jetzt in den ISIS-Kurs gestellt. Bitte beantworten Sie die Fragebögen noch bis morgen Abend, dann lade ich die Datensätze Freitagmorgen herunter. Wir sehen uns am Freitag wieder in Präsenz in FH 514! Viele Grüße, Anja Schultze-Krumbholz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literatur ist nun verfügbar &amp; Gruppenwahl für Mini-Projekte",
+                            "Discussion_Id": "591405",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065351",
+                                    "Author": "Anja Schultze-Krumbholz",
+                                    "DateTime": "2024-05-01T08:02:13+02:00",
+                                    "Content": "Liebe Studierende, die Leganto-Liste müsste nun funktionieren. Unter den jeweiligen Abschnitten finden Sie die Literatur zu den einzelnen Seminarthemen. Außerdem denken Sie bitte daran, sie für die Arbeitsgruppen für die Mini-Projekte einzutragen. Sollten Sie diesen Kurs in diesem Semester doch nicht besuchen wollen, bitte ich Sie, sich aus dem ISIS-Kurs wieder auszutragen, damit ich eine Übersicht habe. wie viele Computerarbeitsplätze wir in der Praxisphase brauchen werden. Herzliche Grüße und einen schönen Feiertag, Anja Schultze-Krumbholz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Forum für Fragen",
+                    "Forum_id": "1821472",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Leganto Liste",
+                            "Discussion_Id": "589565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062566",
+                                    "Author": "Melena Sophie Schneider",
+                                    "DateTime": "2024-04-24T18:29:02+02:00",
+                                    "Content": "Hallo an alle, findet ihr bereits Literatur in der Leganto Liste? :) Bei mir kam bisher nämlich nur die Meldung \"Es sind keine Listen mit dem Kurs verbunden 38895 [SoSe 2024] Quantitative Forschungsmethoden (BA-KulT BiWi 2)\". ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Fragen",
+                    "Forum_id": "1821477",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fragebogen",
+                            "Discussion_Id": "593681",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068926",
+                                    "Author": "Sonja Zimmermann",
+                                    "DateTime": "2024-05-10T14:41:17+02:00",
+                                    "Content": "Hallöchen, gibt es eine Mindestanzahl von Fragen für den Fragebogen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+]

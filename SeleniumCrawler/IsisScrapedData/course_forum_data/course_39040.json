@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Neurocolloquium",
+        "Course_id": "39040",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1813854",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "First lecture registration",
+                            "Discussion_Id": "587233",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058868",
+                                    "Author": "Mathis Emmanuel Lamarre",
+                                    "DateTime": "2024-04-18T11:20:58+02:00",
+                                    "Content": "Dear all, Unfortunately there are more registered participants than the maximum number allowed (8). Hence, please attend the first lecture today to activate registration. 8 participants will be randomly selected based on TU rules [1] (see Section 48) after the first lecture. In today's session, we will mainly go over organizational aspects. Cheers, Denizens team Links: ------ [1] https://www.static.tu.berlin/fileadmin/www/10000000/Studiengaenge/StuPOs/AllgStuPO_en.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Web page",
+                            "Discussion_Id": "587231",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058864",
+                                    "Author": "Mathis Emmanuel Lamarre",
+                                    "DateTime": "2024-04-18T11:15:49+02:00",
+                                    "Content": "Dear all, You can find more information about the neurocolloquium on our lab website: https://denizenslab.github.io/teaching/seminars/Neurocolloqium/ Cheers, Denizens team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Change of room",
+                            "Discussion_Id": "587217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058830",
+                                    "Author": "Mathis Emmanuel Lamarre",
+                                    "DateTime": "2024-04-18T10:40:47+02:00",
+                                    "Content": "Dear all, Today the neurocolloquium will take place in room 5.044. Cheers, Denizens team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

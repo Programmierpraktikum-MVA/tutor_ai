@@ -1,0 +1,469 @@
+[
+    {
+        "Course_Name": "Analysis I und Lineare Algebra für Ingenieurwissenschaften SoSe 2024",
+        "Course_id": "37633",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766190",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Feriensprechstunden",
+                            "Discussion_Id": "607573",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089467",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-07-12T18:23:36+02:00",
+                                    "Content": "Liebe Studierende, Ab nächster Woche finden keine Projektutorien, sondern Feriensprechstunden, mehr statt. Die Feriensprechstunden starten am Mittwoch, den 17.7. und gehen bis Donnerstag, den 25.7. Bitte beachtet den dazu veröffentlichten Stundenplan. Viele Grüße Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wichtige Informationen zu den Prüfungen",
+                            "Discussion_Id": "607272",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089008",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-07-11T16:36:49+02:00",
+                                    "Content": "Liebe Studierende, aufgrund mehrfacher Nachfragen haben wir hier noch einmal einige wichtige Informationen zu den Prüfungen zusammengestellt: 1) Mit einer Anmeldung im Zeitraum 29.4.2024-19.7.2024 melden Sie sich ausschließlich für die Klausur am 26.7.2024 an. Wenn Sie sich schon angemeldet haben und die Klausur am 26.7. nicht mitschreiben wollen, melden Sie sich bitte schnellstmöglichts wieder ab! Wenn Sie nach Ende der Abmeldefrist (23.7.) noch angemeldet sind und dann nicht zur Klausur erscheinen gilt dies als Fehlversuch! 2) Für die zweite Klausur am 9.10.2024 können Sie sich zur Zeit noch nicht anmelden. Der Anmeldezeitraum hier ist 1.9.2024-2.10.2024. Wenn Sie die Klausur am 9.10. mitschreiben wollen, müssen Sie sich in jedem Fall dafür explizit anmelden. Dies gilt insbesondere auch dann, wenn Sie sich zur ersten Klausur angemeldet haben und diese nicht bestanden haben. Sie müssen sich dann für die zweite Klausur erneut anmelden! Wenn Sie die erste Klausur bestanden haben, dürfen Sie die zweite Klausur nicht mitschreiben! 3) Wenn Sie das Hausaufgabenkriterium nicht bestanden haben, dürfen Sie nicht an der Klausur teilnehmen. Sollten Sie sich bereits für die Klausur angemeldet haben und haben das Kriterium jetzt nicht bestanden, dann melden Sie sich bitte wieder von der Prüfung ab! 4) Prüfungsrelevant sind die Vorlesungen 1-39 bzw. die Kapitel 1-39 im Vorlesungsskript. Die fehlenden Vorlesungen 40-43 finden im kürzeren Sommersemester (14 Wochen) grundsätzlich nicht statt, sondern werden im längeren Wintersemester (16 Wochen) in der Analysis II für Ingenieurswissenschaften nachgeholt. Mit freundlichen Grüßen Christian Mehl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabenkriterium",
+                            "Discussion_Id": "606470",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087872",
+                                    "Author": "Konrad Mundinger",
+                                    "DateTime": "2024-07-09T08:26:40+02:00",
+                                    "Content": "Liebe Studierende,  bitte überprüfen Sie, ob ihr Hausaufgabenkriterium in Moses korrekt gesetzt wurde. Sollte es Unstimmigkeiten geben, melden Sie sich schnellstmöglich bei ihrem Tutor bzw. ihrer Tutorin.  Viele Grüße  Konrad",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde morgen 9 statt 17 Uhr",
+                            "Discussion_Id": "605598",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086636",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-07-04T16:30:47+02:00",
+                                    "Content": "Liebe Studierende, Aufgrund des Fußballspiels morgen Abend verschiebe ich meine Sprechstunde morgen auf 9 Uhr (statt 17 Uhr). Viele Grüße Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation endet heute",
+                            "Discussion_Id": "600042",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078634",
+                                    "Author": "Konrad Mundinger",
+                                    "DateTime": "2024-06-28T10:00:00+02:00",
+                                    "Content": "Liebe Studierende, vielen Dank für eure bisherige Teilnahme an der Lehrevaluation. Morgen ist der letzte Tag an dem eine Teilnahme möglich ist. Falls also noch nicht geschehen, füllt bitte die folgenden Fragebögen bis heute Abend (28.06) aus. Vorlesung von Christian Mehl: https://befragung.tu-berlin.de/evasys/online.php?pswd=P86JW Vorlesung von Patrick Winkert: https://befragung.tu-berlin.de/evasys/online.php?pswd=SLQRF Große Übung: https://befragung.tu-berlin.de/evasys/online.php?pswd=V77DD  Viele Grüße Konrad",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probeklausur am 17.7.",
+                            "Discussion_Id": "604067",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084415",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-06-27T14:59:28+02:00",
+                                    "Content": "Liebe Studierende, Am Mittwoch, den 17.7. findet von 16:15 - 17:45 Uhr im MA 001 eine Probeklausur statt. Das Team der Analysis I und Lineare Algebra für Ingenieurwissenschaften wird euch zur Verfügung stehen um Fragen klären zu können. Auch wenn ihr bis dahin noch nicht alles perfekt gelernt habt, können wir euch sehr empfehlen an der Probeklausur teilzunehmen. Es ist keine Anmeldung nötig. Viele Grüße Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fristverlängerung HA 08 bis Mitternacht",
+                            "Discussion_Id": "601041",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080090",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-06-14T10:58:19+02:00",
+                                    "Content": "Liebe Studierende, Da Isis in der letzten Stunde teilweise down war, haben wir die Frist für die (schriftliche und online) Hausaufgabenabgabe bis um Mitternacht, d.h. 14.6., 23:59 Uhr, verlängert. Solltet ihr weiterhin Probleme mit Isis haben, schreibt bitte rechtzeitig, vor der Abgabe eine E-Mail an ana1lina-ing-sose@math.tu-berlin.de Viele Grüße  Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Vorlesung am 13.6.",
+                            "Discussion_Id": "600829",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079773",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-06-13T12:01:39+02:00",
+                                    "Content": "Liebe Studierende, wie wir leider gerade erst erfahren haben, ist der Audimax H 0105 heute leider durch eine Sonderveranstaltung belegt. Auf die Schnelle konnten wir leider keinen Alternativraum finden. Daher muss die Vorlesung heute leider entfallen. Bitte schauen SIe sich stattdessen die auf der ISIS-Seite zur Verfügung gestellten Videos von Patrick Winkert zu Vorlesung 25 an. Mit freundlichen Grüßen Christian Mehl",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079926",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-06-13T16:41:29+02:00",
+                                    "Content": "Liebe Studierende,  leider konnten wir für die heute ausgefallene Vorlesung 25 keinen kurzfristigen Ersatztermin organisieren, daher eignen Sie sich die Vorlesungsinhalte bitte im Selbststudium an, indem Sie sich die Vorlesungsvideos von Herrn Winkert anschauen und/oder das Kapitel 25 im Vorlesungsskript durcharbeiten. Zur weiteren Unterstützung habe ich außerdem die Vorlesungsmitschriften aus einem früheren Semester hochgeladen.  Wie es zu der Doppelbelegung des Audimax kam und warum wir darüber nicht vorher informiert wurden, konnten wir bisher leider nicht nachvollziehen!  Vielen Dank für Ihr Verständnis und mit freundlichen Grüßen  Christian Mehl",
+                                    "Response to": "p1079773"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation der Veranstaltung",
+                            "Discussion_Id": "600032",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078619",
+                                    "Author": "Konrad Mundinger",
+                                    "DateTime": "2024-06-10T14:56:55+02:00",
+                                    "Content": "Liebe Studierende, die Lehrevaluation steht an und wir freuen uns auf eure Teilnahme. Unter den folgenden Links findet ihr die Fragebögen zu den Vorlesungen und der Übung: Vorlesung von Christian Mehl: https://befragung.tu-berlin.de/evasys/online.php?pswd=P86JW Vorlesung von Patrick Winkert: https://befragung.tu-berlin.de/evasys/online.php?pswd=SLQRF Große Übung: https://befragung.tu-berlin.de/evasys/online.php?pswd=V77DD  Bitte füllt die Fragebögen spätestens bis zum 29.06 aus. Viele Grüße Konrad",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung am 08.05.2024 16-18 Uhr -&gt; H 0104",
+                            "Discussion_Id": "593235",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068218",
+                                    "Author": "Patrick Winkert",
+                                    "DateTime": "2024-05-08T12:11:07+02:00",
+                                    "Content": "Liebe Studierende,  beachten Sie bitte, dass die heutige Vorlesung von 16 - 18 Uhr einmalig im H 0104 stattfinden wird.  Viele Grüße, Patrick Winkert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungen bis Pfingsten",
+                            "Discussion_Id": "592654",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067348",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-05-06T16:20:24+02:00",
+                                    "Content": "Liebe Studierende, durch den Feiertag Himmelfahrt geraten die Vorlesung bis Pfingsten vorübergehend \"aus der Reihe\". Durch den Feiertagsausfall der Vorlesung von Herrn Winkert am Pfingstmontag kommen die Züge dann wieder in den üblichen Takt. Sollten Sie also zwischen den Dozenten hin- und herwechseln, beachten Sie die folgende Planung von VL 9 bis VL 15: VL  9:  Mo 6.5. (Winkert)  Di 7.5. (Mehl) VL 10: Di 7.5. (Winkert)  Mi 8.5. (Mehl) VL 11:  Mi 8.5. (Winkert)  Di 14.5. (Mehl) VL 12:  Mo 13.5. (Winkert)  Mi 15.5. (Mehl) VL 13:  Di 14.5. (Winkert)  Do 16.5. (Mehl) VL 14:  Mi 15.5. (Winkert)  Di 21.5. (Mehl) VL 15:  Di 21.5. (Winkert)  Mi 22.5. (Mehl) ab hier wieder wie gehabt Relevant für die Übungen sind in der Woche 6.5.-10.5. nur die Vorlesungen 9-10, in der Woche darauf die Vorlesungen 11-13. Mit freundlichen Grüßen Christian Mehl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ab nächster Woche Projektutorien wieder in E-N 004",
+                            "Discussion_Id": "591999",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066270",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-05-03T10:28:46+02:00",
+                                    "Content": "Liebe Studierende,  Wir haben gute Neuigkeiten. Ab nächster Woche, d.h. ab Montag, den 06.05., finden die Projekttutorien wieder im E-N 004 statt.  Es ist möglich, dass es ab und an noch zu Schließungen kommen wird. Diese werden wir einen Tag vorher ankündigen und einen Ausweichraum anbieten.  Beste Grüße Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zweiter Raum für die Projekttutorien MA141",
+                            "Discussion_Id": "590834",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064501",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-04-29T14:54:56+02:00",
+                                    "Content": "Liebe Studierende, Wie im Studierendenforum bereits erwähnt, gibt es seit heute einen zweiten Raum für die Projekttutorien, den MA 141.  Bitte beachten Sie, dass dort ausschließlich morgen zwischen 10-14 Uhr noch andere Veranstaltungen stattfinden. Davor und danach kann er aber regulär für die Projekttutorien genutzt werden.  Mit freundlichen Grüßen, Lena Weis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwahl und Hausaufgaben",
+                            "Discussion_Id": "590242",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063585",
+                                    "Author": "Pauline Wiechmann",
+                                    "DateTime": "2024-04-26T14:51:58+02:00",
+                                    "Content": "Liebe Studierende, bitte beachten Sie, dass die Gruppenwahl nur noch bis heute, 18:00 geöffnet ist. Wir möchten Sie auch noch einmal darauf hinweisen, dass Sie die Hausaufgaben in Gruppen von 3 Personen abgeben müssen! Abgaben von unvollständigen Gruppen (nur eine Person in der Gruppe) werden ab Woche 2 nicht mehr akzeptiert. Damit Sie ggf. die Chance haben, sich noch mal zusammenzufinden, werden wir das Gruppenwahltool am Donnerstag, den 02.05. von 10:00 bis 18:00 erneut öffnen. Wenn Sie die Gruppe in diesem Zeitraum wechseln, laden Sie die Lösung für die Hausaufgabe Woche 2 bitte erst danach hoch! Viele Grüße Pauline Wiechmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projekttutorien ab 25.4. in MA 144",
+                            "Discussion_Id": "589258",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062114",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-04-24T10:49:34+02:00",
+                                    "Content": "Liebe Studierende, Aufgrund von Bauarbeiten im E-N 004 müssen wir leider die Projekttutorien bis auf Weiteres ab morgen, den 25.4., in den MA 144 verlegen. Mit freundlichen Grüßen, Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Helfer*innen für den Tag der Mathematik (4. Mai) gesucht",
+                            "Discussion_Id": "588861",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061464",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-04-23T12:30:23+02:00",
+                                    "Content": "Liebe Studierende, Für den Berliner Tag der Mathematik am 4. Mai werden dringend helfende Hände gesucht, insbesondere Aufsichtspersonen für den Schüler*innen-Wettbewerb. Bei Interesse könnt ihr euch auf  https://www3.math.tu-berlin.de/TDM/tdm-2024  unten links unter  Intern -> Unterstützung vor Ort  eintragen. Neben dem Wettbewerb gibt es außerdem ein interessantes Programm aus mathematischen Vorträgen wie Agentenbasierte Modelle für nachhaltige Mobilität, Mit Hilfe von künstlicher Intelligenz Schlümpfe finden und Warum entstehen neue COVID-Varianten? und vielen weiteren. Mit freundlichen Grüßen, Lena",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wichtiges zu Hausaufgaben und Projektutorien",
+                            "Discussion_Id": "587729",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059638",
+                                    "Author": "Pauline Wiechmann",
+                                    "DateTime": "2024-04-19T14:49:58+02:00",
+                                    "Content": "Liebe Studierende, heute um 18:00 Uhr wird das Gruppenwahltool auf ISIS geöffnet. Bitte tragen Sie sich in feste Gruppen von 3 Personen ein, wenn Sie die schriftlichen Hausaufgaben bearbeiten wollen. Das Gruppenwahltool ist bis Freitag, den 26.04. geöffnet. Nur, wenn Sie Mitglied einer Gruppe sind, können Sie die schriftlichen Aufgaben abgeben. Dafür gibt es jede Woche eine entsprechende Dateiablage. Die erste Hausaufgabe ist auch zum Freitag, den 26.04. fällig. Bitte geben Sie den schriftlichen Teil der Hausaufgabe im PDF Format ab (ob am Tablet verfasst, in Latex geschrieben, oder handschriftlich und eingescannt/ lesbar fotografiert ist dabei egal). Wichtig: Der Dateiname muss den Namen Ihrer Gruppe beinhalten! (Wenn Sie in der Gruppe \"Lena04\" sind, können Sie die Abgabe zum Beispiel Hausaufgabe01_Lena04 nennen). Bitte beachten Sie auch, dass die Anmeldung in Moses für das Hausaufgabenkriterium ist, und nicht für das Projekttutorium. (Aus technischen Gründen steht dahinter der Termin am Freitag um 18:00 Uhr - ignorieren Sie diesen.) Sie können den Termin, an dem Sie das Projekttutorium besuchen, frei wählen, der EN 004 ist für Sie von Montag bis Freitag jeweils von 8:00 Uhr bis 18:00 Uhr mit Tutoren besetzt. Wer die Anmeldefrist für das Hausaufgabenkriterium verpasst hat, meldet sich bitte an das Ana1Lina Team unter ana1lina-ing-sose@math.tu-berlin.de. Viele Grüße Pauline Wiechmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Projekttutorien am 24.4.",
+                            "Discussion_Id": "587563",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059377",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-04-19T10:06:36+02:00",
+                                    "Content": "Liebe Studierende, Aufgrund einer Schließung des E-N 004 am nächsten Mittwoch, den 24.4., finden an diesem Tag keine Projektutorien statt. Bitte weicht in der kommenden Woche auf andere Termine aus. Mit freundlichen Grüßen,  Lena Weis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung: Donnerstagsvorlesung im H 0105",
+                            "Discussion_Id": "586938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058424",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-04-17T15:13:11+02:00",
+                                    "Content": "Liebe Studierende, die Vorlesung am Donnerstag 12-14 (3. Termin im Zug mit dem Dozenten Mehl) findet ab sofort im Audimax statt, also im Raum H 0105. Mit freundlichen Grüßen Christian Mehl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich Willkommen zur Analysis I und Lineare Algebra ",
+                            "Discussion_Id": "585489",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056323",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-04-11T15:53:14+02:00",
+                                    "Content": "Liebe Studierende, herzlich Willkommen zur Lehrveranstaltung \"Analysis I und Lineare Algebra für Ingenieurwissenschaften\" im Sommersemester 2024!  Die Vorlesungen starten am Montag, den 15.04. Sie können entsprechend der individuellen Anforderungen Ihres Stundenplans frei zwischen den Vorlesungszügen der Dozenten Christian Mehl oder Patrick Winkert wählen. Die Vorlesungstermine finden Sie jeweils unter \"Veranstaltungstermine und Kontaktdaten\". Es empfiehlt sich, alle Vorlesungen beim selben Dozenten zu besuchen.  Die Projektutorien beginnen dieses Semester bereits in der ersten Woche am Mittwoch, den 17.04. Sie finden im Raum E-N 004 statt. Eine genaue Liste der Termine finden Sie (in den folgenden Tagen) ebenfalls unter \"Veranstaltungstermine und Kontaktdaten\". Besonders wichtig ist, dass Sie sich bis Mittwoch, den 17.04., um 18:00 Uhr, in Ihrem Moseskonto unter \"Tutorien -> Planung -> Tutorium anmelden\" zu \"Analysis I und lineare Algebra für Ingenieure (Lerninsel)\" anmelden. Ihr Hausaufgabenkriterium kann sonst nicht eingetragen werden!  Viel Spaß und Erfolg beim Studienstart wünscht Ihnen Ihr Analysis I und Lineare Algebra Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum für Studierende",
+                    "Forum_id": "1794253",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ort Feriensprechstunde",
+                            "Discussion_Id": "607598",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089505",
+                                    "Author": "Charlotte Koch",
+                                    "DateTime": "2024-07-12T22:47:31+02:00",
+                                    "Content": "Hallo, ab Mi 17.07. findet ja kein Projekttutorium mehr statt, sondern nur noch Feriensprechstunde. Wo findet diese denn statt? Lg",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probeklausur",
+                            "Discussion_Id": "607127",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088809",
+                                    "Author": "Naeimeh Afshari Khoob",
+                                    "DateTime": "2024-07-11T11:05:04+02:00",
+                                    "Content": "Hallo,  Gibt es vielleicht für diejenigen, die nicht an der Probeklausur teilnehmen können die Möglichkeit, dass die Probeklausur (am 17.07) auf ISIS hochgeladen wird?  Danke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089457",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-07-12T17:48:19+02:00",
+                                    "Content": "Hallo Naeimeh,  Die Probeklausuren wurden heute hochgeladen. Die Lösungen werden wir nach dem Termin am 17.7. hochladen.  Viele Grüße Lena",
+                                    "Response to": "p1088809"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp Gruppe ",
+                            "Discussion_Id": "606916",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088527",
+                                    "Author": "Emma Sophie Leonie Anna Heindl",
+                                    "DateTime": "2024-07-10T14:42:14+02:00",
+                                    "Content": "Kann mich jemand bitte zur Whatsapp Gruppe von ana 1 lina hinzufügen? 01622932066 danke!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088607",
+                                    "Author": "Sidney Helen Schögel",
+                                    "DateTime": "2024-07-10T17:09:39+02:00",
+                                    "Content": "Mich bitte auch. 01722064560",
+                                    "Response to": "p1088527"
+                                },
+                                {
+                                    "Message_id": "p1089136",
+                                    "Author": "Reuben Sugianto",
+                                    "DateTime": "2024-07-12T00:56:15+02:00",
+                                    "Content": "https://chat.whatsapp.com/Crw9vQ8ucyCGSW6zeDuDRN",
+                                    "Response to": "p1088607"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurzulassung auf Moses",
+                            "Discussion_Id": "606526",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087965",
+                                    "Author": "Daniel Grib",
+                                    "DateTime": "2024-07-09T10:49:49+02:00",
+                                    "Content": "Guten Tag, Im Ankündigungsforum wurde uns mitgeteilt, dass wir unsere Modulzulassung auf Moses überprüfen sollen. Bedeutet das, dass wir bei der Prüfungsanmeldung schauen sollen, ob die Prüfungszulassung erfolgt ist? Liebe Grüße Daniel Grib",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088021",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-07-09T12:09:03+02:00",
+                                    "Content": "Guten Tag, nein, das bedeutet, dass Sie in Ihrem Moses-Konto überprüfen sollen, ob das Hausaufgabenkriterium korrekt eingetragen wurde, wenn Sie es erreicht haben. Die Zulassung zur Klausur erfolgt erst nach Ablauf der Anmeldefrist. Mit freundlichen Grüßen Christian Mehl",
+                                    "Response to": "p1087965"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problem mit der HA12 - keine Aufgaben angezeigt",
+                            "Discussion_Id": "605126",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085989",
+                                    "Author": "Haiyan Yang",
+                                    "DateTime": "2024-07-02T21:21:07+02:00",
+                                    "Content": "Hallo zusammen, ich habe eine Frage bezüglich der HA12. Ich kann dort keine Aufgaben oder Materialien sehen. Hat noch jemand dieses Problem? Vielen Dank im Voraus.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086429",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-07-04T10:04:02+02:00",
+                                    "Content": "Hallo Haiyan,  Bei mir gibt es keine Probleme. Besteht das Problem weiterhin?  Viele Gruesse Lena",
+                                    "Response to": "p1085989"
+                                },
+                                {
+                                    "Message_id": "p1086467",
+                                    "Author": "Haiyan Yang",
+                                    "DateTime": "2024-07-04T11:06:01+02:00",
+                                    "Content": "Hallo Lena,  Ja, ich habe immer noch dieses Problem und kann HA12 noch nicht sehen, wie im obigen Screenshot gezeigt.  Beste Grüße Haiyan",
+                                    "Response to": "p1086429"
+                                },
+                                {
+                                    "Message_id": "p1086542",
+                                    "Author": "Bhavya Jain",
+                                    "DateTime": "2024-07-04T13:29:21+02:00",
+                                    "Content": "Hallo, ich habe das gleiche Problem. Es zeigt die gleiche wie im obigen Screenshot und daher kann ich auch diese Hausaufgabe nicht zugreifen.  LG, Bhavya.",
+                                    "Response to": "p1086467"
+                                },
+                                {
+                                    "Message_id": "p1086659",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-07-04T17:30:41+02:00",
+                                    "Content": "Hallo,  Okay, ich habe mittlerweile herausgefunden das es daran liegt, das die Hausaufgabe gleichzeitig geöffnet wie geschlossen wurde. Allerdings weiß ich aktuell noch nicht, ob das aus Versehen passiert ist oder die Hausaufgabe eigentlich gar nicht hochgeladen werden sollte. Bis morgen sollte sich das klären. In der Zwischenzeit können die Projekttutoriumsaufgaben regulär bearbeitet werden.  Viele Grüße Lena",
+                                    "Response to": "p1086542"
+                                },
+                                {
+                                    "Message_id": "p1086786",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-07-05T10:22:43+02:00",
+                                    "Content": "Die Hausaufgabe ist jetzt geöffnet.",
+                                    "Response to": "p1086659"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabenkriterium",
+                            "Discussion_Id": "602989",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082899",
+                                    "Author": "Martin Tom Leonhard Banaschewski",
+                                    "DateTime": "2024-06-24T11:50:03+02:00",
+                                    "Content": "Und noch eine Frage, um auf Nummer sicher zu gehen:  Es braucht mindestens 60% von allen Punkten (über alle Tests hinweg, also in Summe 180 Punkte) für das Erfüllen des Kriteriums.  Nicht mindestens 60% der Punkte bei jedem der 10 Tests.  Richtig?  Vielen Dank!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082930",
+                                    "Author": "Lena Weis",
+                                    "DateTime": "2024-06-24T12:21:42+02:00",
+                                    "Content": "Richtig.",
+                                    "Response to": "p1082899"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurrelevante Inhalte",
+                            "Discussion_Id": "602807",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082635",
+                                    "Author": "Martin Tom Leonhard Banaschewski",
+                                    "DateTime": "2024-06-23T13:47:36+02:00",
+                                    "Content": "Kann mir jemand gerade beantworten, ob der gesamte Inhalt der Vorlesung prüfungsrelevant ist oder ob einzelne Vorlesungen (und welche) nicht mehr geprüft werden? Vorab bereits Vielen Dank!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082768",
+                                    "Author": "Christian Mehl",
+                                    "DateTime": "2024-06-24T08:32:15+02:00",
+                                    "Content": "Ja, der gesamte Inhalt der Vorlesungen ist prüfungsrelevant. Um ganz genau zu sein: Dies sind die Vorlesungen 1-39 bzw. die entsprechenden Kapitel im Vorlesungsskript.",
+                                    "Response to": "p1082635"
+                                },
+                                {
+                                    "Message_id": "p1082896",
+                                    "Author": "Martin Tom Leonhard Banaschewski",
+                                    "DateTime": "2024-06-24T11:45:08+02:00",
+                                    "Content": "danke",
+                                    "Response to": "p1082768"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problem mit Bewertung von Hausaufgabe 5",
+                            "Discussion_Id": "596643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073537",
+                                    "Author": "Andrii Makarov",
+                                    "DateTime": "2024-05-24T21:31:38+02:00",
+                                    "Content": 

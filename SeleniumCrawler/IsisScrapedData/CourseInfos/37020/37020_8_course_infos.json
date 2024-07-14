@@ -1,0 +1,9 @@
+[
+    "Supervisor/Contact:",
+    "Jakob Strafer",
+    "The survey should compare different approaches of Reinforcement Learning (e.g. Q-Learning, Deep Q Networks, ...) and their application in the area of automated pen-testing. The selected papers should only cover setups with simulated network environments, emulated or real networks should be neglected. Special focus instead should be put on level of detail the simulation environments for the reinforcement learning agents, i.e. whether the results are actionable in real environments). The comparison should also consider the attacker side as well as the defender side.",
+    "All referenced papers in the survey should have been published in reputable conferences or journals and not be older than five years. The survey should follow the approaches outlined by Kitchenham (see above). At a minimum, it should cover 20 papers.",
+    "A good starting point for the literature research can be found at",
+    "https://github.com/Limmen/awesome-rl-for-cybersecurity",
+    "The main task will be to structure and present the survey results. Also, what should not be done is simply writing 20 summarization paragraphs and chaining them together."
+]

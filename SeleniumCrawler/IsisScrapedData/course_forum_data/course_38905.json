@@ -1,0 +1,423 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Lineare Algebra II",
+        "Course_id": "38905",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1809059",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fehler im zweiten Tutorium 25.06.24",
+                            "Discussion_Id": "603452",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083554",
+                                    "Author": "Janis Sönke Auffenberg",
+                                    "DateTime": "2024-06-25T14:31:58+02:00",
+                                    "Content": "Hey Leute, die im Tutorium eingeführte Relation ist natürlich nur eine Halbordnung auf dem Raum der symmetrischen n x n Matrizen.  Die betrachtete Rotation ist gerade ein Gegenbeispiel dafür, dass die Relation eine Halbordnung im R^{n x n} ist. Mein Fehler, sorry dafür. Wir besprechen den Teil nächste Woche nochmal im Tutorium. Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde bei Lennart Papp",
+                            "Discussion_Id": "600209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078866",
+                                    "Author": "Lennart Simon Papp",
+                                    "DateTime": "2024-06-11T10:21:39+02:00",
+                                    "Content": "Liebe Studierende, Meine Sprechstunde wird kommende Woche ausnahmsweise am Dienstag, den 18.06 von 9:00 Uhr bis 10:00 Uhr stattfinden. Lieben Gruß Lennart Papp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klarstellung bei Blatt 5",
+                            "Discussion_Id": "596523",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073346",
+                                    "Author": "Elias Samuel Wirth",
+                                    "DateTime": "2024-05-24T12:59:28+02:00",
+                                    "Content": "Hallo zusammen,  bei Blatt 5 haben wir eine neue Version hochgeladen, welche die Aufgabenstellung der dritten Aufgabe etwas klarer macht.  Viele Grüsse, Ihr LinA 2 Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler bei Blatt 4",
+                            "Discussion_Id": "595150",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071256",
+                                    "Author": "Elias Samuel Wirth",
+                                    "DateTime": "2024-05-17T12:48:08+02:00",
+                                    "Content": "Guten Tag,  Korrektur zu Blatt 4: Aufgabe 3: Die Funktion sollte von V nach V und nicht von K nach K sein. Aufgabe 4: ersetzen Sie \"...nicht durch eine stetige Kurver verbindbar sind.\" mit \"...nicht durch eine stetige Kurve verbunden werden können, wobei alle Punkte der Kurve ebenfalls in GL(2,R) liegen müssen.\"  Viele Grüsse, Ihr LinA II Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstundenausfall Wirth",
+                            "Discussion_Id": "591357",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065273",
+                                    "Author": "Elias Samuel Wirth",
+                                    "DateTime": "2024-04-30T18:15:49+02:00",
+                                    "Content": "Guten Abend,  Die Sprechstunde von Elias Wirth findet diese Woche nicht statt.  Viele Grüsse, Ihr LinA II Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung findet statt",
+                            "Discussion_Id": "589206",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062016",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-04-24T09:41:40+02:00",
+                                    "Content": "Liebe Studentinnen und Studenten, die Vorlesung morgen früh findet statt. Mit freundlichen Grüßen Boris Springborn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Helfer*innen gesucht: Tag der Mathematik am 4. Mai",
+                            "Discussion_Id": "588778",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061344",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-04-23T10:53:21+02:00",
+                                    "Content": "Liebe Studentinnen und Studenten, Wolfgang König ja in der Vorlesung schon erzählt, worum es geht. Für den Schülerwettbewerb am Tag der Mathematik am 04. Mai werden für die Aufsicht ab 8:30 noch Helfer*innen gesucht. Wer dabei sein möchte bitte auf der Seite https://www3.math.tu-berlin.de/TDM/tdm-2024/ links unten eintragen unter Intern -> Unterstützung vor Ort . Danach kann man sich natürlich auch die interessanten Vorträge anhören. Herzliche Grüße Boris Springborn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabengruppen",
+                            "Discussion_Id": "587702",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059603",
+                                    "Author": "Elias Samuel Wirth",
+                                    "DateTime": "2024-04-19T14:13:02+02:00",
+                                    "Content": "Guten Tag,  Bitte tragen Sie sich im Hausaufgabengruppentool auf ISIS ein. Zur Abgabe der Hausaufgaben ist es zwingend notwendig in Gruppen abzugeben. Sie dürfen aber alleine in einer Gruppe sein. Idealerweise schreiben Sie sich in eine Gruppe ein, die zu ihrem Tutor oder ihrer Tutorin gehört. Dies ist jedoch nicht zwingend notwendig.  Gruss,  Ihr LinA II Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Korrektur",
+                            "Discussion_Id": "587178",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058767",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-04-18T09:22:03+02:00",
+                                    "Content": "In der vorigen Ankündigung war ein Tippfehler. Die Tafel im MA 042 ist kaputt. Sorry",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsausfall",
+                            "Discussion_Id": "587169",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058757",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-04-18T09:04:14+02:00",
+                                    "Content": "Liebe Studentinnen und Studenten, heute früh musste die Vorlesung leider ausfallen, weil die Tafelanlage im MA 042 kaputt ist. Es tut mir leid, dass Sie umsonst so früh in die Uni gekommen sind. Wegen nächster Woche werde ich Sie auf dem Laufenden halten. Mit freundlichen Grüßen Boris Springborn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aktuelles",
+                            "Discussion_Id": "586344",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057601",
+                                    "Author": "Elias Samuel Wirth",
+                                    "DateTime": "2024-04-16T12:01:17+02:00",
+                                    "Content": "Liebe Studierende,  Herzlich willkommen zum Kurs. Die Übung und Tutorien finden ab nächster Woche statt.  Falls noch nicht erledigt, tragen Sie sich bis Mittwoch, den 17. April 2024, auf Moses ein.  Gruss, Ihr LinA II Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1809061",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "HA-Partner*in gesucht",
+                            "Discussion_Id": "602770",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082589",
+                                    "Author": "Vsevolod Bordachev",
+                                    "DateTime": "2024-06-23T03:19:27+02:00",
+                                    "Content": "Hey, Ich bin gerade auf der Suche nach neuem*er HA-Partner*in.Bei Interesse schreibt mir gerne über Whatsapp +4915228025203.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehler, der eine Ewigkeit wert ist",
+                            "Discussion_Id": "601016",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080051",
+                                    "Author": "Danila Kluiko",
+                                    "DateTime": "2024-06-14T09:24:33+02:00",
+                                    "Content": "Heute Abend war ich wieder einmal in der Rolle des demütigen Sklaven der Wissenschaft, der die ganze Nacht lang die Wahrheit aus ihrem Granit meißelte. Erschöpft von der harten Arbeit und mit zitternden kalten Händen tippte ich langsam den Namen meiner Lieblingswebsite ein, die mich freundlicherweise jeden Abend mit neuen Aufgaben versorgte. Es war 4:37 Uhr, dieses Mal hatte LINA mehr Stunden meines Lebens in Anspruch genommen, als ich geplant hatte, aber ich war trotzdem zufrieden und müde. Und wie groß war meine Überraschung, als ich auf meiner Lieblingsseite genau diesen Fehler sah, einen Fehler, der eine Ewigkeit wert war: \"Ungültige HTTP-Methode (GET)\". In diesem Moment verriet mich mein Körper, unfähig, eine so große Gemeinheit des Lebens zu glauben, wollte ich anfangen, alles zu zerreißen und zu werfen, was ich sah, aber die langen Stunden der Matrixumwandlung machten sich bemerkbar, ich fühlte, wie meine Augenlider mit jeder Sekunde kälter wurden, mein Kopf sank langsam auf das weiche Kissen und ich verschwand in der Ewigkeit..... Der Grund, warum ich all das oben beschrieben habe, ist eine einfache Bitte um Gerechtigkeit, ich wachte kurz nach der Umwandlung auf und rannte sofort los, um meine Hausaufgaben abzugeben, was mir auch gelang, wenn auch mit Verspätung. Ich bitte um Gnade und Verständnis, ich bitte darum, dass meine Aufgaben  in der üblichen Weise berücksichtigt werden, mit einem Blick auf den skrupellosen Verrat an unserer Lieblingsseite.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgaben von LinA I",
+                            "Discussion_Id": "600338",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079047",
+                                    "Author": "Melina Kassari",
+                                    "DateTime": "2024-06-11T15:07:05+02:00",
+                                    "Content": "Hallo zusammen,   ich wollte kurz fragen, ob jemand alle Lösungen der HA Blätter aus LinA I vom letzten Semester hat und mir die mitteilen könnte, damit ich alle gesammelt habe oder gibt es die Lösungen irgendwo hochgeladen?  Vielen Dank im Voraus. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA 3 Aufgabe 3 Nachfrage",
+                            "Discussion_Id": "594393",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070074",
+                                    "Author": "Joshua Daniel Goering",
+                                    "DateTime": "2024-05-14T15:47:58+02:00",
+                                    "Content": "Hallo, ich wollte nur kurz fragen, wie diese Matrix aussehen soll?  Ist hier vielleicht ein Formatierungsfehler aufgetreten und es sollte sein A         -B D^-1    C ?  Ich bedanke mich für jegliche Hilfe. Liebe Grüße, Joshua Goering",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070098",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-05-14T16:14:14+02:00",
+                                    "Content": "Nein, kein Formatierungsfehler. Das ist so gemeint, wie's dasteht. A-BD-1C ist die Differenz von zwei n×n-Matrizen. Herzliche Grüße Boris Springborn",
+                                    "Response to": "p1070074"
+                                },
+                                {
+                                    "Message_id": "p1070129",
+                                    "Author": "Joshua Daniel Goering",
+                                    "DateTime": "2024-05-14T17:05:40+02:00",
+                                    "Content": "Achso natürlich, vielen Dank für die Antwort!",
+                                    "Response to": "p1070098"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "592888",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067706",
+                                    "Author": "Zehra Zülal Akpinar",
+                                    "DateTime": "2024-05-07T11:54:52+02:00",
+                                    "Content": "Guten Tag, ich habe probiert mich für die Prüfung am Ende dieses Semesters zu anmelden, jedoch bekomme ich leider ein Error wie unten hinzugefügt. Weißt jemand ob das für jeden so ist oder ob es nur bei mir eine technische Problem gibt? VG Z.Z.Akpinar ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067817",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-05-07T14:14:58+02:00",
+                                    "Content": "zu früh",
+                                    "Response to": "p1067706"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Spieleabend",
+                            "Discussion_Id": "592053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066351",
+                                    "Author": "Sebastian Marko Weißer",
+                                    "DateTime": "2024-05-03T12:14:15+02:00",
+                                    "Content": "Liebe Mathematik Studierende, wir die Mathe-Ini veranstalten einen Spieleabend um vom Lernstress Abstand zu gewinnen und neue um Lerngruppen zu bilden oder einfach Ansprechpartner zu finden. Vor allem geht es aber Spiel, Spaß und Freude.  Die Mathe-Ini wird für eine Grundversorgung an Snacks und Getranken sorgen.  Wann: Dienstag den 07.05.2024 Uhrzeit: 16Uhr Wo: M-Space direkt über dem Café-Shila  Wir freuen uns auf euch! Eure Mathe-Ini",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Partner*in gesucht",
+                            "Discussion_Id": "591749",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065881",
+                                    "Author": "Maximilian Patzsch",
+                                    "DateTime": "2024-05-02T14:17:12+02:00",
+                                    "Content": "Hey, ich bin aktuell noch auf der Suche nach jemandem mit dem ich die Hausaufgaben zusammen machen kann. Bei Interesse schreibt mir gerne hier oder auf WhatsApp: +49 176 61121235",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Partner gesucht",
+                            "Discussion_Id": "591630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065718",
+                                    "Author": "Marcos Herranz Sanchez Camacho",
+                                    "DateTime": "2024-05-02T11:11:56+02:00",
+                                    "Content": "Hallo, Mein Partner hat das Studium abgebrochen, deshalb suche ich nach einem neuen HApartner. Sprachen: Spanisch, Englisch, Deutsch. Schreib mir unter +34 628127006.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe gesucht",
+                            "Discussion_Id": "590173",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063484",
+                                    "Author": "Mehmet Hakan Üzdiyen",
+                                    "DateTime": "2024-04-26T12:16:25+02:00",
+                                    "Content": "Hallo Kommilitoninnen,  ich bin noch auf der Suche nach einer HA gruppe. Falls ihr auch noch einen Partner braucht, meldet euch gerne hier oder auf Whatsapp unter: 01729212579  VG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Abgabe, wie wo?",
+                            "Discussion_Id": "589437",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062381",
+                                    "Author": "Fabian Alexander Aust",
+                                    "DateTime": "2024-04-24T15:18:08+02:00",
+                                    "Content": "Müssen die Hausaufgaben physisch als Papier abgegeben werden oder können sie auch über das ISIS-upload tool abgegeben werden?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Partner*in gesucht",
+                            "Discussion_Id": "588565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061028",
+                                    "Author": "Vsevolod Bordachev",
+                                    "DateTime": "2024-04-22T17:16:39+02:00",
+                                    "Content": "Hey, Da mein Partner sich von dem Kurs abgemeldet hat,bin ich gerade auf der Suche nach neuem*er HA-Partner*in.Bei Interesse schreibt mir gerne über Whatsapp +4915228025203.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Partner ",
+                            "Discussion_Id": "588049",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060134",
+                                    "Author": "Hassen Khelif",
+                                    "DateTime": "2024-04-21T03:25:02+02:00",
+                                    "Content": "Hallo, Ich bin Hassen Khelif. Ich suche einen HA Partner.  Ich bin schon in Gruppe Papp 11 angemeldet. Hier steht meine Whatsapp Nummer, falls jemand interssiert ist : +491789746286 (Sprachen: Arabisch, English, Französisch, Deutsch) Danke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA SUCHE ",
+                            "Discussion_Id": "587645",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059513",
+                                    "Author": "Danila Kluiko",
+                                    "DateTime": "2024-04-19T12:20:26+02:00",
+                                    "Content": "Freunde, ich brauche dringend einen Partner für die Hausarbeit, im Gegenzug bin ich bereit, meine Ehre und Loyalität anzubieten. Ich glaube, dass wir zusammen die Extreme des mathematischen Wissens erreichen können, das Niveau der mathematischen Diskussion in Westberlin erhöhen und noch mehr, vielleicht werden wir uns durch die Bande der aufrichtigen Freundschaft verbinden, vielleicht nicht in jedem Fall, schreiben Sie mir. +4915123181454 (lieber per Telegramm oder Watsapp)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060017",
+                                    "Author": "Danila Kluiko",
+                                    "DateTime": "2024-04-20T15:08:24+02:00",
+                                    "Content": "Schon gefunden",
+                                    "Response to": "p1059513"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe",
+                            "Discussion_Id": "587314",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059003",
+                                    "Author": "Fabian Alexander Aust",
+                                    "DateTime": "2024-04-18T13:39:36+02:00",
+                                    "Content": "Hi, ich war letztes Semester in einem Ingenieur-Studiengang und hab da Analysis-/Lin.Algebra-I für Ingenieure gemacht. Bin jetzt zu Mathematik Bachelor gewechselt und hab mich entschieden, zu versuchen, dieses  Semester Lineare Algebra I und II durchzuziehen. Bitte melden, wen das nicht davon abschreckt, eine super HA Gruppe zu bilden! Einfach PM oder Nummer dalasssen!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059246",
+                                    "Author": "Fabian Alexander Aust",
+                                    "DateTime": "2024-04-18T19:25:18+02:00",
+                                    "Content": "Wir sind jetzt schon zu zweit, dritte Person bitte melden!",
+                                    "Response to": "p1059003"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche nach einem neuen Hausaufgabenpartner*in",
+                            "Discussion_Id": "586257",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057467",
+                                    "Author": "David Ristov",
+                                    "DateTime": "2024-04-16T09:12:40+02:00",
+                                    "Content": "Hallo, da mein Partner sich entschlossen hat, den Studiengang zu wechseln, bin ich alleine in LinA II eingestiegen und suche daher eine neue Partner*in.  Du kannst mich gerne per WhatsApp kontaktieren: +491622712496",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Partner*in gesucht",
+                            "Discussion_Id": "586230",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057419",
+                                    "Author": "Vsevolod Bordachev",
+                                    "DateTime": "2024-04-16T00:24:57+02:00",
+                                    "Content": "Hey, Ich bin gerade auf der Suche nach einem HA-Partner*in.Bei Interesse schreibt mir gerne über Whatsapp +4915228025203.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mitglied suchen ",
+                            "Discussion_Id": "585819",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056833",
+                                    "Author": "Ting Yu Kuan",
+                                    "DateTime": "2024-04-15T09:16:36+02:00",
+                                    "Content": "Hallo zusammen  nach den neuen Regeln dieses Semester muss ich mir einen neuen Gruppenpartner suchen. Schreib mir einfach auf WhatsApp: +4915237277639  LG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

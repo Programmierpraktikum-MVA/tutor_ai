@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Distributed GIS - SS24",
+        "Course_id": "37486",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1760895",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation link",
+                            "Discussion_Id": "603276",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083335",
+                                    "Author": "Marc-Oliver Löwner",
+                                    "DateTime": "2024-06-25T08:54:55+02:00",
+                                    "Content": "Please find the online link to the evaluation form for this class. Kindly fill out the form and submit it as instructed. Please note that your feedback is crucial for improving future teaching. https://befragung.tu-berlin.de/evasys/online.php?p=996KV Thank you. Marc-O. Löwner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

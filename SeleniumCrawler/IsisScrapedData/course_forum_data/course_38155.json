@@ -1,0 +1,97 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Audiotechnik I: Elektroakustik",
+        "Course_id": "38155",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782060",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Anmeldung Klausur Termin 1 | Info zu Termin 2 ",
+                            "Discussion_Id": "606274",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087601",
+                                    "Author": "Tobias Jüterbock",
+                                    "DateTime": "2024-07-08T14:38:18+02:00",
+                                    "Content": "Hallo zusammen, die Anmeldung für den ersten Klausurtermin findet ihr auf der Kursseite und unter diesem Link. Anmeldefrist ist Sonntag, der 21.07. um 23:59. Verspätete Anmeldungen können wir nicht annehmen, da wir die benötigte Anzahl Laptops im Voraus buchen müssen.  Wegen eines Veranstaltungskonflikts wurde der zweite Klausurtermin verschoben. Die zweite Klausur findet weiterhin am 07.10.2024 statt, aber um 10:15-11:45 in MA 001. Die Daten auf der Kursseite habe ich aktualisiert. Ort und Zeit des ersten Termins sind unverändert. Einlass ist jeweils 15 Minuten vor Beginn der Klausur. Lieben Gruß Tobi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Veranstaltungsevaluation",
+                            "Discussion_Id": "605625",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086674",
+                                    "Author": "Tobias Jüterbock",
+                                    "DateTime": "2024-07-04T18:20:20+02:00",
+                                    "Content": "Hallo zusammen, auch dieses Jahr möchten wir die Veranstaltung evaluieren. Auf der Kursseite und am Ende dieser Nachricht findet ihr Links zu den Umfragebögen, die ihr anonym ausfüllen könnt. Dabei wird die Vorlesung und die Rechenübung getrennt evaluiert. Die Links sind bis zum 09.07. freigeschaltet. Bitte nutzt diese Möglichkeit für Feedback, damit wir auf Eure Wünsche eingehen und die Veranstaltung verbessern können. Evaluation Vorlesung  Evaluation Rechenübung Vielen Dank und Lieben Gruß Tobi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aktuelles",
+                            "Discussion_Id": "603568",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083721",
+                                    "Author": "Tobias Jüterbock",
+                                    "DateTime": "2024-06-25T18:24:59+02:00",
+                                    "Content": "Hallo zusammen, nicht vergessen, die Abgabefrist für Hausaufgabe 2 ist heute. Morgen besprechen wir neben dem Ersatzschaltbild des dynamischen Lautsprechers die Lösungen der zweiten Hausaufgabe. Alles was die Hausaufgabe betrifft, wird nicht aufgenommen. Die dritte Hausaufgabe könnt ihr ab sofort von der Kursseite herunterladen.  Lieben Gruß Tobi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung heute",
+                            "Discussion_Id": "602115",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081616",
+                                    "Author": "Tobias Jüterbock",
+                                    "DateTime": "2024-06-19T14:37:08+02:00",
+                                    "Content": "Hallo zusammen, heute gebe ich in der Übung eine Einführung in LTspice, mit dem wir Schaltkreise simulieren werden. Wenn ihr interaktiv mitmachen möchtet, ladet euch das Programm gerne herunter:  https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html Bis gleich, Tobi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folien Vorlesung 7",
+                            "Discussion_Id": "599194",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077373",
+                                    "Author": "Stefan Weinzierl",
+                                    "DateTime": "2024-06-05T16:20:06+02:00",
+                                    "Content": "In den Folien zu Vorlesung 7 wurden ein paar Inkonsistenzen bei den Formelzeichen beseitigt und eine vereinfachte Herleitung des Ersatzschaltbilds für den elektrodynamischen Lautsprecher in der geschlossenen Box vorgenommen. Bitte das pdf austauschen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung heute fällt aus",
+                            "Discussion_Id": "599141",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077287",
+                                    "Author": "Tobias Jüterbock",
+                                    "DateTime": "2024-06-05T13:26:11+02:00",
+                                    "Content": "Hallo zusammen, krankheitsbedingt muss ich die Übung heute leider ausfallen lassen. Ich werde euch Videos vom letzten Jahr hochladen und die Notizen etwas ausführlicher kommentieren. Außerdem lade ich allgemeines Feedback zur Hausaufgabe 1 hoch, dort sind die häufigsten Fehler gelistet. Lest euch das Dokument bitte alle durch, die dort gelisteten Punkte werde ich in den kommenden Hausaufgaben streng bewerten. Achtet insbesondere auf korrekte Einheiten und Achsenbeschriftungen. Eure individuellen Bewertungen inkl. Feedback lade ich im Laufe der Woche hoch. Die zweite Hausaufgabe werde ich heute noch hochladen. Lieben Gruß und bis nächste Woche Tobi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aktuelles",
+                            "Discussion_Id": "596988",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074103",
+                                    "Author": "Tobias Jüterbock",
+                                    "DateTime": "2024-05-27T13:05:11+02:00",
+                                    "Content": 

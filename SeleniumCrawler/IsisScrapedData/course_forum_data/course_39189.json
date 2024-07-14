@@ -1,0 +1,40 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] BANA -WebLab",
+        "Course_id": "39189",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Forum zum Gedankenaustausch",
+                    "Forum_id": "1826198",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Testforum von Uwe",
+                            "Discussion_Id": "590262",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063616",
+                                    "Author": "Uwe Lange",
+                                    "DateTime": "2024-04-26T15:41:04+02:00",
+                                    "Content": "Hallo in die Runde, ich wollte mal testen, ob diese Möglichkeit des Gedankenaustausches funktioniert. Probiert es doch auch mal!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063680",
+                                    "Author": "Otto Kückmann",
+                                    "DateTime": "2024-04-26T17:14:48+02:00",
+                                    "Content": "Die Gedanken sind frei....  Habe mal versucht meinen Beitrag von der Royal Luise in das Archiv zu verschieben...geht so einfach nicht. Ich müsste praktisch einen neuen Beitrag erstellen oder das ganze Archiv wird unübersichtlich weil alle Beiträge in flacher Hierarchie angeordnet sind.. Vielleicht sollten wir das Archiv ein wenig strukturieren.",
+                                    "Response to": "p1063616"
+                                },
+                                {
+                                    "Message_id": "p1063685",
+                                    "Author": "Uwe Lange",
+                                    "DateTime": "2024-04-26T17:22:07+02:00",
+                                    "Content": "Soll ich mich da noch mal ransetzen?",
+                                    "Response to": "p1063680"
+                                },
+                                {
+                                    "Message_id": "p1068310",
+                                    "Author": "Andreas Busse",
+                                    "DateTime": "2024-05-08T14:43:45+02:00",
+                                    "Content": 

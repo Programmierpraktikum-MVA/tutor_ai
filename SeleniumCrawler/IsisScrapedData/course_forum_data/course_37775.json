@@ -1,0 +1,744 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Algorithm Engineering II",
+        "Course_id": "37775",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1768810",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final benchmark data",
+                            "Discussion_Id": "607583",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089479",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-07-12T19:10:27+02:00",
+                                    "Content": "Dear participants, on the online platform we uploaded a new and final constest for max clique. As requested this contains more harder instances. You can also access the new public instances on the course page.  Due to the limited time in the presentation you can focus your analysis on the old data, but for testing and the final ranking we will use the new data.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "606265",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087586",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-07-08T14:19:31+02:00",
+                                    "Content": "Dear Participants, the evaluation of the seminar is available this week by following this link or using the QR-code below. Filling the form takes 5-10 min and is very important for the student body, for me personally, and for the TU in general, so please consider taking the time, it's much appreciated! thanks and see y'all in 2 weeks (July 22) for the final presentations.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Becoming Tutor",
+                            "Discussion_Id": "605809",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086919",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-07-05T14:02:59+02:00",
+                                    "Content": "Faculty IV is looking for tutors for all bachelor-level teaching and asked us to share the attached flyer with everyone. If that is your jam, please consider signing up for becoming a tutor :) Closing date for signups is July 15 (in 10 days).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest Lecture on Monday about Profilers",
+                            "Discussion_Id": "605547",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086572",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-07-04T14:30:06+02:00",
+                                    "Content": "Dear Participants, it is my pleasure to announce, as indicated in the schedule, the \"guest lecture\" of Prof. Michel Steuwer from the Programming Languages Group of TU Berlin who has graciously agreed to give a gentle introduction to profilers. In particular, he will talk about and demonstrate the popular profilers VTune (Win/Linux) and Instruments (Mac). Everyone will also get the opportunity to play around a little with these tools so, in preparation, let me advise everyone to install one of these tools before Monday and maybe fiddle around with them a little if you're so inclined. If you're on Linux and have issues installing VTune, you can try a FOSS tool called perf which also has FOSS gui called hotspot; note: while these tools are not explicitly covered in the lecture, many profiler concepts will also apply to them. The lecture starts on Monday, July 8th at 12h sharp in MAR0.002. Looking forward to seeing y'all on Monday -Mathias Weller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Optional code review",
+                            "Discussion_Id": "604073",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084421",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-27T15:21:48+02:00",
+                                    "Content": "Dear students,  as mentioned in the code review lecture we would like to give you the opportunity to participate in a code review. This is optional, but to encourage you to participate we will give out bonus points towards your grade (4 Portfoliopoints = improvement of your grade by 0.33 (subject to change)) if you write a good code review.  Please fill out this questionnaire until Monday 23:59 if you would like to participate in the code review (please fill out only once per team). Teams that fill out the questionnaire will receive code from the 2nd milestone of another participating team (if you don't participate, your code will not be sent to anyone) Until 12th July you then do a code review of the code given to you: Write a 1+ page code review (this will later be sent to the team that wrote the code) (submit a single PDF, otherwise no strict format/layout/structure requirements) Your code review has no impact on the other teams grade Be kind in your code review. The focus should be on giving useful feedback for the other team Keep in mind the information conveyed in the code review lecture If you're referring to specific lines of code include them (inline code block), rather than referencing by line numbers+file. If you can find bugs, bottlenecks that can be easily fixed, or easy speedups that can be achieved, do point them out  Best, Aleksander",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085768",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-07-02T13:30:35+02:00",
+                                    "Content": "Hello all,  thank you to the teams that signed up so far.  We decided to do a few changes. You can register to take part in the code review until Thursday and we will send you code to review on Friday. We'll adjust the timeline accordingly.  Also we will award up to 6 Portfoliopoints for good code reviews.  Best, Aleksander",
+                                    "Response to": "p1084421"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Other Algorithmic Competitions",
+                            "Discussion_Id": "604700",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085375",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-07-01T14:41:10+02:00",
+                                    "Content": "Dear Participants, if you enjoy this course and are eager to show-off your algorithmic design prowess, there are multiple annually-helt competitions out there in the world, two of which are CG:SHOP - a computational geometry challenge organized by a team in TU Braunschweig PACE - a competition focussed on parameterized algorithms and heuristics organized by different teams Scoring high on such international competitions can look good on a CV and even get you invited to present your solvers on international conferences. However, competition is tough there. If you still would like to participate and require sponsorship/guidance, please talk to us and we'll see what we can do.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Split groups on Monday",
+                            "Discussion_Id": "596740",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073696",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-26T11:40:07+02:00",
+                                    "Content": "Dear all, tomorrow are the presentations and if possible we would like to start at 12:00 already.  There will be two split groups: MAR 0.009: Teams 1,3,5,7,9 MAR 0.002: Teams 2,4,6,8,10  You can use our laptop for your presentation. In which case please upload your slides in the team forum (no deadline, just before your presenation). PDFs should work, no guarantee for power point.  The deadline for the handouts with the extension is Monday 9am.  Best, Aleksander",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082855",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-24T10:57:53+02:00",
+                                    "Content": "Dear all,  the room allocation today will be the same  Best, Aleksander",
+                                    "Response to": "p1073696"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Website for benchmarking",
+                            "Discussion_Id": "601910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081327",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-18T17:00:15+02:00",
+                                    "Content": "Dear participants, yesterday you should have received the login data to access https://algeng.inet.tu-berlin.de/. Please upload your solver there until Monday 8am. Please also note the instructions in exercise sheet 2 on how to package your source code so that it can be accepted by the testing platform.  Best, Aleksander",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082123",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-20T18:19:08+02:00",
+                                    "Content": "Here are some additional information on the testing environment:  Your submissions run on a server with an AMD EPYC 7551 32-Core Processor and 400GB of RAM. Your submissions are currently allowed to use 3 threads, and up to 8GB of RAM.  Best, Aleksander",
+                                    "Response to": "p1081327"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "More testing data available",
+                            "Discussion_Id": "600994",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080007",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-13T21:33:04+02:00",
+                                    "Content": "Dear participants, additional testing data is available on the course page. It includes more kinds of instances. The scripts had to be changed slightly so make sure to use the new scripts.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung als Mentor*in gestartet!",
+                            "Discussion_Id": "600521",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079314",
+                                    "Author": "Christlinde Thielcke",
+                                    "DateTime": "2024-06-12T10:13:34+02:00",
+                                    "Content": "Wir möchten auf folgende Nachricht aus dem Mentoring der Fakultät IV hinweisen: Hallo! Ab sofort kannst du dich wieder als Mentor*in anmelden und wir freuen uns, wenn du dieses Jahr (wieder) dabei bist. Mentoring ist mehr als nur ein Modul, denn als Mentor*in profitierst du mindestens genauso davon wie hinterher die Erstis von dir. Auch in diesem Jahr haben wir Events für Mentor*innen geplant mit vielen Gelegenheiten, die Uni aus einer anderen Perspektive, mit neuen Möglichkeiten kennen zu lernen. Außerdem bieten wir dir zusätzlich: 3 LP Vorbereitungsschulungen, Feedbacktreffen und individuelle Begleitung Lerninhalte wie z.B. Gruppenleitung, Kommunikation, Motivation, Awareness u.v.m. Mentor*innenevents mit hohem Spaßfaktor Achso, du weißt noch gar nicht was deine Aufgabe als Mentor*in ist? Du begleitest im Team eine Gruppe von Erstis bei ihrem Start ins Studium. Wie genau das gedacht ist kannst du auf unserer Website erfahren oder auch in einem unserer kommenden Q&A Treffen. Komm vorbei und stelle deine Fragen.  Termine: Q&A Mentoring Meeting (online) Wann? 14. Juni 15:00-16:00 Uhr Wo? Zoom: https://tu-berlin.zoom.us/j/68007662297?pwd=s389c9ibzKQKHUKeEUzbzsNL3lweqb.1   Mentoring Warm-up mit ehemaligen Mentor*innen Wann? 5. Juli ab 17 Uhr Wo? Kulturfabrik Moabit  Q&A Mentoring (online) Wann? 22. August 15:00-16:00 Uhr Wo? Zoom: https://tu-berlin.zoom.us/j/68007662297?pwd=s389c9ibzKQKHUKeEUzbzsNL3lweqb.1   Natürlich kannst du uns auch jederzeit eine Mail schreiben (mentoring@eecs.tu-berlin.de), anrufen (+49 30 314 -73194) oder vorbeikommen (MAR 6.006).   Wir freuen uns auf jeden Fall, wenn du dieses Jahr Teil des Mentorings bist. Viele Grüße  Luis & Maria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Code Review &amp; Code Smells",
+                            "Discussion_Id": "598191",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075921",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-31T17:23:01+02:00",
+                                    "Content": "Dear Participants, First, as indicated earlier, we would really like to give everyone the opportunity (and a few tools) to do a (proper) code review, as this is something considered essential in the industry. I am preparing a short \"lecture\" for Monday introducing and motivating code reviews, as well as giving some pointers on how to conduct one. Although I'm not an expert either, I hope to still spark a discussion and maybe give enough pointers so that everyone can at least start to conduct a code review and/or prepare their own code for such a review. Regarding the actual review, we are considering giving a few \"bonus\"-portfolio-points for conducting one. Around the time of the second milestone, we will probably ask every team whether they want to participate in the reviewing and, if so, try to organize \"review circles\" partitioned by employed programming language. Second, as I do consider myself somewhat of a C++-enthusiast, I feel that I can maybe teach the teams that are coding in C++ some indications that may help them keep their code clean and efficient, as well as enable a few participants to give a more effective code review, should they decide to participate in the process. Both \"lectures\" will be given back-to-back (maybe with a break) on the coming Monday, June 3 in MAR0.002 starting 12h15. Neither of them is mandatory, everyone can decide for themselves whether they want to come. Slides will be uploaded to ISIS. In particular, if you have no previous knowledge of C++ the second lecture will probably not provide alot to take home. The first lecture will be more general and not language-dependant. Looking forward to seeing y'all on Monday -Mathias Weller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Preliminary data and script for testing",
+                            "Discussion_Id": "598024",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075674",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-30T23:45:41+02:00",
+                                    "Content": "Dear all, under the \"Additional Material\" section is a zip with scripts and data that you can use for local testing and development.  We will add more data and launch the online platform for testing next week. The instances currently consist mostly of quite simple instances, with a few slightly harder ones. We expect you to be able to solve most of these by the next milestone.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literature Review Presentations Next Monday",
+                            "Discussion_Id": "595502",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071861",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-20T23:20:30+02:00",
+                                    "Content": "Dear Participants, please recall the the presentations of your literature-review shall be helt on Monday next week (in 7 days) in MAR (I suppose MAR007 as last time). In the meantime, if you want us to give you some feedback on your presentation slides and handout, please send me an Email with the appropriate attachments by Thursday. When you practice your talk, keep in mind that 1. it shall fit in the 15min slot, 2. the literature review and the presentation should be a team-effort 3. active participation also with respect to the other talks is expected.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073227",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-24T00:03:49+02:00",
+                                    "Content": "Dear Participants, I am happy that many of you took me up on the offer of commenting on their slides/handout, and since it might also be interesting for the other groups, I would like to share some of the more common pieces of advice that I gave:  first and foremost, keep in mind the role and goal of having a handout, in particular in context of a literature-review presentation: the handout should help attendees of your talk who want to quickly look something up that they might have forgotten, but is important for the slide that is currently showing. Such information has to be retrieved in a glance, without having to read through alot of text. Therefore, your handout... needs to be well-structured, following the structure of your presentation; I recommend having different subsections about: (i) exact/parameterized algorithms (ii) data-reduction (iii) upper-/lower-bounds (iv) heuristics/approximation (which actually are lower bounds... you'll figure something out) should be concise without lyrical boiler-plate does not need an introduction to/motivation of the clique problem (you can define it if you want) does not need a conclusion/outlook (again, not a paper) remember that your handout should not replace, but support your talk. on the subject of structure, it can be helpful to use proper definition- and theorem- environments; they don't need to contain alot of text; remember to use bulletpoint lists when listing things, also in definitions/theorems it can also be helpful to guide the attendees attention by hightlighting some keywords (sparsely! don't overdo it) using bold font; this further reduces the time it takes to find a concept that I might want to look up again during the presentation the literature-review is not about what you plan to implement, but what people have been doing in the past to solve the problem, what strategies are there, which ones worked well on what kinds of inputs, etc. EDIT: actually, it's fine to include a final section about what you're planning to implement, sorry for the confusion. you can put pseudocode on your handout, but don't overdo it, communicate ideas rather than code. For example, it is way more useful to me to read \"compute a maximal independent set\" than to look at the pseudocode that does it if you have space, put a figure to illustrate complicated concepts; even better if the figure also occurs in your presentation, then I can visually match them put running times/kernel sizes in the handout, we want to see lots of O(...)s  I hope this helps everyone improve their handouts and maybe even their presentations and I'm looking forward to seeing what everyone found out on Monday.",
+                                    "Response to": "p1071861"
+                                },
+                                {
+                                    "Message_id": "p1073307",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-24T11:42:31+02:00",
+                                    "Content": "A last-minute addition maybe: if you're having issues fitting everything on the handout, remember that the template is just a guide that you can diverge from. For example, you are free to play with margins, negative \\vspace, paralist's compactitem and compactenum, as well as font sizes. If you still have problems fitting everything you need on the handout in 2 pages (including references), try to cut down some unimportant references for the print version and make a seperate digital version that may exceed 2 pages.  In any case (and I forgot to tell you this, mea culpa): please send the handout (both versions if you made a seperate online version) to me in time (at least 2h before our session on Monday), so I can print/upload them.",
+                                    "Response to": "p1073227"
+                                },
+                                {
+                                    "Message_id": "p1073382",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-24T14:06:49+02:00",
+                                    "Content": "Someone pointed out that there is an ISIS submission for the handout for Saturday. That's the correct date indeed, sorry for the confusion. However, if you want to submit a >2-page digital handout as well, I'll take it by email and I'll upload it to the ISIS page for everyone to use on their devices during the presentation.",
+                                    "Response to": "p1073307"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MOSES sign-up",
+                            "Discussion_Id": "594567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070346",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-15T10:41:30+02:00",
+                                    "Content": "Dear Participants, please remember that today is the deadline for the MOSES sign-up. (thanks for the reminder)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture on Monday",
+                            "Discussion_Id": "593641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068860",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-10T13:11:55+02:00",
+                                    "Content": "Dear all, we will offer a \"catch up\" lecture on Monday 13.05.2024 from 12 till 14 in MAR 0.002.  We will cover basic concepts from algorithm engineering that are essential in this course. This is mainly targeted towards students who have no attended an algorithm engineering course for NP-hard problems before.  We will cover topics such as fixed-parameter tractability, data reduction rules, search trees and lower/upper bounds.  See you there!  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First exercise sheet uploaded",
+                            "Discussion_Id": "593583",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068775",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-10T10:54:13+02:00",
+                                    "Content": "Dear participants, we have uploaded Exercise Sheet 1, that contains instructions on the first milestone presentation.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group assignment",
+                            "Discussion_Id": "592221",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066616",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-03T20:23:01+02:00",
+                                    "Content": "Dear participants, we have assigned the groups. Please check the thread in the Team Forum. If you see no thread in the Team Forum then you were not assigned a team. We still have sufficient capacity. If you would like to participate contact us via email.  In case you decided not to take part in this course or other issues please let us know as soon as possible.  For the topic we decided to assign everyone Max Clique, since it was rated high by almost everyone. We hope this works well for you.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sufficient course capacity",
+                            "Discussion_Id": "590760",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064378",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-04-29T13:15:40+02:00",
+                                    "Content": "Dear students, While we are working on assigning teams and topics, we want to let you know in advance that we have enough capacity and everyone who participated in the topic selection can take part in this course.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic selection updates - also course registration",
+                            "Discussion_Id": "589546",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062547",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-04-24T18:03:37+02:00",
+                                    "Content": "Dear students, we have updated the topic selection. A binary system was probably not a good idea. Please redo the topic selection if you already filled out the old topic selection.  Please remember to fill out all questionaires and do the team and topic selection untill the end of this week if you wish to take part in this course.  Best, Aleksander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-Off meeting next Wednesday",
+                            "Discussion_Id": "587738",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059649",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-04-19T15:01:29+02:00",
+                                    "Content": "Dear participants, we would like to apologize for taking this long to announce the first meeting of the course. This is due to a conflict in room-assignments that could, unfortunately, not be resolved. We will thus hold the kick-off meeting online this Wednesday, April the 24th from 14h to 16h in this room. Each of the two organizing groups (INET and AKT) will give a short presentation about the available topic(s) and there will be information about the organization of the course, as well as some hints for independant literature research. The slides will be made available afterwards. Please note that we currently have way more sign-ups in the course than there is capacy (12 teams x 3 people per team). This means that not everyone can take part in the course and there will be a (random) selection process after the kick-off meeting. Please be sure to fill-in the poll in oder to have a chance at that.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion forum",
+                    "Forum_id": "1768811",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Code Review Format",
+                            "Discussion_Id": "607652",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089596",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-07-13T18:42:53+02:00",
+                                    "Content": "Hello,  regarding the code review: Do you expect continuous text or are bullet points enough. Similar to the presentation handouts, bullet points could make it more visually clear but I am not sure what format is expected.  Best, Eloi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Code submission for Review - Server down",
+                            "Discussion_Id": "605485",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086482",
+                                    "Author": "Anja Katharina Ilg",
+                                    "DateTime": "2024-07-04T11:36:26+02:00",
+                                    "Content": "Good morning! We would like to submit code to partake in the reviews, but the server seems to be unavailable, so we cannot submit code. Best, Anja",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086523",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-07-04T12:38:06+02:00",
+                                    "Content": "Hello Anja,  it is back online now.  Best, Aleksander",
+                                    "Response to": "p1086482"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submissions no longer possible",
+                            "Discussion_Id": "604072",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084420",
+                                    "Author": "Tristan Kobusch",
+                                    "DateTime": "2024-06-27T15:19:21+02:00",
+                                    "Content": "Hello, it seems that with the completion of the second milestone uploads are no longer possible. It would be helpful if you could reactivate submissions. Best regards Tristan Kobusch",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084429",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-27T15:38:57+02:00",
+                                    "Content": "Hello Tristan Kobusch,  I added a temporary contest where you can upload now. Some teams requested more harder instances again so the final contest will come a bit later.  Best, Aleksander",
+                                    "Response to": "p1084420"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submissions pending for a long time",
+                            "Discussion_Id": "602271",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081824",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-06-20T08:59:09+02:00",
+                                    "Content": "Hello, I was trying to upload our solver (Team 5) to the platform but after a first failed attempt, succeeding attempts remain pending (submitted more than 12 hours ago). Not sure why this happens, the solver compiles on our systems with the specified cmake and g++ versions.  Best, Eloi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081942",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-20T12:14:56+02:00",
+                                    "Content": "Hello Eloi,  sorry the system just silently failed without reporting a compilation issue to you. The system wasn't able to parse the cmake file correctly to determine the final executable name. It was expecting a binary literally called ${PROJECT_NAME}.  I resubmitted your last submission, but I changed add_executable(${PROJECT_NAME} ... ) into add_executable(mc_solver ...) and now the system works correctly. The submission is currently running. You should have some results in an hour or so.  Best, Aleksander",
+                                    "Response to": "p1081824"
+                                },
+                                {
+                                    "Message_id": "p1082204",
+                                    "Author": "Eloi-Noel Sandt",
+                                    "DateTime": "2024-06-21T08:47:02+02:00",
+                                    "Content": "Thanks a lot! :)",
+                                    "Response to": "p1081942"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadlines",
+                            "Discussion_Id": "602351",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081932",
+                                    "Author": "Maximilian Luca Schicker",
+                                    "DateTime": "2024-06-20T11:57:54+02:00",
+                                    "Content": "Hey,   I am confused about the deadlines.  On the ISIS page, you mention that the handout AND the solver should be submitted on the 22nd. But this post states that the solver submission is until Monday 8 am.  Moreover, there is no way to submit the handout.   Is it safe to assume that the handout submission is also on Monday, as last time?  Best,  Maximilian Schicker",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081948",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-20T12:22:38+02:00",
+                                    "Content": "Hello Maximilian,  sorry for the confusion. I added the handout submission. It is fine to submit the handout by Monday 9am this time as well.  The solver can we submitted until Monday 8am. But please do not add too many submissions on Monday shortly before the deadline, because they might not finish before the presentation meeting at 12.  Best, Aleksander",
+                                    "Response to": "p1081932"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission not working",
+                            "Discussion_Id": "601950",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081397",
+                                    "Author": "Michelle Kappl",
+                                    "DateTime": "2024-06-18T21:58:11+02:00",
+                                    "Content": "Hello,  Even though I zipped our code (we´re using python and have a main.py) it`s not able to detect the language. Do we have to watch out for something specific? Is the input of the data the same as for the benchmarking?  Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081409",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-18T22:30:29+02:00",
+                                    "Content": "Hello Michelle,  the testing website and the scripts we provided on ISIS should be functionally the same, just we test with more data on the website. If your program runs successfully with the provided scripts then it should also run on the testing platform without any changes from your side.  Here is some more info on the last few submissions on the testing website  the last 3 zips that were uploaded just contain an empty folder \"src_clean\" and no .py files.  the first submission doesn't run, and fails with this error:  Traceback (most recent call last): File \"/tmp/sioworkers_ls3c_rbr/urn:uuid:53ab7eca-137e-4e83-93aa-ce67e6b49779/src_clean/main.py\", line 2, in from helper import create_edgelist File \"/tmp/sioworkers_ls3c_rbr/urn:uuid:53ab7eca-137e-4e83-93aa-ce67e6b49779/src_clean/helper.py\", line 3, in from sortedcontainers import SortedList ModuleNotFoundError: No module named 'sortedcontainers'  We do not have many pip packages preinstalled, just some basic ones like numpy and networkx. I'll add sortedcontainers in a bit.  Best, Aleksander",
+                                    "Response to": "p1081397"
+                                },
+                                {
+                                    "Message_id": "p1081412",
+                                    "Author": "Michelle Kappl",
+                                    "DateTime": "2024-06-18T22:36:24+02:00",
+                                    "Content": "Ahh perfect. Yes, I was trying some things out to get the submission to work.  Could you install the module sortedcontainers?",
+                                    "Response to": "p1081409"
+                                },
+                                {
+                                    "Message_id": "p1081414",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-18T22:49:10+02:00",
+                                    "Content": "It's added now. I'm rerunning your first two submissions. It might take an hour or two for both results to update.",
+                                    "Response to": "p1081412"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second Milestone",
+                            "Discussion_Id": "601256",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080388",
+                                    "Author": "Michelle Kappl",
+                                    "DateTime": "2024-06-16T03:38:38+02:00",
+                                    "Content": "Hello, What do we have to prepare for the 2nd milestone? An exercise sheet 2 ist mentioned + another handout. What are the requirements? What should be the contents of the presentation as well? Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080947",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-17T19:31:18+02:00",
+                                    "Content": "Hi,  we published exercise sheet 2 now. The website algeng.inet.tu-berlin.de will launch probably this evening. Just some small technical issues still ...  Best",
+                                    "Response to": "p1080388"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Additional sample data",
+                            "Discussion_Id": "599833",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078310",
+                                    "Author": "Tristan Kobusch",
+                                    "DateTime": "2024-06-09T21:26:01+02:00",
+                                    "Content": "Hello, we were wondering when additional, more complicated input data will be provided. We have implemented some techniques that don't seem to improve the runtime on the data provided so far, but are unsure, whether they are also not worth it on harder instances. Best regards Tristan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078952",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-11T12:47:06+02:00",
+                                    "Content": "Hello Tristan,  I plan to upload the data tomorrow. The online platform will hopefully launch this week. There are some technical issues with our job scheduler.  Best, Aleksander",
+                                    "Response to": "p1078310"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Error in Reference Data",
+                            "Discussion_Id": "599707",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078104",
+                                    "Author": "Khalid Osmaev",
+                                    "DateTime": "2024-06-07T18:42:43+02:00",
+                                    "Content": "Hello, when testing the Upper bound I got some weird numbers when comparing the value to the reference file given. One example would be instance 002. When visualized it would look like this:  It's pretty obvious that the max clique size is 3 (7,10,14) but in the reference file it's said to be 2. Are the values in the references wrong?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078109",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-06-07T19:18:11+02:00",
+                                    "Content": "It appears that you're right oO thanks for discovering this, we'll fix this ASAP.",
+                                    "Response to": "p1078104"
+                                },
+                                {
+                                    "Message_id": "p1078110",
+                                    "Author": "Feidi Kallel",
+                                    "DateTime": "2024-06-07T19:31:58+02:00",
+                                    "Content": "Hello we also found a similar error in the instance 032. The reference size of the maximum clique is 6, but we find a clique of size 7.",
+                                    "Response to": "p1078104"
+                                },
+                                {
+                                    "Message_id": "p1078264",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-06-09T16:31:16+02:00",
+                                    "Content": "Yes the references were wrong. Thanks for noticing.  I updated the zip file with the correct values now.",
+                                    "Response to": "p1078104"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Data",
+                            "Discussion_Id": "597920",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075515",
+                                    "Author": "Michelle Kappl",
+                                    "DateTime": "2024-05-30T14:10:02+02:00",
+                                    "Content": "Hello!  When will we get the final dataset? (or infos of file format, ...)  Thanks in advance, Michelle",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075583",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-30T16:32:59+02:00",
+                                    "Content": "Hello Michelle,  I'll upload a preliminary set of data and a script for testing today in the evening.  It's taking us a bit longer to decide on a final good set of data as we're trying evaluate them by difficulty. The online platform for uploading your submissions and testing will hopefully launch early next week.  The input and output format is described in the \"Additional Material\" section  Best, Aleksander",
+                                    "Response to": "p1075515"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Language for Presentation and Handout",
+                            "Discussion_Id": "596657",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073557",
+                                    "Author": "Batuhan Hakan Erdem",
+                                    "DateTime": "2024-05-24T23:26:37+02:00",
+                                    "Content": "Can we do the presentation and the handout in German?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073817",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-26T22:29:10+02:00",
+                                    "Content": "The handout should be in English, you can ask a large language model to correct your grammar if you like (just don't ask it to do your literature review for you). English will also be mandatory in MAR0.009 since we have people who communicated that they do not speak German. In the spirit of fairness, we'd also have to mandate English for the other group, but if you really cannot give a presentation in English and are not assigned to MAR0.009, then you can try to negotiate with Aleksander Figiel and Prof. Schmid. However, even if they do allow presentations in German, those would have to be the first presentations of the session, since we're planning on merging the groups after the first 3 presentations (so we'd have non-German-speakers in the room starting with the 4th presentation). This also implies that, if more then 3 groups ask to do their presentation in German, we'd have to deny all of them.",
+                                    "Response to": "p1073557"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Handout until Saturday or Monday? ",
+                            "Discussion_Id": "596514",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073335",
+                                    "Author": "Sinan Bove",
+                                    "DateTime": "2024-05-24T12:39:24+02:00",
+                                    "Content": "There is a submission on isis requesting the handout until Saturday at noon. Is that the goal or is Monday morning fine as well? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073381",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-24T14:05:34+02:00",
+                                    "Content": "ooh, sorry, that's my bad, the ISIS submission stands.",
+                                    "Response to": "p1073335"
+                                },
+                                {
+                                    "Message_id": "p1073474",
+                                    "Author": "Anton Paul Wilhelm Segeler",
+                                    "DateTime": "2024-05-24T17:47:23+02:00",
+                                    "Content": "Do you think it is possible to extend the deadline for the handout? We got a lot of information to consider today and in order to include all of this more time would be very helpful.",
+                                    "Response to": "p1073381"
+                                },
+                                {
+                                    "Message_id": "p1073478",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-24T18:00:23+02:00",
+                                    "Content": "We've modified the ISIS submission to allow \"late\" submissions, up to Monday morning.",
+                                    "Response to": "p1073474"
+                                },
+                                {
+                                    "Message_id": "p1073480",
+                                    "Author": "Anton Paul Wilhelm Segeler",
+                                    "DateTime": "2024-05-24T18:05:29+02:00",
+                                    "Content": "Does a \"late\" submission influence the grade? If yes, in what way?",
+                                    "Response to": "p1073478"
+                                },
+                                {
+                                    "Message_id": "p1073506",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-24T19:09:00+02:00",
+                                    "Content": "It won't have an influence on the grade, but please don't rely on deadline extensions in the future.",
+                                    "Response to": "p1073480"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Registration Period Ends Tomorrow!",
+                            "Discussion_Id": "594466",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070171",
+                                    "Author": "Simeon Pawlowski",
+                                    "DateTime": "2024-05-14T18:33:14+02:00",
+                                    "Content": "Quick reminder to anyone like me who almost forgot.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "when do we start?",
+                            "Discussion_Id": "592678",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067384",
+                                    "Author": "Anja Katharina Ilg",
+                                    "DateTime": "2024-05-06T17:29:30+02:00",
+                                    "Content": "Hi everyone, our team is unsure about the schedule.  When will be the first lecture/meeting?  When do we start researching/programming?  When do we register? LG Anja",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067423",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-06T18:38:16+02:00",
+                                    "Content": "Hello Anja, our team is unsure about the schedule. The general schedule is published on the ISIS course page under \"Schedule\".  When will be the first lecture/meeting? The kick-off meeting was helt on April 24. There will probably be a lecture to bring everyone who did not participate in Algorithm Engineering 1 up to speed, next Monday or the week after. The first meetings with presentations from participants will be on Monday, May 27.  When do we start researching/programming? As you now know that all teams will work on the same problem (MaxClique), you can start researching now. It's not a good idea to start coding without an idea of what algorithms exist, so I would not start programming right away. Do some research before and prepare the first milestone presenation.  When do we register? Everyone who participated in the topic selection should register in MOSES as soon as possible. Registration is open until mid May (if you missed that deadline, please contact us via email and we'll see what we can do).",
+                                    "Response to": "p1067384"
+                                },
+                                {
+                                    "Message_id": "p1067701",
+                                    "Author": "Michelle Kappl",
+                                    "DateTime": "2024-05-07T11:47:30+02:00",
+                                    "Content": "Hello Mathias,  Our question intended to find out more about the organization of the course thats not on ISIS. Will there be a lecture to find out ... - What are the contents of the milestone presentations in detail and what are the requirements? - When do we get the tools to upload our Code? - When will we get the examples? - What are the exercise sheets?  Will all this be part of the lecture next Monday?  Kind regards, Michelle",
+                                    "Response to": "p1067423"
+                                },
+                                {
+                                    "Message_id": "p1067991",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-05-07T19:38:18+02:00",
+                                    "Content": "Hello Michelle, while we intended to do much less \"hand-holding\" in this project than in Algorithm Engineering 1, we decided to provide a short overview over the most important (general) techniques used to attack computationally hard problems (such as MaxClique). That's what the upcoming \"lecture\" will be about. We will upload (to ISIS) some pieces of information about what we expect in your milestone presentation and report, and how to give a convincing presentation, as well as templates for slides and reports.  Now, to answer your questions:  What are the contents of the milestone presentations in detail and what are the requirements? For Milestone 1 (\"literature research\"), you're supposed to review available literature about how other people have solved MaxClique before and what problems they encountered. Remember that we're interested in exact solutions, but heuristics and approximation algorithms may still be useful to provide upper bounds. Interesting results include, but are not limited to: parameterized algorithms other exact algorithms preprocessing and kernelization ILP-formulations upper-bound techniques lower-bound techniques For Milestone 2 (\"implementation\"), you're supposed to produce a working implementation of promising algorithms that you found in the first part (milestone 1), that is, implement an exact solver (which may use data-reduction as well as upper-bound heuristics). In the presentation, we would like to see some details and maybe some first tests on the instances that we'll provide. Try to find a way of judging whether certain tricks (found in the first part or thought-of yourself) are advantagous.  For Milestone 3 (\"algorithm engineering\"), you're supposed to go through \"The Algorithm Engineering Cycle\". If you're unsure of what that means, we'll give some pointers, but basically, you run your implementation, understand why its slow for some instances, analyze the problematic instances in order to come up with strategies to improve performance, and repeat.   When do we get the tools to upload our Code? Once Milestone 1 has been passed.  When will we get the examples? I suppose you're referring to the \"public instances\" that you can run your solver on to test its performance? We're currently working on generating those, but we'd like you to do the literature research for the first milestone without bias on the particular types of instances that will be provided.  What are the exercise sheets? I'm not sure what you mean, what exercise sheets?",
+                                    "Response to": "p1067701"
+                                },
+                                {
+                                    "Message_id": "p1068551",
+                                    "Author": "Simeon Pawlowski",
+                                    "DateTime": "2024-05-09T09:45:51+02:00",
+                                    "Content": "The exercise sheets were from the course materials of AlgEng 1, which were mistakenly visible for some time.",
+                                    "Response to": "p1067991"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture Today?",
+                            "Discussion_Id": "592436",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067017",
+                                    "Author": "Abedelmunem Razzouk",
+                                    "DateTime": "2024-05-06T09:50:44+02:00",
+                                    "Content": "Hello,   I could not get any information about whether the lecture will take place today.  Will there be lectures or will we only meet for the milestone presentations from now on?  Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067048",
+                                    "Author": "Aleksander Figiel",
+                                    "DateTime": "2024-05-06T10:24:46+02:00",
+                                    "Content": "Hello,  there will be no lecture today. By default unless announced or written in the schedule there won't be anything on the Monday slot.  However, there might be a short lecture next Monday, we will have to see and announce it.  Best, Aleksander",
+                                    "Response to": "p1067017"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "When will the groups and topics be announced.",
+                            "Discussion_Id": "592098",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066430",
+                                    "Author": "Sinan Bove",
+                                    "DateTime": "2024-05-03T13:58:30+02:00",
+                                    "Content": "I'm so exited to get started and wanted to ask when we will we know our assigned topic?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Date for the first Session. ",
+                            "Discussion_Id": "587551",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059363",
+                                    "Author": "Mikhail Farber",
+                                    "DateTime": "2024-04-19T09:48:22+02:00",
+                                    "Content": "Dear AlgEng II Team,  Will the first session take place this Monday, or will there be a different time slot. Best Regards. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059401",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-04-19T10:31:47+02:00",
+                                    "Content": "Our apologies for not making this information public so far. We've had some hickups trying to find a room large enough to fit everyone. Unfortunately, we've had no success. The meeting will thus likely be online, on Wednesday, 14h-16h. A public announcement with the definitive date will follow shortly.",
+                                    "Response to": "p1059363"
+                                },
+                                {
+                                    "Message_id": "p1059498",
+                                    "Author": "Mikhail Farber",
+                                    "DateTime": "2024-04-19T12:00:37+02:00",
+                                    "Content": "Is this a one time change or will the primary slot at Monday also be changed.",
+                                    "Response to": "p1059401"
+                                },
+                                {
+                                    "Message_id": "p1059577",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-04-19T13:31:22+02:00",
+                                    "Content": "It's an exception, the Monday slot remains unchanged.",
+                                    "Response to": "p1059498"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

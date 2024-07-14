@@ -1,0 +1,720 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Compiling Techniques",
+        "Course_id": "38441",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1791907",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Coursework 4 Released",
+                            "Discussion_Id": "607241",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088970",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-07-11T15:35:23+02:00",
+                                    "Content": "Hi everyone, The fourth and final coursework for Compiling Techniques has just been released. Please note, that this coursework is worth only 10% of the overall grade, in comparison to 30% for the prior courseworks 1, 2, and 3. You should be able to go to https://git.tu-berlin.de/ and see a new repository called cw4. I believe you have as well received an email from the GitLab server. The git repository has been created at: https://git.tu-berlin.de/compiling-techniques/2024/<GITLAB_USERNAME>/<GITLAB_USERNAME>-cw4 The repository contains a README with the tasks of the coursework and instructions on how to get started. The deadline for submission is the Monday the 29th of July 2024 at midnight. You submit by pushing your changes to the GitLab server before the deadline. Please test early that you have a working setup allowing you to push to the server (e.g., by creating yourself an SSH key). We will run the Labs again on Fridays at 12:15pm in room EN-362. You can also post questions on the ISIS forum. All the best with the coursework, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest Lectures and Coursework 4",
+                            "Discussion_Id": "606391",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087762",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-07-08T18:18:14+02:00",
+                                    "Content": "Hello everyone, Tomorrow and next week in the CT course, we will have a guest lecture at the usual time in the usual room: Tuesday 9th July Guest Lecture by Bastian Hagedorn from NVIDIA Title: Graphene: An IR for optimized tensor computations on GPUs Tuesday 16th July Guest Lecture by Adam Paszke from Google Research Title: Challenges and latest solutions for programming modern computer accelerators Coursework 4 will be released later this week. The coursework will be focused on optimization techniques to reduce the number of instructions while still computing the correct results. Here particularly, register allocation as discussed in the lecture will be one area to focus on.  I want to apologize for the confusion regarding the lecture last week. I have provided links to an interesting talk presenting an important advanced compiler optimization technique in the ISIS course (https://isis.tu-berlin.de/mod/url/view.php?id=1853576). While this talk will not be relevant for the coursework, it provides insights into modern compiler optimizations.  All the best, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lab today",
+                            "Discussion_Id": "605702",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086783",
+                                    "Author": "Rudi Schneider",
+                                    "DateTime": "2024-07-05T10:13:05+02:00",
+                                    "Content": "Dear CT Students, We will release coursework 4 early next week, thus todays lab will not take place. Accordingly, the deadline for cw4 will be moved back. Sorry for the inconveniences!  Best, Rudi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Marking Coursework 2",
+                            "Discussion_Id": "602107",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081607",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-06-19T14:10:26+02:00",
+                                    "Content": "Dear CT students, I want to apologize for an error in the marking of coursework 2, that resulted in giving too high grades (sometimes over 100%) for some students. We have now corrected this error and updated feedback.md files will be pushed to your repositories shortly. This happened, due to an error in our automated testing and marking system, resulting in errors when grading coursework 2, part 2.  If you notice any mistakes in your individual grading, please contact us so that we can investigate.  Best, Michel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082228",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-06-21T09:44:13+02:00",
+                                    "Content": "Hello everyone,  based on your feedback and a closer look at the marking scripts, we have adjusted the marking for task 2 of the second coursework and will update the feedback files today.  For the marking of task 2 we now: - compute the percentage of tests passed in each category; - sum up these percentages; - and round to the nearest integer, which is the points awarded for task 2.  Best, Michel",
+                                    "Response to": "p1081607"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Coursework 3 Released",
+                            "Discussion_Id": "601055",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080109",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-06-14T11:37:55+02:00",
+                                    "Content": "Hello everyone, The third coursework for Compiling Techniques has just been released. You should be able to go to https://git.tu-berlin.de/ and see a new repository called cw2. I believe you have as well received an email from the GitLab server. The git repository has been created at: https://git.tu-berlin.de/compiling-techniques/2024/<GITLAB_USERNAME>/<GITLAB_USERNAME>-cw3 The repository contains a README with the tasks of the coursework and instructions on how to get started. The deadline for submission is the Monday the 1st of July 2024 at midnight. You submit by pushing your changes to the GitLab server before the deadline. Please test early that you have a working setup allowing you to push to the server (e.g., by creating yourself an SSH key). If you have trouble getting started, with the coursework itself, or with git or Python, etc., then please come to the Lab on Fridays at 12:15pm in room EN-362. You can also post questions on the ISIS forum. All the best with the coursework, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Coursework 2 Released",
+                            "Discussion_Id": "596358",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073103",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-05-23T15:58:45+02:00",
+                                    "Content": "Hello everyone, The second coursework for Compiling Techniques has just been released. You should be able to go to https://git.tu-berlin.de/ and see a new repository called cw2. I believe you have as well received an email from the GitLab server. The git repository has been created at: https://git.tu-berlin.de/compiling-techniques/2024/<GITLAB_USERNAME>/<GITLAB_USERNAME>-cw2 The repository contains a README with the tasks of the coursework and instructions on how to get started. The deadline for submission is the Monday the 10th of June 2024 at midnight. You submit by pushing your changes to the GitLab server before the deadline. Please test early that you have a working setup allowing you to push to the server (e.g., by creating yourself an SSH key). If you have trouble getting started, with the coursework itself, or with git or Python, etc., then please come to the Lab on Fridays at 12:15pm in room EN-362. You can also post questions on the ISIS forum. All the best with the coursework, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update Coursework Deadlines",
+                            "Discussion_Id": "593919",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069309",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-05-13T09:23:57+02:00",
+                                    "Content": "Hi everyone, after feedback from some students and reflection of the coursework timeline, I have decided that we will move the deadline of the coursework from Friday to Monday evening. This will allow students to ask questions in the lab on Friday and have time to act on answers and advice received. I also encourage students to ask questions online before Friday. For the future courseworks we will release the coursework on Thursdays so that you have time to look at it before the lab on Friday. I hope this will help! Best, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recognition of Compiling Techniques and Compiler Design",
+                            "Discussion_Id": "592851",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067642",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-05-07T10:50:43+02:00",
+                                    "Content": "Hello everyone, I have received a positive answer from the three professorial members of the Prüfungsausschuss Informatik. Students who have already got credits for the \"Compiler Design\" course, will also be able to get credits for this course. Best, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Coursework 1 Released",
+                            "Discussion_Id": "591987",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066249",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-05-03T09:48:33+02:00",
+                                    "Content": "Hello everyone, The first coursework for Compiling Techniques has just been released. You should be able to go to https://git.tu-berlin.de/ and see a new repository called cw1. I believe you have as well received an email from the GitLab server. The git repository has been created at: https://git.tu-berlin.de/compiling-techniques/2024/<GITLAB_USERNAME>/<GITLAB_USERNAME>-cw1 The repository contains a README with the tasks of the coursework and instructions on how to get started. The deadline for submission is the Friday in two weeks from today, the 17th of May 2024 at midnight. You submit by pushing your changes to the GitLab server before the deadline. Please test early that you have a working setup allowing you to push to the server (e.g., by creating yourself an SSH key). If you have trouble getting started, with the coursework itself, or with git or Python, etc., then please come to the Lab today (and every Friday going forward) at 12:15pm in room EN-362. You can also post questions on the ISIS forum. All the best with the coursework, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Room change: Lecture from today in BIB 014",
+                            "Discussion_Id": "588728",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061271",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-04-23T09:21:26+02:00",
+                                    "Content": "Hello everyone,  Thanks to the initiative and help of Lenard Mollenkopf and Paul Jacob Ellinghaus from the Freitagsrunde, we now have found a large room for the lectures of Compiling Techniques!  The lectures will now happen at the usual time, Tuesdays at 14:15, in room BIB 014 - that is a lecture hall in the library building. I will continue to stream and record the lectures, as I want to honour the promise I made last week on this. See you in class, Michel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to Compiling Techniques",
+                            "Discussion_Id": "585519",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056368",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-04-11T17:41:46+02:00",
+                                    "Content": "Hello everyone,  Thanks for your interest in our course Compiling Techniques.  I am very excited about this course, as I am fairly new at TU Berlin and this is the first course I will be teaching here. I am looking forward to seeing many of you in class, but I am also still figuring much stuff about teaching at TU Berlin out myself - so please be patient with me.  It has been pointed out to me that my original proposed times (Tuesdays at 3pm and Fridays at 1pm) are rather unusual for TU Berlin. Therefore, I have shifted the times to: Lectures on Tuesdays 14:15–15:45 in Room EN-352 and Labs on Fridays 12:15–13:45 EN-362.  As I am still new at TU Berlin, I have missed the chance to get a large central room allocated for this course. Therefore, we will do the following for the lectures on Tuesdays:  - As the room EN-352 has only room for at best 30 people,  - I will be streaming the lecturer live via Zoom(https://tu-berlin.zoom.us/j/61598109869?pwd=L3NvbmI2bnQyT3ZObi9BQmxGN3VZZz09)  - I will provide the recordings of the Zoom lectures every Tuesday evening here on this ISIS course. I can't guarantee an outstanding quality of the streaming/recordings, but I will give it my best.  The labs on Fridays will provide a space for you to work on the coursework and ask questions. These will be in room EN-362. You are not required to attend each lab, but you are encouraged to use this time slot to work on your coursework and to come and ask questions in the lab.  Finally, I have been asked about the relationship between this course and the course \"Compiler Design\" that was taught last semester. Both courses teach compiler construction, so there is naturally an overlap in the topics taught in the two courses. I believe that it can still be beneficial to attend this class in addition to the Compiler Design class, as we will put a larger emphasis on the later stages of the compiler design phase (code generation and optimization) in this course. This course also puts great emphasis on the practical application of the theory learned in the lecturers, as it is graded purely on the compiler that you are developing in the class - there will be no written exam at the end of this course.  I am in touch with the Prüfungsauschuss to clarify if this course can be recognized also when you have already attended the \"Compiler Design\" class. I will update you on this as soon as we have clarified this.  As I said at the beginning, I am looking forward to seeing many of you in class on Tuesday - either in person or virtually.  With best wishes Michel Steuwer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1816366",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Guest Lecture Stream?",
+                            "Discussion_Id": "606575",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088029",
+                                    "Author": "Nils Hinrich Rasmus",
+                                    "DateTime": "2024-07-09T12:19:08+02:00",
+                                    "Content": "Will the guest lecture today be streamed via Zoom or is this an offline only lecture? Best, Nils",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088079",
+                                    "Author": "Michel Steuwer",
+                                    "DateTime": "2024-07-09T13:47:06+02:00",
+                                    "Content": "Hey Nils,  yes, the guest lecture will be streamed and recorded via Zoom.  You can access it via the following link  Join Zoom Meeting https://tu-berlin.zoom.us/j/61598109869?pwd=L3NvbmI2bnQyT3ZObi9BQmxGN3VZZz09  Meeting ID: 615 9810 9869 Passcode: 298739  Best, Michel",
+                                    "Response to": "p1088029"
+                                },
+                                {
+                                    "Message_id": "p1088089",
+                                    "Author": "Nils Hinrich Rasmus",
+                                    "DateTime": "2024-07-09T14:03:24+02:00",
+                                    "Content": "Thank you for the infos!  Best, Nils",
+                                    "Response to": "p1088079"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Coursework #4",
+                            "Discussion_Id": "605783",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086885",
+                                    "Author": "Janika Henrike Neuberger",
+                                    "DateTime": "2024-07-05T13:11:17+02:00",
+                                    "Content": "Hi :)  When is Coursework #4 released and when is the deadline?  Thanks and have a good weekend!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086898",
+                                    "Author": "Ran Zhang",
+                                    "DateTime": "2024-07-05T13:33:43+02:00",
+                                    "Content": "In the announcement, cw4 will be released in thenextweek",
+                                    "Response to": "p1086885"
+                                },
+                                {
+                                    "Message_id": "p1086992",
+                                    "Author": "Janika Henrike Neuberger",
+                                    "DateTime": "2024-07-05T16:51:18+02:00",
+                                    "Content": "Thank you :)",
+                                    "Response to": "p1086898"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Today lecture?",
+                            "Discussion_Id": "604996",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085798",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-07-02T14:26:01+02:00",
+                                    "Content": "Does the zoom link work, or did they change link, I can not get today's lecture to open..?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085800",
+                                    "Author": "Chao Zhan",
+                                    "DateTime": "2024-07-02T14:26:22+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1085798"
+                                },
+                                {
+                                    "Message_id": "p1085807",
+                                    "Author": "Maximilian Holger Ehlers",
+                                    "DateTime": "2024-07-02T14:33:04+02:00",
+                                    "Content": "Same issue",
+                                    "Response to": "p1085798"
+                                },
+                                {
+                                    "Message_id": "p1085809",
+                                    "Author": "Felix Etienne Schuster",
+                                    "DateTime": "2024-07-02T14:37:34+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1085798"
+                                },
+                                {
+                                    "Message_id": "p1086146",
+                                    "Author": "Leonard Moritz Hübner",
+                                    "DateTime": "2024-07-03T12:35:39+02:00",
+                                    "Content": "Was there a lecture at all? I was unable to find a recording and also there are no slides uploaded...",
+                                    "Response to": "p1085798"
+                                },
+                                {
+                                    "Message_id": "p1086198",
+                                    "Author": "Maximilian Joel Kamps",
+                                    "DateTime": "2024-07-03T14:18:41+02:00",
+                                    "Content": "There wasn't, I waited for 30 minutes in the lecture room but nobody came",
+                                    "Response to": "p1086146"
+                                },
+                                {
+                                    "Message_id": "p1086555",
+                                    "Author": "Tobias Christoph Ax",
+                                    "DateTime": "2024-07-04T13:57:44+02:00",
+                                    "Content": "well... doing the optimisations homework without the optimisations lecture is going to be fun then",
+                                    "Response to": "p1086198"
+                                },
+                                {
+                                    "Message_id": "p1086703",
+                                    "Author": "Nils -Luis Deckert",
+                                    "DateTime": "2024-07-04T21:23:49+02:00",
+                                    "Content": "At least this way, we won't be annoyed about the coursework being published just minutes before the lab. Without the lecture, we wouldn't understand it anyway",
+                                    "Response to": "p1086555"
+                                },
+                                {
+                                    "Message_id": "p1086840",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-07-05T11:27:49+02:00",
+                                    "Content": "You understand it WITH the lecture? haha",
+                                    "Response to": "p1086703"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problems with lists concatenation",
+                            "Discussion_Id": "604798",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085527",
+                                    "Author": "David Mack",
+                                    "DateTime": "2024-07-01T18:24:20+02:00",
+                                    "Content": "Hello, List concatenation and string concatenation don't seems to work for me. Having  %7 and  %16 as the pointer returned by the malloc of the 2 string ` %18 = \"riscv_ssa.call\"(%7, %16) <{\"func_name\" = \"_list_concat\"}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> !riscv_ssa.reg` should works perfectly, but it still returning \"world!world!\". Do anybody knows what's the problem? Am I supposed to change the _list_concat_ function?  (I have the same problem with normal lists)  I notice that I'm always passing 0 as the immediate on the store and load pattern, is it the problem?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ListExprPattern - where to store the pointer?",
+                            "Discussion_Id": "604746",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085440",
+                                    "Author": "Janika Henrike Neuberger",
+                                    "DateTime": "2024-07-01T15:53:41+02:00",
+                                    "Content": "I'm implementing the ListExprPattern and I can't figure out on how to retrieve the %x in the ListExprPattern in order to store %ptr in %x (last line). I'd appreciate every last day hints :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085473",
+                                    "Author": "Todor Moskov",
+                                    "DateTime": "2024-07-01T16:48:29+02:00",
+                                    "Content": "You can use AllocOp() in order to allocate space on the stack.",
+                                    "Response to": "p1085440"
+                                },
+                                {
+                                    "Message_id": "p1085499",
+                                    "Author": "Janika Henrike Neuberger",
+                                    "DateTime": "2024-07-01T17:29:24+02:00",
+                                    "Content": "But when I am rewriting the ListExprPattern, then I have already allocated space on the stack for x, and I should only retrieve the address in ListExprPattern and not allocate space again.",
+                                    "Response to": "p1085473"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "rewriter.inline_block_after block stays choco.ir",
+                            "Discussion_Id": "604762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085465",
+                                    "Author": "Leon Suchy",
+                                    "DateTime": "2024-07-01T16:35:11+02:00",
+                                    "Content": "I have inlined a block using rewriter.inline_block_after(block, op). However the inlined block is never processed. So all of its operations never get lowered to riscv_ssa. Isn't the rewriting supposed to be exhaustive until no more rewrites happen?  Snippet: rewriter.insert_op_after(some_new_op, if_op) rewriter.inline_block_after(if_op.then.block, some_new_op) rewriter.erase_op(if_op) What is inside if_op.then.block is never converted to riscv_ssa. How did that happen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "_malloc accessing the heap",
+                            "Discussion_Id": "604608",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085229",
+                                    "Author": "Vinzenz Härtel",
+                                    "DateTime": "2024-07-01T11:45:51+02:00",
+                                    "Content": "Hey @all, a big THANK YOU to all for providing the questions and replys in this forum and doing the debugging! It made it a lot easier for me:) Nonetheless I am stumbeling across the list implementation. The readme says: _malloc: Allocate in the heap the number of bytes given as argument, and return a pointer to it (assume you will always have enough space to allocate memory). So we should be able to allocate just one byte on the heap and return its pointer, right? In my understanding, the AllocOP() just allocs 4 bytes on the stack. I see two problems: 1. How do we access the heap and get the requested number of bytes(e.g. 3) allocated since we only have AllocOP() 2. We could use AllocOP multiple times, but then there is no guarantee that these are located after one another for accessing them with incrementing offsets, right? Hopefully, Vinzenz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085451",
+                                    "Author": "Janika Henrike Neuberger",
+                                    "DateTime": "2024-07-01T16:12:57+02:00",
+                                    "Content": "I think you can achieve 1. with CallOp(\"_malloc\",size_in_bytes) which returns the heap address. But no guarantee, I'm also still working on this part.",
+                                    "Response to": "p1085229"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problem with WhilePattern",
+                            "Discussion_Id": "604458",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085012",
+                                    "Author": "Todor Moskov",
+                                    "DateTime": "2024-06-30T15:03:30+02:00",
+                                    "Content": "Hey, I've been trying to generate code for the while loops, but it seems that I doing something wrong. My implementation works for the normal while loops (/control-flow/while-multiple-times.choc), but not for the for loops (/lists/for-list.choc). So far I have tried to following strategy: I created a loop start label, which I am inserting before the condition block and a loop end label, which I am inserting at the end of the loop body. At the end of the condition block I am checking if the condition evaluates to true (using the while.op.cond_ssa_value) and if not I am jumping to the loop end.  When I try to run the test (/lists/for-list.choc) I am getting the following exception:  I tried a lot of things, but so far nothing helped. Any help will be appreciated.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085240",
+                                    "Author": "Michail Sendetskiy",
+                                    "DateTime": "2024-07-01T12:04:41+02:00",
+                                    "Content": "Hey, I think I have the same problem and I also spent some time on it but did not manage to solve it. I think that when I try to inline both the condition block and the body block there is an operation that is removed, but its result is used somewhere else. Maybe it's a trivial bug because there was no other forum post about it, but I also can't find a solution.",
+                                    "Response to": "p1085012"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CW3 final day study group meetup",
+                            "Discussion_Id": "604488",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085060",
+                                    "Author": "Lasse Connor Haase",
+                                    "DateTime": "2024-06-30T20:27:45+02:00",
+                                    "Content": "Hello,  Sadly im still struggling with multiple parts of the course work 3 and since there was allmost no chance of getting any help outside of the forums, which have been moderatly helpfull, i would like to suggest a student meetup for tomorrow. I am NOT planning on just coping results, but rather discuss our problems with the course work together and help each other out. If anyone is interested, reply to this post and tell me when u can meet tomorrow as i will be working on the course work for the entire day anway. For the location i would suggest the TEL building.  Best regards, Lasse Haase",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085061",
+                                    "Author": "Lenard Mollenkopf",
+                                    "DateTime": "2024-06-30T20:40:07+02:00",
+                                    "Content": "The TEL is closed. https://www.tu.berlin/nachrichtendetails/telefunken-hochhaus-auf-unbestimmte-zeit-geschlossen#:~:text=Das%20Hochhaus%20wurde%20zwischen%201958,das%20denkmalgesch%C3%BCtzte%20Haus%20seit%201975.",
+                                    "Response to": "p1085060"
+                                },
+                                {
+                                    "Message_id": "p1085063",
+                                    "Author": "Lasse Connor Haase",
+                                    "DateTime": "2024-06-30T20:57:47+02:00",
+                                    "Content": "oh thanks for the headsup, ill be taking room suggestions then, basically and room with power outlets will do",
+                                    "Response to": "p1085061"
+                                },
+                                {
+                                    "Message_id": "p1085106",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-07-01T08:32:38+02:00",
+                                    "Content": "You can go to EB building on tudo Cafe",
+                                    "Response to": "p1085063"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "IndexString-Pattern: Retrieving the char at the index",
+                            "Discussion_Id": "603599",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083760",
+                                    "Author": "Christopher-Julian Müller",
+                                    "DateTime": "2024-06-25T20:15:59+02:00",
+                                    "Content": "After suffering while trying to solve the IndexString-Pattern (and this coursework altogether) for several hours, I have to surrender for now and ask for a hint regarding how you all retrieve the char that needs to be copied to the new memloc. My \"closest\" attempt was calculating the address similar to the GetAddress-Pattern and copying it. This resulted in the output \"baaa\" for print(a[1]) where a : str = \"abaaa\". But this approach apparently isn't the correct idea as mentioned in another forum post (?). I also tried the LW-instruction in this context, but I always get uninitialized memory errors when using it afterwards.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083798",
+                                    "Author": "Lenard Mollenkopf",
+                                    "DateTime": "2024-06-25T22:57:26+02:00",
+                                    "Content": "Maybe this code in C showing what needs to be done, and how clang compiles this to risc-v helps code can be found here on godbolt.org: https://www.youtube.com/watch?v=bf6pR6MC2Xs? ",
+                                    "Response to": "p1083760"
+                                },
+                                {
+                                    "Message_id": "p1083842",
+                                    "Author": "Nils Hinrich Rasmus",
+                                    "DateTime": "2024-06-26T09:15:29+02:00",
+                                    "Content": "I think your general idea goes into the right direction. Notice though, that for your code example a[1] should reference to the string \"b\" and not to the string \"baaa\". Also there are some other forum entries for the IndexStringPattern, maxbe these could give you additional hints.",
+                                    "Response to": "p1083760"
+                                },
+                                {
+                                    "Message_id": "p1084060",
+                                    "Author": "Christopher-Julian Müller",
+                                    "DateTime": "2024-06-26T15:23:53+02:00",
+                                    "Content": "Thanks to both of you for your help, really appreciated. After doing some further trial and error with your input, I run into the issue of blank output (no memory issue atleast) for a[1] and always false for conditions such as a[1] == \"b\". Maybe someone can see a major mistake that I'm missing, as I tried to follow and translate the snippet from Lenard into our framework.  - SLL (shifting the same amount as in GetAddress) and adding 4 (since index 0 doesn't contain a char) to 'indexString.index' - Addr = new index + indexString.value - ptr1 = Allocating 8 bytes and using SW at imm0 = 1 and imm4 = Addr - ptr2 = Allocating 4 bytes and using SW for imm0 = ptr1 (variable of the previous malloc-call)  Looking at the riscv-output, everything looks fine to me and the automatically added LW-instruction at the end loads the correct 4 bytes pointer (ptr2). Since I pass every other test except the ones for runtime errors, I don't think this is a consequential error from another wrongly implemented pattern. Anyway, I'm grateful for every hint regarding any misunderstanding on my part.",
+                                    "Response to": "p1083760"
+                                },
+                                {
+                                    "Message_id": "p1084091",
+                                    "Author": "Lenard Mollenkopf",
+                                    "DateTime": "2024-06-26T16:24:25+02:00",
+                                    "Content": "I had the same problem. I did not find where my code was wrong either. What solved it in the end, was moving my code for the indexing lists into a function and then using that to read the value. Because it turned out that I was simply reading an incorrect value from the string. What you can do to ensure that the return value is reasonable, is printing the length of the indexed string.",
+                                    "Response to": "p1084060"
+                                },
+                                {
+                                    "Message_id": "p1084110",
+                                    "Author": "Maximilian Holger Ehlers",
+                                    "DateTime": "2024-06-26T17:02:32+02:00",
+                                    "Content": "I had the issue of returning the value instead of the memory location.  If you get sth like: ``` [MMU] Trying to read data form invalid region at 0x1! MemoryAccessException(During read at 0x00000001 of size 4: region is non-initialized!) ``` you might have made the same mistake. 1 being the length of the string here, which is then used as a memory address.",
+                                    "Response to": "p1083760"
+                                },
+                                {
+                                    "Message_id": "p1084143",
+                                    "Author": "Christopher-Julian Müller",
+                                    "DateTime": "2024-06-26T18:30:37+02:00",
+                                    "Content": "Apparently, I can finally leave the debugging hell for this one. After yet another extensive round of testing, I can't recall what explicit changes were missing in my previous approach, but one thing was the obvious LW-instruction after calculating the address. Knowing the meaning of the 0x1! error helped a lot in the end as well when I started getting it. The rough approach when implementing this pattern within this accursed framework, based on the very helpful snippet in an earlier answer, would therefore look like this:  - SLL (shifting the same amount as in GetAddress) and adding 4 (since index 0 doesn't contain a char) to 'indexString.index' - Addr = new index + indexString.value - Load char at index via LW & Addr - ptr1 = Allocating 8 bytes and using SW at imm0 = 1 and imm4 = char - ptr2 = Allocating 4 bytes and using SW for imm0 = ptr1  Maybe this can help others as well. Thanks again for all the help!",
+                                    "Response to": "p1083760"
+                                },
+                                {
+                                    "Message_id": "p1085027",
+                                    "Author": "Maath Oudeh",
+                                    "DateTime": "2024-06-30T16:59:08+02:00",
+                                    "Content": "I Did it just as you described yet I am still getting the value 1 (aka len) My steps were: - get offset - get the address of the char with the offset (I also saw that i get the right char here) - call malloc with size 8 - save 1 at imm0 and save char at imm4 - Alloc size 4 with AllocOP - store the malloc pointer at the alloc pointer - load Alloc pointer  what did I do wrong?",
+                                    "Response to": "p1084143"
+                                },
+                                {
+                                    "Message_id": "p1085045",
+                                    "Author": "Christopher-Julian Müller",
+                                    "DateTime": "2024-06-30T18:55:47+02:00",
+                                    "Content": "Two things that differ from my solution and may or may not have an impact: (1) I never used AllocOp, so I'm not sure if this is any different than the usual malloc. (2) If I remember correctly, I didn't load the ptr2 because a LW-instruction gets added afterwards automatically by the framework. Otherwise, it sounds correct and it's hard to say except that it has to be related to either the address calculation or the handling of the pointers. GL though!",
+                                    "Response to": "p1085027"
+                                },
+                                {
+                                    "Message_id": "p1085070",
+                                    "Author": "Maath Oudeh",
+                                    "DateTime": "2024-06-30T21:50:24+02:00",
+                                    "Content": "the instruction expects a result at the end (which is the pointer). how did you manage to return that if you dont use LW? The framework looks at the last op that you add and tries to work with that, if its a SW it will fail, meaning that having SW(ptr1, ptr2, 0) as the last op is not possible.",
+                                    "Response to": "p1085045"
+                                },
+                                {
+                                    "Message_id": "p1085075",
+                                    "Author": "Maath Oudeh",
+                                    "DateTime": "2024-06-30T22:11:11+02:00",
+                                    "Content": "Ok I cheesed it xD. egly but works (and yes it was because of the last LW)",
+                                    "Response to": "p1085070"
+                                },
+                                {
+                                    "Message_id": "p1085076",
+                                    "Author": "Maximilian Joel Kamps",
+                                    "DateTime": "2024-06-30T22:21:26+02:00",
+                                    "Content": "you can pass an optional `new_results` argument to `replace_matched_op`, which it will use instead of the last op",
+                                    "Response to": "p1085070"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VerifyException: Operation does not verify: riscv_ssa.beq / enq operation does not verify",
+                            "Discussion_Id": "604421",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084950",
+                                    "Author": "Ran Zhang",
+                                    "DateTime": "2024-06-29T22:34:38+02:00",
+                                    "Content": "I have encountered errors like below in the generated riscv_ssa: xdsl.utils.exceptions.VerifyException: Operation does not verify: riscv_ssa.beq (riscv_ssa.bne) operation does not verify     |operand at position 0 does not verify!     |!choco.ir.named_type<\"int (/ bool)\"> should be of base attribute riscv_ssa.reg An example riscv_ssa is like: \"builtin.module\"() ({   \"riscv_ssa.func\"() <{\"func_name\" = \"_main\"}> ({     %0 = \"riscv_ssa.li\"() <{\"immediate\" = 0 : i32}> : () -> !riscv_ssa.reg     %1 = \"riscv_ssa.alloc\"() : () -> !riscv_ssa.reg     \"riscv_ssa.sw\"(%0, %1) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> ()     %2 = \"riscv_ssa.lw\"(%1) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg) -> !riscv_ssa.reg     %3 = \"riscv_ssa.alloc\"() : () -> !riscv_ssa.reg     \"riscv_ssa.sw\"(%2, %3) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> ()     \"riscv_ssa.label\"() <{\"label\" = #riscv.label<while_cond_0>}> : () -> ()     %4 = \"choco.ir.load\"(%3) : (!riscv_ssa.reg) -> !choco.ir.named_type<\"int\">     ^^^^^^^^^^^^^^^^^^^^----------------------------------------     | operand at position 0 does not verify!     | !riscv_ssa.reg should be of base attribute choco.ir.memloc     ------------------------------------------------------------     %5 = \"choco.ir.literal\"() <{\"value\" = 10 : i32}> : () -> !choco.ir.named_type<\"int\">     %6 = \"choco.ir.binary_expr\"(%7, %8) <{\"op\" = \"!=\"}> : (!choco.ir.named_type<\"int\">, !choco.ir.named_type<\"int\">) -> !choco.ir.named_type<\"bool\">     %9 = \"riscv_ssa.li\"() <{\"immediate\" = 0 : i32}> : () -> !riscv_ssa.reg     \"riscv_ssa.beq\"(%10, %11) <{\"offset\" = #riscv.label<while_end_0>}> : (!choco.ir.named_type<\"bool\">, !riscv_ssa.reg) -> ()     \"riscv_ssa.label\"() <{\"label\" = #riscv.label<while_body_0>}> : () -> ()     %12 = \"choco.ir.load\"(%3) : (!riscv_ssa.reg) -> !choco.ir.named_type<\"int\">     \"choco.ir.call_expr\"(%13) <{\"func_name\" = \"_print_int\"}> : (!choco.ir.named_type<\"int\">) -> ()     %14 = \"choco.ir.load\"(%3) : (!riscv_ssa.reg) -> !choco.ir.named_type<\"int\">     %15 = \"choco.ir.literal\"() <{\"value\" = 1 : i32}> : () -> !choco.ir.named_type<\"int\">     %16 = \"choco.ir.binary_expr\"(%17, %18) <{\"op\" = \"+\"}> : (!choco.ir.named_type<\"int\">, !choco.ir.named_type<\"int\">) -> !choco.ir.named_type<\"int\" >     \"choco.ir.store\"(%3, %19) : (!riscv_ssa.reg, !choco.ir.named_type<\"int\">) -> ()     \"riscv_ssa.j\"() <{\"offset\" = #riscv.label<while_cond_0>}> : () -> ()     \"riscv_ssa.label\"() <{\"label\" = #riscv.label<while_end_0>}> : () -> ()     %20 = \"riscv_ssa.li\"() <{\"immediate\" = 42 : i32}> : () -> !riscv_ssa.reg     %21 = \"riscv_ssa.alloc\"() : () -> !riscv_ssa.reg     \"riscv_ssa.sw\"(%20, %21) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> ()     %22 = \"riscv_ssa.lw\"(%21) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg) -> !riscv_ssa.reg     \"riscv_ssa.call\"(%22) <{\"func_name\" = \"_print_int\"}> : (!riscv_ssa.reg) -> ()   }) : () -> () }) : () -> () After struggling for hours......I totally don't know what's wrong. Literal and BinaryExpr are fine, and I modified whilepattern for a long time, it always has the same issue.  Could anyone help? Thanks",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084960",
+                                    "Author": "Lucius Kruse",
+                                    "DateTime": "2024-06-30T06:49:37+02:00",
+                                    "Content": "The general issue seems to be that flat choco (e.g. choco.ir.load) and riscv SSA (e.g. riscv_ssa.alloc) are mixed, as visible in all your errors. The input you are given is flat choco SSA. The output you produce may only contain riscv SSA. All input operations must be replaced. Error 1 translates to (human-readable): \"You gave the riscv_ssa.beq (bne) operation an operand of type choco.ir.named_type<\"int (/ bool)\">. In riscv ssa, the operand must be riscv ssa. For beq, the operand must be of type riscv_ssa.reg\" Error 2 has the same cause. The choco.ir.load operation is flat choco, the operand given is a riscv ssa value (from riscv_ssa.alloc). To debug this further, it would be relevant to know where the error occurs. Is the given SSA the final output of your choco-opt (i.e. the output of choco-opt -p riscv file.choc), and if so, what is the input? My guess would be that at least one of your patterns has not been fully implemented yet, but doesn't raise an exception either. Thus, flat choco SSA is left in the output. Alternatively, it could be that one of your patterns doesn't erase nor replace the matched op (only inserts ops before it), leading to the same result.",
+                                    "Response to": "p1084950"
+                                },
+                                {
+                                    "Message_id": "p1085048",
+                                    "Author": "Ran Zhang",
+                                    "DateTime": "2024-06-30T19:15:46+02:00",
+                                    "Content": "Thanks for the answer. I tried to debug a lot, and only got more confused. I don't undestand why test like:  x: int = 0 print(x!=10) # CHECK: True  can pass, but for the 'while' case like 'while x!=10', there will be errors.",
+                                    "Response to": "p1084960"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "alloca implementation",
+                            "Discussion_Id": "601157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080243",
+                                    "Author": "Tobias Christoph Ax",
+                                    "DateTime": "2024-06-14T17:26:46+02:00",
+                                    "Content": "since alloca is not provided we need to implement it on our own. The issue is, I don't see a way to access the stack counter (or any other specific register for that matter) from inside a RewritePattern. How is this intended to be done?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080354",
+                                    "Author": "Alexander Müller",
+                                    "DateTime": "2024-06-15T17:04:08+02:00",
+                                    "Content": "I don't think you have to implement alloca - there's a AllocOp() that seems to work fine. I think what they mean to say in the README is that you might need to use CallOp using some predefined labels (like _malloc or smth).",
+                                    "Response to": "p1080243"
+                                },
+                                {
+                                    "Message_id": "p1080356",
+                                    "Author": "Tobias Christoph Ax",
+                                    "DateTime": "2024-06-15T17:05:33+02:00",
+                                    "Content": "then i just missused it. thanks",
+                                    "Response to": "p1080354"
+                                },
+                                {
+                                    "Message_id": "p1085023",
+                                    "Author": "Lasse Connor Haase",
+                                    "DateTime": "2024-06-30T16:36:53+02:00",
+                                    "Content": "Does this mean i have to use both AllocOp() and CallOp() with _malloc in the AllocPattern class? whatever i do i allways get \"Invalid write into non-initialized region at 0x0000002A\", maybe im not setting the pointer to the allocated register correctly?",
+                                    "Response to": "p1080354"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recognizing CT as \"Freie Wahl\"",
+                            "Discussion_Id": "597815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075362",
+                                    "Author": "Eric Lifante",
+                                    "DateTime": "2024-05-30T08:52:50+02:00",
+                                    "Content": "Hello Everyone, I've already sent an email about this on Sunday, but just to be sure, I'd like to know exactly how we're supposed to communicate our intention to recognize this course in the different components of our studies (e.g. Freie Wahl). I'm only writing this because I haven't found an ISIS poll about this and I want to make sure I don't miss a deadline beacause of miscommunication. Any help would be appreciated. Thanks, Eric",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075989",
+                                    "Author": "Julian Richard Fechner",
+                                    "DateTime": "2024-05-31T21:47:40+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1075362"
+                                },
+                                {
+                                    "Message_id": "p1077657",
+                                    "Author": "Janika Henrike Neuberger",
+                                    "DateTime": "2024-06-06T12:44:26+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1075989"
+                                },
+                                {
+                                    "Message_id": "p1085004",
+                                    "Author": "Ben Richter",
+                                    "DateTime": "2024-06-30T14:27:45+02:00",
+                                    "Content": "hey, did you get an answer? I still have no clue how to rocognize this as Freie Wahl",
+                                    "Response to": "p1075362"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Right output but test failed anyway",
+                            "Discussion_Id": "604441",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084985",
+                                    "Author": "Yunusemre Kilic",
+                                    "DateTime": "2024-06-30T12:27:02+02:00",
+                                    "Content": "Hey i was working on OR after finishing AND and i have a weird problem. I am executing the test and it says this error: CHECK: expected string not found in input # CHECK: True          ^ <stdin>:1:1: note: scanning from here False ^ <stdin>:1:3: note: possible intended match here False   ^  error: command failed with exit status: 1 the problem is that i executed the test single_op_or.choc standalone. and this was the result python3 tests/end-to-end/arithmetic-comparison-ops/single_op_or.choc  True True True False which is the correct output. What can be the problem? I did seperate AND and OR at the beginning of each of them with  if or_op.op.data == \"or\": and  if and_op.op.data == \"and\":  i dont know what the fix might be so any help would be very nice",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084993",
+                                    "Author": "Lucius Kruse",
+                                    "DateTime": "2024-06-30T13:23:20+02:00",
+                                    "Content": "> i executed the test single_op_or.choc standalone. and this was the result > python3 tests/end-to-end/arithmetic-comparison-ops/single_op_or.choc The command you have given executes the given ChocoPy file using CPython. It does not in any way test your code (for which you have to use the ChocoPy compiler and RISCV interpreter). To test your own code, use the following commands instead (first line of the .choc file): choco-opt -p all -t riscv tests/end-to-end/arithmetic-comparison-ops/single_op_or.choc > test.riscv python3 -m riscemu test.riscv Then, check if the errors (e.g. the \"True or False\" evaluating to \"False\") show some pattern that hints at the issue. If not, you'll probably have to take a closer look at the generated riscv ssa.",
+                                    "Response to": "p1084985"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problems using the Debugger in VSCode",
+                            "Discussion_Id": "604402",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084923",
+                                    "Author": "Philip Jan Ivers",
+                                    "DateTime": "2024-06-29T17:15:58+02:00",
+                                    "Content": "Does anyone know what to put in the launch.json file to for the debugger to work? Currently mine contains this: {     // Use IntelliSense to learn about possible attributes.     // Hover to view descriptions of existing attributes.     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387     \"version\": \"0.2.0\",     \"configurations\": [         {             \"name\": \"Python Debugger: Module\",             \"type\": \"debugpy\",             \"request\": \"launch\",             \"module\": \"tools.choco_opt\",             \"args\": [\"choco-opt\", \"-p\", \"-t\", \"riscv\", \"./tests/end-to-end/var-defs/multi-assign-order.choc\"],             \"justMyCode\": true         }     ] }  But I always get a Type Error in the choco_opt.py file. TypeError: MLContext.register_dialect() missing 1 required positional argument: 'dialect_factory'  What do I need to change?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084958",
+                                    "Author": "Lucius Kruse",
+                                    "DateTime": "2024-06-30T06:23:54+02:00",
+                                    "Content": "The \"args\" array should only contain the arguments, not the name. The error complains about \"choco-opt\" not being a known dialect. Use \"args\": [\"-p\", \"-t\", \"riscv\", \"./tests/end-to-end/var-defs/multi-assign-order.choc\"], The config I'm using right now (tested and working) is: {     // Use IntelliSense to learn about possible attributes.     // Hover to view descriptions of existing attributes.     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387     \"version\": \"0.2.0\",     \"configurations\": [         {             \"name\": \"ChocoPy test\",             \"type\": \"python\",             \"module\": \"tools.choco_opt\",             \"request\": \"launch\",             \"args\": [\"-p\", \"all\", \"tests/end-to-end/arithmetic-comparison-ops/if_else_side_effects.choc\"],             \"justMyCode\": false,         }     ] }",
+                                    "Response to": "p1084923"
+                                },
+                                {
+                                    "Message_id": "p1084975",
+                                    "Author": "Philip Jan Ivers",
+                                    "DateTime": "2024-06-30T10:58:57+02:00",
+                                    "Content": "Thank you for your awnser, I had tried a few things with the args, but apparently the issue is not in the json. Since Im still have the same weird issue",
+                                    "Response to": "p1084958"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CW3: Warn dead code errors",
+                            "Discussion_Id": "604209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084633",
+                                    "Author": "Luca Robin Deuschel",
+                                    "DateTime": "2024-06-28T11:14:27+02:00",
+                                    "Content": "Hi,  I have implemented everything, but the warn-dead-code tests fail. As far as I understand it they should not have anything to do with CW3. I also checked the initial commit and found out they failed from the beginning.  Could anybody verify, that they have the same problem and that they are indeed irrelevant for the grading of CW3?  Thanks a lot!  Cheers, Luca",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084834",
+                                    "Author": "Nathanael Sandy",
+                                    "DateTime": "2024-06-28T19:48:56+02:00",
+                                    "Content": "If you check the supplied code for CW3, you'll see that the pass for dead code analysis is basically empty. We were not given a reference implementation for the second task of CW2.",
+                                    "Response to": "p1084633"
+                                },
+                                {
+                                    "Message_id": "p1084959",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-06-30T06:37:19+02:00",
+                                    "Content": "Just copy the homework of 2nd week into your 3rd week",
+                                    "Response to": "p1084633"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MemoryAccessException in AND/OR",
+                            "Discussion_Id": "604393",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084897",
+                                    "Author": "Maath Oudeh",
+                                    "DateTime": "2024-06-29T14:35:38+02:00",
+                                    "Content": "hey, For some reason I cannot access the allocated memory after I use branch OP. lets say we have the program print(True and True). what I do is: - Allocate memory using AllocOp() - get an Imm with value 0 - store this Imm in the mem using SWOp(zero, mem, 0) - check lhs against 0 with BEQOp(lhs, zero, \"end_label\") -> if I dont branch I go on the store the rhs in the mem (because it determines the result, since lhs is true) -> if I branch I will use the SWOp from before (containing 0) and LWOp(mem, 0) at the end. Since I dont branch here I will get True at the end.  Now lets say we have the programm print(False and True): This time I need to branch, since the first value is false and we dont need to check the rhs anymore. HOWEVER, when I branch I can no longer access the memory??? I get: [MMU] Trying to read data form invalid region at 0x0! MemoryAccessException(During read at 0x00000000 of size 4: region is non-initialized!) [CPU] Halting due to exception!  Why am I losing the memory region when I branch??? I am legit losing my Mind aswell in the process of understanding this...",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084902",
+                                    "Author": "Maath Oudeh",
+                                    "DateTime": "2024-06-29T15:26:54+02:00",
+                                    "Content": "Also, here is the riscv code that I generate: builtin.module { \"riscv_ssa.func\"() <{\"func_name\" = \"_main\"}> ({ %0 = \"riscv_ssa.alloc\"() : () -> !riscv_ssa.reg %1 = \"riscv_ssa.li\"() <{\"immediate\" = 0 : i32}> : () -> !riscv_ssa.reg \"riscv_ssa.sw\"(%1, %0) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> () %2 = \"riscv_ssa.li\"() <{\"immediate\" = 1 : i32}> : () -> !riscv_ssa.reg \"riscv_ssa.beq\"(%2, %1) <{\"offset\" = #riscv.label}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> () %3 = \"riscv_ssa.li\"() <{\"immediate\" = 1 : i32}> : () -> !riscv_ssa.reg \"riscv_ssa.sw\"(%3, %0) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> () \"riscv_ssa.label\"() <{\"label\" = #riscv.label}> : () -> () %4 = \"riscv_ssa.lw\"(%0) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg) -> !riscv_ssa.reg \"riscv_ssa.call\"(%4) <{\"func_name\" = \"_print_bool\"}> : (!riscv_ssa.reg) -> () %5 = \"riscv_ssa.alloc\"() : () -> !riscv_ssa.reg %6 = \"riscv_ssa.li\"() <{\"immediate\" = 0 : i32}> : () -> !riscv_ssa.reg \"riscv_ssa.sw\"(%6, %5) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> () %7 = \"riscv_ssa.li\"() <{\"immediate\" = 0 : i32}> : () -> !riscv_ssa.reg \"riscv_ssa.beq\"(%7, %6) <{\"offset\" = #riscv.label}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> () %8 = \"riscv_ssa.li\"() <{\"immediate\" = 1 : i32}> : () -> !riscv_ssa.reg \"riscv_ssa.sw\"(%8, %5) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg, !riscv_ssa.reg) -> () \"riscv_ssa.label\"() <{\"label\" = #riscv.label}> : () -> () %9 = \"riscv_ssa.lw\"(%5) <{\"immediate\" = 0 : i32}> : (!riscv_ssa.reg) -> !riscv_ssa.reg \"riscv_ssa.call\"(%9) <{\"func_name\" = \"_print_bool\"}> : (!riscv_ssa.reg) -> () }) : () -> () }",
+                                    "Response to": "p1084897"
+                                },
+                                {
+                                    "Message_id": "p1084916",
+                                    "Author": "Ran Zhang",
+                                    "DateTime": "2024-06-29T16:37:39+02:00",
+                                    "Content": "It indicates that the progarm is trying to read data from address 0x0, which usually happens when trying to dereference a null pointer (None / False). In And / Or case, value 'False' is represented as 0. This error occurs when the program try to read this value. You could check thhis part in ur And / Or implementation.",
+                                    "Response to": "p1084897"
+                                },
+                                {
+                                    "Message_id": "p1084919",
+                                    "Author": "Maath Oudeh",
+                                    "DateTime": "2024-06-29T16:45:52+02:00",
+                                    "Content": "I found the Issue. It was because I had multiple labels with the same label_name. (now I also get why we have a counter lol)",
+                                    "Response to": "p1084916"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Problem with some lists test cases. ",
+                            "Discussion_Id": "604373",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084861",
+                                    "Author": "Ran Zhang",
+                                    "DateTime": "2024-06-29T02:30:08+02:00",
+                                    "Content": 

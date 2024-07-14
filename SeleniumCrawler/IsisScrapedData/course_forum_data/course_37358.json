@@ -1,0 +1,89 @@
+[
+    {
+        "Course_Name": "Geometriemodelle in der Bauinformatik - SoSe 2024",
+        "Course_id": "37358",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1757130",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Mündliche Rücksprache und 2. Hausaufgabe",
+                            "Discussion_Id": "607268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089003",
+                                    "Author": "Maximilian Sternal",
+                                    "DateTime": "2024-07-11T16:33:31+02:00",
+                                    "Content": "Liebe Studierende,  die Terminfindung für die mündliche Rücksprache ist bis einschließlich nächsten Montag, 15.7., geöffnet. Bitte wählt eure Termine so, dass keine Lücken zwischen den Rücksprachen liegen. Außerdem ist die 2. Hausaufgabe bis einschließlich 22.07. verlängert. Ihr findet darüber hinaus eine ausführliche Beantwortung der bisherigen Fragen für alle bei der Aufgabenstellung. Sollte es weitere Fragen geben, bin ich jederzeit per Webex erreichbar. Vielen Dank für die Teilnahme an der Evaluation, wir werden diese in der letzten Veranstaltung gemeinsam besprechen. VG Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Werde mich leider verspäten..",
+                            "Discussion_Id": "597805",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075345",
+                                    "Author": "Wolfgang Huhnt",
+                                    "DateTime": "2024-05-30T07:22:38+02:00",
+                                    "Content": "Liebe Alle, die DB lässt mich gerade im Stich. Ich werde wohl erst um 8:45 im Seminarraum sein können. Bis nachher, Wolfgang Huhnt ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungen 8:30 in Pool 180, erster Stock.",
+                            "Discussion_Id": "589296",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062165",
+                                    "Author": "Maximilian Sternal",
+                                    "DateTime": "2024-04-24T11:33:10+02:00",
+                                    "Content": "Liebe Studierende,  Die Übungen in Geometrie Modelle in dieser und der nächsten Woche um 8:30 finden im unteren Computer Pool 180 bei den Hörsälen statt. Auch wenn ich weiß, dass das Timing nicht ideal ist diese Woche und nach dem ersten Mai, dennoch der Hinweis das die Übungen zentral sind für die weitere Bearbeitung, auch speziell der ersten Hausaufgabe, Teilnahme empfohlen ;) Liebe Grüße Max Sternal ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1757136",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Interpolationsfunktionen und HA2",
+                            "Discussion_Id": "602697",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082455",
+                                    "Author": "Maximilian Sternal",
+                                    "DateTime": "2024-06-21T19:53:07+02:00",
+                                    "Content": "Liebe Studierende,   bitte schaut bis nächste Woche Donnerstag das Video, welches in dieser Woche verlinkt ist. Dort sind folgende Inhalte wichtig: Interpolations-Funktionen: Bezier, Hermite, B-Spline, Nurbs (und die Unterschiede) Kontinuitäts-Bedingungen (C0,C1,C2) Bernstein und Basis Polynome deCasteljau Algorithmus der mehrfachen, linearen Interpolation Bitte beachtet auch, dass ich nochmal eine aktualisierte Version des Beispiel-Projektes für die 2. Hausaufgabe hochgeladen habe. Diese enthält jetzt auch eine Klasse zur Projektion von 3D Koordinaten zu Triangulierung mit Poly2Tri. Ihr findet auch zwei Beispiel Klassen dazu.  Bitte notiert euch bis nächsten Woche Fragen sowohl zur 2. Hausaufgabe als auch zum Video, damit wir über beides sprechen können. Alle weiteren Fragen können auch jederzeit über Webex gestellt werden.  Allen ein schönes Wochenende! LG Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall morgen, 20.6. - Koordination auf webex ",
+                            "Discussion_Id": "602138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081645",
+                                    "Author": "Maximilian Sternal",
+                                    "DateTime": "2024-06-19T15:19:49+02:00",
+                                    "Content": "Liebe Studierende,  aus verschiedenen organisatorischen und gesundheitlichen Gründen muss die Veranstaltung zu Geometriemodelle morgen, 20.6., 08:30-12:00 Uhr, leider ausfallen. Zur weiteren Abstimmung und Koordination werde ich einen Bereich im Webex für den Kurs einrichten, wo auch ein möglicher Ersatz Termin abgestimmt werden kann.  Liebe Grüße  Max Sternal ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

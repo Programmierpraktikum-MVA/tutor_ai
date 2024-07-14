@@ -1,0 +1,97 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Robot Learning",
+        "Course_id": "38900",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1808872",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "voting points",
+                            "Discussion_Id": "605759",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086855",
+                                    "Author": "Marc Toussaint",
+                                    "DateTime": "2024-07-05T12:21:25+02:00",
+                                    "Content": "Dear all, attached an update on the voting points, with e10 and e11 integrated. The cut seems quite clear, and I hope that all that intended to take the exam are above 50%? Please let me know if that's not the case. Best, MT",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 10 + 11 discussed at tutorial this Friday",
+                            "Discussion_Id": "604828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085570",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-01T21:48:49+02:00",
+                                    "Content": "Dear Students, Since exercises 10 and 11 are shorter (2 questions each), we'll discuss both jointly this Friday. There are two separate voting sheets (and in case you can't joint in person two submission sheets) on ISIS. The voting and submission sheets for exercise 10 are open again (until this Friday). For the exam prerequisite evaluation, we'll count both exercises separately. Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorial CANCELLED today",
+                            "Discussion_Id": "604167",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084560",
+                                    "Author": "Marc Toussaint",
+                                    "DateTime": "2024-06-28T08:33:08+02:00",
+                                    "Content": "Dear all, I need to go to the doctor (hit my foot badly). I need to cancel the tutorial. (Please still fill in the voting sheet.) We'll discuss Tuesday how to catch up with this. Best, Marc",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "603226",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083269",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-24T21:25:35+02:00",
+                                    "Content": "Dear Students, We would be grateful if you could provide feedback for the class. The official TUB evaluation is available at https://befragung.tu-berlin.de/evasys/online.php?p=KS2GG  It should only take 5-10 min and the deadline is this Friday.  Evaluations are crucial for us to improve the course and our lecture style in the future. Thanks, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Registration",
+                            "Discussion_Id": "602899",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082779",
+                                    "Author": "Marc Toussaint",
+                                    "DateTime": "2024-06-24T08:58:32+02:00",
+                                    "Content": "Dear all, I uploaded the new exercise sheet last night - there is no coding part this time. I created the exam registration on Moses (two separate ones, for Ersttermin and Zweittermin). Please register. We'll try to compute a first estimate of your exercise voting points by Friday. Best, Marc",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise Sheet 7 Update",
+                            "Discussion_Id": "598696",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076673",
+                                    "Author": "Cornelius Valentin Braun",
+                                    "DateTime": "2024-06-03T21:41:17+02:00",
+                                    "Content": "Dear all, An updated version of exercise 7 is online now. The new version now features part 3, the coding exercise and some supplementary code to help you. You do not need to use this code, but it may help you to implement the pink noise class and the plotting. Best, Cornelius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Follow up on tutorial to exercise sheet 5",
+                            "Discussion_Id": "596521",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073344",
+                                    "Author": "Cornelius Valentin Braun",
+                                    "DateTime": "2024-05-24T12:55:21+02:00",
+                                    "Content": 

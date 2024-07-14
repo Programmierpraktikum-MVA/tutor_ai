@@ -1,0 +1,120 @@
+[
+    {
+        "Course_Name": "[SoSe24] SE Autonomous Security",
+        "Course_id": "37020",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1741712",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "TU Berlin survey reminder",
+                            "Discussion_Id": "603309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083381",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-06-25T10:02:01+02:00",
+                                    "Content": "Hi, so far nobody from the seminar has taken part in the survey, please take part in it.  Best regards, Karsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation day selection available",
+                            "Discussion_Id": "597206",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074501",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-05-28T08:22:58+02:00",
+                                    "Content": "Hi. You can now select a day for your presentations. Available are either the 23.07. or the 17.9. On both days, we will start at 10:00 (s.t.). Due to the water damage, the seminar cannot occur in the TEL building but will be hosted in ZEKI at Ernst-Reuter-Platz 2. You will need to ring at the entrance of the building, and someone will come down and pick you up. Best regards, Karsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar topic selection - update",
+                            "Discussion_Id": "591178",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065015",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-04-30T12:37:58+02:00",
+                                    "Content": "Hi, We still have several seminar topics open. In case you haven't selected a topic yet, it's now open to everybody. You can select topics until Monday, May 6th, at 07:00 (am). Best regards, Karsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic selection open",
+                            "Discussion_Id": "588868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061476",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-04-23T12:43:09+02:00",
+                                    "Content": "Hi, at 12:45 the topic selection will open. Best regards, Karsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Participants selected, online meeting, and topics",
+                            "Discussion_Id": "588181",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060363",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-04-22T07:38:27+02:00",
+                                    "Content": "Hi, the participants for the seminar have been selected and should have received a separate message in this regard. Tomorrow, in the online meeting, we will discuss organizational aspects and the topics. Since I have another lecture before the seminar, I may not start the online meeting on time. So be patient with me. Best regards, Karsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First meeting will be an online meeting",
+                            "Discussion_Id": "586662",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058056",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-04-17T08:33:27+02:00",
+                                    "Content": "Hi, due to water damage in the TEL building, we need to change the first meeting on the 23rd to an online meeting. For this BigBlueButton meeting, see the ISIS page for details. Since this is the first time I am trying to use BigBlueButton with ISIS, things may go wrong, so please keep an eye on ISIS messages that may announce a move to other online forums. Best regards, Karsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Contact info update / Possible location change",
+                            "Discussion_Id": "585792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056797",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-04-15T07:17:04+02:00",
+                                    "Content": "Hello, During the weekend, the TEL building suffered major water damage, affecting the Exchange server for DAI Lab/AOT. I cannot currently be reached at karsten.bsufka@dai-labor.de.  So please get in touch with me at karsten.bsufka@tu-berlin.de or use ISIS messages, the TU Berlin WebEx, or the Matrix server. TU Berlin E-Mail would be my preferred method. If you have written to me since Friday afternoon, please send the email again. The last email I received at my DAI address was on Friday at 15:00. This may also affect the start of the seminar next week; I don't know if the room in the TEL building will be available until that day. I will update you as soon as I know more. Best regards, Karsten ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar topics - not yet final",
+                            "Discussion_Id": "581792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1050632",
+                                    "Author": "Karsten Bsufka",
+                                    "DateTime": "2024-02-28T09:15:58+01:00",
+                                    "Content": "The topics for the seminar will be updated until the first meeting on the 23rd of April.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

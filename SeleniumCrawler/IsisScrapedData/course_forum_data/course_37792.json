@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] (Advanced) [Blockchain, Cloud, Distributed Systems, Information Systems] Prototyping Meta",
+        "Course_id": "37792",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1769040",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Participant Selection Completed",
+                            "Discussion_Id": "587175",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058764",
+                                    "Author": "Tobias Pfandzelter",
+                                    "DateTime": "2024-04-18T09:21:45+02:00",
+                                    "Content": "Dear students, We are happy to announce that we were able to complete the participant selection more quickly than anticipated. All project slots have been filled and we have sent notifications to accepted students (quick reminder to check your inboxes: if you have forwarding from your university email to your private email enabled, check your spam folder). Unfortunately, we could not offer all students a project spot. If you have not received an email yet, we were unable to accommodate you. Best regards, Tobias Pfandzelter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Application Period Ends Today 6pm",
+                            "Discussion_Id": "585815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056828",
+                                    "Author": "Tobias Pfandzelter",
+                                    "DateTime": "2024-04-15T09:09:19+02:00",
+                                    "Content": "Dear students, This is a friendly reminder that the application period for this semester's projects in Blockchain, Cloud, Distributed Systems, and Information Systems ends today at 6pm sharp (that's 18:00). If you have not finished and submitted your application by that date, you cannot be considered for project participation. Looking forward to everyone's' applications! Best regards, Tobias Pfandzelter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

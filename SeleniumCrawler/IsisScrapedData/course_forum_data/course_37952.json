@@ -1,0 +1,303 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Deep Learning 2",
+        "Course_id": "37952",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1773985",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No Tutorial Session this week",
+                            "Discussion_Id": "599080",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077214",
+                                    "Author": "Oliver Eberle",
+                                    "DateTime": "2024-06-05T11:00:06+02:00",
+                                    "Content": "There will be NO tutorial session this week (May 06, 2024 10-12). The next tutorial session will be on May 13, 2023 (10-12) with solutions presented for Density Estimation.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HiWi Assistants",
+                            "Discussion_Id": "593489",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068622",
+                                    "Author": "Robert Anton Vandermeulen",
+                                    "DateTime": "2024-05-09T15:06:03+02:00",
+                                    "Content": "Howdy All,  We have finally gotten some HiWi assistants to help us with the course. From now on the primary person for handling the forums (homework questions, organizational questions, etc.) will be Marco Serrano, so we should have a much faster response time for the forums.  -Robert Vandermeulen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Extended Submission for Week 2 (Attention) / No Tutorial Session this week",
+                            "Discussion_Id": "591212",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065060",
+                                    "Author": "Oliver Eberle",
+                                    "DateTime": "2024-04-30T13:27:39+02:00",
+                                    "Content": "We have extended the submission due date by one week for the attention lecture to May 9, 2024. This should also allow you more time to form groups and work together. There will als be NO tutorial session this week (May 02, 2024 10-12). Since May 09 is a public holiday, solutions will be presented on May 16.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[IMPORTANT] Forums, homeworks, and groups",
+                            "Discussion_Id": "587350",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059054",
+                                    "Author": "Robert Anton Vandermeulen",
+                                    "DateTime": "2024-04-18T14:33:05+02:00",
+                                    "Content": "Hello Students,  Sorry for the delay, a few things should be done now: Forums should work now. Only trainers can post in this forum, students should be able to reply. The other forum should be available too students. Please send me an email if you have some issue. Assignment 1 - Problems is up Assignment 1 Submission is up. Only submit one pdf as a group, this includes theory and code. Under absolutely no circumstances will any late submission be considered. The homework requirements are already very lax. You will be constructing your own homework groups using the forums. Sorry for any confusion about this earlier. Please see the homeworks post on the main DL2 ISIS page for details.  -Robert Vandermeulen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "General Discussion",
+                    "Forum_id": "1773984",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam Dates",
+                            "Discussion_Id": "604736",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085427",
+                                    "Author": "Timo Neuwirth",
+                                    "DateTime": "2024-07-01T15:41:24+02:00",
+                                    "Content": "Hello, i have a question regarding the exam dates. are both dates (for first and second exam) shown in the table in \"General\" tab the correct ones? because there are no dates shown in the \"prerequisites / registration / exam\" file anymore (and im quite sure they were written there before). so i was wondering if the dates arent fix yet. Best regards",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085493",
+                                    "Author": "Pengtao Xie",
+                                    "DateTime": "2024-07-01T17:20:22+02:00",
+                                    "Content": "Hello. Another question: when can we begin to register for exam?  Best Reagrds",
+                                    "Response to": "p1085427"
+                                },
+                                {
+                                    "Message_id": "p1085716",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-07-02T11:37:38+02:00",
+                                    "Content": "Hi, we are working on it and I will make a announcement once the registration on Moses is open.",
+                                    "Response to": "p1085493"
+                                },
+                                {
+                                    "Message_id": "p1085714",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-07-02T11:36:56+02:00",
+                                    "Content": "Hey, the 2 dates in the the table under the \"General\" tab are the correct ones. The dates and rooms are fixed.",
+                                    "Response to": "p1085427"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture on 01.07",
+                            "Discussion_Id": "603882",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084159",
+                                    "Author": "Mikhail Farber",
+                                    "DateTime": "2024-06-26T19:09:39+02:00",
+                                    "Content": "Dear DL2 Team,  Will there be a lecture on 01.07?  I asking because since there is no slides from the lecture on 24.06, i assume there were non.  Best Regards",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084194",
+                                    "Author": "Awsam Agbaria",
+                                    "DateTime": "2024-06-26T21:52:14+02:00",
+                                    "Content": "I believe from what I recall being told during the last exercise session that Equivarient NN (lecture 9) was the last lecture.",
+                                    "Response to": "p1084159"
+                                },
+                                {
+                                    "Message_id": "p1084404",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-27T14:31:04+02:00",
+                                    "Content": "Hi, there will be no lecture on 1st of July.",
+                                    "Response to": "p1084159"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture Slides for Equivarient NN",
+                            "Discussion_Id": "603213",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083248",
+                                    "Author": "Awsam Agbaria",
+                                    "DateTime": "2024-06-24T19:56:52+02:00",
+                                    "Content": "Hello DL team,  I, among others found the Equivarient NN slides that were presented during the lecture better in certain aspects than the current slides accessible on ISIS, Would it be possible to upload the slides used in the lecture as well? I know they cover the exact same topics in similar ways, but I do find it easier to track back my notes using the same slides that I saw in the lecture.  Have a lovely day!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084037",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-26T14:40:56+02:00",
+                                    "Content": "Hi Awsam,  I've contacted the lecturer and will upload the slides as soon as he responds.",
+                                    "Response to": "p1083248"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction of x_0",
+                            "Discussion_Id": "602226",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081756",
+                                    "Author": "Elias Bela Hartig",
+                                    "DateTime": "2024-06-19T19:34:08+02:00",
+                                    "Content": "Hello,  I was wondering why the suddenly appears in reformulating the loss function of diffusion models.   Is this jut some kind of mathematical trick? Why does the equality hold? Because of the markov property?  Thank you.  Best, Elias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082057",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-20T15:57:57+02:00",
+                                    "Content": "Hi Elias,  the was also there in the line above the one in the screenshot. There we have a product ranging from and in both the numerator and the denominator we see the term . So, for , becomes . Then we can use the rule of logs to isolate the term only including and .  Does that answer your question? If not just let me know and I will be more thorough with my explanation, and provide a more elaborate derivation of the formula :)",
+                                    "Response to": "p1081756"
+                                },
+                                {
+                                    "Message_id": "p1082174",
+                                    "Author": "Elias Bela Hartig",
+                                    "DateTime": "2024-06-20T23:02:38+02:00",
+                                    "Content": "Hello Marco, I dont mean the second term in the first equation but the second equation, where we turn $$\\frac{1}{q(x_t | x_{t-1})}$$ into $$\\frac{1}{q(x_{t-1} | x_t , x_0)} \\cdot \\frac{q(x_{t-1} | x_0)}{q(x_t | x_0}$$.  I guess we use Markov to obtain $$q(x_t | x_{t-1}) = q(x_t | x_{t-1}, x_0)$$ and Bayes for $$q(x_t | x_{t-1}, x_0) = \\frac{q(x_{t-1} | x_t , x_0) \\cdot q(x_t | x_0) }{q(x_{t-1} | x_0)}$$?  Does the forward diffusion process assume a markov chain?   But I'm not 100% sure. The whole derivation seems quite constructed to me. I mean I can follow the steps but I'm not quite sure of how someone would come up with the specific steps. But maybe you have a deeper intuition for that :)",
+                                    "Response to": "p1082057"
+                                },
+                                {
+                                    "Message_id": "p1082383",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-21T15:30:10+02:00",
+                                    "Content": "Aah okay, now I understand.  1. Yes, Markov property and Bayes rule are the 2 two tools used for that transformation. That it is a markov process is mentioned on slide 19/30 of the lecture, just to reassure.  2. Yeah I also find this step to come a bit out of the blue as if it would be normal to just incorporate variables that aren't really dependend under the markov assumption. And sadly I cannot give you any intuition on that as I don't have it myself. I think oftentime when such derivations are made, the people doing them already intuitively have all the transformations in their head and just bring them to paper somehow, or maybe they just try to apply some transformations until something practical happens haha. In the case of this excercise though, its a bit easier. You have the result given and just need to apply transformations to get to the final solution. If you know, that you somehow need that $$ x_0 $$ there, but can't find it your current step of transforming the equations, now you have learned that you can just include it using the Markov assumption. Think of it maybe as an addition to the toolbox of mathematical transformations that you can use to get from A to B, just as the Bayes rule.  Here is a resource to dig a bit deeper: 1. https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#reverse-diffusion-process (I generally recommend this blog) 2. mentioned in the blogpost, the original paper: https://arxiv.org/abs/1503.03585  Sorry for the unsatisfying answer! In case this is something you are really curious about, I can check with the lecturer and maybe get some deeper intuition to be shared here.",
+                                    "Response to": "p1082174"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Solution of Exercises",
+                            "Discussion_Id": "601480",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080720",
+                                    "Author": "Elias Bela Hartig",
+                                    "DateTime": "2024-06-17T12:48:27+02:00",
+                                    "Content": "Hello,  If I remember correctly it was said that the solutions to the exercises will be uploaded. Will that happen? If so would it be possible to start already with the first ones to already revisit some of the lectures? Thank you. Best, Elias ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081318",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-18T16:41:02+02:00",
+                                    "Content": "Sorry for the huge delay! The solution to the first 4 assignments have been uploaded. The rest (except the last one) will follow tomorrow.",
+                                    "Response to": "p1080720"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW reinforcement",
+                            "Discussion_Id": "599728",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078130",
+                                    "Author": "Julio Cesar Uriostegui Sanchez",
+                                    "DateTime": "2024-06-07T21:43:28+02:00",
+                                    "Content": "Hello,  under the class PPO, function training_step, there is an if statement that seems strange to me:     if batch_idx % 2 == 0:             ...                        return loss_actor     elif batch_idx % 2 == 0:             ...            return loss_critic Could please corroborate it?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081317",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-18T16:39:43+02:00",
+                                    "Content": "Hi Julio,  this must definitely be a mistake. I have tested it and the program still works which seems even more strange to me, and I will investigate it further. For now, just replace it with  if batch_idx % 2 == 0:  ...  return loss_actor  else:  ...  return loss_critic",
+                                    "Response to": "p1078130"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Programming Exercise 8 | Diffusion Models",
+                            "Discussion_Id": "600656",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079503",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-12T16:09:33+02:00",
+                                    "Content": "Dear DL2 Team, I was wondering about the structure of this current notebook. First of all I realised that there is no model checkpointing or model save in the current notebook. So to evaluate the model we need to add this by ourselves right? But it's nowhere stated that this is a task. Second issue I have is that it will take approximately 2h on a CPU to train the model. For sure we could use Colab or have the luxury of a GPU at home. But alright. Third and biggest issue I have is that the first task is for example just a sentence plus this comment:  # TODO implement the forward diffusion process - 10 points # it takes the clean images, the noise and the timesteps as input and returns the noisy images  So we implement in this task the alpha and beta schedulers to add the noise on the images? Then it would be nice to have maybe a hint on the paper or that this is really the task. Because for sure we could use as well the diffusers DDPMScheduler and .add_noise(). So what is the real task?  I am sorry but this topic is so cool and even in a notebook for a homework assignment one could do really cool things with Diffusion Models but in this case I am disappointed from the love with which the task is assigned.  Kind regards, Cederic Aßmann",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079517",
+                                    "Author": "Mikhail Farber",
+                                    "DateTime": "2024-06-12T16:43:57+02:00",
+                                    "Content": "100% Accurate. We thought the same.",
+                                    "Response to": "p1079503"
+                                },
+                                {
+                                    "Message_id": "p1079713",
+                                    "Author": "Sidney Gerrit Christian Bender",
+                                    "DateTime": "2024-06-13T10:04:33+02:00",
+                                    "Content": "Hi, if you run it step by step there is no need to actually checkpoint the model, but if you later want to load it again you can of course implement it.  Moreover, of course you could use diffusers .add_noise()-function, but the point here is that you get a better feeling how that actually happens. The way how to implement it is firstly on the slides and secondly it clearly states that it is DDPM, which is also referenced in the lecture.  The two following tasks, namely implementing DDPM and DDIM and comparing them are a bit more understanding. Of course one could always have better and cooler tasks, but the point of this lecture is not doing fancy very advanced state of the art things with diffusion models, but to give you a basic understanding what happens there, but of course we can do more tricky less straight forward programming tasks in the exam if that is what you want ;)",
+                                    "Response to": "p1079503"
+                                },
+                                {
+                                    "Message_id": "p1079755",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-13T11:26:18+02:00",
+                                    "Content": "Dear Sidney, I am sorry, if I found the wrong words in my critic but from my point of view I stayed on a valid critic about the notebook itself and the way the tasks are assigned. And as I understand this Discussion Forum correct it is exactly for questions, suggestions and critic about the lecture and the homework. In addition to that a course can highly benefit if students respond their opinions on how the teaching material is worth for a positive learning outcome.  So thank you for your answers to my task related questions. We will work that out.  I was really thinking how to deal with (\", but of course we can do more tricky less straight forward programming tasks in the exam if that is what you want ;)\") this sentence from you. Because first of all you put word in my mouth which I definitely haven't said and it results in a behaviour that me in this case or other students won't express critic in the future.  I shouldn't make the topic a bigger thing that it is, I guess.  Kind regards, Cederic",
+                                    "Response to": "p1079713"
+                                },
+                                {
+                                    "Message_id": "p1079772",
+                                    "Author": "Sidney Gerrit Christian Bender",
+                                    "DateTime": "2024-06-13T12:01:36+02:00",
+                                    "Content": "Okay, I'm sorry if i missunderstood your sentence \"Because for sure we could use as well the diffusers DDPMScheduler and .add_noise(). So what is the real task?\" as a critic how we could ask you such simple questions that are below you? Of course that will never have influence on the level of the exam and justified critic is of course always welcome. However, in past exams there were a lot of people not able to solve the most simple programming questions and not everyone has a strong background in computer science who is attending the lecture. If you are really convinced in the majority that our programming exercises are too trivial you can write that in the evaluation, then next year we will hopefully change that, despite the fact that last year there was no such critic.  Furthermore, I still do not even really understand your critic. If I would directly write you the formula for the forward process in diffusion models there without you thinking a bit about the context of what you are doing, maybe recapitulating the lecture slides and maybe look into the there cited DDPM paper for more details, then what would you learn? Furthermore, it is only the first task and there are two more and the point is that you play around a bit with diffusion models without us directly giving you the notebook, but instead forcing you to fill in crucial parts that hopefully make you understand better what happens under the hood in diffusion models.  Lastly, your whole critic is very little constructive beside the hint that we could introduce checkpointing. What would you like us to do to make it faster if you have neither a GPU nor you are willing to use Google Colab? (which should be not that hard if you have a jupyter notebook or am i wrong?) What other parts of the pipeline should we do as fill-ins if not the crucial forward and reverse steps of the diffusion models, which are the core essence and also the point where they vary between each other a lot and where novel architectures like flow matching or consistency models also still improved? Especially, the sentence \" in this case I am disappointed from the love with which the task is assigned\" after so little justification what else would be better is not constructive critic, but harsh judgement.  Best, Sidney",
+                                    "Response to": "p1079755"
+                                },
+                                {
+                                    "Message_id": "p1079808",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-13T12:59:24+02:00",
+                                    "Content": "Thank you for your detailed answer. First of all if we could discuss face to face, I think we wouldn't have so much misunderstandings and would realise that we generally want the same things. And I really appreciate that you take your time.  To the first section to make my point clear: I would have wished that it says somelike in the notebook. \"Based on the lecture and the paper we presented in the lecture, we want you to implement the algorithm xy\". Then it is clear that we aren't allowed to use the noise scheduler from diffusers.  To the second section: I agree totally with you and like your viewpoint on how we as students should do the assignments.  To the third section: I would like to apologize again on my harsh judgement. That was not goal-oriented. You are right. My suggestion would be to implement the forward diffusion process and then let us visualise at different time steps the noisy images. So we study the idea of schedulers and the forward diffusion process. If I got it correct then you could assign the further task like, \"training of those models is highly compute intense, therefore we load a pretrained noise prediction model with which we implement then the reverse diffusion DDIM and DDPM.\" Could this be an option for the future?  Kind regards, Cederic",
+                                    "Response to": "p1079772"
+                                },
+                                {
+                                    "Message_id": "p1079822",
+                                    "Author": "Sidney Gerrit Christian Bender",
+                                    "DateTime": "2024-06-13T13:24:10+02:00",
+                                    "Content": "Hi,  if you will attend the exercise session in two weeks you will get the chance to utter this critic also in person and avoid missunderstandings.  I now finally understand what your critic actually means and i see how this is described very confusing. Our exercise sheet says we are using the huggingface library, but in the end we want you to implement the noising function yourself, that we should definitely change. I was already confused why you are referring to the fact that the task is just to trivial while at the same time demanding that i directly tell you how to do it exactly.  If you attend the exercise session you will also see that in fact in the solution of the notebook there will be visualizations of the noisy images at different noise levels and visualizations of the x0-predictions at different noise levels and how they will improve when continuing training. Would it be more helpful to directly give you this as well? I thought you will play around and do such visualizations yourself anyway and it would just clutter the code if i do not explain what i did there.  Also we could think about shipping a checkpoint next year, but I'm not sure whether isis will be that happy with that.  Best, Sidney",
+                                    "Response to": "p1079808"
+                                },
+                                {
+                                    "Message_id": "p1079893",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-13T15:33:07+02:00",
+                                    "Content": "Hi,  alright, I have to see if I can attend it. But I have the feeling that we both already understood what the other ones intention was.  Yes, you are right regarding the visualisations. While solving the task one does such visualisations either.  I have done the exercise regarding the reverse DDIM and DDPM now with the support of:  model = UNet2DModel.from_pretrained('1aurent/ddpm-mnist')  a pretrained UNet2DModel from the Hugginface Community. This could be an option, I guess. It worked pretty good and we are nevertheless enforced to implement the whole sampling routine.  So again, I am sorry for the first kind of emotional and unfair message I wrote.  Kind regards, Cederic",
+                                    "Response to": "p1079822"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question regarding Lecture 7, Slide 7/33",
+                            "Discussion_Id": "599031",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077146",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-05T09:12:02+02:00",
+                                    "Content": "Dear DL2 Team, I was wondering about the statement about the conclusive formula of the Bellmann equation. I this case the Transition between state s' and s^(t) is multiplied onto the controlled reward function (immediate reward) which consists of sum over pi(.) and R(.) and onto the expected discounted value of the successor state. But as I understood it correct the sum over T(.) should be just multiplied onto the term with the discount factor gamma. Another hint that there might be something wrong in the slide is the Bellmann Operator: v^pi = r^pi + gamma * T^pi * v^pi. I hope that I stated my question clear. Best, Cederic",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078025",
+                                    "Author": "Marco Rosinus Serrano",
+                                    "DateTime": "2024-06-07T14:38:57+02:00",
+                                    "Content": 

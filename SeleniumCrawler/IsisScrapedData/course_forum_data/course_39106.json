@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Quality and Usability Seminar: Exploring Political Biases and Disinformation Detection through HCI Experiments",
+        "Course_id": "39106",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1816845",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Seminar is CANCELED! ",
+                            "Discussion_Id": "589429",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062369",
+                                    "Author": "Vera Schmitt",
+                                    "DateTime": "2024-04-24T15:03:29+02:00",
+                                    "Content": "Dear all,  Unfortunately, we need to cancel this seminar, as too less students registered for it. Kind regards",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Overview",
+                            "Discussion_Id": "586007",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057118",
+                                    "Author": "Charlott Frederike Jakob",
+                                    "DateTime": "2024-04-15T14:29:16+02:00",
+                                    "Content": "Time and Location The seminar will be in English and will take place in person at the TEL building. We will meet there on Wednesdays from 2 to 4 PM in room 209. Since the seminar mainly involves group work, online participation is only possible in exceptional cases and must be registered in advance. Introductory Session will be online (due to water damage in the TEL building) Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/68942240617?pwd=M3k5UDliZXpGbW92MnZ3djFYRWw0UT09  Meeting-ID: 689 4224 0617 Kenncode: 365533 Topic Detecting misinformation is becoming increasingly crucial for our society. In this regard, we aim to examine the impact of political bias, which exists in individuals' political opinions and within articles through the presence of certain language and narratives. The goal is to determine whether pointing out the existence of political bias within an HCI (Human-Computer Interaction) system can aid in recognizing false information. In the first two sessions of the seminar, we will cover the basics of fake news detection and political bias, as well as the fundamentals of experimental design. In the remainder of the course, we will collaboratively develop an experimental platform and conduct the experiments as a crowdsourcing study. At the end, we will collectively analyze the results. Grading In the third session (May 8, 2024), short presentations on the existing literature will be held. Subsequent sessions will focus on developing the experimental design, implementation, and execution in groups. In the last two sessions, results will be analysed and presented in a plenary setting. The grading breakdown is as follows: Literature presentation: 20% Experiment implementation and execution: 30% Results analysis and presentation: 30% Written report (4 - 6 pages): 20% Registration Please read this section carefully and in its entirety. Pay attention to the two-stage process for registration. Furthermore, the following description is exclusively for Master's students. The seminar is primarily aimed at Master's students, however, Bachelor's students can also apply via the Seminar Meta-Course: https://isis.tu-berlin.de/enrol/index.php?id=37061 On the first day of the seminar, April 17th, we will inform you about the seminar's contents and mode of execution. You are expected to attend this session. To register for the seminar, please contact Yasmin Hillebrenner (yasmin.hillebrenner@tu-berlin.de) by email by April 23rd (11:59 PM). The following information is required: Name of the module (Quality and Usability) + Seminar topic (Exploring Political Biases and Disinformation Detection through HCI Experiments ) Name Student ID number Degree program (specifying Bachelor or Master) Current semester Registration as an elective/free choice or additional module On April 24th, we will evaluate all registration requests and notify you whether you have secured a spot or are on the waiting list. If you have obtained a spot, you must register in MOSES MTS for the module by April 30th (11:59 PM). MTS registrations without prior confirmation of participation by us or Ms. Hillebrenner will not be accepted. Spaces on the waiting list will be allocated after April 30th or if any registrations are withdrawn.  (Geändert von Vera Schmitt - Originaleintrag Montag, 15. April 2024, 14:29) (Geändert von Vera Schmitt - Originaleintrag Montag, 15. April 2024, 14:29)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

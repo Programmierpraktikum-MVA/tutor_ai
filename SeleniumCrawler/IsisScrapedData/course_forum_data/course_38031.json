@@ -1,0 +1,217 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] IV Sustainable Energy Supply in On- and Off-grid Systems",
+        "Course_id": "38031",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1776863",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam and Q&amp;A",
+                            "Discussion_Id": "605567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086598",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-07-04T15:06:00+02:00",
+                                    "Content": "Dear all, the Q&A session will be held Tuesday 16.07.24 10:15 am via Zoom (see Q&A Zoomlink). The session is optional and I will just answer your questions. The exam will be held Tuesday 23.07.24 10:00 am in room VLB E15 (ground floor). Doors are open at 10:00 am, exam start will be 10:15 am. The exam duration will be 60 min and it will cover the theoretical content of the module, you do not need to calculate a lot or write any programmig code. We will provide you with paper.  Best regards Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Module evaluation",
+                            "Discussion_Id": "605451",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086428",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-07-04T09:58:00+02:00",
+                                    "Content": "Dear all, please fill out the evaluation of our module. We will also use the last 10min of todays lecture to do this. https://befragung.tu-berlin.de/evasys/online.php?pswd=Y6C54 Thanks to help us improving SES. Best regards Fabian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086595",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-07-04T15:00:28+02:00",
+                                    "Content": "The evaluation is open until tomorrow 05.07.24 Please fill it out until tomorrow.  Best regards Fabian",
+                                    "Response to": "p1086428"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "On-grid: Exercise 4 Detailed oemof model",
+                            "Discussion_Id": "599395",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077658",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-06-06T12:45:23+02:00",
+                                    "Content": "Dear all, I found the error in the Spyder file of the todays exercise, which caused the different results. I missed the argument summed_max=1 in the definition of the biomass source. This caused that more biomass than our set biomass potential in the Excel file was used. We will discuss this and some more points at the beginnig of our next lecture/exercise at Tuesday 18.06. 10:15 am. After this we will start with the off-grid part. You find now the updated sample_solution of the todays exercise online: exercise_energysystem2_solution.zip Best regards and have fun with the oemof model Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "understanding the german energy system",
+                            "Discussion_Id": "593561",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068737",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-05-10T09:32:25+02:00",
+                                    "Content": "Dear all, yesterday Germany had more than 100% renewable electricity generation compared to its electric load. And it seems that we will have a comparable situation today. These figures you can nicely see online here: https://www.energy-charts.info/charts/consumption_advice/chart.htm?l=de&c=DE&datetimepicker=09.05.2024 You can imagine that exchange prices fell and became even negative as we had just too much electricity in the grid, see here: https://www.energy-charts.info/charts/price_spot_market/chart.htm?l=de&c=DE The webpage Netztransparenz also publishes the necessary Redispatch data, you can find here: https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsf%C3%BChrung/Redispatch  On these days you can understand how a 100% renewable energy system works quite good and what challenges still need to be solved. We need more flexibility in our system and flexible markets! Some of these issues are discussed in the lectures energy market and flexibility. I hope these real life data motivates you to go deeper into these topics. Best Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First exercise tomorrow 25.04. 10:15am",
+                            "Discussion_Id": "589535",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062525",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-04-24T17:27:54+02:00",
+                                    "Content": "Dear all, tomorrow our first hands-on exercise on PV modeling in Python starts at 10:15am in room VLB 4.10. There is a gate keeper in the VLB building, you probably need to state your name and that you want to participate at a TUB lecture. He is informed. You find the exercise documents in a zip file already online at Isis, pelase download this before the exercise. See you tomorrow. Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom link - Python Installation Consultation",
+                            "Discussion_Id": "586953",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058445",
+                                    "Author": "Taher Muhammedali Taher Muhammedali",
+                                    "DateTime": "2024-04-17T15:29:28+02:00",
+                                    "Content": "Please find the zoom link below for tomorrow's Python/Oemof/CBC installation consultation session Zoom Link Kindly note, that this session is only for students who need troubleshooting for their python setups. If you were able to install and configure Python/Oemof/CBC on your own, it is not required to join this session.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to SES SS 2024",
+                            "Discussion_Id": "585824",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056843",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-04-15T09:27:38+02:00",
+                                    "Content": "Dear students, welcome to the module “Sustainable energy supply in on- and off-grid systems” in SS 2024. Our first meeting will be tomorrow Tuesday 16.04.24 10:15 – 11:45 o’clock. The meeting will be in-person held in room EW 202 at the main campus. It is not taking place in room C 130! Unfortunately, we have a maximum number of 30 participants. Therefore, it is mandatory to participate in-person in this first meeting. In case this is not possible for you, please write an email to fabian.schmid@tu-berlin.de We are looking forward to see you! Fabian and Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Organisational questions",
+                    "Forum_id": "1776864",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Recordings Off-Grid",
+                            "Discussion_Id": "604678",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085349",
+                                    "Author": "Philipp Blechinger",
+                                    "DateTime": "2024-07-01T14:12:11+02:00",
+                                    "Content": "Dear All, the recordings for the off-grid sessions are now available. In addition to the two live sessions of last week you can also find the recordings of a previous semester for the other off-grid lectures. Best, Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom link for lecture - 27.06.2024",
+                            "Discussion_Id": "603953",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084260",
+                                    "Author": "Thilo Ralph Peter Schaufler",
+                                    "DateTime": "2024-06-27T10:17:28+02:00",
+                                    "Content": "Dear all, it seems that the provided zoom link doesn't work currently. Is there another one or are we still waiting to enter? Thank you very much, Thilo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084263",
+                                    "Author": "Julius Felsberg",
+                                    "DateTime": "2024-06-27T10:18:30+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1084260"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom Link",
+                            "Discussion_Id": "603954",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084261",
+                                    "Author": "Maximilian Titus Heine",
+                                    "DateTime": "2024-06-27T10:18:01+02:00",
+                                    "Content": "Hello,  I can´t find the zoom link for todays lecture. Could you post it here?  Best regards Maximilian ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline for 1. HW assignment ",
+                            "Discussion_Id": "590952",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064676",
+                                    "Author": "Emily Ethel Gertraud Jansen",
+                                    "DateTime": "2024-04-29T17:35:05+02:00",
+                                    "Content": "Hello! Is the deadline for the first homework assignment this Wednesday or Friday? On the schedule it’s says 01.05. but on Isis it’s 03.05. Thank you for clarifying!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064721",
+                                    "Author": "Fabian Schmid",
+                                    "DateTime": "2024-04-29T18:24:47+02:00",
+                                    "Content": "Hi, the official deadline is 01.05.24 23:59. In case you have problems to hold this deadline please write me a short message and you can still upload it later. Best regards Fabian",
+                                    "Response to": "p1064676"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Content-related questions Off-grid part",
+                    "Forum_id": "1776866",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Homework - Simplified Planning Tool  I  5c)",
+                            "Discussion_Id": "606403",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087777",
+                                    "Author": "Thilo Ralph Peter Schaufler",
+                                    "DateTime": "2024-07-08T19:10:15+02:00",
+                                    "Content": "Hello, I was wondering what average we should take for question 5c, since we are running a scenario and can'tn really compare those to a specific system sizing of the other alternatives discussed. It says \"Run the scenarios simplified: Compare the average LCOE with the optimal PV-battery-Diesel hybrid System and with the Diesel only system\" that is why I was wondering.  Thank you very much, Thilo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087807",
+                                    "Author": "Taher Muhammedali Taher Muhammedali",
+                                    "DateTime": "2024-07-08T20:58:46+02:00",
+                                    "Content": "You can simply consider the lowest LCOE of the Wind hybrid system and compare it with PV hybrid and Diesel only systems.",
+                                    "Response to": "p1087777"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

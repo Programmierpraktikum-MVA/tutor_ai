@@ -1,0 +1,16 @@
+[
+    "Aktivität Slides on channel capacity (chapter 4) with class notes auswählen",
+    "Slides on channel capacity (chapter 4) with class notes",
+    "Datei",
+    "Hochgeladen 7.06.2024 08:13",
+    "Aktivität Matlab code for the Blahut Arimoto algorithm auswählen",
+    "Matlab code for the Blahut Arimoto algorithm",
+    "Datei",
+    "Try this code for the BSC with input Hamming cost:",
+    "transition matrix P = [[0.9 0.1];[0.1 0.9]];",
+    "input cost function b = [0, 1];",
+    "use a sequence of lagrangian mutipliers lambda = [0.01:0.1:10]",
+    "Plot the resulting CC as a function of BB: plot(BB,CC)",
+    "and compare with the closed-form capacity C(B) obtained in class (see slides).",
+    "Hochgeladen 7.06.2024 08:20"
+]

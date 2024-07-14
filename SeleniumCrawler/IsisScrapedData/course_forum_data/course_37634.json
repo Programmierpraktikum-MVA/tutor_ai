@@ -1,0 +1,1236 @@
+[
+    {
+        "Course_Name": "Analysis II für Ingenieurwissenschaften SoSe 2024",
+        "Course_id": "37634",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766199",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fehler in der Vorlesung",
+                            "Discussion_Id": "605683",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086759",
+                                    "Author": "Gabriele Penn-Karras",
+                                    "DateTime": "2024-07-05T09:32:22+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer der Vorlesung Do 10-12 im HE 101, in der Vorlesung ist leider ein Fehler passiert: Die y-Koordinate der Torus-Parametrisierung muss selbstverständlich lauten (R+r cos(t)) sin(phi). In der hochgeladenen Mitschrift (Vorlesung 22, Seite 3) ist der Fehler gekennzeichnet und korrigiert. Ich wünsche allen einen erfolgreichen Endspurt! Gabriele Penn-Karras",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation VL",
+                            "Discussion_Id": "600267",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078945",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-11T12:22:38+02:00",
+                                    "Content": "Liebe Hörer und Hörerinnen der Vorlesung(en),  bitte nehmen Sie bis spätestens zum 29. Juni an der Lehrevaluation Ihrer Vorlesung teil. Diese ist anonymisiert und hilft bei der Verbesserung zukünftiger Lehrveranstaltungen, weswegen wir Ihnen für eine Teilnahme dankbar wären. Die Links finden Sie hier:  - Vorlesung von Frau Dr. Penn-Karras  - Vorlesung von Herrn Priv.-Doz. Dr. Winkert  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084627",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-28T10:54:56+02:00",
+                                    "Content": "Liebe Hörer und Hörerinnen der Vorlesung(en),  bitte nehmen Sie bis spätestens heute Abend, 28. Juni, 23:59 Uhr an der Lehrevaluation Ihrer Vorlesung teil. Diese ist anonymisiert und hilft bei der Verbesserung zukünftiger Lehrveranstaltungen, weswegen wir Ihnen für eine Teilnahme dankbar wären. Die Links finden Sie hier:  - Vorlesung von Frau Dr. Penn-Karras  - Vorlesung von Herrn Priv.-Doz. Dr. Winkert  Die Evaluationen sind im Vergleich zu früheren Semester kürzer; es ist also für Sie ein verschwindender Aufwand und uns hilft es durchaus weiter.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1078945"
+                                },
+                                {
+                                    "Message_id": "p1084875",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-29T10:43:40+02:00",
+                                    "Content": "Liebe Hörer und Hörerinnen der Vorlesung(en),  eine gute Nachricht: Auch heute können Sie noch an der Evaluation teilnehmen.  Die schlechte Nachricht: Die deutsche Nationalmannschaft wird laut Nilpferdorakel des Berliner Zoos nur dann eine Chance aufs Weiterkommen haben, wenn mindestens 50 % von Ihnen an der Evaluation teilnehmen. Nicht vergessen: Dänen lügen nicht.  Bitte nehmen Sie daher bis spätestens heute Abend, 29. Juni, 21:00 Uhr an der Lehrevaluation Ihrer Vorlesung teil. Diese ist anonymisiert und hilft bei der Verbesserung zukünftiger Lehrveranstaltungen, weswegen wir Ihnen schon aus diesem Grund für eine Teilnahme dankbar wären. Die Links finden Sie hier:  - Vorlesung von Frau Dr. Penn-Karras  - Vorlesung von Herrn Priv.-Doz. Dr. Winkert  Die Evaluationen sind im Vergleich zu früheren Semester kürzer; es ist also für Sie ein verschwindender Aufwand und uns hilft es durchaus weiter.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1078945"
+                                },
+                                {
+                                    "Message_id": "p1085026",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-30T16:48:57+02:00",
+                                    "Content": "Liebe Hörer und Hörerinnen der Vorlesung(en),  wir danken für die Teilnahme an der Evaluation, die erste Hürde ist also genommen. Zu der Frage des Zusammenhangs von Viertelfinale und Vektoranalysis liegen leider noch keinen vollständigen Orakeldaten vor.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1078945"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Digitale Hausaufgabe 7",
+                            "Discussion_Id": "600986",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079998",
+                                    "Author": "Jannis Halbey",
+                                    "DateTime": "2024-06-13T20:27:59+02:00",
+                                    "Content": "Liebe Studierenden, wir wurden darauf aufmerksam gemacht, dass es bei der digitalen Hausaufgabe 7 in der dritten Aufgabe eine uneindeutige Formulierung gab. Wir haben die Frage ausgebessert, jedoch wurde nicht bei allen Studierenden die neue Version angezeigt. Um diesen Nachteil auszugleichen, haben wir den Test jetzt einen zweiten Versuch erlaubt und die Abgabefrist auf Montag 17. Juni um 23:59 Uhr verlängert. Bei einem neuen Versuch wird immer die aktuellste Version der Fragen geladen. Sie können also noch einen zweiten Versuch des Tests starten und haben garantiert die aktuelle Version der Fragen. In der Bewertung wird der Bessere der beiden Versuch gewertet. Mit freundlichen Grüßen Ihr Analysis II Ing. Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfung",
+                            "Discussion_Id": "600923",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079910",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-13T16:07:53+02:00",
+                                    "Content": "Liebe Hörer:innen,  bitte beachten Sie die aktualisierten Informationen zur Klausuranmeldung: Die Klausuranmeldung (auch für Freie Wahl-/Zusatzmodule) erfolgt grundsätzlich in MOSES unter  MTS/Modulprüfungen/Modul #20130: Analysis II für Ingenieurwissenschaften,  vgl. die Graphik unten. Bitte achten Sie insbesondere auf die korrekte Modulnummer 20130.  Mit freundlichen Grüßen  E. Emanuel Rapsch  ----------",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden Tutor:innen",
+                            "Discussion_Id": "599523",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077839",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-06T20:38:03+02:00",
+                                    "Content": "Liebe Hörerinnen und Hörer,  ab kommender Woche, d.h. ab Montag, den 10.06. werden die Sprechstunden der Tutoren und Tutorinnen im Raum MA 850 stattfinden, bei Platzmangel wird ggf. zusätzlich der benachbarte Raum MA 851 genutzt werden. Grund dafür ist, dass es teils Beschwerden wegen der zu geringen Raumgröße bei Sprechstunden gab. Darauf reagieren wir mit dieser Änderung.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien",
+                            "Discussion_Id": "594528",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070283",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-15T09:02:19+02:00",
+                                    "Content": "Liebe Hörer:innen,  aus gegebenem Anlass möchte ich darauf hinweisen, dass die Tutorien ein wichtiger Bestandteil der Veranstaltung sind. Wenn Sie sich fragen, womit Sie Ihre Chancen für das Bestehen der Klausur erhöhen können, so ist einer der wesentlichen Bestandteile der Antwort: Besuchen Sie ein Tutorium; \"löchern\" Sie Ihren Tutor mit Ihren Fragen; lernen Sie (durch naives Versuchen -- Fragen ist ja Ihr gutes Recht als Student:in), wie man die richtigen Fragen stellt; folgen Sie den Ausführungen Ihrer Tutorin aufmerksam. Das alles verlangt etwas Disziplin und Anstrengung, aber wenn Sie auch das erlernen und in der Folge durchziehen, glauben Sie mir, so wird es Ihnen in Zukunft gelohnt.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071092",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-16T20:28:14+02:00",
+                                    "Content": "Liebe Hörer:innen der Ana2Ing,  da Montag eine Feiertag sein wird, bitten wir diejenigen Student:innen mit einem Montags-Tutorium kommende Woche ausnahmsweise ein Tutorium an einem der anderen Wochentage zu nutzen. Bitte nutzen Sie vor allem Termine um 8 Uhr morgens, 16 Uhr nachmittags, oder am Freitag, da bei anderen Terminen ein höheres Risiko besteht, dass kein Platz mehr für Sie übrig bleibt. Im Zweifel haben (pünktlich erscheinende) Student:innen, die in Ihrem \"Stammtutorium\" sind, Priorität. Die Termine zu Randzeiten haben aktuell noch freie Plätze übrig.  Im Namen des gesamten Teams wünsche ich Ihnen ein frohes Pfingstfest.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1070283"
+                                },
+                                {
+                                    "Message_id": "p1075920",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-31T17:22:44+02:00",
+                                    "Content": "Liebe Besucher der Tutorien von Nico und Nabil,  wir wurden diese Woche von einer anderen Mathe-Veranstaltung kontaktiert, dass der Raum MA 848 als Lernraum für ihre Vorlesung genutzt wird.  Bitte beachten Sie, dass wir deshalb die beiden Tutorien, die bis dato in diesem Raum stattfanden (Nico Do 12-14 Uhr und Nabil Fr 8-10 Uhr) ab kommender Woche in den Raum MA 144 verlegen werden.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1070283"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung",
+                            "Discussion_Id": "595050",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071088",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-16T20:22:47+02:00",
+                                    "Content": "Lieber Hörer:innen der Ana2Ing,  die Vorlesung von Frau Dr. Penn-Karras am Dienstag, den 21. Mai um 8 Uhr wird ausfallen. Hintergrund ist, dass der Montag aufgrund des Pfingstfestes ein Feiertag sein wird, an diesem Tag also keine Vorlesungen stattfinden werden, und dass in der Vergangenheit aufgrund Christi Himmelfahrt weitere Vorlesungen ausgefallen sind. Um die verschiedenen Vorlesungsstränge \"für große n \" zu synchronisieren, wird also nun auch kompensatorisch eine Vorlesung am Dienstag ausfallen. Sie müssen deswegen nicht gesondert vorarbeiten oder dergleichen, wenngleich wir grundsätzlich natürlich ein gewissenhaftes Vor- und Nacharbeiten nahelegen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgaben",
+                            "Discussion_Id": "593416",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068498",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-08T19:52:08+02:00",
+                                    "Content": "Liebe Hörer:innen der Analysis II für Ingenieurswissenschaften,  aufgrund technischer Störungen kann es bei der Bewertung der schriftlichen Hausaufgabe 1 zu Verzögerungen kommen. Wir stehen im Kontakt mit Innocampus, um die Situation besser einschätzen zu können und Ihnen baldestmöglich genauere Informationen zukommen zu lassen. Wir bitten Sie um Verständnis.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069661",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-13T17:04:03+02:00",
+                                    "Content": "Liebe Hörer:innen der Analysis II für Ingenieurswissenschaften,  der in der Nachricht vom 8.5. um 19:52 Uhr genannte Fehler wurde in der letzten Woche behoben. Korrekturen funktioniere wie gewohnt. Es sollte nicht zu Verzögerungen kommen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1068498"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisation",
+                            "Discussion_Id": "585355",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056143",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-10T18:36:41+02:00",
+                                    "Content": "Liebe Teilnehmer/innen dieses Kurses,  zunächst \"Willkommen\" auch von dieser Seite! Wir freuen uns auf das kommende Semester und die LV in Analysis mit Ihnen.  Bitte denken Sie an all die Dinge, die auf ISIS bekanntgegeben wurden, insbesondere folgendes: Die Anmeldung zu den Tutorien erfolgt bis zum Mittwoch, 17.04.2024, 18:00 Uhr über MOSES. Eine spätere Anmeldung ist nicht möglich!  Mit freundlichen Grüßen  E. Emanuel Rapsch, stv. für das gesamte Lehr-Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057940",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-16T18:49:55+02:00",
+                                    "Content": "Liebe Teilnehmer/innen dieses Kurses,  wir hoffen, dass Sie gut in die erste Woche gestartet sind.  Bitte beachten: Letzter Aufruf für die Tutorienanmeldung! Die Anmeldung zu den Tutorien erfolgt bis zum Mittwoch, 17.04.2024, 18:00 Uhr über MOSES. Eine spätere Anmeldung ist nicht möglich!  Mit freundlichen Grüßen  E. Emanuel Rapsch, stv. für das gesamte Lehr-Team",
+                                    "Response to": "p1056143"
+                                },
+                                {
+                                    "Message_id": "p1059427",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-19T10:53:15+02:00",
+                                    "Content": "Liebe Hörer:innen der Analysis II für Ingenieure,  ich hoffe, dass Sie gut im neuen Semester und in der Analysis II angekommen sind. Da dies ein großer und grundlegender Kurs ist, gibt es einige organisatorische Dinge zu klären. Diese Ankündigung enthält nun wichtige organisatorische Informationen zum Semesterstart. Bitte lesen Sie sich diese sorgfältig durch.  1. Die Tutorieneinteilung ist abgeschlossen. Sollten Sie keinem Tutorium zugeteilt worden sein, den zugeteilten Termin aus wichtigem Grund (z.B. aufgrund unerwartbarer Überschneidung mit einer anderen Lehrveranstaltung) nicht wahrnehmen können, oder die Tutoriumsanmeldung verpasst haben und trotzdem teilnehmen wollen, so besuchen Sie bitte in der kommenden Woche ein Tutorium am Montag oder Dienstag ab 14 Uhr, am Donnerstag um 8 oder 16 Uhr oder am Freitag vor 16 Uhr, und melden sich dort bei der Tutorin / dem Tutor, die / der über die Aufnahme entscheidet, und auch aus dem Grund, dass Sie für den Fall der Annahme auch formal nachträglich im entsprechenden Tutorium registriert werden. Der Tutor bzw. die Tutorin wird Sie dann ggf. in Moses in das entsprechende Tutorium ein- bzw. umtragen.  2. Bei Fragen wenden Sie sich bitte an die unten \"Bei Fragen\" genannten Ansprechpartner. Ihr erster Ansprechpartner bei Fragen, die der Mathe-Service oder das Innocampus-Team nicht betreffen, ist Ihr:e Tutor:in, sowohl für organisatorische als auch fachliche Fragen. Dabei stehen Ihnen verschiedene Wege offen: das Tutorium, die Sprechstunde, per E-Mail. Während oder im Anschluss an die Vorlesung können Sie bei fachlichen Fragen ggf. auch den / die jeweilige:n Dozent:in direkt mündlich ansprechen. Sollte Ihr Anliegen auf keinem der genannten Wege Klärung erfahren, so können Sie uns auch unter ana2-ing-sose@math.tu-berlin.de erreichen. Eine Antwort erhalten Sie hier innerhalb von 1 bis 3 Arbeitstagen.  3. Die Bearbeitung und Abgabe der digitalen Hausaufgaben erfolgt allein. Die Bearbeitung und Abgabe der schriftlichen Hausaufgaben erfolgt in Dreier-Gruppen. Sie müssen dabei Gruppen innerhalb Ihres Tutoriums, im Ausnahmefall aber mindestens bei der:mselben Tutor:in bilden. Bitte tragen Sie sich über das ISIS-Tool Hausaufgaben-Gruppen in eine Gruppe ein. Wichtig: Tun Sie dies unbedingt VOR Ihrer ersten Abgabe und wechseln Sie danach nicht (bzw. im Ausnahmefall nicht ohne vorherige Absprache mit Ihrem:r Tutor:in). Ansonsten kommt es zu Fehlern bei der Bewertung Ihrer Abgabe und ggf. derjenigen Ihrer vorherigen Gruppe; im Zweifelsfall werden Ihre Abgaben dann nicht gewertet. Hausaufgaben können zwei Wochen lang bearbeitet werden. Die Abgabefrist ist stets Freitag, um 23:59 Uhr; das erste Datum ist der 3. Mai.  4. Die Liste der Tutorien und Sprechstunden wird im Laufe des Tages hochgeladen.  5. Es gibt nun diverse Foren auf ISIS. Davon enthält eines die wichtigen Ankündigungen unsererseits. Zudem gibt es das Forum für fachliche Fragen und das Forum für organisatorische Fragen. Dort können Sie uns Fragen stellen, die von allgemeinem Interesse, Fragen also, von denen Sie davon ausgehen können, dass Sie viele von Ihnen haben und von deren Antwort viele von Ihnen profitieren. Dann gibt es ein Diskussionsforum für Student:innen, in das sich das Lehr-Team nicht einmischt. Außerdem gibt es ein Tutorien-Forum. Hier hat jede:r Tutor:in einen Abschnitt, in dem nur die / den jeweilige:n Tutor:in betreffende Themen diskutiert werden. Abonnieren Sie bitte den Abschnitt Ihrer:s Tutors:in.  Diese Informationen sind momentan auch auf ISIS unter der Rubrik Aktuelles abrufbar und werden in dieser Form im Forum Ankündigungen dauerhaft einsehbar sein.  Mit freundlichen Grüßen  E. Emanuel Rapsch, stv. für das Lehr-Team",
+                                    "Response to": "p1056143"
+                                },
+                                {
+                                    "Message_id": "p1061070",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-22T18:04:50+02:00",
+                                    "Content": "Lieber Hörer:innen der Analysis II für Ingenieure,  aufgrund mehrere Anfragen in diese Richtung hat es zu Punkt 3 Änderungen gegeben. Sie können Ihre Gruppe bis zum 3. Mai wählen, und in diesem Zeitraum auch beliebig wechseln. Wichtig ist dabei aber, dass Sie wie auch Ihre möglichen früheren Gruppenpartner und Ihre neuen Gruppenpartner erst dann definitiv abgeben, wenn die Gruppenwahl abgeschlossen ist. Folgend der vollständige geänderte Text.  Die Abgabe der schriftlichen Hausaufgaben erfolgt in Dreier-Gruppen. Sie müssen dabei Gruppen innerhalb Ihres Tutoriums, im Ausnahmefall aber mindestens bei demselben Tutor bilden. Bitte tragen Sie sich bis allerspätestens zum 3. Mai über das Tool Hausaufgaben-Gruppen in eine Gruppe ein. Wichtig: Geben Sie unbedingt erst NACH der erfolgten Gruppenwahl aller beteiligten Personen ab (dies schließt auch frühere Gruppenmitglieder ein). Ansonsten kommt es zu Fehlern bei der Bewertung Ihrer Abgabe und ggf. derjenigen Ihrer vorherigen Gruppe; im Zweifelsfall werden Ihre Abgaben dann nicht gewertet.  Im übrigen sei an dieser Stelle noch einmal bestätigt, dass es sowohl auf Online- als auch auf schriftliche HAs jeweils 10 Punkte gibt; insgesamt können also 2 x 11 x 10 = 220 erreicht werden. Für den Erhalt des Leistungsnachweises müssen Sie mindestens 60 % davon (= 132 Punkte) erhalten.  Mit freundlichen Grüßen  E. Emanuel Rapsch, stv. für das Lehr-Team",
+                                    "Response to": "p1059427"
+                                },
+                                {
+                                    "Message_id": "p1065992",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-02T16:44:19+02:00",
+                                    "Content": "Lieber Hörer:innen der Analysis II für Ingenieure,  es sei noch mal darauf hingewiesen, dass morgen die Frist für die formale Wahl der Hausaufgabegruppe auf ISIS abläuft und die erste Hausaufgabe abgegeben werden sollte. Bitte beachten Sie alle Hinweise zur Hausaufgabenabgabe; insbesondere bitte erst abgeben, nachdem alle Gruppenmitglieder Ihrer Gruppe beigetreten sind!  Sie sind nachdrücklich dazu angehalten, in Dreier-Gruppen abzugeben. Die Tutor:innen sind Ihnen bei der Partner:innensuche gerne behilflich. Zögern Sie bitte nicht, Ihre:n Tutor:in anzusprechen. Abgaben in Einzelgruppen werden ab der zweiten Woche mit null Punkten bewertet, es sei denn, es gibt dafür wichtige Gründe (z.B. weil Sie trotz mehrmaligen direkten Gesprächs mit Ihrem:r Tutor:in keine Partner:innen gefunden haben); wir werden ein ähnliches Vorgehen für den Fall gehäuften Vorkommens von Zweier-Gruppen prüfen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1059427"
+                                },
+                                {
+                                    "Message_id": "p1063223",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-25T19:44:55+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer dieses Kurses,  ich möchte Sie darauf hinweisen, dass nächste Woche Mittwoch, den 1. Mai ein Feiertag ist. Die deswegen entfallenden Vorlesungen und Tutorien werden nicht nachgeholt. Bitte beachten Sie, dass die diversen Feiertage im weiteren Verlauf des Semesters zu weiteren Ausfällen von Vorlesungsterminen führen werden. Die Vorlesungen werden so organisiert, dass alle drei Vorlesungsstränge am selben Punkt enden, wenngleich sie teilweise nicht vollkommen parallel sein werden. Es ist daher keine gute Idee, die Vorlesungen Ihres Vorlesungsstrangs ausfallen zu lassen, so sie nicht auf den Feiertag fallen. Bezüglich des Tutoriums empfehlen wir den ausnahmsweisen Besuch eines alternativen Termins in derselben Woche.  Mit freundlichen Grüßen  E. Emanuel Rapsch, stv. für das gesamte Lehr-Team",
+                                    "Response to": "p1056143"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung am 29.04.2024 14-16 Uhr -&gt; EB 301",
+                            "Discussion_Id": "590694",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064275",
+                                    "Author": "Patrick Winkert",
+                                    "DateTime": "2024-04-29T11:11:41+02:00",
+                                    "Content": "Liebe Studierende,  beachten Sie bitte, dass die heutige Vorlesung von 14 - 16 Uhr einmalig im EB 301 stattfinden wird.  Viele Grüße, Patrick Winkert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tag der Mathematik",
+                            "Discussion_Id": "588600",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061086",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-22T18:20:14+02:00",
+                                    "Content": "Liebe werdende Ingenieure, Mathematikerinnen, Naturwissenschaftler und sonstige Student:innen,  in Berlin findet jedes Jahr der Tag der Mathematik statt, eine Veranstaltung von Wissenschaftler:innen und Studis für Schüler:innen und Lehrer. So auch dieses Jahr am 4. Mai. Teil dessen ist ein Mathe-Wettbewerb. Dafür werden Helfer:innen gesucht. Hauptsächlich brauchen wir Aufsichtspersonen, die den Wettbewerb durchzuführen helfen. Im Gegenzug werden Sie Teil eines interessanten Events, treffen Gleichgesinnte, können zu allgemeinverständlichen Mathe-Vorträgen gehen, einen gelungenen Tag haben und ganz nebenbei viele junge Personen (und :innen!) für die Mathematik, das Ingenieurswesen, die Naturwissenschaften etc. begeistern.  Jede:r Interessent muss einfach nur zu  https://www3.math.tu-berlin.de/TDM/tdm-2024  gehen und sich links unten eintragen unter  Intern -> Unterstützung vor Ort  Bitte sagen Sie dies gern an alle möglicherweise Interessierten weiter.  Herzlichen Dank und viele Grüße  E. Emanuel Rapsch",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für organisatorische Fragen",
+                    "Forum_id": "1821214",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Isis Server ",
+                            "Discussion_Id": "605890",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087038",
+                                    "Author": "Jason Nario Camara",
+                                    "DateTime": "2024-07-06T00:09:40+02:00",
+                                    "Content": "Der Isis Server war von ungefähr 23:50-0:05 nicht funktionabel, wodurch meine Angaben in der digitalen Hausaufgabe knapp nicht mehr gespeichert wurden. Jetzt wurde aber alles mit 0 Punkten bewertet, obwohl ich es vor Abgabe eingegeben hatte. Ich würde mich freuen, wenn ich dadurch nicht Punkte verlieren würde. LG Jason Camara",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087040",
+                                    "Author": "Karl Ragnar Giese",
+                                    "DateTime": "2024-07-06T00:23:46+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1087038"
+                                },
+                                {
+                                    "Message_id": "p1087042",
+                                    "Author": "Emiliano Sanchez Martinez",
+                                    "DateTime": "2024-07-06T00:36:39+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1087040"
+                                },
+                                {
+                                    "Message_id": "p1087900",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-09T09:24:05+02:00",
+                                    "Content": "Liebe Hausaufgaben-Bearbeiter:innen,  es tut uns leid, wenn es bei Ihnen persönlich zu technischen Probleme gekommen ist. Inwiefern es an den TU-Servern gelegen hat, können wir nicht bewerten, auch weil wir von Ihrer Seite keinen Nachweis erhalten haben. Es kann auch an anderen Faktoren gelegen haben, auch wenn freilich zu beachten ist, dass mehrere von Ihnen dieses Problem gehabt zu haben scheinen. Daher gilt ja grundsätzlich die dringende Empfehlung, wichtige Dinge -- wie Hausaufgaben -- nicht erst kurz vor knapp, sondern mit hinreichendem Vorlauf abzugeben, zumindest im Entwurfsstadium.  Abgaben, auch Entwürfe, die ordnungsgemäß vor 23:59 Uhr abgegeben wurden, werden bewertet. Bei anderen Abgaben liegt es im Ermessen des jeweiligen Tutors / der jeweiligen Tutorin. Entscheidendes Kriterium hierbei ist, ob 1. die Intention zur rechtzeitigen Abgabe klar erkennbar war und zusätzlich 2. alle nötigen Maßnahmen ergriffen wurden, eine rechtzeitige und ordnungsgemäße Abgabe auch durchzuführen.  Ich hoffe, dass Ihnen dies weiterhilft. Bei Fragen steht Ihnen das Team gern zur Verfügung.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1087038"
+                                },
+                                {
+                                    "Message_id": "p1088047",
+                                    "Author": "Karl Ragnar Giese",
+                                    "DateTime": "2024-07-09T12:52:03+02:00",
+                                    "Content": "Dieser Screenshot ist zwar von kurz nach 12, zeigt aber das ISIS nicht funktionierte.",
+                                    "Response to": "p1087900"
+                                },
+                                {
+                                    "Message_id": "p1088629",
+                                    "Author": "Jason Nario Camara",
+                                    "DateTime": "2024-07-10T17:45:20+02:00",
+                                    "Content": "Sehr geehrter Herr Rapsch,  Anbei sende ich Ihnen Beweise, um die Kriterien, die Sie mir gestellt haben, abzudecken. 1. sende ich Ihnen einen Screenshot, wie ich meinen Tutor vor Abgabefrist auf das Problem hinwies und nach Hilfe bat. 2. sende ich Ihnen einen Screenshot, dass ich die Isis Seite im Verlauf meines Browsers offen hatte. 3. sende ich Ihnen meine Aufzeichnungen zur Berechnung der digitalen Hausaufgabe. Ich hoffe das damit die Kriterien erfüllt sind und ich meine Punkte erhalten werde. Es tut mir auch aufrichtig leid, wenn ich Ihnen damit einen großen Aufwand auftrage, doch benötige ich diese Punkte, die mir in unfairer Weise nicht gegeben wurden, für das Hausaufgaben Kriterium.  Mit freundlichen Grüßen  Jason Camara",
+                                    "Response to": "p1087900"
+                                },
+                                {
+                                    "Message_id": "p1089054",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-11T17:54:05+02:00",
+                                    "Content": "Lieber Herr Camara,  Ihr Fall wird geprüft, so wie der Ihrer Kommiliton:innen auch.  Bitte beachten Sie, dass die Informationen aus Ihrer ISIS-Nachricht allen Teilnehmern des Kurses zugänglich sind. Wenn Sie dies nicht wünschen, löschen Sie diese bitte und senden Sie sie uns ggf. per E-Mail.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1088629"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgaben ",
+                            "Discussion_Id": "607165",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088856",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-07-11T12:37:34+02:00",
+                                    "Content": "Hi, könnten netterweise Übungsaufgaben für die Tutoriensstoffe von dieser & nächster Woche Hochgeladen werden da es keine Hausaufgaben mehr gibt? MfG, Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089038",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-11T17:32:34+02:00",
+                                    "Content": "Liebe(r) Obinna Kinsley Onunju,  es wird auch nächste Woche ein Tutorienblatt mit neuen Aufgaben geben. Dieser Stoff ist auch Teil der Lehrveranstaltung und wird in der Klausur abgefragt werden.  Zum weiteren Üben, das wir im übrigen sehr begrüßen, gibt es viel Literatur, worauf ich an dieser Stelle noch einmal hinweisen möchte. Wir empfehlen hier zum Beispiel die unter folgenden Links spezifizierten Bücher (Sie finden diese Bücher in der Bibliothek, teilweise auch per Online-Zugriff):  Buch 1  sowie  Buch 2  Außerdem empfiehlt es sich, anhand von Altklausuren zu üben. Diese findet man aktuell hier:  Altklausuren  Haftungsausschluss: Wir übernehmen keine Haftung für die Inhalte der verlinkten Internetseiten. Insbesondere lassen sich von den Inhalten der verlinkten Internetseiten keine Rückschlüsse auf die Prüfung ziehen und keine Forderungen ableiten. Relevant für die in der Prüfung abgefragten Inhalte sind die in der Lehrveranstaltung vermittelten Inhalte.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1088856"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabenkriterium ",
+                            "Discussion_Id": "605999",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087211",
+                                    "Author": "Cedric Alexander Strelow",
+                                    "DateTime": "2024-07-07T19:38:23+02:00",
+                                    "Content": "Durch einen Fehler meinerseits , habe ich letze Woche vergessen die Hausaufgaben zu machen, und komme mit Woche 11 nur auf höchstens 129,5 von 132 gebrauchten Punkten. Gibt es noch etwas das ich tun kann um irgendwie die Klausur mitzuschreiben?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087718",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-08T17:18:31+02:00",
+                                    "Content": "Sehr geehrter Herr Strelow,  bitte beachten Sie hierzu die allgemeinen, auf ISIS zugänglichen Informationen zu Hausaufgaben und Leistungsnachweis (Hausaufgabenkriterium). Ich bitte um Verständnis für diese Regelungen sowie für die Tatsache, dass ein sinnvoller und nicht zuletzt fairer Prüfungsbetrieb der Einhaltung selbiger bedarf. Das tut mir leid, aber so ist es nun einmal. Gerade wenn man zu Vergesslichkeit neigt, bleibt also hier vielleicht die Lehre für die Zukunft, im Zweifel eher etwas wie 70 bis 75 % der Punkte anzupeilen.  Bei Goethe zumindest heißt es \"Wer immer strebend sich bemüht ...\", und es gibt sicherlich Gründe, warum der Satz zum geflügelten Wort geworden ist. Falls Sie eine individuelle Beratung wünschen, können Sie gerne in eine der Sprechstunden kommen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1087211"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurrelevante Vorlseungen",
+                            "Discussion_Id": "605932",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087106",
+                                    "Author": "Tiziano Di Rosa",
+                                    "DateTime": "2024-07-06T19:11:54+02:00",
+                                    "Content": "Hallo,  mich würde interessieren, ob ähnlich wie in der AnaLina Klausur, die Vorlesungen aus der letzten Woche der Vorlesungszeit nicht mehr klausurrelevant sind. D.h. VL 24-26. Oder werden alle 26 VL in der Klausur abgedeckt?  Wird noch eine Probeklausur hochgeladen und wenn ja wann? Viele Grüße ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087702",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-08T17:01:32+02:00",
+                                    "Content": "Lieber Herr Di Rosa,  die Klausur wird sich auf den gesamten Vorlesungsstoff beziehen, inklusive den der letzten Woche. Im Vergleich zum Vorsemester muss auch bedacht werden, dass durch Feiertage mehrere Vorlesungen ausgefallen sind und dass die Klausur recht spät stattfinden wird, sich also insofern genügend Vorbereitungszeit ergibt.  Eine Probeklausur wird zu gegebener Zeit hochgeladen, also dann, wenn der neue Stoff ausreichend geübt wurde und zur gezielten Klausurvorbereitung übergegangen werden kann, voraussichtlich um den 22. Juli.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1087106"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bei Schriftlicher HA nur Entwurf",
+                            "Discussion_Id": "605908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087065",
+                                    "Author": "Jonte Christopher Fricke",
+                                    "DateTime": "2024-07-06T13:20:30+02:00",
+                                    "Content": "Hallo, wir habe als Gruppe unsere 10te schriftliche HA abgegeben, aber auf ISIS steht, dass nur ein Entwurf abgegeben ist. Ich weiß nicht ob dass ein Fehler bei ISIS ist, weil andere ja auch von Problemen berichtet haben. Wird diese trotzdem bewertet? Die Datei ist schließlich bei ISIS zumindestens hochgeladen (d.h. sie ist anscheinend wohl vorhanden) Würden uns natürlich freun wenn wir dadurch keine Punkte verlieren. MFG Jonte Fricke",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087700",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-08T16:56:25+02:00",
+                                    "Content": "Lieber Herr Fricke,  hochgeladene und gespeicherte Entwürfe werden auch bewertet.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1087065"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur",
+                            "Discussion_Id": "604842",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085594",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-07-02T06:26:05+02:00",
+                                    "Content": "Hallo,  Ich habe mir einige Altklausuren angeschaut, darunter auch eine Probeklausur von 2023. Ich bin mir nun nicht ganz sicher, ob wir in der Klausur Rechenwege und Begründungen angeben sollen. Oder ist es so wie Analina1, dass es Ankreuzaufgaben gibt und man nur die Ergebnisse einträgt?  Mit freundlichen Grüßen  Liah Strube",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086309",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-03T19:49:52+02:00",
+                                    "Content": "Guten Abend,  bitte bereiten Sie sich so vor, dass Sie die Rechenwege und Begründungen beherrschen. In der Klausur werden voraussichtlich hauptsächlich Rechenergebnisse und Ihre Einschätzungen zu bestimmten Beispielen abgefragt.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1085594"
+                                },
+                                {
+                                    "Message_id": "p1086649",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-04T17:04:57+02:00",
+                                    "Content": "PS: Ich möchte einen Satz aus der Nachricht von gestern korrigieren und den Sachverhalt damit klarstellen. Hier die berichtigte Version:  Guten Abend,  bitte bereiten Sie sich so vor, dass Sie die Rechenwege und Begründungen beherrschen. In der Klausur werden voraussichtlich hauptsächlich Rechenergebnisse und Ihre Einschätzungen zu Aussagen über den Stoff aus der Lehrveranstaltung abgefragt.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1086309"
+                                },
+                                {
+                                    "Message_id": "p1086728",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-07-05T06:42:33+02:00",
+                                    "Content": "Okay, Dankeschön.",
+                                    "Response to": "p1086649"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aktualisierung Skript",
+                            "Discussion_Id": "600379",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079117",
+                                    "Author": "Yannik Hermann Obel",
+                                    "DateTime": "2024-06-11T17:04:02+02:00",
+                                    "Content": "Hallo Ana 2 Team, Können wir die aktualisierte Version des Winkert-Skripts bekommen? Ich würde die Vorlesung 15 gerne vor der Vorlesung 16 morgen nachholen. MfG, Yannik Obel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080047",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-14T09:02:12+02:00",
+                                    "Content": "Lieber Herr Obel,  danke für Ihre Anfrage. Wir werden Sie möglichst schnell bearbeiten. Die Lösung wird über die Vorlesung kommuniziert werden.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1079117"
+                                },
+                                {
+                                    "Message_id": "p1080228",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-14T17:05:34+02:00",
+                                    "Content": "Lieber Herr Obel,  eine interne Prüfung des geschilderten Sachverhalts hat ergeben, dass die aktuelle Version des Skripts, inkl. VL 15 und 16, online ist. Ich hoffe, dass wir Ihnen damit weiterhelfen konnten. Bei weiteren Rückfragen stehen wir gerne zur Verfügung.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1079117"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "An Jana 19",
+                            "Discussion_Id": "599193",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077372",
+                                    "Author": "Gtayet Azmi",
+                                    "DateTime": "2024-06-05T16:20:01+02:00",
+                                    "Content": "Liebe Linus & Burak, ich habe leider mein Handy verloren und ich bin in einer Umzugsphase tut mir leid dass ich nicht erreichbar bin .... Bitte erreicht mich über azmi.gtayet@gmail.com Mfg ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077403",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-05T17:18:43+02:00",
+                                    "Content": "Guten Tag,  vermutlich war dies ein Versehen, aber ich möchte dies noch einmal zum Anlass nehmen, Sie zu bitten, dieses Forum ausschließlich für organisatorische Fragen allgemeinen Interesses zu nutzen. Jetzt kennen mehr ja als 1000 Leute Ihre private E-Mail-Adresse. Darunter sind mit Verlaub gewiss auch solche, die kein Interesse an dieser Information bekundet haben.  Für Ihre Frage gibt es Diskussionsforum für Student:innen; auch das Tutorien-Forum könnte hier passen. Das können Sie gerne dafür nutzen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1077372"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenmitglied entfernen",
+                            "Discussion_Id": "597527",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074942",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-05-29T07:49:37+02:00",
+                                    "Content": "Hallo, Ich bin in einer Dreiergruppe eingeteilt, jedoch haben meine Gruppenpartnerin und ich bis jetzt 3 von 4 Hausaufgaben allein gelöst. Auch nach mehreren Anfragen, gab es keine Reaktion. Kann man denjenigen aus der Gruppe entfernen? Mit freundlichen Grüßen Liah Strube",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075227",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-29T17:08:25+02:00",
+                                    "Content": "Liebe Frau Strube,  es tut mir leid, dass es in Ihrer Gruppe zu Kommunikationsproblemen gekommen ist. Bitte wenden Sie sich an Ihren Tutor oder Ihre Tutorin, um Ihr Anliegen zu klären.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1074942"
+                                },
+                                {
+                                    "Message_id": "p1075301",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-05-29T20:53:55+02:00",
+                                    "Content": "Hallo,  ich habe meinen Tutor schon darauf angesprochen und er meinte zu uns, dass wir uns an die Modulverantwortlichen wenden sollen. Ich werde ihn dann wohl einfach nochmal darauf ansprechen. Danke!  Mit freundlichen Grüßen Liah Strube",
+                                    "Response to": "p1075227"
+                                },
+                                {
+                                    "Message_id": "p1075584",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-30T16:36:01+02:00",
+                                    "Content": "Liebe Frau Strube,  wir danken für Ihre Nachricht. Nach Rücksprache mit dem zuständigen Tutor haben wir den Fall bearbeitet. Die Mitgliedschaft in einer HA-Gruppe bedingt die aktive Mitarbeit an der Hausaufgabe. In diesem Sinne haben wir auch in Ihrem Fall entschieden.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1075301"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mehr Übungen",
+                            "Discussion_Id": "594152",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069683",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-05-13T17:30:57+02:00",
+                                    "Content": "Liebes Ana2 Team, ist es möglich mehr Fragen hochzuladen wie in Ana1lina wo es unter „ Projekt tutorium“ hochgeladen wurde, damit wir auch zuhause mehr rechnen können? Oder irgendwelche Literatur die Ihr uns empfehlen könnt?  MfG, Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072248",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-21T17:17:47+02:00",
+                                    "Content": "Liebe Frau Ononuju,  zum weiteren Üben, das wir im übrigen sehr begrüßen, gibt es viel Literatur. Wir empfehlen hier zum Beispiel die unter folgenden Links spezifizierten Bücher (Sie finden diese Bücher in der Bibliothek, teilweise auch per Online-Zugriff):  Buch 1  sowie  Buch 2  Außerdem empfiehlt es sich, anhand von Altklausuren zu üben. Diese findet man aktuell hier:  Altklausuren  Haftungsausschluss: Wir übernehmen keine Haftung für die Inhalte der verlinkten Internetseiten. Insbesondere lassen sich von den Inhalten der verlinkten Internetseiten keine Rückschlüsse auf die Prüfung ziehen und keine Forderungen ableiten. Der Rechtsweg bleibt ausgeschlossen. Relevant für die in der Prüfung abgefragten Inhalte sind die in der Lehrveranstaltung vermittelten Inhalte.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1069683"
+                                },
+                                {
+                                    "Message_id": "p1074633",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-28T11:59:33+02:00",
+                                    "Content": "Liebe Student:innen,  zu dem Link zu Übungsmaterial -- Literatur und Altklausuren -- muss der Vollständigkeit halber noch auf das folgende Kleingedruckte hingewiesen werden: Wir übernehmen keine Haftung für die Inhalte der verlinkten Internetseiten. Insbesondere lassen sich von den Inhalten der verlinkten Internetseiten keine Rückschlüsse auf die Prüfung ziehen und keine Forderungen ableiten. Der Rechtsweg bleibt ausgeschlossen. Relevant für die in der Prüfung abgefragten Inhalte sind die in der Lehrveranstaltung vermittelten Inhalte.  Gleichwohl empfehlen wir dieses Material aus rein pädagogischer Sicht als begleitendes Übungsmaterial.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1072248"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe wird nicht als abgeben angezeigt",
+                            "Discussion_Id": "595024",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071046",
+                                    "Author": "Hok Kai John Cheung",
+                                    "DateTime": "2024-05-16T17:38:54+02:00",
+                                    "Content": "Hallo, ich wollte mal fragen warum bei der HA wenn man sie abgibt nicht der Abgegebenstatus kommt wenn man normalerweise abgibt und warum wird bei den HA's angezeigt \"Entwurf (nicht abgegeben)\" obwohl man eine Datei hinterlegt hat ?  Mfg John",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071504",
+                                    "Author": "Victor Emmanuel Wernecke",
+                                    "DateTime": "2024-05-18T11:30:39+02:00",
+                                    "Content": "Bei unserer Gruppe ist es genau so, wir haben abgegeben aber der Status zeigt Entwurf (nicht abgegeben).",
+                                    "Response to": "p1071046"
+                                },
+                                {
+                                    "Message_id": "p1072250",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-21T17:20:41+02:00",
+                                    "Content": "Guten Tag,  aus Ihrer Frage wird für mich nicht ganz klar, was das Problem ist. Dennoch versuche ich, eine Antwort zu geben. Sie haben beim Hochladen die Möglichkeit, einen Entwurf hochzuladen, ohne ihn abzugeben. Sie können ihn anschließend auch noch definitiv abgeben. Das führt zu zwei unterschiedlichen Zuständen. Beiden Zuständen ist meines Wissens gemein, dass Sie zu einer Bewertung führen.  Bitte wenden Sie sich bei spezifischen Fragen zu moodle- und ISIS-Funktionalitäten an den ISIS-Support.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1071046"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Verbesserung",
+                            "Discussion_Id": "593910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069297",
+                                    "Author": "Luca Toni",
+                                    "DateTime": "2024-05-13T08:55:18+02:00",
+                                    "Content": "Guten Morgen, ich wollte mal nachfragen, wann wir eigentlich die Verbesserung der Hausaufgaben bekommen würden, da wir schon bei der 3. Abgabe sind und noch keine zurück bekommen haben. Danke im Voraus, Mfg, Luca Toni ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069668",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-13T17:11:05+02:00",
+                                    "Content": "Lieber Herr Toni,  Bewertungen der digitalen Hausaufgaben geschehen sofort nach Abgabeschluss. Bewertungen der schriftlichen HA werden innerhalb von zwei Wochen nach Abgabe vorgenommen, in vielen Fällen geht es auch schneller. Die schriftliche HA Nr. 1 wird also bis spätestens 17. Mai 2024 bewertet werden.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1069297"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsenz und Video Vorlesungen inhaltlich nicht synchron",
+                            "Discussion_Id": "593262",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068255",
+                                    "Author": "Cem Berk Arkar",
+                                    "DateTime": "2024-05-08T13:09:04+02:00",
+                                    "Content": "Hallo Analysis II Team, mir ist aufgefallen, dass die Videos von Vorlesung 7 weiter gehen als die Präsenz Vorlesungen bei Prof. Penn-Karras. Da ich die gerne nacharbeiten möchte wollte ich fragen, ob die Präsenz Vorlesung nur bis zum Video 7 Teil 1 geht oder noch weiter? LG Cem",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068271",
+                                    "Author": "Cem Berk Arkar",
+                                    "DateTime": "2024-05-08T13:36:03+02:00",
+                                    "Content": "Also ob das Thema Polarkoordinaten jetzt in der 8. Vorlesung rankommen wird oder schon war?",
+                                    "Response to": "p1068255"
+                                },
+                                {
+                                    "Message_id": "p1069664",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-13T17:07:05+02:00",
+                                    "Content": "Lieber Herr Arkar,  bitte besprechen Sie dies direkt mit Frau Dr. Penn-Karras im Anschluss an die Vorlesung. So viel kann an dieser Stelle gesagt werden: Es ist nicht unüblich, dass die Vorlesungen nicht in jedem Semester der gleichen Geschwindigkeitsverteilung folgen: Mal geht es etwas schneller, mal etwas langsamer. So kommt es dann lokal zu leichten Verschiebungen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1068255"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2er Gruppe bei erster Abgabe",
+                            "Discussion_Id": "592435",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067011",
+                                    "Author": "Hao Xiang Max Ye",
+                                    "DateTime": "2024-05-06T09:41:38+02:00",
+                                    "Content": "Einer unserer Gruppenmitglieder für die Hausaufgabe ist nicht mehr in dem Modul eingeschrieben. Leider bekamen wir die Nachricht erst nach Abgabe der 1. Hausaufgabe und es sieht zur Zeit so aus als wäre das auch für die 2. der Fall. Ist das schlimm?  Wir werden uns natürlich so schnell wie möglich darum kümmern ein 3. Mitglied zu finden.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067383",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-06T17:25:09+02:00",
+                                    "Content": "Guten Tag,  danke für die Mitteilung Ihres Anliegens und das Melden Ihres Falls.  Vor dem Hintergrund der Situation, wie Sie sie schildern, trifft Sie ja keine Schuld, wenn einer Ihrer Partner Sie kurzfristig verlässt und Sie deswegen für eine oder im Zweifelsfall zwei Abgaben zuzweit sind. Insofern ist es nicht schlimm. Ihre Aufgabe ist jetzt eben, wie Sie sagen, sich in Ihrem Tutorium und bei Ihrer:m Tutor:in umzuhören, ob es nicht noch jemanden gibt, der Interesse hätte, in Ihrem Bunde der oder die Dritte zu sein. Viel Glück dabei wünscht  E. Emanuel Rapsch",
+                                    "Response to": "p1067011"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Vorlesung an Feiertagen",
+                            "Discussion_Id": "592383",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066923",
+                                    "Author": "Yannik Hermann Obel",
+                                    "DateTime": "2024-05-05T23:29:29+02:00",
+                                    "Content": "Sehr geehrtes Ana 2 Ing Team, Mir ist leider aus der Ankündigung nicht ganz klar geworden, ob feiertagsbedingte Vorlesungs-Ausfälle in Eigenarbeit nachzuholen sind, oder ob die anschließende Vorlesung dann das entfallene Thema bearbeitet und sich so der Rhythmus um eine Vorlesung verschiebt. Danke schonmal! MfG, Yannik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066996",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-06T09:27:04+02:00",
+                                    "Content": "Lieber Herr Obel,  feiertagsbedingte Vorlesungs-Ausfälle sind nicht gesondert in Eigenregie zu ersetzen bzw. nachzuarbeiten. Wenn Sie zu allen stattfindenden Terminen Ihres Vorlesungspaars gehen, verpassen Sie nichts. Das gilt für jedes der drei Vorlesungspaare. Wenn Sie allerdings während des Semesters zwischen verschiedenen Vorlesungspaaren hin und her wechseln, kann es zu Doppelungen oder Lücken kommen, da die Paare aufgrund der Feiertag nicht vollkommen synchron ablaufen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1066923"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutor wechsel ",
+                            "Discussion_Id": "592360",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066889",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-05-05T20:34:39+02:00",
+                                    "Content": "hi, dürfen wir zu einem anderen Tutor gehen obwohl wir uns schon für eine HA Gruppe eingetragen haben? LG, Obinna",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066992",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-06T09:24:00+02:00",
+                                    "Content": "Guten Tag,  es gelten weiterhin die zu früherem Zeitpunkt mitgeteilten Regelungen, wovon hier ein Teil zitiert sei:  \"Sollten Sie keinem Tutorium zugeteilt worden sein, den zugeteilten Termin aus wichtigem Grund (z.B. aufgrund unerwartbarer Überschneidung mit einer anderen Lehrveranstaltung) nicht wahrnehmen können, oder die Tutoriumsanmeldung verpasst haben und trotzdem teilnehmen wollen, so besuchen Sie bitte in der kommenden Woche ein Tutorium am Montag oder Dienstag ab 14 Uhr, am Donnerstag um 8 oder 16 Uhr oder am Freitag vor 16 Uhr, und melden sich dort bei der Tutorin / dem Tutor, die / der über die Aufnahme entscheidet, und auch aus dem Grund, dass Sie für den Fall der Annahme auch formal nachträglich im entsprechenden Tutorium registriert werden. Der Tutor bzw. die Tutorin wird Sie dann ggf. in Moses in das entsprechende Tutorium ein- bzw. umtragen.\"  Wenn Der Tutor nach Prüfung Ihres Anliegens zum Ergebnis kommt, dass ihm nachgekommen werden kann, so wird er oder sie Sie manuell per ISIS umtragen. Dies kann mehrere Tage in Anspruch nehmen.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1066889"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwechsel nach Ende der Einteilung?",
+                            "Discussion_Id": "591856",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066048",
+                                    "Author": "Johannes Nühse",
+                                    "DateTime": "2024-05-02T18:12:44+02:00",
+                                    "Content": "Guten Tag, Ich habe eine Frage: Ist es möglich, die Hausaufgabengruppe nach Ende der Einteilung noch zu wechseln? Wäre z.B. eine Absprache mit der*m entsprechenden Tutor*in möglich?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066990",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-06T09:21:18+02:00",
+                                    "Content": "Lieber Herr Nühse,  dies ist nur bei Vorliegen eines wichtigen Grundes möglich. Diesen müssen Sie mit Ihrem Tutor erklären, der dies dann prüft und über Ihren Gruppenwechsel vorläufig entscheidet. Jener muss dann Ihre Gruppenzugehörigkeit manuell auf ISIS ändern. Je nach Nachfrage kann dies mehrere Tage dauern.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1066048"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Überfülltes Tutorium Montag 12-14 Nico Waldau",
+                            "Discussion_Id": "590753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064369",
+                                    "Author": "Mehmet Mert Baritci",
+                                    "DateTime": "2024-04-29T13:06:20+02:00",
+                                    "Content": "Hallo zusammen, ich und meine HA-Partnerin haben am Montag Tutorium 12-14Uhr(Nico Waldau) eingetragen. Das steht auf Moses. Aber immer wenn wir im Tutoriumraum angekommen sind, ist der Raum komplett voll. Uns passt kein anderer Zeitraum, um zusammen ins Tutorium zu gehen, deshalb wäre es sehr hilfreich, wenn nur die Studis kommen, die für dieses Tutorium eingetragen sind. Sie müssen wirklich Maßnahmen dagegen treffen. Gruß",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064708",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-29T18:03:33+02:00",
+                                    "Content": "Lieber Herr Baritci,  es tut mir leid zu lesen, dass Sie keinen Platz in dem Tutorium finden, dem Sie zugewiesen wurden. Sofern Sie pünktlich gekommen sind, was ich Ihnen aufgrund Ihrer Nachricht unterstelle, entspricht dies nicht den organisatorischen Vorgaben in diesem Kurs und muss also auf intern bedingte Umsetzungsprobleme zurückzuführen; es ist Aufgabe der:s Tutor:in, zu prüfen, dass nur angemeldete Personen am Tutorium teilnehmen sowie, falls der Platz es erlaubt, Nachanmeldungen entgegenzunehmen. Ich bitte stellvertretend für das Lehr-Team um Entschuldigung für die entstandenen Unannehmlichkeiten.  Ich werde mich um interne Klärung des Sachverhalts kümmern und mich erneut bei Ihnen melden. Grundsätzlich sollten Sie davon ausgehen, dass Sie in Zukunft ins Tutorium montags um 12 Uhr bei Nico Waldau gehen können, denn dafür sind Sie ja angemeldet.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1064369"
+                                },
+                                {
+                                    "Message_id": "p1064947",
+                                    "Author": "Nico Waldau",
+                                    "DateTime": "2024-04-30T11:17:53+02:00",
+                                    "Content": "Hallo Mehmet,  entschuldige bitte die Umstände. Ich habe einige nochmal direkt darauf hingewiesen das ihr zugewiesenes Tutorium zu besuchen. Kommt bitte trotzdem nächstes Mal rechtzeitig vor 12:15 Uhr, um sicher einen Platz zu finden. Nach Beginn des Tutoriums werde ich niemanden mehr bitten rauszugehen.  LG Nico",
+                                    "Response to": "p1064369"
+                                },
+                                {
+                                    "Message_id": "p1065997",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-02T16:56:14+02:00",
+                                    "Content": "Lieber Herr Baritci,  zunächst möchte bestätigen, dass wir natürllich von einem pünktlichen Erscheinen aller Tutoriumsteilnehmer:innen ausgehen. Anwesenheit und mögliche Raum-Engpässe werden zu Beginn der Veranstaltung geprüft. So oder so haben wir nun einen neuen Raum finden können, der Platz für alle bieten sollte. Aus dieser Sicht betrachtet sollte lehr- und erfolgreichen Studienwochen nichts im Wege stehen, wofür ich Ihnen alles Gute wünsche. Bei Fragen stehen wir Ihnen gern zur Verfügung.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1064369"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe mittwoch 16-18",
+                            "Discussion_Id": "589347",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062245",
+                                    "Author": "Gtayet Azmi",
+                                    "DateTime": "2024-04-24T13:00:27+02:00",
+                                    "Content": "Moin,  habe noch keine HA Gruppe.. einfach schreiben 015510369546 Grüße aus Berlin Asmi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063207",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-25T19:07:09+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer,  ich würde Sie höflich darum bitten, für Fragen und Diskussionen zu diesem Thema das Diskussionsforum für Student:innen zu nutzen. Dadurch können wir den Nachrichtenaustausch im Kurs geordneter und effizienter gestalten. Vielen Dank für Ihre Mitarbeit und Ihr Verständnis.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1062245"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe Mahmoudi, Nabil",
+                            "Discussion_Id": "589442",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062387",
+                                    "Author": "Farouk Ben Tanfous",
+                                    "DateTime": "2024-04-24T15:24:10+02:00",
+                                    "Content": "Hallo, gibt es jmdn. , der im Tutorium von  Mahmoudi, Nabil ist und einen freien Platz hat oder möchte, eine neue Gruppe bauen? Farouk.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062618",
+                                    "Author": "Rayan Gaddour",
+                                    "DateTime": "2024-04-24T20:17:49+02:00",
+                                    "Content": "habe auch noch keine HA Gruppe einfach schreiben 017622299220 Rayan",
+                                    "Response to": "p1062387"
+                                },
+                                {
+                                    "Message_id": "p1063206",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-25T19:06:52+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer,  ich würde Sie höflich darum bitten, für Fragen und Diskussionen zu diesem Thema das Diskussionsforum für Student:innen zu nutzen. Dadurch können wir den Nachrichtenaustausch im Kurs geordneter und effizienter gestalten. Vielen Dank für Ihre Mitarbeit und Ihr Verständnis.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1062387"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Nico",
+                            "Discussion_Id": "589775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062896",
+                                    "Author": "Hamzeh Snoubar",
+                                    "DateTime": "2024-04-25T12:17:45+02:00",
+                                    "Content": "Hi,  Wir warten vor dem Raum MA848 jetzt schon seit 20 min. und niemand ist erschienen, wo findet das Tutorium statt?!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063022",
+                                    "Author": "Nico Waldau",
+                                    "DateTime": "2024-04-25T14:36:03+02:00",
+                                    "Content": "Für alle, die es vorhin nicht erreicht hat:  Aufgrund der unerwarteten Doppelbelegung des MA848 suchen wir bis nächste Woche einen neuen Raum. Ich werde die Info im Tutorien-Forum, in meiner Gruppe und auch hier nochmal bekanntgeben.  Entschuldigt bitte das lange Warten vorm Raum. Konnte heute nicht frühzeitig erscheinen, um den Fehler zu bemerken. Ab nächsten Donnerstag wird alles seine Richtigkeit haben (Tutoriumstart 12:15 Uhr).",
+                                    "Response to": "p1062896"
+                                },
+                                {
+                                    "Message_id": "p1063204",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-25T19:04:53+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer,  ich möchte Sie höflich darum bitten, für Fragen und Diskussionen zu diesem Thema das Tutorien-Forum zu nutzen. Dadurch können wir unnötigen Nachrichtenverkehr im gesamten Kurs vermeiden. Vielen Dank für Ihre Mitarbeit und Ihr Verständnis.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1062896"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Gruppe bei anderen Tutor",
+                            "Discussion_Id": "588939",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061576",
+                                    "Author": "Robert Graband",
+                                    "DateTime": "2024-04-23T14:33:38+02:00",
+                                    "Content": "Ist es möglich auch bei einen anderen Tutor die HA Gruppe zu haben, wo man nicht in Moses eingeschrieben ist und muss man dafür etwas spezielles machen. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061765",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-23T17:18:19+02:00",
+                                    "Content": "Lieber Herr Graband,  wir schätzen Ihr Interesse an unserem Kurs sehr. Im Falle besonderer Umstände ist ein Wechsel des Tutoriums möglich. Weitere Informationen dazu finden Sie auf ISIS: Hier sowie unter \"Aktuelles\", Punkt 1.  Mit freundlichen Grüßen  E. Rapsch, stv. für das Ana2-Team",
+                                    "Response to": "p1061576"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sich widersprechende Gruppenzeitpläne",
+                            "Discussion_Id": "588679",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061201",
+                                    "Author": "Lianghao Chen",
+                                    "DateTime": "2024-04-22T23:34:58+02:00",
+                                    "Content": "Meine Unterrichtszeiten kollidieren miteinander, können Sie mich und meine Gruppe “CHEN” auf Mittwochs 16:00 Uhr verlegen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061761",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-23T17:10:41+02:00",
+                                    "Content": "Sehr geehrte:r Herr:Frau Lianghao Chen,  es erfüllt uns mit Freude, Ihr Interesse an unserem Kurs festzustellen. Die Antwort auf Ihre Frage finden Sie auf ISIS unter \"Aktuelles\", Punkt 1. Zum gegenwärtigen Zeitpunkt sind die Mittwochskurse bereits vollständig belegt. Sie sind selbstverständlich eingeladen, dennoch eine Anmeldung zu versuchen, jedoch können wir Ihnen keine Garantie auf einen Platz geben.  Mit freundlichen Grüßen  E. Emanuel Rapsch, stellvertretend für das Ana2-Team",
+                                    "Response to": "p1061201"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reihenfolge der Vorlesungsvideos",
+                            "Discussion_Id": "587833",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059802",
+                                    "Author": "Julian Adams",
+                                    "DateTime": "2024-04-19T17:46:36+02:00",
+                                    "Content": "Die aufgezeichneten Vorlesungsvideos von Frau Penn-Karas werden bei mir in einer völlig chaotischen Reihenfolge angezeigt. Wenn das nicht nur bei mir so sein sollte, bitte ich darum, sie der Übersichtlichkeit halber wie im letzten Semester chronologisch anzuordnen.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059805",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-04-19T17:51:30+02:00",
+                                    "Content": "Ist bei mir auch so.",
+                                    "Response to": "p1059802"
+                                },
+                                {
+                                    "Message_id": "p1061655",
+                                    "Author": "Gabriele Penn-Karras",
+                                    "DateTime": "2024-04-23T15:41:50+02:00",
+                                    "Content": "Jetzt sollte die Reihenfolge passen, wenn man nach links weitergeht.",
+                                    "Response to": "p1059802"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wiederholte Abgabe der HA's trotz erreichtem Kriterium",
+                            "Discussion_Id": "588077",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060181",
+                                    "Author": "Minh Phuc Mike Pham",
+                                    "DateTime": "2024-04-21T12:40:13+02:00",
+                                    "Content": "Guten Tag, ich habe im Early-Bird Kurs schon das Hausaufgabenkriterium erreicht und würde gerne erneut die Hausaufgaben aus Übungszwecken abgeben wollen. Ich weiß, dass die Abgabe in einer Gruppe sein muss. Beeinflusst die erneute Korrektur/Punktevergabe für die HA's das von mir erreichte Hausaufgabenkriterium? Mit freundlichen Grüßen Mike Pham",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061079",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-22T18:09:47+02:00",
+                                    "Content": "Guten Tag,  Leistungsnachweise verfallen nicht. Durch das Bearbeiten der HAs entsteht Ihnen kein Nachteil (im Gegenteil!). Die Antwort auf Ihre Frage, so ich sie richtig interpretiere, lautet also konkret: nein.  Gruß  E.R.",
+                                    "Response to": "p1060181"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kann man zu 2 in HA Gruppe sein?",
+                            "Discussion_Id": "588098",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060225",
+                                    "Author": "Ferenc Alexander Breuer",
+                                    "DateTime": "2024-04-21T15:45:38+02:00",
+                                    "Content": "Wir finden keine dritte Person für unsere Hausaufgabengruppe und morgen beginnen ja schon die Hausaufgaben. Ist es okay wenn wir nur zu 2 in einer Gruppe sind? (Falls wer noch alleine ist, gerne schreiben)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060308",
+                                    "Author": "Finn David Seliger",
+                                    "DateTime": "2024-04-21T21:26:41+02:00",
+                                    "Content": "Hallo ich wäre noch alleine, wann habt ihr denn eurer Tutorium ?",
+                                    "Response to": "p1060225"
+                                },
+                                {
+                                    "Message_id": "p1060361",
+                                    "Author": "Ferenc Alexander Breuer",
+                                    "DateTime": "2024-04-22T07:37:02+02:00",
+                                    "Content": "Freitag 10-12 bei Duc Anh",
+                                    "Response to": "p1060308"
+                                },
+                                {
+                                    "Message_id": "p1061077",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-22T18:08:27+02:00",
+                                    "Content": "Waren Sie schon in Ihrem Tutorium? Fragen Sie dort herum und versuchen Sie, jemanden zu finden. Ansonsten wenden Sie sich bitte direkt an Ihre:n Tutor:in, persönlich oder per E-Mail. Er oder sie wird Ihnen gern weiterhelfen. Gruß E.R.",
+                                    "Response to": "p1060225"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Freitags 14:00-16:00 bei Fabian nemitz",
+                            "Discussion_Id": "587940",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059968",
+                                    "Author": "Shubhi Jain",
+                                    "DateTime": "2024-04-20T12:01:54+02:00",
+                                    "Content": "Hallo! Ich suche noch eine person für die Mathe HA gruppe. Bei Interesse bitte schreib eine Email an shubhijn1111@gmail.com Vielen Dank BG Shubhi Jain",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061076",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-22T18:06:59+02:00",
+                                    "Content": "Bitte nutzen Sie das Diskussionsforum für Student:innen für solche Themen. Gruß E.R.",
+                                    "Response to": "p1059968"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe ",
+                            "Discussion_Id": "587698",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059595",
+                                    "Author": "Habiba Diana Soliman",
+                                    "DateTime": "2024-04-19T14:01:55+02:00",
+                                    "Content": "Suche Ha Gruppe schreibt mir gerne über WhatsApp +49 016099861468",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061074",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-22T18:06:13+02:00",
+                                    "Content": "Bitte nutzen Sie das Diskussionsforum für Student:innen für solche Themen. Gruß E.R.",
+                                    "Response to": "p1059595"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Konflikt: Termin Hausaufgabengruppenwahl und erstes Tutorium",
+                            "Discussion_Id": "587815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059770",
+                                    "Author": "Philipp Richard Ostermaier",
+                                    "DateTime": "2024-04-19T17:11:52+02:00",
+                                    "Content": "Hallo, Beim Tutoriumsblatt 1 oben steht, dass die Bearbeitung in der Woche vom 22. - 26.04 erfolgt. Ich gehe daher davon aus, dass die Tutorien kommende Woche beginnen - auch weil die MOSES Wahl erst am Mittwoch feststand. Bei der Wahl der Hausaufgabengruppen in ISIS steht:  \"Abgabepartner:innen finden sich am einfachsten in dem ersten Tutorium. Sollten Sie verhindert sein, an dem ersten Tutorium teilzunehmen, kontaktieren Sie diesbezüglich Ihre/n Tutor:in.\" Da stimme ich zu - ich wuerde gerne meine potentiellen Hausaufgabenpartner in persona treffen, bevor ich mich entscheide. Leider ist die Deadline fuer die Wahl auf ISIS der 21.04 , das heisst VOR dem ersten Tutorium.  Ist das hier intendiert oder ein Fehler? Werden die Studierenden hier dann doch zum Blind - Hausaufgruppen - Dating gezwungen ?  Zuguterletzt kann man seine Gruppenwahl auf ISIS nicht mehr aendern - das ist ein Novum - in anderen Kursen ist das vor der Deadline problemlos moeglich - macht ja auch Sinn. Wenn man nach Ablauf der Deadline alleine in der Gruppe ist dann wird die Korrektur ja anscheinend auch verweigert. Eine Erklaerung / Loseung waere 'much appreciated'. Danke und Mit freundlichen Grüßen, Philipp Ostermaier",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059801",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-04-19T17:46:30+02:00",
+                                    "Content": "Danke, dass du fragst. Ich habe auch schon gegrübelt.",
+                                    "Response to": "p1059770"
+                                },
+                                {
+                                    "Message_id": "p1060428",
+                                    "Author": "Jannis Halbey",
+                                    "DateTime": "2024-04-22T09:29:50+02:00",
+                                    "Content": "Guten Morgen, die Aktivität zur Wahl Hausaufgaben-Gruppen befindet sich zwar in der Woche 15. - 21. April, jedoch ist die Deadline für die Gruppenwahl ist der 3.Mai um 23:59 Uhr. Wir haben die Einstellungen angepasst, Sie können jetzt Ihre Wahl im Nachhinein noch ändern (bis zum 3. Mai 23:59 Uhr). Bitte beachten Sie, dass Sie bei einem Gruppenwechsel ihre schriftliche Hausaufgabe erneut abgeben müssen. Viele Grüße Jannis Halbey",
+                                    "Response to": "p1059770"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unklar: Moegliche Gesamtpunkte und Minimum Punkte fuer Erreichen des Kriteriums ",
+                            "Discussion_Id": "587920",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059937",
+                                    "Author": "Philipp Richard Ostermaier",
+                                    "DateTime": "2024-04-20T08:56:02+02:00",
+                                    "Content": "Hallo, ich bitte um Klaerung der Information auf der ISIS Seite zum Hausaufgabenkriterium. Es gibt : - 11 online Quizz mit jeweils 10 Punkten = 110 Punkte - 11 3er Gruppen Hausaufgaben mit jeweils 20 Punkten = 220 Punkte Das heisst ingesamt koennen 330 Punkte erreicht werden.  Nun ist die Formulierung etwas widerspruechlich auf der ISIS Seite:  \"Die Leistungsnachweis erhält, wer mindestens 60% der insgesamt möglichen Punkte auf den schriftlichen und Online-Hausaufgaben erhält.\" 60 % der insgesamt moegliche Punkte aus schriftlicher und Online Hausaufgaben waeren 198 Punkte von 330 Punkten. Weiters:  \"Es wird insgesamt 11 Hausaufgaben geben, die in die Bewertung einfließen.\"  Wurde im Satz davor nicht gesagt, dass sowohl online als auch schriftliche Hausaufgaben in die Bewertung einfliessen ?  \"Sie benötigen also mindestens 132 von 220 möglichen Punkten.\"  Sollte das heissen 132 Punkte von ingesamt moeglichen 330 Punkten ?  Danke und Mit freundlichen Grüßen Philipp Ostermaier",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060418",
+                                    "Author": "Jannis Halbey",
+                                    "DateTime": "2024-04-22T09:21:30+02:00",
+                                    "Content": "Guten Morgen,  entschuldigen Sie die Verwirrung, das war ein Tippfehler unsererseits. Die Maximalpunktzahl der schriftlichen HA ist ebenfalls 10 Punkte und somit können insgesamt 11*(10+10)=220 Punkte erreicht werden.  Viele Grüße Jannis Halbey",
+                                    "Response to": "p1059937"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabengruppe wechseln",
+                            "Discussion_Id": "588056",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060147",
+                                    "Author": "Helen Sprejz",
+                                    "DateTime": "2024-04-21T10:37:11+02:00",
+                                    "Content": "Hallo, Ich habe mich in einer Gruppe eingetragen, die ich gerne noch wechseln möchte. Es gibt jedoch kein Feld, bei welchem ich meine Wahl ändern kann. Gibt es irgendwie die Möglichkeit dazu?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060220",
+                                    "Author": "Helen Sprejz",
+                                    "DateTime": "2024-04-21T15:18:04+02:00",
+                                    "Content": "Hat sich bereits erledigt",
+                                    "Response to": "p1060147"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabengruppe in der ISIS Einteilung wechseln",
+                            "Discussion_Id": "587611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059452",
+                                    "Author": "Mareike Bräutigam",
+                                    "DateTime": "2024-04-19T11:17:26+02:00",
+                                    "Content": "Guten Morgen, Ich hab das HA-Kriterium schon und dachte aber, dass ich einfach in einer Gruppe mit die HA`s abgeben kann. Jetzt hab ich erfahren, dass wir das so nicht machen sollen, gibt es ne Möglichkeit mich wieder aus der Einteilung in ISIS auszutragen? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059941",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-04-20T09:18:31+02:00",
+                                    "Content": "Liebe Frau Bräutigam,  was Sie erfahren haben, stimmt so nicht. Auch wenn Sie den Leistungsnachweis schon erhalten haben, können SIe sich in HA-Gruppen und Tutorien eintragen, Hausaufgaben abgeben und auch ansonsten das Vorlesungsangebot in vollem Umfang nutzen.  Sie können also in Ihre Hausaufgaben-Gruppe bleiben. Wenn Sie Ihre Gruppe nicht wechseln möchten oder Ihre jetzigen Gruppenpartner eine:n andere:n Partner:in wünschen, dann schreiben Sie mir bitte über die Adresse ana2-ing-sose@math.tu-berlin.de.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1059452"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für fachliche Fragen",
+                    "Forum_id": "1821216",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hausaufgabe 11",
+                            "Discussion_Id": "605911",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087075",
+                                    "Author": "Hao Xiang Max Ye",
+                                    "DateTime": "2024-07-06T14:18:25+02:00",
+                                    "Content": "Bei der schriftlichen Hausaufgabe 11.1 ii) soll man ein zweifaches Integral ausrechnen. Im Laufe der Aufgabe soll man das Integral von cos(x^2) bilden. Ist das ein Schreibfehler? Sollte das nicht der Fall sein bitte ich um Anregungen, da ich nicht weiterkomme.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087893",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-07-09T09:18:42+02:00",
+                                    "Content": "Guten Tag, liebe(r) Hao Xiang Max Ye,  das ist kein Schreibfehler. Um das Integral zu lösen, könnte man eine Substitution verwenden.  Viel Erfolg wünscht  stv. für das Lehr-Team  E. Emanuel Rapsch",
+                                    "Response to": "p1087075"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "8 Digitale Hausaufgabe Aufgabe 2",
+                            "Discussion_Id": "602716",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082483",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-06-22T00:37:13+02:00",
+                                    "Content": "Hi, in Aufgabe 2 wird b=0 als falsch markiert und stattdessen sollte das Ergebnis b=-0 sein. Entsprechend dafür wird ein Punkt abgezogen. Wird dies korrigiert? MfG Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083232",
+                                    "Author": "Igor Taukchi",
+                                    "DateTime": "2024-06-24T19:20:43+02:00",
+                                    "Content": "Hallo, hab dieselbe frage…",
+                                    "Response to": "p1082483"
+                                },
+                                {
+                                    "Message_id": "p1083673",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-25T17:08:05+02:00",
+                                    "Content": "Liebe Frau Onunju,  danke für diesen Hinweis. Das sieht nach einem Fehler in der Programmierung der Hausaufgaben aus. Wir werden Ihr Anliegen schnellstmöglich bearbeiten.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1082483"
+                                },
+                                {
+                                    "Message_id": "p1084122",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-26T17:18:06+02:00",
+                                    "Content": "Liebe Frau Onunju, lieber Herr Taukchi,  das Problem sollte nun behoben sein. Bei Rückfragen stehen wir Ihnen gern zur Verfügung.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1082483"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "9. Hausaufgabe, 5. Aufgabe",
+                            "Discussion_Id": "601334",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080511",
+                                    "Author": "Martin Sebastian Schulze",
+                                    "DateTime": "2024-06-16T23:29:37+02:00",
+                                    "Content": "Guten Tag, ich glaube es gibt einen Fehler bei der 5. Aufgabe der 9. Hausaufgabe. In der Aufgabe soll man Potentiale eines Vektorfeldes V finden, jedoch ist die Divergenz von V nicht 0 sondern 3. (Die beiden ersten partiellen Ableitungen von V sind null aber der Term V3 ist 3z+xy, was abgeleitet nach z, 3 ergeben müsste -> div=3) So wie ich es verstehe ist dies doch die notwendige Bedingung dafür das V überhaupt Potentiale besitzt. Liege ich da falsch oder ist es vielleicht ein Anzeigefehler in der Aufgabe?  Mit freundlichen Grüßen  Sebastian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080936",
+                                    "Author": "Jannis Halbey",
+                                    "DateTime": "2024-06-17T18:42:01+02:00",
+                                    "Content": "Guten Tag, für die Existenz eines Potentials ist (zumindest im drei dimensionalen Fall) die Wirbelfreiheit (Rotation = 0) eine notwendige Bedingung. Bei der Aufgabe gab es jedoch einen Zahlendreher, die korrigierte Version ist jetzt online. Viele Grüße Jannis Halbey",
+                                    "Response to": "p1080511"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 7 Aufgabe 1 ",
+                            "Discussion_Id": "600929",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079918",
+                                    "Author": "Paolo Schümer",
+                                    "DateTime": "2024-06-13T16:20:50+02:00",
+                                    "Content": "Sehr geehrtes Team,  ich habe eine Frage bezüglich der Aufhabe 7.1 in der Hausaufgabe. Ist es in dieser notwendig die Extremstellen zu finden oder kann auch lediglich beweisen das welche existieren.  Ich würde mich über eine Antwort freuen. Mit freundlichen Grüßen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080044",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-06-14T08:59:37+02:00",
+                                    "Content": "Lieber Herr Schümer,  \"Untersuchen Sie die Funktion auf lokale Extremstellen.\" drückt auch die Aufgabe aus, diese zu berechnen. Der zweite Teil \"Besitzt die Funktion globale Extrema?\" fragt nicht nach dem Ausrechnen, sondern nur danach, ob sie welche hat.  Mit freundlichen Grüßen  Stv. für das Lehrpersonal des Kurses, E. Emanuel Rapsch",
+                                    "Response to": "p1079918"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beweis für partielle Integration",
+                            "Discussion_Id": "593118",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068022",
+                                    "Author": "Hao Xiang Max Ye",
+                                    "DateTime": "2024-05-07T21:32:36+02:00",
+                                    "Content": "Wenn man prüfen will ob eine Funktion partiell integrierbar ist, verwendet man doch die h-Methode (oder die, die in der Vorlesung gezeigt worden ist). Jedoch wird beim Prüfen nur ein Punkt betrachtet (meist wichtiger Punkt an dem man auch die Stetigkeit prüft). Reicht ist in dem Fall aus nur den Punkt zu überprüfen? Und wenn ja warum?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075558",
+                                    "Author": "Ernst Emanuel Rapsch",
+                                    "DateTime": "2024-05-30T15:54:04+02:00",
+                                    "Content": "Lieber Herr oder liebe Frau Ye,  entschuldigen Sie bitte die verspätete Antwort. Leider geht Ihr Anliegen aus Ihrer Nachricht nicht klar hervor. Daher möchte ich Sie bitten, Ihr Anliegen zu präzisieren. Ich schlage vor, dass Sie Ihre Frage in Ihrem Tutorium, bei Ihrem Tutor, oder in einer der Sprechstunden stellen. Die Zeiten finden Sie auf der ISIS-Homepage. Ich hoffe, dass ich Ihnen weiterhelfen konnte.  Mit freundlichen Grüßen  E. Emanuel Rapsch",
+                                    "Response to": "p1068022"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum für Student:innen",
+                    "Forum_id": "1786775",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "WhatsApp-Gruppe",
+                            "Discussion_Id": "605936",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087111",
+                                    "Author": "Fariba Walizadeh",
+                                    "DateTime": "2024-07-06T20:23:38+02:00",
+                                    "Content": "Hallo, Gibt es für Ana II eine WhatsApp-Gruppe? Falls ja, könnte jemand bitte den Link schicken?? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087114",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-07-06T21:21:50+02:00",
+                                    "Content": "https://chat.whatsapp.com/KZ5icJr2ZoVA8GorQoZXcG",
+                                    "Response to": "p1087111"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Relevante Tutorien für die Klausur",
+                            "Discussion_Id": "604697",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085370",
+                                    "Author": "Sahra Barsa-Moubayed",
+                                    "DateTime": "2024-07-01T14:38:25+02:00",
+                                    "Content": "Wie viele Tutorien gibt es insgesamt die für die Klausur relevant sind? ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "An meine Gruppe Jana 19",
+                            "Discussion_Id": "595995",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072582",
+                                    "Author": "Gtayet Azmi",
+                                    "DateTime": "2024-05-22T14:07:46+02:00",
+                                    "Content": "Hallo Linus & Burak, ich habe leider mein Handy verloren. Bitte erreicht mir über azmi.gtayet@gmail.com Mfg ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgaben Gruppe",
+                            "Discussion_Id": "592225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066628",
+                                    "Author": "Lara Luise Agnes Schwarzkamp",
+                                    "DateTime": "2024-05-03T21:08:55+02:00",
+                                    "Content": "Hello, hab mich leider nicht wirklich um ne Gruppe gekümmert und mich jetzt einfach mal eingetragen auf Fabian 24, wenn sich jemand dazu tragen möchte gerne machen, ich werd heute nichts mehr abgeben, aber ab nächster Woche dann :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Person für HA Gruppe gesucht",
+                            "Discussion_Id": "592064",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066371",
+                                    "Author": "Bartosz Jozef Kowalczyk",
+                                    "DateTime": "2024-05-03T12:30:43+02:00",
+                                    "Content": "Wir suchen noch eine Person für unsere Hausaufgabengruppe, bei Interesse einfach melden",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "suchen HA-Gruppe eine dritte Person",
+                            "Discussion_Id": "591931",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066164",
+                                    "Author": "Wenbin Zhao",
+                                    "DateTime": "2024-05-02T23:13:28+02:00",
+                                    "Content": 

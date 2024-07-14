@@ -1,0 +1,25 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] SNET: Internet of Services Lab (Seminar)",
+        "Course_id": "38571",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1795622",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Peer-Review",
+                            "Discussion_Id": "601996",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081460",
+                                    "Author": "Wolf Siegfried Rieder",
+                                    "DateTime": "2024-06-19T09:16:16+02:00",
+                                    "Content": "Dear students, you should have now received a paper for the peer-review process. Please submit your review here on ISIS until next Tuesday.  Best Regards Wolf Rieder",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": 

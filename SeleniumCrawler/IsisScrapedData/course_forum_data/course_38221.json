@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Gibbs measures in statistical mechanics",
+        "Course_id": "38221",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1784506",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Using slides",
+                            "Discussion_Id": "596389",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073141",
+                                    "Author": "Alexander Zass",
+                                    "DateTime": "2024-05-23T17:08:10+02:00",
+                                    "Content": "It is possible to use the projector in the room for your presentation.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Attending the seminar",
+                            "Discussion_Id": "590596",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064130",
+                                    "Author": "Alexander Zass",
+                                    "DateTime": "2024-04-29T09:01:06+02:00",
+                                    "Content": "This Thursday (May 2nd), the first student talk of the seminar will take place. I expect most of you to attend, so that we can have a nice and active atmosphere. Moreover, as most of the topics build on each other, it is highly suggested that you attend your colleagues' talks, to improve both your own future presentation, and your understanding of the broad topic of the seminar.  Indeed, even for more separated topics, you will gain general knowledge and heuristics that will be very useful.  See you there, Alexander Zass",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First meeting on April 18",
+                            "Discussion_Id": "584762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055305",
+                                    "Author": "Alexander Zass",
+                                    "DateTime": "2024-04-05T15:45:47+02:00",
+                                    "Content": "The seminar will take place on Thursdays from 14:15 to 15:45 in Room MAR 4.064. The first meeting will take place on Thursday, 18.04.2024  at 14:15.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

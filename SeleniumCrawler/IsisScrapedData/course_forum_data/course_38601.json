@@ -1,0 +1,63 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Leichtbau III",
+        "Course_id": "38601",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1797441",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Themenwahl ist online",
+                            "Discussion_Id": "588978",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061644",
+                                    "Author": "Tom Blümel",
+                                    "DateTime": "2024-04-23T15:28:56+02:00",
+                                    "Content": "Hallo zusammen, wie gerade besprochen ist die Themenwahl jetzt online und ihr könnt euch ein Thema aussuchen, das ihr dann in diesem Kurs bearbeiten wollt. Die Wahl ist jetzt für zwei Wochen offen und endet am 7. Mai um 12:00 Uhr. Da es keine Grenzen für die Gruppengrößen gibt, könnt ihr euch für die Themenauswahl Zeit nehmen und jeder kann das Thema wählen, das sie/ihn am meisten interessiert. Viele Grüße Tom",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064496",
+                                    "Author": "Tom Blümel",
+                                    "DateTime": "2024-04-29T14:49:11+02:00",
+                                    "Content": "Hallo zusammen,  ich möchte nochmal an die Themenwahl für Leichtbau III erinnern. Bislang haben sich nur wenige von euch für ein Thema entschieden.  Viele Grüße Tom",
+                                    "Response to": "p1061644"
+                                },
+                                {
+                                    "Message_id": "p1067075",
+                                    "Author": "Tom Blümel",
+                                    "DateTime": "2024-05-06T11:00:09+02:00",
+                                    "Content": "Hallo zusammen,  kurzer Reminder: die Themenwahl für das Leichtbau III Projekt endet morgen mittag.  Viele Grüße Tom",
+                                    "Response to": "p1064496"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LB III Themenvorstellung am 23. April",
+                            "Discussion_Id": "585975",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057066",
+                                    "Author": "Tom Blümel",
+                                    "DateTime": "2024-04-15T13:44:23+02:00",
+                                    "Content": "Hallo, wie angekündigt werden wir in diesem Semester das Modul Leichtbau III anbieten. Leichtbau III ist ein reines Projekt-Modul bei dem in Gruppenarbeit Aufgabenstellungen aus aktuellen Forschungsprojekten von euch Studierenden bearbeitet werden. Am 23. April findet eine Auftaktveranstaltung statt, in der wir das Modul und die verfügbaren Themen vorstellen wollen. Die Themenvorstellung findet im Raum F119 statt und beginnt um 14:00 Uhr. Wir haben vier Themen zur Auswahl - hier seht ihr die Kurzfassungen und im ISIS-Kurs findet ihr auch Langfassungen (noch im Entwurfsstadium). Thema 1: Spring-In-Effekt Im Rahmen dieses Projekts soll der Spring-In Effekt eines L-Winkels aus kohlefaserverstärktem Kunststoff untersucht werden. Dazu sollen FEM-gestützte Aushärtesimulationen und Strukturanalysen durchgeführt und die Ergebnisse mit real gefertigten L-Profilen verglichen werden. Thema 2: Split Disk Prüfung Bei diesem Thema soll die Split-Disk Prüfung, mit der die mechanischen Eigenschaften von Drucktank-Strukturen experimentell bestimmt werden, untersucht werden. Dabei sollen einerseits die Unterschiede dieses Verfahrens zur klassischen Prüfung von Flachproben analysiert werden. Andererseits soll eine alternative Prüfmethodik entwickelt werden. Thema 3: Ring-Wickelanlage Das Ziel des Projekts ist, eine Wickelanalage zu konstruieren mit der ringförmige Strukturen im Labormaßstab gefertigt werden können. Am Ende des Projektes soll der Entwurf einer Fertigungsanlage entstanden sein. Thema 4: auxetisches Verhalten Bei Faserkunststoffverbunden mit sehr steifen Fasern ergibt sich gemäß Berechnungen bei bestimmten ausgeglichenen Winkelverbunden (z.B. ±25°) ein auxetisches Verhalten. Das bedeutet, dass sich die Materialien bei einer Längszugbelastung in Dickenrichtung ausdehnen - dann ist die Poissonzahl negativ. Ziel der Arbeit ist es, ein geeignetes Messverfahren zu entwickeln und die Poissonzahl in Dickenrichtung im Zugversuch zu ermitteln. Wenn ihr Interesse an den Themen bzw. am Modul Leichtbau III habt und mitmachen wollt, dann kommt einfach am 23.04. um 14 Uhr in den F119! Viele Grüße und bis dann Tom",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061473",
+                                    "Author": "Tom Blümel",
+                                    "DateTime": "2024-04-23T12:42:35+02:00",
+                                    "Content": "Hallo zusammen,  aufgrund von Umbaumaßnahmen ist der F119 heute nicht zugänglich. Wir machen unsere Leichtbau III Vorstellungsrunde stattdessen im F216. Das ist der Raum über dem F119, also im 2. OG direkt beim linken Treppenaufgang. Bitte an alle weitersagen!  Viele Grüße und bis gleich Tom",
+                                    "Response to": "p1057066"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

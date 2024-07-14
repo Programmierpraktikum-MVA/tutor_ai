@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Angewandte Klimatologie I",
+        "Course_id": "38428",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1791634",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Anmeldung für das Modul",
+                            "Discussion_Id": "590198",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063518",
+                                    "Author": "Dieter Ernst Scherer",
+                                    "DateTime": "2024-04-26T13:13:34+02:00",
+                                    "Content": "Sehr geehrte Studierende, bitte beachten Sie, dass am 28. April 2024 die Anmeldefrist für das Modul abläuft. Die Einschreibung im ISIS-Kurs  ersetzt NICHT die Anmeldung für das Modul über das MTS! Bei Rückfragen wenden Sie sich bitte NUR an mein Sekretariat. Mit freundlichen Grüßen Dieter Scherer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1791635",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Wann findet die Vorlesung statt?",
+                            "Discussion_Id": "587634",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059495",
+                                    "Author": "Anuscha Zeighami",
+                                    "DateTime": "2024-04-19T11:59:29+02:00",
+                                    "Content": "Hallo,  ich finde im Kurs keine Infos dazu wann genau die Vorlesung stattfindet?   Vielen Dank  Anuscha",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062186",
+                                    "Author": "Helena Sophia Grethlein",
+                                    "DateTime": "2024-04-24T11:56:57+02:00",
+                                    "Content": "Donnerstags 10-12 Uhr AB 09 Rothenburgstraße 12 12165 Berlin",
+                                    "Response to": "p1059495"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

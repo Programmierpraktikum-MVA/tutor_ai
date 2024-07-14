@@ -1,0 +1,600 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Machine Learning 2",
+        "Course_id": "38845",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1807446",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Cancellation of Today's Lecture",
+                            "Discussion_Id": "607113",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088791",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-11T10:35:40+02:00",
+                                    "Content": "Dear all, today's lecture will be cancelled due to illness of the lecturer. Best wishes, Jacob",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Cancellation of Tomorrow's Exercise Session",
+                            "Discussion_Id": "606960",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088584",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-10T16:28:18+02:00",
+                                    "Content": "Dear all, Since there were no homework assignments this week, tomorrow’s exercise session is canceled. All other lectures and exercise sessions will take place as usual. Best, Jacob",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation Survey",
+                            "Discussion_Id": "605796",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086904",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-05T13:43:16+02:00",
+                                    "Content": "Dear all, Please take 5-10 minutes to complete the course survey for the Machine Learning 2 module by July 12th, 2024. Survey Link: Survey Link Best, Jacob",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration for the First Exam",
+                            "Discussion_Id": "604709",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085388",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-01T14:53:21+02:00",
+                                    "Content": "Dear all, you can now register for the first exam (August 6, 11:30am-1:30pm) via Moses. Please check the prerequisites page again before registering. Machine Learning 2 (9 ECTS): module number #40551 Machine Learning 2-X (12 ECTS): module number #41173 Cheers, Jacob",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Changes in Office Hours",
+                            "Discussion_Id": "598489",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076376",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-06-03T11:53:27+02:00",
+                                    "Content": "Dear all, please note the following changes to the office hours for June and July: The office hours on the 11th, 28th, and 25th of June (Tuesdays) will be online. You can find the link below. The office hours on the 1st, 8th, and 15th of July (Mondays) will be in room MAR 4.003.  Link for online office hours: https://tu-berlin.zoom.us/j/61176080838?pwd=qKAsTgcajhCo475Dv1HHUrltXZx0X3.1",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083596",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-06-25T15:42:07+02:00",
+                                    "Content": "Reminder: for the next three weeks the office hours on Mondays and Tuesdays will be held in room MAR 4.003.",
+                                    "Response to": "p1076376"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New Grading Method for Homework",
+                            "Discussion_Id": "599691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078081",
+                                    "Author": "Julio Cesar Uriostegui Sanchez",
+                                    "DateTime": "2024-06-07T17:13:47+02:00",
+                                    "Content": "Dear all, We are trying a new method for grading the homework, so please be patient with us during this transition. In the meantime, you can see the note for the theory part as a comment on your submission. Have a great weekend!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078790",
+                                    "Author": "Trisha Chetani",
+                                    "DateTime": "2024-06-10T22:53:15+02:00",
+                                    "Content": "Thank you, Julio. I see you are corrected all the programming for week 4 lecture. ",
+                                    "Response to": "p1078081"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office Hour Monday, 03.06.24",
+                            "Discussion_Id": "598073",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075742",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-05-31T10:41:56+02:00",
+                                    "Content": "Dear all, the office hour on the 3rd of June will take place in room: MAR 4057 at time:  3:45pm - 4:45pm, due to an internal event.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076534",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-06-03T15:46:18+02:00",
+                                    "Content": "Correction: MAR 4.033",
+                                    "Response to": "p1075742"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Today's office hour online ",
+                            "Discussion_Id": "590572",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064094",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-04-29T07:55:21+02:00",
+                                    "Content": "Dear all, Due to illness, today's office hour will be held online. I will later post a link.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064197",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-04-29T10:05:01+02:00",
+                                    "Content": "Marienwald, Hannah lädt Sie zu einem geplanten Zoom-Meeting auf der TU Berlin Zoom Instanz ein.  Thema: ML2 Sprechstunde Uhrzeit: 29.Apr. 2024 02:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien  Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/69918001267?pwd=UFplN0lWTFZGcFNzNlVoTUFTVkVKUT09  Meeting-ID: 699 1800 1267 Kenncode: 921043 Schnelleinwahl mobil +496971049922,,69918001267#,,,,,,0#,,921043# Deutschland +496950502596,,69918001267#,,,,,,0#,,921043# Deutschland  Einwahl nach aktuellem Standort +49 69 7104 9922 Deutschland +49 695 050 2596 Deutschland Meeting-ID: 699 1800 1267 Kenncode: 921043 Ortseinwahl suchen: https://tu-berlin.zoom.us/u/cdmYTRgm0i  Über SIP beitreten sip:69918001267.921043@fr.zmeu.us  Über H.323 beitreten 213.19.144.110 (Amsterdam Niederlande) 213.244.140.110 (Deutschland) Kenncode: 921043 Meeting-ID: 699 1800 1267",
+                                    "Response to": "p1064094"
+                                },
+                                {
+                                    "Message_id": "p1074011",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-05-27T11:29:09+02:00",
+                                    "Content": "Dear students, today's office hour will again be held online. I will later post a link.",
+                                    "Response to": "p1064094"
+                                },
+                                {
+                                    "Message_id": "p1074145",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-05-27T13:53:11+02:00",
+                                    "Content": "Marienwald, Hannah lädt Sie zu einem geplanten Zoom-Meeting auf der TU Berlin Zoom Instanz ein.  Thema: ML2 Sprechstunde Uhrzeit: 27.Mai 2024 02:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien  Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/68030661263?pwd=JbnEOW2KwIjaHQ6abnGEbiaJEIznGN.1  Meeting-ID: 680 3066 1263 Kenncode: 205686 Schnelleinwahl mobil +496971049922,,68030661263#,,,,,,0#,,205686# Deutschland +496950502596,,68030661263#,,,,,,0#,,205686# Deutschland  Einwahl nach aktuellem Standort +49 69 7104 9922 Deutschland +49 695 050 2596 Deutschland Meeting-ID: 680 3066 1263 Kenncode: 205686 Ortseinwahl suchen: https://tu-berlin.zoom.us/u/cBEwlsIO0  Über SIP beitreten sip:68030661263.205686@fr.zmeu.us  Über H.323 beitreten 213.19.144.110 (Amsterdam Niederlande) 213.244.140.110 (Deutschland) Kenncode: 205686 Meeting-ID: 680 3066 1263",
+                                    "Response to": "p1074011"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schedule Update for May 2",
+                            "Discussion_Id": "590924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064625",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-04-29T16:53:48+02:00",
+                                    "Content": "Dear all, Please note the following changes for Thursday, May 2: Lecture: 12:00 PM in Room C130 Exercise Session: 2:00 PM in Room H0104 i.e. lecture and exercise session will be swapped this week. Cheers, Jacob",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office hours",
+                            "Discussion_Id": "588273",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060538",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-04-22T10:41:09+02:00",
+                                    "Content": "Dear students, starting from tomorrow, we will offer office hours between 2 and 4 pm on Mondays (MAR 4.033), Tuesdays (MAR 4.003), and Fridays (MAR 4.036). You are more than welcome to ask questions regarding the lectures or exercises. Please note that we will in general not be able to answer questions regarding your course of study, e.g., recognition of credits or formality of registration, in which case you may want to contact your examination office.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise Session 0",
+                            "Discussion_Id": "586829",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058267",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-04-17T12:18:31+02:00",
+                                    "Content": "Dear all, I've uploaded Exercise Sheet 0 to the course page. This document reviews key concepts from Machine Learning 1. If you're new to the subject or need a refresher, please review this sheet. Join tomorrow's exercise session, where we show how to solve these exercises. Cheers, Jacob",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1807450",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Relevant topics",
+                            "Discussion_Id": "607286",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089028",
+                                    "Author": "Marius Marsell",
+                                    "DateTime": "2024-07-11T17:07:47+02:00",
+                                    "Content": "which topics are relevant for the exam or are there topics that are not relevant for the exam? For example, Kernel Machines 4, for which there was no exercise.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089200",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-12T10:13:39+02:00",
+                                    "Content": "Dear Marius,  all lectures and exercises are relevant for examination.  Cheers, Jacob",
+                                    "Response to": "p1089028"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kernel PCA - Paper",
+                            "Discussion_Id": "607401",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089187",
+                                    "Author": "Jonas Engler",
+                                    "DateTime": "2024-07-12T09:53:15+02:00",
+                                    "Content": "Hello, if possible, could upload the associated paper for the Kernel PCA lecture?  With kind regards",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089196",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-12T10:09:16+02:00",
+                                    "Content": "Dear Jonas, here is the paper for kernel PCA: https://alex.smola.org/papers/1998/SchSmoMul98.pdf and here for RDE: https://jmlr.csail.mit.edu/papers/volume9/braun08a/braun08a.pdf Cheers, Jacob",
+                                    "Response to": "p1089187"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Remaining lectures in July",
+                            "Discussion_Id": "606020",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087241",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-07T22:51:22+02:00",
+                                    "Content": "Will there be lectures on the 11th and 18th of July? Best Samuel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088386",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-07-10T10:46:31+02:00",
+                                    "Content": "Dear Samuel,  yes, there will be lectures this week and next week.  Best, Jacob",
+                                    "Response to": "p1087241"
+                                },
+                                {
+                                    "Message_id": "p1088703",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-10T22:56:28+02:00",
+                                    "Content": "Thanks for letting us know  Best",
+                                    "Response to": "p1088386"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Paper: GNN theory",
+                            "Discussion_Id": "602670",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082417",
+                                    "Author": "Julio Cesar Uriostegui Sanchez",
+                                    "DateTime": "2024-06-21T17:04:32+02:00",
+                                    "Content": "For those interested in the GNN theory, the paper is cited in the slides:  Semi-supervised classification with graph convolutional networks: https://arxiv.org/pdf/1609.02907",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Oral Exam possible?",
+                            "Discussion_Id": "601392",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080590",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-06-17T10:26:18+02:00",
+                                    "Content": "Hello, is it possible to have an oral or similar exam at an earlier date? I'm leaving for an ERASMUS exchange and it'd be helpful to be able to have the exam earlier than the 6th of August.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office hours?",
+                            "Discussion_Id": "598580",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076507",
+                                    "Author": "Gabriella Vasconcelos Lara",
+                                    "DateTime": "2024-06-03T15:04:07+02:00",
+                                    "Content": "Hey, Today is monday, and I came for one of the office hours. However, I did not find anyone, and the room seemed to be occupied by a seminar. Was today’s hour postponed?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076561",
+                                    "Author": "Hannah Marienwald",
+                                    "DateTime": "2024-06-03T16:33:31+02:00",
+                                    "Content": "Sorry to hear that. Yes, it was announced on Friday. See: https://isis.tu-berlin.de/mod/forum/discuss.php?d=598073 Please come to another office hour so that we can discuss your questions and regularly check for announcments.",
+                                    "Response to": "p1076507"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for another member for the Homework gourp",
+                            "Discussion_Id": "592979",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067827",
+                                    "Author": "Bouraoui Hamadou",
+                                    "DateTime": "2024-05-07T14:28:58+02:00",
+                                    "Content": "Hey there! We've got a dynamic duo already motivated for the homework, but we're on the lookout for another study buddy or two to join our group. Interested in teaming up and tackling assignments together?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 3 (slides) upload",
+                            "Discussion_Id": "592227",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066632",
+                                    "Author": "Peilin Chen",
+                                    "DateTime": "2024-05-03T21:31:28+02:00",
+                                    "Content": "Hello, is it possible to upload sildes of lecture 3?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067246",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-05-06T14:21:39+02:00",
+                                    "Content": "Dear Peilin,  the slides are now uploaded on the ISIS course page. Sorry for the delay.  Best, Jacob",
+                                    "Response to": "p1066632"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 more members HW-group",
+                            "Discussion_Id": "590474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063938",
+                                    "Author": "Sayed Mohammad Vakilzadeh Hatefi",
+                                    "DateTime": "2024-04-28T10:37:30+02:00",
+                                    "Content": "Hi all, There are 2 slots left in our HW group. DM me on ISIS so that I add you. Best",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064560",
+                                    "Author": "Sayed Mohammad Vakilzadeh Hatefi",
+                                    "DateTime": "2024-04-29T15:51:33+02:00",
+                                    "Content": "Update: there is only one slot left in our group.",
+                                    "Response to": "p1063938"
+                                },
+                                {
+                                    "Message_id": "p1064838",
+                                    "Author": "Sayed Mohammad Vakilzadeh Hatefi",
+                                    "DateTime": "2024-04-30T08:46:25+02:00",
+                                    "Content": "Still looking for 2 more people!",
+                                    "Response to": "p1063938"
+                                },
+                                {
+                                    "Message_id": "p1065800",
+                                    "Author": "Berke Kaan Kirci",
+                                    "DateTime": "2024-05-02T12:32:26+02:00",
+                                    "Content": "Hello are you still looking for 2 group members?",
+                                    "Response to": "p1064838"
+                                },
+                                {
+                                    "Message_id": "p1067043",
+                                    "Author": "Bouraoui Hamadou",
+                                    "DateTime": "2024-05-06T10:16:34+02:00",
+                                    "Content": "Hi, are you still looking for a group member? If yes, then I would like to join your group :)",
+                                    "Response to": "p1064838"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a Group",
+                            "Discussion_Id": "592446",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067033",
+                                    "Author": "Mohammad Moaiad Alhmadh Alsultan",
+                                    "DateTime": "2024-05-06T10:13:03+02:00",
+                                    "Content": "Hello Everyone,  I am still looking for a group for homework, if anyone still has a spot I would like to work with them on homework",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067040",
+                                    "Author": "Bouraoui Hamadou",
+                                    "DateTime": "2024-05-06T10:15:02+02:00",
+                                    "Content": "I am also still looking for a group. How about we create one together?",
+                                    "Response to": "p1067033"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Upload",
+                            "Discussion_Id": "591779",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065925",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-05-02T15:12:07+02:00",
+                                    "Content": "Hey what's up with the upload for the homework? Will we not get any feedback for the homework?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066022",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-05-02T17:29:10+02:00",
+                                    "Content": "Dear Can,  is the submission link not working? https://isis.tu-berlin.de/mod/assign/view.php?id=1807482  Best, Jacob",
+                                    "Response to": "p1065925"
+                                },
+                                {
+                                    "Message_id": "p1066172",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-05-03T00:35:34+02:00",
+                                    "Content": "The deadline is set to 2023. I was also asking about the first two homeworks. Is it possible to get feedback on our solutions?",
+                                    "Response to": "p1066022"
+                                },
+                                {
+                                    "Message_id": "p1066479",
+                                    "Author": "Jacob Reinhard Kauffmann",
+                                    "DateTime": "2024-05-03T15:11:46+02:00",
+                                    "Content": "Dear Can,  thank you for pointing out the 2023 error!  The first two homework sheets are not graded. You can compare your solution to the one provided in the exercise session.  Best, Jacob",
+                                    "Response to": "p1066172"
+                                },
+                                {
+                                    "Message_id": "p1066704",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-05-04T14:52:12+02:00",
+                                    "Content": "Okay, thank you :)",
+                                    "Response to": "p1066479"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group",
+                            "Discussion_Id": "591519",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065549",
+                                    "Author": "Yiwei Diao",
+                                    "DateTime": "2024-05-01T22:56:46+02:00",
+                                    "Content": "Hello, Is there still any group looking for a member? I've studied basic knowledge in ml and python before. Please send me a message if you're interested. Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065818",
+                                    "Author": "Berke Kaan Kirci",
+                                    "DateTime": "2024-05-02T12:51:48+02:00",
+                                    "Content": "Hi Yivei!  We are a group of 2 with basic Ml knowledge would you like to join us for homeworks?  Thanks!",
+                                    "Response to": "p1065549"
+                                },
+                                {
+                                    "Message_id": "p1066063",
+                                    "Author": "Saad Bendou",
+                                    "DateTime": "2024-05-02T18:39:38+02:00",
+                                    "Content": "Hi Berke, i am also looking for a group, i already did MI1 and have ok knowledge in python and LA",
+                                    "Response to": "p1065818"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "We are 2 people and looking for a group",
+                            "Discussion_Id": "591693",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065804",
+                                    "Author": "Berke Kaan Kirci",
+                                    "DateTime": "2024-05-02T12:35:07+02:00",
+                                    "Content": "Hello!  We are 2 people and looking for a homework group.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 1-3 members ",
+                            "Discussion_Id": "591427",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065389",
+                                    "Author": "Marcel Heidebrecht",
+                                    "DateTime": "2024-05-01T11:31:57+02:00",
+                                    "Content": "Hey, a friend and I are looking for one or more members to form a new group/join a group. DM me if interested :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065655",
+                                    "Author": "Mohannad Al Moued",
+                                    "DateTime": "2024-05-02T10:00:16+02:00",
+                                    "Content": "Hii! Do you still have free places in your group?",
+                                    "Response to": "p1065389"
+                                },
+                                {
+                                    "Message_id": "p1065788",
+                                    "Author": "Marcel Heidebrecht",
+                                    "DateTime": "2024-05-02T12:22:42+02:00",
+                                    "Content": "Yes we still need at least one member. I send you a dm with my number",
+                                    "Response to": "p1065655"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "We need 1 more person in our Group!",
+                            "Discussion_Id": "591533",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065568",
+                                    "Author": "Hannah Louisa Boldt",
+                                    "DateTime": "2024-05-02T06:49:41+02:00",
+                                    "Content": "Hi everyone We are a group of four members and looking for one last member. Please answer in this thread (to save other people time) and send me a DM!  kind regards :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065654",
+                                    "Author": "Mohannad Al Moued",
+                                    "DateTime": "2024-05-02T09:58:46+02:00",
+                                    "Content": "Hii! Iam still searching a group, I would be happy to enjoy your group",
+                                    "Response to": "p1065568"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration for ML2-X",
+                            "Discussion_Id": "591384",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065312",
+                                    "Author": "Simon Luca Lösche",
+                                    "DateTime": "2024-04-30T20:31:42+02:00",
+                                    "Content": "Hi all, I want to register for ML2-X. The info on ISIS about the exam registration procedure makes it sound like registration is already possible, only that it will be accepted or declined based on the homework criterion. However when I try to register via Moses it says that \"There are not any exams for this module in the selected semester.\"  Is this intended. Also, do I have to register for the seminar separately anywhere else? Thanks in advance! Kind regards Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "591295",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065177",
+                                    "Author": "Henriette Eleonore Von Helmolt",
+                                    "DateTime": "2024-04-30T16:04:29+02:00",
+                                    "Content": "Hey, I am looking for homework partners :) just send me a DM! ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LFG (we need more people for our group)",
+                            "Discussion_Id": "590615",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064156",
+                                    "Author": "Hannah Louisa Boldt",
+                                    "DateTime": "2024-04-29T09:29:26+02:00",
+                                    "Content": "Hi everyone, We are an existing group of three and looking for one or two more people! :) Best regards ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064247",
+                                    "Author": "Kirill Simonov",
+                                    "DateTime": "2024-04-29T10:49:07+02:00",
+                                    "Content": "Hello Hannah,  i wrote you a PM with my contact data and i hope there still is a slot in your group.  Best regards",
+                                    "Response to": "p1064156"
+                                },
+                                {
+                                    "Message_id": "p1064756",
+                                    "Author": "Hannah Louisa Boldt",
+                                    "DateTime": "2024-04-29T20:27:37+02:00",
+                                    "Content": "We are full now!",
+                                    "Response to": "p1064156"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 2 - Typo?",
+                            "Discussion_Id": "590349",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063737",
+                                    "Author": "Can Kurt Kayser",
+                                    "DateTime": "2024-04-26T19:35:27+02:00",
+                                    "Content": 

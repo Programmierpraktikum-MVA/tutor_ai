@@ -1,0 +1,56 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Geometry II",
+        "Course_id": "38990",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1811907",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung morgen fällt aus",
+                            "Discussion_Id": "597809",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075353",
+                                    "Author": "Boris Springborn",
+                                    "DateTime": "2024-05-30T08:16:55+02:00",
+                                    "Content": "Liebe Studentinnen und Studenten, es tut mir leid, die morgige Vorlesung (Freitag, 31. Mai) muss leider doch ausfallen. Bis nächste Woche! Mit freundlichen Grüßen Boris Springborn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "lectures and tutorial May 27 - 31",
+                            "Discussion_Id": "596045",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072651",
+                                    "Author": "Jan Techter",
+                                    "DateTime": "2024-05-22T15:31:57+02:00",
+                                    "Content": "There will be no lecture and tutorial on Wednesday, May 29. The lecture on Friday, May 31, takes place as scheduled.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "first lecture and tutorials",
+                            "Discussion_Id": "586366",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057639",
+                                    "Author": "Jan Techter",
+                                    "DateTime": "2024-04-16T12:58:02+02:00",
+                                    "Content": "The first lecture takes place tomorrow, Wednesday, April 17. There is no tutorial in the first week.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

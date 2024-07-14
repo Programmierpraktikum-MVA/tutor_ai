@@ -1,0 +1,284 @@
+[
+    {
+        "Course_Name": "Planung von Anlagen der Leit- und Sicherungstechnik (SoSe 2024)",
+        "Course_id": "37818",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1769714",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Informationen zur Projektaufgabe",
+                            "Discussion_Id": "597843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075400",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-05-30T10:40:25+02:00",
+                                    "Content": "Hallo, die Projektaufgabe ist ab sofort online und kann bearbeitet werden. Die Abgabefrist ist der 15. August 2024. Bitte tragt euch zur Bearbeitung der Aufgabe in eine Gruppe ein. Es gibt 2er und 3er Gruppen, sollte jemand alleine in einer Gruppe sein, versuchen wir diese Person in einer noch freien Gruppe unterzubringen. Bisher sind noch nicht alle für die Prüfung angemeldet. Bitte prüft nochmal, ob ihr im MTS angemeldet seid und holt es ggf. nach. Nächste Woche (04. Juni) gibt es nochmal eine reguläre Vorlesung zur Fahrstraßen- und PZB-Planung und danach werden wöchentliche Sprechstunden angeboten.  Beste Grüße Dominik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089018",
+                                    "Author": "Frederik Justin Reich",
+                                    "DateTime": "2024-07-11T16:50:54+02:00",
+                                    "Content": "Hallo,  kurze Informationen zu den Gruppennummern. Ich habe aus Gründen der Übersichtlichkeit die Gruppen zusammengeschoben. Die \"alte\" Gruppe 6 ist jetzt die Gruppe 5 und die \"alte\" Gruppe 7 jetzt die Gruppe 6. Diejenigen die zuletzt eine Gruppe bildeten sind jetzt auch offziell in der Gruppe 4 eingetragen. Für alle weiteren Gruppen ändert sich dahingehend nichts.  Viele Grüße Frederik",
+                                    "Response to": "p1075400"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "605826",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086942",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-07-05T14:35:29+02:00",
+                                    "Content": "Hallo, die Lehrevaluation der Fakultät hat begonnen und ihr habt hier die Möglichkeit bis zum 15.07. daran teilzunehmen: https://befragung.tu-berlin.de/evasys/online.php?pswd=HSPRN Die Umfrage dauert max. 10 Minuten und wir würden uns sehr freuen, wenn ihr zahlreich teilnehmt, da wir nur durch das Feedback der Studierendenschaft unsere Lehre verbessern können.  Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsergebnisse",
+                            "Discussion_Id": "602191",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081709",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-19T16:49:52+02:00",
+                                    "Content": "Hallo, die Korrektur des ersten Prüfungstermins ist abgeschlossen, ihr findet die Ergebnisse im MTS. Die Einsicht findet am 26. Juni von 14:00 bis 15:00 im Raum SG12-204 statt. Dieser Termin gilt auch für den zweiten Prüfungsdurchlauf.  Beste Grüße Dominik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083659",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-25T17:03:05+02:00",
+                                    "Content": "Die Korrektur für den zweiten Prüfungstermin ist abgeschlossen. Die Ergebnisse lassen sich erneut im MTS einsehen.  Beste Grüße Dominik",
+                                    "Response to": "p1081709"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung Prüfung + Gastvortrag Maschek",
+                            "Discussion_Id": "600954",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079953",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-13T17:45:55+02:00",
+                                    "Content": "Hallo, nochmal zur Erinnerung: Am 18. und 25. Juni werden die Prüfungen geschrieben. Die Prüfung dauert 30 Minuten und besteht aus Verständnisfragen und Anwendungsaufgaben zu den Vorlesungsinhalten. Beide Prüfungstermine werden im MAR 0.015 geschrieben. Eine Sprechstunde findet an beiden Tagen nur nach Absprache statt. Im Modul \"Digital Rail\" findet nächste Woche Donnerstag (20.06.) eine Gastvorlesung von Ulrich Maschek zum Thema digitale Planung statt. Das könnte auch für uns ganz interessant sein, von daher kann man sich das ja mal vormerken. Die Vorlesung ist online, der Link wird noch bekannt gegeben.  Beste Grüße Dominik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081851",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-20T09:47:30+02:00",
+                                    "Content": "Link für den Termin heute: https://tu-dresden.zoom-x.de/j/89107227559?pwd=b2RGSEFIeW1jOVJ5Q1VQL3p4VGZxUT09  Es handelt sich anscheinend nicht um eine Gastvorlesung, sondern um ein Vorstellung von ProVI LST mit gelegentlichen Kommentaren von Maschek.",
+                                    "Response to": "p1079953"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ProVI ",
+                            "Discussion_Id": "595929",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072499",
+                                    "Author": "Frederik Justin Reich",
+                                    "DateTime": "2024-05-22T11:36:48+02:00",
+                                    "Content": "Liebe Studis, eine Anleitung zur Installation von AutoCAD und ProVI ist jetzt hochgeladen. Für das Tutorium kommende Woche (28.05.) wäre es vorteilhaft, wenn ProVI bei euch zumindest installiert ist. Falls es Probleme gibt meldet Euch bitte, schreibt auch gerne hier ins Forum.  Noch zwei Anmerkungen für ProVI: 1. Mit \"ProVI 7.2\" ist eine neue Version realtiv neu herausgekommen. Zu älteren Versionen gibt im Bereich LST einige Änderungen. Wir empfehlen Euch die neueste Version zu ntuzen, wobei es weiterhin möglich sein sollte auch mit \"ProVI 7.1\" die Projektaufgabe zu bewältigen. 2. Für die Lizensierung benötigt Ihr (siehe Anleitung) eine Zugangsdatei. Solltet Ihr bereits aus den Modulen \"Entwurf von Anlagen des Schienenverkehrs\" oder \"Betriebsplanung im öffentlichen Verkehr\" eine solche Datei haben, benutzt bitte diese. Für alle ohne Zugangsdatei sind gerade dran neue zu erstellen.  Viele Grüße, Frederik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072549",
+                                    "Author": "Frederik Justin Reich",
+                                    "DateTime": "2024-05-22T13:01:25+02:00",
+                                    "Content": "Kleiner Nachtrag: Alle, die KEINE Zugangdatei haben, bitte per Mail bei mir (f.reich@tu-berlin.de) melden!  Vielen Dank, Frederik",
+                                    "Response to": "p1072499"
+                                },
+                                {
+                                    "Message_id": "p1073402",
+                                    "Author": "Frederik Justin Reich",
+                                    "DateTime": "2024-05-24T14:54:23+02:00",
+                                    "Content": "Hallo zusammen,  Wir haben jetzt neue Zugangsdateien, also falls jemand noch eine Datei benötigt, bitte bei mir melden.  Es wurden ebenfalls alte Zugänge gelöscht. Sollte bei Euch eine ältere Zugangsdatei nicht mehr funktionieren, bitte ebenfalls melden.  Viele Grüße Frederik",
+                                    "Response to": "p1072549"
+                                },
+                                {
+                                    "Message_id": "p1073459",
+                                    "Author": "Frederik Justin Reich",
+                                    "DateTime": "2024-05-24T17:13:03+02:00",
+                                    "Content": "Noch ein weitere Nachtrag zum Link für den ProVI Download: Anscheinend gibt es Probleme, wenn der Link in die Datei mit der Installationsanleitung kopiert wird, warum auch immer. Deswegen hier nochmal der Link:  https://obermeyer.sharefile.eu/share/view/sd379b3094c47418da55d7ac205d1fcca/foe25280-dc8a-45fc-8916-05bd74a0cdf2",
+                                    "Response to": "p1073402"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall VL 14.05. + weiterer Semesterverlauf",
+                            "Discussion_Id": "593375",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068433",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-05-08T17:42:17+02:00",
+                                    "Content": "Hallo, die Vorlesung am 14.05. fällt aus. Wir kommen mit dem Stoff gut voran und es mangelt mir momentan an Zeit, die nächste Vorlesung vorzubereiten. Weiter geht es dann regulär am 21.05. Des Weiteren machen wir am 28.05. eine Einführung in ProVI LST. Es sind alle im Kurs eingeladen daran teilzunehmen, auch wenn ihr die Projektaufgabe gar nicht mit ProVI machen wollt. Weitere Infos folgen am 21.05. Die Einführung findet voraussichtlich am Salzufer statt. Sollte nichts dazwischenkommen, findet am 04.06. die letzte Vorlesung statt. Dort wird dann auch spätestens die Projektaufgabe vorgestellt. Eine Woche später, am 11.06., gibt es zur Vorlesungszeit eine Sprechstunde zu Prüfung und Projektaufgabe.   Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Geänderter Raum 07. Mai",
+                            "Discussion_Id": "591964",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066220",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-05-03T09:06:54+02:00",
+                                    "Content": "Hallo, die Vorlesung am 07. Mai findet abweichend in Raum MAR 0.009 statt. Alle weiteren Vorlesungen sind dann wieder im gewohnten Raum.  Beste Grüße Dominik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Fragen und Diskussionen",
+                    "Forum_id": "1769717",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ergebnisse nicht einsehbar",
+                            "Discussion_Id": "602225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081755",
+                                    "Author": "Jonas Karbaum",
+                                    "DateTime": "2024-06-19T19:31:42+02:00",
+                                    "Content": "Hallo Dominik, Im MTS wird stand jetzt leider kein Ergebnis für den Test angezeigt. Ergebnislose Grüße Jonas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081758",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-19T19:58:34+02:00",
+                                    "Content": "Müsste jetzt gehen.",
+                                    "Response to": "p1081755"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Uhrzeit der Prüfung",
+                            "Discussion_Id": "601650",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080982",
+                                    "Author": "Erenhan Adin Öcal",
+                                    "DateTime": "2024-06-17T21:30:36+02:00",
+                                    "Content": "Hallo, zu welcher Uhrzeit ist die Prüfung morgen? Danke im Voraus.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081005",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-17T22:59:25+02:00",
+                                    "Content": "Beide Prüfungen sind um 10:00",
+                                    "Response to": "p1080982"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fragen zu den ersten Vorlesungen",
+                            "Discussion_Id": "601209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080317",
+                                    "Author": "Eduardo de Almeida Lima",
+                                    "DateTime": "2024-06-15T13:04:16+02:00",
+                                    "Content": "Hallo Dominik. ich hätte einigen Fragen zu den Folien aus den ersten Vorlesung: Frage 1 (VL02, Seite 12): Werden die mechanischen und elektromechanischen Stellwerke wiederum nach dem tabellarischen Prinzip erstellt? Frage 2 (VL02, Seite 15): Wie ist die Kodierung zu verstehen? Auf der Tabelle ist z.B. kein \"A\" aufgelistet und falls es ein Hauptsignal wäre, wäre es andersrum geschrieben. Die Nummerierung vor und nach dem Buchstabe hat welche Bedeutung?  Frage 3 (VL03, Seite 16): 50 m bei Blocksignalen zu einem möglichen stehenden Zug mit maximaler Länge (also 740 m) im Blocksignal? Frage 4 (VL03, Seite 18): Falls ein Zug für 1,5 km aus einer Steigung kommt und die letzten 500 m vor dem Signal ist eine Gefälle mit gleichem Maß, kann trotzdem die Überwachungslänge verkürzt werden?  Frage 5 (VL03, Seite 20): Sind die 337 m bis zum Grenzzeichen vom W7? Vor dem W4L wäre auch ein Stumpfgleis? Frage 6 (VL03, Seite 23): Auf der Seite 23 ist das ferne Signal ein Sperrsignal? VG Eduardo Lima",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080461",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-16T18:14:20+02:00",
+                                    "Content": "Hallo Eduardo,  hier meine Antworten:  Frage 1: Ja, das Spurplanprinzip kam meines Wissens nach erst mit den Relaisstellwerken und demnach sind mechanische und elektromechanische Stellwerke nach dem tabellarischen Prinzip.  Frage 2: In VL03, Folie 35 sieht man nochmal besser, welche Signale welchen Buchstaben kriegen. Die Ziffern vor dem Buchstaben beziehen sich in der Regel auf die Kennzahl der Betriebsstelle. Jede Betriebsstelle innerhalb eines bestimmten Bereichs bekommt eine Nummer von 1 bis 99. Bei den Ziffern hinter den Buchstaben ist etwas anders. Weichen und Kreuzungen werden in der Regel innerhalb einer Betriebsstelle durchgezählt. Signale beziehen sich meistens auf ein Gleis oder einen Gleisfreimeldeabschnitt und bei Bahnübergängen ist der Streckenkilometer namensgebend. Für die Beispiele auf der Folie heißt das: 18A – (Haupt-) Signal A der Betriebsstelle Nr. 18 91G103 – Gleis (oder Gleisabschnitt) 103 der Betriebsstelle Nr. 91 29L12X – Lichtsperrsignal in Gleis 12 in Kilometrierungsrichtung der Betriebsstelle Nr. 29 50U39 – Bahnübergang in Kilometer 3,9 der Betriebsstelle Nr. 50  Frage 3: Bei Blocksignalen, die nur der Zugfolge dienen (also keine Signale an Abzweig- oder Überleitstellen) ist der Durchrutschweg pauschal 50 m. Die Annahme ist, wie du schon sagst, dass bei 740 m langen Zügen, die vor dem nächsten Signal stehen, noch genügend Weg zum Durchrutschen da ist. Bei 1000 m Signalabstand dann 260 m.  Frage 4: Nein, es werden immer die letzten 2 km und der Bremsweg vor dem Signal miteinander verglichen und dann der jeweils niedrigere Wert als maßgebend eingestuft. Angenommen es sind 1,5 km 5 Promille und 0,5 km -5 Promille vor dem Signal und der Bremsweg ist 1 km. Dann wäre bei der Betrachtung 2 km vor dem Signal durchschnittlich eine Steigung von 2,5 Promille, bei der Betrachtung des Bremswegs allerdings eine durchschnittliche Steigung von 0 Promille. 0 Promille ist „gefährlicher“ als 2,5 Promille Steigung, dementsprechend sind 0 Promille maßgebend und man darf die Überwachungslänge nicht verkürzen.  Frage 5: Was meinst du mit dem Stumpfgleis vor W4L? Es gibt ein Stumpfgleis und dort am Gleisabschluss endet der zweite Durchrutschweg (D2). D1 endet am Grenzzeichen der Weiche 7 und ist mit 337 m länger als die geforderten 200 m, aber D-Wege sollen immer an einem markanten Punkt enden und den gibt es hier erst am Grenzzeichen.  Frage 6: Das ist auch ein Hauptsignal. Hier hat man sich dazu entschieden, zwei Hauptsignale aufzustellen. Das vordere Hauptsignal bietet eine geringere Gleisnutzlänge, dafür werden durch die Entfernung zur nächsten Weiche aber weniger Fahrstraßenausschlüsse durch D-Wege entstehen. Das hintere Hauptsignal bietet mehr Gleisnutzlänge, hat dafür aber mehr Fahrstraßenausschlüsse. Zwei Zielsignale sind natürlich eine teure Lösung, deshalb sieht man es recht selten.   Beste Grüße Dominik",
+                                    "Response to": "p1080317"
+                                },
+                                {
+                                    "Message_id": "p1080834",
+                                    "Author": "Eduardo de Almeida Lima",
+                                    "DateTime": "2024-06-17T15:39:59+02:00",
+                                    "Content": "Hallo Dominik,  vielen Dank für die Antworten! Deine Frage zu meiner 5. Frage hat sich geklärt. :)  VG Eduardo",
+                                    "Response to": "p1080461"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bezeichnungen bei der freien Strecke",
+                            "Discussion_Id": "598953",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077019",
+                                    "Author": "Valentyne Stigloher",
+                                    "DateTime": "2024-06-04T17:37:03+02:00",
+                                    "Content": "Hallo zusammen, wir haben ja die Benennung von Gleisfreimeldeabschnitte und dadurch auch der Achszähler in Bahnhöfen ja ausführlich behandelt, aber eine Stelle kann ich nicht per Ril 819.9001 auflösen. Alle Kilometrierungen rtl und der GPA nach Blocksignalen sind zwei Kästchen.  Rechts von ESig F beginnt die freie Strecke und nach meinem Verständnis Teil vom ersten Block. Allerdings gibt es kein Blocksignal in Kilometrierung, welches den ersten Streckenblock deckt, sondern die Ausfahrsignale decken den ersten Streckenblock und die haben keine Nummer (bzw. sie sind bei mehreren ASigs nicht eindeutig). Irgendwie logisch wäre 199, aber dafür habe ich keinen Hinweis gefunden. Eine vergleichbare Situation tritt auch bei zweigleisigen Strecken auf, bei dem Regelgleis der Ausfahrt. Und eine zweite Frage habe ich zu den Blocksignalen: Kann ich mir wegen einer fehlenden spezifischen Regelung die Zählweise aussuchen? Im Sinne von, sind beide Zählweisen möglich oder gibt es wo eine Präferenz?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078886",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-06-11T11:07:13+02:00",
+                                    "Content": "Hallo,  zu Frage 1:  Ich weiß es nicht und ich finde auch keine Quelle, die diesen Sachverhalt näher beschreibt. Die 819.9001 6 (3) sagt, dass Streckenabschnitte ohne Blocksignale mit der Nummer des Streckengleises bezeichnet werden sollen, das ist die Gleisnummer, die häufig in Klammern angegeben wird. Alternativ könnte man hier eventuell von der Vorgabe abweichen und den letzten Abschnitt vor dem Bahnhof entgegen der Kilometrierungsrichtung abweichend nach dem letzten Blocksignal benennen, also in diesem Fall B202. In der Projektaufgabe gibt es keine Informationen zu den Signalen der freien Strecke. Da es nur für die Benennung der Achszähler relevant ist, könnt ihr euch hier die Bezeichnung der Blocksignale ausdenken, auch für das Gegengleis.  Zu Frage 2: Auch hier weiß ich es nicht genau, ich denke aber, dass die Bezeichnung im Planungsprozess recht früh durch das EIU festgelegt wird, da sich die Bezeichnungssystematik meistens auf längere Streckenabschnitte bezieht.  Beste Grüße Dominik",
+                                    "Response to": "p1077019"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführung ProVI",
+                            "Discussion_Id": "597212",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074511",
+                                    "Author": "Ammar Muhammad Muhtaram",
+                                    "DateTime": "2024-05-28T08:46:41+02:00",
+                                    "Content": "Hallo, wo genau findet die heutige Einführung statt?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074543",
+                                    "Author": "Frederik Justin Reich",
+                                    "DateTime": "2024-05-28T09:55:31+02:00",
+                                    "Content": "Wie die Vorlesungen im Raum Mar 0.015!",
+                                    "Response to": "p1074511"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "optimale Gleisfreimeldung von Weichenverbindungen",
+                            "Discussion_Id": "593468",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068587",
+                                    "Author": "Valentyne Stigloher",
+                                    "DateTime": "2024-05-09T12:45:14+02:00",
+                                    "Content": "Hallo zusammen, ich hätte noch eine Frage zur Platzierung von Achszählern an Weichenverbindungen, genauer solchen, wo der Achszähler so platziert werden muss, dass höchstens eine angrenzende Weiche im Zweiggleis freigemeldet werden kann (Maschek 2018 S. 132). Als Abhilfe wird die Stellwerkslogik angepasst, dass die Weiche bei Befahrung des Zweiggleises erst dann freigemeldet wird, wenn auch der angrenzende Gleisabschnitt freigemeldet wurde, in welchem sich das Grenzzeichen befindet. Das würde aber auch bedeuten, dass bei einem sehr langen Gleisfreimeldeabschnitt die Weiche »unintuitiv« recht spät freigefahren wird (wie in unserer Übung, bei einer Fahrt der ersten Weichenverbindung von links). Ich habe dazu zwar keine explizite Nennung in den 10 Schritten gefunden, aber ist das im Punkt 8, Erhöhung der Leistungsfähigkeit (Maschek 2018 S. 307). Wo werden eigentlich diese zusätzlichen »Kopplungen« von Gleisfreimeldeabschnitte vermerkt? Bzw. wo wird die Entscheidung für oder gegen die (anscheinend eher unüblichen) Variante c vermerkt? Das hat ja Auswirkungen auf »Fahrstraßenfolgezeiten«, Durchrutschweglänge (Mitte der Weichenverbindung kann nicht als markanter Punkt dienen), etc. Bezüglich unserer Diskussion zu Teilfahrstraßenknoten: In dem Fachartikel beschreibt Maschek den Begriff als: »Um festzustellen, wo sich Teilfahrstraßenknoten befinden, sind immer zwei benachbarte Wei­chen zu betrachten - unabhängig von den vorgesehenen Fahrstraßen. […] Sind gleichzeitige Fahrten über beide Weichen mög­lich, handelt es sich um zwei Teilfahrstraßen­knoten, die getrennt freigemeldet werden müs­sen«. Ohne jetzt Rücksprache gehalten zu haben, erscheint mir die Einschränkung auf benachbarte Weiche als notwendige, aber nicht hinreichende Bedingung zur Trennung von Teilfahrstraßenknoten. Im Fachbuch heißt es (Maschek 2018 S. 305) »Ein Teilfahrstraßenknoten ist definiert als ein Element eines Fahrstraßenknotens, in dem sich alle darüber führenden Fahrstraßen gegenseitig ausschließen.« demnach gehören die ganz linke Weiche und die ganz rechte Weiche nicht zum selben Teilfahrstraßenknoten; die dazwischenliegende Weiche lässt sich aber beliebig zuordnen. Vermutlich wurde daher auf die Trennung der Teilfahrstraßenknoten in Schritt 3 verzichtet, da es dort noch uneindeutig ist (blau oder orange?).",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069591",
+                                    "Author": "Dominik Knebel",
+                                    "DateTime": "2024-05-13T15:35:17+02:00",
+                                    "Content": "Hallo Valentyne,  zu Achszählern in Weichenverbindungen: Das wäre in meinen Augen auch ein potentielles Beispiel für einen zusätzlichen Achszähler zur Erhöhung der Leistungsfähigkeit. Man könnte es noch als Besonderheit in Schritt 10 einfließen lassen, allerdings kommt der Fall doch recht häufig vor. Die Begründung zur Platzierung von Achszählern sollte im Erläuterungsbericht auftauchen. In den Unterlagen des PT1 wird nach DB-Regelwerk in der sog. Freimeldetabelle vermerkt, dass eine Weiche nicht grenzzeichenfrei ist. Welcher Abschnitt in diesem Fall für die betroffene Weiche freigemeldet werden muss, findet sich dann in der Flankenschutztabelle. Diese Tabelle schauen wir uns in der Vorlesung zum Flankenschutz nochmal genauer an, dann sollte halbwegs ersichtlich werden, was das mit Flankenschutz zu tun hat.  Zu den Teilfahrstraßenknoten: Maschek macht es sich in seinem neusten Fachartikel etwas einfacher und sagt: „Stoßen zwei Weichen stumpf an stumpf aneinander, handelt es sich um zwei Teilfahrstraßenknoten, die freimeldetechnisch zu trennen sind. Befindet sich zwischen beiden bereits mindestens eine Freimeldegrenze, ist nichts weiter zu tun, ansonsten ist in der Mitte der Verbindung eine Freimeldegrenze zu setzen. Lediglich ein Spezialfall ist damit nicht abgedeckt: die doppelte Gleisverbindung. Da aber bei der doppelten Gleisverbindung ohne Kreuzung ohnehin eine Freimeldegrenze zur Gewährleistung der Auflösereihenfolge (Punkt 4) gesetzt werden muss, verbleibt nur noch die doppelte Gleisverbindung mit Kreuzung, die dann manuell angepasst werden muss.“ Die Konstellation stumpf an stumpf mit dazwischenliegender Eigenzwieschutzweiche fällt also nicht unter Schritt 3 oder 4, sondern nach Maschek immer unter Schritt 6. Den orange dargestellten Achszähler schon vorher zu planen, ist in meinen Augen trotzdem nicht falsch, da es ja zum gleichen Ergebnis kommt. Den neusten Artikel habe ich im Kurs hochgeladen.  Beste Grüße Dominik",
+                                    "Response to": "p1068587"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

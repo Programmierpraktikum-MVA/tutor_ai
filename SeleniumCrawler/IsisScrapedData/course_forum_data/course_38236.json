@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Astrophysical Fluid Mechanics",
+        "Course_id": "38236",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1784913",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Changed course times for the next three dates",
+                            "Discussion_Id": "586479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057807",
+                                    "Author": "Michael Mathias Schulreich",
+                                    "DateTime": "2024-04-16T16:02:04+02:00",
+                                    "Content": "In order to compensate for a cancelled appointment at a later date, the course dates on 23 April, 30 April, and 7 May will be half an hour longer and last from 11:45 am to 1:45 pm.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important message to all non-physics students",
+                            "Discussion_Id": "589078",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061816",
+                                    "Author": "Michael Mathias Schulreich",
+                                    "DateTime": "2024-04-23T18:45:03+02:00",
+                                    "Content": "I would ask all students who do not attend this lecture as part of one of the physics master's modules presented (i.e. all non-physicists!) and who wish to use it for the \"Wahlbereich\" to enquire as soon as possible at their responsible examination office whether this is possible, i.e. whether module parts can also be credited for their field of study. It is essential that you clarify this beforehand, otherwise the examination cannot take place.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

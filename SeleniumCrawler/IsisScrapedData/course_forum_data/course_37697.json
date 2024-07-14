@@ -1,0 +1,169 @@
+[
+    {
+        "Course_Name": "QW: Applied Data Science for Quality Engineering SoSe 2024",
+        "Course_id": "37697",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766611",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Restliche Themen und Time Slots für Präsentation",
+                            "Discussion_Id": "606277",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087604",
+                                    "Author": "Jan Pascal Mayer",
+                                    "DateTime": "2024-07-08T14:40:27+02:00",
+                                    "Content": "Hi an alle, am Mittwoch wird David eine thematische Vertiefung in Hypothesentests mit euch besprechen und am Montag werden wir in der letzten Vorlesung die lineare Regression behandeln. Nächsten Mittwoch bieten wir eine Probeklausur an. In welcher Form entscheiden wir spontan. Zusätzlich könnt ihr bezüglich eurer Case Study einen Slot in ISIS buchen.  Liebe Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Netzteil gefunden",
+                            "Discussion_Id": "605171",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086048",
+                                    "Author": "David Michels",
+                                    "DateTime": "2024-07-03T09:30:22+02:00",
+                                    "Content": "Hi an alle, Heute hat jemand sein Netzteil im Vorlesungsraum vergessen. Schreibt mir gerne wenn es euch gehört. Viele Grüße  David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Qualitytools ",
+                            "Discussion_Id": "603032",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082951",
+                                    "Author": "David Michels",
+                                    "DateTime": "2024-06-24T12:45:18+02:00",
+                                    "Content": "Hi an alle, das Qualitytools package könnt ihr mit folgendem R-Code installieren: install.packages(\"devtools\") library(devtools) install_github(\"cran/qualityTools\")  library(qualityTools) Solltet ihr damit noch Probleme haben, können wir gerne am Mittwoch nach der Übung gemeinsam drüber sprechen. Viele Grüße David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unterlagen zur DoE online",
+                            "Discussion_Id": "603009",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082919",
+                                    "Author": "Jan Pascal Mayer",
+                                    "DateTime": "2024-06-24T12:08:11+02:00",
+                                    "Content": "Hi an alle,  da vermehrt Fragen zur DoE und der Case Study aufkamen, sind die Unterlagen aus dem letzten Semester zur DoE online. Nächste Woche gibt es dazu die Vorlesung und Übung sowie eine Fragestunde zur Case Study. Liebe Grüße Jan ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung heute 8:30 Uhr",
+                            "Discussion_Id": "601980",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081441",
+                                    "Author": "Jan Pascal Mayer",
+                                    "DateTime": "2024-06-19T08:00:25+02:00",
+                                    "Content": "Hi an alle,  Heute findet die Übung leider leicht verspätet um 8:30 Uhr statt. Sorry und bis gleich Jan ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Vorlesung und Übung nächste Woche (10. - 16. Juni)",
+                            "Discussion_Id": "599498",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077798",
+                                    "Author": "Jan Pascal Mayer",
+                                    "DateTime": "2024-06-06T17:48:17+02:00",
+                                    "Content": "Hi an alle,  nächste findet die Vorlesung am 10. Juni 2024, sowie die Übung am 12. Juni 2024 nicht statt.  Liebe Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Videos zum Selbststudium und Case Study",
+                            "Discussion_Id": "593041",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067910",
+                                    "Author": "Jan Pascal Mayer",
+                                    "DateTime": "2024-05-07T16:28:39+02:00",
+                                    "Content": "Hi an alle,  ihr findet nun auf ISIS alle nötigen Informationen zur Case Study, sowie die Videos zum Selbststudium.  Liebe Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Übung DQE SoSe 2024",
+                            "Discussion_Id": "586359",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057628",
+                                    "Author": "David Michels",
+                                    "DateTime": "2024-04-16T12:40:22+02:00",
+                                    "Content": "Hi an alle, morgen um 8:00 c.t. findet die erste Übung dieses Semesters statt. Es werden die in der ersten Vorlesung vorgestellten Methoden in der Programmiersprache R umgesetzt und wiederholt. Das dazugehörige R Markdown File findet ihr in diesem Kurs in der ersten Woche. Bitte bringt diesbezüglich einen Laptop mit vorinstalliertem R Environment und RStudio mit.  Hier eine Guideline zur Installation: https://rstudio-education.github.io/hopr/starting.html Bis morgen und liebe Grüße David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Willkommen zum Modul Applied Data Science for Quality Engineering",
+                            "Discussion_Id": "584941",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055565",
+                                    "Author": "David Michels",
+                                    "DateTime": "2024-04-08T13:23:22+02:00",
+                                    "Content": "Liebe Studis, am Montag den 15.04.2024 um 10.00 Uhr ct. findet unsere Einführungsveranstaltung in Raum H0106 statt.  Neben organisatorischen Inhalten werden bereits Methoden und Anwendungen vorgestellt. Liebe Grüße Jan und David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen zur Veranstaltung",
+                    "Forum_id": "1766618",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausgefüllte Übung",
+                            "Discussion_Id": "590454",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063900",
+                                    "Author": "Christoph Lübbert",
+                                    "DateTime": "2024-04-27T18:31:48+02:00",
+                                    "Content": "Moin, ich fand es bei der letzten Übung schwierig, inhaltlich mitzukommen und gleichzeitig den Code mitzuschreiben. Wäre es möglich den Code aus der Übung hochzuladen? VG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " ISIS Umfrage Data Camp Account Name",
+                            "Discussion_Id": "589893",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063074",
+                                    "Author": "Tim Luka Philip Goerschel",
+                                    "DateTime": "2024-04-25T15:50:23+02:00",
+                                    "Content": "Hallo, wo findet man die in VL00 erwähnte ISIS Umfrage \"Data Camp Account Name\"? Vielen Dank für die Rückmeldung!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

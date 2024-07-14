@@ -1,0 +1,96 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Responsible Artificial Intelligence 2",
+        "Course_id": "39093",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1816245",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No Lecture tomorrow, 29th May !!!",
+                            "Discussion_Id": "597386",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074746",
+                                    "Author": "Wojciech Samek",
+                                    "DateTime": "2024-05-28T15:09:41+02:00",
+                                    "Content": "I am really sorry, but we have to cancel the lecture tomorrow. I will record a video and upload it on ISIS. Sorry for the short notice!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No Lecture tomorrow, 15th May !!!",
+                            "Discussion_Id": "594321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069965",
+                                    "Author": "Wojciech Samek",
+                                    "DateTime": "2024-05-14T12:41:01+02:00",
+                                    "Content": "There will be no lecture tomorrow due to the unavailability of the room. However, I will upload a video lecture by the end of the week.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Semester Start Information",
+                            "Discussion_Id": "586383",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057663",
+                                    "Author": "Wojciech Samek",
+                                    "DateTime": "2024-04-16T13:32:46+02:00",
+                                    "Content": "Dear all, The first lecture takes place tomorrow (April 17 at 2.15pm). Room: Salzufer 15/16, fifth floor. Please direct organizational questions to the discussion forum or email me (wojciech.samek@tu-berlin.de). Best regards, Wojciech Samek",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion forum",
+                    "Forum_id": "1816254",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exam Dates",
+                            "Discussion_Id": "604280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084732",
+                                    "Author": "Christoph Rauchegger",
+                                    "DateTime": "2024-06-28T14:05:55+02:00",
+                                    "Content": "Hello, since it is already pretty close and I didn't find any exam dates, when will the first and second exam will be. Totally forgot about it since they are not in my calendar and hope that I can still make it to one of the exams.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086193",
+                                    "Author": "Wojciech Samek",
+                                    "DateTime": "2024-07-03T14:04:40+02:00",
+                                    "Content": "Hi, the exams dates are 23th July (10am) and 3rd Sep (10am).",
+                                    "Response to": "p1084732"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam",
+                            "Discussion_Id": "600289",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078973",
+                                    "Author": "Laurids Karl Michael Radtke",
+                                    "DateTime": "2024-06-11T13:17:00+02:00",
+                                    "Content": "Hello, when and of what type will the exam be? Thank you! Best regards, Laurids",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

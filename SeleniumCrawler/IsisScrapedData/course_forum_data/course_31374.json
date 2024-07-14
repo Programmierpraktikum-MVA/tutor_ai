@@ -1,0 +1,516 @@
+[
+    {
+        "Course_Name": "Digitale Regelungen WS 22/23",
+        "Course_id": "31374",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1426175",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ergebnisse DR-Prüfung und Einsicht",
+                            "Discussion_Id": "528599",
+                            "Messages": [
+                                {
+                                    "Message_id": "p966738",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-05-15T12:23:00+02:00",
+                                    "Content": "Sehr geehrte Studierende, Die Punkte und Noten der DR-Prüfung, Hausaufgaben, Kurztest und Praktika sind unter Bewertung eingetragen. Die Gesamtnote bildet sich aus 30 Punkte Hausaufgabe, 10 Punkten Kurztest und 60 Punkte Prüfung. die Einsichtnahme in den Schlusstest findet am Donnerstag, den 01.06.2023, um 14:00 Uhr im Raum EW 115A statt. Dort können Sie sich auch Ihren Spickzettel abholen.   Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "#p966738"
+                                },
+                                {
+                                    "Message_id": "p972132",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-05-31T09:34:14+02:00",
+                                    "Content": "Sehr geehrte Studierende,  der Termin für morgen zur Einsicht in DR muss leider abgesagt werden, da in diesem Zeitraum eine andere Veranstaltung im Raum EW 115 A stattfinden wird. Die Einsicht findet am Mittwoch um 15:00 Uhr. Es tut mir sehr leid!  Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "#p966738"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse DR-Prüfung, Wiederholungsschlusstest und Einsicht",
+                            "Discussion_Id": "516340",
+                            "Messages": [
+                                {
+                                    "Message_id": "p947508",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-03-07T11:54:05+01:00",
+                                    "Content": "Sehr geehrte Studierende, Die Korrektur der DR-Prüfung sind unter Bewertung eingetragen. Die Gesamtnote bildet sich aus 30 Punkte Hausaufgabe, 10 Kurztest und 60 Punkte Prüfung. Für die Noten müssen noch die Protokolle für das dritte und vierte Praktikum abgegeben werden und können bis zum 14.03.2023 auf der IsIs-Seite hochgeladen werden. Der zweite Termin für die DR-Prüfung wird am Do, 13.04.2023 14:00 Uhr, Raum C 130 stattfinden. Sollten Sie daran teilnehmen wollen, melden Sie sich bitte per Nachricht von Ihrer TU-Adresse an mich bis zum 07.04.23 an. Sollten Sie zur Teilnahme berechtigt sein und nicht teilnehmen wollen, wäre ich über eine Absage dankbar. die Einsichtnahme in den Schlusstest findet am Dienstag, den 21.03.2023, um 10:00 Uhr im Raum EW 115A statt. Dort können Sie sich auch Ihren Spickzettel abholen.  Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zweiter Kurztest Ergebnisse",
+                            "Discussion_Id": "514591",
+                            "Messages": [
+                                {
+                                    "Message_id": "p944142",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-22T11:15:59+01:00",
+                                    "Content": "Sehr geehrte Studierende, die Ergebnisse für den zweiten Kurztest finden Sie auf der IsIs-Seite unter Bewertung. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DR-Vorbereitung und Inhalte ",
+                            "Discussion_Id": "514083",
+                            "Messages": [
+                                {
+                                    "Message_id": "p943182",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-20T10:43:37+01:00",
+                                    "Content": "Sehr geehrte Studierende, Bitte beachten Sie folgende Hinweise zur Klausur: # Hinweise zur Klausur: 1. Einführung in diskrete Regelungen    • Struktur und Elemente des diskreten Regelkreises    • Beschreibung des Abtastvorgangs und Echtzeitsystem (nicht relevant)  2. Diskreter Regelungen – Entwurf quasikontinuierlicher Regelungen    • Reglerentwurf im s-Bereich    • Beschreibung des Abtastvorgangs im Frequenzbereich, Diskretisierung      (Integrationsverfahren), Regelalgorithmen, Reglerentwurf im s-Bereich 3. Diskreter Regelungen – Entwurf im z-Bereich     1. Einführung z-Transformation, Stabilität, Wurzelortskurvenverfahren     2. Digitales Betragsoptimum     3. Entwurf auf endliche Einstellzeit (Dead-Beat-Regelung)     4. Diskrete Zustandsregelungen 4. Diskrete Parameter- und Zustandsschätzung stochastischer Prozesse     1. Mathematische Grundlagen (nicht relevant)     2. Parameteridentifikation im Zeitbereich     3. Kalman-Filter (diskreter Fall und EKF)     4. Parameteridentifikation im Frequenzbereich (nicht relevant) 5. Künstliche Intelligenz für Zustandsschätzung und Regelung     1. Funktionsapproximation mit neuronalen Netzen     2. Grundlegende Lerngesetze     3. Lernfähiger Beobachter (nicht relevant) # Mögliche Prüfungsschwerpunkte in DR (Aufgabenschwerpunkte) - Reglerentwurf im z-Bereich,  Stabilität offener und geschlossender Regelkreis im z-Bereich - WOK, Abhängigkeit Polstellen s-Bereich und z-Bereich - Reglerdiskretisierung im Zeitbereich und mithilfe der z-Trafo (Trapezregel, Euler-Verfahren, Summenform, Pol- Nullstellen-Form) - Digitale Zustandsregelung (Rechenaufgabe) - Digitales Betragsoptimum (Rechenaufgabe) - Quaikontinuierliche Regelung (Rechenaufgabe oder Kurzaufgaben) - Dead-Beat-Regler (Verständnis und Grapheninterpretation, Kurzaufgaben) - Stabilität im diskreten Bereich (Eigenwertanalyse oder algebraische Stabilitätskriterien) (Verständnis- und Rechenaufgaben) - Parameteridentifikation (LS, GLS, RLS, IV, Kalmanfilter) - Neuronale-Netze und die Lernverfahren (Vergleich RBF-Netz, GRNN-Netz, LS-Verfahren, Gradientenabstiegsverfahren)    (HANN-Netz, lernfähiger Beobachter nicht relevant) Viele Erfolg bei der finalen Klausurvorbereitung! Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zweiter Kurztest 22.12.2022 EW 115A ",
+                            "Discussion_Id": "514081",
+                            "Messages": [
+                                {
+                                    "Message_id": "p943176",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-20T10:35:45+01:00",
+                                    "Content": "Sehr geehrte Studierende, der zweite Kurztest findet am Mittwoch 22.12.2022 um 10:15 Uhr in EW 115 A statt. Der Kurztest dauert 10 min und besteht aus Multiple Choice Fragen und kleine Folgende Inhalt sind für die Vorbereitung relevant (nicht alle Inhalte müssen drankommen!). 1. quasikontinuierliche Regelunge  AH-Glied, Approximation Totzeit-Glied,P-T1-Glied  Regler entwürfe aus der GRT LV (Betragsoptimum und Frequenzkennlinienverfahren) sind im Kurztest nicht relevant 2. Diskretisierung des Reglers Trapezregel, Rechteckregel mit den Approximationen aus der z-Trafo Differenzengleichung in z-Übertragungsfunktion umwandeln und umgekehrt Diskretisierung im Zeitbereich über Integrale ist nicht relevant 3. z-Transformation Stabilität im z-Bereich Beispiel: Ausgehend von Go(z) die Stabilität von Gw(z) analysieren oder einen freien Reglerparameter in Go so auslegen, dass Gw Binomialverhalten,      Butterworthverhalten, ... aufweist. 4. Digitales Betragsoptimum Gw(z) ist gegeben die Koeffizienten richtig ablesen und die Summenformel für eine simple Übertragungsfunktion aufstellen und ein Parameter bestimmen (1-3 Summanden). 5. Diskrete Zustandsregelungen Berechnung des Diskreten ZRM Phi und H Allgemeine Form der RNF verstehen 6. Schauen Sie sich die Übertragungsfunktion Go = Ko/(z(z-1)) aus der Vorlesung. Dies hatten wir auch in der Übung für verschiedene Beispiele hergeleitet. Als Hilfsmittel wird ausschließlich die 1.Seite der z-Tabelle zur Verfügung gestellt. Es sind keine anderen Hilfsmittel erlaubt. Viel Erfolg bei der Vorbereitung! Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schlusstest DR: Ablauf, Sprechstunden",
+                            "Discussion_Id": "514066",
+                            "Messages": [
+                                {
+                                    "Message_id": "p943155",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-20T09:58:57+01:00",
+                                    "Content": "Sehr geehrte Studierende, wie bereits angekündigt, findet der Schlusstest in Digitale Regelungen am Mo, 27.02.2023 10:00 Uhr, Raum C 130 in Präsenz statt. Die Bearbeitungszeit beträgt 60 Minuten. Allgemeine Hinweise zum Abschlusstest: Zugelassene Unterlagen/Hilfsmittel: Studierendenausweis Dokumentenechter Stift (Kugelschreiber, Fine-Liner, ...) Achtung: Darstellungen mit Bleistift oder/und in roter bzw. grüner Farbe sind untersagt und werden nicht gewertet! Ein beidseitig persönlich mit Hand beschriebenes A4-Blatt über die Inhalte des Moduls DR. Dieses wird nach dem Schlusstest gemeinsam mit den Unterlagen des Tests eingesammelt (und kann bei Ihrer Einsichtnahme wieder abgeholt werden). Taschenrechner (nicht-programmierbar) Für die Testbearbeitung sind max. 5 dokumentenechte Stifte zulässig. Darstellungen mit Bleistift oder/und in roter bzw. grüner Farbe sind untersagt und werden nicht gewertet! Sie benötigen auch kein eigenes Papier; dies wird Ihnen gestellt. Die erste Seite der z-Tabelle wird während der Prüfung zur Verfügung gestellt. Alle über die explizit zugelassenen Hilfsmittel hinausgehenden Unterlagen und Gegenstände dürfen nicht an Ihren Prüfungsplatz mitgebracht werden. Dies wird als Täuschungsversuch mit der bekannten Konsequenz des Nichtbestehens gewertet. Es ist insofern ausdrücklich nicht gestattet, dass sich Mobiltelefone, Smartphone, Tablets, usw. (welcher Art auch immer) an Ihrem Prüfungsplatz befinden! Sie benötigen auch kein eigenes Papier; dies wird Ihnen gestellt. Das Beschriften von nicht gestelltem Papier wird als Täuschungsversuch mit der bekannten Konsequenz des Nichtbestehens gewertet. Aufbau des Tests: Der Test besteht zu ungefähr einem Drittel aus Theoriefragen (z.B. mit frei zu formulierenden Antworten, Erläuterungen, Skizzen, kleinen Rechnungen,) und zu ungefähr zwei Dritteln aus Aufgaben mit Schwerpunkt auf mathematischen (Reglerentwürfe, Parameteridentifikationsverfahren) Berechnungen/Herleitungen. Die Online-Sprechstunden finden an den folgenden Terminen statt: Dienstag, 21.02.2022, 10:00 Uhr via Zoom Mittwoch, 22.02.2022, 10:30 Uhr im Raum EW 115 A Der Link zur Online-Sprechstunde ist auf der Kursseite zu finden. Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DR letzte Vorlesung",
+                            "Discussion_Id": "513223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p941679",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-15T09:12:39+01:00",
+                                    "Content": "Sehr geehrte Studierende,  heute findet die letzte Vorleung zur KI statt. Im Anschluss werden wir noch die weiterführenden Module und anstehende Projekte bei uns vorstellen Zusätzlich werden auch die Inhalte und Schwerpunkte der DR Prüfung vorgestellt.  Eine Aufgabensammlung zur Klausur wurde im IsIs-Kurs hochgeladen.  Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einladung Laborrundgang zu Forschungsthemen",
+                            "Discussion_Id": "510952",
+                            "Messages": [
+                                {
+                                    "Message_id": "p938125",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-06T09:11:53+01:00",
+                                    "Content": "Sehr geehrte Studierende,  zum Kennenlernen der Forschungsthemen unseres Fachgebiets bieten wir Ihnen am kommenden Mittwoch die Möglichkeit (jeweils nach dem Praktikum), an einem 30 bis 45-minütigen Laborrundgang teilzunehmen. Es werden verschiedene Smart Materials sowie Versuchsstände aus der Mechatronik und Regelungstechnik vorgestellt.  Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "5. Praktikum: Kalmanfilter",
+                            "Discussion_Id": "510951",
+                            "Messages": [
+                                {
+                                    "Message_id": "p938124",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-02-06T09:07:38+01:00",
+                                    "Content": "Sehr geehrte Studierende, das 5. Praktikum findet am Mittwoch 08.02.2023 statt. Sie implementieren selbstständig das in den fünften Hausaufgabe entworfene Kalmanfilter. Für das Praktikum benötigen sie die Lösungen der Hausaufgaben und insbesondere die MATLAB- und Simulink-Dateien. die Datei für das Praktikum sowie die Benutzerhilfe für dSpace wurde auf ISIS hochgeladen. Die durchzuführenden Messungen sind in den Dateien entahlten und werden mit 2 Punkten bewertet. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "4. Praktikum am 25.01.2023",
+                            "Discussion_Id": "508330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p933892",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2023-01-25T08:18:17+01:00",
+                                    "Content": "Sehr geehrte Studierende,  nochmal zur Erinnerung, das 4. Praktikum wird heute nicht stattfinden. Stattdessen wird mit der Vorlesung weiter gemacht.  LG Oli ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online-Vorlesung am Mittwoch um 10:15 Uhr",
+                            "Discussion_Id": "503160",
+                            "Messages": [
+                                {
+                                    "Message_id": "p925948",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2023-01-03T10:42:52+01:00",
+                                    "Content": "Sehr geehrte Studierende, wir wünschen Ihnen ein frohes Neues Jahr und alles Gute für 2023! Auf Grund der aktuellen Schließung der TUB findet die morgige Vorlesung online via Zoom statt. Der entsprechende Link ist auf ISIS zu finden. Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kurztest 08.12.2022 EW 115A",
+                            "Discussion_Id": "499726",
+                            "Messages": [
+                                {
+                                    "Message_id": "p920213",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-12-08T10:12:43+01:00",
+                                    "Content": "Sehr geehrte Studierende, der erste Kurztest findet nächste Woche am 14.12.2022 10:15 Uhr in EW 115 A statt. Der Kurztest dauert 10 min und besteht aus Multiple Choice Fragen und kleine Rechenaufgaben. Im IsIs-Kurs können Sie Ihren Kurztesttermin und Prüfungstermin unter Auswahl Kurztesttermin und Auswahl Schlusstesttermin auswählen. Bitte füllen Sie die Auswahl des Kurztests bis zum 12.12.22. aus. Der Schlusstesttermin kann bis zum 11.01.2022 ausgewählt werden. Folgende Inhalt sind für die Vorbereitung relevant (nicht alle Inhalte müssen drankommen!). 1. quasikontinuierliche Regelunge  AH-Glied, Approximation Totzeit-Glied,P-T1-Glied  Regler entwürfe aus der GRT LV (Betragsoptimum und Frequenzkennlinienverfahren) sind im Kurztest nicht relevant 2. Diskretisierung des Reglers Trapezregel, Rechteckregel mit den Approximationen aus der z-Trafo Differenzengleichung in z-Übertragungsfunktion umwandeln und umgekehrt Diskretisierung im Zeitbereich über Integrale ist nicht relevant 3. z-Transformation Stabilität im z-Bereich Beispiel: Ausgehend von Go(z) die Stabilität von Gw(z) analysieren oder einen freien Reglerparameter in Go so auslegen, dass Gw Binomialverhalten,      Butterworthverhalten, ... aufweist. 4. Digitales Betragsoptimum Gw(z) ist gegeben die Koeffizienten richtig ablesen und die Summenformel für eine simple Übertragungsfunktion aufstellen und ein Parameter bestimmen (1-3 Summanden). 5. Diskrete Zustandsregelungen Berechnung des Diskreten ZRM Phi und H Allgemeine Form der RNF verstehen 6. Schauen Sie sich die Übertragungsfunktion Go = Ko/(z(z-1)) aus der Vorlesung. Dies hatten wir auch in der Übung für verschiedene Beispiele hergeleitet. Als Hilfsmittel wird ausschließlich die 1.Seite der z-Tabelle zur Verfügung gestellt. Es sind keine anderen Hilfsmittel erlaubt. Viel Erfolg bei der Vorbereitung! Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Praktikum: Digitales Betragsoptimum",
+                            "Discussion_Id": "498999",
+                            "Messages": [
+                                {
+                                    "Message_id": "p918952",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-12-06T09:28:54+01:00",
+                                    "Content": "Sehr geehrte Studierende, das 2. Praktikum findet morgen am 07.12.2021 statt. Die Praktika werden im Raum EW 115A durchgeführt. Die Gruppenaufteilung wird nicht geändert! Sie implementieren selbstständig die in den zweiten  Hausaufgabe entworfenen Regelungen. Für das Praktikum benötigen sie die Lösungen der Hausaufgaben und insbesondere die MATLAB- und Simulink-Dateien. die Datei für das Praktikum sowie die Benutzerhilfe für dSpace wurde auf ISIS hochgeladen. Die durchzuführenden Messungen sind in den Dateien entahlten und werden mit 2 Punkten bewertet. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde fällt diese Woche aus ",
+                            "Discussion_Id": "498717",
+                            "Messages": [
+                                {
+                                    "Message_id": "p918447",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2022-12-05T11:19:37+01:00",
+                                    "Content": "Sehr geehrte Studierende,  diese Woche wird die Sprechstunde krankheitsbedingt ausfallen.  Lg Oli ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Digitale Regelungen Vorlesung am 23.11.2022 online via Zoom ",
+                            "Discussion_Id": "495366",
+                            "Messages": [
+                                {
+                                    "Message_id": "p912717",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-11-22T09:35:39+01:00",
+                                    "Content": "Sehr geehrte Studierende, die morgige Vorlesung Digitale Regelung wird ausnahmsweise online via Zoom stattfinden. Der Link ist im IsIs-Kurs zu finden. Ebenfalls wird die Vorlesung auf Grund der Temperaturabsenkung in der Weichnachtszeit am 4.1.2023 online stattfinden. Wir bitten um Ihr Verständnis. Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Praktikum: quasikontinuierliche Regelungen",
+                            "Discussion_Id": "493388",
+                            "Messages": [
+                                {
+                                    "Message_id": "p909244",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-11-14T16:04:44+01:00",
+                                    "Content": "Sehr geehrte Studierende, das 1. Praktikum findet am Mittwoch 16.11.2022 statt. Die Praktika werden im Raum EW 115A durchgeführt. Die Gruppen sind wie folgt aufgeteilt: Termin1: 10:00 Uhr - 12:00 Uhr/ Gruppen: 1,  2, 4, 5, 7 Termin2: 12:00 Uhr - 14:00 Uhr/ Gruppen: 3, 8, 9, 10, 11 Im Praktikum werden wir zusammen mit dSpace arbeiten und die Schritte bis zur Implementierung des Antriebssystems vorgestellt. Danach implementieren sie selbstständig die in den ersten  Hausaufgabe entworfenen Regelungen. Für das Praktikum benötigen sie die Lösungen der Hausaufgaben und insbesondere die MATLAB- und Simulink-Dateien die Datei für das Praktikum sowie die Benutzerhilfe für dSpace wurde auf ISIS hochgeladen. Die durchzuführenden Messungen sind in den Dateien entahlten und werden mit 2 Punkten bewertet. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DR 1.Praktikum am 16.11.",
+                            "Discussion_Id": "491738",
+                            "Messages": [
+                                {
+                                    "Message_id": "p906560",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-11-08T14:45:26+01:00",
+                                    "Content": "Sehr geehrte Studierende, das Praktikum findet erst nächste Woche am 16.11. statt. Morgen wird normal Vorlesung und Übung stattfinden. Die genaue Aufteilung der Praktika erfolgt nach der Vorlesung. Mit freundlichen Grüßen Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "489823",
+                            "Messages": [
+                                {
+                                    "Message_id": "p903365",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-11-02T08:40:39+01:00",
+                                    "Content": "Sehr geehrte Studierende, die Prüfungsanmeldung endet heute um 23:59. Wie angekündigt, können Sie nur an den Hausaufgaben und die Prüfung teilnehmen, wenn Sie für die Prüfung angemeldet sind und in einer Gruppe zugeordnet. Ansonsten müssen wir Sie aus dem Kurs entfernen. Sollten Sie doch teilnehmen wollen, schreiben Sie uns gerne eine Nachricht. Nicht vollständige Gruppen werden in dreier Gruppen zusammengeführt. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Link zur heutigen Sprechstunde ",
+                            "Discussion_Id": "489436",
+                            "Messages": [
+                                {
+                                    "Message_id": "p902730",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2022-11-01T09:58:25+01:00",
+                                    "Content": "Falls ihr an der Sprechstunde teilnehmen wollt, dann klickt bitte auf diesen Link: https://tu-berlin.zoom.us/j/64346708559?pwd=bCtkeTFOWW1HWnBxSmsvWER1MmZVdz09  Bei den nächsten Sprechstunden könnt ihr dann direkt auf meinen Namen klicken. Falls keiner kommt, werde ich die Sprechstunde nach 15 Min. schließen.  LG Oli",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einige Inhalte aus GRT",
+                            "Discussion_Id": "489004",
+                            "Messages": [
+                                {
+                                    "Message_id": "p902002",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-10-31T11:31:38+01:00",
+                                    "Content": "Sehr geehrte Studierende, im IsIs-Kurs DR wurden einige Inhalte aus GRT (Videos und PDF-Dateien) hochgeladen. Es wurden zwei verschiedene Entwurfsverfahren für einen Regler hochgeladen: Reglerentwurf nach dem Frequenzkennlinienverfahren und Reglerentwurf mit dem Betragsoptimum. Für ein besseres und tieferes Verständnis des elektrischen Antriebs in der 1.HA ist zusätzlich die Übung 8. Übung: Regelung elektromagnetischer Aktoren (Reglerentwurf mit dem Betragsoptimum) zur Verfügung gestellt worden. Zur Bearbeitung der Hausaufgabe brauchen Sie nur die Inhalte zum Betragsoptimum (natürlich auch Kap.2 aus DR). Die restlichen GRT-Inhalte sind zusatzmaterial. Bei Bedarf können wir gerne nach der Vorlesung einige Inhalte aus GRT Wiederholen. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online Sprechstunde diese Woche am Dienstag",
+                            "Discussion_Id": "488982",
+                            "Messages": [
+                                {
+                                    "Message_id": "p901951",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2022-10-31T11:03:55+01:00",
+                                    "Content": "Sehr geehrte Studierende, diese Woche wird einmalig die Online Sprechstunde am Dienstag, dem 1.11.2022 von 10 bis 12 Uhr stattfinden. Ab nächster Woche dann immer am Montag. Außerdem wird Masoud jeden Mittwoch nach der Vorlesung ebenfalls eine Sprechstunde halten (in Präsens).   Lg Oli",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsfolien Kap. 1 - Kap. 3 und 1.Hausaufgabe",
+                            "Discussion_Id": "487439",
+                            "Messages": [
+                                {
+                                    "Message_id": "p899125",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-10-26T13:58:48+02:00",
+                                    "Content": "Sehr geehrte Studierende, die Vorlesungsfolien zu den Kapiteln 1 bis 3 stehen nun in der aktuellen Woche auf ISIS für Sie zur Verfügung. Die ersten Übungs-Screencasts und die 1. Hausaufgabe sind auch hochgeladen worden. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einteilung der Hausaufgabengruppen",
+                            "Discussion_Id": "487438",
+                            "Messages": [
+                                {
+                                    "Message_id": "p899121",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-10-26T13:56:41+02:00",
+                                    "Content": "Sehr geehrte Studierende, sie können Sich bis zum 28.10.2021 um 10:00 in den Hausaufgabengruppen nachträglich eintragen. Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Hausaufgaben",
+                    "Forum_id": "1458387",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hinweise ",
+                            "Discussion_Id": "493298",
+                            "Messages": [
+                                {
+                                    "Message_id": "p909085",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2022-11-14T12:55:52+01:00",
+                                    "Content": "Sehr geteerte Studierende, Die Hausaufgabe 1 wurde korrigiert und hochgeladen  -Ich möchte nur einmal darauf hinweisen, dass bei der Implementierung der ARW-Maßnahme das Signal u_k bevor es mit dem maximalen Drehmoment vom Motor verglichen wird, in Betrag genommen werden soll. Das haben die meisten nicht beachtet. In Simulink heißt der Block Abs. Wer das nicht gemacht hat, soll das für das Praktikum bitte verbessern. Genauso wie die Fehler aus der Korrektur.  -Außerdem sollt ihr immer bei der Abgabe der Hausaufgaben die Matlab (.m) und die Simulink (.slx) Dateien mit abgeben.  - Bitte vergisst nicht, die Matlab/Simulink Datei für das Praktikum als Version 2016a abzuspeichern und mitzubringen.  Lg Oli ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hinweise zur 1. Hausaufgabe",
+                            "Discussion_Id": "491309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p905846",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2022-11-07T13:44:49+01:00",
+                                    "Content": "Sehr geehrte Studierende,  ich würde gerne paar Fragen beantworten, die in der Sprechstunde gestellt wurden.  1) In Aufgabenteil 1d muss nur die Trapez- und Rechteckregel mit ARW-Maßnahme implementiert werden.  2) Als Wert für die Störgröße kann zwischen 0.02-0.05 Nm gewählt werden. Für die Maximale Stellgröße (Maximales Drehmoment) in der ARW-Maßnahme soll 0.15 Nm eingestellt werden.  LG Oli   ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierende",
+                    "Forum_id": "1458388",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ergebnisse DR-Prüfung",
+                            "Discussion_Id": "526694",
+                            "Messages": [
+                                {
+                                    "Message_id": "p963722",
+                                    "Author": "Enrico Bruno Chiappini",
+                                    "DateTime": "2023-05-08T10:09:49+02:00",
+                                    "Content": "Hallo,  ist die Korrektur der zweiten Prüfung fertig? Außerdem, benötige ich eine Leistungnachweis weil ich einen Austauschstudent bin. Mit freundlichen Grüßen Enrico Chiappini",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kapitel 5 Indizierung",
+                            "Discussion_Id": "514743",
+                            "Messages": [
+                                {
+                                    "Message_id": "p944412",
+                                    "Author": "Ole Lennard Bleß",
+                                    "DateTime": "2023-02-23T00:32:10+01:00",
+                                    "Content": "Hallo, die Indizierung im Foliensatz zu Kapitel 5 kommt mir teilweise etwas komisch vor, deshalb wollte ich fragen, ob das Tippfehler sind oder ob ich nur etwas nicht verstehe. Hier die Stellen nach meinem Verständis: F.6: Hier wird die Funktion N von R^N nach R definiert, im Vektor u_N sind dann aber m Elemente enthalten. F.13: Hier wird der i-te Xi-Vektor mit den Elementen Xi_i1 bis Xi_ip gezeigt mit p als Dimension vom Eingangsvektor und i=1...p. Müsste i nicht über die Anzahl der Stützstellen q gehen? F.18: In der Grafik wird die Anzahl der Stützstellen mit p bezeichnent, in den Formeln dann mit q (außer bei der Summe über A_k). Und die Grafik deutet nach meiner Interpretation an, dass y immer 1 ist, da die Gewichtung über die Summe von A*Theta anstelle von A erfolgt (A im Sinne von RBF). Danke und viele Grüße Ole",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum 3 Parameter",
+                            "Discussion_Id": "505511",
+                            "Messages": [
+                                {
+                                    "Message_id": "p929615",
+                                    "Author": "Kilian Daniel Laschewsky",
+                                    "DateTime": "2023-01-12T12:18:31+01:00",
+                                    "Content": "Hallo, ich habe mir leider nicht die im Praktikum vorgegebenen we und n1 notiert, möchte aber die Messergebnisse mit unserer Simulation (für die beiden Paramater) vergleichen. Wie lauten die vorgegebenen we und n1? LG Kilian",
+                                    "Response to": "#p929615"
+                                },
+                                {
+                                    "Message_id": "p932600",
+                                    "Author": "Oliver Milardovic",
+                                    "DateTime": "2023-01-20T15:56:26+01:00",
+                                    "Content": "Hi, so haben wir we vorgegeben. Ich weiß grade nicht, was du mit n1 meinst. Tsw = 3e-3; w0=1/(2*Tsw); we=1/sqrt(2)*w0;  LG Oli",
+                                    "Response to": "#p929615"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zustandsraum-Modell",
+                            "Discussion_Id": "505369",
+                            "Messages": [
+                                {
+                                    "Message_id": "p929399",
+                                    "Author": "Jason Osayi",
+                                    "DateTime": "2023-01-11T19:35:20+01:00",
+                                    "Content": "Hallo, Ich habe jetzt ein I-Anteil implementiert für die Zustandsregelung wie im Praktikum beschrieben wurde. Durch den I Anteil ist das Ergebnis zwar stationär genau, aber das Regler verhalten verändert sich. Müsste man in diesem Fall den Regler neu auslegen, damit das gewünschte Verhalten eintritt? Bei der Einbringung der Störgrößen wundert mich, dass ein einfacher Vorfilter zur Ausregelung der Störgröße reicht. Wenn ich die Störgöße Z durch den Störgrößenfilter mit einer kleinen Zahl multipliziere ist abzusehen das die stationäre Abweichung kleiner wird. Nach welchem Konzept wird der Vorfilter ausgelegt? Wieder wie in GRT indem man den gesamten Regelkreis aufstellt und in W und Z anteil aufspaltet? Und noch eine Frage fürs Verständnis. Im ZRM werden die Störgrößen schon respektiert, das heißt kompliziertere Störgrößen müssen mit der Regelstrecke modelliert und im ZRM eingearbeitet werden? mit freundlichen Grüßen Jason",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufteilung der Praktika am 16.11.22",
+                            "Discussion_Id": "493306",
+                            "Messages": [
+                                {
+                                    "Message_id": "p909103",
+                                    "Author": "Dingyuan Wan",
+                                    "DateTime": "2022-11-14T13:27:12+01:00",
+                                    "Content": "Guten Tag, ich möchte kurz fragen, wie es mit der Aufteilung der Praktika am 16.11 aussieht? Danke",
+                                    "Response to": "#p909103"
+                                },
+                                {
+                                    "Message_id": "p918945",
+                                    "Author": "Abd Elkarim Masoud",
+                                    "DateTime": "2022-12-06T09:24:22+01:00",
+                                    "Content": "Die Praktika werden gleich bleiben wie beim letzten mal.  Viele Grüße Abdelkarim Masoud",
+                                    "Response to": "#p909103"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe",
+                            "Discussion_Id": "485972",
+                            "Messages": [
+                                {
+                                    "Message_id": "p896706",
+                                    "Author": "Da Wool Jung",
+                                    "DateTime": "2022-10-24T11:31:12+02:00",
+                                    "Content": "Hey,  ich suche eine HA Gruppe. Wenn ihr noch keine Gruppe gesucht habt, schreib mir gern. 017647106529",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kurztest",
+                            "Discussion_Id": "485026",
+                            "Messages": [
+                                {
+                                    "Message_id": "p894940",
+                                    "Author": "Christian Leonardi Putra Rompas",
+                                    "DateTime": "2022-10-20T21:11:31+02:00",
+                                    "Content": "Hallo an alle, ich habe eine Frage zum Kurztest: Es gibt 2 Termine für den Kurztest, weiß jemand ob die Themen für die beide Termine gleich sind? Ich meine, werden die Themen (Vorlesungen, Übungen) nach dem 14.12. (erster Termin) auch im zweiten Termin abgefragt?  LG, Chris.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Gruppe Suchen",
+                            "Discussion_Id": "485018",
+                            "Messages": [
+                                {
+                                    "Message_id": "p894924",
+                                    "Author": "Christian Leonardi Putra Rompas",
+                                    "DateTime": "2022-10-20T20:41:32+02:00",
+                                    "Content": "Hallo leute, ich bin auf der Suche nach HA Gruppe. Ich studiere Maschinenbau im Master und ich habe in meinem Bachelor bereits Module (AuM,GRT,MTuS) am FG EMK belegt. Ich kann auch in LaTEX schreiben. LG,  Chris.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche GruppenpartnerInnen",
+                            "Discussion_Id": "484188",
+                            "Messages": [
+                                {
+                                    "Message_id": "p893500",
+                                    "Author": "Vassilij Evrim Nadarajah",
+                                    "DateTime": "2022-10-19T13:23:09+02:00",
+                                    "Content": "Hallo zusammen, ich bin auf der Suche nach GruppenpartnerInnen, welche Lust an der Bearbeitung der HA in Latex (Overleaf) haben. Ich studiere im 4. Semester Maschinenbau im Master und habe in der Vergangenheit bereits Module (AuM,MSE,RMS) am FG EMK belegt. Gruß, Vassilij",
+                                    "Response to": "#p893500"
+                                },
+                                {
+                                    "Message_id": "p893818",
+                                    "Author": "Fabian Robert Grüneberg",
+                                    "DateTime": "2022-10-19T18:48:21+02:00",
+                                    "Content": "Hey,  ich suche auch noch eine Gruppe. Momentan schreibe ich meine Bachelorarbeit in Elektrotechnik und habe dieses Modul als Freiwahl-Modul belegt.  Schöne Grüße Fabian.",
+                                    "Response to": "#p893500"
+                                },
+                                {
+                                    "Message_id": "p893917",
+                                    "Author": "Zhengda Li",
+                                    "DateTime": "2022-10-19T23:28:46+02:00",
+                                    "Content": "Moin, bin 3. Semester CES Studierender und würde gerne auch mal in Latex schreiben. Wollen wir drei e Gruppe bilden?  Grüße zurück Zhengda",
+                                    "Response to": "#p893500"
+                                },
+                                {
+                                    "Message_id": "p894841",
+                                    "Author": "Vassilij Evrim Nadarajah",
+                                    "DateTime": "2022-10-20T18:31:15+02:00",
+                                    "Content": "Ich hab mich jetzt in Gruppe 7 eingetragen. Ihr könnt euch gerne dazutragen.",
+                                    "Response to": "#p893500"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

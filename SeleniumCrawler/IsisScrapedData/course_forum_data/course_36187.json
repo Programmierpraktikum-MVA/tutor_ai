@@ -1,0 +1,842 @@
+[
+    {
+        "Course_Name": "Einführung in die Allgemeine und Anorganische Chemie WiSe 23/24 und SoSe 24",
+        "Course_id": "36187",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1677011",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Erinnerung Klausureinsicht",
+                            "Discussion_Id": "593179",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068130",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-05-08T10:04:56+02:00",
+                                    "Content": "Liebe Studierende, gerne erinnere ich Sie an die Möglichkeit zur Klausureinsicht, heute um 16:00 Uhr in Hörsaal C 130.  Mit den besten Grüßen, Selina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausureinsicht",
+                            "Discussion_Id": "591766",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065904",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-05-02T14:43:19+02:00",
+                                    "Content": "Liebe Studierende, nächste Woche Mittwoch, am 8. Mai 2024 um 16:00 Uhr findet die Klausureinsicht in Hörsaal C 130 statt.  Mit den besten Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurergebnisse",
+                            "Discussion_Id": "589752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062864",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-25T11:48:29+02:00",
+                                    "Content": "Liebe Studierende, die Ergebnisse der Klausur vom 6. April 2024 sind jetzt online und auf der ISIS Kursseite für Sie sichtbar. Ein Termin und Ort für die Klausureinsicht wird in Kürze bekannt gegeben.  Beste Grüße, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wichtige Informationen zur Klausur am 6. April 2024// Raumeinteilung",
+                            "Discussion_Id": "584635",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055115",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-04T15:04:15+02:00",
+                                    "Content": "Liebe Studierende, die Klausur am kommenden Samstag, den 6. April 2024 von 10:00 Uhr bis 12:00 Uhr wird in drei verschiedenen Hörsälen stattfinden. Wir haben Sie anhand des ersten Buchstaben Ihres Nachnamens sortiert, unten aufgelistet finden Sie die entsprechende Einteilung: A-H = Hörsaal H 0104 J-R = Hörsaal HE 101 S-Z = Hörsaal MA 001  Einlass ist ab 9:30 Uhr, bitte seien Sie entsprechend pünktlich vor Ort. Ein Periodensystem ist während der Klausur als Hilfsmittel nicht erlaubt. Die Ordnungszahl der ersten 20 Elemente müssen Sie kennen.  Mit besten Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Letzte Erinnerung// Skriptkosten",
+                            "Discussion_Id": "584466",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054871",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-03T08:30:24+02:00",
+                                    "Content": "Liebe Studierende, gerne erinnere ich Sie erneut an den Upload Ihres Belegs zur Zahlung der Skriptkosten insofern Sie in diesem Semester am Praktikum teilgenommen haben. Ohne diesen können wir Sie nicht zur Prüfung am kommenden Samstag zulassen. Sollten Sie das Praktikum bereits in einem vergangenen Semester abgeschlossen haben und auf MTS noch keine Zulassungsbestätigung haben können Sie mich gerne kontaktieren.  Mit den besten Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung Skriptkosten",
+                            "Discussion_Id": "584209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054467",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-03-28T13:48:51+01:00",
+                                    "Content": "Liebe Studierende, gerne erinnere ich Sie an den Upload Ihres Belegs zur Zahlung der Skriptkosten insofern Sie in diesem Semester am Praktikum teilgenommen haben. Ohne diesen können wir Sie nicht zur Prüfung im April zulassen. Sollten Sie das Praktikum bereits in einem vergangenen Semester abgeschlossen haben und auf MTS noch keine Zulassungsbestätigung haben können Sie mich gerne kontaktieren.  Mit den besten Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "BVG Streik",
+                            "Discussion_Id": "581333",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1049927",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-02-26T08:31:33+01:00",
+                                    "Content": "Liebe Studierende, wie Sie sicher bereits wissen wird die BVG in dieser Woche am Donnerstag ganztägig sowie Freitag bis 14:00 Uhr bestreikt. Wir bitten Sie daher S-Bahn und Deutsche Bahn Verbindungen wahrzunehmen und dafür ggf. eine längere Reisezeit in Kauf zu nehmen. Leider besteht die Möglichkeit nicht, Sie in andere Gruppen des Praktikums aufzunehmen da diese bereits ausgeschöpft sind.  Vielen Dank und beste Grüße, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wichtige Informationen zum Praktikum",
+                            "Discussion_Id": "580763",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1048962",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-02-21T12:45:02+01:00",
+                                    "Content": "Sehr geehrte Teilnehmer*innen am Praktikum des Moduls \"Einführung in die Allgemeine und Anorganische Chemie\", bitte beachten Sie, dass Sie sich am ersten Praktikumstag pünktlich um 7:45 Uhr bzw. 13:15 Uhr am Haupteingang des Chemiegebäudes (Seite Straße des 17. Juni, nicht Campuseingang) einfinden und dort auf Ihre Assistent*innen warten sollen. Sie müssen beim Einlass wissen in welchem Raum (C 116 oder C 218) und an welchem Platz Sie arbeiten werden. Die Listen mit diesen Informationen werden auf ISIS veröffentlicht. Sollten Sie sich verspäten, kommen Sie direkt in den entsprechenden Raum und melden sich bei Ihrem Assistenten oder Ihrer Assistentin. Wenn Sie verhindert sein sollten, rufen Sie bitte an und melden sich ab: Raum C 116 (030-314-26495) und Raum C 218 (030-314-29654). Vor den praktischen Arbeiten müssen Sie an einer Vorbesprechung/Sicherheitsunterweisung teilnehmen. Diese findet in zwei Teilen statt. Der erste Teil besteht darin, dass Sie die auf ISIS hochgeladenen Sicherheitsvideos ansehen, der zweite Teil besteht aus der Saalführung durch die Assistent*innen (Feuerlöscher, Augenduschen, Telefon, Ausgänge, Chemikalien…) und der Bestätigung durch Unterschrift, dass Sie die Videos gesehen haben. Bitte vergessen Sie nicht, einen eigenen Baumwollkittel mitzubringen. Wir stellen keine Kittel zur Verfügung. Ohne Kittel können Sie nicht am Praktikum teilnehmen. Außerdem müssen Sie für die Arbeit im Labor geschlossenes Schuhwerk und lange Hosen tragen. Bringen Sie außerdem ein Feuerzeug und einen wasserfesten Stift zum Beschriften von Glasgeräten, sowie eine Rolle Küchenpapier mit. Die Modulabschlussprüfung finde am Samstag, den 06. April 2024 in Präsenz statt. Nähere Infos zur Prüfung werden rechtzeitig auf ISIS bekanntgegeben. Das Praktikumsskript kostet 6 Euro. Bitte überweisen Sie diesen Betrag unverzüglich nach Erhalt des Skripts. Ohne den Überweisungsbeleg hochgeladen zu haben können Sie nicht an der Modulabschlussprüfung teilnehmen. Infos dazu finden Sie auf ISIS.  Ein Tausch innerhalb der Praktikumsgruppen oder ein nachträgliches hinzufügen ist nicht mehr möglich! Mit freundlichen Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausuranmeldung ab sofort",
+                            "Discussion_Id": "578008",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1044623",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-02-07T12:41:18+01:00",
+                                    "Content": "Sehr geehrte Teilnehmer*innen der Prüfung zum Modul \"Einführung in die Allg. und Anorg. Chemie\" im SoSe 2024, hiermit möchten wir Ihnen einige wichtige Informationen bezüglich der Klausur am 6. April 2024 in diesem Modul zukommen lassen.  Die Klausuranmeldung steht Ihnen ab heute, 13:30 Uhr bis zum 30. März 2024 (23:59 Uhr) auf der MOSES Plattform (MTS) zur Verfügung. Sie können sich bis zum 3. April 2024 (23:59 Uhr) von der Klausur abmelden. Zulassungsvoraussetzung ist wie sonst auch die Teilnahme am Praktikum sowie die Zahlung der Skriptkosten. Studierende die Ihr Praktikum bereits absolviert haben müssen die Skriptkosten natürlich nicht erneut bezahlen. Sollten Sie am Praktikum noch nicht teilgenommen haben können Sie sich bereits dennoch zur Klausur anmelden, Sie werden dann nach Bestehen des Praktikums und Übermittlung des Zahlungsnachweises der Skriptkosten zugelassen. Den Überweisungsbeleg zur Bestätigung der Zahlung der Skriptkosten laden Sie bitte unter dem Reiter 'Überweisungsbeleg einreichen' auf der ISIS Kursseite hoch (Upload-Funktion verfügbar ab dem 26. Februar 2024/ erster Praktikumstag).  Alle Studierenden unabhängig davon wann Sie ihr Praktikum absolvieren/ absolviert haben müssen sich auf MTS anmelden um zugelassen zu werden. Bitte überprüfen Sie rechtzeitig vor der Prüfung Ihren Zulassungsstatus!  Mit den besten Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminare am 22.01. fallen aus",
+                            "Discussion_Id": "573590",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1038275",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-01-21T13:46:01+01:00",
+                                    "Content": "Liebe Studierende, leider müssen beide Seminare am Montag den 22.01.2024 (13 und 14 Uhr) krankheitsbedingt ausfallen. Die Aufgaben zu Blatt 12 werden in der nachfolgenden Woche besprochen. Viele Grüße Sophie Hund",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrveranstaltungsevaluation",
+                            "Discussion_Id": "572916",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1037243",
+                                    "Author": "Johannes Schmidt",
+                                    "DateTime": "2024-01-17T13:39:16+01:00",
+                                    "Content": "Liebe Studierende, im Wintersemester 2023/24 wird die Lehrveranstaltungsevaluation wieder ausschließlich online durchgeführt. Aus diesem Grund möchten wir Sie bitten, unter dem folgenden Link das Moduls \"Allg. & Anorg. Chemie für Nebenfachhörer\" anonym zu bewerten: https://befragung.tu-berlin.de/evasys/online.php?pswd=F9YXA  Wir freuen uns, wenn Sie bis zum 19.01.2024 kurzfristig an der Evaluation teilnehmen. Freundliche Grüße Johannes Schmidt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WICHTIG! Neue Anmelderunde Praktikumskurse",
+                            "Discussion_Id": "571501",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1035037",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-01-11T14:20:47+01:00",
+                                    "Content": "Liebe Studierende, aufgrund eines Fehlers unsererseits muss die Anmeldung für die Praktikumskurse erneut erfolgen. Diejenigen die sich bereits in einen der Kurse eingeschrieben haben müssen dies nun erneut tun, die Anzahl der Plätze wurden jedoch erhöht. Die Anmeldezeit wurde dementsprechend auch bis einschließlich 26. Januar 2024 verlängert.  Wenn Sie Ihr Praktikum bereits in einem der vergangenen Semester erfolgreich abgeschlossen haben müssen Sie sich NICHT erneut für das Praktikum einschreiben und können direkt an der Klausur teilnehmen.  Vielen Dank und beste Grüße, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Warteliste für Praktikum",
+                            "Discussion_Id": "571364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1034843",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-01-11T09:08:51+01:00",
+                                    "Content": "Liebe Studierende, da die Anfrage nach einem Praktikumsplatz dieses Jahr sehr hoch ist und die aktuellen Kurse bereits komplett gefüllt sind haben wir eine Warteliste für diejenigen erstellt die sich bis jetzt noch keinen Platz sichern konnten. Diese finden Sie ebenfalls in dem Abschnitt der 'Gruppeneinteilung Praktikum'. Bitte schreiben Sie sich hier ein so dass Sie bei Absagen gegebenenfalls nachrutschen können.  Alle diejenigen die bereits in einem Praktikumskurs sind, den Termin aber doch nicht wahrnehmen können, bitte ich sich rechtzeitig wieder abzumelden, so dass Sie anderen die Chance geben diesen Platz zu bekommen.  Mit den besten Grüßen, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Letzte Erhöhung Teilnehmerzahl Praktikumswochen",
+                            "Discussion_Id": "571233",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1034625",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-01-10T15:24:33+01:00",
+                                    "Content": "Liebe Studierende, die Anzahl der Teilnehmer je Praktikumswoche wurden ein letztes Mal auf 38 erhöht. Einige Plätze sind noch frei. Sollten Sie bereits in einem Kurs angemeldet sein ist ein selbstständiger Tausch nicht möglich. Sie können sich um einen Tauschpartner kümmern oder ggf. auf Absagen warten und dann nachrutschen.  Beste Grüße, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumverschiebung Seminar 12.01.2024",
+                            "Discussion_Id": "570563",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1033669",
+                                    "Author": "Elisabeth Irran",
+                                    "DateTime": "2024-01-08T18:11:17+01:00",
+                                    "Content": "Liebe Studierende, wegen einer anderen Veranstaltung muss dass Seminar Allgemeine und Anorganische Chemie am Freitag, den 12. Januar, ausnahmsweise im Raum H0107 (Erdgeschoss Hauptgebäude, gegenüber Cafeteria Wetterleuchten) stattfinden. Bitte sagen Sie auch Kommilitonen, die das betrifft, Bescheid. Nächste Woche (Freitag 19. Januar) findet das Seminar wieder im C230 statt. Viele Grüße, Elisabeth Irran",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erhöhung Teilnehmeranzahl Praktikumswochen",
+                            "Discussion_Id": "570275",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1033281",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-01-08T09:46:06+01:00",
+                                    "Content": "Liebe Studierende, wir haben aufgrund der hohen Anfrage die Anzahl der maximalen Teilnehmer der jeweiligen Praktikumswochen von 32 auf 36 erhöht. Diejenigen von Ihnen die bisher also keine Möglichkeit hatten einen Platz in einer der Wochen zu ergattern, haben nun erneut eine Chance.  Beste Grüße, Selina Schwaiger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1677014",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hochladen auf Noten ins Notenspiegel",
+                            "Discussion_Id": "595677",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072123",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-05-21T14:05:09+02:00",
+                                    "Content": "Hi, wann werden die Noten auf QISPOS hochgeladen? MfG,  Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072177",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-05-21T15:17:00+02:00",
+                                    "Content": "Guten Tag,  die Noten sind bereits seit letzter Woche auf Qispos. Sollte Ihre noch nicht verbucht sein liegt das am Prüfungsamt, ich bitte Sie daher noch um ein Wenig Geduld.  Beste Grüße",
+                                    "Response to": "p1072123"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Noten 1. Termin",
+                            "Discussion_Id": "594049",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069518",
+                                    "Author": "Huixin Pu",
+                                    "DateTime": "2024-05-13T14:02:28+02:00",
+                                    "Content": "Sehr geehrte Frau Schwaiger, Guten Tag! Wann werden die Noten für 1. Termin in QISPOS eingetragen? Ich benötige die Note für die Erasmus Bewerbung. Vielen Dank! Mit freundlichen Grüßen, Huixin Pu",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069529",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-05-13T14:14:29+02:00",
+                                    "Content": "Guten Tag,  da die Klausureinsicht erst letzte Woche Mittwoch war und es einige Änderung gab, wird die Notenverbuchung vermutlich erst diese Woche stattfinden. Beste Grüße",
+                                    "Response to": "p1069518"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Versuch?",
+                            "Discussion_Id": "593184",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068136",
+                                    "Author": "Luna Saleem Hussein Abu-Al Hana",
+                                    "DateTime": "2024-05-08T10:12:58+02:00",
+                                    "Content": "Hallo! Ich habe mich vorhin für den Ersttermin angemeldet und konnte dann leider nicht an der Klausur teilnehmen. Ich wollte mich abmelden, aber habe es dann vergessen. Gilt das als 1 Versuch?  Und ab wann kann ich mich für den 2.Termin anmelden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068180",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-05-08T11:15:30+02:00",
+                                    "Content": "Guten Tag,  wenn Sie sich nicht rechtzeitig abgemeldet haben und sich für diesen Tag auch nicht entschuldigt haben gilt dies als 1. Versuch/ nicht bestanden. Der zweite Klausurtermin wird vorraussichtlich im Oktober sein.",
+                                    "Response to": "p1068136"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur ",
+                            "Discussion_Id": "586648",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058033",
+                                    "Author": "Omar Mohsen Hassan Abdelrahman",
+                                    "DateTime": "2024-04-17T02:32:34+02:00",
+                                    "Content": "Guten Tag,  wann genau findet die Klausur im Oktober statt?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058774",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-04-18T09:30:35+02:00",
+                                    "Content": "Hallo,  Sie werden hier im ISIS-Kurs eine Information finden, sobald der konkrete Termin bekannt ist.  Viele Grüße Sophie Hund",
+                                    "Response to": "p1058033"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kein taschenrechner ",
+                            "Discussion_Id": "584791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055348",
+                                    "Author": "Bent Ole Thomsen",
+                                    "DateTime": "2024-04-06T09:34:27+02:00",
+                                    "Content": "Ich kann meinen Taschenrechner bei bestem Willen nicht finden... Gibt es die Möglichkeit sich einen auszuleihen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wann und wo genau ist die Prüfung",
+                            "Discussion_Id": "584616",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055085",
+                                    "Author": "Laura Christine Vater",
+                                    "DateTime": "2024-04-04T12:52:04+02:00",
+                                    "Content": "Hallo liebe Frau Schwaiger,  wann und wo ist jetzt nochmal die Prüfung. Ich finde es gerade weder im organisatorischen Teil noch bei der Diskussion oder ganz unten bei der Klausur.  Liebe Grüße, Laura Vater",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055090",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-04T13:04:58+02:00",
+                                    "Content": "Die Klausur wird am Samstag, den 6. April 2024 um 10:00 Uhr in drei verschiedenen Hörsälen stattfinden. Wir werden Sie spätestens morgen früh hier über die ISIS Kursseite über die genaue Einteilung informieren so dass Sie wissen zu welchem Hörsaal Sie müssen. Einlass ist ab 9:30 Uhr.  Beste Grüße, Selina Schwaiger",
+                                    "Response to": "p1055085"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurlänge",
+                            "Discussion_Id": "584555",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054986",
+                                    "Author": "Andres Alberto Rodriguez Bernotti",
+                                    "DateTime": "2024-04-03T17:07:44+02:00",
+                                    "Content": "Hallo,  wie lange ist die Bearbeitungszeit der Klausur? 120 oder 90 Minuten? Grüße Andrés",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055037",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-04T08:15:16+02:00",
+                                    "Content": "Guten Tag,  wie Sie auch der ISIS Kursseite entnehmen können findet die Klausur von 10:00 Uhr bis 12:00 Uhr statt. Also 120 Minuten.  Beste Grüße",
+                                    "Response to": "p1054986"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zulassung Klausur",
+                            "Discussion_Id": "584553",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054984",
+                                    "Author": "Bruno Marek Jakiel",
+                                    "DateTime": "2024-04-03T17:01:41+02:00",
+                                    "Content": "Guten Tag, Wo kann man denn im MTS einsehen, ob man denn zur Prüfung zugelassen wurde? Danke im Voraus.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055020",
+                                    "Author": "Emma Holtz",
+                                    "DateTime": "2024-04-03T21:04:53+02:00",
+                                    "Content": "Das würde ich auch gerne wissen. Vielen Dank.",
+                                    "Response to": "p1054984"
+                                },
+                                {
+                                    "Message_id": "p1055036",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-04T08:13:57+02:00",
+                                    "Content": "Der Status \"angemeldet\" bedeutet das Sie zugelassen sind.  Beste Grüße",
+                                    "Response to": "p1055020"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raum Modulprüfung",
+                            "Discussion_Id": "584577",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055025",
+                                    "Author": "Charlotte Koch",
+                                    "DateTime": "2024-04-04T00:20:43+02:00",
+                                    "Content": "Hallo, nach Rücksprache mit einigen Mitstudenten, ist uns noch kein Raum für die Klausur bekannt. Wird dieser uns noch mitgeteilt oder ist das schon veröffentlicht worden? Lg",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055035",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-04T08:13:30+02:00",
+                                    "Content": "Guten Tag,  die Raumzuteilung wird wahrscheinlich heute Nachmittag bzw. spätestens morgen hier auf der ISIS Kursseite als Ankündigung bekannt gegeben.  Beste Grüße",
+                                    "Response to": "p1055025"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "584270",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054569",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-03-30T12:59:01+01:00",
+                                    "Content": "Guten Tag, Ich habe mich über Moses zur Prüfung angemeldet. Unter Status steht ''angemeldet'', sollte dort ''zugelassen'' stehen?  (Ich habe meine Praktikum absolviert und die Skriptkosten bezahlt und den Beleg schon hochgeladen) VG, Irmak Pektas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055034",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-04-04T08:12:44+02:00",
+                                    "Content": "Guten Tag,  angemeldet = zugelassen.  Beste Grüße, Selina Schwaiger",
+                                    "Response to": "p1054569"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Elektronenkonfigurationen von Hauptgruppen Ionen",
+                            "Discussion_Id": "584225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054487",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-03-28T15:33:42+01:00",
+                                    "Content": "Liebes Chemie Team, Dürfen wir für die elektronenkonfiguration von Ca2+ einfach [Ar] schreiben?  MfG Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054523",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-03-28T22:34:57+01:00",
+                                    "Content": "Hallo,  die Kurzschreibweise ist in Ordnung, ja.  Viele Grüße Sophie Hund",
+                                    "Response to": "p1054487"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur",
+                            "Discussion_Id": "583983",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054117",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-03-25T21:48:48+01:00",
+                                    "Content": "Guten Abend, Sollten wir der Name der Verbindungen Z.B. HCl, NH3, NH4+, HNO3, NO3-, HNO2, NO2-, H2SO4, HSO4-, SO42-, H3PO4, H2PO4-, HPO4-, PO43-, H2CO3, HCO3-, CO32-, HClO4, HClO3, HClO2, CH4, C2H6 usw. für die Prüfung auswendig kennen?  VG Irmak Pektas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054292",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-03-27T09:14:43+01:00",
+                                    "Content": "Hallo, ja, Sie sollten chemische Verbindungen benennen können. Viele Grüße Sophie Hund",
+                                    "Response to": "p1054117"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verwendung von H+ oder H3O+",
+                            "Discussion_Id": "583854",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053919",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-03-23T15:22:38+01:00",
+                                    "Content": "Liebes Chemie Team, müssen wir für Gleichung von Säuren und Redox Gleichung H3O+ benutzen oder darf man auch H+ benutzen für die Klausur?  MfG Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054291",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-03-27T09:13:24+01:00",
+                                    "Content": "Hallo, die Verwendung von H+ ist auch in Ordnung. Viele Grüße Sophie Hund",
+                                    "Response to": "p1053919"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktukumseinteilung 11.2. Nachmittags",
+                            "Discussion_Id": "582876",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1052388",
+                                    "Author": "Neo Kai Nikolas Reiche",
+                                    "DateTime": "2024-03-11T12:17:23+01:00",
+                                    "Content": "Ich kann meinen Namen auf der Einteilungsliste nicht finden. In diesem Fall werde ich wohl oder übel vor Ort fragen müssen. Dabei hatte ich mich bereits neu angemeldet.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum nachmittag 11.03.-15.03.24.",
+                            "Discussion_Id": "582588",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1051945",
+                                    "Author": "Sami Yatim",
+                                    "DateTime": "2024-03-06T12:11:12+01:00",
+                                    "Content": "Hallo, Ich kann die start zeit für das nachmitagspraktikum näschte woche nicht finden. Könnte mir bitte wer sagen wann das anfängt?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1052078",
+                                    "Author": "Angel Lee Firmont",
+                                    "DateTime": "2024-03-06T23:50:17+01:00",
+                                    "Content": "13:30-18:00 :)",
+                                    "Response to": "p1051945"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lösungen der Altklausuren",
+                            "Discussion_Id": "581997",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1050968",
+                                    "Author": "Obinna Kinsley Ononuju",
+                                    "DateTime": "2024-02-29T14:59:23+01:00",
+                                    "Content": "Liebes Chemie Team, werden die Lösungen der Altklausuren auf ISIS demnächst veröffentlicht?  MfG, Obinna Ononuju",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1050980",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-02-29T15:46:03+01:00",
+                                    "Content": "Hallo, es ist verboten Klausurlösungen zu veröffentlichen - Sie haben allerdings die Möglichkeit selbst eine Lösung zu erarbeiten. Viele Grüße Sophie Hund",
+                                    "Response to": "p1050968"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kontakt Assistenz",
+                            "Discussion_Id": "581893",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1050798",
+                                    "Author": "Johannes Nühse",
+                                    "DateTime": "2024-02-28T18:12:47+01:00",
+                                    "Content": "Guten Tag, Weiß jemand, wie ich die Assistenz für den Nachmittagskurs im Praktikum dieser Woche (Raum C218) erreichen kann? Ich habe wegen Krankheit eine Versetzung in eine andere Woche mit Frau Schwaiger abgesprochen, konnte aber bisher die zuständige Assistenz telefonisch nicht erreichen, um meine Abwesenheit zu erklären. Wenn jemand, der an dem Praktikumskurs teilnimmt, vor Ort für mich Bescheid geben könnte, wäre ich sehr dankbar. Freundliche Grüße  Johannes Nühse",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum 26.02 - Mein Name nicht in der Liste",
+                            "Discussion_Id": "581260",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1049794",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-02-25T12:27:35+01:00",
+                                    "Content": "Obwohl ich mich gleich nach Anmeldebeginn am 2. Januar angemeldet habe, kann ich meinen Namen nicht auf der Liste des Vormittagskurses vom 26.02.-01.03. sehen. Ich werde morgen früh dort sein, weiß aber nicht, was ich tun soll. Können Sie mir helfen? VG Irmak Pektas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1049831",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-02-25T15:44:59+01:00",
+                                    "Content": "Wir mussten uns erneut eintragen. Das wurde hier bei ISIS am 11.01.24 mitgeteilt.",
+                                    "Response to": "p1049794"
+                                },
+                                {
+                                    "Message_id": "p1049851",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-02-25T18:28:42+01:00",
+                                    "Content": "Ja, leider habe ich das gerade erst gelernt. Ich habe mich gleich am 2. Januar registriert, bevor die Registrierungen voll waren, und jetzt erfahre ich, dass mein Wahl ungültig ist, was wirklich traurig ist. Ich habe extra nur für diese Prüfung ein Flugticket gekauft und muss unbedingt an diesem Termin das Praktikum absolvieren. Ich habe versucht, Frau Schwaiger zu kontaktieren aber heute ist Sonntag...Ich weiss nicht was Ich machen soll...",
+                                    "Response to": "p1049831"
+                                },
+                                {
+                                    "Message_id": "p1049859",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-02-25T19:38:32+01:00",
+                                    "Content": "Ich hatte das an dem Tag auch eher zufällig gesehen und Angst, dass ich meinen Platz auch verloren habe. Die Anzahl der Praktikumsplätze wurde dann aber mehrmals erhöht und ich denke, jeder, der wollte, konnte sich dann auch eintragen. Vielleicht ist ja noch was frei und du kannst trotzdem teilnehmen. An deiner Stelle würde ich auch morgen früh einfach dahin fahren und hoffen, dass jemand anwesend ist, der das mit dir klären kann. Viel Glück.",
+                                    "Response to": "p1049851"
+                                },
+                                {
+                                    "Message_id": "p1049860",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-02-25T19:46:22+01:00",
+                                    "Content": "Allerdings steht ja in der letzten Ankündigung (fett gedruckt), dass eine Nachmeldung nicht mehr möglich ist.",
+                                    "Response to": "p1049851"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "BVG Streik",
+                            "Discussion_Id": "581199",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1049691",
+                                    "Author": "Selim Lewandowski",
+                                    "DateTime": "2024-02-24T00:38:07+01:00",
+                                    "Content": "Guten Abend, Ich wollte wissen inwiefern der BVG-Streik, der für die nächste Woche angekündigt wurde, Auswirkungen auf das Praktikum hat. Wen jetzt tatsächlich keine Busse und U-Bahn fahren werden ich und viele meiner Mitstudenten es wohl kaum täglich zur Uni schaffen. Wurde da schon irgendetwas diskutiert bei Ihnen? Liebe Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur in der Uni oder online?",
+                            "Discussion_Id": "580817",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1049053",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-02-21T15:55:28+01:00",
+                                    "Content": "Hallo, ich möchte mich nochmal erkundigen, ob die Klausur jetzt wirklich vor Ort in der Uni stattfindet oder online.  Am Anfang des Semesters, wurde gesagt, dass die Klausur online stattfindet. Dann vor Weihnachten, dass sie in der Uni geschrieben wird. Vor einigen Wochen gab es eine Info, dass sie online stattfinden wird und nun haben wir wieder die Info, dass sie in der Uni geschrieben wird.  Mit freundlichen Grüßen Liah Strube",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1049060",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-02-21T16:09:30+01:00",
+                                    "Content": "Guten Tag Frau Strube,  das die Klausur online stattfindet war ein copy und paste Fehler zu Beginn der Erstellung der ISIS Kursseite. Die Klausur wird wie auch in der letzten Ankündigung mitgeteilt in Präsenz stattfinden.  Beste Grüße",
+                                    "Response to": "p1049053"
+                                },
+                                {
+                                    "Message_id": "p1049106",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-02-21T18:23:35+01:00",
+                                    "Content": "Okay, Dankeschön.",
+                                    "Response to": "p1049060"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Krankmeldung Praktikum",
+                            "Discussion_Id": "580611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1048720",
+                                    "Author": "Johannes Nühse",
+                                    "DateTime": "2024-02-20T14:26:03+01:00",
+                                    "Content": "Guten Tag, Ich möchte mich erkundigen, wie eine Krankmeldung für das Praktikum in diesem Modul abläuft. Brauche ich ein Attest? Wenn ja, bis wann muss ich es einreichen? Kann ich, wenn nötig, auf eine spätere Praktikumswoche ausweichen?  Hoffentlich und wahrscheinlich bin ich bis zum ersten Praktikumstag wieder gesund, trotzdem wollte ich mich frühzeitig erkundigen. Vielen Dank und viele Grüße Johannes Nühse",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum",
+                            "Discussion_Id": "580071",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1047733",
+                                    "Author": "Emma Holtz",
+                                    "DateTime": "2024-02-17T10:53:43+01:00",
+                                    "Content": "Hallo, ich habe gerade erfahren, dass der Termin für meine praktische Fahrprüfung auf einen der Tage fällt, an denen ich das Praktikum habe. Ist es in Ordnung, wenn ich dadurch an diesem einen Tage fehle, solange ich den Nachweis des TÜV vorlegen kann, dass die Prüfung dort stattgefunden hat?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1048068",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-02-19T10:21:47+01:00",
+                                    "Content": "Hallo Frau Holtz,  das ist kein Problem, sofern es nicht den Montag betrifft. Am 1. Tag findet eine Sicherheitsunterweisung statt, deshalb ist die Anwesenheit unbedingt nötig. Bitte geben Sie am 1. Tag einfach direkt bei Ihren Assistent*innen bescheid und bringen Sie nach der Prüfung den Nachweis mit.  Viele Grüße und viel Erfolg bei der Fahrprüfung. Sophie Hund",
+                                    "Response to": "p1047733"
+                                },
+                                {
+                                    "Message_id": "p1048256",
+                                    "Author": "Emma Holtz",
+                                    "DateTime": "2024-02-19T14:19:36+01:00",
+                                    "Content": "Vielen Dank für die Antwort, es ist der Dienstag. Montags werde ich also auf jeden Fall da sein, dann sollte das ja kein Problem sein. Freundliche Grüße",
+                                    "Response to": "p1048068"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausuranmeldung",
+                            "Discussion_Id": "577370",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1043681",
+                                    "Author": "Emma Holtz",
+                                    "DateTime": "2024-02-05T11:13:06+01:00",
+                                    "Content": "Hallo, ich wollte mich jetzt für die Klausur in Moses anmelden, aber dort steht, dass in diesem Semester keine Klausur in dem Modul angeboten wird. Ist die Klausuranmeldung einfach noch nicht freigeschaltet, also ist es noch zu früh, um sich anzumelden, oder ist es schon zu spät? Weil ich habe nirgends im Kurs irgendwelche Informationen dazu gefunden. LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1043700",
+                                    "Author": "Selina Roswitha Schwaiger",
+                                    "DateTime": "2024-02-05T11:37:14+01:00",
+                                    "Content": "Guten Tag Frau Holtz,  die Anmeldung im MTS ist noch nicht möglich, dies wird aber vorraussichtlich im Laufe dieser Woche freigeschalten. Sie werden hier im ISIS Kurs entsprechend informiert. Beste Grüße",
+                                    "Response to": "p1043681"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Klasurtermin",
+                            "Discussion_Id": "576196",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1042024",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-01-30T23:09:35+01:00",
+                                    "Content": "Hallo, Gibt es einen geschätzten Zeitraum für die 2. Termin der Klasur im Oktober? Wird sie in der ersten Woche des Monats staatfinden? VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1042771",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-02-01T13:24:06+01:00",
+                                    "Content": "Hallo,  in der Regel findet die zweite Klausur am Anfang des Monats, also in der 1. oder 2. Oktoberwoche, statt. Da der Termin noch nicht feststeht, gibt es hierfür allerdings keine Garantie. Sobald der Termin bekannt ist, wird er auf der ISIS-Seite veröffentlicht.  Viele Grüße Sophie Hund",
+                                    "Response to": "p1042024"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bahnstreik 24.-29.01 bis 18 Uhr",
+                            "Discussion_Id": "573783",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1038553",
+                                    "Author": "Liah Strube",
+                                    "DateTime": "2024-01-22T12:51:54+01:00",
+                                    "Content": "Hallo,  Ich wollte fragen, ob man vielleicht eine Ausnahme machen und die Lösungen für Woche 12 hochladen könnte vom Seminar. Da heute die Seminare ausgefallen sind und bis nächste Woche Montag 18 Uhr der Streik angesetzt ist, haben einige nicht die Möglichkeit überhaupt zur Uni zu kommen.  Mit freundlichen  Liah Strube",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1040186",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-01-25T13:09:26+01:00",
+                                    "Content": "Hallo, die Lösungen aller Seminarblätter werden zu einem späteren Zeitpunkt zur Klausurvorbereitung hochgeladen. Versuchen Sie bitte die Aufgaben selbstständig zu lösen - das ist ohnehin so gedacht. Sie werden in einem der nachfolgenden Seminaren die Möglichkeit erhalten Fragen zu stellen. Sollte es mit einer Aufgabe Probleme geben, können Sie das gern ansprechen. Natürlich können Sie zudem auch hier im Forum fachliche Fragen stellen oder sich mit Ihren Kommiliton*innen beraten. Viele Grüße Sophie Hund",
+                                    "Response to": "p1038553"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur",
+                            "Discussion_Id": "573615",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1038319",
+                                    "Author": "Lucius Florian Amade Strauss",
+                                    "DateTime": "2024-01-21T17:21:45+01:00",
+                                    "Content": "Guten Tag, darf man bei der Klausur ein PSE benutzen und/oder ein beschriebenes Blatt Papier? Wenn nein, werden Daten zu bestimmten Elementen, wie zum Beispiel die Ordnungszahl gegeben sein? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1040180",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-01-25T13:04:19+01:00",
+                                    "Content": "Hallo,  in der Klausur sind keine Hilfsmittel, abgesehen von einem nicht programmierbaren Taschenrechner, erlaubt. Die Ordnungszahlen der Elemente bis einschließlich Calcium (Z=20) sollten bekannt sein, darüber hinaus werden alle notwendigen Daten, wie z. B. molare Massen oder die Ordnungszahlen höherer Elemente, gegeben.  Viele Grüße Sophie Hund",
+                                    "Response to": "p1038319"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikumswochen tauschen",
+                            "Discussion_Id": "571352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1034828",
+                                    "Author": "Matilde Coldewey",
+                                    "DateTime": "2024-01-11T06:41:45+01:00",
+                                    "Content": "Hallo, Ich suche jemanden zum Tauschen der Praktikumswochen. Ich bin vom 18. - 22.03 vormittags eingeteilt und suche jemanden im Zeitraum vom 26.02- 1.03.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum",
+                            "Discussion_Id": "571288",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1034709",
+                                    "Author": "Jessica Zimmermann",
+                                    "DateTime": "2024-01-10T17:19:24+01:00",
+                                    "Content": "Hallo,  Leider konnte ich keiner Praktikumsgruppe mehr zugeteilt werden, da alle Plätze bereits belegt sind.  Gibt es Jemanden, der nicht an dem Praktikum teilnimmt und dessen Platz ich einnehmen könnte?  Mit freundlichen Grüßen  Jessica  Z.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dringend Vormittagskurs 26.02-01.03 oder 11.03-.15.03",
+                            "Discussion_Id": "569972",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1032793",
+                                    "Author": "Dominique Ina Scheuering",
+                                    "DateTime": "2024-01-05T00:30:13+01:00",
+                                    "Content": "Hi,  also leider sind genau die Kurse belegt die für mich in Frage kommen, da ich die Nachmittagskurse auf Grund von Kinderbetreuung nicht übernehmen kann.  Falls jemand wechseln könnte oder man mich da irgendwie extra eintragen könnte wäre das echt super.   Lieben Dank ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1032814",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-01-05T10:05:38+01:00",
+                                    "Content": "Hallo, wir können Sie leider nicht einfach zusätzlich eintragen, wenn der Kurs bereits voll ist. Bitte versuchen Sie jemanden zu finden, der/die bereit ist zu tauschen und schicken Sie eine kurze Nachricht an Frau Schwaiger, wenn Sie jemanden gefunden haben.",
+                                    "Response to": "p1032793"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Studierendendaten ",
+                            "Discussion_Id": "569753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1032408",
+                                    "Author": "Emma Holtz",
+                                    "DateTime": "2024-01-02T19:33:17+01:00",
+                                    "Content": "Wo kann man die Aktivität: \"\"Studierendendaten\" für die von Ihnen gewählte Woche\" finden, weil ich weiß nicht, wo man das ausfüllen soll.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1032459",
+                                    "Author": "Emma Holtz",
+                                    "DateTime": "2024-01-03T11:49:48+01:00",
+                                    "Content": "Ah, es hat sich erledigt, danke.",
+                                    "Response to": "p1032408"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum Vormittags ",
+                            "Discussion_Id": "569714",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1032343",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-01-02T14:05:00+01:00",
+                                    "Content": "Guten Tag, Für mich sind nur 26.02-01.03 vormittags Termine für das Praktikum geeignet, aber ist es möglich, dass ich auch nur für ein Tag an die nachmittags Kurse teilnehme? Nur am 28.02 fällt vormittags Kurse mit meiner Prüfungszeit zusammen. Ich würde mich sehr freuen, wenn dies möglich wäre. VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1032345",
+                                    "Author": "Sophie Hund",
+                                    "DateTime": "2024-01-02T14:22:18+01:00",
+                                    "Content": "Hallo, dafür lässt sich eine Lösung finden. In der Regel können Sie einfach für die Zeit der Klausur das Praktikum verlassen und vor oder nach der Klausur im Labor mitarbeiten. Sprechen Sie bitte direkt am ersten Praktikumstag mit ihren zugeteilten Assistent*innen, sie werden Ihnen weiterhelfen und das genaue Vorgehen für den 28.02. mit Ihnen besprechen.",
+                                    "Response to": "p1032343"
+                                },
+                                {
+                                    "Message_id": "p1032349",
+                                    "Author": "Irmak Pektas",
+                                    "DateTime": "2024-01-02T14:26:49+01:00",
+                                    "Content": 

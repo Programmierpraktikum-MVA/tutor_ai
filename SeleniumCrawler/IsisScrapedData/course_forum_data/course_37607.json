@@ -1,0 +1,63 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Übung Versuchsfeld Fertigungstechnik (Master)",
+        "Course_id": "37607",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764154",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Probetestat",
+                            "Discussion_Id": "606476",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087879",
+                                    "Author": "Jakob Luis Köntopf",
+                                    "DateTime": "2024-07-09T08:45:29+02:00",
+                                    "Content": "Guten Tag liebe Studierende, auf Wunsch habe ich das Probetestat des letzten Semesters hochgeladen. Damit könnt ihr euch mit einigen Fragetypen und dem System, sowie der Einverständniserklärung etwas vertraut machen. Es ist für die Angemeldeten des ersten Termins bis morgen 13:00 Uhr verfügbar. Der zweite Termin wird sein eigenes Probetestat bekommen. Viele Grüße, Jakob",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087899",
+                                    "Author": "Jakob Luis Köntopf",
+                                    "DateTime": "2024-07-09T09:22:26+02:00",
+                                    "Content": "kleiner Bugfix, die Einveständnisfrage gibt es jetzt wirklich :D",
+                                    "Response to": "p1087879"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsstart",
+                            "Discussion_Id": "598076",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075745",
+                                    "Author": "Jakob Luis Köntopf",
+                                    "DateTime": "2024-05-31T10:44:41+02:00",
+                                    "Content": "Liebe Studierende,  kleiner Reminder, dass nächste Woche die Übungen starten. VG, Jakob Köntopf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung für den ersten Übungstermin",
+                            "Discussion_Id": "596576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073421",
+                                    "Author": "Jakob Luis Köntopf",
+                                    "DateTime": "2024-05-24T15:29:00+02:00",
+                                    "Content": "Liebe Studierende, aufgrund einer Tagung bei uns am PTZ muss eine Raumänderung für (nur) den ersten Termin der Übung stattfinden. Diese findet am 06.06.24 um 14 Uhr also nicht wie angekündigt im Hörsaal PTZ 001 sondern im Raum 210 im 2. Stock des PTZ (Pascalstr. 8-9) statt. Stellt euch für den Einlass ins Gebäude einfach in der Lobby als Studierende vor, dann werdet ihr reingelassen. Bei Fragen, stellt diese gerne im Studierendenforum, sodass alle Teilnehmer*innen davon profitieren können.  Viele Grüße, Jakob Köntopf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

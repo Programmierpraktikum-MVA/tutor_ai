@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Strukturdynamik",
+        "Course_id": "37964",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1826757",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Die VL fällt am 5.6. aus",
+                            "Discussion_Id": "598226",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075971",
+                                    "Author": "Dragan Marinkovic",
+                                    "DateTime": "2024-05-31T19:55:54+02:00",
+                                    "Content": "Liebe Studierende, wie schon in der VL mitgeteilt, fällt die VL am kommenden Mittwoch, den 5.6., aufgrund einer Dienstreise aus.  Wir sehen uns wieder mal am 12.6. Schönes Wochenende,  Dragan ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Change of the seminar format from next week Thu 06.06.24",
+                            "Discussion_Id": "597119",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074338",
+                                    "Author": "Melika Mohammadkhah",
+                                    "DateTime": "2024-05-27T17:44:09+02:00",
+                                    "Content": "Dear students, This week, Thursday 30.06.24, we will have our seminar in presence as all our previous seminars on the topic of \"damping\". From next week on, the seminars will be provided as videos on ISIS about the application of FEM using Abaqus for structural dynamics problems. Regards, Melika",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Die VL fällt am 22.5. aus",
+                            "Discussion_Id": "595845",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072370",
+                                    "Author": "Dragan Marinkovic",
+                                    "DateTime": "2024-05-22T01:14:10+02:00",
+                                    "Content": "Hallo zusammen, aufgrund einer Dienstreise fällt die VL am 22.5. aus. Die nächste VL findet am 29.5. statt. Viele Grüße, Dragan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No seminar on 2nd and 9th May",
+                            "Discussion_Id": "590707",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064297",
+                                    "Author": "Melika Mohammadkhah",
+                                    "DateTime": "2024-04-29T11:32:13+02:00",
+                                    "Content": "Dear students, Due to publich holidays, our seminar classes scheduled for 2nd and 9th May will be cancelled (the cancellation on 2nd is because there will be no lecture on 1st May and thus we can not have the seminar this week). Therefore, our next seminar takes place on Thursday 16th May 12:00-14:00 in KWT-A014. Best regards, Melika Mohammadkhah",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

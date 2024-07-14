@@ -1,0 +1,43 @@
+[
+    {
+        "Course_Name": "Kommunikationstechnik in der thermischen und elektrischen Energietechnik (SoSe 2024)",
+        "Course_id": "37306",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1755152",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Option des Aufzeichnens der Vorlesung am 20.06.24?",
+                            "Discussion_Id": "601820",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081207",
+                                    "Author": "Hannah Florentine Kaven",
+                                    "DateTime": "2024-06-18T14:00:52+02:00",
+                                    "Content": "Hallo, ich wollte mich erkundigen, ob es ausnahmsweise möglich wäre, die Vorlesung am Donnerstag diese Woche aufzuzeichnen?  Es gibt in einem Modul, dass viele der Teilnehmenden dieses Kurses belegen, einen sehr spannenden Gastvortrag von Niko Rogler von 50 Hertz zu den Herausforderungen der Energiewende aus Sicht eines Übertragungsnetzbetreibers der nur um 10Uhr stattfinden wird. Danke & vG ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "596949",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074043",
+                                    "Author": "Thanh Tung Bui",
+                                    "DateTime": "2024-05-27T11:52:59+02:00",
+                                    "Content": "Sehr geehrter Herr Seifert, ich wollte einmal nachfragen wie die Prüfungsanmeldung für dieses Modul erfolgt ? Im Moses scheint dies nicht zu sein. Vielen Dank für die Auskunft.  Mit freundlichen Grüßen  Thanh Tung Bui",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

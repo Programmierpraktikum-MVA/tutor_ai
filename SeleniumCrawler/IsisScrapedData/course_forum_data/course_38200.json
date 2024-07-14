@@ -1,0 +1,157 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Beanspruchungsgerechtes und ressourcenschonendes Konstruieren",
+        "Course_id": "38200",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1783382",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation ",
+                            "Discussion_Id": "606865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088449",
+                                    "Author": "Tien Dat Phan",
+                                    "DateTime": "2024-07-10T12:09:23+02:00",
+                                    "Content": "Liebe Studierende, wir bitten Sie, an der Lehrevaluation im Sommersemester 2024 teilzunehmen. Die Umfrage ist so kurz, dass sie in weniger als 10 Minuten abgeschlossen werden kann. Der Befragungszeitraum läuft bis zum 14.07.2024. Anbei finden Sie den Link: https://befragung.tu-berlin.de/evasys/online.php?p=GZQP6 und den QR-Code:   Vielen Dank und Mit freundlichen Grüßen Phan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Leistungsnachweis",
+                            "Discussion_Id": "606522",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087958",
+                                    "Author": "Tien Dat Phan",
+                                    "DateTime": "2024-07-09T10:40:29+02:00",
+                                    "Content": "Liebe Studierende, die Liste des Leistungsnachweises wurde hochgeladen. Alle Studenten auf dieser Liste können vom 15.07 bis 17.07 Prüfungstermine auf MOSES reservieren. Mit freundlichen Grüßen Phan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Liste der Hausaufgabengruppen und FEM-Gruppen",
+                            "Discussion_Id": "590679",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064256",
+                                    "Author": "Tien Dat Phan",
+                                    "DateTime": "2024-04-29T10:58:47+02:00",
+                                    "Content": "Liebe Studierende, die Liste der Hausaufgabengruppen und FEM-Gruppen wurde hochgeladen. Wir bitte Sie, Ihre Gruppe auf Richtigkeit zu überprüfen.  Die FEM-Übung findet nur am Donnerstag von 14h bis 16h statt.  Mit freundlichen Grüßen Phan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Fragen zu Vorlesungen",
+                    "Forum_id": "1783389",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung am 11.07.",
+                            "Discussion_Id": "602321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081892",
+                                    "Author": "Robert Liebich",
+                                    "DateTime": "2024-06-20T10:56:54+02:00",
+                                    "Content": "Liebe Studierende, die Vorlesung am 11.07. findet entgegen der urprünglichen Planung als normale Live-Veranstatlung im Standardörsaal H2053 statt. Viele Grüße Robert Liebich",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen zu Übungsaufgaben und Hausaufgaben",
+                    "Forum_id": "1783390",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "HA3 PDF Upload",
+                            "Discussion_Id": "601520",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080779",
+                                    "Author": "Ibrahim Nabhan Islam",
+                                    "DateTime": "2024-06-17T14:20:52+02:00",
+                                    "Content": "Sehr geehrter Dr.-Ing. Phan,  wird wollten anfangen die Hausaufgabe 3 zu bearbeiten und gemerkt, dass die PDF nicht Online ist. Wann wird das Dokument auf ISIS hochgeladen?  MfG Ibrahim Islam",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080795",
+                                    "Author": "Tien Dat Phan",
+                                    "DateTime": "2024-06-17T14:42:41+02:00",
+                                    "Content": "Hallo,  die Aufgabenstellung der 3. HA wird nach der Übung dieser Woche veröffentlicht.  Mit freundlichen Grüßen Phan",
+                                    "Response to": "p1080779"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe 6 Bitte melden",
+                            "Discussion_Id": "594978",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070978",
+                                    "Author": "Max Oleszkiewicz",
+                                    "DateTime": "2024-05-16T15:21:35+02:00",
+                                    "Content": "Hi   würde gerne jemanden der HA Gruppe 6 Darum bitten sich bei mir zu melden. TEL:  015737555807  Schöne Grüße Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "FEM - Programm",
+                            "Discussion_Id": "593579",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068767",
+                                    "Author": "Leart Haziri",
+                                    "DateTime": "2024-05-10T10:40:31+02:00",
+                                    "Content": "Hallo,  meine Frage, da ich nichts dazu finden konnte: Welches FEM Programm soll verwendet werden und wo bekommen wir dieses her? Die Hausaufgaben sollten ja auch von zu Hause lösbar sein. Ich konnte letzte Woche und diese Woche nicht bei der Übung anwesend sein, da ich wichtige ärztliche Termine hatte.  Beste Grüße Leart",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabengruppe",
+                            "Discussion_Id": "587520",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059305",
+                                    "Author": "Rajwinder Garha",
+                                    "DateTime": "2024-04-18T23:09:09+02:00",
+                                    "Content": "Hallo zusammen,  ich suche gerade nach einer motivierten Gruppe für die Hausaufgaben. Falls jmd einen Platz in der Gruppe habt oder vllt eine neue Gruppe mit mir aufmachen wollt, schreibt mir gerne per WhatsApp auf die Nummer: +49 17657882992.  VG Raj",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsappGruppe",
+                            "Discussion_Id": "587134",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058711",
+                                    "Author": "Rajwinder Garha",
+                                    "DateTime": "2024-04-17T23:58:55+02:00",
+                                    "Content": "Liebe Mitstudierende,  ich hab eine Whatsappgruppe erstellt, um die Kommunikation, z.B. für Hausaufgabengruppe, unter uns leichter zu machen. Über diesen Link könnt ihr diesen beitreten: https://chat.whatsapp.com/HeOUaELaPJP8IfDHOxPhwr. VG Raj",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

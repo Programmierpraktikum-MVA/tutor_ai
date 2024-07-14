@@ -1,0 +1,75 @@
+[
+    {
+        "Course_Name": "Machine Learning for Quantum Chemistry SoSe24",
+        "Course_id": "37693",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766596",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final Presentation Block Seminar",
+                            "Discussion_Id": "598558",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076478",
+                                    "Author": "Jonas Lederer",
+                                    "DateTime": "2024-06-03T14:18:12+02:00",
+                                    "Content": "Dear participants of the ML4QC seminar, the final presentation block will be July 18th, 10:00-12:00 at MAR 4.033. To pass the seminar, you are required to present the paper that has been assigned to you and you are required to attend all presentations of the seminar that day. Best regards,  Jonas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087070",
+                                    "Author": "Jonas Lederer",
+                                    "DateTime": "2024-07-06T13:59:56+02:00",
+                                    "Content": "Dear all,  please note that the room for the final presentations of ML4QC changed. It will be at MAR 4.057.  Best, Jonas",
+                                    "Response to": "p1076478"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topics are assigned",
+                            "Discussion_Id": "598295",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076081",
+                                    "Author": "Jonas Lederer",
+                                    "DateTime": "2024-06-02T10:46:31+02:00",
+                                    "Content": "Thank you for voting and sorry for the delay (due to vacation). It was possible to assign the first choice to everybody.  If you have trouble understanding some parts of your paper or you want some feedback on your slides before the presentation, feel free to reach out to me.  You should now be able to view the results of the poll. Don't hesitate to contact me if something is unclear.  Best, Jonas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vote for topics",
+                            "Discussion_Id": "592017",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066298",
+                                    "Author": "Jonas Lederer",
+                                    "DateTime": "2024-05-03T11:01:18+02:00",
+                                    "Content": "The poll for the topic selection is open now. It will be closed in 2 weeks.  Best regards,  Jonas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "kickoff",
+                            "Discussion_Id": "589955",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063169",
+                                    "Author": "Jonas Lederer",
+                                    "DateTime": "2024-04-25T17:47:09+02:00",
+                                    "Content": "Dear all,   this is a reminder that the kick-off meeting will take place May 3rd 2024, 10:00-11:30, MAR 4.033  Best regards,  Jonas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

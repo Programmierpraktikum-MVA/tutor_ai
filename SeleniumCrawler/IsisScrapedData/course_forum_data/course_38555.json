@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Auswuchttechnik",
+        "Course_id": "38555",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1794605",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Blockkurs Auswuchttechnik SS24",
+                            "Discussion_Id": "604039",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084376",
+                                    "Author": "Marian Franz Sarrazin",
+                                    "DateTime": "2024-06-27T13:59:03+02:00",
+                                    "Content": "Liebe Studierende, der Blockkurs Auswuchttechnik wird vom 02.09. bis zum 09.09.24 stattfinden. Im ISIS-Kurs findet ihr den Ablaufplan des Blockkurses. Die mündlichen Prüfungen werden mit einem Tag Pause direkt im Anschluss an den Blockkurs am 11.09. und ggf. am 12.09.24 stattfinden.  Viele Grüße Marian Sarrazin ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

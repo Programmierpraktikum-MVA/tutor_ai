@@ -1,0 +1,346 @@
+[
+    {
+        "Course_Name": "[SoSe24] Programmierpraktikum Scalable Software Systems",
+        "Course_id": "37122",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1748124",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Project Report ",
+                            "Discussion_Id": "607309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089053",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-07-11T17:50:51+02:00",
+                                    "Content": "Dear students, thank you all for your presentations today! Regarding your project report: We have uploaded a template you can find as a .zip file in the course that you should use.  As we mentioned today, the actual text needs to be between 6-8 pages (the formalities do not count here). It also already contains some recommended sections, however feel free to adjust this slightly to better accommodate your design. You have until August 31st to finish this report. Good luck with your final task! Best, Tim",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Presentation Details &amp; Presentation Order",
+                            "Discussion_Id": "607121",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088801",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-07-11T10:49:56+02:00",
+                                    "Content": "Dear students, your final presentation will be today starting at 14:15. Please make sure to be on time as we have longer presentations today (15 Mins+ 5 Min Q&A). the presentation order today will be the following (randomly determined): Group B Group C Group E Group D Group A See you all later today! Kind regards, Tim ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Presentation",
+                            "Discussion_Id": "606087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087340",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-07-08T10:10:14+02:00",
+                                    "Content": "Dear students, This Thursday (July 11th), we will have our final presentations. Here, each group will present their final product. Please give a brief recap of your midterm presentation state, and update us on what steps you took to improve/finalize your project during the last couple of weeks. You can also discuss potential up- and downsides of your project (what went well, what did not).  The presentation should be roughly 15 minutes, followed by max. 5 minutes of Q&A for each group.  IMPORTANT: This will be in person in our seminar room EN152 at the usual timeslot (Thu, 14:00-16:00)  Please upload your slides by July 10th, 23:59 using the ISIS item. We will randomly determine the presentation order and publish it a day before the presentations. Best regards, Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Presentation &amp; Poster Session",
+                            "Discussion_Id": "604892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085659",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-07-02T10:14:09+02:00",
+                                    "Content": "Dear students,  your final presentation is coming up in roughly two weeks and we hope that you are coming close to finishing the work on your project. We will again announce the order of presentations close to the actual presentation date. We have important news however: There is a Poster session for all Programmierpraktika the week after your final presentation, where each Praktikum presents the the work done during the semester. We therefore would like to ask you to hand in a poster detailing the work of your project. This poster can be digital, as we will take care of printing them after the presentations are complete. As this is not part of your grade, we will provide a small reward to each group member whose poster gets chosen. One of our groups will be chosen to present their poster there on July 23rd. We will take care of printing it, however your group will need to be present (at least partially) to present your results for roughly two hours.  For more information, please check out the forum post in the Praktika Meta ISIS course. Best regards, Tim & Nils",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Midterm Presentation Order",
+                            "Discussion_Id": "599330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077568",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-06-06T10:02:52+02:00",
+                                    "Content": "Dear students,  thank you for submitting your slides! The order of today's presentations will be the following (Project Manager listed): Merdan Karatas and their group Noyan Seng¸l and their group Kilian Bracher and their group Aron Al-Rubaie and their group Eryk Ksciuczyk and their group See you all IN PERSON today at 14:15 in EN152. Best, Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Midterm presentations",
+                            "Discussion_Id": "597091",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074283",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-05-27T16:35:30+02:00",
+                                    "Content": "Dear students, Next Thursday (June 6th), we will have our midterm presentations. Here, each group will present the current state of their respective project, their used technologies, and what the planned steps are until the final presentation.   The presentation should be roughly 10 minutes, followed by max. 5 minutes of Q&A for each group.  IMPORTANT: This will be in person in our seminar room EN152 at the usual timeslot (Thu, 14:00-16:00)  Please upload your slides by June 5th, 23:59 using the ISIS item. We will randomly determine the presentation order and publish it a day before the presentations. Best regards, Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online Support Sessions",
+                            "Discussion_Id": "594855",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070791",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-05-16T10:39:20+02:00",
+                                    "Content": "Dear students, As announced during our previous sessions, we will now have an online support offering during our Thursday sessions. Presentations, such as the midterm presentation on June 6 (details on the task sheet), will still be in-person, but these will be announced separately.  If you want to join the support session, you can use the following Zoom meeting:  Meeting ID: 671 6010 0877 Passcode: 073839 Link: https://tu-berlin.zoom.us/j/67160100877?pwd=OVJsMkFreEdyQnVjRkd5WXZqejl3UT09 If there are no more questions after 30 minutes, we will close the session. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Google Cloud Grant Codes Sent Out",
+                            "Discussion_Id": "592914",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067740",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-05-07T12:37:19+02:00",
+                                    "Content": "Dear students, I have just sent out the Google Cloud Grant Codes to the TU email address of each project manager. In some cases, it takes a while for the emails to arrive. In order to receive your grant code, you have to first click a link in the email to validate your email address. After you have done that, you will receive the code in a second email. This code is not bound to any email address, and can be used on any Google Cloud account. In case your group does not receive an email until tomorrow, please email me! Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Registrations Finished",
+                            "Discussion_Id": "591355",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065271",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-04-30T18:13:47+02:00",
+                                    "Content": "Dear students, The group registrations are now finished. Under \"Participants\" you can find your assigned group (Group A - E). Please check that all your group members have been assigned correctly! During our session this week (May 2), every group will do a short group introduction. Your project manager should introduce all members and their assigned roles, as well as the tech stack you settled on to complete your project. This should take approx. 5-10 minutes. Please tell us in advance, if any of you cannot make it to this session! Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Email and Moses-Deadline Reminder",
+                            "Discussion_Id": "590757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064374",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-29T13:12:16+02:00",
+                                    "Content": "Dear students, Reminder: You have until tonight (Apr. 29th 23:59 CEST) to email us your groups. All information that needs to be included can be found in the task sheet.  Reminder: You have until May 5th 23:59 CEST to register for the Programmierpraktikum in Moses. Failure to complete registration will lead to not being able to be graded for the module, as well as not receiving any ECTS points. If any problems should occur during registration, please message me and/or Nils. Kind regards Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Plan for the Upcoming Weeks",
+                            "Discussion_Id": "587724",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059632",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-04-19T14:46:06+02:00",
+                                    "Content": "Dear students, As announced during the kick-off, here is the plan for the next few weeks. Next week, on April 25 (Thu) during our timeslot, we will have a lecture unit, where we introduce you to principles of project management (Scrum, Kanban), as well as some important tooling (git, administering Cloud servers, ...). We will also give some guidance for your internal project organization. Until April 29 (Mon), 23:59h, your team's project manager needs to send us an email containing all members + assigned roles. On May 2 (Thu), your team needs to do a short introduction, so that other groups can get to know you as well (~ 5 min). During your introduction, you should introduce each team member with their role, and explain the tooling you settled on for your project. Until May 5 (Sun), 23:59h, you need to register for the examination on MOSES! We will not have a session on May 9 (Thu), as there is a public holiday. Optional support sessions start the week after, during which you all have a chance to ask us for guidance. On May 12 (Sun), 23:59h, you need to submit your first project diaries. Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hybrid Offering",
+                            "Discussion_Id": "587226",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058853",
+                                    "Author": "Nils Japke",
+                                    "DateTime": "2024-04-18T11:02:01+02:00",
+                                    "Content": "Dear students, We were asked, whether it is possible to join our sessions digitally, so we decided to offer a hybrid format. Later in the semester, we will have in-person presentations, so be prepared to be in Berlin for those (unless exceptional circumstances apply, which you need to tell us about)!  If you want to join online, you can use the following Zoom meeting:  Meeting ID: 671 6010 0877 Passcode: 073839 Link: https://tu-berlin.zoom.us/j/67160100877?pwd=OVJsMkFreEdyQnVjRkd5WXZqejl3UT09  Best regards, Nils Japke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-Off Session Programmierpraktikum 3S",
+                            "Discussion_Id": "585990",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057091",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-15T14:02:04+02:00",
+                                    "Content": "Dear students, thank you for your interest in our Programmierpraktikum. This course will start with a Kick-Off session at April 18, 14:15h (Thu), where we present all organizational aspects and your task. The Kick-Off session will be held in EN152. The support sessions afterwards will also be held in the same room. As of now, we still have some spots available, so if you're interested in taking the course and were not already sorted to us through the Meta course (or already contacted us), please email the WiMis (nj@3s.tu-berlin.de / tr@3s.tu-berlin.de)  Best regards, Tim Dockenfuﬂ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions",
+                    "Forum_id": "1748422",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Left my laptop today in the room",
+                            "Discussion_Id": "599475",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077766",
+                                    "Author": "Valentin Louis Heine",
+                                    "DateTime": "2024-06-06T16:30:23+02:00",
+                                    "Content": "Hello, I realized that I left my grey MacBook in the room where our presentations took place today. If anyone has seen it or picked it up by mistake, please let me know as soon as possible. Your help in locating my laptop would be greatly appreciated.Thank you! Best regards,Valentin",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077786",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-06-06T17:13:43+02:00",
+                                    "Content": "Hi Valentin,  we just checked the seminar room, and your laptop is not there anymore.  Good luck with finding your device!  Best, Tim",
+                                    "Response to": "p1077766"
+                                },
+                                {
+                                    "Message_id": "p1077799",
+                                    "Author": "Valentin Louis Heine",
+                                    "DateTime": "2024-06-06T17:48:55+02:00",
+                                    "Content": "Hi Tim, thx for checking, i found it already, i forgot it in the shila. Best regards, Valentin",
+                                    "Response to": "p1077786"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Showing live website during presentation ",
+                            "Discussion_Id": "598278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076053",
+                                    "Author": "Damian Chac Elias Kunze",
+                                    "DateTime": "2024-06-01T18:21:42+02:00",
+                                    "Content": "Next to the slides that we upload, is it also possible to show the live website during the presentation? This just requires to use a webbrowser on the presenter-laptop and open up the hosted live site. I think it will give a far better intuition of how the website works, than just screenshots of it on a slide.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076262",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-06-03T09:16:20+02:00",
+                                    "Content": "Hi Damian,  you can either record the website beforehand and show it as a video or you can swap over during your presentation, both are fine.  Just let us know before your group is up for presenting that we need to swap laptops, as we currently planned on just hosting the slides on our own.  Best regards,  Tim",
+                                    "Response to": "p1076053"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Available spots",
+                            "Discussion_Id": "587223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058840",
+                                    "Author": "Nicolas Guillaume Camerlynck",
+                                    "DateTime": "2024-04-18T10:53:26+02:00",
+                                    "Content": "Hello, if there are available spots I'd also love to get in, I am very interested in the course.  Thank you, Nicolas.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058842",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-18T10:56:43+02:00",
+                                    "Content": "Hi Nicolas,  you have been assigned a spot.  Best regards,  Tim",
+                                    "Response to": "p1058840"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "available spots",
+                            "Discussion_Id": "587221",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058836",
+                                    "Author": "Aleksander Gomilsek",
+                                    "DateTime": "2024-04-18T10:47:03+02:00",
+                                    "Content": "Hello, I would also like to take this course if there are still available spots. Thank you in advance, Aleksander",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058841",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-18T10:56:11+02:00",
+                                    "Content": "Hi Aleksander,  you have been assigned a remaining spot.  Best regards,  Tim",
+                                    "Response to": "p1058836"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "available spots",
+                            "Discussion_Id": "587207",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058818",
+                                    "Author": "Valentin Louis Heine",
+                                    "DateTime": "2024-04-18T10:17:02+02:00",
+                                    "Content": "Hi, i also wanted to ask if there is still a spot available, i sent an email yesterday to ask for a spot. kind regards",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058839",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-18T10:52:57+02:00",
+                                    "Content": "Hi Valentin,  you have been assigned a remaining spot. We have your received your email, we just hadn't gotten around to answering it. In the future, please either use the forum or email to contact us, this applies to all students.  Best Tim",
+                                    "Response to": "p1058818"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Spot available ",
+                            "Discussion_Id": "587218",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058831",
+                                    "Author": "Coralie Banuls",
+                                    "DateTime": "2024-04-18T10:40:56+02:00",
+                                    "Content": "Hello,  I am really interested, is there also a spot available for me please ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Available Spot",
+                            "Discussion_Id": "587184",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058775",
+                                    "Author": "Cemre Turhan",
+                                    "DateTime": "2024-04-18T09:31:19+02:00",
+                                    "Content": "Hi, is there still a spot available so I can join this Praktikum? Thanks in advance Cemre",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058788",
+                                    "Author": "Tim Christian Dockenfuﬂ",
+                                    "DateTime": "2024-04-18T09:43:43+02:00",
+                                    "Content": "Hi Cemre,  yes, there are still some spots available. You have been assigned a remaining slot.  Best regards,  Tim",
+                                    "Response to": "p1058775"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick- Off Session in Zoom",
+                            "Discussion_Id": "587171",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058759",
+                                    "Author": "Irem Gizer",
+                                    "DateTime": "2024-04-18T09:07:21+02:00",
+                                    "Content": "Guten Tag,  ist es mˆglich, an der Kick-Off-Sitzung via Zoom teilzunehmen? Ich bin aus famili‰ren Gr¸nden nicht in Berlin.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

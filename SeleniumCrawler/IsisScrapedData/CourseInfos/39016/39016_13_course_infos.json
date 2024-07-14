@@ -1,0 +1,9 @@
+[
+    "On Friday 12.07.2024 we meet in HFT Laboratories for the last Praktikum (",
+    "ADS Praktikum 2",
+    "). Make sure you have done all the preparation work \nbefore then.",
+    "Please note the following:",
+    "1.\n IMPORTANT! Besides the usual handling precautions we have already \ndiscussed, this time you will also need to add an attenuator at the \nOUTPUT of the \namplifier to make sure there is no damage to the VNA in case of too high\n RF power. You should select the \nappropriate one based on the input power, the gain, to make sure you are\n safely below the maximum power at the VNA input.",
+    "2. You will find two amplifiers. One of them does not work. Up to you to figure out which one!",
+    "3. You may skip the task on noise measurements as the required equipment is no longer available."
+]

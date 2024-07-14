@@ -1,0 +1,508 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computergestützte Energieplanung für Gebäude",
+        "Course_id": "38153",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782053",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentations timteable",
+                            "Discussion_Id": "606782",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088327",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-07-10T09:21:23+02:00",
+                                    "Content": "Here is the timetable for the presentations next Tuesday:  Leinenbach Desiree Anne 14:15 Dylan Dylan 14:30 Dersha Geri 14:45 Aqilla Ratu Ersya 15:00 Drass Mohamed Achraf 15:15  Best, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission - Task 2",
+                            "Discussion_Id": "599930",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078451",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-06-10T10:49:20+02:00",
+                                    "Content": "Dear students, If your file for task 2 is bigger than 50MB, you can use the following link to upload your task: https://tubcloud.tu-berlin.de/s/kR7YAcbRB9SorsD Password: CEG24Task2",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Video Postprocessing of simulation results",
+                            "Discussion_Id": "594611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070430",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-05-15T12:07:54+02:00",
+                                    "Content": "Dear students, as there were so few students yesterday, we only held the \"Sprechstunde\" and not the actual lecure about postprocessing of simulation data. I have therefore uploaded a video of last year's post-processing lecture. We can clarify any questions in the upcoming lecture. Best, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tomorrows Lecture",
+                            "Discussion_Id": "594074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069549",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-05-13T14:34:55+02:00",
+                                    "Content": "Dear students, I have uploaded the folder with the files for the upcoming lecture about postprocessing of simulation result in Python. The lecture will be held mostly with jupyter notebook, which is preinstalled on anaconda. If you want to run the Code on your own computer in parallel you have to install anaconda, as it is explained in 01 CEG SoSe24 and the python-libraries: pandas numpy datetime matplotlib Some of these libraries might be already preinstalled. On the anaconda website you can find out how to install python libraries with anaconda.  See you tomorrow!  Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1823797",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "PPT template for download &amp; Question reg. project description",
+                            "Discussion_Id": "605895",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087051",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-07-06T10:54:07+02:00",
+                                    "Content": "Hi,  could you still upload the power point template as promised? Thank you. Should we just \"blindly\" follow the project description even if they don't always make sense, e.g. no render on external walls.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087053",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-07-06T11:40:25+02:00",
+                                    "Content": "When adding the zones the automatically added windows give error messages: Sometimes I could adjust them, but sometimes I could not find them at all. Besides, in the front of the glass hall there were internal windows added on the left and right, but not on the back - should I add some there or rather remove the others? Furthermore, for the office zones the windows were drawn all over the zone. Should I adjust their size and put several of them in the right holes for the windows?",
+                                    "Response to": "p1087051"
+                                },
+                                {
+                                    "Message_id": "p1087275",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-07-08T08:51:22+02:00",
+                                    "Content": "Hi Desiree, I have uploaded the template_presentation. When importing an IFC file you can choose if windows should be merged. This is a common way to simplify the model and save simulation time. So you can leave it like this. About the errors: Its probably easier, when I take a look at the errors tomorrow in the Sprechstunde.  Best, Max",
+                                    "Response to": "p1087053"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Simulation output choice and comparison preferences",
+                            "Discussion_Id": "602738",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082522",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-22T14:10:54+02:00",
+                                    "Content": "Hi, I've once run a Overheating simulation and once a custom simulation with all the cases, but a) don't understand why some output is still pre-selected after the simulation although not chosen before as output while the once wanted aren't activated. b) the overheating simulation seems difficult to compare as it's giving single days in different months, so an overall assessment seems difficult unless extensively processing and compiling the data from the Excel files c) also in the custom simulation I'm not sure how to best get a comparison between the cases, as the cases' graphs overlaying contains too many curves for each property, and the Compare results showed strange values .  Should I call zone 11 a zone group and then only show this zone group for the results?  Or what approach would you chose to focus on zone 11, only, and get the simulations comparable best. Thx, Desiree",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082968",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-06-24T13:02:23+02:00",
+                                    "Content": "Hi Desiree,  I would use the results of the overheating simulation for the worst month. Please use the results of the individual models and not the \"compare results\" as they tend to be strange.  Best, Max",
+                                    "Response to": "p1082522"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Base file and versions: How to continue",
+                            "Discussion_Id": "601090",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080153",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-14T13:48:17+02:00",
+                                    "Content": "Hi, I've created a base file and versions for the blinds, but then have closed everything. I would have imagined if I open the base file again, make chances and then click \"save version...\" I could add another child. But it rather looks as if it's creating a new base file. That's how it looks like (pls ignore the second internal blinds version)  How can I \"resume creating children\"? Thx",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Warnings and errors when opening base file",
+                            "Discussion_Id": "600644",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079479",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-12T15:32:00+02:00",
+                                    "Content": "Hi, the first enclosed screeshot I kind of ignored by clicking OK but the second with the errors reg. the CAD file made me worry:I've placed both CAD files in the Task 3 folder and assumed that's where we've stored the CAD folders until now. If the link to the CAD file got missing, should I delete the floor plans and import them again? Thx",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079680",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-06-13T09:08:43+02:00",
+                                    "Content": "The CAD files are not necessary as the building geometry is already created. The simulation should work without them. Best, Max",
+                                    "Response to": "p1079479"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Can't upload *.idm file because it's bigger than 50MB",
+                            "Discussion_Id": "599922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078442",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-10T10:39:51+02:00",
+                                    "Content": "What should I do? I wouldn't know how to reduce the size of the file. I've uploaded the comparison file additionally. And I could try to upload the file into the cloud and send the link to it.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078453",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-06-10T10:51:13+02:00",
+                                    "Content": "Dear Desiree,  I just shared a TUB-Cloud link, please use that one for the submission.  Best, Kata",
+                                    "Response to": "p1078442"
+                                },
+                                {
+                                    "Message_id": "p1078583",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-10T13:58:49+02:00",
+                                    "Content": "Ok, thx, did it and uploaded a pdf with the TUB-Cloud link",
+                                    "Response to": "p1078453"
+                                },
+                                {
+                                    "Message_id": "p1078638",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-10T15:12:39+02:00",
+                                    "Content": "TBH, I've used the TUB Cloud for the first time. I saw the link got password secured - will you be able to download the file with your TU account?",
+                                    "Response to": "p1078583"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lighting: unit/m² calculation typo in slides",
+                            "Discussion_Id": "599198",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077383",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-05T16:38:47+02:00",
+                                    "Content": "Hi, in the lecture slides the unit/m² is given as 0.5 no/m² but the calculation and also the excel sheet shows 0.4, so I'll use 0.4 for the task.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077400",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-05T17:14:04+02:00",
+                                    "Content": "What's the 300 jährliche Betriebstage of the kitchen translated into scheduled valid days? Saturdays included?",
+                                    "Response to": "p1077383"
+                                },
+                                {
+                                    "Message_id": "p1077411",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-05T17:30:06+02:00",
+                                    "Content": "Where do I get the MET value for the kitchen 80W people?",
+                                    "Response to": "p1077400"
+                                },
+                                {
+                                    "Message_id": "p1077412",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-05T17:32:43+02:00",
+                                    "Content": "What's the equipments' Watt in the kitchen?",
+                                    "Response to": "p1077411"
+                                },
+                                {
+                                    "Message_id": "p1077414",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-05T17:38:21+02:00",
+                                    "Content": "For the lecture hall schedules, should we assume Mid April till Mid July and Mid-Oct till Mid-Feb, Mo-Fr?",
+                                    "Response to": "p1077412"
+                                },
+                                {
+                                    "Message_id": "p1077439",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-06-05T19:04:22+02:00",
+                                    "Content": "I've modeled and simulated as far as I knew, after re-adopting the Task 1 file and compared the results - could you have a look if that looks more or less as it should before I go into analyzing?",
+                                    "Response to": "p1077414"
+                                },
+                                {
+                                    "Message_id": "p1078028",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-06-07T14:50:40+02:00",
+                                    "Content": "Hey,  - It´s a typo, the calculation should equal 0.4 no./m2 of course. - 300 days should correspond to c.a. 6 days/week yes. - Set the same MET value in all zones. - Set the same equipment´s load in all zones. - Hörsaal, Auditorium [nr. 9] has a usage of 150 day/year, which should correspond to (150/375)*7 = c.a. 3 days/week. - Your Task 1 looks fine based on those results. :)  Best, Kata",
+                                    "Response to": "p1077439"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DIN 18599-10 &amp; Excel sheet of values for Task 2",
+                            "Discussion_Id": "597932",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075534",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-30T15:18:19+02:00",
+                                    "Content": "Hi, will you still provide a download version of DIN 18599-10 or can we as well use online resources? Shouldn't make a difference, should it? You said you wanted to compile an Excel compilation of the different room types and their parameters for the task - when will it be provided? Just to get it right, we take our IDA ICE file from Task 1, rename the zones and assign the different room types to them? Or would you recreate the zones directly with their zone template?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076298",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-06-03T10:15:19+02:00",
+                                    "Content": "Hi,  The DIN is uploaded now. I suggest you to create your own excel file first, in order for you to get an overview on what information is needed to be extracted from the DIN. Then tomorrow at the Sprechstunde we can discuss it. And yes, as you said, you can reuse your model from task 1 (note that there are two zones on each level that needs to be added) and assign the newly created zone templates to the zones.  Best, Kata",
+                                    "Response to": "p1075534"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Need the activation key",
+                            "Discussion_Id": "595403",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071673",
+                                    "Author": "Pablo Alejandro Minelli",
+                                    "DateTime": "2024-05-19T23:59:55+02:00",
+                                    "Content": "Hi, I had to change laptop and I urgently need the activation key. Could someone please send it to me? Thank you in advance!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071708",
+                                    "Author": "Pablo Alejandro Minelli",
+                                    "DateTime": "2024-05-20T11:29:37+02:00",
+                                    "Content": "Solved. Thanks",
+                                    "Response to": "p1071673"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Occupant, Light, Equipment not inside zone",
+                            "Discussion_Id": "595085",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071145",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-17T09:24:18+02:00",
+                                    "Content": "Hi, for zone 9 I copied the zone from level 0 when redoing everything from scratch. When I now wanted to run the simlulation I got the errors that occupant, light and equiptment aren't inside the zone. What to do? Just redo the zone and hope it's gonna be ok?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071153",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-17T09:35:34+02:00",
+                                    "Content": "I've recreated now zone 9 from scratch - but then get the same errors for other zones. Don't get what's wrong.",
+                                    "Response to": "p1071145"
+                                },
+                                {
+                                    "Message_id": "p1071206",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-17T11:16:11+02:00",
+                                    "Content": "After closing IDA ICE and opening the project again, I only got error messages that the lights weren't inside the zone 1,3,5,7,9. So I moved them inside the zone (no idea why they were outside and where I placed them in the end), but then I could run the simulation. I have the feeling that this new version has a lot of bugs.  But I got new warnings, see enclosed.",
+                                    "Response to": "p1071153"
+                                },
+                                {
+                                    "Message_id": "p1071212",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-05-17T11:36:39+02:00",
+                                    "Content": "Hey Desiree,  The objects ending up outside the zone might be because when you lock the zones and copy-paste, they kind of get pasted to the wrong level. We can look at it the next lecture.  To your other question: Warnings in IDA ICE does not necessarily indicate a problem, it just warns you about a fact. So in this case, those walls are not connected to any zones or exterior environment. This happens either when there is a too big space between zones/between zone and building body, or when you have very small wall portions (this happens usually when the zone is created automatically). Adiabatic refers to that no heat flow happens through that wall. This is usually not a problem, you can run your model just as usual. We can discuss this further next lecture!  Best, Kata",
+                                    "Response to": "p1071206"
+                                },
+                                {
+                                    "Message_id": "p1071232",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-17T11:58:53+02:00",
+                                    "Content": "Thx a lot for the hints and advice! I think I kind of got through as it should be, even if not perfect.  In which file format and naming convention should we upload the 1 page report? PDF?",
+                                    "Response to": "p1071212"
+                                },
+                                {
+                                    "Message_id": "p1071298",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-05-17T13:52:47+02:00",
+                                    "Content": "Happy to hear!  PDF is to be preferred. You can name it in the same way as the IDA ICE file; \"Task1_Matr.Nr\"",
+                                    "Response to": "p1071232"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Object \"Light\" not inside zone",
+                            "Discussion_Id": "594957",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070943",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-16T14:28:03+02:00",
+                                    "Content": "Hi again, after setting the output parameters and wanting to run the simulation, I got the above message. I simply moved these lights into the zones - not giving a second thought why they were outside the zones. Is that alright?  Tuesday with Maximilian we found out that non of the default parameters were set in my installation. Afterwards I could run the simulation, but got some weird errors, might just re-do everything from scratch, in order to be able to get a proper simulation. Walls had no connection to ambient and zones were still not properly cut.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "External wall",
+                            "Discussion_Id": "594513",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070260",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-15T07:44:52+02:00",
+                                    "Content": "Hi, can you please confirm, that the thicknesses from the table on page 9 count, and not the ones from the picture?  And for the layers we have to add the render layers according to the task description with the properties given, right?  Thx. D",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070264",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-15T07:56:39+02:00",
+                                    "Content": "When I try to change the specific heat of the concrete layer I get an error as enclosed.",
+                                    "Response to": "p1070260"
+                                },
+                                {
+                                    "Message_id": "p1070306",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-15T09:38:48+02:00",
+                                    "Content": "Sorry, it seems it was yet again a bug or weird error, and I could solve the problem by restarting IDA ICE...",
+                                    "Response to": "p1070264"
+                                },
+                                {
+                                    "Message_id": "p1070316",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-05-15T10:00:23+02:00",
+                                    "Content": "Hey Desiree,  Regarding your first question, yes, use the material property values provided in the table on slide nr. 9, and not the screenshot, that´s just a general example. And yes, the render has the default values.  I am happy the error got solved.  Best, Kata",
+                                    "Response to": "p1070306"
+                                },
+                                {
+                                    "Message_id": "p1070320",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-15T10:08:45+02:00",
+                                    "Content": "Thx a lot! And sorry to have to bother you with further questions: As Wind profile I could chose City center (ASHRAE 1993) - but how can I set it to \"semi exposed\"? Where can I set the HVAC: -Standard Plant -Constant temperature: 16°C -Heat exchanger: Always on, effectiveness=0.6?  And: From the picture I understand that I have to add the windows on both floors? Thx",
+                                    "Response to": "p1070316"
+                                },
+                                {
+                                    "Message_id": "p1070354",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-05-15T10:53:21+02:00",
+                                    "Content": "- Whether the building is exposed or sheltered effects the wind pressure coefficients. So you have to go to \"Pressure coefficients\" and choose the profile by clicking on \"Auto fill\". It is indeed a bit hidden.  - HVAC Standard Plant you can find in the \"Palette\" if you open up the \"Side Bar\" on the top of the screen. You have a lot of templates for different Air Handling Units (different controllers, system settings and equipment). In the task we use the \"Standard air handling unit\", but it is also the default one, so you actually don´t have to change anything. - The constant temperature refers to a constant supply air temperature of the ventilation to the zones. This you can define if you open up your \"Air Handling Unit\" and under \"setpoint for supply air temperature\", choose constant and write 16C in the box for \"Constant temp [C]\". - For setting the heat exchanger properties, you also have to open up your Air Handling Unit. The box/object with the \"+\" and \"-\" sign represents the heat exchanger. Open it up and there you can set the \"Effectiveness\" and the \"Heat exchanger operation\" connected to it.  All these settings in the task are by default values in IDA ICE, meaning that you do not have to change anything. We have not dealt with these during the lectures yet, but we wanted you to be aware of its properties for the analysis, as they do effect the results.  I hope I could explain it clearly, let us know if there is anything else!  p.s. the windows are on both floors yes. They should follow when you copy-paste the zones from the first floor to the second. Alternatively, you should also be able to copy-paste them in the 3-D view.",
+                                    "Response to": "p1070320"
+                                },
+                                {
+                                    "Message_id": "p1070930",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-16T14:08:06+02:00",
+                                    "Content": "Hi, thx a million for the hints - I would never have found these parameters myself. So it seems I managed all and can run the simulation - thx again!",
+                                    "Response to": "p1070354"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MTS Registration",
+                            "Discussion_Id": "594201",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069771",
+                                    "Author": "Ratu Ersya Aqilla",
+                                    "DateTime": "2024-05-13T22:27:29+02:00",
+                                    "Content": "Hello CEG Team, i was wondering if i registered the right course because the deadline is different. on MOSES it says 20.05 but on the introduction slides it says 14.05.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069825",
+                                    "Author": "Stefan Brandt",
+                                    "DateTime": "2024-05-14T08:59:54+02:00",
+                                    "Content": "Hi, It is the right course! Best Stefan B.",
+                                    "Response to": "p1069771"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Task 1 - first floor import &amp; floor plan",
+                            "Discussion_Id": "594192",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069749",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-13T20:56:23+02:00",
+                                    "Content": "Hi, apart from the errors I constantly get on ground floor when adding the zones, as the walls aren't defined, when going to the first floor after locking everything on ground floor, I can't move the floor plan to the drawing and get errors all the time. I've also unlocked everything again, but the errors keep showing and I don't know what's the problem.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "593411",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068489",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-08T19:15:44+02:00",
+                                    "Content": "Hallo, ich studiere Ba Maschinenbau und würde mich gern für die Prüfung anmelden - wo und wie kann ich das machen? Danke im Voraus. MfG, Desiree Leinenbach",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068491",
+                                    "Author": "Desiree Anne Leinenbach",
+                                    "DateTime": "2024-05-08T19:22:19+02:00",
+                                    "Content": "Ui, ich glaube ich habe es gefunden in Moses im MTS - ist freies Wahlmodul richtig? MfG Desiree",
+                                    "Response to": "p1068489"
+                                },
+                                {
+                                    "Message_id": "p1069004",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-05-10T20:36:37+02:00",
+                                    "Content": "Hey Desiree,  Yes, the link for the registration should be up on MTS by now. And whether its \"Wahlplicht\" or \"Freie wahl\" depends on your studies. But you can take this course regardless. If you take it as a \"Freie wahl\", then your points form this course will be credited within your \"Freie wahl\" modules.",
+                                    "Response to": "p1068491"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Activation Key &amp; Registration Link",
+                            "Discussion_Id": "590404",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063818",
+                                    "Author": "Dylan Dylan",
+                                    "DateTime": "2024-04-27T11:01:54+02:00",
+                                    "Content": "Hallo, I have a few questions regarding this course, because i missed the first lecture. What is the activation key for the IDA App ? & Where can i find the link for the registration ? and also is it mandatory to bring a windows based laptop to the lecture ? Thankyou & have a great weekend ! Best Regards, Dylan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064448",
+                                    "Author": "Maximilian Friebe",
+                                    "DateTime": "2024-04-29T14:19:23+02:00",
+                                    "Content": "Hi Dylan,  it's advisable to bring your own laptop to the lecture to work on the examples in parallel but it's not mandatory. You will get the key in the lecture. The registration works via MTS.  Best, Max",
+                                    "Response to": "p1063818"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture Slides",
+                            "Discussion_Id": "588955",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061606",
+                                    "Author": "Ratu Ersya Aqilla",
+                                    "DateTime": "2024-04-23T14:51:55+02:00",
+                                    "Content": "Hello, i would like to know if the lecture slides will be uploaded or not, because i can‘t attend the first 6 lectures due to my praktikum. thankyou beforehand Regards, Ratu",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061664",
+                                    "Author": "Katalin Julianna Fülep",
+                                    "DateTime": "2024-04-23T15:49:55+02:00",
+                                    "Content": "Hey Ratu,  Yes, we will always upload the slides after the classes. In today's slides, you'll find details about how the course will be evaluated. 20 % of your grade comes from a portfolio, which includes three different tasks. The first task will be introduced on May 7th, and the deadline to submit is May 20th. I understand you might not be around by then, so we'll try to explain everything clearly in the slides. Since you won't be able to attend the \"Sprechstunde\" dedicated to the task, feel free to ask any questions here on the forum, and we'll try to help you out.  Also, remember to register on the course before May 14th.  Regards, Kata",
+                                    "Response to": "p1061606"
+                                },
+                                {
+                                    "Message_id": "p1061941",
+                                    "Author": "Ratu Ersya Aqilla",
+                                    "DateTime": "2024-04-24T04:21:36+02:00",
+                                    "Content": "Hello Kata,  thank you so much, i really appreciate it :)  Regards, Ratu",
+                                    "Response to": "p1061664"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

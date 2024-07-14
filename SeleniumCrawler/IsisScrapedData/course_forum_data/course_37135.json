@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "Karten und Profile SoSe 2024",
+        "Course_id": "37135",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1748942",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Freitag, 28.06.2024 Karten und Profile von 10:00-11:30 und Stellenausschreibung",
+                            "Discussion_Id": "603959",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084270",
+                                    "Author": "Robert Bussert",
+                                    "DateTime": "2024-06-27T10:31:57+02:00",
+                                    "Content": "Liebe Studierende, wie letzte Woche besprochen, beginnt die LV Karten und Profile morgen, 28.06.2024, schon um 10:00 und endet um 11:30! Ich würde Sie außerdem gerne nochmals auf die folgende Stellenausschreibung aufmerksam machen: https://www.jobs.tu-berlin.de/stellenausschreibungen/182753?filter%5Bworktype_tub%5D%5B%5D=stud-mit&filter%5Bworktype_tub%5D%5B%5D=stud-ohne Die Stellenausschreibung ist auch als PDF im ISIS-Kurs eingestellt. Bitte bewerben Sie sich bei Interesse. Der Bewerbungsschluss ist schon am kommenden Montag, dem 1. Juli.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erstes Tutorium 08.05, 10.15 Uhr ",
+                            "Discussion_Id": "592460",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067054",
+                                    "Author": "Lorenz Kemmler",
+                                    "DateTime": "2024-05-06T10:33:21+02:00",
+                                    "Content": "Hallo Zusammen, diesen Mittwoch um 10.15 Uhr in Raum BH-N 107 findet das erste Tutorium statt.  Bitte bringt, auch für die kommenden Wochen, entsprechende Arbeitsmaterialien wie Millimeterpapier, Geodreieck, Stifte, etc. mit. Ich werde die Übungsblätter immer dabei haben, falls ihr diese noch nicht haben solltet. Beste Grüße Lorenz ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erster Termin LV Karten und Profile",
+                            "Discussion_Id": "584445",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054839",
+                                    "Author": "Robert Bussert",
+                                    "DateTime": "2024-04-02T19:00:37+02:00",
+                                    "Content": "Liebe Studierende, der erste Termin der LV Karten und Profile ist Freitag, der 19.04.2024, von 10:15 - 11:45 im BH-N 107. Das Tutorium am Mittwoch beginnt erst am 9. Mai! Robert Bussert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

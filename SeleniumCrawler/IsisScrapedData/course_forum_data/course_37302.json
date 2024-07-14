@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Übungen zur Pflanzenkunde SoSe 24",
+        "Course_id": "37302",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1754934",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermin",
+                            "Discussion_Id": "602445",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082083",
+                                    "Author": "Birgit Seitz",
+                                    "DateTime": "2024-06-20T16:44:57+02:00",
+                                    "Content": "Liebe Studierende, wir haben auf der ISIS eine Abfrage zum Prüfungstermin angelegt. Folgende Termine stehen zur Auswahl: 30.7.2024, 9:00-11:30 Uhr 30.7.2024, 13:00-15:30 Uhr 29.9.2024, 13:00-15:30 Uhr Die Abfrage ist bis zum 20.7. geöffnet und ersetzt NICHT eine Anmeldung zur Prüfung auf MOSES! Bitte melden Sie sich trotzdem fristgerecht auf MOSES in Ihrem Modul zur Prüfung an! Wir empfehlen dringend, einen Termin im Juli zu wählen, da im September nur noch eingeschränkt Pflanzenmaterial für den praktischen Teil der Prüfung zur Verfügung steht und eine Wiederholung bei Nichtbestehen erst im kommenden Jahr (Sommersemester 2025) möglich ist. Sie finden die Abfrage hier oder auf der ISIS unter \"Prüfung\". Herzliche Grüße Birgit Seitz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

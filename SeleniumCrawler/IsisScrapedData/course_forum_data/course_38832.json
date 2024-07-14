@@ -1,0 +1,118 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Kraftwerkstechnik",
+        "Course_id": "38832",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1806423",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Heutiger Termin",
+                            "Discussion_Id": "605421",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086387",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-07-04T08:04:42+02:00",
+                                    "Content": "Lieber Studierende, bitte beachtet, dass der heutige Termin aufgrund technischer Schwierigkeiten mit dem Raum KT 101 ggf. im PC Pool im Erdgeschoss stattfinden wird. Bitte orientiert euch kurz vor der Veranstaltung im Gebäude. Viele Grüße MH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine und Vorbereitung Termin am 4.7.",
+                            "Discussion_Id": "603960",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084271",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-06-27T10:34:02+02:00",
+                                    "Content": "Liebe Studierende, für den Termin am 4.7. mit Miguel habe ich euch zur Vorbereitung noch Lehrvideos zu den Themen Strommarkt und Instandhaltung hochgeladen. In den Vorlesungen heute und am 11.7. behandeln wir die noch offenen Themen, DKW, Energiespeicher, Wasserstofftechnologien. Alle meine Folien sind online. VG MH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Offene Fragen",
+                            "Discussion_Id": "599578",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077926",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-06-07T10:34:16+02:00",
+                                    "Content": "Liebe Studierende, einige Fragen waren noch offen bzw. konnten nicht vollständig beantwortet werden. 1. Bezeichnung Brennkammertypen: Einzelbrennkammer oder Rohrbrennkammer, engl.: can-type combustion chamber Rohr-Ringbrennkammer, engl.: can-annular combustion chamber Ringbrennkammer, engl.: annular combustion chamber Silobrennkammer, engl.: silo combustion chamber Eine gute Übersicht findet ihr z.B. bei Lechner 2019, S. 283 ff. oder Soares 2015, 207 ff. 2. Fuel oil return, Gasturbinen Folien, S. 57 Siemens 2016, pdf-S. 48-50, Fuel Oil System Hier ist die Funktionsweise der Ölverbrennung erläutert. Ein Teil des Öls wird über diese Leitung zurückgeführt. Das betrifft vor allem den Diffusionsmodus. Der in der Folie abgebildete Hybrid-Bruner kann sowohl als Premix-Burner (PB) als auch Diffusion-Burner (DB) betrieben werden.  3. Transpirationskühlung Grundlagen dazu findet ihr bei Herwig 2000, S. 289 ff. (Grundlagenordner). Gasturbinen spezifische Veröffentlichungen sind Polezahev 2019 und Vilkulin 2019. VG MH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "593308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068329",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-05-08T15:19:09+02:00",
+                                    "Content": "Liebe Studierende, die Anmeldung zur mündlichen Prüfung inkl. Terminauswahl kann ab sofort erfolgen. Ich habe zunächst Termine am 16. und 17.7. eingestellt. Sollten mehr Termine benötigt werden, finden diese am 15.7. statt. VG MH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beginn der Vorlesung",
+                            "Discussion_Id": "589204",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062014",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-04-24T09:38:01+02:00",
+                                    "Content": "Liebe Studierende, wir haben gestern gemeinsam einstimmig vereinbart, dass die Vorlesung ab 30.4. pünktlich 16:00 Uhr beginnt. So können wir alle etwas eher Feierabend machen. Zwischen den beiden Blöcken machen wir nur 15 Minuten Pause, sodass wir gegen 19:15 fertig sind. Falls es doch Gegenstimmen von den Nicht-Anwesenden gibt, meldet Euch bitte. VG MH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1819031",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Energietechnik 1 ",
+                            "Discussion_Id": "598362",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076176",
+                                    "Author": "Najmeh Farajolah Chaab",
+                                    "DateTime": "2024-06-02T19:00:17+02:00",
+                                    "Content": "Hallo ,  ich brauche Info über TRR-Methode, Wenn jemand Info hat.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe A",
+                            "Discussion_Id": "595116",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071191",
+                                    "Author": "Alexandros Breous",
+                                    "DateTime": "2024-05-17T10:49:24+02:00",
+                                    "Content": "Guten Morgen, ich habe jetzt eine Whatsapp-Gruppe für Gruppe A erstellt, um die HA von Dienstag zu besprechen. https://chat.whatsapp.com/FRrUU3VsUtmKV4bTEpmXkv MG Alexandros",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche nach einer Gruppe",
+                            "Discussion_Id": "590284",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063645",
+                                    "Author": "Tamyrlan Rakhymzhan",
+                                    "DateTime": "2024-04-26T16:27:40+02:00",
+                                    "Content": 

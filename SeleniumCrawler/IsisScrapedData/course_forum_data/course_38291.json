@@ -1,0 +1,308 @@
+[
+    {
+        "Course_Name": "[SoSe 2024 & WiSe 2024/25] Medizinische Signalverarbeitung",
+        "Course_id": "38291",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1786783",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Entfall von Eikes Sprechstunde",
+                            "Discussion_Id": "606545",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087989",
+                                    "Author": "Eike Thies Osmers",
+                                    "DateTime": "2024-07-09T11:21:55+02:00",
+                                    "Content": "Hallo liebe Kursteilnehmer*innen, Eikes Sprechstunde entfällt heute. In dringenden Fällen könnt ihr mir eine Mail schreiben und dann vereinbaren wir einen Ersatztermin :) Liebe Grüße Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe der zweite Übung. Deadline: 18. Juli um 23:59",
+                            "Discussion_Id": "606045",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087283",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-07-08T09:02:04+02:00",
+                                    "Content": "Liebe alle,  die Abgabefrist für die zweite Übung ist am 18. Juli um 23:59. Sie können im ISIS-Kurs in der Woche vom 15. Juli bis 21. Juli das Abgabeportal finden. Bitte packen Sie die benötigten Skripte, die erstellten Abbildungen sowie eine \"Gruppeinfo.txt\"-Datei zusammen in eine \"GruppeX.zip\"-Datei, wobei \"X\" Ihre Gruppennummer ist. Bitte geben Sie die Rohdatei \"sample_audvis_filt-0-40_raw.fif\" nicht ab.  Eine Gruppe muss nur eine ZIP-Datei abgeben, bitte nicht mehrfach einreichen. Wenn Sie Ihre Gruppennummer nicht wissen, können Sie diese im Bereich \"Teilnehmer/innen\" ganz oben im ISIS-Kurs finden.  In der \"Gruppeinfo.txt\" listen Sie bitte alle Namen der Gruppenmitglieder, Matrikelnummern und TU-Berlin E-Mail-Adressen auf. Nur die Gruppenmitglieder, deren Informationen in der \"Gruppeinfo.txt\" angegeben sind, werden Noten erhalten.  Wenn Sie Fragen haben, können Sie mir gerne eine E-Mail schreiben.  Schöne Grüße, Wentao",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom-Link",
+                            "Discussion_Id": "605449",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086425",
+                                    "Author": "Eike Thies Osmers",
+                                    "DateTime": "2024-07-04T09:52:06+02:00",
+                                    "Content": "Liebe Online-Teilnehmer*innen, der Zoom-Call ist heute ausnahmsweise über einen anderen Link zu erreichen. https://tu-berlin.zoom.us/j/65202061825?pwd=UXlXMG4wcTZOdi84TU9jMFhiUVYrdz09 Liebe Grüße Eike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "am Donnerstag, den 27.06 Exkursion in die Schlafmedizin der Charité",
+                            "Discussion_Id": "602900",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082780",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-06-24T08:59:35+02:00",
+                                    "Content": "Liebe alle,  am Donnerstag, den 27.06., genau um 14 Uhr ist die Exkursion in die Schlafmedizin der Charité. Der Treffpunkt ist Campus CCM, Virchowweg 9, Seminarraum 403 \"Seminarraum 3 Innere Medizin\". Sie können im ISIS-Kurs in der Woche vom 24. Juni bis 30. Juni eine Anreisebeschreibung zur Charité als PDF finden, damit Sie den Treffpunkt gut finden.  Mit freundlichen Grüßen, Wentao",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisatorische der zweite Übung",
+                            "Discussion_Id": "600757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079672",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-06-13T08:50:13+02:00",
+                                    "Content": "Liebe alle, Diesen Donnerstag, 13. Juni, findet die zweite Programmierübung wieder im Raum EN 519/520 statt.  Die Programmierübung wird hybrid durchgeführt, Sie können also vor Ort teilnehmen oder sich online zuschalten. Hier ist der entsprechende Zoom-Link:  https://tu-berlin.zoom.us/j/62725342836?pwd=N0N5M1cyR2Q0NnV3WithSDZrOHVFUT09  Bitte sprechen Sie sich innerhalb Ihrer Gruppen ab, ob Sie vor Ort oder via zoom teilnehmen möchten. Es wäre sinnvoll, wenn die ganze Gruppe entweder gemeinsam vor Ort oder gemeinsam online teilnimmt. Schöne Grüße, Wentao",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe der ersze Übung. Deadline: 13. Juni um 23:59",
+                            "Discussion_Id": "600491",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079276",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-06-12T08:42:23+02:00",
+                                    "Content": "Liebe alle,  die Abgabefrist für die erste Übung ist am 13. Juni um 23:59. Sie können im ISIS-Kurs in der Woche vom 10. Juni bis 16. Juni das Abgabeportal finden. Bitte packen Sie Ihren Code mit  eine \"Gruppeinfo.txt\"-Datei zusammen in eine \"GruppeX.zip\"-Datei, wobei \"X\" Ihre Gruppennummer ist. Eine Gruppe muss nur eine ZIP-Datei abgeben, bitte nicht mehrfach einreichen. Wenn Sie Ihre Gruppennummer nicht wissen, können Sie diese im Bereich \"Teilnehmer/innen\" ganz oben im ISIS-Kurs finden.  In der \"Gruppeinfo.txt\" listen Sie bitte alle Namen der Gruppenmitglieder, Matrikelnummern und TU-Berlin E-Mail-Adressen auf. Nur die Gruppenmitglieder, deren Informationen in der \"Gruppeinfo.txt\" angegeben sind, werden Noten erhalten.  Wenn Sie Fragen haben, können Sie mir gerne eine E-Mail schreiben.  Schöne Grüße,   Wentao",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Rekonstruktion und Erkennung von Sprache aus ECoG-Signalen",
+                            "Discussion_Id": "598177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075899",
+                                    "Author": "Dorothea Kolossa",
+                                    "DateTime": "2024-05-31T16:23:42+02:00",
+                                    "Content": "Liebe alle, ich hatte in der Vorlesung ein Paper zur Repräsentation von Sprache in Elektrocortikogrammsignalen erwähnt, aus der Arbeitsgruppe von Edward Chang (Leiter der Neurochirurgie an der University of California at San Francisco). Wie versprochen habe ich jetzt dies sehr spannende Paper von Nima Mesgarani und von ihm in unser ISIS-Verzeichnis: https://isis.tu-berlin.de/mod/folder/view.php?id=1787877 hochgeladen. Ich habe dabei auch gleich das Paper aus unserer Zusammenarbeit mit Edward Chang hochgeladen, von unserem damaligen Doktoranden Ahmed Hussen Abdelaziz. Ahmed hatte zur Zeit der Veröffentlichung schon eine Stelle bei Apple angetreten, und so haben wir leider nur geschafft, ein arXiv-Paper daraus zu machen - aber interessant finde ich es trotzdem: Dort zeigen wir, wie Spracherkennung aus ECoG-Signalen verbessert werden kann, wie man also eine bessere Transkription der Sprache bekommen kann, der jemand gerade zuhört. Viele Grüße und ein schönes Wochenende Dorothea Kolossa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wentao's Sprechstunde am Mittwoch, den 29.06., wird auf 16 Uhr verschoben",
+                            "Discussion_Id": "596840",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073863",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-27T08:34:14+02:00",
+                                    "Content": "Liebe Studierende,  wegen persönlicher Gründe werden meine Sprechstunden am Mittwoch, den 29.06., auf 16 Uhr verschoben.  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbereitung zur Programmierübung am Donnerstag",
+                            "Discussion_Id": "594536",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070297",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-15T09:19:05+02:00",
+                                    "Content": "Liebe Studierende,  für die Programmierübung am Donnerstag (16.05.2024) verwenden wir Python und PyCharm Community als Entwicklungsumgebung. Im ISIS-Kurs finden Sie eine Anleitung zur Entwicklungsumgebung (Einführung in die Entwicklungsumgebung.pdf), die zeigt, wie man Python und PyCharm Community installiert, ein neues Python-Projekt erstellt und die erforderlichen Pakete installiert.  Falls Sie Python und PyCharm noch nicht auf Ihrem Rechner installiert haben, empfehlen wir Ihnen, zur Vorbereitung auf die Übung den Anleitungsschritten zu folgen, um Python auf Ihrem Laptop zu installieren, damit es am Donnerstag für alle leichter losgeht. Sollte die Installation nicht funktionieren, bekommen Sie natürlich am Donnerstag Hilfe in der Übung (oder im Notfall einen PC).  Wenn Sie bereits Python und PyCharm auf Ihrem Rechner installiert haben und mit beiden vertraut sind, finden Sie auf den letzten Folien die benötigten Pakete für die Programmierübung am Donnerstag, die Sie im Voraus installieren können.  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Informationen zur Programmierübung am Donnerstag, den 16. Mai",
+                            "Discussion_Id": "593938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069346",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-13T10:21:34+02:00",
+                                    "Content": "Liebe Studierende,  diesen Donnerstag, den 16. Mai, findet die erste Programmierübung in den Räumen EN 519/520 statt. In den Räumen stehen 5 PCs für 5 Gruppen zur Verfügung. Wir empfehlen, dass jede Gruppe mindestens einen eigenen Laptop mitbringt, idealerweise sogar mehrere.  Die Programmierübung am Donnerstag wird im hybriden Modus durchgeführt. Sie können entweder vor Ort teilnehmen oder sich online zuschalten. Hier ist der entsprechende Zoom-Link:  https://tu-berlin.zoom.us/j/62725342836?pwd=N0N5M1cyR2Q0NnV3WithSDZrOHVFUT09  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069998",
+                                    "Author": "Dorothea Kolossa",
+                                    "DateTime": "2024-05-14T13:38:17+02:00",
+                                    "Content": "Liebe alle,  diesen Donnerstag findet ja in der MedSV die erste Programmierübung statt, die wir hybrid organisieren. Bitte sprechen Sie sich innerhalb Ihrer Gruppe ab, ob Sie vor Ort oder via zoom teilnehmen möchten, da die Zusammenarbeit zwischen vor-Ort- und online-Teilnehmern erfahrungsgemäß schwierig ist.  Bitte denken Sie außerdem daran, soweit möglich eigene Laptops mitzubringen.  Viele Grüße Dorothea Kolossa",
+                                    "Response to": "p1069346"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1787874",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abgabe Übung 1",
+                            "Discussion_Id": "600441",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079207",
+                                    "Author": "Markos Dimitrios Josef Bantouvakis",
+                                    "DateTime": "2024-06-11T21:00:18+02:00",
+                                    "Content": "Guten Tag, vielleicht steht das irgendwo aber ich konnte es nicht finden. Wie/wo können wir den code zu Übung 1 Abgeben? Vielen Dank und mit freundlichen Grüßen Markos Bantouvakis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "FIR Filterung Übung 1",
+                            "Discussion_Id": "596909",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073971",
+                                    "Author": "Linda Johanna Marie Beland",
+                                    "DateTime": "2024-05-27T10:55:29+02:00",
+                                    "Content": "Hallo, ich habe eine Frage zu der QRS-Erkennung in dem FIR-gefilterten Signal. Wie in Abbildung 3 des Übungsblattes auch zu erkennen ist, führt die Anwendung des FIR-Filters zu einer Verschiebung des Signals und damit auch zur Verschiebung der QRS-Komplexe. Bei Anwendung des Modells werden deshalb die QRS Komplexen an verschobenen Zeitpunkten ermittelt. Die Labeldatei enthält jedoch die Zeitpunkte der QRS-Komplexe vor der Filterung. Daher stimmen die ermittelten mit den wahren Zeitpunkten dann nicht überein. In Abbildung 7 aus dem Übungsblatt sind die Ground-Truth Markierungen jeweils an anderen Stellen als in Abbildung 5. Daher nehme ich an, das diese Lösung mit einer anderen Labeldatei generiert wurde und daher die Zeitpunkte gut übereinstimmen. Ich frage mich deshalb jetzt wie die Ergebnisse auf dem FIR-gefilterten Signal gewertet werden sollen, da sie ja eigentlich korrekt sind, aber wegen der Zeitverschiebung nicht mit dem Ground Truth übereinstimmen. Viele Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074007",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-27T11:23:42+02:00",
+                                    "Content": "Hallo Linda,  vielen Dank für diese Fragen!  Ein FIR-Filter verursacht eine zeitliche Verzögerung. Diese Verzögerung beträgt (ntaps - 1) / (2 * f_S) Sekunden. Die Werte für \"ntaps\" und \"f_S\" sind im Code angegeben. Sie können die zeitliche Verzögerung in eine Verzögerung der Abtastungen umwandeln und dann einen Korrektion zum FIR-Ergebnis implementieren, damit es zum richtigen Zeitpunkt vorliegt.  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "p1073971"
+                                },
+                                {
+                                    "Message_id": "p1074024",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-27T11:38:06+02:00",
+                                    "Content": "Übrigens wird diese Korrektur automatisch durch die Funktion 'plot_prediction_annotation' durchgeführt.",
+                                    "Response to": "p1074007"
+                                },
+                                {
+                                    "Message_id": "p1074027",
+                                    "Author": "Linda Johanna Marie Beland",
+                                    "DateTime": "2024-05-27T11:42:25+02:00",
+                                    "Content": "Alles klar, Vielen Dank!",
+                                    "Response to": "p1074024"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Passwort Video QRS-Komplexen 2",
+                            "Discussion_Id": "596803",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073818",
+                                    "Author": "Stine Hoffmann",
+                                    "DateTime": "2024-05-26T22:39:25+02:00",
+                                    "Content": "Hallo, gibt es für das Video zur Erkennung von QRS-Komplexen 2 ein anderes Passwort als für die anderen Videos?  Ich erhalte bei diesem Video immer die Fehlermeldung, dass das Passwort falsch sei. Auf die anderen Videos kann ich aber zugreifen.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073860",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-27T08:28:31+02:00",
+                                    "Content": "Guten Tag Stine,  vielen Dank für die Meldung und entschuldigen Sie die Unannehmlichkeiten.  Sie können es jetzt gerne erneut probieren. Sollte weiterhin eine Fehlermeldung auftreten, lassen Sie es mich bitte wissen.  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "p1073818"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Framework ML Python",
+                            "Discussion_Id": "594117",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069620",
+                                    "Author": "Jonas Schmidt",
+                                    "DateTime": "2024-05-13T16:17:25+02:00",
+                                    "Content": "Hallo Wentao Yu, welches Framework für Machine Learning in Python werden wir Donnerstag nutzen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069646",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-13T16:34:58+02:00",
+                                    "Content": "Lieber Jonas,  wir verwenden PyTorch für das DNN-Modell.  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "p1069620"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche Gruppe für MedSV",
+                            "Discussion_Id": "593696",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068949",
+                                    "Author": "Markos Dimitrios Josef Bantouvakis",
+                                    "DateTime": "2024-05-10T15:56:15+02:00",
+                                    "Content": "Hallo, mein Partner mit dem ich die Labore zu MedSV machen wollte ist leider abgesprungen und ich suche auf diesem weg nach einer Gruppe die noch einen Platz frei hat und mich aufnehmen könnte. Zu mir: Ich studiere im Master Elektrotechnik und war 4 Jahre bei Prolab (projektorientiertes praktikum - pflicht B.Sc. Elektrotechnik) Tutor. Ich habe das uC-Labor, Projekt Elektronik und DSP-Labor schon gemacht und auch erste Erfahrungen mit Python (Anaconda & Spyder) gesammelt. Soll jetzt nicht zu doll nach einer Bewerbung klingen, aber ich werde meinen Part der Gruppenarbeit auf jeden Fall stemmen können und mich nicht durchschleifen lassen ^^  Liebe Grüße Markos Bantouvakis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069349",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-05-13T10:24:16+02:00",
+                                    "Content": "Lieber Markos,  Sie können gerne am Donnerstag, den 16. Mai, zu den Räumen EN 519/520 zu kommen und dort persönlich eine Gruppe zu suchen.  Mit freundlichen Grüßen,  Wentao",
+                                    "Response to": "p1068949"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Video-Aufzeichnungen",
+                            "Discussion_Id": "587653",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059522",
+                                    "Author": "Reiner Josef Montag",
+                                    "DateTime": "2024-04-19T12:29:20+02:00",
+                                    "Content": "Hallo, der Aufruf der Videoaufzeichnung, mit dem Passwort, dass uns in der VL gegeben wurde, ist leider nich möglich? Gibt es dafür ein gesondertes PW?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059571",
+                                    "Author": "Wentao Yu",
+                                    "DateTime": "2024-04-19T13:22:02+02:00",
+                                    "Content": "Guten Tag,  vielen Dank für Ihre Fragen. Wir haben das Video auf der TU-Cloud hochgeladen. Leider gibt es dort eine Mindestlänge für Passwörter. Für das Video (und nur für das Video), können Sie einfach „SoSe“ nach das gegebene Passwort anhängen.  Mit freundlichen Grüßen, Wentao",
+                                    "Response to": "p1059522"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unterlagen zur Wiederholung",
+                            "Discussion_Id": "587429",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059170",
+                                    "Author": "Simon Tewes",
+                                    "DateTime": "2024-04-18T16:42:37+02:00",
+                                    "Content": "Hallo, ich wollte fragen, ob Sie die in der heutigen Vorlesung erwähnten Unterlagen zur Wiederholung von Fouriertransformation und z-Transformation zur Verfügung stellen könnten.  Falls Sie zusätzlich einen geeigneten Input zur Wiederholung von Operationsverstärkern kennen, würde ich mich darüber auch sehr freuen! Vielen Dank für die Hilfe! Freundliche Grüße Simon",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059279",
+                                    "Author": "Dorothea Kolossa",
+                                    "DateTime": "2024-04-18T21:07:32+02:00",
+                                    "Content": "Hallo, und danke für die Frage.  Zur Fourier- und z-Transformation finde ich dieses Buch gut: https://link.springer.com/content/pdf/10.1007/978-3-8348-9523-3.pdf Zu Operationsverstärkern ist dieses Skript aus Münster sehr schön passend: https://www.uni-muenster.de/Physik.AP/Veranstaltungen/F-Praktikum/anleitungen/Operationsverstaerker.pdf  Viele Grüße Dorothea Kolossa",
+                                    "Response to": "p1059170"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "SoSe 2024 ODS Grundlagen Digitaler Vernetzung Vorlesung",
+        "Course_id": "37625",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764550",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesungen und Seminare über Zoom",
+                            "Discussion_Id": "601416",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080622",
+                                    "Author": "Saman Akbari",
+                                    "DateTime": "2024-06-17T11:04:52+02:00",
+                                    "Content": "Liebe Studierende,  die restlichen Vorlesungen und Seminare werden über Zoom stattfinden, da die Mehrheit der Teilnehmer dies präferiert laut der Abstimmung. Bitte beachten Sie deshalb den veränderten Ablauf (s. ISIS).  Viele Grüße Saman",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abstimmung über Präsenz- oder Onlinelehre",
+                            "Discussion_Id": "599492",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077789",
+                                    "Author": "Saman Akbari",
+                                    "DateTime": "2024-06-06T17:23:55+02:00",
+                                    "Content": "Liebe Studierende,  nach einer Anfrage gibt es nun eine Abstimmung auf ISIS, ob die restlichen Vorlesungs- und Seminartermine über Zoom oder Präsenz stattfinden sollen (Seminarvortrag am Ende des Semesters ausgeschlossen). Die Abstimmung ist bis nächste Woche Freitag (14.06) geöffnet.  Viele Grüße Saman",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung vom 16.05. über Zoom",
+                            "Discussion_Id": "594650",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070489",
+                                    "Author": "Saman Akbari",
+                                    "DateTime": "2024-05-15T13:41:14+02:00",
+                                    "Content": "Liebe Studierende,  die morgige Vorlesung findet über Zoom statt wegen Erkrankung von Prof. Hauswirth. Sie können an der Vorlesung über die folgende Einladung teilnehmen:  https://tu-berlin.zoom.us/j/64159617384?pwd=emNWSlZENEgvNEVoTDRxQ1JJODFrUT09  Meeting-ID: 641 5961 7384  Kenncode: 413548  Schnelleinwahl mobil +496950502596,,64159617384#,,,,,,0#,,413548# Deutschland +496971049922,,64159617384#,,,,,,0#,,413548# Deutschland  Einwahl nach aktuellem Standort          +49 695 050 2596 Deutschland         +49 69 7104 9922 Deutschland  Meeting-ID: 641 5961 7384 Kenncode: 413548  Ortseinwahl suchen: [https://tu-berlin.zoom.us/u/cdW73Bxq7n](https://tu-berlin.zoom.us/u/cdW73Bxq7n)  Über SIP beitreten sip:[64159617384.413548@fr.zmeu.us](mailto:64159617384.413548@fr.zmeu.us)  Über H.323 beitreten 213.19.144.110 (Amsterdam Niederlande)  213.244.140.110 (Deutschland) Kenncode: 413548 Meeting-ID: 641 5961 7384  Viele Grüße, Saman",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

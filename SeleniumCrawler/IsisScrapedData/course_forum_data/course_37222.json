@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "SE Theorie des Widerspruchs (SoSe 2024)",
+        "Course_id": "37222",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1752830",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall Sitzungen am 07.05. und am 14.05.2024",
+                            "Discussion_Id": "591088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064881",
+                                    "Author": "Giulia Fammartino",
+                                    "DateTime": "2024-04-30T10:02:40+02:00",
+                                    "Content": "Liebe Studierende,  die Sitzungen am 07.05. und am 14.05.2024 müssen leider ausfallen. Mit freundlichen Grüßen, Giulia Fammartino",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

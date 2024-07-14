@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "Angewandte Lebensmittelmaterialwissenschaften SoSe 2024",
+        "Course_id": "37208",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1751606",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrveranstaltung am 28.05.2024",
+                            "Discussion_Id": "597226",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074532",
+                                    "Author": "Ingalisa Mai-Britt Alsmeier",
+                                    "DateTime": "2024-05-28T09:22:38+02:00",
+                                    "Content": "Hallo Studierende,  Am morgigen Mittwoch, den 29.05.2024 findet keine Lehrveranstaltung statt. Der vorgesehende Vortrag und damit das Thema findet nicht statt. Alle weiteren Termine bleiben, wie in der Einführungsveranstaltung besprochen, zeitlich so terminiert.  Viele Grüße Ingalisa Alsmeier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

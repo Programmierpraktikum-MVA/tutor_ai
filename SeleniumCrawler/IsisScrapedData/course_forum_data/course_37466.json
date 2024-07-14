@@ -1,0 +1,246 @@
+[
+    {
+        "Course_Name": "TKN Projekt Angewandte Netzwerktechnologien / (Research) Project Advanced Network Technologies 2024s",
+        "Course_id": "37466",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1764115",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "3rd MS Presentations",
+                            "Discussion_Id": "585427",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056243",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-07-02T08:00:00+02:00",
+                                    "Content": "Dear all, next week, we are going to have (the first round of) the presentations for the 3rd milestone. We will follow the order (soon) given on the ISIS page. Please note that every(!) group is required to submit the slides before the first meeting (09.07.2024, 14:00) we will start at 14 c.t. in HFT-TA 340, please be on time! participation in both rounds (9th & 16th) is mandatory there is a strict time limit of 12 (presentation) + 5 (Q&A) minutes per group you need to bring a device for presenting the slides (know & test your setup beforehand, we have a HDMI connector) we require exactly 1 presenter (will be graded individually), the remaining group members can help with details during the Q&A if your group has two members only, one student can present a second time or both of you can present with equal parts in time (c.f., grading) you should include some review of the entire project on the meta level (cf., content of the project report) See you next week!  Best, Julian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087509",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-07-08T12:36:24+02:00",
+                                    "Content": "Dear all,  unfortunately, our regular room (HFT-TA 340) is not available anymore. Thus, we will move tomorrow's and next week's presentations to HFT-TA 225! In this room, we have a big TV (4K) and a HDMI connector. Please make sure to know (and test) your setup before the meeting. This time, long-lasting technical issues will count towards your presentation time.  See you tomorrow!  Best, Julian",
+                                    "Response to": "p1056243"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Submission",
+                            "Discussion_Id": "585429",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056245",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-07-01T08:00:00+02:00",
+                                    "Content": "Dear all, please note that the final submission of the project report & all source code including documentation is due at Friday, 19th, 23:59:59! The report should document the entire project. i.e., the goal, the tasks, the solution, and its results as well as the organization within the group. The PDF has to be submitted via ISIS. Make sure to comply with the list of advice given in the Project Report submission module. The quality of the source code / overall solution will be addressed by considering the following items, which you should take care of accordingly: functionality & features of solution source code including documentation (i.e., comments) README.md file describing (1) how to get your solution running and (2) briefly the technical details of your solution The source code including the README file has to be submitted via your group's assigned git repository on the TUB server. Make sure to combine everything into a single branch called `submission` such that it is clear what your final submission is and remove all other open branches. Talk to your supervisor in case you encounter any issues with that.  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2nd MS Presentations",
+                            "Discussion_Id": "585426",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056242",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-06-04T08:00:00+02:00",
+                                    "Content": "Dear all, next week, we are going to have (the first round of) the presentations for the 2nd milestone. We will follow the order (soon) given on the ISIS page. Please note that every(!) group is required to submit the slides before the first meeting (11.06.2024, 14:00) we will start at 14 c.t. in HFT-TA 340, please be on time! participation in both rounds (11th & 18th) is mandatory there is a strict time limit of 10 (presentation) + 5 (Q&A) minutes per group you need to bring a device for presenting the slides (know & test your setup beforehand, we have a HDMI connector) we require exactly 1 presenter (will be graded individually), the remaining group members can help with details during the Q&A See you next week!  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1st MS Presentations",
+                            "Discussion_Id": "585425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056241",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-07T08:00:00+02:00",
+                                    "Content": "Dear all, next week, we are going to have (the first round of) the presentations for the 1st milestone. We will follow the order (soon) given on the ISIS page. Please note that every(!) group is required to submit the slides before the first meeting (14.05.2024, 14:00) we will start at 14 c.t. in HFT-TA 340, please be on time! participation in both rounds (14th & 21th) is mandatory there is a strict time limit of 10 (presentation) + 5 (Q&A) minutes per group you need to bring a device for presenting the slides (know & test your setup beforehand, we have a HDMI connector) we require exactly 1 presenter (will be graded individually), the remaining group members can help with details during the Q&A See you next week!  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Reminder: Exam Registration",
+                            "Discussion_Id": "585423",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056239",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-03T08:00:00+02:00",
+                                    "Content": "Dear all, please remember to register for the portfolio exam via Moses MTS. Please do so before 5th May (hard deadline). Without a registration, you will not be able to participate in the projects (no exceptions)! Please note that you have to select the correct module from the following list. Projekt Angewandte Netzwerktechnologien (Bachelor, 6 ECTS) - Modul #40652 Project Advanced Network Technologies (Master, 6 ECTS) - Modul #40644 Research Project Advanced Network Technologies (Master, 9 ECTS) - Modul #40795 Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Exam Registration",
+                            "Discussion_Id": "585422",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056238",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-29T08:00:00+02:00",
+                                    "Content": "Dear all, please remember to register for the portfolio exam via Moses MTS. Please do so before 5th May (hard deadline). Without a registration, you will not be able to participate in the projects (no exceptions)! Please note that you have to select the correct module from the following list. Projekt Angewandte Netzwerktechnologien (Bachelor, 6 ECTS) - Modul #40652 Project Advanced Network Technologies (Master, 6 ECTS) - Modul #40644 Research Project Advanced Network Technologies (Master, 9 ECTS) - Modul #40795 Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic Assignments completed",
+                            "Discussion_Id": "588199",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060393",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-22T08:56:32+02:00",
+                                    "Content": "Dear all, the assignment process is completed! You have been added to a group specific to your topic. You can find other members of your group within the participants list. The corresponding supervisor for each topic will post details about the individual kick-off meeting to the Group Forum. Have fun working on these projects and see you all at the first milestone meeting! Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Open Slot Allocation - Confirmation required",
+                            "Discussion_Id": "588055",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060142",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-21T09:56:09+02:00",
+                                    "Content": "Dear all, the allocation of open slots is done and the results are published in ISIS. You can see your result in the Ranked Choice: Topic Assignment - Open Slots module or the by checking your groups. In order to lock in the allocation, you need to confirm it to me (see steps below). Action items: Check your topic allocation in ISIS and decide whether you want to take the assigned topic. Send a confirmation via mail (your TUB mail has to be used for sending or needs to be included in CC) to me (heinovski [at] ccs-labs [dot] org) by Sunday, 21.04.2024, 23:59:59 CEST (TODAY). If you like to take a different topic, you need to find a peer from a different topic to do a swap with. We will only allow 1:1 topic swaps and only if both involved students send a confirmation/request via E-Mail (see above) to me (same deadline). You can use the forum to search for swapping peers. If you do not want to take the topic, please write an E-Mail to me as well Regarding the TUB E-Mail: We need to make sure that it is actually you confirming the assignment. Thus, you need to use your TUB E-Mail for sending, or at least the E-Mail that is listed for you in ISIS. If this is not possible, we require you to put your TUB E-Mail address into the CC of the confirmation mail. This is mandatory!  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Allocation of Open Slots - Voting required TODAY",
+                            "Discussion_Id": "587922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059940",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-20T09:15:31+02:00",
+                                    "Content": "Dear all, the first round of project allocation is over and we still have some remaining project slots. If you are interested in them, please participate in the Ranked Choice: Topic Assignment - Open Slots by the end of TODAY (20.04.2024), giving a priority for every topic similar to the first round. The results will be published tomorrow morning, after which you have to confirm the allocation again. Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Initial Topic Assignment - Confirmation required",
+                            "Discussion_Id": "587539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059347",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-19T09:18:45+02:00",
+                                    "Content": "Dear all, the initial topic allocation is done and the results are published in ISIS. You can see your result in the Ranked Choice: Topic Assignment module or the by checking your groups. This, however, does not guarantee you the assigned slot in the projects. In order to lock in the allocation, you need to confirm it to me (see steps below)! Here are some statistics about the allocation: 20 out of 57 user(s) have placed their vote. 13 out of 20 user(s) got a choice they rated with \"1. Choice\". 7 out of 20 user(s) got a choice they rated with \"2. Choice\". 1 choice was invalid 9 slots were not assigned Action items: Check your topic allocation in ISIS and decide whether you really want to take the assigned topic. Send a confirmation via mail (your TUB mail has to be used for sending or needs to be included in CC) to me (heinovski [at] ccs-labs [dot] org) by TODAY, 19.04.2024, 23:59:59 CEST. If you like to take a different topic, you need to find a peer from a different topic to do a swap with. We will only allow 1:1 topic swaps and only if both involved students send a confirmation/request via E-Mail (see above) to me (same deadline). You can use the forum to search for swapping peers. If you do not want to take the assigned topic, please open up the slot for your peers by also writing an E-Mail to me. Regarding the TUB E-Mail: We need to make sure that it is actually you confirming the assignment. Thus, you need to use your TUB E-Mail for sending, or at least the E-Mail that is listed for you in ISIS. If this is not possible, we require you to put your TUB E-Mail address into the CC of the confirmation mail. This is mandatory!  The remaining slots as well as any unconfirmed slots will be available for voting in the second round starting tomorrow morning.  Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TODO: Topic Voting ends today!",
+                            "Discussion_Id": "585420",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056236",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-18T08:00:00+02:00",
+                                    "Content": "Hi all, please remember to participate in the Ranked Choice: Topic Assignment module until today 23:59 CEST. Participation is mandatory for getting a slot in this semesters projects. Please indicate your 1st, 2nd, and 3rd choice, but add a vote only if you are really interested in a certain topic (and general participation in the course). The results of the voting will be announced tomorrow. For more details, see the description of the assignment process within the organization slides. Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam Registration",
+                            "Discussion_Id": "585421",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056237",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-17T08:00:00+02:00",
+                                    "Content": "Dear all, you can now register for the portfolio exam via Moses MTS. Please do so before 5th May (hard deadline). Without a registration, you will not be able to participate in the projects (no exceptions)! Please note that you have to select the correct module from the following list. Projekt Angewandte Netzwerktechnologien (Bachelor, 6 ECTS) - Modul #40652 Project Advanced Network Technologies (Master, 6 ECTS) - Modul #40644 Research Project Advanced Network Technologies (Master, 9 ECTS) - Modul #40795 Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Initial Topic Allocation - Voting required",
+                            "Discussion_Id": "585435",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056251",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-16T16:00:00+02:00",
+                                    "Content": "Dear all, starting now, you can vote on project topics for the initial topic allocation via the Ranked Choice: Topic Assignment. Details on the topic allocation procedure have been explained during the initial meeting today. You will find the organizational slides as well as the slides for all topics in ISIS. Best, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to TKN Projects Summer 2024",
+                            "Discussion_Id": "584860",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055453",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-04-08T09:01:33+02:00",
+                                    "Content": "Dear all, welcome to the TKN projects (PJ) in Summer 2024! The teaching period is starting soon and so does this course. Our first meeting will take place on Tuesday, April 16 at 14:00 (c.t.) in HFT-TA 340. It will include an introduction to the semester schedule, organizational information, and the available project topics. Some of the information (including the project topics) can already be found on the ISIS page. Please have a look already and participate in the Organisational Survey to indicate which kind of module you want to take. The topic assignment will be done after the initial meeting, within the first week of the teaching period. You will get more details about the assignment process in the initial meeting. We will distribute all relevant information and material via ISIS. Thus, please monitor the announcements as well as the course page. We are looking forward to meet you in person and work on the projects together! Best regards, Julian Heinovski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1764117",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "presentation 1st milestone order",
+                            "Discussion_Id": "594089",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069569",
+                                    "Author": "Tabea Elisa Pietsch",
+                                    "DateTime": "2024-05-13T15:01:56+02:00",
+                                    "Content": "Hi guys, I can't seem to find the order for the presentations of the first milestone. It's supposed to be somewhere on this isis page. Did anybody find it and can maybe tell me where it is or answer with a link? That would be amazing. Have a nice day everybody and see you tomorrow. Tabea",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069611",
+                                    "Author": "Julian Heinovski",
+                                    "DateTime": "2024-05-13T16:04:05+02:00",
+                                    "Content": "Hi Tabea,  the presentation schedule will be published in ISIS tomorrow at noon.  Best, Julian",
+                                    "Response to": "p1069569"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking to swap topic",
+                            "Discussion_Id": "588161",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060326",
+                                    "Author": "Anton Moritz Quietzsch",
+                                    "DateTime": "2024-04-21T22:24:07+02:00",
+                                    "Content": "Hey all, I have been allocated topic 02 Kalman filter for FTM.  I am looking for someone in 03 Live Tracking in a Groupcycling Planner who would be interested in swapping groups. Thanks in advance, Anton",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "Course_Name": "TKN Programmierpraktikum Kommunikationstechnologien 2024s",
+        "Course_id": "37468",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1813861",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "2. Meilenstein am kommenden Dienstag",
+                            "Discussion_Id": "598622",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076565",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-06-03T16:42:48+02:00",
+                                    "Content": "Auch der zweite Meilenstein findet für beide Teilgruppen (Groupcycling & LoRa) gemeinsam statt. Da es schwierig ist, einen anderen gemeinsamen Slot zu finden, haben wir uns entschieden, dass der Vortrag am Dienstag, den 11. Juni um 12:15 Uhr in Raum HFT-TA 225 stattfinden soll. Erwartungen: 15 Minuten Vortrag mit anschließender Fragerunde. Ziel des Vortrags ist es, ein Statusupdate zu geben und einen Ausblick, wie ihr das Projekt in den letzten Wochen zum erfolgreichen Abschluss bringen werdet.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Meilenstein am kommenden Dienstag",
+                            "Discussion_Id": "590791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064427",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-04-29T14:02:36+02:00",
+                                    "Content": "Der erste Meilenstein findet für beide Teilgruppen (Groupcycling & LoRa) gemeinsam statt. Da es schwierig ist, einen anderen gemeinsamen Slot zu finden, haben wir uns entschieden, dass der Vortrag am Dienstag, den 7. Mai um 12:15 Uhr in Raum HFT-TA 225 stattfinden soll. Erwartungen: 15 Minuten Vortrag mit anschließender Fragerunde. Ziel des Vortrags ist es, einen Plan für das Semester zu präsentieren. Es soll klar werden, welche Ziele ihr mit eurer Gruppe verfolgt, und wie ihr eure Ressourcen (Zeit, Personen, Skills, ...?) so aufteilt, dass diese Ziele erreichbar sind.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[LoRa] Umfrage zur euren Interessen und Erwartungen",
+                            "Discussion_Id": "588333",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060638",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-04-22T11:52:41+02:00",
+                                    "Content": "Hallo zusammen, wenn ihr Lust habt, könnt ihr bis morgen schon die Umfrage ausfüllen. Falls ihr es nicht schafft, wird auch morgen dazu noch Gelegenheit sein. LG Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ProgPra-Prüfungsanmeldung in Moses",
+                            "Discussion_Id": "587238",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058878",
+                                    "Author": "Lukas Stratmann",
+                                    "DateTime": "2024-04-18T11:39:51+02:00",
+                                    "Content": "Liebe alle, ihr könnt euch jetzt für die Portfolioprüfung via Moses MTS registrieren. Bitte tut das vor der Frist am 5. Mai (hard deadline). Ohne die Registrierung werdet ihr nicht am Projekt teilnehmen können (keine Ausnahmen)!  Eine wichtige Anmerkung dazu zur Modulnummersuche im ProgPra vom innoCampus-Team:  Die Modulsuche im Wizard findet zu einer Modulnummer grundsätzlich alle unterschiedlichen Titel, die das Modul im Laufe der Zeit (durch mehrere Modulbeschreibungen) gehabt hat. Dadurch wird sichergestellt, dass Studierende auch bei der Eingabe alter Modultitel oder bei früherer Modulbelegung die aktuelle Prüfung finden. Da die Prüfungen über das Modul gefunden werden und nicht über die Version (auch wenn die Prüfungen an Versionen geknüpft sind), ist es irrelevant, welchen Eintrag sie auswählen, solange das richtige Modul ausgewählt wurde (das mit der Nummer 40148).  Best, Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[LoRa] Abstimmung zum Wochenupdate",
+                            "Discussion_Id": "586506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057838",
+                                    "Author": "Fabian Emanuel Norbert Missbrenner",
+                                    "DateTime": "2024-04-16T16:31:57+02:00",
+                                    "Content": "Hallo zusammen, in der kommenden Woche treffen wir uns noch einmal am Dienstag um 12:15 Uhr, dieses Mal in Raum 339. Bitte aktualisiert bis zum nächsten Treffen eure Angaben in der Umfrage (s. entsprechendes Issue), sodass wir dann entscheiden können, wann wir uns wöchentlich treffen wollen. Die Folien des heutigen Treffens findet ihr in ISIS. LG Fabian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erstes Treffen am 16. April 2024",
+                            "Discussion_Id": "585496",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056337",
+                                    "Author": "Lukas Stratmann",
+                                    "DateTime": "2024-04-11T16:14:51+02:00",
+                                    "Content": "Hallo zusammen, Willkommen im Programmierpraktikum Kommunikationstechnologien! Fabian, Sascha und ich freuen uns darauf, das Praktikum im kommenden Semester gemeinsam mit euch zu gestalten. Am Dienstag, dem 16. April, um 12:00 Uhr treffen wir uns im HFT-TA-Gebäude (Einsteinufer 25, Raum 225) gemeinsam zur Besprechung der Organisation des Praktikums. Unter anderem einigen wir uns am Dienstag auch auf einen Timeslot für ein regelmäßiges wöchentliches Treffen. Wir hoffen deshalb, dass es allen von euch möglich ist, am Dienstag dabei zu sein! Viele Grüße und bis nächste Woche! Fabian, Sascha und Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Hydrologie (Übungen) (Grundlagen der Ökologie II)",
+        "Course_id": "38818",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1806311",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kursfeedback",
+                            "Discussion_Id": "607164",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088855",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-07-11T12:36:28+02:00",
+                                    "Content": "Liebe Studierende, hiermit möchte ich euch daran erinnern, die Kursfeedback-Umfrage auszufüllen. Bisher haben nur sehr wenige von euch teilgenommen. Für die Evaluation wäre es hilfreich, ein umfassendes Meinungsbild zu haben. Die Umfrage ist anonym und dauert nur wenige Minuten. Vielen Dank! Herzliche Grüße Paulina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Übung",
+                            "Discussion_Id": "602311",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081880",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-06-20T10:32:52+02:00",
+                                    "Content": "Liebe Studierende, bitte schaut euch als Vorbereitung auf die nächste Übung die hochgeladenen Materialien und insbesondere den PEWI-Artikel an. Die kommende Übung ist meistens die Lieblingsübung der Studis und einige brauchen noch ein paar Abgaben. Also kommet zahlreich! Bis dann & viele Grüße Paulina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Einführung in R",
+                            "Discussion_Id": "597291",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074627",
+                                    "Author": "Thomas Nehls",
+                                    "DateTime": "2024-05-28T11:47:18+02:00",
+                                    "Content": "Liebe Studierende, bitte berücksichtigen Sie die HA Einführung in R. Es handelt sich um eine von unserer ehemaligen Tutorin Elena Peuker pefekt vorbereitete Einführung ins Thema.  Schauen Sie bitte das Video und machen Sie nebenbei an der R Konsole mit. Viele Grüße Thomas Nehls",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verlängerung der Abgabefrist",
+                            "Discussion_Id": "593324",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068352",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-05-08T15:51:57+02:00",
+                                    "Content": "Liebe Studierende, die Abgabefrist für Übung 4 und für die Statistik Aufgabe wurde bis Sonntag verlängert. Die Lösung besprechen wir dann am Montag. Einen schönen freien Tag morgen! Viele Grüße Paulina",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Potsdam Daten ET0",
+                            "Discussion_Id": "593056",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067929",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-05-07T17:08:02+02:00",
+                                    "Content": "Liebe Studierende,  ich wurde darauf hingewiesen, dass es Probleme gibt, die Potsdam Daten richtig zu öffnen, z.B. liegt 1.8 als 1. August vor.  Deshalb habe ich nochmal die .txt -Datei hochgeladen. Zum Öffnen: Im Text Import Wizard wählt ihr Delimited und als delimiter (Step 2) das Semikolon aus.  Viele Grüße  Paulina ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Montag Gruppeneinteilung ",
+                            "Discussion_Id": "585607",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056495",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-04-12T12:25:39+02:00",
+                                    "Content": "Liebe Studierende, bitte tragen Sie sich für die Gruppeneinteilung für die Übung am Montag in das jeweilige Etherpad ein.  Gruppe A beginnt um 10 Uhr und Gruppe B um 12 Uhr.  Bitte versuchen Sie sich einigermaßen gleichmäßig aufzuteilen. Sagen Sie auch bitte Ihren Kommiliton*innen Bescheid, da es etwas kurzfristig ist.  Wir freuen uns auf Sie!  Schönes Wochenende, Thomas Nehls & Paulina Harder",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1806313",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Wo/Wie findet man die relative Luftfeuchte?",
+                            "Discussion_Id": "599257",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077467",
+                                    "Author": "Martina Metzger",
+                                    "DateTime": "2024-06-05T21:35:33+02:00",
+                                    "Content": "Ich habe das Problem, dass ich die relative Luftfeuchte nicht finden kann und dadurch die Formel nicht anwenden kann. Hilfe?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077472",
+                                    "Author": "Thomas Nehls",
+                                    "DateTime": "2024-06-05T21:46:48+02:00",
+                                    "Content": "wo suchst Du denn? wo kannst Du sie nicht finden?",
+                                    "Response to": "p1077467"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zur Übung 7",
+                            "Discussion_Id": "598976",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077064",
+                                    "Author": "Julia Stefanie Maidl",
+                                    "DateTime": "2024-06-04T19:30:40+02:00",
+                                    "Content": "Ist in dem Beispielscript mit my_df my datafile gemeint? Wenn ich bei mir in R das eingebe, findet es nichts und ich weiß nicht, durch was ich das ersetzen soll.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077128",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-06-05T08:44:32+02:00",
+                                    "Content": "Hallo Julia, mit my_df ist eine Abkürzung für \"my dataframe\". Dataframes sind Datentypen in R. Du musst my_df durch den Befehl read.table() erst erstellen. Wenn du ihn erstellt hast, müsste my_df im Environment erscheinen.",
+                                    "Response to": "p1077064"
+                                },
+                                {
+                                    "Message_id": "p1077184",
+                                    "Author": "Thomas Nehls",
+                                    "DateTime": "2024-06-05T10:17:29+02:00",
+                                    "Content": "my_df ist genau genommen ein Variablenname kannst das Ding auch x nennen, ist halt nicht so aussagekräftig mit read.table weist Du Deiner Variable gleich eine Eigenschaft zu, Dataframe in dem Fall, es gibt noch andere... siehe Hilfe data types versuch mal x<- 5.3, dann siehts Du den Unterschied zu my_df im environment Glück auf beim data mining T",
+                                    "Response to": "p1077128"
+                                },
+                                {
+                                    "Message_id": "p1077463",
+                                    "Author": "Julia Stefanie Maidl",
+                                    "DateTime": "2024-06-05T21:10:21+02:00",
+                                    "Content": "Okay, dankeschön:)",
+                                    "Response to": "p1077184"
+                                },
+                                {
+                                    "Message_id": "p1077465",
+                                    "Author": "Thomas Nehls",
+                                    "DateTime": "2024-06-05T21:21:48+02:00",
+                                    "Content": "geschafft?",
+                                    "Response to": "p1077463"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "R Einführung",
+                            "Discussion_Id": "598103",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075784",
+                                    "Author": "Josephine Richter",
+                                    "DateTime": "2024-05-31T12:19:40+02:00",
+                                    "Content": "Hello. Wie bekomme ich Zugriff auf die R-Übungsdatei für die Einführung? Über die Ökohydro Cloud? Welche E-Mail-Adresse wird genau benötigt? die mit @campus.tu-berlin.de oder die @tu-berlin.de? Bei mir hat das eben nicht funktioniert (Fehlermeldung: Die Seite hat zu lange gedauert)  Wäre über eine schnelle Antwort dankbar, weil ich nur heute Zeit habe die EInführung zu machen..  thank u ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075803",
+                                    "Author": "Josephine Richter",
+                                    "DateTime": "2024-05-31T13:03:06+02:00",
+                                    "Content": "hat sich erledigt :D weiß jetzt nur nicht wie ich den Beitrag wieder lösche",
+                                    "Response to": "p1075784"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sachdaten FIS-Broker",
+                            "Discussion_Id": "594069",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069541",
+                                    "Author": "Yasemin Sahin",
+                                    "DateTime": "2024-05-13T14:20:52+02:00",
+                                    "Content": "Wenn ich im FIS-Broker unter \"Nutzbare Feldkapazität der Böden des effektiven Wurzelraumes 2015 (Umweltatlas)\" nach den Sachdaten der im Übungsblatt geforderten Gebiete suche, kommt jedesmal die Fehlermeldung \"Dieser Ausschnitt enthält keine oder archivierte Sachdaten. Korrigieren Sie ggf. die Ausdehnung im Sachdatenthema. Es wurden keine Sachdaten (mehr) gefunden./Zugriff auf Sachdatenpräsentation nicht erlaubt. \"",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069578",
+                                    "Author": "Paulina Lea Harder",
+                                    "DateTime": "2024-05-13T15:24:58+02:00",
+                                    "Content": "Hallo Yasemin,  das liegt daran, dass der FIS-Broker in der Zwischenzeit aktualisiert wurde. Der aktuelleste Datensatz ist von 2020, \"Nutzbare Feldkapazität der Böden des effektiven Wurzelraumes 2020 (Umweltatlas)\". Da solltest du fündig werden. Es hilft, bei der Suche nicht immer konkrete Jahreszahlen anzugeben, da Geo-Portale auch aktualisiert werden. Viele Grüße Paulina",
+                                    "Response to": "p1069541"
+                                },
+                                {
+                                    "Message_id": "p1069585",
+                                    "Author": "Thomas Nehls",
+                                    "DateTime": "2024-05-13T15:31:22+02:00",
+                                    "Content": "siehste, Paulina war schneller...  bei der Grundwasserneubildung funktioniert die 2017er Karte...",
+                                    "Response to": "p1069578"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Alle Werte",
+                            "Discussion_Id": "592324",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066823",
+                                    "Author": "Lavinia Marie-Louise Glatz",
+                                    "DateTime": "2024-05-05T14:20:50+02:00",
+                                    "Content": "Hey Leute, ich hab mir eine Exceltabelle mit allen Werten erstellt, damit es übersichtlicher ist. Vielleicht kann das der ein oder andere ja noch gebrauchen. :)  Liebe Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bodenfeuchte, Bodenhöhe (rechts), Gruppe B (12:15Uhr)",
+                            "Discussion_Id": "591520",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065550",
+                                    "Author": "Dominic Seidel",
+                                    "DateTime": "2024-05-01T23:01:06+02:00",
+                                    "Content": "1) ist am nähesten am Theolodit Fähnchen 1) 16,6 % Volumen ; Höhe: 155 cm Fähnchen 2) 21,1 % Volumen ; Höhe: 160 cm Fähnchen 3) 22,3 % Volumen ; Höhe: 165 cm Fähnchen 4) 16,9 % Volumen ; Höhe: 166 cm Fähnchen 5) 16,5 % Volumen ; Höhe: 170 cm Fähnchen 6) 23,6 % Volumen ; Höhe: 169 cm Fähnchen 7) 24,1 % Volumen ; Höhe: 167 cm Fähnchen 8) 20,7 % Volumen ; Höhe: 167 cm Fähnchen 9) 17,8 % Volumen ; Höhe: 172 cm Fähnchen 10) 10,3 % Volumen ; Höhe: 171 cm",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bodenfeuchte- und Reliefdaten zum linken Transekt",
+                            "Discussion_Id": "590892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064575",
+                                    "Author": "Ella Vida Saule Hanewald",
+                                    "DateTime": "2024-04-29T16:01:19+02:00",
+                                    "Content": "Nette Tabelle 25,3 vol% 153 cm 22,9 vol% 151 cm 18,3 vol% 152 cm 20,2 vol% 153 cm 18,7 vol% 157 cm 15,9 vol% 158,2 cm 13,3 vol% 157,5 cm 12,8 vol% 158,5 cm 13,0 vol% 160 cm 11,6 vol% 159 cm  Hallo, hier der relevante Datenmix: Bodenfeuchte Messung (in Vol%) von Gruppe A-Links, wobei 1. der Messpunkt am nächsten vom Theodolit ist und wir weggehend von ihm gemessen haben: 1. 25,3 2. 22,9 3. 18,3 4. 20,2 5. 18,7 6. 15,9 7. 13,3 8. 12,8 9. 13,0 10. 11,6 Hier die Theodolitdaten-Reliefdaten (in Zentimeter) von der Gruppe B-links (Nummerierung analog zur Reihenfolge der Feuchtigkeit aka steigende Entfernung vom Theodoliten): 153 cm 151 cm 152 cm 153 cm 157 cm 158,2 cm 157,5 cm 158,5 cm 160 cm 159 cm",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

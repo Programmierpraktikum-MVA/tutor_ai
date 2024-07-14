@@ -1,0 +1,16 @@
+[
+    "Supervisor/Contact:",
+    "Karsten Bsufka",
+    "There is a constant stream of new research published in the area of cybersecurity, with and without the use of artificial intelligence. In this survey, you should provide an overview of research papers published in the area of intrusion response, incident management, and/or threat hunting that uses artificial intelligence. General requirements for the survey:",
+    "Define a focus (research question) for your survey",
+    "Select 10 papers to include in the survey that are fitting for your focus and that have been published in 2023 (or 2022 if you do not find enough papers from 2023)",
+    "Provide your own interpretation of the included papers and your own comparison/contribution",
+    "The report should follow general good practices of scientific work and should take",
+    "B. Kitchenham",
+    "(2004) into account when conducting a literature survey.  Furthermore, this review",
+    "MUST NOT",
+    "be a simple summary of those papers. Especially it",
+    "MUST NOT",
+    "chain one summary paragraph/section after the other. The report must have a clearly defined research question that is used to select and analyze the papers for the report.",
+    "Hint: Since you are writing a survey paper, related work are similar survey papers and not the papers you look at."
+]

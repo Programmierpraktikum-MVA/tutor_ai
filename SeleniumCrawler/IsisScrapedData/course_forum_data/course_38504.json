@@ -1,0 +1,301 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Biometric Identification and Verification, QU, SEM",
+        "Course_id": "38504",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1793182",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Seminar Presentations and paper deadline",
+                            "Discussion_Id": "606818",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088378",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-07-10T10:34:25+02:00",
+                                    "Content": "Dear all, The presentations this Friday will take place in H 3003 A (in the main building). We will start at 9 am, so please be there on time. At least one person from each group needs to have their laptop with them for the presentation. We have a HDMI - USB-C adapter. If that also doesn't work out for some reason, you can email your slides to me one day in advance.  Also, note that the deadline for paper submission is now 19th July at 23:59. Please submit your papers here . Best wishes, Neha ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentations Schedule and detailed plan",
+                            "Discussion_Id": "601604",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080899",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-06-17T17:37:49+02:00",
+                                    "Content": "Dear all, There are some changes in the way the presentations will take place. For those who were not present in the tutorial today, please go through these documents carefully: Presentation details and presentation schedule before 12th July.  The presentations will take place in room: H 3003 A Let me know if you have any questions regarding the presentations or the paper.   Best wishes, Neha ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching Evaluation",
+                            "Discussion_Id": "601530",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080792",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-17T14:40:29+02:00",
+                                    "Content": "Dear participants of the Biometric Identification and Verification seminar, We kindly request your participation in a brief teaching evaluation questionnaire for our course. This exercise aims to identify areas of success and opportunities for improvement in our teaching methods and course content. Your valuable feedback will remain anonymous and contribute significantly to enhancing the quality of our education. The questionnaire will only require approximately 10 minutes of your time. Thank you for your assistance and dedication to the advancement of our academic community. Access the questionnaire here: https://isis.tu-berlin.de/mod/questionnaire/view.php?id=1793185 (You find the link in the section of the current week (17th of July) too.) Best regards, Stefan Hillmann ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorial 3",
+                            "Discussion_Id": "601454",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080679",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-06-17T11:53:05+02:00",
+                                    "Content": "Dear all, In today's tutorial at 16:00, I will explain a detailed plan for the presentation day and the 3rd assignment.  Please join the tutorial online: https://tu-berlin.zoom.us/j/67075520850?pwd=bnFGOFRKSzFaeEdac2h1clFzemVRUT09  Best wishes, Neha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 1 graded",
+                            "Discussion_Id": "600331",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079038",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-06-11T14:44:32+02:00",
+                                    "Content": "Hello everyone, Assignment 1 has been graded. You will also find a short feedback with your grade. Please let me know if you have any questions.   Best wishes, Neha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 2 Submissions",
+                            "Discussion_Id": "598802",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076813",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-06-04T11:20:07+02:00",
+                                    "Content": "Hello everyone,  Please note the new deadline for Assignment 2 is the 16th of June at 23:59. Please zip together all the code files (.m files), the audio files, and the word/pdf file to answer the last question.  Best wishes, Neha  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 1 submissions",
+                            "Discussion_Id": "597121",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074341",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-05-27T17:49:19+02:00",
+                                    "Content": "Hello everyone, For the submission of assignment 1, please put the Matlab code file (.m file) along with the PDF file for the answer to question 1d and the data file (DavisData) into a zip file and upload it here: https://isis.tu-berlin.de/mod/assign/view.php?id=1793219 Best wishes, Neha ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic Selection for Presentations",
+                            "Discussion_Id": "595699",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072156",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-05-21T14:45:38+02:00",
+                                    "Content": "Hello everyone,  There are still some students who have not chosen their topics/groups for the final presentation. You will have time until the end of this week to do so. Please go to: https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1793203 and select a topic for yourself. Please get in touch with other students in case you want to join a group.  Best wishes, Neha ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registering for the seminar",
+                            "Discussion_Id": "586889",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058355",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-04-17T14:04:00+02:00",
+                                    "Content": "Dear all, To register yourself for the seminar, you need to first write an email to Ms. Yasmin Hillebrenner (yasmin.hillebrenner@tu-berlin.de) before 24 April (before 23:59 CEST). Please mention the following details in your email to Ms.Hillebrenner: - name of the module - name of the student - matriculation number - study program - current semester - registration as either a compulsory elective, free choice, or additional module?  Best wishes, Neha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important message to all students of the course \"Biometric Identification and Verification\"",
+                            "Discussion_Id": "585713",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056673",
+                                    "Author": "Sebastian Möller",
+                                    "DateTime": "2024-04-13T19:23:55+02:00",
+                                    "Content": "Due to a water dammage, the TEL building might be closed on Monday April 15. As a replacement, the first seminar session will be held 16h00-18h00 in MAR 0.016. Further announcements on rooms for the upcoming seminar sessions will be given in ISIS, and announced in the sessions. We are sorry for the inconveniences.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1793186",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Deadlines Seminar Paper and Presentation Submissions",
+                            "Discussion_Id": "604248",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084689",
+                                    "Author": "Felix Tobias Schröter",
+                                    "DateTime": "2024-06-28T12:54:45+02:00",
+                                    "Content": "Hi everyone,  my team mate and I were just discussing the timelines for finishing our paper and presentation, and some questions came up: Do we remember correctly that it was announced in the lecture that the deadline for the paper was moved to one week after the presentation? Is there a specific deadline for handing in the presentations before the presentation day, or do we just show up with our presentation on a USB stick?  Thank you!  Best, Felix",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084714",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-06-28T13:27:00+02:00",
+                                    "Content": "Hello Felix,  Yes, you are right, you will have one more week after the presentation to complete your paper. This will give you some extra time to improve the paper based on the feedback you will get on your presentations. I will announce the final deadline for the paper in a few days.  You don't need to submit the presentation, you can use your laptop to present. A USB stick is also an option, in case something goes wrong. Or after you are done, you can email the presentation to me(n.deshpande@tu-berlin.de), or Wafaa (wafaa.wardah@tu-berlin.de).  Best wishes, Neha",
+                                    "Response to": "p1084689"
+                                },
+                                {
+                                    "Message_id": "p1084749",
+                                    "Author": "Felix Tobias Schröter",
+                                    "DateTime": "2024-06-28T14:35:08+02:00",
+                                    "Content": "Hi Neha, thanks for your quick reply - that answers all our questions. :) Best, Felix",
+                                    "Response to": "p1084714"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No tab for the submission of Assignment 3",
+                            "Discussion_Id": "603814",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084065",
+                                    "Author": "Xemena Klara Wysokinska",
+                                    "DateTime": "2024-06-26T15:34:59+02:00",
+                                    "Content": "Hello! I cannot find the tab on the isis course page to submit the assignment 3 and I wanted to ask whether this is a mistake? I will be absent on the weekend, therefore I wanted to do my submission before, but I am currently not able to. Could you help me with this matter? Thank you! Regards, Xenia",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084076",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-06-26T15:48:50+02:00",
+                                    "Content": "Hello Xenia,  It's available now: https://isis.tu-berlin.de/mod/assign/view.php?id=1793232  Best, Neha",
+                                    "Response to": "p1084065"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 3: Log Likelihood values don't match visual inspection",
+                            "Discussion_Id": "602128",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081632",
+                                    "Author": "Felix Tobias Schröter",
+                                    "DateTime": "2024-06-19T15:03:38+02:00",
+                                    "Content": "Hi there,  when running my code for assignment 3, I get a lower (large negative number) log likelihood for DG and higher (not so large negative number) log likelihood for KS. However, when inspecting the pictures, it becomes clear that the test image should be an image of DG. I'm pretty sure that my code does exactly what it says in the instructions, and it is only a couple of lines in total.  Are there any guesses from the instructors what the reason for this could be? Or is this to be expected? Or is anyone facing the same issue?  Thanks Felix",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 2, function file",
+                            "Discussion_Id": "600132",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078747",
+                                    "Author": "Dimitrij Schulz",
+                                    "DateTime": "2024-06-10T19:18:11+02:00",
+                                    "Content": "Hello,  for the second assignment, we need to upload Ass2.m and extractCepstra.m files with the code for our feature extraction function. I wanted to ask if we can also use separate files for other functions like computeEnergyVoicing.m, or should the entire (function and calculation) code be included in the extractCepstra.m file? Regard Dimitrij",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assigment 1 ",
+                            "Discussion_Id": "596752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073724",
+                                    "Author": "Pascal Daniel Leschik",
+                                    "DateTime": "2024-05-26T14:01:25+02:00",
+                                    "Content": "Hey there,   where do we have to upload the Assigment ?  Best, Pascal Leschik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073735",
+                                    "Author": "Willi Sebastian Symang",
+                                    "DateTime": "2024-05-26T15:04:12+02:00",
+                                    "Content": "In the next week under \"Assignment 1 submissions\"",
+                                    "Response to": "p1073724"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a spot",
+                            "Discussion_Id": "589763",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062880",
+                                    "Author": "Beyda Rojin Boran",
+                                    "DateTime": "2024-04-25T12:02:02+02:00",
+                                    "Content": "Hi, I am in my 4th semester of my masters, and I really need to take the seminar this semester before my thesis. If anyone who got accepted to the course decides to not to take it, I'd be interested to take their place. Best,",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063068",
+                                    "Author": "Yasmin Hillebrenner",
+                                    "DateTime": "2024-04-25T15:45:04+02:00",
+                                    "Content": "Dear all,  although I understand that the students who couldn't get a place in the seminar are disappointed, it's not possible to give places from one student to the other. If you want or need to cancel your place, please send me an e-mail (yasmin.hillebrenner@tu-berlin.de). Free places will be given on a fair base and according to the rules stated in the AllgStuPO §48 to the next student on the waiting list. Unapproved registrations in Moses/MTS of students who didn't get a place through the official application processes cannot be accepted.  Best regards Yasmin Hillebrenner",
+                                    "Response to": "p1062880"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Discussion forum for tutorials",
+                    "Forum_id": "1793196",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Todays Lecture ",
+                            "Discussion_Id": "592539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067174",
+                                    "Author": "Ankit Haresh Mavani",
+                                    "DateTime": "2024-05-06T12:59:26+02:00",
+                                    "Content": "Hello, I just wanted to confirm that today’s lecture take place only online ?   Thank you very much in advance.  Best regards, Ankit Mavani ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067188",
+                                    "Author": "Neha Pravin Deshpande",
+                                    "DateTime": "2024-05-06T13:14:36+02:00",
+                                    "Content": "Hi Ankit,  Today there will be a tutorial on Matlab which will take place online. Use this Zoom link: https://tu-berlin.zoom.us/j/67075520850?pwd=bnFGOFRKSzFaeEdac2h1clFzemVRUT09 to join the tutorial today.   Best wishes, Neha",
+                                    "Response to": "p1067174"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null
+        ]
+    }
+]
