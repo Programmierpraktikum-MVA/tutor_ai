@@ -255,3 +255,87 @@ def load_graph(file_path, device):
     graph_data = torch.load(file_path, map_location=device)
     print(f"Graph loaded from {file_path}")
     return graph_data
+
+
+def create_node_base_forums(dir_path):
+   
+    # Listen zur Speicherung der Daten initialisieren
+    count = 0
+    all_edges = []
+    all_edge_attrs = []
+    node_texts = []
+    node_types = []
+    module_numbers = []
+
+    # Alle JSON-Dateien im Verzeichnis durchlaufen und laden
+    for filename in os.listdir(dir_path):
+        if filename.endswith('.json'):
+            file_path = os.path.join(dir_path, filename)
+            try:
+                with open(file_path, 'r') as file:
+                    course_data = json.load(file)
+            except json.JSONDecodeError as e:
+                print(f"Fehler beim Laden der Datei {filename}: {e}")
+                continue
+            
+            # Knoten und Kanten basierend auf JSON-Daten hinzufügen
+            for course in course_data:
+                count += 1
+                course_node_id = count
+                node_types.append("Course")
+                node_texts.append(course["Course_Name"])
+                module_numbers.append(course["Course_id"])
+
+                if course['Forums']:
+                    for forums in course['Forums']:  # Erste Ebene durchlaufen
+                        # Sicherstellen, dass forums nicht None ist
+                        if forums:
+                            for forum in forums:  # Zweite Ebene durchlaufen
+                                # Sicherstellen, dass forum nicht None ist
+                                if forum:
+                                    count += 1
+                                    forum_node_id = count
+                                    node_types.append("Forum")
+                                    node_texts.append(forum['Forum_name'])
+                                    module_numbers.append(forum['Forum_id'])
+
+                                    # Add edge from course to forum
+                                    all_edges.append((course_node_id, forum_node_id))
+                                    all_edge_attrs.append("contains")
+
+                                    discussions = forum.get("Discussions", [])
+                                    for discussion in discussions:
+                                        count += 1
+                                        discussion_node_id = count
+                                        node_types.append("Discussion")
+                                        node_texts.append(discussion["Discussion_Name"])
+                                        module_numbers.append(discussion["Discussion_Id"])
+
+                                        # Add edge from forum to discussion
+                                        all_edges.append((forum_node_id, discussion_node_id))
+                                        all_edge_attrs.append("contains")
+
+                                        messages = discussion.get("Messages", [])
+                                        for message in messages:
+                                            count += 1
+                                            message_node_id = count
+                                            node_types.append("Message")
+                                            node_texts.append(message["Content"])
+                                            module_numbers.append(message["Message_id"])
+
+                                            # Add edge from discussion to message
+                                            all_edges.append((discussion_node_id, message_node_id))
+                                            all_edge_attrs.append("contains")
+
+                                            response_to = message.get("Response to")
+                                            if response_to and response_to != "Response to nothing" and response_to != "This is the original post":
+                                            # Find the node id of the message being responded to
+                                                for i, module_number in enumerate(module_numbers):
+                                                    if module_number == response_to:
+                                                        response_to_node_id = i + 1
+                                                        # Add edge for response
+                                                        all_edges.append((message_node_id, response_to_node_id))
+                                                        all_edge_attrs.append("responds to")
+                                                        break
+
+    return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count
