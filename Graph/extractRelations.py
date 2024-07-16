@@ -76,6 +76,7 @@ def remove_high_similarity_entries(filename='cosine_scores.npy', threshold=0.95)
     np.save(filename, new_cosine_scores)
     end_time = time.time()
     print(f"remove_high_similarity_entries duration: {end_time - start_time} seconds")
+    return high_similarity_indices
 
 
 
@@ -91,6 +92,6 @@ def get_similarity_value(cosine_scores, i, j):
 #sentences = process_transcripts('transcripts')
 #print("Jetzt cosine stuff")
 #compute_similarity([s for s, _ in sentences], 'cosine_stuff_temp')
-remove_high_similarity_entries('D:/saved_edges/cosine_stuff.npy')
-print("jetzt load and process")
-print(load_and_process_cosine_scores('D:/saved_edges/cosine_stuff.npy'))
+#remove_high_similarity_entries('D:/saved_edges/cosine_stuff.npy')
+#print("jetzt load and process")
+#print(load_and_process_cosine_scores('D:/saved_edges/cosine_stuff.npy'))

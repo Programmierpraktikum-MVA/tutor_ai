@@ -212,8 +212,8 @@ def main_two():
 
     print("start create node base sentences cosine avail")
 
-    all_edges_sent, all_edge_attrs_sent, node_texts_sent, node_types_sent, module_numbers_sent, count_sent = create_node_base_sentences_cosine_avail(
-        sentences, 'cosine_scores.dat')
+    all_edges_sent, all_edge_attrs_sent, node_texts_sent, node_types_sent, module_numbers_sent, count_sent = create_node_base_sentences(
+        sentences)
     print("start mail stuff")
     all_edges_mail, all_edge_attrs_mail, node_texts_mail, node_types_mail, module_numbers_mail, count_mail = create_node_base_mails(
         mails)
@@ -294,4 +294,4 @@ def main_two():
 
 
 if __name__ == "__main__":
-    main_moses()
+    main_two()

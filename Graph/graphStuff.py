@@ -1,7 +1,7 @@
 import torch
 from torch_geometric.data import Data
 from torch_geometric.utils import add_remaining_self_loops
-from extractRelations import compute_similarity, load_similarity, get_similarity_value, load_and_process_cosine_scores
+from extractRelations import compute_similarity, load_similarity, get_similarity_value, load_and_process_cosine_scores, remove_high_similarity_entries
 from transformers import BertModel, BertTokenizer
 import os
 import json
@@ -120,13 +120,16 @@ def create_node_base_sentences(sentences, threshold=0.75):
     module_numbers = []
     count = 0
 
+    # Einlesen der Cosine-Similarity-Matrix und Anwenden des Schwellenwerts
+    compute_similarity([s for s, _ in sentences], 'D:/saved_edges/cosine_scores')
+    high_similarity_indices = remove_high_similarity_entries('D:/saved_edges/cosine_scores.npy')
+    sentences = [tup for i, tup in enumerate(sentences) if i not in high_similarity_indices]
+    cosine_scores = load_and_process_cosine_scores('D:/saved_edges/cosine_scores.npy', threshold)
+
     for sentence, module_number in sentences:
         node_texts.append(sentence)
         node_types.append("Satz")
         module_numbers.append(module_number)
-
-    # Einlesen der Cosine-Similarity-Matrix und Anwenden des Schwellenwerts
-    cosine_scores = load_and_process_cosine_scores(threshold)
 
     # Erstellen der Kanten basierend auf der Cosine-Similarity-Matrix
     indices = np.argwhere(cosine_scores > 0)
