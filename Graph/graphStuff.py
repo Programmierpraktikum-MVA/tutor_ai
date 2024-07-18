@@ -124,7 +124,9 @@ def create_node_base_sentences(sentences, threshold=0.75):
     compute_similarity([s for s, _ in sentences], 'D:/saved_edges/cosine_scores')
     high_similarity_indices = remove_high_similarity_entries('D:/saved_edges/cosine_scores.npy')
     sentences = [tup for i, tup in enumerate(sentences) if i not in high_similarity_indices]
-    cosine_scores = load_and_process_cosine_scores('D:/saved_edges/cosine_scores.npy', threshold)
+    load_and_process_cosine_scores('D:/saved_edges/cosine_scores.npy', threshold)
+    cosine_scores = np.load('D:/saved_edges/cosine_scores.npy')
+    #print(cosine_scores)
 
     for sentence, module_number in sentences:
         node_texts.append(sentence)

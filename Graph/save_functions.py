@@ -1,9 +1,14 @@
 import json
+import numpy as np
 
-def save_edges(all_edges, filename='D:/saved_edges/edges.json'):
-    with open(filename, 'w') as f:
-        json.dump(all_edges, f)
-    print(f"Edges saved to {filename}")
+
+def save_edges(all_edges, file_path='D:/saved_edges/edges.json'):
+    # Convert numpy.int64 elements to int
+    converted_edges = [(int(edge[0]), int(edge[1])) for edge in all_edges]
+
+    # Save the converted edges to a file
+    with open(file_path, 'w') as f:
+        json.dump(converted_edges, f)
 
 def save_edge_attrs(all_edge_attrs, filename='D:/saved_edges/edge_attrs.json'):
     with open(filename, 'w') as f:
