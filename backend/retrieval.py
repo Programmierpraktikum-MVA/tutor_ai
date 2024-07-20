@@ -5,11 +5,13 @@ from torch_geometric.data import Data
 from torch_geometric.utils import add_remaining_self_loops
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load the tokenizer and BERT model
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-bert_model = BertModel.from_pretrained('bert-base-uncased')
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-bert_model.to(device)
+
+def intiialize_models():
+    tokenizer = BertTokenizer.from_pretrained('bert-base-german-cased')
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    bert_model = BertModel.from_pretrained('bert-base-german-cased').to(device)
+
+
 
 
 def get_relevant_embeddings(question_embedding, graph_embeddings, top_k=5):
