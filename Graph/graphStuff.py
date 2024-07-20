@@ -109,9 +109,6 @@ def create_node_base_mails(mail_array):
     return all_edges, all_edge_attrs, node_texts, node_types, module_numbers, node_id
 
 
-import json
-
-
 def create_node_base_sentences(sentences, threshold=0.75):
     all_edges = []
     all_edge_attrs = []

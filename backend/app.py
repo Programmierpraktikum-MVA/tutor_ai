@@ -18,6 +18,8 @@ from llama_index.core.memory import ChatMemoryBuffer
 import requests  
 from llama_index.core.storage.chat_store import SimpleChatStore
 
+
+
 llm = Ollama(model="llama3", request_timeout=360.0)
 embedding_llm = OllamaEmbedding(model_name="nomic-embed-text")
 Settings.llm = llm
@@ -60,6 +62,7 @@ chat_engine = index.as_chat_engine(
     verbose=False,
     fallback_handler=web_search,
 )
+
 
 
 
