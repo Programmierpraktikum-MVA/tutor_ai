@@ -46,34 +46,26 @@ def main_two():
     print("start mail stuff")
     all_edges_mail, all_edge_attrs_mail, node_texts_mail, node_types_mail, module_numbers_mail, count_mail = create_node_base_mails(
         mails)
-    #all_edges_forum, all_edge_attrs_forum, node_texts_forum, node_types_forum, module_numbers_forum, count_forum = create_node_base_forums('course_forum_data')
+    all_edges_forum, all_edge_attrs_forum, node_texts_forum, node_types_forum, module_numbers_forum, count_forum = create_node_base_forums('course_forum_data')
     dir_path = "C:/Users/hansm/Desktop/tutor_ai/Graph/CourseInfosMoses"
-    #all_edges_moses, all_edge_attrs_moses, node_texts_moses, node_types_moses, module_numbers_moses, count_moses = create_node_base_moses(dir_path)
+    all_edges_moses, all_edge_attrs_moses, node_texts_moses, node_types_moses, module_numbers_moses, count_moses = create_node_base_moses(dir_path)
 
-    # print("merge hier sent and mail")
-    # all_edges_temp1, all_edge_attrs_temp1, node_texts_temp1, node_types_temp1, module_numbers_temp1, count_temp1 = merge_node_base(
-    #     all_edges_sent, all_edge_attrs_sent, node_texts_sent, node_types_sent, module_numbers_sent, count_sent,
-    #     all_edges_mail, all_edge_attrs_mail, node_texts_mail, node_types_mail, module_numbers_mail, count_mail
-    # )
-    # print("merge hier forum and moses")
-    # all_edges_temp2, all_edge_attrs_temp2, node_texts_temp2, node_types_temp2, module_numbers_temp2, count_temp2 = merge_node_base(
-    #     all_edges_forum, all_edge_attrs_forum, node_texts_forum, node_types_forum, module_numbers_forum, count_forum,
-    #     all_edges_moses, all_edge_attrs_moses, node_texts_moses, node_types_moses, module_numbers_moses, count_moses
-    # )
-    #
-    # print("merge hier temp1 and temp2")
-    # all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count = merge_node_base(
-    #     all_edges_temp1, all_edge_attrs_temp1, node_texts_temp1, node_types_temp1, module_numbers_temp1, count_temp1,
-    #     all_edges_temp2, all_edge_attrs_temp2, node_texts_temp2, node_types_temp2, module_numbers_temp2, count_temp2
-    # )
-
-    all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count = merge_node_base(
+    print("merge hier sent and mail")
+    all_edges_temp1, all_edge_attrs_temp1, node_texts_temp1, node_types_temp1, module_numbers_temp1, count_temp1 = merge_node_base(
         all_edges_sent, all_edge_attrs_sent, node_texts_sent, node_types_sent, module_numbers_sent, count_sent,
         all_edges_mail, all_edge_attrs_mail, node_texts_mail, node_types_mail, module_numbers_mail, count_mail
     )
+    print("merge hier forum and moses")
+    all_edges_temp2, all_edge_attrs_temp2, node_texts_temp2, node_types_temp2, module_numbers_temp2, count_temp2 = merge_node_base(
+        all_edges_forum, all_edge_attrs_forum, node_texts_forum, node_types_forum, module_numbers_forum, count_forum,
+        all_edges_moses, all_edge_attrs_moses, node_texts_moses, node_types_moses, module_numbers_moses, count_moses
+    )
 
-
-
+    print("merge hier temp1 and temp2")
+    all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count = merge_node_base(
+        all_edges_temp1, all_edge_attrs_temp1, node_texts_temp1, node_types_temp1, module_numbers_temp1, count_temp1,
+        all_edges_temp2, all_edge_attrs_temp2, node_texts_temp2, node_types_temp2, module_numbers_temp2, count_temp2
+    )
 
 
 
