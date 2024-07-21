@@ -6,6 +6,10 @@ from transformers import BertModel, BertTokenizer
 import os
 import json
 import numpy as np
+import torch
+from torch_geometric.data import Data
+from torch_geometric.utils import add_remaining_self_loops
+from transformers import BertModel, BertTokenizer
 
 from torch_geometric.nn import SAGEConv  # added by tom
 
@@ -21,23 +25,26 @@ def create_graph(edge_index, edge_attr, node_texts, node_types, module_numbers, 
         text_embeddings.append(outputs.last_hidden_state.mean(dim=1).squeeze().detach())
 
     text_embeddings = torch.stack(text_embeddings).to(device)
+    print(f'Text Embeddings Shape: {text_embeddings.shape}')  # Debugging line
 
     # One-Hot-Encoding für node_types
     unique_types = list(set(node_types))
     type_to_index = {type_: idx for idx, type_ in enumerate(unique_types)}
     type_embeddings = torch.tensor([type_to_index[type_] for type_ in node_types], dtype=torch.long).to(device)
     type_embeddings = torch.nn.functional.one_hot(type_embeddings, num_classes=len(unique_types)).float().to(device)
+    print(f'Type Embeddings Shape: {type_embeddings.shape}')  # Debugging line
 
     # One-Hot-Encoding für module_numbers
     unique_modules = list(set(module_numbers))
     module_to_index = {module: idx for idx, module in enumerate(unique_modules)}
-    module_embeddings = torch.tensor([module_to_index[module] for module in module_numbers], dtype=torch.long).to(
-        device)
-    module_embeddings = torch.nn.functional.one_hot(module_embeddings, num_classes=len(unique_modules)).float().to(
-        device)
+    module_embeddings = torch.tensor([module_to_index[module] for module in module_numbers], dtype=torch.long).to(device)
+    module_embeddings = torch.nn.functional.one_hot(module_embeddings, num_classes=len(unique_modules)).float().to(device)
+    print(f'Module Embeddings Shape: {module_embeddings.shape}')  # Debugging line
 
     # Zusammenführen der Embeddings
+    print(f'Before concatenation: Text Embeddings Shape: {text_embeddings.shape}, Type Embeddings Shape: {type_embeddings.shape}, Module Embeddings Shape: {module_embeddings.shape}')  # Debugging line
     node_features = torch.cat([text_embeddings, type_embeddings, module_embeddings], dim=1).to(device)
+    print(f'Node Features Shape after concatenation: {node_features.shape}')  # Debugging line
 
     data = Data(x=node_features, edge_index=edge_index)
     data.edge_attr = edge_attr
@@ -205,6 +212,8 @@ def create_node_base_moses(dir_path):
         module_numbers.append(0)  # We don't have the course ID
 
         course_path = os.path.join(dir_path, course)
+        if not os.path.isdir(course_path):
+            continue
         course_categories = os.listdir(course_path)
 
         categ_node_id = course_node_id
@@ -221,7 +230,7 @@ def create_node_base_moses(dir_path):
 
             # Get file content and add it as a node
             if os.path.exists(file_path):
-                with open(file_path, "r") as f:
+                with open(file_path, "r", encoding='utf-8') as f:
                     data = json.load(f)
             content_string = json.dumps(data)
             node_texts.append(content_string)
