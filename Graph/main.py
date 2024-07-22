@@ -28,16 +28,16 @@ def main_moses():
     nlp, ner_model, sentence_model, tokenizer, bert_model = initialize_models(device)
     all_edges, all_edge_attrs, node_texts, node_types, module_numbers, count = create_node_base_moses(dir_path)
 
-    save_edges(all_edges)
-    print("ecken gespeichert")
-    save_edge_attrs(all_edge_attrs)
-    print("ecken attr gespeichert")
-    save_node_texts(node_texts)
-    print("node text gespeichert")
-    save_node_types(node_types)
-    print("node types gespeichert")
-    save_module_numbers(module_numbers)
-    print("module numbers gespeichert")
+    # save_edges(all_edges)
+    # print("ecken gespeichert")
+    # save_edge_attrs(all_edge_attrs)
+    # print("ecken attr gespeichert")
+    # save_node_texts(node_texts)
+    # print("node text gespeichert")
+    # save_node_types(node_types)
+    # print("node types gespeichert")
+    # save_module_numbers(module_numbers)
+    # print("module numbers gespeichert")
 
     graph_data = create_graph(all_edges, all_edge_attrs, node_texts, node_types, module_numbers, tokenizer, bert_model,
                               device).to(device)
@@ -310,4 +310,4 @@ def main_two():
 
 
 if __name__ == "__main__":
-    main_two()
+    main_moses()
