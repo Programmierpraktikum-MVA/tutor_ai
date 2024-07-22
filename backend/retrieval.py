@@ -13,8 +13,6 @@ def intiialize_models():
     return tokenizer, device, bert_model
 
 
-
-
 def get_relevant_embeddings(question_embedding, graph_embeddings, top_k=5):
     """ Gets the top k relevant embeddings from the knowledge graph"""
     # TODO: Test if this works on our graph
@@ -34,8 +32,7 @@ def question_to_embedding(question, tokenizer, bert_model, device):
 
 
 def embed_to_text(embedding):
-    """ Transforms an embedding into text"""
-    # Convert the numerical embedding to a string representation
+    """ Converts an embedding into a text string"""
     return ' '.join(map(str, embedding))
 
 
@@ -45,3 +42,7 @@ def create_combined_input(question, relevant_embeddings):
     embedding_texts = [embed_to_text(emb) for emb in relevant_embeddings]
     combined_text = question + " " + " ".join(embedding_texts)
     return combined_text
+
+
+if __name__ == '__main__':
+    pass
