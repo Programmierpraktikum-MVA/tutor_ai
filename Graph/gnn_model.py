@@ -1,16 +1,14 @@
 import torch
 import torch.nn.functional as F
 from torch_geometric.nn import GCNConv
-from torch_geometric.utils import add_remaining_self_loops  # Import hinzufügen
-
-
+from torch_geometric.utils import add_remaining_self_loops
 
 class GNNModel(torch.nn.Module):
-    def __init__(self, input_dim, hidden_dim, output_dim, num_classes):
+    def __init__(self, input_dim, hidden_dim, bert_dim, num_classes):
         super(GNNModel, self).__init__()
         self.conv1 = GCNConv(input_dim, hidden_dim)
-        self.conv2 = GCNConv(hidden_dim, output_dim)
-        self.classifier = torch.nn.Linear(output_dim, num_classes)
+        self.conv2 = GCNConv(hidden_dim, bert_dim)  # Ensure this matches BERT's output dimension
+        self.classifier = torch.nn.Linear(bert_dim, num_classes)  # Separate classifier layer
 
     def forward(self, data):
         x, edge_index = data.x, data.edge_index
@@ -24,5 +22,7 @@ class GNNModel(torch.nn.Module):
         x = self.conv1(x, edge_index)
         x = F.relu(x)
         x = self.conv2(x, edge_index)
+        x = F.relu(x)
+        embeddings = x  # Store the embeddings before classification
         x = self.classifier(x)
-        return x, F.log_softmax(x, dim=1)
+        return embeddings, F.log_softmax(x, dim=1)  # Return both embeddings and log probabilities
