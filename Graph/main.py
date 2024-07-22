@@ -8,7 +8,7 @@ from gnn_model import GNNModel
 from preprocessing import preprocess_email_data, process_transcripts
 from graphStuff import create_graph, save_graph, load_graph, create_node_base_sentences, create_node_base_mails, \
     merge_node_base, create_node_base_sentences_cosine_avail, create_node_base_moses, create_node_base_forums
-from save_functions import save_edges, save_edge_attrs, save_node_texts, save_node_types, save_module_numbers
+from save_functions import *
 
 
 def initialize_models(device):
@@ -21,7 +21,6 @@ def initialize_models(device):
     bert_model = BertModel.from_pretrained('bert-base-german-cased').to(device)
     return nlp, ner_model, sentence_model, tokenizer, bert_model
 
-<<<<<<< HEAD
 def main_moses():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f"Using device: {device}")
@@ -114,8 +113,7 @@ def main():
         mails)
 
     print("merge jetzt alle nodes")
-=======
->>>>>>> c5876d70e5e6ac98ce741c351dc2d6863a1907c4
+
 
 
 
@@ -231,6 +229,74 @@ def main_two():
 
     print("Node Embeddings and attributes saved to node_data.json")
 
+
+def main_im():
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f"Using device: {device}")
+
+    nlp, ner_model, sentence_model, tokenizer, bert_model = initialize_models(device)
+
+    all_edges = load_edges()
+    all_edge_attrs = load_edge_attrs()
+    node_texts = load_node_texts()
+    node_types = load_node_types()
+    module_numbers = load_module_numbers()
+
+    print("create_graph")
+    graph_data = create_graph(all_edges, all_edge_attrs, node_texts, node_types, module_numbers, tokenizer, bert_model,
+                              device).to(device)
+    print("save graph data")
+    save_graph(graph_data, 'saved_graph.pth')
+    print("load graph data")
+    loaded_graph_data = load_graph('saved_graph.pth', device)
+
+    print(f"Finaler Graph: {loaded_graph_data}")  # Debugging-Information
+    print(f"edge_index shape after loading: {loaded_graph_data.edge_index.shape}")  # Debugging-Information
+    print(f"edge_index values after loading: {loaded_graph_data.edge_index}")  # Debugging-Information
+
+    # GNN Training
+    model = GNNModel(input_dim=loaded_graph_data.x.size(1), hidden_dim=128, bert_dim=768,
+                     num_classes=len(loaded_graph_data.type_to_index)).to(device)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
+    model.train()
+
+    type_indices = torch.tensor([loaded_graph_data.type_to_index[type_] for type_ in loaded_graph_data.node_types],
+                                dtype=torch.long).to(device)
+
+    for epoch in range(200):
+        optimizer.zero_grad()
+        embeddings, log_probs = model(loaded_graph_data)  # Retrieve both embeddings and log probabilities
+        print(f"Shape of edge_index: {loaded_graph_data.edge_index.shape}")  # Debugging-Information
+        print(f"edge_index values during training: {loaded_graph_data.edge_index}")  # Debugging-Information
+        loss = torch.nn.functional.nll_loss(log_probs, type_indices)
+        loss.backward()
+        optimizer.step()
+        if epoch % 10 == 0:
+            print(f'Epoch {epoch}, Loss: {loss.item()}')
+
+    model.eval()
+    with torch.no_grad():
+        embeddings, _ = model(loaded_graph_data)  # Only retrieve embeddings
+
+    # Konvertieren der Embeddings und der zugehörigen Informationen in ein für LlamaIndex geeignetes Format
+    embeddings = embeddings.cpu().numpy()
+    node_data = []
+    for i, (embedding, node_text, node_type, module_number) in enumerate(
+            zip(embeddings, loaded_graph_data.node_texts, loaded_graph_data.node_types,
+                loaded_graph_data.module_numbers)):
+        node_data.append({
+            'node_index': i,
+            'embedding': embedding.tolist(),
+            'text': node_text,
+            'type': node_type,
+            'module_number': module_number
+        })
+
+    # Speichern der Node-Daten in einer JSON-Datei
+    with open('node_data.json', 'w') as f:
+        json.dump(node_data, f, indent=4)
+
+    print("Node Embeddings and attributes saved to node_data.json")
 
 
 if __name__ == "__main__":
