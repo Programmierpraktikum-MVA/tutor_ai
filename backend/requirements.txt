@@ -8,3 +8,14 @@ passlib
 llama_index.graph_stores.neo4j
 #ollama pull nomic-embed-text
 #ollama run llama3
+
+
+spaces
+torch==2.2.0
+transformers
+sentence-transformers
+faiss-gpu
+datasets
+accelerate
+bitsandbytes
+numpy
