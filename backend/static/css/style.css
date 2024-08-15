@@ -1,4 +1,3 @@
-
 form .input-group .form-control {
     white-space: pre-wrap;
 }
@@ -15,12 +14,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #4070f4;
+    background-color: #ffffff;
+         transition: background-color 0.5s ease, color 0.5s ease;
+
 }
 
 .container {
     width: 100%;
     max-width: 6000px;
+
 }
 
 .chat-box {
@@ -28,6 +30,7 @@ body {
     overflow-y: auto;
     border-radius: 15px; /* Optional: round the corners of the chat box */
     box-shadow: 0px 10px 20px rgba(0,0,0,0.15); /* Optional: add a shadow for a 'floating' effect */
+
 }
 
 form {
@@ -116,4 +119,343 @@ form {
         transform: translateY(0px);
         background-color: #d9d9d9;
     }
+}/* Body Styles for Dark Mode */
+ body.dark-mode {
+     background-color: #333333;
+     color: #ffffff;
+     transition: background-color 0.5s ease, color 0.5s ease;
+ }
+
+ /* Chat Box Styles for Dark Mode */
+ .chat-box.dark-mode {
+     background-color: #333333;
+     color: #ffffff;
+     transition: background-color 0.5s ease, color 0.5s ease;
+ }
+
+/* Dark Mode Toggle Button Styles */
+ #dark-mode-toggle {
+     position: fixed;
+     top: 10px;
+     right: 10px;
+     z-index: 1000;
+     background-color: #ffffff;
+     color: #333333;
+     border: 2px solid #333333;
+     padding: 8px 12px;
+     border-radius: 5px;
+     cursor: pointer;
+     font-size: 14px;
+     transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+ }
+
+ /* Hover Effect for Dark Mode Toggle Button */
+ #dark-mode-toggle:hover {
+     background-color: #f0f0f0;
+ }
+
+ /* Dark Mode Styles for Dark Mode Toggle Button */
+ body.dark-mode #dark-mode-toggle {
+     background-color: #333333;
+     color: #ffffff;
+     border-color: #ffffff;
+ }
+
+ /* Dark Mode Styles for User and Bot Names */
+ body.dark-mode .media-body .text-muted {
+     color: #ffffff;
+ }
+
+    /* Settings Toggle Styles */
+   #settings-toggle {
+       position: absolute;
+       top: 55px;
+       right: 20px;
+       z-index: 1000;
+       background-color: #ffffff;
+       color: #333333;
+       border: none;
+       width: 40px; /* Beispielmaß für Breite und Höhe */
+       height: 40px; /* Beispielmaß für Breite und Höhe */
+       border-radius: 50%; /* Macht das Element rund */
+       cursor: pointer;
+       font-size: 20px;
+       box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+       transition: background-color 0.3s ease, color 0.3s ease;
+   }
+
+
+    /* Hover Effect for Settings Toggle */
+    #settings-toggle:hover {
+        background-color: #f0f0f0;
+    }
+
+    /* Overlay Styles for Settings Panel */
+    #settings-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 999;
+    }.settings-panel {
+       display: none;
+       position: fixed;
+       top: 0;
+       right: 0;
+       width: 300px;
+       height: 100%;
+       color: #333333;
+       background-color: #ffffff;
+       box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+       padding: 20px;
+       z-index: 1000;
+       transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+     }
+
+     .settings-panel.open {
+       display: block;
+     }
+
+     .settings-overlay {
+       display: none;
+       position: fixed;
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 100%;
+       background-color: rgba(0, 0, 0, 0.5);
+       z-index: 500;
+     }
+
+     .settings-overlay.active {
+       display: block;
+     }
+   /* Styles for the custom toggle switch */
+   @import "compass/css3";
+   *, *:after, *:before{
+     @include box-sizing(border-box);
+   }
+   $blue    : #4285F4;
+   $green   : #4BD865;
+   $warning :#FF980F;
+
+   body{
+     text-align: center;
+     background: #eee;
+   }
+   section{
+    float: left;
+     min-width: 150px;
+     width: 33.33%;
+     padding:25px 0;
+     min-height: 100px;
+   }
+   /*=====================*/
+   .checkbox{
+     position: relative;
+     display: inline-block;
+
+     &:after, &:before{
+       font-family: FontAwesome;
+       font-feature-settings: normal;
+       font-kerning: auto;
+       font-language-override: normal;
+       font-stretch: normal;
+       font-style: normal;
+       font-synthesis: weight style;
+       font-variant: normal;
+       font-weight: normal;
+       text-rendering: auto;
+     }
+
+     label{
+       width: 90px;
+       height: 42px;
+       background: #ccc;
+       position: relative;
+       display: inline-block;
+       @include border-radius(46px);
+       @include transition(.4s);
+       &:after{
+         content: '';
+         position: absolute;
+         width: 50px;
+         height: 50px;
+         @include border-radius(100%);
+         left: 0;
+         top: -5px;
+          z-index: 2;
+         background: #fff;
+         @include box-shadow(0 0 5px rgba(0,0,0,.2));
+         @include transition(.4s);
+       }
+     }
+     input{
+       position: absolute;
+       left: 0;
+       top: 0;
+       width: 100%;
+       height: 100%;
+       z-index: 5;
+       opacity: 0;
+      cursor:pointer;
+       &:hover +label:after{
+         @include box-shadow(0 2px 15px 0 rgba(0, 0, 0, .2), 0 3px 8px 0 rgba(0, 0, 0, .15))
+       }
+       &:checked + label{
+         &:after{
+           left: 40px;
+         }
+       }
+
+     }
+   }
+   .model-4{
+     .checkbox{
+       label{
+         background: #bbb;
+         height: 25px;
+         width: 75px;
+           &:after{
+             background: #fff;
+             top: -8px;
+             width:38px;
+             height: 38px;
+           }
+       }
+       input:checked + label{
+         background: #77C2BB;
+         &:after{
+           background: #009688;
+           left: 40px;
+         }
+       }
+     }
+   }
+
+
+   /* Dark mode styles */
+   @media (prefers-color-scheme: dark) {
+       .settings-panel {
+           background-color: #2e2e2e; /* Grau-Farbton */
+           color: #ffffff; /* Weißer Text */
+       }
+   }
+
+   /* Sicherstellen, dass dark-mode Klasse auch Einstellungen betrifft */
+   body.dark-mode .settings-panel {
+       background-color: #2e2e2e; /* Grau-Farbton */
+       color: #ffffff; /* Weißer Text */
+   }
+.btn-34,
+.btn-34 *,
+.btn-34 :after,
+.btn-34 :before,
+.btn-34:after,
+.btn-34:before {
+  border: 0 solid;
+  box-sizing: border-box;
 }
+
+.btn-34 {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: button;
+  background-color: #333;
+  background-image: none;
+  color: #fff;
+  cursor: pointer;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-size: 0.5rem; /* Angepasst für eine kleinere Schriftgröße */
+  font-weight: 900;
+  line-height: 1.5;
+  margin: 0;
+  -webkit-mask-image: -webkit-radial-gradient(#333, #4285F4);
+  padding: 0.4rem 1rem; /* Angepasst für kleinere Abmessungen */
+  text-transform: uppercase;
+  border-radius: 1.5rem; /* Kleinere Abrundung */
+  border-width: 2px;
+  overflow: hidden;
+  position: relative;
+  height: 2rem; /* Angepasste Höhe */
+  width: 4rem; /* Angepasste Breite */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.btn-34:disabled {
+  cursor: default;
+}
+
+.btn-34:-moz-focusring {
+  outline: auto;
+}
+
+.btn-34 svg {
+  display: block;
+  vertical-align: middle;
+}
+
+.btn-34 [hidden] {
+  display: none;
+}
+
+.btn-34:hover {
+  transform: scale(1.1);
+}
+
+.btn-34 span {
+  font-weight: 900;
+  mix-blend-mode: difference;
+}
+
+.btn-34:before {
+  aspect-ratio: 1;
+  background: #fff;
+  border-radius: 50%;
+  content: "";
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.2s;
+  width: 0;
+}
+
+.btn-34:hover:before {
+  width: 100%;
+}
+
+
+
+
+ /* Settings Toggle Styles */
+    #settings-toggle2 {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000;
+        background-color: #ffffff;
+        color: #333333;
+        border: none;
+        width: 40px; /* Beispielmaß für Breite und Höhe */
+        height: 40px; /* Beispielmaß für Breite und Höhe */
+        border-radius: 50%; /* Macht das Element rund */
+        cursor: pointer;
+        font-size: 20px;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+
+    /* Hover Effect for Settings Toggle */
+    #settings-toggle2:hover {
+        background-color: #f0f0f0;
+    }
+
