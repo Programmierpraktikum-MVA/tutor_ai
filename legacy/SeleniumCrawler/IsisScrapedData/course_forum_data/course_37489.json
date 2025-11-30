@@ -1,0 +1,70 @@
+[
+    {
+        "Course_Name": "Einschreibung Mechanik E - Sommersemester 2024",
+        "Course_id": "37489",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1760906",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "PW für den richtigen Kurs",
+                            "Discussion_Id": "586248",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057453",
+                                    "Author": "Holger Gödecker",
+                                    "DateTime": "2024-04-16T15:30:00+02:00",
+                                    "Content": "Hallo, das Passwort für den ISIS Kurs Mechanik E lautet  dranbleibEn24 Viele Grüße und viel Erfolg Holger Gödecker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung der Vorlesungstermine",
+                            "Discussion_Id": "585647",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056551",
+                                    "Author": "Holger Gödecker",
+                                    "DateTime": "2024-04-12T16:06:14+02:00",
+                                    "Content": "Guten Tag und herzlich Willkommen bei Mechanik E! Bevor es am kommenden Dienstag (16.04.) um 14 Uhr im EB 301 mit der ersten Vorlesung losgeht, gibt es schon die erste Ankündigung: Der Zeitpunkt der regelmäßigen Montagsvorlesung (ab dem 22.04) ändert sich auf 8:30 Uhr bis 10 Uhr. Dies ist auf Grund der Kollision von Pflichtveranstaltungen für die Studierenden des Wirtschaftsingenieurwesens nötig geworden. Ich bitte um Verständnis. Viele Grüße und bis Dienstag Holger Gödecker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Frageforum",
+                    "Forum_id": "1760907",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einschreibeschlüssel",
+                            "Discussion_Id": "586408",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057697",
+                                    "Author": "Daniel Christian Stockmann",
+                                    "DateTime": "2024-04-16T14:13:15+02:00",
+                                    "Content": "Hallo, Könnte man hier bitte den Einschreibeschlüssel verraten für diejenigen, die es heute nicht zur Einführungsveranstaltung schaffen? Liebe Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057725",
+                                    "Author": "Marvin Bischof",
+                                    "DateTime": "2024-04-16T14:41:57+02:00",
+                                    "Content": "dranbleibEn24",
+                                    "Response to": "p1057697"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

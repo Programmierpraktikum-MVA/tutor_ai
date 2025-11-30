@@ -1,0 +1,97 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Fallstudien aus der Handhabungs-und Gerätetechnik",
+        "Course_id": "38787",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1804710",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "06.06.2024: Seminarveranstaltung online per zoom!",
+                            "Discussion_Id": "599191",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077370",
+                                    "Author": "Franz Dietrich",
+                                    "DateTime": "2024-06-05T16:16:49+02:00",
+                                    "Content": "Liebe Studierende, unsere Seminarveranstaltung müssen wir diese Woche (06.06.2024) leider ausnahmsweise online durchführen. Donnerstag 06.06.2024, 10:15-11:45 Uhr. Hier der Einwahllink dafür: https://tu-berlin.zoom.us/my/dietrich?pwd=R2JlbEFRSVZWdk5hOXpYNTRaOHIxQT09 Danke für Ihr Verständnis, bis morgen Franz Dietrich",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Veranstaltung: 25.04.2024 10:15 Uhr PTZ 002",
+                            "Discussion_Id": "589481",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062448",
+                                    "Author": "Franz Dietrich",
+                                    "DateTime": "2024-04-24T16:07:55+02:00",
+                                    "Content": "Hallo Zusammen, die Seminarveranstaltung findet morgen statt (siehe auch im ISIS Kurs unter \"diese Woche\"). Ich freue mich auf Ihre Teilnahme. Beste Grüße Franz Dietrich",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Semesterstart 18.04.2024 10:15 PTZ002 Pascalstr. 8",
+                            "Discussion_Id": "587135",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058713",
+                                    "Author": "Franz Dietrich",
+                                    "DateTime": "2024-04-18T00:55:55+02:00",
+                                    "Content": "Sehr geehrte Teilnehmerinnen und Teilnehmer, wir freuen uns auf den Start des Sommersemesters 2024 und freuen uns auf Sie! Wie angekündigt findet die Einführungsveranstaltung heute, 18.04.2024 um 10:15-11:45 im Hörsaal PTZ 002 statt (Hörsaal ist in der Pascalstr. 8-9, am Empfang links abbiegen und dann ein verglaster Rundraum). Zur Info hänge ich noch eine erste Info an, was Sie erwartet. Beste Grüße Prof. Franz Dietrich, Prof. Dirk Oberschmidt und Teams",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zum Austausch zu Hausarbeiten und Lehrinhalten",
+                    "Forum_id": "1833756",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VL-Online (Krankheitsbedingt)",
+                            "Discussion_Id": "600662",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079515",
+                                    "Author": "Domenica Ginnette Ruales Cevallos",
+                                    "DateTime": "2024-06-12T16:39:17+02:00",
+                                    "Content": "Hallo, Leider bin ich diese Woche extrem erkältet. Ich wollte fragen ob ich die VL morgen online betreten kann.  Viele Grüße, Domenica Ruales",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079533",
+                                    "Author": "David Löwen",
+                                    "DateTime": "2024-06-12T17:12:44+02:00",
+                                    "Content": "Ich habe einen Zoom-Link erstellt für die Veranstaltung am 13.6.2024 um 10:15. https://tu-berlin.zoom.us/j/66892318226?pwd=LQyotBfbsUdgFYmIbivqVjPBOODXUa.1  Viele Grüße, David Löwen",
+                                    "Response to": "p1079515"
+                                },
+                                {
+                                    "Message_id": "p1079559",
+                                    "Author": "Leonard Louis Felix Geffe",
+                                    "DateTime": "2024-06-12T18:05:56+02:00",
+                                    "Content": "Findet die Veranstaltung für die übrigen Teilnemer in Präsenz statt oder ausschließlich via Zoom?",
+                                    "Response to": "p1079533"
+                                },
+                                {
+                                    "Message_id": "p1079567",
+                                    "Author": "David Löwen",
+                                    "DateTime": "2024-06-12T18:17:33+02:00",
+                                    "Content": "Für die übrigen Teilnehmer wird die Veranstaltung in Präsenz stattfinden.",
+                                    "Response to": "p1079559"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

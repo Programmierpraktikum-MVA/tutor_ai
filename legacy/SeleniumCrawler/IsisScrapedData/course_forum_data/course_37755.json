@@ -1,0 +1,33 @@
+[
+    {
+        "Course_Name": "Tutoría: Preparación contenidos curso B1.1",
+        "Course_id": "37755",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Unidad 11_Dudas de gramática y vocabulario",
+                    "Forum_id": "1768183",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "¿Qué o cuál?",
+                            "Discussion_Id": "583346",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053082",
+                                    "Author": "Lennard Simon Märte",
+                                    "DateTime": "2024-03-17T16:07:57+01:00",
+                                    "Content": "Hola Eva, tengo una pregunta sobre cuando se usa \"qué\" o \"cuál\". No entiendo la explicación en el libro.  El libro dice \"Qué + Verb wird verwendet, um nach Dingen und Begriffen im Allgemeinen zu fragen und Cuál(es) + Verb wird verwendet, um nach Sachen aus einer bereits bekannten Gruppe zu fragen.\". ¿Qué significa \"bekannt\" en ese contexto? ¿Quizá que ha hablado antes de esas cosas? ¡Muchas gracias de antemano!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null
+        ]
+    }
+]

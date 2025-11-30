@@ -1,0 +1,413 @@
+[
+    {
+        "Course_Name": "Projekt Elektrische Antriebe",
+        "Course_id": "30017",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1378708",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Projekt: Simulation einer Asynchronmaschine",
+                            "Discussion_Id": "550188",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1000483",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-10-09T16:07:23+02:00",
+                                    "Content": "Liebe Studierende, wir haben noch einen freien Platz für das Projekt \"Parametrisierter Modellaufbau und Simulation einer Asynchronmaschine in FEMM\". Beachtet die Projektbeschreibung und die Voraussetzungen in der PDF im Anhang. Schreibt mir (schugardt@tu-berlin.de) bei Interesse zeitnah eine Mail und gebt bitte mit an, welche passenden Module ihr bereits absolviert habt und in wie weit ihr bereits mit dem Programm FEMM gearbeitet habt. Viele Grüße Alex",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1001943",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-10-16T10:47:12+02:00",
+                                    "Content": "Liebe Studierende,  es ist weiterhin ein Platz für das Projekt zur Simulation einer Asynchronmaschine frei. Meldet euch gern bei mir (schugardt@tu-berlin.de), falls ihr Interesse daran habt.  Viele Grüße Alex",
+                                    "Response to": "p1000483"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage zum FEMM GUI",
+                            "Discussion_Id": "546889",
+                            "Messages": [
+                                {
+                                    "Message_id": "p995634",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-08-11T15:11:04+02:00",
+                                    "Content": "Liebe Studierende, an alle, die bereits unser MATLAB FEMM GUI im Rahmen eines Projekts (z.B. im Entwurfprojekt im WS 22/23) oder einer Abschlussarbeit verwendet haben: Bitte füllt die (sehr kurze) Umfrage zum FEMM GUI hier im ISIS Kurs aus. Es geht darum, den zukünftigen Einsatz des Programms in der Lehre zu planen und das GUI mit eurer Rückmeldung weiter verbessern zu können. Die Umfrage ist anonym, bitte füllt sie ehrlich aus. Vielen Dank! Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektvorstellungen für das SoSe 2023",
+                            "Discussion_Id": "517967",
+                            "Messages": [
+                                {
+                                    "Message_id": "p950159",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-03-25T11:15:59+01:00",
+                                    "Content": "Liebe Studierende, für unsere angebotenen Projekte im kommenden Semester werden wir eine Einführungsveranstaltung inklusive Projektvorstellungen im Raum EMH 357 durchführen. Da die Projektplätze begrenzt sind, solltet ihr unbedingt bei der Veranstaltung vor Ort sein. Zeitlich gibt es die folgende Auswahl: - 03.04. (Mo) 10 oder 11 Uhr - 04.04. (Di) 10 oder 11 Uhr - 05.04. (Di) 10 oder 11 Uhr Bitte nehmt an der Umfrage zum Termin der Einführungsveranstaltung (im ISIS Kurs) bis zum 29.03. teil, damit wir eine für alle geeignete Zeit finden. Außerdem findet ihr im ISIS Kurs bereits die Beschreibungen von zwei Projekten. Es wird zusätzlich noch ein oder zwei weitere Projekte geben (die Beschreibungen werden später ergänzt). Viele Grüße Alex",
+                                    "Response to": "#p950159"
+                                },
+                                {
+                                    "Message_id": "p950756",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-03-29T16:14:01+02:00",
+                                    "Content": "Liebe Studierende,  da einige an den angebotenen Terminen nicht teilnehmen können, habe ich jetzt einige weitere für die darauffolgende Woche hinzugefügt. Bitte nehmt also alle erneut an der Umfrage zum Termin der Einführungsveranstaltung teil. Wählt unbedingt alle Termine aus, an denen ihr teilnehmen könnt.  Folgende Projekte werden voraussichtlich angeboten: - Topologieoptimierung eines magnetischen Kreises mittels Feldsimulationen - Umsetzung einer diskreten Messdatenverarbeitung für das Maschinenlabor - Aufbau eines Prüfstands für Gleichstrommaschinen - Auswertung eines Winkellagesensors für einen Maschinenprüfstand  Für die ersten beiden Themen findet ihr genauere Informationen bereits im ISIS Kurs. Für die anderen werden diese noch nachgereicht. Im Rahmen der Einführungsveranstaltung werden alle Themen ausführlich vorgestellt.  Viele Grüße Alex",
+                                    "Response to": "#p950159"
+                                },
+                                {
+                                    "Message_id": "p951603",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-04-04T20:08:29+02:00",
+                                    "Content": "Liebe Studierende,   die Projektvorstellungen für das Modul \"Projekt Elektrische Antriebe\" im SoSe 23 finden am Fr, 14.04. ab 10:00 Uhr über Zoom statt (Einladungslink, Meeting-ID: 618 5551 6088, Kenncode: 742567). Ihr könnt zu diesem Termin auch bereits ein Projekt auswählen. Freie Plätze können im Nachhinein noch vergeben werden. Da die Plätze aber sehr begrenzt sind, solltet ihr an dieser Veranstaltung teilnehmen.   Viele Grüße  Alex ",
+                                    "Response to": "#p950159"
+                                },
+                                {
+                                    "Message_id": "p952498",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-04-12T15:04:16+02:00",
+                                    "Content": "Liebe Studierende, entgegen der bisherigen Ankündigung werden die Projektvorstellungen online über Zoom stattfinden. Tag und Uhrzeit bleiben unverändert, also diese Woche Freitag ab 10:00 Uhr. Zoom Einladung: Einladungslink: https://tu-berlin.zoom.us/j/61855516088?pwd=dXl1QmN2b3g0NmRUVXRRMEFuVTZiZz09 Meeting-ID: 618 5551 6088 Kenncode: 742567  Viele Grüße Alex",
+                                    "Response to": "#p950159"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen Sprechstunde",
+                            "Discussion_Id": "515151",
+                            "Messages": [
+                                {
+                                    "Message_id": "p945241",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-02-26T11:13:42+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  morgen findet die letzte regelmäßige Sprechstunde ab 10:15 Uhr im EMH 357 statt. Danach wird es nur noch Sprechstunden auf Anfrage geben.  Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Weitere Sprechstunden",
+                            "Discussion_Id": "512637",
+                            "Messages": [
+                                {
+                                    "Message_id": "p940717",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-02-13T11:17:41+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, nächste Woche findet am Montag (20.02.) keine Sprechstunde statt, da ich in der Woche Urlaub habe. Die letzte feste Sprechstunde wird dann eine Woche darauf am 27.02. im EMH 357 stattfinden. Danach gibt es keine festen Termine mehr, aber ihr könnt mich gern jederzeit per Mail kontaktieren, damit wir einen Sprechstundentermin ausmachen. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen in Präsenz ",
+                            "Discussion_Id": "507695",
+                            "Messages": [
+                                {
+                                    "Message_id": "p932911",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-01-22T19:20:00+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  morgen findet die Sprechstunde wieder ganz normal ab 10:15 Uhr im EMH 357 statt. Genauso jeden weiteren Montag bis zum Ende der Vorlesungszeit.  Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Dokumentation",
+                            "Discussion_Id": "506237",
+                            "Messages": [
+                                {
+                                    "Message_id": "p930726",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-01-16T13:19:10+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, die Abgabe der wissenschaftlichen Dokumentation zum Projekt ist bis zum 24.03. (Fr) um 23:59 Uhr über ISIS (Abgabe Projekt-Dokumentation) möglich. Beachtet bei der Erstellung bitte die folgenden Hinweise: Hinweise zu Projekt- und Abschlussarbeiten  die Dokumentation soll den Anforderungen einer wissenschaftlichen Arbeit entsprechen (vergleichbar mit einer Bachelorarbeit) folgende Abschnitte gehören dazu: Deckblatt (Modulbezeichnung, Projektbezeichnung, Gruppennummer, Namen und Matrikelnummern aller Personen, Name des Betreuers, Datum) Inhaltsverzeichnis Abkürzungsverzeichnis (sofern Abkürzungen verwendet werden)  Einleitung  inhaltliche Kapitel (z.B. gegliedert nach Problemstellung, analytischer Entwurf und Optimierung) Zusammenfassung und Ausblick Literaturverzeichnis optional: Anhang auch für Abbildungen müssen Quellen angegeben werden, sofern sie nicht ohne Vorlage selbst erstellt wurden Die Abschlusspräsentation wird dann voraussichtlich in der darauffolgenden Woche stattfinden (an einem oder zwei Tagen). Die genauen Tage und Uhrzeiten werden wir noch abstimmen, damit niemand eine anderweitige Prüfung an dem Tag hat. Es müssen alle Gruppenmitglieder anwesend sein.  Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Ab morgen wieder Präsenz",
+                            "Discussion_Id": "504260",
+                            "Messages": [
+                                {
+                                    "Message_id": "p927653",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-01-08T10:53:04+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, morgen findet die Sprechstunde wieder ganz normal in Präsenz ab 10:15 Uhr im EMH 357 statt.  Außerdem würde ich euch gern zu einer Einführung in den Umgang mit dem FEMM GUI diesen Mittwoch (11.01.) ab 10:15 Uhr im Raum EMH 357 einladen. Diese findet Rahmen des Moduls \"Produktionsoptimierte elektrische Antriebe\" statt.  Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen online",
+                            "Discussion_Id": "502691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p925298",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2023-01-01T09:54:48+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  zunächst wünsche ich euch ein frohes neues Jahr! Da die Gebäude der TU noch zwei Tage lang geschlossen sind, wird die morgige Sprechstunde wieder online stattfinden. Ab 10:15 Uhr über den folgenden Link: https://tu-berlin.zoom.us/my/schugardt?pwd=T1c2eUxtZFQycmZNdXdzcEN2bHZPZz09  Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: FEMM GUI",
+                            "Discussion_Id": "500681",
+                            "Messages": [
+                                {
+                                    "Message_id": "p921900",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-12-12T20:21:08+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, ich habe das FEMM GUI (Version 1.4) mit einigen Funktionen erweitert, weswegen ihr die neueste Datei herunterladen und installieren solltet. Zuvor ist es empfehlenswert die alte App zu deinstallieren (in MATLAB: Apps -> Rechtsklick auf die App -> deinstallieren).  Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen wieder Präsenz ",
+                            "Discussion_Id": "500319",
+                            "Messages": [
+                                {
+                                    "Message_id": "p921233",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-12-11T16:01:25+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  morgen treffen wir uns wieder ganz normal ab 10:15 Uhr im EMH 357.  Wegen wichtigen Ankündigungen bezüglich der schriftlichen Dokumentation und zum Umgang mit FEMM solltet ihr alle morgen vorbeikommen. Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Vorgegebene FEMM Skripte",
+                            "Discussion_Id": "499087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p919109",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-12-06T12:03:28+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, für diejenigen, die bereits mit der Verwendung der FEMM Skripte begonnen haben: Ich habe die Datei Vorgegebene FEMM Skripte im ISIS Kurs aktualisiert, also bitte ladet euch die neue herunter. Außerdem solltet ihr zu Beginn unbedingt die enthaltene Read Me Datei lesen. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Videos zu FEMM",
+                            "Discussion_Id": "498700",
+                            "Messages": [
+                                {
+                                    "Message_id": "p918420",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-12-05T10:48:07+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, im ISIS Kurs findet ihr jetzt zwei FEMM Einführungsvideos, die nochmal die Grundlagen in der Handhabung des Programms demonstrieren. Wir sehen uns dann wieder nächste Woche Montag in Präsenz. Falls bis dahin Fragen auftauchen, könnt ihr mir gern jederzeit eine Mail schreiben. Viele Grüße Aöex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen Online ",
+                            "Discussion_Id": "498576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p918198",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-12-04T18:47:19+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  die morgige Sprechstunde wird ab 10:15 Uhr online über Zoom stattfinden.  Zoom Link: https://tu-berlin.zoom.us/my/schugardt?pwd=T1c2eUxtZFQycmZNdXdzcEN2bHZPZz09  Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Heute ab 10 Uhr ",
+                            "Discussion_Id": "496814",
+                            "Messages": [
+                                {
+                                    "Message_id": "p915234",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-11-28T06:49:17+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  wir treffen uns heute ganz normal um 10 Uhr im EMH 357 zur Sprechstunde.  Viele Grüße Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen ab 12:30 Uhr",
+                            "Discussion_Id": "494848",
+                            "Messages": [
+                                {
+                                    "Message_id": "p911756",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-11-20T11:39:24+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  morgen treffen wir uns erst ab 12:30 Uhr im EMH 357 (vielleicht bin ich auch schon ein paar Minuten früher dort).  Da wir mit den Vorlesungen und Übungen durch sind, wird es sich um eine Art Sprechstunde handeln. Das klappt also nur, wenn ihr auch entsprechend die Projektaufgaben bearbeitet.  Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "494571",
+                            "Messages": [
+                                {
+                                    "Message_id": "p911259",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-11-18T11:45:21+01:00",
+                                    "Content": "Liebe Studierende, einige haben sich noch nicht für die Prüfung über Moses angemeldet. Bitte holt dies bis zum 27.11. nach, da ihr ansonsten nicht das Modul abschließen könnt. Eine Abmeldung ist nach der Anmeldung nicht mehr möglich, da es sich um eine Portfolioprüfung handelt. Anmeldung über Moses: MTS -> Modulprüfungen -> An-/Abmelden -> Neue Prüfungsanmeldung erstellen -> \"Projekt Elektrische Antriebe\" Beachtet bitte, dass ihr bei angemeldeter Prüfung in jedem Fall bewertet werdet und dass die Freiversuchsregelung nicht mehr gilt. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Morgen online ",
+                            "Discussion_Id": "493074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p908681",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-11-13T14:36:18+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  die morgige Veranstaltung wird ausnahmsweise online über Zoom stattfinden. Beginn ist wie immer 10:15 Uhr. Da ich mit den Vorlesungen und Übungen durch bin, wird das eher eine Sprechstunde sein.  Zoom Einladung:  https://tu-berlin.zoom.us/j/61855516088?pwd=dXl1QmN2b3g0NmRUVXRRMEFuVTZiZz09  Meeting-ID: 618 5551 6088 Kenncode: 742567  Viele Grüße  Alex",
+                                    "Response to": "#p908681"
+                                },
+                                {
+                                    "Message_id": "p908849",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-11-14T08:18:01+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt,  leider muss ich krankheitsbedingt das heutige Online Meeting komplett absagen. Bitte arbeitet bis zur nächsten Woche weiterhin an dem analytischen Maschinenentwurf und fertigt einen Zeitplan als Gruppe an (vgl. Hinweise zu Projekt- und Abschlussarbeiten).  Bei Fragen oder Problemen könnt ihr mir jederzeit eine Mail schreiben (schugardt@tu-berlin.de).  Viele Grüße Alex",
+                                    "Response to": "#p908681"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Entwurfsprojekt: Laptop mitbringen",
+                            "Discussion_Id": "491088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p905428",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-11-06T19:09:34+01:00",
+                                    "Content": "Liebe Studierende im Entwurfsprojekt, bitte bringt morgen einen Laptop mit und installiert das Programm FEMM (FEM-Programm für Feldsimulationen). Es muss nicht jede Person einen dabei haben, aber pro Gruppe sollte es idealerweise mindestens zwei Geräte geben. Wenn alles klappt, werden wir im zweiten Teil der Veranstaltung bereits mit einer kleinen Einführung beginnen. Im Rahmen des Projekts werdet ihr dann das Programm zur Maschinenoptimierung verwenden. Viele Grüße und bis morgen Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Andere Schwerpunktprojekte",
+                            "Discussion_Id": "484390",
+                            "Messages": [
+                                {
+                                    "Message_id": "p893843",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-10-19T19:28:02+02:00",
+                                    "Content": "Liebe Studierende,  ich wollte nur nochmal darauf hinweisen, dass an der Fakultät IV auch eine Vielzahl anderer interessanter Projekte in diesem Semester angeboten werden. In diesem ISIS Kurs findet ihr Links zu allen Projekten: https://isis.tu-berlin.de/course/view.php?id=30780 Außerdem finden Projektvorstellungen einiger Fachgebiete diese Woche Freitag von 14-16 Uhr im Raum EMH 225 statt. Ihr könnt euch gern noch bis nächste Woche Zeit lassen, um euch für ein Projekt zu entscheiden und ggf. bei uns doch nicht teilzunehmen.  Ich möchte zusätzlich erwähnen, dass ihr für unsere Projekte unbedingt das Modul Elektrische Maschinen absolviert haben solltet, da ihr ansonsten einen sehr hohen Mehraufwand habt und das euren Gruppenmitgliedern gegenüber nicht fair ist.  Viele Grüße  Alex ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektauswahl",
+                            "Discussion_Id": "484225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p893577",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-10-19T14:35:15+02:00",
+                                    "Content": "Liebe Studierende, heute ab 18 Uhr könnt ihr unter Projektauswahl euch in die jeweilige Projektgruppe eintragen (gilt für alle, die heute vor Ort waren). Falls ihr heute nicht bei der Einführungsveranstaltung wart und noch Plätze frei sind, könnt ihr beim nächsten Termin (Montag) vorbeikommen und mich ansprechen. Außerdem sind jetzt die Folien von heute für alle im ISIS Kurs verfügbar. Für das Entwurfsprojekt treffen wir uns die nächsten 4 bis 5 Wochen immer Mo, 10-14 Uhr im EMH 357.  Virtuelles Labor EM1: Schreibt mir am besten eine Mail, damit wir einen individuellen Termin abstimmen können. Oder wir sprechen uns nächsten Montag. Viele Grüße Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung",
+                            "Discussion_Id": "481922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p889592",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-10-10T11:07:19+02:00",
+                                    "Content": "Liebe Studierende, bitte wählt in der Abstimmung zum Zeitpunkt der Einführungsveranstaltung alle Zeiten aus, an denen ihr in der nächsten Woche teilnehmen könntet. Die Einführungsveranstaltung wird dann im Zeitslot mit den meisten Stimmen stattfinden (die Veranstaltungszeiten im restlichen Semester sind davon erstmal unabhängig). Da die Projektplätze begrenzt sind, ist eine Teilnahme dringend zu empfehlen. Da ich zwei Termine entfernen musste und einen neuen ergänzt habe, solltet ihr euch in jedem Fall die Abstimmung nochmal ansehen. Außerdem könnt ihr jetzt die Anzahl Stimmen pro Termin einsehen. Viele Grüße Alex",
+                                    "Response to": "#p889592"
+                                },
+                                {
+                                    "Message_id": "p890923",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-10-14T15:30:11+02:00",
+                                    "Content": "Liebe Studierende,  die Umfrage ergibt nächste Woche Mittwoch (19.10.) von 10-12 Uhr als Einführungstermin (Raum EMH 357 in Präsenz). In dieser Veranstaltung werde ich alle Projekte vorstellen und danach könnt ihr euch entscheiden ob bzw. an welchem ihr teilnehmen wollt. Die Teilnehmendenzahl ist pro Projekt begrenzt, Restplätze können im Nachhinein noch vergeben werden. Die Einführungsfolien werde ich hier in ISIS hochladen.  Viele Grüße Alex",
+                                    "Response to": "#p889592"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Allgemeines Fragenforum",
+                    "Forum_id": "1453491",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Projekt Elektrische Antriebe (Master) und Elektrische Maschinen 1 gleichzeitig in einem Semester belegen",
+                            "Discussion_Id": "584758",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055300",
+                                    "Author": "Devin Amadeus",
+                                    "DateTime": "2024-04-05T15:27:50+02:00",
+                                    "Content": "Hallo, ich hätte Interesse an dem Projekt Elektrische Antriebe (Master). Davor habe ich leider weder \"Elektrische Antriebe\" noch \"Elektrische Maschinen\" gemacht. Das Modul \"Elektrische Antriebe\" ist leider nur im Wintersemester verfügbar. Deswegen ist die Frage, ist es möglich, das Projekt Elektrische Antriebe (Master) und das Modul \"Elektrische Maschinen\" gleichzeitig zu machen? Da ich Automotive Systems studiere, und das Modul \"Elektrische Antriebe\" ein Kernmodul ist, passt das, wenn ich stattdessen \"Elektrische Maschinen\" belege? Ich bedanke mich für die Aufmerksamkeit und freue mich auf die Rückmeldung. Mit freundlichen Grüßen Devin Amadeus",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055322",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-04-05T17:12:01+02:00",
+                                    "Content": "Hallo Devin,  als Automotive Systems Student kannst du \"Elektrische Maschinen\" statt \"Elektrische Antriebe\" belegen.  Ohne Vorwissen aus einem unserer Module haben wir keine passenden Projektthemen. Ausserdem können wir im kommenden Semester sowie keine weiteren Projekte anbieten, da wir bereits durch Abschlussarbeiten ausgelastet sind.  Viele Grüße Alex",
+                                    "Response to": "p1055300"
+                                },
+                                {
+                                    "Message_id": "p1056883",
+                                    "Author": "Devin Amadeus",
+                                    "DateTime": "2024-04-15T10:25:25+02:00",
+                                    "Content": "Hallo Alex, vielen Dank für die Antwort. Hättest du einen alternativen Modulvorschlag für ein Projekt? Ich möchte mich in Richtung Elektromobilität vertiefen. Viele Grüße Devin",
+                                    "Response to": "p1055322"
+                                },
+                                {
+                                    "Message_id": "p1056898",
+                                    "Author": "Devin Amadeus",
+                                    "DateTime": "2024-04-15T10:41:12+02:00",
+                                    "Content": "PS: und gibt es noch die Möglichkeit dieses Projekt im Sommersemester 2025 zu belegen?",
+                                    "Response to": "p1056883"
+                                },
+                                {
+                                    "Message_id": "p1056922",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2024-04-15T10:57:49+02:00",
+                                    "Content": "Hallo Devin,  am besten passen Themen vom Fachgebiet Leistungselektronik oder Fachgebiet Elektrische Energiespeichertechnik dazu. Schau auch mal auf die Meta-Seite der Projekte unserer Fakultät. Als Automotive Systems Student kannst du auch das Projekt elektrifizierter Antriebsstrang belegen. Wir bieten fast jedes Semester unterschiedliche Projekte an, die Voraussetzungen sind aber immer unterschiedlich und hängen von den Themen ab. Richtung Ende dieses Semesters kannst du die Befragung ausfüllen, damit du ggf. für das kommende Semester berücksichtigt wirst (das gleiche gilt dann auch für das SoSe 25). Viele Grüße Alex",
+                                    "Response to": "p1056883"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe Voll",
+                            "Discussion_Id": "484922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p894758",
+                                    "Author": "Trung Hieu Tran",
+                                    "DateTime": "2022-10-20T17:27:42+02:00",
+                                    "Content": "Guten Tag Herr Schugardt,  Ich war gestern bei Veranstaltung. Ich melde mich schon. Aber ich kann nicht in den Gruppen eintragen, weil alles schon voll. Kann ich noch teilnehmen?  Viele Grüße, Hieu Tran",
+                                    "Response to": "#p894758"
+                                },
+                                {
+                                    "Message_id": "p894842",
+                                    "Author": "Alexander Schugardt",
+                                    "DateTime": "2022-10-20T18:33:54+02:00",
+                                    "Content": "Hallo Hieu Tran,  da du gestern anwesend warst, bekommst du auf jeden Fall einen Platz, das klären wir am Montag. Bitte sprich mich dann darauf an.  Viele Grüße Alex",
+                                    "Response to": "#p894758"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

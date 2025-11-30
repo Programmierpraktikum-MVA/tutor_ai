@@ -1,0 +1,226 @@
+[
+    {
+        "Course_Name": "[SoSe 24] Programmierpraktikum Cyber-Physical Systems",
+        "Course_id": "37266",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1754561",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abschlusspräsentation",
+                            "Discussion_Id": "607137",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088821",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-07-11T11:26:38+02:00",
+                                    "Content": "Liebe Studierende,  am kommenden Donnerstag (18.07.) sind die Vorträge für die Abschlusspräsentation. Die Vorträge finden 14:00-18:00 im H 3006 statt. Es besteht Anwesenheitspflicht. Das Format der Vorträge ist wie beim ersten/zweiten Meilenstein. Bitte vergesst nicht eure Folien vor den Vorträgen auf Isis abzugeben.  Ablaufplan: - 14:15 Gruppe D - 14:45 Gruppe B (Maze) - 15:15 Gruppe B (Robot) - 16:00 Gruppe C - 16:30 Gruppe A2 - 17:00 Gruppe A1  Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorgaben und Hinweise zum Poster",
+                            "Discussion_Id": "604635",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085273",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-07-01T12:33:42+02:00",
+                                    "Content": "Liebe Studierende,  hier nochmal einige Informationen zu den Anforderungen an euer Poster. Das Poster muss bis zum 15.07.2024 um 12:00 abgegeben sein. Euer Poster soll ein Research Poster sein. Es sollte mit kurzem Text und übersichtlichen Illustrationen euer Projekt zusammenfassen und dabei der üblichen Struktur wissenschaftlicher Arbeiten folgen. Ein Beispiel für ein gelungenes Research Poster könnt ihr hier finden: https://www.isit.fraunhofer.de/content/dam/isit/de/Documents20/best-poster-award/PRISMA_Poster_SIBIU_V3_Englisch.pdf Euer Poster sollte also keine Produktwerbung oder Ähnliches sein. Es soll objektiv veranschaulichen was ihr in diesem Semester geschafft habt und zu Diskussionen mit den Gästen der Poster Session einladen.  Viele Grüße, Julian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085823",
+                                    "Author": "Simon Arne Schwan",
+                                    "DateTime": "2024-07-02T14:52:41+02:00",
+                                    "Content": "Hallo zusammen,  die geplante Größe vom Poster ist A0.  Grüße Simon",
+                                    "Response to": "p1085273"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ablauf des restlichen Semesters",
+                            "Discussion_Id": "604169",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084562",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-06-28T08:43:34+02:00",
+                                    "Content": "Liebe alle,  weil sich ein paar Deadlines (zu euren Gunsten) verändert haben, gibt es hier nochmal eine kleine Zusammenfassung zum Ablauf des restlichen Semesters. Die Abgabe der dritten Version ist jetzt der 07.07.2024 um 23:59 Uhr. In der darauf folgenden Woche finden die Abnahmetests statt. Hier testen eure Betreuer euren Prototyp und geben euch anschließend Feedback. Das Feedback beinhaltet dann insbesondere die Aspekte, die ihr noch bis zum Ende des Praktikums anpassen solltet.  Am 15.07.2024 um 12:00 Uhr ist die Abgabe eures Posters für die große Poster Session. Am 18.07.2024 14:00-18:00 Uhr im H 3006 sind die Abschlusspräsentationen. Der Ablauf ist ähnlich zu dem 1. und 2. Meilenstein. Einen genauen Ablaufplan schreibe ich noch zu einem späteren Zeitpunkt in dieses Forum. Die Anwesenheit ist Pflicht. Am 23.07.2024 15:00-17:00 Uhr im H 3006 / H 3007 ist die Poster Session mit den anderen Fachgebieten. Bitte seid auch hier früh genug da um bis 15:00 Uhr alles aufgebaut zu haben. Plant außerdem zusätzlich Zeit zum abbauen ein. Bis 18:00 Uhr sollten wir mit dem Abbauen fertig sein. Die Anwesenheit ist Pflicht. Die finalen Rücksprachen zum Praktikum finden nach Absprache mit eurem Betreuer individuell statt Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Rücksprachen mit Betreuern nächste Woche",
+                            "Discussion_Id": "601895",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081303",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-06-18T16:25:25+02:00",
+                                    "Content": "Liebe Studierende,  unser Fachgebiet befindet sich nächste Woche (ab 24.06.2024) auf Dienstreise. Deshalb werden kommende Woche keine Rücksprachen mit den Betreuern stattfinden. Bitte sprecht euch mit euren Betreuern ab, falls ihr das Treffen in der darauf folgenden Woche nachholen wollte.  Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kabel und Netzteil gefunden",
+                            "Discussion_Id": "600965",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079965",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-06-13T18:23:16+02:00",
+                                    "Content": "Hallo alle,   nach den Präsentationen wurde heute ein Netzteil + Kabel im Raum H3006 gefunden. Anscheinend hat das jemand dort vergessen. Ich habe es beim Pförtner abgegeben und es kann dort abgeholt werden.   Viele Grüße,  Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Meilenstein",
+                            "Discussion_Id": "599719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078120",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-06-07T20:32:37+02:00",
+                                    "Content": "Liebe Studierende,  am kommenden Donnerstag (13.06.) sind die Vorträge für dem zweiten Meilenstein. Die Vorträge finden 14:00-18:00 im H 3006 statt. Es besteht Anwesenheitspflicht. Das Format der Vorträge ist wie beim ersten Meilenstein. Bitte vergesst nicht eure Folien vor den Vorträgen auf Isis abzugeben.  Ablaufplan: - 14:15 Gruppe A1 - 14:45 Gruppe A2 - 15:15 Gruppe C - 16:00 Gruppe D - 16:30 Gruppe B  Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Meilenstein",
+                            "Discussion_Id": "594011",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069470",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-05-13T12:37:38+02:00",
+                                    "Content": "Liebe Studierende,  am kommenden Donnerstag (16.05.) sind die Vorträge für den ersten Meilenstein. Die Vorträge finden 14:00-18:00 vor Ort statt. Leider konnte ich keinen Raum finden, der groß genug und für beide Blöcke verfügbar ist. Deshalb werden wir nach dem ersten Block gemeinsam den Raum wechseln. Wir planen für jeden Vortrag 20 Minuten + 10 Minuten Fragerunde ein. Bitte seid in beiden Blöcken anwesend.  Räume: MAR 0.011 (14:00-16:00) und A 053 (16:00-18:00)  Ablaufplan: - 14:15 Gruppe A1 - 14:45 Gruppe A2 - 15:15 Gruppe C  - 16:00 Gruppe D - 16:30 Gruppe B  Viele Grüße, Julian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070722",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-05-16T06:32:59+02:00",
+                                    "Content": "Liebe Studierende,  bitte vergesst nicht eure Folien auch hier auf Isis für den ersten Meilenstein als PDF hochzuladen.  Viele Grüße, Julian",
+                                    "Response to": "p1069470"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schlüssel für E101 verfügbar",
+                            "Discussion_Id": "591943",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066187",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-05-03T07:40:54+02:00",
+                                    "Content": "Liebe Studierende,  die Gruppen der Themen A und B können ab jetzt den Raum E101 selbstständig nutzen. Dafür könnt ihr euch den Schlüssel beim Pförtner im EN-Gebäude gegen Vorlage eures Ausweises abholen. Wichtig: es gibt nur einen Schlüssel. Falls er also bereits ausgegeben ist, sollte der Raum offen sein. Schließt den Raum nach Benutzung immer ab und gebt den Schlüssel wieder beim Pförtner ab. Für den Raum E 205 werden wir hoffentlich auch zeitnah einen Schlüssel haben.  Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Terminfindung Thema B",
+                            "Discussion_Id": "589043",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061744",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-23T16:53:02+02:00",
+                                    "Content": "Liebe Studierende aus dem Thema Robot Maze, falls noch nicht geschehen, abonniert bitte das entsprechende Gruppenforum. Es gibt nun eine Umfrage zur Terminfindung, die ihr bis morgen Abend ausfüllen müsst. Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Pflichtenheft",
+                            "Discussion_Id": "588927",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061558",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-04-23T14:12:23+02:00",
+                                    "Content": "Liebe Studierende,  die Abgabe des Pflichtenhefts ist eine Woche nach eurem ersten Treffen mit eurem Betreuer fällig. Im Folgenden liste ich die resultierenden Fristen der einzelnen Gruppen:  Gruppe A1: 30.04.24, 23:59 Uhr (einen Tag mehr, da Gruppenbildung nicht gleich funktioniert hat) Gruppe A2: 29.04.24, 23:59 Uhr Gruppe B1: 30.04.24, 23:59 Uhr Gruppe B2: 30.04.24, 23:59 Uhr Gruppe C: 02.05.24, 23:59 Uhr Gruppe D: 30.04.24, 23:59 Uhr  Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung Team Maze: heute 12:15 im MAR 0.009",
+                            "Discussion_Id": "588821",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061404",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-23T11:39:23+02:00",
+                                    "Content": "Liebes Maze-Team, leider gibt es kurzfristig eine Raumänderung für unser Treffen später. Dies ist nicht im E205, sondern im MAR 0.009. Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung und Erstes Treffen der Gruppen von Thema B",
+                            "Discussion_Id": "588646",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061146",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-22T20:10:32+02:00",
+                                    "Content": "Liebe Studierende,  bitte beachtet zur Gruppeneinteilung für das Thema B und Informationen zum ersten Treffen meinen Post im Gruppenforum B. Informationen, welche euch betreffen, werden ab jetzt in diesem Forum gepostet.  Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gemeinsamer Termin der beiden Gruppen des Thema C",
+                            "Discussion_Id": "587807",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059755",
+                                    "Author": "Milko Monecke",
+                                    "DateTime": "2024-04-19T17:02:19+02:00",
+                                    "Content": "Hallo an die Gruppen des Thema C, wegen der Überschneidung mit anderen Veranstaltungen haben wir unser gemeinsames Treffen alle zusammen nun montags von 10:30-11:30 (s.t.), da wir erfahrungsgemäß mit 30min am Anfang nicht hinkommen. Den Ort gebe ich noch bekannt. Danke an alle die zeitnah abgestimmt haben. In der kommenden Woche wird es für diesen gemeinsamen Termin noch eine Ausnahme geben. Dieser wird am Donnerstag den 25.04. um 12:30 per zoom stattfinden (Link zum Zoom). Viele Grüße Milko",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwahl Thema A und erstes Treffen am Montag",
+                            "Discussion_Id": "587780",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059712",
+                                    "Author": "Julian Balthasar Henri Klein",
+                                    "DateTime": "2024-04-19T16:18:44+02:00",
+                                    "Content": "Liebe Studierende,  diese Nachricht betrifft euch nur, wenn ihr Thema A: Smarte Mülltonne habt.  Ich hatte ja bereits eine Mail mit der Bitte geschrieben, dass ihr mir eure Terminpräferenzen schreibt. Die meisten haben das auch gemacht und es zeichnet sich ab, dass nur sehr wenige Studierende zum ersten Termin (10:30 Uhr) können. Wahrscheinlich müssen wir also nochmal einen neuen Termin für A1 finden. Kommt also bitte am Montag erstmal zu dem Termin, der für euch passt und alles Weitere besprechen wir dann.  Schreibt mir bitte eine Mail, falls ihr doch am Montag um 10 Uhr könnt.  Die Treffen am Montag finden auf Zoom unter folgendem Link statt: https://tu-berlin.zoom.us/j/62719599201?pwd=ZWg0TmFNWE5DZ2lBVVNkY0FkU3k3Zz09 Passcode: 498093  Viele Grüße, Julian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwahl Thema B",
+                            "Discussion_Id": "587585",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059407",
+                                    "Author": "Wolffhardt Schwabe",
+                                    "DateTime": "2024-04-19T10:37:53+02:00",
+                                    "Content": "Liebe Studierende, nach Absprache mit den Anwesenden Teilnehmern des Robot Maze im Kick-Off gestern, erfolgt die Gruppenaufteilung nun wie folgt: Eine der Gruppen baut das Maze, die andere programmiert den Roboter. Beide Gruppen müssen sich bzgl. der Anforderungen eng miteinander abstimmen, da das Projekt nur in Koordination gelingen kann. Da der Remote Client sowohl mit dem Maze als auch mit dem Roboter kommunizieren soll, wird dieser von beiden Gruppen gemeinsam entwickelt. In beiden Gruppen wird programmiert (die Maze-Gruppe vmt. mit Arduino, oder nach Rücksprache evt. mit Raspberry Pi; die Robot-Gruppe mit Raspberry Pico). Die Robotergruppe wird jedoch sicher etwas mehr programmieren, während bei der Maze-Gruppe Lust auf's Basteln gefragt ist. Auf Rückfrage können notwendige Materialien wie bspw. Holz aus dem Baumarkt bereitgestellt werden. Infos zum Roboter und den verfügbaren Sensoren findet ihr hier: https://www.waveshare.com/wiki/PicoGo Da gestern bereits Leute für die Gruppenzuordnung abgestimmt hatten, bevor der Aufteilungsplan angepasst wurde, habe ich die Umfrage nochmal resettet. Alle Teilnehmer von Thema B müssen daher ab jetzt nochmal abstimmen, um ihre Gruppenpräferenz (Robot vs. Maze) anzugeben. Ihr könnt nur abstimmen, wenn ihr dem Thema per Meta-Kurs zugewiesen wurdet. Falls ich bei dieser Freischaltung jemanden vergessen habe, meldet euch bitte. Und sollte irgendjemand von euch nicht am Praktikum teilnehmen können oder wollen, sagt mir bitte schnellstmöglich Bescheid, damit ich euren Platz noch an Nachrücker verteilen kann und die Gruppen groß genug bleiben.  Es gab gestern auch zwei Einwände bzgl. der Gruppentermine am Dienstag. Ich bin da flexibel, von meiner Seite aus können wir diese z.B. auch auf Mittwoch legen. Diesbzgl. würde ich dann bald nochmal eine Umfrage starten. Ich bin jedenfalls optimistisch, dass wir eine Lösung finden.  Viele Grüße, Wolffhardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

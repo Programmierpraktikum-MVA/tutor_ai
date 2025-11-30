@@ -1,0 +1,32 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] ZIFG - Gender und Organisation",
+        "Course_id": "37179",
+        "Forums": [
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Thesenpapiere + Diskussion",
+                    "Forum_id": "1822759",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Thesenpapier Topher Lack",
+                            "Discussion_Id": "602013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081485",
+                                    "Author": "John Christopher Lack",
+                                    "DateTime": "2024-06-19T10:21:38+02:00",
+                                    "Content": "Im Anhang mein Thesenpapier zu Joan Acker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

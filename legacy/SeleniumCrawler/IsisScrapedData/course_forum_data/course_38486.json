@@ -1,0 +1,172 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Smart Home",
+        "Course_id": "38486",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1792929",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Terminverlegung montags 16:00 - 18:00",
+                            "Discussion_Id": "585714",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056676",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-04-13T21:59:34+02:00",
+                                    "Content": "Liebe Studierende, auf Grund eines Terminkonflikts mit einer Pflichtveranstaltung wird die  Veranstaltung auf montags 16:15 - 17:45 verschoben. Die Veranstaltung startet damit am kommenden Montag, 15.4.2024 um 16:15 im Raum H20233. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde ",
+                            "Discussion_Id": "603596",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083755",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-25T19:55:44+02:00",
+                                    "Content": "Liebe Studierende, für Fragen zur Hausarbeit biete ich zwei Sprechstundentermine an:  Montag, 1.7. 16:00 - 17:00 Dienstag 9.7. 13:00 - 14:30 Mein Büro befindet sich im TK Gebäude, Eingang 1, Raum 101. Bitte kurze Mail vorab bis spätestens am Sprechstundentag um 9 Uhr. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hinweis zu Hausaufgabe 2",
+                            "Discussion_Id": "603593",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083752",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-25T19:51:54+02:00",
+                                    "Content": "Liebe Studierende, ich habe soeben die Aufgabenstellung zu Hausaufgabe 2 aktualisiert und einen Hinweis zur Nutzung der Vorhersagedaten der OpenMeteo Anwendung ergänzt. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vergessene Netzteile",
+                            "Discussion_Id": "603525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083654",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-25T17:00:37+02:00",
+                                    "Content": "Hallo, in unserem heutigen Veranstaltungsraum sind zwei Netzteile liegengeblieben: asus Netzteil Drogerie Müller Handynetzteil  Beide können ab morgen zwischen 9:00 und 14:30 (abwesend ca. 12:00 -. 13:00 Uhr) in meinem Büro im TK Gebäude, Eingang 1, Raum 101 abgeholt werden. Ab 14:30 werden ich sie in meinem Postfach am Hermann-Rietschel Institut hinterlegen, so dass sie dann dort abgeholt werden können.  Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergänzung zu Hausaufgabe 1",
+                            "Discussion_Id": "603256",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083311",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-25T07:11:00+02:00",
+                                    "Content": "Liebe Studierende, in Hausaufgabe 1 ist die Größe appliances auf Basis der anderen zur Verfügung stehenden Messgrößen vorherzusagen. Die Größe appliances ist nicht auf Basis von sich selbst vorherzusagen. Die relevanten Variablen sind damit von Ihnen aus den folgenden Größen auszuwählen. date : Datum year-month-day hour:minute:second lights : Energieverbrauch der Beleuchtung im Haus, in Wh T1 : Innentemperatur im Haus, in Grad Celsius RH_1 : relative Luftfeuchtigkeit im Haus, in % T_out : Außentemperatur, in Grad Celsius Press_mm_hg : Luftdruck, in mm Hg RH_out :relative Außenluftfeuchte, in % Wind speed: Windgeschwindigkeit, in m/s Visibility :Sichtweite, in km Tdewpoint : Taupunkttemperatur, in Grad Celsius Rv1 : Zufallsvariable 1, non-dimensional Rv2 : Zufallsvariable 2, non-dimensional  Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Multiple-Choice Test online",
+                            "Discussion_Id": "603255",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083310",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-25T07:05:45+02:00",
+                                    "Content": "Liebe Studierende, der Multiple-Choice Test wird Ihnen am 5.8.2024 online in der Zeit zwischen 14:30 - 15:30 über isis zur Verfügung stehen. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WICHTIG: Veranstaltung Montag, 24.6. beginnt um 12:30",
+                            "Discussion_Id": "602510",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082183",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-21T01:46:03+02:00",
+                                    "Content": "Liebe Studierende, auf Grund eines erneuten Veranstaltungskonflikts für die Studierenden der Gebäudeenergiesysteme beginnt die Veranstaltung am kommenden Montag, 24.6. nicht wie geplant um 9:00 Uhr, sondern erst um 12:30 Uhr. Bitte installieren Sie vorab daher schon alleine zu Hause openHAB auf Ihrem Laptop. Eine Installationsanleitung finden Sie unter dem Termin. Die Veranstaltung findet am Montag und Dienstag statt am Einstein Center Digital Future Wilhelmstr. 67 10117 Berlin Großer Saal im 1. OG Siehe genaue Lage auch die Folie unter VL09. Bitte denken Sie daran Ihren Laptop mitzubringen. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung noch einmal bis 19.6. geöffnet",
+                            "Discussion_Id": "601053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080107",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-14T11:31:20+02:00",
+                                    "Content": "Liebe Studierende, wer vergessen hat sich zur Prüfung anzumelden hat einmalig noch einmal die Möglichkeit dies bis 19.6.2024 nachzuholen. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Berichtsumfang der Hausaufgabe",
+                            "Discussion_Id": "601050",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080104",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-14T11:26:30+02:00",
+                                    "Content": "Liebe Studierende, mich hat die Frage erreicht, wie umfangreich der Bericht zur Hausarbeit sein muss. Die Fragen gerne kurz und prägnant beantworten. Bitte achten Sie aber darauf Ihre Antworten nachvollziehbar zu begründen. Nutzen Sie hierfür auch gerne Screenshots der erzielten Vorhersageergebnisse. Ein Umfang von 3 - 4 Seiten sollte ein typischer Rahmen sein. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Jupyter Notebook für Hausaufgabe",
+                            "Discussion_Id": "598677",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076638",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-06-03T19:27:21+02:00",
+                                    "Content": "Da es noch Probleme beim Herunterladen des Jupyter Notebooks aus isis für die Hausaufgabe gab, liegt dieses jetzt gezippt zum Download abgelegt. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage zu Terminverlegung auf montags 16:00 - 18:00",
+                            "Discussion_Id": "584362",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054720",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-04-02T11:23:05+02:00",
+                                    "Content": "Liebe Studierende, mich haben mehrere Rückmeldungen erreicht, dass der aktuelle Vorlesungstermin mit der Pflichtveranstaltung Innenraumklima im Studiengang Gebäudenergiesysteme kollidiert. Als Alternative kann ich eine Verschiebung auf montags 16:00 - 18:00 anbieten. Um zu klären, ob diese Verschiebung für Sie passt, möchte ich Sie bitten an der auf der Hauptseite geschalteten Umfrage teilzunehmen. Die Umfrage läuft bis Donnerstag, 11. April 23:59. Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Semesterplan",
+                            "Discussion_Id": "584307",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054634",
+                                    "Author": "Rita Streblow",
+                                    "DateTime": "2024-04-01T14:47:55+02:00",
+                                    "Content": "Liebe Studierende, die Veranstaltung beginnt am 15.4.2024. Die komplette Terminübersicht für das Semester finden Sie hier https://isis.tu-berlin.de/pluginfile.php/3170760/mod_forum/post/1054634/Semesterplan.jpg Viele Grüße Rita Streblow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

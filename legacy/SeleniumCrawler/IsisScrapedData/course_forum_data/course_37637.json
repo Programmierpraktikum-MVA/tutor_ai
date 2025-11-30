@@ -1,0 +1,347 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Integraltransformationen und partielle Differentialgleichungen für Ingenieurwissenschaften",
+        "Course_id": "37637",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766226",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall von Lucies Tutorien und Sprechstunde Mittwoch 10.7.",
+                            "Discussion_Id": "606538",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087981",
+                                    "Author": "Lucie Heider",
+                                    "DateTime": "2024-07-09T11:14:44+02:00",
+                                    "Content": "Hallo nochmal, mir geht es heute leider schlechter und ich werde meine Tutorien morgen ebenfalls nicht halten können.  Bitte weicht, falls es irgendwie geht, unbedingt auf andere Tutorien aus, damit ihr nichts verpasst.  Viele Grüße, Lucie ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall von Lucies Tutorium Dienstag 9.7.",
+                            "Discussion_Id": "606422",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087800",
+                                    "Author": "Lucie Heider",
+                                    "DateTime": "2024-07-08T20:37:43+02:00",
+                                    "Content": "Hallo liebe Leute, ich habe leider seit heute sehr starke Halsschmerzen, weswegen daher meine Tutorien morgen 9.7. um 10:00 und um 12:00 ausfallen müssen. Bitte weicht auf andere Tutorien aus, um den Stoff nicht zu verpassen.  Wegen meiner Mittwochstutorien werde ich noch einmal morgen eine Ankündigung machen. Ich bin aber optimistisch, dass es meinem Hals bis dahin wieder besser geht und sie wie gewohnt stattfinden können.  Viele Grüße, Lucie ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde am 5. Juli 2024",
+                            "Discussion_Id": "605581",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086615",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-07-04T15:51:52+02:00",
+                                    "Content": "Liebe Studierende, die morgige Sprechstunde am 5. Juli 2024 fällt leider ersatzlos aus. Viele Grüße Robert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutor:in am Institut für Mathematik",
+                            "Discussion_Id": "604852",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085608",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-07-02T07:56:23+02:00",
+                                    "Content": "Liebe Studierende, das Institut für Mathematik sucht neue Tutor:innen. Die Bewerbungsfrist ist der 15. Juli 2024, alle Informationen zum Bewerbungsprozess findet ihr hier: https://www.tu.berlin/go164842 Wir freuen uns auf eure Bewerbungen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "602433",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082069",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-06-20T16:23:56+02:00",
+                                    "Content": "Liebe Studierende, bis zum 29. Juni 2024 findet die Evaluationen der Lehrveranstaltung ITPDG statt. Wenn ihr heute in der Vorlesung oder in den Tutorien nicht teilnehmen konntet, findet ihr die Links zu den beiden Umfragen jeweils in den Abschnitten \"Vorlesung\" und \"Tutorien\" auf ISIS. Bitte beachtet, dass es zwei Umfragen gibt. Die erste betrifft nur die Vorlesung und die zweite nur den Übungsbetrieb in den Tutorien. Wir würden uns freuen, wenn möglichst viele von euch teilnehmen. Viele Grüße Robert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde von Lucie ",
+                            "Discussion_Id": "599046",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077167",
+                                    "Author": "Lucie Heider",
+                                    "DateTime": "2024-06-05T09:50:40+02:00",
+                                    "Content": "Meine Sprechstunde fängt heute 15 min später an. Entschuldigt die Verspätung.  Liebe Grüße, Lucie ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde heute",
+                            "Discussion_Id": "598770",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076766",
+                                    "Author": "Malte Goldau",
+                                    "DateTime": "2024-06-04T10:15:55+02:00",
+                                    "Content": "Wegen Verspätungen bei der U-Bahn beginnt die Sprechstunde heute 10 bis 15 Minuten später.  Bis gleich, Malte",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium am 30. Mai, 10-12 Uhr",
+                            "Discussion_Id": "597703",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075209",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-05-29T16:35:13+02:00",
+                                    "Content": "Liebe Studierende, morgen (30. Mai) wird mein Tutorium 10-12 Uhr leider ausfallen. Solltet ihr hiervon betroffen sein, geht eure Hausaufgaben bitte direkt in der Vorlesung ab oder sendet mir diese bitte per Mail zu. (Diese Möglichkeit betrifft nur Studierende aus meinem Tutorium. Die restlichen Abgaben haben wie üblich in den Tutorien zu erfolgen.) Ebenso wird meine Sprechstunde am Freitag, den 31. Mai ausfallen. Beste Grüße Robert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium am 20.05",
+                            "Discussion_Id": "594925",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070899",
+                                    "Author": "Lucas Philipp Burggraf",
+                                    "DateTime": "2024-05-16T13:19:21+02:00",
+                                    "Content": "Am 20.05 ist Feiertag, also entfällt dort mein Tutorium. Besucht dann bitte ein anderes Tutorium nächste Woche um den Stoff nicht zu verpassen:)  Hausaufgaben könnt ihr dann gerne in meinem anderen Tutorium oder in meiner Sprechstunde abgeben. Alternativ könnt ihr auch in einem beliebigen Tutorium die HA Abgaben, wobei diese dann klar beschriftet werden müssen, dass sie für mich sind. Zur Not könnt ihr nächste Woche auch einmalig per Email abgeben, wenn keine der anderen Optionen für euch klappt:) Viel Spaß euch beim verlängerten Wochenende! ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium heute 12-14 Uhr Raumänderung",
+                            "Discussion_Id": "594902",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070860",
+                                    "Author": "Malte Goldau",
+                                    "DateTime": "2024-05-16T12:19:55+02:00",
+                                    "Content": "Hallo Leute,  Es gibt diese Woche wohl ein Raumproblem. Da der MA 750 aktuell frei ist, findet das Tutorium jetzt im MA 750 statt.  Malte",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Christi Himmelfahrt (9. Mai 2024)",
+                            "Discussion_Id": "591876",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066080",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-05-02T19:16:43+02:00",
+                                    "Content": "Liebe Student:innen, am nächsten Donnerstag ist wieder ein Feiertag (Christi Himmelfahrt). Daher entfallen die Vorlesung, Tutorien und Sprechstunden am 9. Mai 2024. Die Tutorien und Sprechstunden an den anderen Tagen finden wie gewohnt statt und ihr könnt ersatzweise gerne an einem anderen Tutorium teilnehmen.  Ebenso könnt ihr eure Hausaufgaben wieder in einem beliebigen anderen Tutorium oder Sprechstunde abgeben. Wenn euch dies nicht möglich ist, dürft ihr ausnahmsweise die Hausaufgabe per Mail einreichen. Viele Grüße Robert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Lucas",
+                            "Discussion_Id": "590873",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064553",
+                                    "Author": "Lucas Philipp Burggraf",
+                                    "DateTime": "2024-04-29T15:38:18+02:00",
+                                    "Content": "Meine Sprechstunde findet diese Woche einmalig am Freitag von 12:00 s.t. bis 13:30 statt im Raum MA 643. Dort können auch Hausaufgaben für mein Mittwochs Tutorium abgegeben werden:)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Feiertag am Mittwoch, HA-Abgaben ",
+                            "Discussion_Id": "590814",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064466",
+                                    "Author": "Lucie Heider",
+                                    "DateTime": "2024-04-29T14:30:43+02:00",
+                                    "Content": "Hallo liebe Studis,  diesen Mittwoch ist Feiertag und daher fallen leider alle Tutorien, die da stattfinden, diese Woche aus. Das ist natürlich doof, weil das die ersten HA-Abgaben verkompliziert, und daher haben Lucas und ich, deren Tutorien betroffen sind, uns überlegt, dass wir diese Woche von allen betroffenen Studierenden online-Abgaben per Mail (an die email-Adressen auf Isis) akzeptieren. Ein weiterer Weg ist, in ein anderes Tutorium auszuweichen und dort die HA abzugeben. Falls ihr dann aber bei einem anderen Tutor seid, dann beschriftet eure Abgaben bitte deutlich mit Lucas oder meinem Namen, sodass erkennbar ist, an wen die HA eigentlich abzugeben ist. Die HA wird an uns weitergereicht, die Korrektur könnte sich dann aber ggf. etwas verzögern, je nach dem wann das passiert.  Ab nächste Woche ist dann ein Glück wieder alles normal und einfach. Trotzdem wünschen wir euch einen schönen Feiertag!  Viele Grüße,  Lucas und Lucie ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden Raum Änderung ",
+                            "Discussion_Id": "589761",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062878",
+                                    "Author": "Lucas Philipp Burggraf",
+                                    "DateTime": "2024-04-25T11:59:03+02:00",
+                                    "Content": "Meine Sprechstunde gleich wird heute einmalig im MA 848 stattfinden",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Raumänderung",
+                            "Discussion_Id": "589246",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062092",
+                                    "Author": "Lucie Heider",
+                                    "DateTime": "2024-04-24T10:31:21+02:00",
+                                    "Content": "Hallo liebe Studierende, Da der Schlüssel zum Raum MA643 defekt ist, sitze ich nun im Raum MA644. Wenn ihr Fragen habt, kommt bitte dorthin.  Viele Grüße, Lucie ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zu den Tutorien",
+                            "Discussion_Id": "586340",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057594",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-04-16T11:52:26+02:00",
+                                    "Content": "Liebe Studierende, bitte denkt daran, dass ihr für die Zulassung zur Prüfung das Hausaufgabenkriterium aus den Tutorien erfüllen müsst. Um für ein Tutorium eingeteilt zu werden, könnt ihr euch noch bis morgen, Mi 17.04.2024, 18:00 Uhr, über MOSES anmelden. Beste Grüße Robert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Vorlesungsforum",
+                    "Forum_id": "1827791",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VL 11 Mitschrift - PDGL ",
+                            "Discussion_Id": "606046",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087285",
+                                    "Author": "Jonas Engler",
+                                    "DateTime": "2024-07-08T09:10:01+02:00",
+                                    "Content": "Hallo,  könnten sie noch die Mitschrift der Vorlesung zu partiellen Differentialgleichungen hochladen?  LG  Jonas Engler",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088041",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-07-09T12:42:58+02:00",
+                                    "Content": "Leider wurde die Mitschrift beim letzten Mal nicht richtig exportiert. Ich werde es am Donnerstag nach der Vorlesung nochmals versuchen, und die Mitschrift dann hoffentlich hochgeladen können. Viele Grüße, Robert",
+                                    "Response to": "p1087285"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Skript \"Integraltransformationen\" - Typo",
+                            "Discussion_Id": "602727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082502",
+                                    "Author": "Jonas Engler",
+                                    "DateTime": "2024-06-22T11:41:33+02:00",
+                                    "Content": "Moin,  bei der Definition vor Verschiebung für Laplace-Transformationen ist ein kleiner Typo. An der markierten Stelle müsste eine Funktion f oder g' hin. LG  Jonas Engler",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082789",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-06-24T09:21:05+02:00",
+                                    "Content": "Vielen Dank für den Hinweis. Da müsste ein f stehen. Habe die Stelle im Skript korrigiert.",
+                                    "Response to": "p1082502"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL 7",
+                            "Discussion_Id": "599628",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077991",
+                                    "Author": "Alisa-Oleksandra Kotliarova",
+                                    "DateTime": "2024-06-07T13:09:26+02:00",
+                                    "Content": "Hallo, ich möchte klären, ob die Mitschriften für die 7. Vorlesung hochgeladen werden könnten. Danke im Voraus.  BG, Alisa",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078077",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-06-07T16:58:39+02:00",
+                                    "Content": "Hallo Alisa habe ich gerade hochgeladen. Beste Grüße Robert",
+                                    "Response to": "p1077991"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsmitschrift 6 und tut 6 Lösungen ",
+                            "Discussion_Id": "598531",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076436",
+                                    "Author": "Yunus Niklas Hilal Öztürk",
+                                    "DateTime": "2024-06-03T13:14:15+02:00",
+                                    "Content": "Guten Tag,   Ich wollte nachfragen, ob die Mitschriften von der 6. Vorlesung  und die Lösungen vom 6.  Tutorium noch hochgeladen werden könnten?  Mit freundlichen Grüßen ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078076",
+                                    "Author": "Robert Beinert",
+                                    "DateTime": "2024-06-07T16:58:02+02:00",
+                                    "Content": "Hallo Yunus, die Vorlesungsmitschriften werden alle auf ISIS bereitgestellt. Durch die Vertretung letzte Woche hat sich das Hochladen allerdings verzögert. Ich werde versuchen die Lösungen zu den Tutorien und Hausaufgaben ebenfalls bereitzustellen. Aus zeitlichen Gründen kann sich das Erstellen der Musterlösungen allerdings noch etwas hinziehen. Viele Grüße Robert",
+                                    "Response to": "p1076436"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI Assistent ab sofort frei und kostenlos für alle",
+                            "Discussion_Id": "597520",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074933",
+                                    "Author": "Charalampos Tenis",
+                                    "DateTime": "2024-05-29T00:19:31+02:00",
+                                    "Content": "Hi zusammen,  ich freue mich, euch mitteilen zu können, dass unser neuer digitaler Assistent für \"ITPDG für Ing.\" ab sofort kostenfrei für alle verfügbar ist! Er wurde am Montag auf dem \"Alles KI?\"-Event an der TU Berlin mit der Anwesenheit des Präsidenten der Universität und vieler weiterer vorgestellt. Diese Tools sollen nicht nur die Arbeit der TU Tutoren erleichtern, sondern euch auch helfen, schneller und einfacher voranzukommen. Gebt uns bitte euer Feedback, wie wir den Assistenten weiter verbessern können, da wir ständig an der Feinabstimmung arbeiten.  Viele Grüße,  Harris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Hausaufgabenforum",
+                    "Forum_id": "1827795",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Suche nach Hausaufgabengruppe",
+                            "Discussion_Id": "595927",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072497",
+                                    "Author": "Yi-Hsin Hsu",
+                                    "DateTime": "2024-05-22T11:27:55+02:00",
+                                    "Content": "Hallo,  Sucht noch jemand eine HA-Gruppe? LG Yi-Hsin ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

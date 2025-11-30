@@ -1,0 +1,568 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Grundlagen der Regelungstechnik (Fakultät IV)",
+        "Course_id": "38128",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Fragen",
+                    "Forum_id": "1780651",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "reelle Punkte bei WOK",
+                            "Discussion_Id": "607653",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089600",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-07-13T20:00:55+02:00",
+                                    "Content": "Hallo GRT Team,  Bei den Übungen bzw. Übungsvideos werden Punkte auf der WOK die Nullstellen ODER Polstellen des open loops sind als Teil der WOK betrachtet, allerdings steht in der Theorie auf den Folien und im Skript, dass die gleichzeitig Pol- und Nullstellen sein müssen, um Teil der WOK zu sein. Es ist ein Fehler in der Theorie, richtig?  VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089615",
+                                    "Author": "Lukas Hardeweg",
+                                    "DateTime": "2024-07-13T21:53:58+02:00",
+                                    "Content": "Hallo Erik,  im Skript steht es wie folgt: \"Ein Punkt der reellen Achse gehört genau dann zur Wurzelortskurve, wenn er (i) gleichzeitig Pol und Nullstelle des offenen Kreises ist oder (ii) die Anzahl der rechts von ihm liegenden reellen Pole und Nullstellen des offenen Kreises ungerade ist.\" In den Übungen wurde die Theorie auch angewandt. Die Pole laufen für k gegen unendlich ja in die Nullstellen rein (solange sie nicht in RIchtung einer Asymptote laufen) . Das entspricht dann (i), d.h. der Punkt gehört dann auch zur Wurzelortskurve.  Viele Grüße Lukas",
+                                    "Response to": "p1089600"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kaskadenregelung",
+                            "Discussion_Id": "607202",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088907",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-07-11T14:05:38+02:00",
+                                    "Content": "Hallo, Ist Abschnitt 4.5 des Skripts für die LK2 relevant? VG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 7,1 e",
+                            "Discussion_Id": "605957",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087147",
+                                    "Author": "Rohit Singh Aale Magar",
+                                    "DateTime": "2024-07-07T12:30:24+02:00",
+                                    "Content": "ich habe diese aufgabe gelöst aber die lösung im vergleich zu die von lösungsblatt sieht anders aus? der Rechnungsteil habe ich richtig soweit ich denke aber WOK sieht anders aus. NS=2i,-2i; PS=0,i,-i und Polschwerpunkt auf 0. Asymptote richtung ist pi  in meiner WOK liegt alle PS und NS auf imaginäre achse. oder es gibt speziell Fall für e wäre super wenn die lösung auf lösungsblatt mir erklärt wurde. danke!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087230",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-07-07T21:59:27+02:00",
+                                    "Content": "Hallo, ich verstehe die Frage nicht ganz, in der Musterlösung liegen die Polstellen und Nullstellen auch auf der imaginären Achse. Willst du deine Lösung mal als Foto hier hochladen? Dann kann ich genauer darauf eingehen.  Gruß, Dustin",
+                                    "Response to": "p1087147"
+                                },
+                                {
+                                    "Message_id": "p1087811",
+                                    "Author": "Rohit Singh Aale Magar",
+                                    "DateTime": "2024-07-08T21:20:43+02:00",
+                                    "Content": "Die WOK sieht anders aus.",
+                                    "Response to": "p1087230"
+                                },
+                                {
+                                    "Message_id": "p1087825",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-07-08T21:56:20+02:00",
+                                    "Content": "Hallo, Du hast mehrere Fehler: 1. deine WOK ist nicht symmetrisch zur reellen Achse 2. deine m Polstellen laufen nicht in die m Nullstellen  3. deine Asynptote ist vom Polschwerpunkt nicht in Richtung Pi gezeichnet.  Die WOK in der Musterlösung ist richtig.  Gruß",
+                                    "Response to": "p1087811"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abbildung 5 in der Computerübung 3",
+                            "Discussion_Id": "604397",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084906",
+                                    "Author": "Andres Alberto Rodriguez Bernotti",
+                                    "DateTime": "2024-06-29T15:50:43+02:00",
+                                    "Content": "Moin,   ich brauche eine kleine Aufklärung bezüglich Abbildung 5 in der Computerübung 3. Das Bild soll \"Der geschlossene Regelkreis mit PI-Regler und Messfilter\" darstellen. Die Abbildung ist in diesem Beitrag eingefügt.  Bezeichnet das y auf dem Bild der Ausgang des Systems? Ist y auf dem Bild richtig platziert?   Ich habe mit einem roten x eine andere mögliche Stelle für den Ausgang des Systems markiert.  Man braucht dieses Blockschaltbild, um die Übertragungsfunktion des geschlossenen Regelkreises Qcl zu bestimmen. Dies ist für die Aufgabe 5.e) notwendig.   Ich habe Qcl mit beiden Möglichkeiten bestimmt und komme zu zwei Varianten, die leicht verschieden sind.  Was ist in Wirklichkeit gewünscht? Anmerkung: Für diese Übertragungsfunktionen habe ich angenommen, dass es keine Störungen gibt. Also, dass d=0 ist.   LG Andrés",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085277",
+                                    "Author": "Agnes Bezeczky",
+                                    "DateTime": "2024-07-01T12:34:53+02:00",
+                                    "Content": "Ich hatte mir die gleiche Frage gestellt, und würde mich über eine Klarstellung sehr freuen!",
+                                    "Response to": "p1084906"
+                                },
+                                {
+                                    "Message_id": "p1085583",
+                                    "Author": "Lukas Hardeweg",
+                                    "DateTime": "2024-07-01T23:41:31+02:00",
+                                    "Content": "Hallo Andres und Agnes, entschuldigt die späte Antwort. Für mich war der Einfluss des Messfilters auf Q c l auch nicht eindeutig. Aber die gemessene Größe, die du mit dem roten Kreuz markiert hast, beeinflusst die Übertragungsfunktion des geschlossenen Regelkreises. Es wird erst hinter dem Messfilter gemessen. Q c l = G ( s ) K ( s ) G f ( s ) 1 + G ( s ) K ( s ) G f ( s )",
+                                    "Response to": "p1084906"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Überprüfung der Testate",
+                            "Discussion_Id": "604056",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084400",
+                                    "Author": "Andres Alberto Rodriguez Bernotti",
+                                    "DateTime": "2024-06-27T14:26:11+02:00",
+                                    "Content": "Moin,   Könnte ihr bitte die richtigen Lösungen der Testate freischalten, damit man bei der Überprüfung erkennen kann, was falsch ist?  LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084430",
+                                    "Author": "Yura Min",
+                                    "DateTime": "2024-06-27T15:43:53+02:00",
+                                    "Content": "Hallo Andres,  du kannst gerne zum Tutorium kommen und deine Lösung mit der Musterlösung vergleichen.  LG Yura",
+                                    "Response to": "p1084400"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mitschriften Ü7",
+                            "Discussion_Id": "603887",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084166",
+                                    "Author": "Alisa-Oleksandra Kotliarova",
+                                    "DateTime": "2024-06-26T19:24:26+02:00",
+                                    "Content": "Hallo, hier fehlen noch die Mitschriften für die siebte Übung? Wenn könnten sie hochgeladen werden? Danke.  Alisa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themen Testat 3",
+                            "Discussion_Id": "603585",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083739",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-06-25T19:04:09+02:00",
+                                    "Content": "Hallo, Bei den Reglerentwurfs-Themen beim Testat 3 sind die Kapiteln 4.4.1 und 4.4.2 des Skriptes die relevanten? VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083850",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-06-26T09:37:29+02:00",
+                                    "Content": "Hallo,  in der Ankündigung steht doch, dass es um \"Reglerentwurf im Bodediagramm\" geht, d.h. ab dem Anfang vom Kap. 4 im Skript, bzw. wahrscheinlich noch relevanter alles in Übung 6.  Gruß, Dustin",
+                                    "Response to": "p1083739"
+                                },
+                                {
+                                    "Message_id": "p1083854",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-06-26T09:42:57+02:00",
+                                    "Content": "Danke dir sehr!",
+                                    "Response to": "p1083850"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde",
+                            "Discussion_Id": "601394",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080592",
+                                    "Author": "Mireille Bella Fotie Epse Mausehund",
+                                    "DateTime": "2024-06-17T10:29:09+02:00",
+                                    "Content": "Hallo liebes GRT-Team,  wann und wo werden Sprechstunden diese Woche bis Mittwoch  für GRT angeboten? Falls man bei  manchen Fehlermeldungen  bei CÜ bzw. bei der zu bewertenden Hausaufgaben nicht weiterkommt?                                                      Danke im voraus für Ihre Antwort                                                          MFG                                             Mireille Mausehund",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080639",
+                                    "Author": "Alexey Antsipkin",
+                                    "DateTime": "2024-06-17T11:14:21+02:00",
+                                    "Content": "Hallo,  ich wusste gar nicht, dass die CÜ bereits bewertet wurden. Wo könnte ich die Bewertung sehen?  Beste Grüße Alexey",
+                                    "Response to": "p1080592"
+                                },
+                                {
+                                    "Message_id": "p1080717",
+                                    "Author": "Mireille Bella Fotie Epse Mausehund",
+                                    "DateTime": "2024-06-17T12:45:18+02:00",
+                                    "Content": "Hi Alexey, bitte lies noch mal meine Nachricht.Ich habe in meiner nachricht von noch \"zu bewertenden Hausaufgaben/CÜ\" gesprochen und nicht von \"Bewerteten CÜ\" gesprochen.  Merci. MFG Mireille",
+                                    "Response to": "p1080639"
+                                },
+                                {
+                                    "Message_id": "p1080734",
+                                    "Author": "Lukas Hardeweg",
+                                    "DateTime": "2024-06-17T13:11:26+02:00",
+                                    "Content": "Hallo Mireille, du kannst deine Frage gerne hier im Forum stellen. Wir antworten dann auch gerne hier im Forum darauf. Extra Sprechstunden bieten wir außerhalb der Computerübung nicht an.  Viele Grüße, Lukas",
+                                    "Response to": "p1080592"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LK1",
+                            "Discussion_Id": "600968",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079971",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-06-13T18:35:26+02:00",
+                                    "Content": "Hallo :) Wann werden die Noten der ersten Leistungskontrolle veröffentlicht?  VG, Erick",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079978",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-06-13T18:47:30+02:00",
+                                    "Content": "Hallo, sobald wir die Leistungskontrollen kontrolliert haben, werden die Noten veröffentlicht und hier auf ISIS bekannt gegeben. Bitte noch ein wenig Geduld. Gruß, Dustin",
+                                    "Response to": "p1079971"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Computerübung 2 ff.",
+                            "Discussion_Id": "599727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078129",
+                                    "Author": "Nils Vincent Hoffmann",
+                                    "DateTime": "2024-06-07T21:40:16+02:00",
+                                    "Content": "Hallo,  bei mir werden im Jupiter Notebook keine Computerübungen nach der ersten angezeigt. Handelt es sich da um einen einfachen Fehler meinerseits oder eher um einen anderen? Schon im voraus, danke für die Antwort.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078200",
+                                    "Author": "Nils Vincent Hoffmann",
+                                    "DateTime": "2024-06-08T17:36:32+02:00",
+                                    "Content": "Hat sich erledigt.",
+                                    "Response to": "p1078129"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LK1 abwesenheit",
+                            "Discussion_Id": "599019",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077133",
+                                    "Author": "Rohit Singh Aale Magar",
+                                    "DateTime": "2024-06-05T08:59:45+02:00",
+                                    "Content": "hallo, ich war wegen krankheit in der LK1 nicht erschienen. so hatte ich Dustin nur per email darüber angekündigt. würde das schon ausreichend oder hätte ich auch meine krankschreibung zugeschickt? ich habe keine rückmeldung für das email bekommen. deswegen frage ich nochmal hier im forum VG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Rechenstab",
+                            "Discussion_Id": "598286",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076066",
+                                    "Author": "Luise Pawlak",
+                                    "DateTime": "2024-06-01T22:45:20+02:00",
+                                    "Content": "Darf man einen Rechenstab mit in die Prüfung nehmen?  Lg",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076197",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-06-02T21:27:44+02:00",
+                                    "Content": "Hallo, von mir aus darfst du einen benutzen. Ich bin mir ziemlich sicher, dass du ihn nicht brauchen wirst.  Gruß, Dustin",
+                                    "Response to": "p1076066"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "übung 2 auggabe 2,5",
+                            "Discussion_Id": "596806",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073821",
+                                    "Author": "Rohit Singh Aale Magar",
+                                    "DateTime": "2024-05-26T23:14:18+02:00",
+                                    "Content": "bei herleitung von R_ur habe ich so ergebnis: G_ur= G_strecke*G_regler\\1+G_strecke*G_regler*G_messglied der nicht mit Müsterlösung passt.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076006",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-31T23:18:10+02:00",
+                                    "Content": "Hallo,  ja hier schein tatsächlich ein Fehler in der Musterlösung zu sein.  Gruß, Dustin",
+                                    "Response to": "p1073821"
+                                },
+                                {
+                                    "Message_id": "p1076055",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-06-01T18:59:35+02:00",
+                                    "Content": "Kann auch sein dass die G(s) der Strecke auch nicht stimmt? Ich komme nicht auf die Musterlösung. Es ist y(t) in Abh. von u und Integral von u zu bestimmen, und dann mit Laplace für Integrale transformieren, richtig?",
+                                    "Response to": "p1076006"
+                                },
+                                {
+                                    "Message_id": "p1076063",
+                                    "Author": "Andres Alberto Rodriguez Bernotti",
+                                    "DateTime": "2024-06-01T21:17:07+02:00",
+                                    "Content": "Das ist nicht die gefragte Übertragungsfunktion. Deswegen bekommst du was anderes.  Sie wollen U(s)/R(s); nicht Y(s)/R(s).",
+                                    "Response to": "p1073821"
+                                },
+                                {
+                                    "Message_id": "p1076065",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-06-01T22:24:59+02:00",
+                                    "Content": "Stimmt natürlich, ich hab gar nicht auf die Aufgabe geschaut, sondern nur die angehängte Rechnung. Die ist richtig, nur nicht die in der Übung geforderte Übertragungsfunktion. Danke!",
+                                    "Response to": "p1076063"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fragen Übungen ",
+                            "Discussion_Id": "598230",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075976",
+                                    "Author": "Alisa-Oleksandra Kotliarova",
+                                    "DateTime": "2024-05-31T20:25:28+02:00",
+                                    "Content": "Hallo,  ich habe auch einige Fragen zu Übungen, und zwar: wie man ein Grundverhalten in A. 2.2 (d) bestimmt? wie sucht man G(s) für Regler in 2.5?  Danke im Voraus, Alisa",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076004",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-31T23:17:10+02:00",
+                                    "Content": "Hallo,  Aufgabe 2.2d zielt darauf ab, Verständnis für verschiedene physikalische Systeme zu haben. Du musst überlegen, wie der Zusammenhang zwischen Eingangs - und Ausgangsgröße ist und ob dieser integrierend, verzögernd oder proportional ist.  Zu Aufgabe 2.5: Du musst aus der Differentialgleichung die Übertragungsfunktion machen, wie wir es in der Übung gemacht haben.  Gruß, Dustin",
+                                    "Response to": "p1075976"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 5, Teil 1",
+                            "Discussion_Id": "598218",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075962",
+                                    "Author": "Bashar Kurtam",
+                                    "DateTime": "2024-05-31T19:34:42+02:00",
+                                    "Content": "Hallo, Ich habe eine Frage bezüglich der Übung 5, Teil 1. Könnten Sie bitte bestätigen, ob dieser Teil der Übung testrelevant ist? Vielen Dank!.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076001",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-31T22:57:15+02:00",
+                                    "Content": "Hallo, nein das ist nicht relevant für die erste LK.  Gruß, Dustin",
+                                    "Response to": "p1075962"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Geforderte Phasendrehung &gt; 2pi",
+                            "Discussion_Id": "598173",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075889",
+                                    "Author": "Tobias Scheib",
+                                    "DateTime": "2024-05-31T16:09:10+02:00",
+                                    "Content": "Hallo,  mich würde interessieren, ob bei einer geforderten Phasendrehung von z.B. 3pi eine so etwas wie eine effektive Phasendrehung von pi entsteht, sodass bei einer tatsächlichen Phasendrehung von pi das Nyquist-Kriterium erfüllt ist? Oder muss die tatsächliche Phasendrehung auch 3pi sein, damit die gleiche Winkelstrecke zurückgelegt wird?  Vielen Dank und Grüße, Tobias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076000",
+                                    "Author": "Lukas Hardeweg",
+                                    "DateTime": "2024-05-31T22:54:18+02:00",
+                                    "Content": "Hallo Tobias, die reale Phasendrehung muss für asymptotische Stabilität, gleich der geforderten Phasendrehung sein. Eine \"effektive\" Phasendrehung, wie du sie in deinem Beispiel bezeichnet hast, gibt es nicht. Viele Grüße, Lukas",
+                                    "Response to": "p1075889"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bode-Diagramm komplexe Nullstellen",
+                            "Discussion_Id": "598162",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075869",
+                                    "Author": "Paul Seefeldt",
+                                    "DateTime": "2024-05-31T15:25:00+02:00",
+                                    "Content": "Hallo, wie approximiert man im Bode-Diagramm die Dämpfung unterschiedlicher Zetas? In den Lösungen zur Übung 3 ist der Gain einfach immer mit einer Steigung von +/- 40 dB/dec angenähert, die Phase ist aber Zeta abhängig und fängt dementsprechend früher an und hört auch früher auf. Vielen Dank im vorraus Paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075999",
+                                    "Author": "Lukas Hardeweg",
+                                    "DateTime": "2024-05-31T22:48:44+02:00",
+                                    "Content": "Hallo Paul,  eine Vorschrift zur linearen Approximation von Zeta in Betrags- und Phasengängen, haben wir nicht gegeben. Grundsätzlich wird der Verlauf des Phasengangs im Berich der Knickfrequenz, für Zeta gegen Null jedoch steiler. Das kannst du aber gerne berücksichtigen. Ansonsten haltet euch an das Merkblatt: \"Geradenapproximation des Phasenganges im Bodediagramm\". Viele Grüße, Lukas",
+                                    "Response to": "p1075869"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fragen Vorlesungen",
+                            "Discussion_Id": "598227",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075972",
+                                    "Author": "Alisa-Oleksandra Kotliarova",
+                                    "DateTime": "2024-05-31T19:56:58+02:00",
+                                    "Content": "Hallo, ich habe ein Paar Fragen zur Theorie, und zwar: warum gibt es in Bode-Diagramm bei Affine Terme eine kleine Halbgerade im Amplitudengang? wie betrachten wir dann omega_i? warum gilt für quadratische Terme ein Regel, dass je mehr Ei an 0 strebt, desto \"spitzer\" ist der Grafik (s. 37)?  worum geht die kleine Zusammenfassung in s. 42? warum gibt es für jedere Üfkt mind. eine Üfkt. mit minimaler Phasendrehung? worum geht es in größem Absatz in s. 55? warum ist hier das System asymptotisch stabil? Danke im Voraus.   BG,  Alisa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tablet 1 LK",
+                            "Discussion_Id": "598078",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075747",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-05-31T10:49:58+02:00",
+                                    "Content": "Hallo, Kann man mit dem Tablett bei der LK auf all die Inhalte (Open Book) zugreifen, oder muss alles ausgedrukt werden? VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075752",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-31T11:01:51+02:00",
+                                    "Content": "Hallo, es dürfen keine elektronischen Hilfsmittel benutzt werden. Gruß, Dustin",
+                                    "Response to": "p1075747"
+                                },
+                                {
+                                    "Message_id": "p1075755",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-05-31T11:06:04+02:00",
+                                    "Content": "Ok. Sind dann die eigenen geschriebenen Zusammenfassungen aus den VL und Lösungen zu den Übungsblättern erlaubt? VG",
+                                    "Response to": "p1075752"
+                                },
+                                {
+                                    "Message_id": "p1075826",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-31T13:54:40+02:00",
+                                    "Content": "Alles ist erlaubt was auf Paper mitgebracht wird.  Gruß, Dustin",
+                                    "Response to": "p1075755"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mitschrift 5.Tutorium",
+                            "Discussion_Id": "598010",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075651",
+                                    "Author": "Jacob Ullrich",
+                                    "DateTime": "2024-05-30T20:19:18+02:00",
+                                    "Content": "Hallo, leider sind keine Mitschriften von der Großübung heute auf ISIS zu finden. Könnten diese eventuell noch für die Prüfungsvorbereitung hochgeladen werden? Das wäre sicher sehr hilfreich. Vielen Dank!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075699",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-31T09:11:42+02:00",
+                                    "Content": "Habe ich eben hochgeladen. Gruß, Dustin",
+                                    "Response to": "p1075651"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ü3 Aufgabe 1b Phasengang",
+                            "Discussion_Id": "597954",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075556",
+                                    "Author": "Alexander Jacobs",
+                                    "DateTime": "2024-05-30T15:41:32+02:00",
+                                    "Content": "Hallo GRT-Team,  warum wird bei 1b) der Phasengang durch arctan(Im(G)/Re(G)) berechnet und nicht durch  arctan(Im(G)/Re(G))+pi ?  G hat doch die Form -a-bi und liegt damit im dritten Quadranten.  Danke und VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075613",
+                                    "Author": "Alexander Jacobs",
+                                    "DateTime": "2024-05-30T17:39:45+02:00",
+                                    "Content": "Hat sich erledigt, habe die Fußnote erst jetzt gesehen.",
+                                    "Response to": "p1075556"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Computerübungen werden nicht angezeigt",
+                            "Discussion_Id": "595421",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071709",
+                                    "Author": "Laura Alice Leather",
+                                    "DateTime": "2024-05-20T11:33:38+02:00",
+                                    "Content": "Hallo, ich wollte mir gerade die 2. Computerübung anschauen, allerdings finde ich sie nirgends auf Jupyterhub. Unter Assingments ist nur die 0. und 1. Übung vorhanden. Wird das noch hogeladen oder ist dort ein Fehler..?  LG und danke im Voraus",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072369",
+                                    "Author": "Yura Min",
+                                    "DateTime": "2024-05-22T00:16:19+02:00",
+                                    "Content": "Hallo Laura,  2. Computerübung ist noch nicht freigeschaltet. Sie wird vor dem 2. Testat hochgeladen.  VG Yura",
+                                    "Response to": "p1071709"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "StuPo",
+                            "Discussion_Id": "594263",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069873",
+                                    "Author": "Rohit Singh Aale Magar",
+                                    "DateTime": "2024-05-14T10:43:23+02:00",
+                                    "Content": "Welche StuPo muss man auswählen während Prüfungsanmeldung? Ist das StuPo 2015 oder allg StuPo der TU? VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070456",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-15T12:49:30+02:00",
+                                    "Content": "Hallo,  das kann ich nicht sagen, das hängt von deiner StuPo und deinem Studiengang ab.  Gruß, Dustin",
+                                    "Response to": "p1069873"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Computerübung1 Zweimal auf \"Submit\" klicken",
+                            "Discussion_Id": "594283",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069911",
+                                    "Author": "Wenhao Ma",
+                                    "DateTime": "2024-05-14T11:40:32+02:00",
+                                    "Content": "Hallo, Es gibt zwei CÜ1 Eingaben in Jupyter, ich hätte zweimal auf Submit klicken sollten. Können Sie mir bitte helfen, eine davon zu löschen oder einfach zu ignorieren? Vielen Dank! Wenhao Ma",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070455",
+                                    "Author": "Dustin Marlon Lehmann",
+                                    "DateTime": "2024-05-15T12:48:44+02:00",
+                                    "Content": "Hallo, wer ist die zweite Person in deiner Gruppe? Schick mir bitte eine Mail mit euren Tu-Accountnamen, dann kann ich die Abgaben leichter finden/zuordnen. Danke!  Gruß, Dustin",
+                                    "Response to": "p1069911"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Auf 1.4",
+                            "Discussion_Id": "593373",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068431",
+                                    "Author": "Erick Sebastian Gaona Santana",
+                                    "DateTime": "2024-05-08T17:35:00+02:00",
+                                    "Content": "Hallo, Sind Anwendungsaufgaben wir die auf 1.4 die nicht in den Tutorien besprochen werden auch für die Klausur relevant bwz kommen Aufgaben dieser Art in der Klausur vor? Danke im Voraus",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068670",
+                                    "Author": "Lukas Hardeweg",
+                                    "DateTime": "2024-05-09T20:48:26+02:00",
+                                    "Content": "Hallo Erick,  inwiefern Aufgabetypen wie in 1.4 in der Klausur relevant sind, darauf wird Dustin bestimmt vor der Klausur nochmal eingehen. Ich denke das Anwendungsaufgaben der Übungsblätter sowie aus den Computerübungen für die Motivation grundsätzlich interessant sind.  Viele Grüße, Lukas",
+                                    "Response to": "p1068431"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Computerübung 1 Frage 7.2",
+                            "Discussion_Id": "593491",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068624",
+                                    "Author": "Andres Alberto Rodriguez Bernotti",
+                                    "DateTime": "2024-05-09T15:13:24+02:00",
+                                    "Content": 

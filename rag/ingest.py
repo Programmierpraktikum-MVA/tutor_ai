@@ -1,0 +1,2 @@
+#TODO end to end ingestion: parse -> chunk -> embed -> qdrant upsert -> record source in mongo
+# Uses rag/parsers/*, rag/chunkers.py, llm/embeddings.py, db/qdrant.py, db/mongo.py. Triggered by bot/handlers.py

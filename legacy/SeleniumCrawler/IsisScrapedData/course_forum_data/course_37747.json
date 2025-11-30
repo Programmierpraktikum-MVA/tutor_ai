@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Einführung in das interaktive Theorembeweisen (Isabelle-Lab)",
+        "Course_id": "37747",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767671",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "WRaP Seminar SoSe2024",
+                            "Discussion_Id": "585250",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056005",
+                                    "Author": "Nadine Karsten",
+                                    "DateTime": "2024-04-10T11:24:41+02:00",
+                                    "Content": "Summer 2024, 3 credit points, MSc. Computer Science The WRaP seminar is about turning existing research into publishable papers. The foundation for this is the participants’ previous research work in concurrency theory or related fields. Together with others, you’ll write your (likely) very first papers with help from our group. In the hands-on setting, we’ll also talk about best practices, reviews, and publication processes in computer science in general. The seminar requires you to bring your research to the table. Usually this may stem from: A project or seminar you took (e.g. MTV-RaW). Preferably, you still have contact to your collaborators and those who taught the class. Your Bachelor thesis (usually MTV / LaS / AKT). Ideally, your previous supervisors are ready to also advise your paper production. Moreover, MTV has some interesting work in the drawer from past theses by others that could be made into publications.[1] During the seminar, it’s also possible to jump onto another participant’s bandwagon, and author a paper on their research with them. The seminar only takes place if there is sufficient demand from students who can contribute existing unpublished research. So, if you want to participate, let benjamin.bisping@tu-berlin.de know by 2024-04-14! Please also include information on the research that you want to paperfy. We’ll let you know by 2024-04-16, in what form the seminar can take place.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

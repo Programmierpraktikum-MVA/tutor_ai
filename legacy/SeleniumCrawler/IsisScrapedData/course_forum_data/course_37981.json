@@ -1,0 +1,190 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Parameterized Algorithmics",
+        "Course_id": "37981",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1774676",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "no lecture next week Friday, 19.07.",
+                            "Discussion_Id": "607448",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089271",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-07-12T11:38:36+02:00",
+                                    "Content": "Dear participants, as announced in the presence meetings, there will be no meeting next Friday. During this time there is a meeting about the bachelor/master computer science degree in general. The meeting is online and open also to students. The meeting is in German though. Below I copy the invitation by Uwe Nestmann. Best, André  ===================================================  Liebe Adressat:innen,   als aktueller Studiengangsbeauftragter lade ich Sie/Euch hiermit zur 2. Lehrkonferenz 2024 für Informatik / Computer Science ein. Sie findet wieder an unserem Standardtermin (letzter Freitag der VL-Zeit, 10:15-12:00 Uhr) statt.    Die SoSe-Lehrkonferenz steht nicht unter dem Motto Qualitätsmanagement, so dass wir Zeit haben um uns spannenderen Themen zu widmen.    Für ein gemeinsames Protokoll nutzen wir https://pad.innocampus.tu-berlin.de/p/LK-INCS-2024-07-19. Dort findet sich auch die vorläufige Tagesordnung. Der wichtigste TOP wird aus meiner Sicht die  Diskussion zur Überarbeitung der neuen Bachelor-StuPO sein; die zuständige Unterkommission trifft sich vier Tage zuvor zum 20.(!) Mal.    Aufgrund der recht hohen Beteiligung beim letzten Mal, die ich gerne auch dieses Mal wieder ermöglichen möchte, und angesichts der zuweilen unsicheren Gebäudesituation in diesen Tagen treffen wir uns Stand jetzt doch wieder in Zoom (https://tu-berlin.zoom.us/j/66407594800?pwd=aiSYtPPARVEnbVcw4S3PAjNwsNCmfD.1) (Meeting ID 664 0759 4800, Passcode 774285, Enhanced encryption)   Mit besten Grüßen Uwe Nestmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "please register / make appointment for oral exam",
+                            "Discussion_Id": "605456",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086435",
+                                    "Author": "Christlinde Thielcke",
+                                    "DateTime": "2024-07-04T10:13:26+02:00",
+                                    "Content": "Dear all, not all of those who already made an appointment for the oral exam registered with MOSES. On the other hand, not all of those who registered with MOSES made an appointment for the oral exam - please catch up, both groups. Christlinde Thielcke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Plan for the remaining semester",
+                            "Discussion_Id": "603516",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083643",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-06-25T16:42:20+02:00",
+                                    "Content": "Dear participants, I made the remaining screencasts for the semester available.You'll notice that the weeks of screencasts will reach into the lecture free period. This is because the screencasts were made for the winter term (where the lecture period is two weeks longer). Hence, the content about SETH (Strong Exponential Time Hypothesis) and following (Kernelization lower bounds) are marked as bonus material. I won't ask about this in the oral exam. However, if you have questions to the material, then you can still ask in the lecture discussions. (I made the material available now to give you time to also watch the bonus material). As a reminder: The last lecture week (15.07 to 19.07) will be reserved for Q&A to all course material (as preparation for the oral exam). Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Oral exam slots",
+                            "Discussion_Id": "601863",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081258",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-06-18T15:22:00+02:00",
+                                    "Content": "Dear participants, the first oral exam slots will be offered in the first two weeks after the end of the lecture. More precisely, I'll offer exam slots Wednesdays to Fridays in the first two weeks after the lecture period (i.e. oral exams between 24.07. and 02.08.), from 2pm to 6pm each day. The exams might take place in E-N 181 (this can change, please monitor announcements, water damage, etc.).  How to get an appointment? See announcement of our secretary Christlinde Thielcke. Second exam period? There will (most likely) another exam period, most likely in October. My (by then maybe only) colleague comes in the beginning of October, so planning can only start early October. How to prepare? I'll ask about definitions, concepts, algorithms, proofs, ... from the lecture. The exam will be roughly 30 min long, so it's clear I can't ask everything. It's an oral exam, so there will be no lengthy computations or long formulas. However, the high-level ideas of even more complicated proofs should be understood if you aim for the best possible grade.  The last week of the lecture period is reserved for preparation to the exam. There you can ask me about the lecture content and the oral exam. Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "oral exams - registration deadline via MOSES MTS",
+                            "Discussion_Id": "601861",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081255",
+                                    "Author": "Christlinde Thielcke",
+                                    "DateTime": "2024-06-18T15:18:18+02:00",
+                                    "Content": "Dear all, the time slots for the oral examination are scheduled as follows: End of July (registration deadline via MOSES-MTS till 19.07.24) Wednesday 24.07. - Friday 26.07.24 and Wednesday 31.07. - Friday 02.08.24 Each day starting at 14:00 pm; at most 5 exams per afternoon; 45 min slot per oral exam. Please write an e-mail to christlinde.thielcke(at)tu-berlin.de with subject \"param alg - oral exam\" indicating your preferred slot and giving one or two alternatives till Wednesday, July 17. First come, first serve! The final (anonymized) schedule will be published in this course some days after July 17.  Christlinde Thielcke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung als Mentor*in gestartet!",
+                            "Discussion_Id": "600522",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079315",
+                                    "Author": "Christlinde Thielcke",
+                                    "DateTime": "2024-06-12T10:14:07+02:00",
+                                    "Content": "Wir möchten auf folgende Nachricht aus dem Mentoring der Fakultät IV hinweisen: Hallo! Ab sofort kannst du dich wieder als Mentor*in anmelden und wir freuen uns, wenn du dieses Jahr (wieder) dabei bist. Mentoring ist mehr als nur ein Modul, denn als Mentor*in profitierst du mindestens genauso davon wie hinterher die Erstis von dir. Auch in diesem Jahr haben wir Events für Mentor*innen geplant mit vielen Gelegenheiten, die Uni aus einer anderen Perspektive, mit neuen Möglichkeiten kennen zu lernen. Außerdem bieten wir dir zusätzlich: 3 LP Vorbereitungsschulungen, Feedbacktreffen und individuelle Begleitung Lerninhalte wie z.B. Gruppenleitung, Kommunikation, Motivation, Awareness u.v.m. Mentor*innenevents mit hohem Spaßfaktor Achso, du weißt noch gar nicht was deine Aufgabe als Mentor*in ist? Du begleitest im Team eine Gruppe von Erstis bei ihrem Start ins Studium. Wie genau das gedacht ist kannst du auf unserer Website erfahren oder auch in einem unserer kommenden Q&A Treffen. Komm vorbei und stelle deine Fragen.  Termine: Q&A Mentoring Meeting (online) Wann? 14. Juni 15:00-16:00 Uhr Wo? Zoom: https://tu-berlin.zoom.us/j/68007662297?pwd=s389c9ibzKQKHUKeEUzbzsNL3lweqb.1   Mentoring Warm-up mit ehemaligen Mentor*innen Wann? 5. Juli ab 17 Uhr Wo? Kulturfabrik Moabit  Q&A Mentoring (online) Wann? 22. August 15:00-16:00 Uhr Wo? Zoom: https://tu-berlin.zoom.us/j/68007662297?pwd=s389c9ibzKQKHUKeEUzbzsNL3lweqb.1   Natürlich kannst du uns auch jederzeit eine Mail schreiben (mentoring@eecs.tu-berlin.de), anrufen (+49 30 314 -73194) oder vorbeikommen (MAR 6.006).   Wir freuen uns auf jeden Fall, wenn du dieses Jahr Teil des Mentorings bist. Viele Grüße  Luis & Maria",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture tomorrow",
+                            "Discussion_Id": "597956",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075559",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-05-30T15:56:28+02:00",
+                                    "Content": "Dear participants, since we discussed today both lectures for this week, there will be no discussion tomorrow. If you still have questions, please use the forum or ask next week. Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 2 + Lectures 8&amp;9",
+                            "Discussion_Id": "593722",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068987",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-05-10T18:31:36+02:00",
+                                    "Content": "Dear participants, I uploaded exercise sheet 2, which we discuss next Thursday. Also lectures 8&9 are available. Starting Friday I want to discuss a bit more than one lecture to catch up a bit in material. I'll do this to have one or maybe both slots in the last week free for an open discussion. (Sometimes students find more questions the closer the exam comes.) Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Algorithm Engineering II",
+                            "Discussion_Id": "585651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056556",
+                                    "Author": "Mathias Weller",
+                                    "DateTime": "2024-04-12T16:11:43+02:00",
+                                    "Content": "Dear participants, apologies for this shameless advertisement, but if you are interested in efficient algorithms for (possible NP-hard) problems, as well as turning algorithmic techniques into actual code, then you might want to consider also taking Algorithm Engineering II this summer term. The course is given in cooperation by AKT and INET and we have room for 12 teams (3 people per team). The introductory meeting will take place in little more than 1 week. Best regards -Mathias Weller",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063153",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-04-25T17:23:06+02:00",
+                                    "Content": "Dear participants,  this is again shameless advertisement. The course Algorithm Engineering II in this summer seems to still have a few open slots. The deadline for the registration is end of this week.  Best, André",
+                                    "Response to": "p1056556"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lectures in week 2 and 3: Different rooms ",
+                            "Discussion_Id": "588895",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061517",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-04-23T13:37:08+02:00",
+                                    "Content": "Dear participants, the presence meetings this and next week will be in the following rooms: Thursdays: MAR 0.009 Fridays: BH-N 243 The room-situation can also be tracked in MOSES: https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/vorlage.html?veranstaltungsvorlage=4256&semester=72&szenario= Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lectures first week: Different rooms",
+                            "Discussion_Id": "585870",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056910",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-04-15T10:49:17+02:00",
+                                    "Content": "Dear participants, the TEL building is closed due to water damage. For this weeks lecture discussions, we thus have to use different rooms: Thursday: BH-N 128 Friday: H 3007 I'll keep you updated for the next weeks. Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First lecture",
+                            "Discussion_Id": "585527",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056382",
+                                    "Author": "André Nichterlein",
+                                    "DateTime": "2024-04-11T19:05:56+02:00",
+                                    "Content": "Dear students, the screencasts for the first week (lecture 01 and 02) are now available here in the ISIS course. I will discuss the organization and the first screencasts next week Thursday (18.04.24) at 2pm in TEL 512. Best, André",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions",
+                    "Forum_id": "1774677",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "S. 51: Analysis of Search Tree for VC with refined branching rules",
+                            "Discussion_Id": "607634",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089567",
+                                    "Author": "Leon Jari Kullmann",
+                                    "DateTime": "2024-07-13T14:42:01+02:00",
+                                    "Content": 

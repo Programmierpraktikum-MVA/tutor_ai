@@ -1,0 +1,70 @@
+[
+    {
+        "Course_Name": "Learning and Intelligent Systems: MSc/BSc Requests",
+        "Course_id": "23634",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1043218",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Thesis Topics",
+                            "Discussion_Id": "374010",
+                            "Messages": [
+                                {
+                                    "Message_id": "p697219",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2021-04-19T18:23:08+02:00",
+                                    "Content": "Marc Toussaint (New) Mobile Base Design and Control, and compliant manipulation with a mobile base: We are currently developing a prototype for a mobile robot base (a system with 4 caster wheels, each articulated with 8 motors). The goal is to have a highly dynamic, compliant, and efficient holonomic base. The project would be about developing and testing the system, including to employ control strategies (potentially based on optimization based, e.g. MPC-like, methods, as we develop them also in our lab) for the system. Practically, the aim would be for this system to do complex compliant contact-based manipulation -- similarly to how we talk about it for robot arms -- but now in the 2D plane with just a mobile base pushing objects around or sliding them along walls. Tele-Operation (Marc + (Oz)?) [practical, software-heavy]:  Teleoperation systems are often designed on the motion or torque level. The aim of this project is to enable teleoperation on the level of tasks (or LGP constraints). That is the system should allow the user to efficiently specify sequential manipulation  constraints on the fly. These constraints involve symbols (like touch), but should also allow geometric design (e.g., determining a reference frame within an interactive GUI based on true current sensor data).   Rendering (Marc & Andreas) [coding heavy] : We created an interface to blender. The goal of this project is (1) to design highly realistic renderings with blender (requires own expertise on rendering, materials, lights, etc, which we do not have in the lab). And (2) to systematically evaluate (numerically) the differences between the real images on the robot station, and the rendered ones.   Pixels -> SDF (Marc/Danny/Oz) [perception, coding]: Evaluate alternative methods to convert point clouds to signed distance functions, in particular (1) simple/sparse SDFs that are represented as regression models with only very few basis functions, and (2) spatial B-spline methods (akin to NURBS) that are similar to ML models, but with stereotypical grid-like basis functions that can very quickly be evaluated. (As Marc explained during the zoom meeting):  Plus, any real-practical robot demonstration project...  Andreas Orthey  Assembly Planning: Assemble buildings using Multi-Robot Teams -- Create a new motion planning algorithm to coordinate the execution of multiple robots to assemble arbitrary building structures Disassembly Learning: Robots learning to disassemble a Motor Engine -- Algorithms to disassemble complex objects using Logic-Geometric Programming and Motion Primitives Oz S. Oguz Visual perception integration into sequential decision making & manipulation tasks through learned representations (2 different topics, both require mostly python, and maybe some C++ coding, and using NN-based learning APIs (pytorch, tf) for computer vision): extend our scene-graph representations for manipulation work: i) real-world scenarios (real objects (vs. previously used common geometric shapes), cluttered environments (vs. previous structure setup)), ii) apply directly on the real-world, iii) reason over relations when object of interest are unobserved initially, etc. develop (neural) scene/object representations (ideally self-supervised fashion) for constructing semantic maps that allow effective manipulation planning from visual input Voltron (in simulation): autonomous dynamic robotic chain formation by simple bots, e.g., multiple snake-like robots join/attach each other to reach objects/places that they individually cannot reach, or to form two-legged robots, or to form a humanoid robot, etc.  ((ideally) c++ or python, understanding basics of robotics (kinematics, motion planning, etc.), most of the initial codebase will be provided and our in-house computational code (API) should be sufficient for further development)  Danny Driess Samira is looking to this topic for now, I will update here depending on her decision.",
+                                    "Response to": "#p697219"
+                                },
+                                {
+                                    "Message_id": "p697279",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2021-04-19T19:18:34+02:00",
+                                    "Content": "Please, send me your preference(s) (up to 2 topics) via email (ozgur.oguz@campus.tu-berlin.de). I will try to match you with a topic and get you in touch with the responsible supervisor to move forward with the process. If you did not fill in our questionnaire yet, please do so. And if you're ok with sharing your CV and/or transcript (surely not mandatory), please send them to me via email, it'd also help us (and in turn you) to better assign you topics. I'd like to finalize this initial matching within this week, so please send your preferences and documents to me by Wednesday, April 21, 5pm.  Cheers, Oz",
+                                    "Response to": "#p697219"
+                                },
+                                {
+                                    "Message_id": "p701049",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2021-04-22T18:20:15+02:00",
+                                    "Content": "We have a new topic (see above the 1st item under Marc Toussaint). So, please let me know if any of you would like to work on it.",
+                                    "Response to": "#p697219"
+                                },
+                                {
+                                    "Message_id": "p701498",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2021-04-23T11:10:07+02:00",
+                                    "Content": "Hi all, I've received e-mails from some of you about their topic preferences, thank you for your interest. We will try to make our evaluations and get back to you as soon as possible. However, there are still people who filled in our questionnaire but have not reached out to me for specific topics yet. So, I'd like to remind them that we will prioritize topic assignments based on the emails you send to me (as I described here in the forum) and if only there are remaining topics, we will be able to offer those in a later phase. So, please act quickly in case you want to be considered in this batch. Cheers, Oz",
+                                    "Response to": "#p697219"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Info session on group's research and possible thesis topics",
+                            "Discussion_Id": "369683",
+                            "Messages": [
+                                {
+                                    "Message_id": "p689225",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2021-04-12T13:12:40+02:00",
+                                    "Content": "Hello everyone, We have many applicants so I decided to explain our group's research and possible thesis topics in a zoom call. Please fill in your availability for the possible dates of this virtual meeting.  https://doodle.com/poll/th4csqwwr963e7nm?utm_source=poll&utm_medium=link I will select one (or maybe two) slot(s) and announce it here with the zoom link. Cheers, Oz",
+                                    "Response to": "#p689225"
+                                },
+                                {
+                                    "Message_id": "p693471",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2021-04-15T14:09:27+02:00",
+                                    "Content": "Hey all,  Monday, April 19, 12pm (noon) is the winner! Here is the zoom link for the meeting: https://tu-berlin.zoom.us/j/61384742647?pwd=Q0phWXJmTWtOMk8wbXJwSksvZnlOZz09  See you all on Monday, Oz",
+                                    "Response to": "#p689225"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

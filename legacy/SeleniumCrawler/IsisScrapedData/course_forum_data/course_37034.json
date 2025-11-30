@@ -1,0 +1,324 @@
+[
+    {
+        "Course_Name": "[S24] Multi-Robot Systems",
+        "Course_id": "37034",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1743065",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Week 14 Assignments - SubT Challenge",
+                            "Discussion_Id": "607299",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089042",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-11T17:39:35+02:00",
+                                    "Content": "Dear Students,  the papers for the final week are posted. We are going to look at the two highest scoring teams of the DARPA Subterranean (SubT) Challenge. The assignments are as follows: Group A (Team CSIRO): ['Lion-Constantin', 'Helena', 'Truong', 'Jiaming', 'Mathieu', 'Doan', 'Paul'] (Lion-Constantin hosts) Group B (Team CERBERUS): ['Max', 'Tilman', 'Robert', 'Tobias', 'Ladislaus', 'Lewe', 'David', 'Erik'] (Max hosts) I am sorry that the papers (especially for team A) are so long, but they are pretty light on the technical side and I hope you can at least read the overview parts if you are short on time for exam preparation etc. Please remember to fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 13 Assignments - Applications (2)",
+                            "Discussion_Id": "605684",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086760",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-07-05T09:32:35+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted. The assignments are as follows: Group A (Additive Manufacturing): ['Lewe', 'Doan', 'Truong', 'Ladislaus', 'Robert', 'Max', 'David'] (no student host) Group B (Wall Building): ['Erik', 'Mathieu', 'Lion-Constantin', 'Helena', 'Jiaming', 'Paul', 'Tobias', 'Tilman'] (Erik hosts) Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 12 Assignments - Applications (1)",
+                            "Discussion_Id": "604367",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084850",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-28T21:56:50+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted. The assignments are as follows: Group A (Ocean Fronts): ['David', 'Lion-Constantin', 'Tobias', 'Paul', 'Ladislaus', 'Max', 'Robert'] (David hosts) Group B (Scientific Exploration): ['Tilman', 'Helena', 'Jiaming', 'Doan', 'Erik', 'Truong', 'Mathieu', 'Lewe'] (Tilman hosts) Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "603228",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083271",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-24T21:28:45+02:00",
+                                    "Content": "Dear Students, We would be grateful if you could provide feedback for the class. The official TUB evaluation is available at https://befragung.tu-berlin.de/evasys/online.php?pswd=PFCUS  It should only take 5-10 min and the deadline is this Friday.  Evaluations are crucial for us to improve the course and our lecture style in the future. Thanks, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 11 Assignments - State Estimation and Final Report",
+                            "Discussion_Id": "602631",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082361",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-21T14:42:35+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted. The assignments are as follows:  Group A (ICF): ['Robert', 'Jiaming', 'David', 'Ladislaus', 'Truong', 'Max', 'Tilman', 'Helena'] (Robert hosts) Group B (distributed Mapper): ['Paul', 'Erik', 'Lion-Constantin', 'Doan', 'Tobias', 'Lewe', 'Mathieu'] (Paul hosts)  Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Since there were some questions regarding the final report, here is a summary for everyone: - The due date is Oct 1st, 2024. The grades will be assigned within 2 weeks of report submission, so if you need the grade early, submit earlier accordingly. - Submission as PDF by E-Mail to me. - Length: 4 pages + references, using a scientific writing style & formatting similar to the papers we read. - It's an open topic that should be related to multi-robot systems. Examples include:    * A summary/survey of the papers we have read    * A summary/survey of a topic we haven't covered (e.g., swarm robotics or any bio-inspired methods)    * A description of an experimental study you might have done.    * A more in-depth summary/discussion of a sub-topic (e.g., literature review of just multi-robot SLAM) - The report should be written by you for the purpose of the class. - Using tools to improve your writing (including generative models) is fine, but please mention the tools you used in the report.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 10 Assignments - Perception",
+                            "Discussion_Id": "601185",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080287",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-14T22:05:52+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted. The assignments are as follows:  Group A (Marker-based): ['Erik', 'Helena', 'Lion-Constantin', 'Ladislaus', 'Paul', 'David', 'Jiaming'] (Erik hosts) Group B (CNN-based): ['Mathieu', 'Lewe', 'Truong', 'Tilman', 'Doan', 'Robert', 'Max', 'Tobias'] (Mathieu hosts)  Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 9 Assignments - Distributed Controls (2)",
+                            "Discussion_Id": "599538",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077870",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-07T06:59:37+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted. The assignments are as follows: Group A (Connectivity Maintenance Control): ['Max', 'Mathieu', 'David', 'Helena', 'Tobias', 'Erik', 'Truong'] (Max hosts) Group B (Formation Bearing Control): ['Tilman', 'Lewe', 'Robert', 'Ladislaus', 'Jiaming', 'Doan', 'Paul', 'Lion-Constantin'] (no student host) Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 8 Assignments - Distributed Controls",
+                            "Discussion_Id": "598029",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075681",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-31T06:48:51+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted. The assignments are as follows:  Group A (Buffered Voronoi Cells): ['Jiaming', 'Tobias', 'Helena', 'Mathieu', 'Truong', 'Max', 'Erik', 'Ladislaus'] (Jiaming hosts) Group B (Control Barrier Functions): ['Tilman', 'Robert', 'Lion-Constantin', 'David', 'Doan', 'Paul', 'Lewe'] (no student host)  Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 7",
+                            "Discussion_Id": "596458",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073252",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-24T09:01:16+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are about decision making under uncertainty and posted. The assignments are as follows:  Group A (MacDec-POMDP): ['Tobias', 'Jiaming', 'David', 'Paul', 'Mathieu', 'Erik', 'Lion-Constantin'] Group B (Dec-MCTS): ['Truong', 'Robert', 'Helena', 'Max', 'Tilman', 'Doan', 'Lewe', 'Ladislaus']  Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 6",
+                            "Discussion_Id": "595303",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071495",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-18T09:20:38+02:00",
+                                    "Content": "Dear Students,  the papers for the upcoming week are posted and the assignments are as follows:  Group A: ['Lewe', 'Jiaming', 'Max', 'Paul', 'Frederik', 'Felix', 'Tilman', 'Mathieu', 'Tobias'] Group B: ['Wangdong', 'Doan', 'Robert', 'Ladislaus', 'Lion-Constantin', 'David', 'Truong', 'Helena', 'Erik']  Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration",
+                            "Discussion_Id": "594327",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069973",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-14T12:49:37+02:00",
+                                    "Content": "Dear Students, For the (binding) registration for this module, please use MOSES. The registration deadline is Friday, May 24th (midnight). Thanks, Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Week 5",
+                            "Discussion_Id": "593740",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069020",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-11T01:19:15+02:00",
+                                    "Content": "Dear Students, the papers for the upcoming week are posted and the assignments are as follows: Group A: ['Helena', 'David', 'Erik', 'Jiaming', 'Lewe', 'Doan', 'Mathieu', 'Paul', 'Tobias'] Group B: ['Ladislaus', 'Felix', 'Tilman', 'Lion-Constantin', 'Truong', 'Frederik', 'Robert', 'Wangdong', 'Max'] Please remember to read your respective paper and fill out the paper review form by end-of-the-day Wednesday. Everybody (and especially the hosts) will be able to see all paper review responses on Thursday directly on ISIS. Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Host Assignments &amp; Week 3",
+                            "Discussion_Id": "590201",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063524",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-04-26T13:24:06+02:00",
+                                    "Content": "Dear Students, I just posted the papers and forms for next week. Please remember to read the paper beforehand and to upload your notes and discussion topics by May 1st, midnight. Group A: ['Truong', 'Mathieu', 'Tobias', 'Robert', 'Lewe', 'Erik', 'David', 'Lion-Constantin', 'Max'] Group B: ['Paul', 'Wangdong', 'Helena', 'Jiaming', 'Ladislaus', 'Doan', 'Tilman', 'Frederik', 'Felix'] For you planning, the assignments for the hosts this semester are as follows: Decision Making: Week 3 (May 2): Truong, Paul Week 4 (May 16): Helena, Ladislaus Week 5 (May 23): Lewe, Wangdong Week 6 (May 30): Tobias, Lion-Constantin Controls: Week 7 (June 6): Jiaming, Felix Week 8 (June 13): Frederik, Max Perception and State Estimation Week 9 (June 20): Erik, Mathieu Week 10 (June 27): Robert, Paul Applications and Systems Week 11 (July 4): David, Tilman Week 12 (July 11): Frederik, Erik Week 13 (July 18): Lion-Constantin, Max Please let me know if there is any conflict/concerns with these host assignments.  Best, Wolfgang Hönig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Class Participants &amp; Week 2",
+                            "Discussion_Id": "588034",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060111",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-04-20T22:10:46+02:00",
+                                    "Content": "Dear Students, Thanks for your interest in the seminar! I decided to simply let everyone who is interested join, so we will be a pretty large group of 18 students for the discussions. I believe that this will improve the diversity of our discussions and it also means it will be less hosting work for most people. For next week I uploaded the papers and we have the following group assignments: Group A: ['Tilman', 'Mathieu', 'Helena', 'Jiaming', 'Tobias', 'Robert', 'Truong', 'Wangdong', 'Max'] Group B: ['Doan', 'Lewe', 'Lion-Constantin', 'David', 'Paul', 'Erik', 'Ladislaus', 'Felix', 'Frederik']  Where Tilman and Doan are the hosts / lead the discussion. Remember to read the paper of your group beforehand and fill out the discussion form by Wednesday midnight.  I will create a longer term host assignment next week so all future hosts will know earlier in advance.  Best, Wolfgang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1743067",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Course Evaluation",
+                            "Discussion_Id": "603844",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084111",
+                                    "Author": "Lewe Christiansen",
+                                    "DateTime": "2024-06-26T17:02:48+02:00",
+                                    "Content": "Hello, while filling out the course evaluation I noticed that the header says: \" Technische Universität Berlin Prof. Dr. Marc Toussaint Fakultät IV - Elektrotechnik und Informatik Robot Learning (Integrierte Veranstaltung) \" Could this be the wrong link or is it just a incorrect header?  Best regards, Lewe",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084178",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-06-26T20:29:44+02:00",
+                                    "Content": "Hi, The text itself was correct, but the link pointed to the wrong class. I did correct it now online. Here again the correct link: https://befragung.tu-berlin.de/evasys/online.php?pswd=PFCUS Sorry about that and thanks for notifying! Best, Wolfgang",
+                                    "Response to": "p1084111"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Forgot to fill out the host rating",
+                            "Discussion_Id": "592127",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066475",
+                                    "Author": "Mathieu Karl Henri Siegenthaler",
+                                    "DateTime": "2024-05-03T15:07:51+02:00",
+                                    "Content": "As the title says, I forgot to do the host rating yesterday. Would it be possible to open it again, or is it not so important?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066754",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-04T22:22:58+02:00",
+                                    "Content": "It's not that important - we have received enough answer.",
+                                    "Response to": "p1066475"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Accidentally reviewed wrong week Hosts",
+                            "Discussion_Id": "590387",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063791",
+                                    "Author": "David Pierre Kehrer",
+                                    "DateTime": "2024-04-27T06:23:53+02:00",
+                                    "Content": "As title says, I managed to mess that up. Is there a way to reset answers until the deadline? Best, David",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064091",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-04-29T07:34:01+02:00",
+                                    "Content": "Hi, I deleted the responses and also changed the settings so this can only be filled out starting 11:30 on Thursday. Best, Wolfgang Hönig",
+                                    "Response to": "p1063791"
+                                },
+                                {
+                                    "Message_id": "p1065760",
+                                    "Author": "David Pierre Kehrer",
+                                    "DateTime": "2024-05-02T11:56:05+02:00",
+                                    "Content": "Hi, It seems like my answers for the week 3 Hosts haven't been reset yet.  Best, David",
+                                    "Response to": "p1064091"
+                                },
+                                {
+                                    "Message_id": "p1065775",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-05-02T12:09:33+02:00",
+                                    "Content": "Hi, I did reset them and I now also allow that users can respond multiple times, in case ISIS had some sort of sticky bit for you (I can't tell, since the survey is anonymous). Best, Wolfgang",
+                                    "Response to": "p1065760"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Host Swap For Group A (Conflict-Based Search) Next Week",
+                            "Discussion_Id": "590234",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063573",
+                                    "Author": "Wolfgang Hönig",
+                                    "DateTime": "2024-04-26T14:20:47+02:00",
+                                    "Content": "Would anybody be able to swap with Truong to be the host next week, e.g., Lewe, Tobias, or Lion-Constantin since you are also assigned in the decision-making part?  Thanks, Wolfgang Hönig",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063654",
+                                    "Author": "Lewe Christiansen",
+                                    "DateTime": "2024-04-26T16:44:02+02:00",
+                                    "Content": "Unfortunately, it would also be very difficult for me to host next week.  Best regards, Lewe",
+                                    "Response to": "p1063573"
+                                },
+                                {
+                                    "Message_id": "p1063883",
+                                    "Author": "Lion-Constantin Weber",
+                                    "DateTime": "2024-04-27T16:08:49+02:00",
+                                    "Content": "I just spoke to Truong, and I will/can host this week.",
+                                    "Response to": "p1063654"
+                                },
+                                {
+                                    "Message_id": "p1063887",
+                                    "Author": "Truong Nam Tran",
+                                    "DateTime": "2024-04-27T17:03:43+02:00",
+                                    "Content": "Hey Lion-Constantin,  I really appreciate you decision and commitment. I looking forward to the discussion with you and the others next week :)  Thank you Lion-Constantin.  Best wishes, Truong",
+                                    "Response to": "p1063883"
+                                },
+                                {
+                                    "Message_id": "p1063767",
+                                    "Author": "Lion-Constantin Weber",
+                                    "DateTime": "2024-04-26T21:02:24+02:00",
+                                    "Content": "It would be difficult for me to host this week as well because I have a lot of work to do, but If no other options arise, I can host (but it would be best if I know by Sunday) Best regards, Lion",
+                                    "Response to": "p1063573"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Alternative Sources for the Hungarian Algorithm",
+                            "Discussion_Id": "589107",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061856",
+                                    "Author": "Tilman Friedrich Burghoff",
+                                    "DateTime": "2024-04-23T19:53:53+02:00",
+                                    "Content": 

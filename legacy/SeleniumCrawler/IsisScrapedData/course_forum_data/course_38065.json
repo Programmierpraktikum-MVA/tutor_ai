@@ -1,0 +1,171 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Methoden der Datenanalyse in der Thermofluiddynamik",
+        "Course_id": "38065",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1778246",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Übung am 3. Juli entfällt",
+                            "Discussion_Id": "604476",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085040",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-06-30T18:18:39+02:00",
+                                    "Content": "Liebe Studierende,  die Übung am 3. Juli entfällt. Am 10. Juli findet wie geplant die Übung zur tomographischen Rekonstruktion statt.  Viele Grüße  Thomas ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfung",
+                            "Discussion_Id": "602037",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081515",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-06-19T11:08:54+02:00",
+                                    "Content": "Liebe Studierende,   bitte tragt Euch in folgende Doodle Liste für den Termin Eurer mündlichen Prüfung ein: https://doodle.com/meeting/participate/id/e51GDPZe Viele Grüße  Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Püfungstermine",
+                            "Discussion_Id": "599782",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078231",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-06-08T23:38:28+02:00",
+                                    "Content": "Liebe Studierende, die Termine für die mündlichen Prüfungen sind am 23. Juli und am 16. Oktober. Ihr könnt Euch die Termine jeweils aussuchen. Eine diesbezügliche doodle Liste folgt. Viele Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsenzübung entfällt",
+                            "Discussion_Id": "599781",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078230",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-06-08T23:35:50+02:00",
+                                    "Content": "Liebe Studierende, Die Präsenzübung am 12. Juni entfällt. Die nächste Präsenzübung findet damit am 19. Juni statt. Viele Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Advertisement for Experimental Master Thesis",
+                            "Discussion_Id": "596085",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072711",
+                                    "Author": "Kilian Oberleithner",
+                                    "DateTime": "2024-05-22T17:10:04+02:00",
+                                    "Content": "Dear all, here is an advertisement for an master thesis in collaboration with Uni Calgary. Please have a look and forward it to interested students. thanks Kilian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Frageforum",
+                    "Forum_id": "1778248",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abgelaufener Link zur aktuellen Onlineübung 9",
+                            "Discussion_Id": "601894",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081302",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-06-18T16:24:22+02:00",
+                                    "Content": "Hi, Der Link zu den Dateien für die aktuelle Onlineübung (Übung 9) ist leider abgelaufen. Es wäre super, wenn der Link erneuert werden könnte, sodass wir die Aufgabe ausprobieren können. Vielen Dank, Hannah",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081378",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-06-18T20:16:09+02:00",
+                                    "Content": "Er ist aktualisiert, bitte entschuldigt das!  Thomas",
+                                    "Response to": "p1081302"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Fehlende Daten",
+                            "Discussion_Id": "598318",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076110",
+                                    "Author": "Hugo Storchi",
+                                    "DateTime": "2024-06-02T13:48:57+02:00",
+                                    "Content": "Guten Tag, um das UE7 durchführen zu können, benötigt man Daten, die ich nicht finden kann (\"Karman.dat\"). Vielleicht haben Sie vergessen, diese hinzuzufügen? Vielen Dank im Voraus. Mit freundlichen Grüßen, Hugo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077099",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-06-05T00:07:36+02:00",
+                                    "Content": "Hallo Hugo, danke für den Hinweis. Die Daten stehen nun zur Verfügung.  Thomas",
+                                    "Response to": "p1076110"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur",
+                            "Discussion_Id": "596845",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073870",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-05-27T08:58:23+02:00",
+                                    "Content": "Guten Tag, Ich wollte mich mal erkundigen, ob der Termin für die Klausur inzwischen feststeht? Mit freundlichen Grüßen, Hannah",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Waehltonfolge",
+                            "Discussion_Id": "593956",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069378",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-05-13T10:43:02+02:00",
+                                    "Content": "Hi,  Wäre es möglich die Wähltonfolge auch als .wav Datei zur Verfügung zu stellen, um die Übung auch selber ausprobieren zu können? Sie ist bisher nur als Link (also html) verfügbar.  Vielen Dank, Hannah",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069395",
+                                    "Author": "Thomas Ludwig Kaiser",
+                                    "DateTime": "2024-05-13T11:08:49+02:00",
+                                    "Content": "Da geht wohl der Download nicht mehr. Ich habe euch die Datei zur in einem Link (Daten Woche 4) zur Verfügung gestellt.  Vg Thomas",
+                                    "Response to": "p1069378"
+                                },
+                                {
+                                    "Message_id": "p1069421",
+                                    "Author": "Hannah Profitlich",
+                                    "DateTime": "2024-05-13T11:36:52+02:00",
+                                    "Content": "Vielen Dank!",
+                                    "Response to": "p1069395"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

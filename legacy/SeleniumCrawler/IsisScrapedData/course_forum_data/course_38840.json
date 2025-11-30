@@ -1,0 +1,739 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Diskrete Strukturen",
+        "Course_id": "38840",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1807053",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hausaufgabenbewertung",
+                            "Discussion_Id": "606869",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088456",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-10T12:18:23+02:00",
+                                    "Content": "Liebe Kursteilnehmer, die Bewertung der Hausaufgabe ist nun abgeschlossen. Ihr solltet auf ISIS eure Punkte sehen können, sowie die korrigierten Dateien mit Anmerkungen. Zusätzlich haben wir Erklärvideos aufgenommen, in denen wir häufige Fehler in den Abgaben besprechen. Diese findet ihr hier für Aufgabe 1, Aufgabe 2 und Aufgabe 3. Die Einsicht für die Hausaufgabe findet am Dienstag, den 23.07.2024 von 14 bis 16 Uhr im Raum A 053 statt.  Viele Grüße Das DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tut Steve morgen 8:00",
+                            "Discussion_Id": "605140",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086010",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-07-02T23:09:51+02:00",
+                                    "Content": "Das morgige online Tut fällt leider auch aus :/ Grüße, Steve",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Steves Tutorium heute um 16 Uhr",
+                            "Discussion_Id": "604915",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085688",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-07-02T10:49:29+02:00",
+                                    "Content": "Hallo, Das Tutorium von Steve heute um 16 Uhr im FH 302 fällt aufgrund von Krnakheit aus. Besucht in dieser Woche bitte eines der anderen Tutorien. Freundliche Grüße Euer DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raumänderung und erneuter Ausfall",
+                            "Discussion_Id": "604847",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085602",
+                                    "Author": "Baris Basar",
+                                    "DateTime": "2024-07-02T07:42:33+02:00",
+                                    "Content": "Das Tutorium Dienstags 10-12 Uhr findet ab dem 09.07 im E-N 189 statt.  Da ich immernoch krank bin entfallen außerdem auch meine beiden Tutorien heute von 10-12 und 14-16 Uhr. Betroffene können gerne die anderen Tutorien besuchen. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorien",
+                            "Discussion_Id": "604513",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085100",
+                                    "Author": "Baris Basar",
+                                    "DateTime": "2024-07-01T08:08:10+02:00",
+                                    "Content": "Da ich krank bin entfallen heute die Tutorien 12-14 Uhr im MA651 und 14-16 Uhr im MA749. Wer davon betroffen ist kann eines der anderen Tutorien besuchen.  Bzgl. meiner Dienstagstutorien (Morgen) kommt hier hier rechtzeitig noch eine weitere Nachricht. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Mo um 8 eingestellt",
+                            "Discussion_Id": "604191",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084596",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-06-28T10:09:16+02:00",
+                                    "Content": "Hallo liebe Studierende, das Tutorium von Alex am Montag um 8 Uhr wird aufgrund von geringer Anzahl von Teilnehmenden in den folgenden Wochen nicht stattfinden. Es grüßt das DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Liors Tutorien ab jetzt im MAR Gebäude ",
+                            "Discussion_Id": "604147",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084525",
+                                    "Author": "Lior Eshkhar",
+                                    "DateTime": "2024-06-27T21:55:54+02:00",
+                                    "Content": "Hallo, meine beiden Tutorien (Mittwoch 12 und 14 Uhr) werden ab jetzt im MAR Gebäude, Raum 4.064 stattfinden.  Das Mittwoch 12 Uhr Tutorium wird am 17.07 einmalig in Raum 0.003 stattfinden.  Liebe Grüße  Lior",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "603625",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083812",
+                                    "Author": "Stephan Kreutzer",
+                                    "DateTime": "2024-06-26T00:29:26+02:00",
+                                    "Content": "Liebe Studierende, wie jedes Semester werden auch dieses Semester die Grundlagenmodule wieder evaluiert. Ich wäre Ihnen daher sehr dankbar, wenn sie an folgender Umfrage teilnehmen könnten. https://befragung.tu-berlin.de/evasys/online.php?pswd=UT5DX Die Umfrage bleibt bis zum 5.7.2024 offen. Herzliche Grüße, Stephan Kreutzer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabenabgabe",
+                            "Discussion_Id": "602567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082267",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-06-21T11:08:56+02:00",
+                                    "Content": "Hallo liebe diskret Strukturierende, Dies ist eine Zusammenfassung der Infos zur Abgabe der Hausaufgabe. Wichtig: Die Gruppenwahl ist nur noch heute offen. Es gibt immer noch gut 50 Studierende, die sich nicht in eine Gruppe eingetragen haben. Wenn ihr nicht in einer Gruppe seid, könnt ihr die Hausaufgabe auf Isis nicht abgeben. Wer noch Fragen zur Hausaufgabe hat ist explizit dazu eingeladen an diesem Montag (den 24.06.) in die Übungsräume im Mathe-Gebäude zu kommen. Wir werden euch dort gerne mit euren Fragen weiterhelfen. Der Übungsraum am Donnerstag (den 27.06.) wird nicht betreut sein, da wir zu diesem Zeitpunkt die Hausaufgabe korrigieren werden. Viel Erfolg bei der Hausaufgabe und viel Spaß bei den Tutorien der nächsten Woche wünscht euch Euer DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium bei Johannes Freitag von 14-16 Uhr",
+                            "Discussion_Id": "601143",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080220",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-06-14T16:43:51+02:00",
+                                    "Content": "Das Tutorium von mir am Freitag von 14-16 Uhr wird ab der nächsten Woche mit dem Tutorium von Meinhold zu gleicher Zeit im E-N 185 zusammengelegt.  Grüße Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bewertete Hausaufgabe aktualisiert",
+                            "Discussion_Id": "600791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079716",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-06-13T10:07:25+02:00",
+                                    "Content": "Liebe Teilnehmer, bei der bewerteten Hausaufgabe wurde ein Fehler in Aufgabe 2 in der Definition der Zerteilungszahl korrigiert. Der Satz 'Falls G nicht zusammenhängend ist, ist ze(G)=0.' wurde geändert zu 'Falls G nicht 1-zusammenhängend ist, ist ze(G)=0.'. Die aktualisierte Version der Datei ist bereits hochgeladen.  Bite entschuldigt die Umstände. Viele Grüße Amelie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschieben des Tutoriums von Stephan Kreutzer",
+                            "Discussion_Id": "600360",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079086",
+                                    "Author": "Stephan Kreutzer",
+                                    "DateTime": "2024-06-11T16:08:30+02:00",
+                                    "Content": "Liebe Studierende, wegen einer Terminkollision muss ich leider mein (online) Tutorium von Mittwochs 12-14 Uhr auf Mittwochs 10-12 Uhr verschieben. Viele Grüße Stephan Kreutzer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bewertete Hausaufgabe",
+                            "Discussion_Id": "599528",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077853",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-06-06T21:55:46+02:00",
+                                    "Content": "Hallo liebe Studierende, wir haben soeben die Bewertete Hausaufgabe freigeschaltet. Ihr müsst euch bei der Gruppenwahl gemeinsam in eine Gruppe eintragen, um die Hausaufgabe abgeben zu können. Dabei sind Gruppen von 2-4 Studierenden erlaubt. Das Gruppensuchforum kann dabei weiterhin genutzt werden, um Gruppenmitglieder zu finden. Der Stoff der Hausaufgabe sind die ersten drei Wochen zu Graphentheorie. Also die letzten drei Vorlesungen bzw. der Stoff in den Tutorien vom 27.05. bis zum 15.06.. Die Abgabe ist an Mittwoch, dem 26.06., aber die Gruppensuche ist nur bis Freitag, den 21.06. freigeschaltet, damit ihr anschließend noch genug Zeit habt die Aufgaben zu bearbeiten. Die Abgabe erfolgt digital über Isis. Wir haben dafür eine Latex-Vorlage und ein Dokument mit Tipps zum texen hochgeladen. Falls ihr euch bei einem Symbol nicht sicher seid wie man es auf tex schreibt empfehle ich https://detexify.kirelabs.org/classify.html. Freundliche Grüße und viel Erfolg wünscht euer DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorien MA 749",
+                            "Discussion_Id": "598398",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076228",
+                                    "Author": "Alexander Gregor Mühle",
+                                    "DateTime": "2024-06-03T06:30:21+02:00",
+                                    "Content": "Hallo alle, Leider müssen meine heutigen Tutorien (8-10 MA749, 10-12 MA749) krankheitsbedingt ausfallen. Verteilt euch bitte auf die anderen Tutorien.  Viele Grüße und hoffentlich bis nächste Woche Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probetest",
+                            "Discussion_Id": "597630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075098",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-05-29T13:15:25+02:00",
+                                    "Content": "Hallo DS-Studierende, Wir haben soeben einen Probetest verfügbar gemacht. Dieser Test ist nicht so wie das Material vom Freitag dafür gedacht, dass ihr euch inhaltlich auf den Test vorbereitet, sondern darauf, dass ihr die technischen Vorraussetzungen erfüllt habt. Ihr solltet auf den Probetest zugreifen können wenn ihr Auf Moses angemeldet seid (Stand: Di 17 Uhr). Euch mit einem zweiten Faktor authentifiziert habt. Euch nicht in einem unterbrochenen Versuch befindet in dem ihr bereits den MC-Test abgeschlossen habt Bei der Umfrage nicht angegeben habt, dass ihr den MC-Test im zweiten Durchlauf schreiben wollt (Stand: Mi 12 Uhr). Wir werden diese Bedingungen am Freitag morgen aktualisieren, nachdem die Anmeldefrist zur Prüfung und die Umfrage abgeschlossen sind. Inhaltlich ähnelt der Probetest nicht dem MC-Test, aber er enthält die gleichen Aufgabetypen. So könnt ihr überprüfen, ob die Aufgaben auf der Maschine, die ihr für den MC-Test nutzen wollt, richtig angezeigt werden.  Liebe Grüße Euer DS-Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075821",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-05-31T13:38:55+02:00",
+                                    "Content": "Hallo DS-Studierende, ich habe jetzt die Flags aktualisiert und den MC-Test freigeschaltet. Ihr solltet jetzt also den Test auf der Seite sehen können und Zugriff haben, falls ihr ihn im ersten Durchlauf schreiben wollt. Der Test wird um 15:15 Uhr geöffnet und schließt um 16:45 Uhr. Ihr habt von dem Zeitpunkt zu dem ihr startet 1 Stunde zur Bearbeitung des Tests. Ihr solltet also vor 15:45 Uhr starten um die volle Stunde ausnutzen zu können.  Viel Glück Euer DS-Team",
+                                    "Response to": "p1075098"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Steve 16h online",
+                            "Discussion_Id": "597281",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074613",
+                                    "Author": "Steffen Schoderböck",
+                                    "DateTime": "2024-05-28T11:25:17+02:00",
+                                    "Content": "Mein Tutorium heute um 16h wird online stattfinden. Lg, Steve",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Prüfungsleistung: Multiple-Choice-Test",
+                            "Discussion_Id": "596499",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073313",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-05-24T11:56:41+02:00",
+                                    "Content": "Liebe Teilnehemer, nächste Woche findet der MC-Test satt. Entsprechend sind hier die relevanten Informationen dazu: Ort: Der Test findet online auf ISIS statt. Wer ihn unter Beaufsichtigung schreiben möchte, kann sich dafür mit einem Laptop in den Raum A060 begeben. Zeit: Der Test findet am Freitag, den 31.05.2024 statt. Er ist in der Zeit von 15:15-16:45 Uhr freigeschaltet. Sobald man den Test startet, hat man 60 Minuten Bearbeitungszeit.  Der spätestmögliche Startzeitpunkt, um die vollen 60 Minuten Bearbeitungszeit zu bekommen, ist also 15:45 Uhr. Themen: Es werden die Vorlesungsthemen ab Semesterstart bis einschließlich der fünften Vorlesungswoche abgefragt. Diese sind Teilmengen, Potenzmengen, Unabhängige Mengen, Induktionsbeweise, Arten des Ziehens von Elementen einer Menge, Permutationen, Binomialkoeffizienten, Produktregel, Summenregel, Inklusion-Exklusionsprinzip, Schubfachprinzip, Handshake-Lemma, spezieller Satz von Ramsey, Binärbäume, Catalan-Zahlen, induktive/rekursive Definitionen, Zyklen, Stirling-Zahlen erster und zweiter Art, Partitionen. Prüfungsart: Der MC-Test ist open-book. Ihr dürft also auf alles Material der Vorlesung während des Tests zugreifen. Die Fragen sind generell vom Typ Multiple Choice, was auch Drag-n-Drop-Aufgaben und Lückentexte mit einschließt. Es wird keine Freitextaufgaben geben. Anmeldung: Die Prüfungsanmeldung erfolgt über MOSES. Jeder, der an einer Prüfungsleistung des ersten Durchlaufs teilnehmen möchte, muss sich bis spätestens 30.05.2024 auf MOSES anmelden. MC-Test im 2. Durchlauf: Es ist möglich, den MC-Test im zweiten Durchgang statt im ersten zu schreiben. Studenten, die andere Prüfungsleistungen im ersten Durchlauf schreiben möchten, aber den MC-Test im zweiten Durchgang, melden sich bitte normal über MOSES zum ersten Durchgang an und tragen in diese Umfrage ein, dass Sie den MC-Test nicht im ersten, sondern im zweiten Durchgang schreiben möchten. Diejenigen, die den MC-Test im ersten Durchgang machen wollen, müssen sich nicht in die Umfrage eintragen. Die Umfrage ist bis zum 30.05.2024 geöffnet. Jeder der sich auf MOSES zum ersten Durchlauf anmeldet und sich bis zu diesem Zeitpunkt nicht in die Umfrage eingetragen hat, wird zum ersten Durchlauf des MC-Tests erwartet. Vorbereitung: Zusätzlich zu den Übungsmaterialien aus dem aktuellen Semester, stehen hier und hier im ISIS-Kurs MC-Test aus vergangenen Semstern bereit, die man zur Vorbereitung bearbeiten kann. Da der Vorlesungsinhalt in unterschiedlichen Semstern nicht exakt gleich ist, sind in diesen Tests auch Fragen zu Themen enthalten, die im aktuellen Semester nicht abgedeckt wurden und somit für den MC-Test nicht relevant sind. Dies betrifft Bell-Zahlen, partielle Ordnungen, das Finden geschlossener Formen für rekursive Formeln und Funktionseigenschaften abgesehen von Bijektivität. Nachteilsausgleich: Personen, die von einem genehmigten Nachteilsausgleich Gebrauch machen möchten, wenden sich bite per E-Mail an einen der Modulorganisatoren. Tutorienterminkollision: Die Tutorien, die sich zeitlich mit dem MC-Test überschneiden (also Freitag 14-16 Uhr bei Meinhold und Johannes), finden nächste Woche nicht statt. Betroffene Studenten nehmen bitte an einem der anderen Tutorien teil. Viele Grüße, das DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pfingsten und Tutorien",
+                            "Discussion_Id": "595126",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071211",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-05-17T11:27:12+02:00",
+                                    "Content": "Hallo ihr diskret Strukturierende, Da an diesem Montag Pfingsten ist, werden an diesem Tag keine Tutorien und kein Übungsraum stattfinden. Insbesondere sind die Tutorien nächste Woche die letzten, die neuen Stoff für den MC-Test am 31.05. behandeln. Deswegen sind auf dem Tutoriumsblatt für die nächste Woche besonders viele Übungsaufgaben, die möglichen Aufgaben im MC-Test ähneln sollen. Damit nächste Woche nicht einige Tutorien überlastet werden bieten wir Ersatztutorien am Dienstag um 14-16 Uhr von Alexander im Raum FH 315 und am Mittwoch um 14-16 Uhr von Baris im Raum A060 an.  Noch ein schönen Freitag und ein gutes Wochenende wünscht euer DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Feedback zur 1. Freiwilligen Hausaufgabe",
+                            "Discussion_Id": "593836",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069167",
+                                    "Author": "Martin Schoen",
+                                    "DateTime": "2024-05-12T16:31:26+02:00",
+                                    "Content": "Hallo zusammen, sofern ihr die 1. Freiwillige Hausaufgabe zur Korrektur eingereicht habt, solltet ihr nun unter eurer Abgabe eine Feedbackdatei finden.  Achtet bitte bei zukünftigen Abgaben darauf, dass ihr eine PDF-Datei abgebt. Bündelt also bitte alle eure Antworten in einer Datei und ladet insbesondere keine JPEG-Dateien oder sonstige Bildformate hoch. Bei etwaigen Fragen zur Korrektur bzw. den Aufgaben selbst, könnt ihr wie immer gerne in den Lernräumen oder nach eurem Tutorium auf uns zukommen, oder auch mir, wenn es nur um eine kurze Frage zu einem meiner Kommentare geht, eine Mail schreiben. Ich lade euch außerdem sehr dazu ein, eure Antworten (gerade, wenn es um Beweise geht) so auszuformulieren, wie ihr es auch in einer richtigen Hausaufgabe machen würdet. Ich weiß, dass das dann natürlich mehr Zeit kostet, aber so können wir euch gezielt Feedback zu euren Formulierungen und der allgemeinen Beweisstruktur geben.  Da ich speziell bei den Aufgaben zur vollständigen Induktion oft die selben Fehler / Ungenauigkeiten gesehen habe, findet ihr im Anhang eine Beispiellösung für Aufgabe 5 i). Achtet insbesondere bitte darauf, dass ihr in der Induktionsvoraussetzung die Gültigkeit der Aussage nur für ein n annehmt und nicht für alle - denn im letzteren Fall wäre nichts mehr zu zeigen.  Habt einen guten Start in die Woche, Martin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien Mittwoch 12 und 14 Uhr online",
+                            "Discussion_Id": "593059",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067932",
+                                    "Author": "Lior Eshkhar",
+                                    "DateTime": "2024-05-07T17:19:45+02:00",
+                                    "Content": "Hallo alle, da ich mich gerade nicht ganz fit fühle, werde ich leider beide meiner Tutorien morgen, am 08.05.2024, online unter folgendem Link halten: https://tu-berlin.zoom.us/j/68546852965?pwd=UFJGeXJXWjg1ZnB2eGpiRk16SFQwUT09 Liebe Grüße Lior",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Donnerstag ist Feiertag",
+                            "Discussion_Id": "593043",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067913",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-05-07T16:30:20+02:00",
+                                    "Content": "Hallo ihr alle, Nochmal eine kurze Erinnerung von unserer Seite aus, dass dieser Donnerstag Feiertag ist. Deswegen werden diese Woche die Vorlesung, die Großübung, Martins Tutorium und die Übungsräume am Donnerstag nicht stattfinden. Viele Grüße und eine schöne Woche von eurem DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung zoomlink online Tutorium Mi 8 Uhr ",
+                            "Discussion_Id": "592992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067844",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-05-07T14:56:14+02:00",
+                                    "Content": "Liebe Teilnehmer des Mittwoch-8-Uhr-Online-Tutoriums von Steve,  morgen, am 08.05.2024, findet das Tutorium auf Grund einer Vertretung einmalig unter folgendem Link statt: https://tu-berlin.zoom.us/j/63925790861?pwd=ZCtCSEdGc0F3aGk3aE44cFlDRElUQT09  In den folgenden Wochen wird wieder der ursprüngliche Link verwendet.  Viele Grüße Amelie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zweite Übungswoche und 1.Mai",
+                            "Discussion_Id": "590213",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063541",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-04-26T13:42:47+02:00",
+                                    "Content": "Hallo ihr alle, Wir haben soeben das 1. Übungsblatt hochgeladen. Die Aufgaben 1-3 werden in den Tutorien in der nächsten Woche besprochen werden. Zudem sind auf dem Blatt auch die Aufgaben 4-6, die Übungsaufgaben für euch sind. Insbesondere sind sie dafür gedacht, dass ihr auch selbst ohne direkte Anleitung lernt Lösungen zu schreiben. Das Bearbeiten ist dabei vollständig freiwillig. Ihr könnt die freiwilligen Übungsaufgaben auch abgeben. Eure Abgaben werden nicht bepunktet, aber ihr könnt so wertvolles Feedback dazu kriegen wie eure Bearbeitungen für Hausaufgabe und Klausur aussehen sollten. Insbesondere könnt ihr die Übungsaufgaben auch gerne in den Lernräumen lösen. Die Lernräume sind Mo 14-18 Uhr und Do 14-18 Uhr im 6. Stock des Mathegebäudes. Genauere Rauminformationen findet ihr in der Sektion \"Allgemeines\" der ISIS-Seite. Dort ist zu jedem Zeitpunkt jemand vom DS-Team anwesend, sodass ihr Fragen zu Vorlesungs-, Übungs- und Tutorieninhalten stellen könnt. Zudem werden wegen des Tags der Arbeit am 01.05. keine Tutorien stattfinden. Als Ersatz bieten wir ein Tutorium von Lior am Dienstag, den 30.04., von 10 bis 12 im H2038  und ein Online-Tutorium von Prof. Kreutzer am Freitag, den 03.05., von 12-14 Uhr an.  Einen schönen Freitag Nachmittag und ein schönes Wochenende vom DS-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergänzungen zur Tutoriumsverteilung",
+                            "Discussion_Id": "588417",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060772",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-04-22T13:32:19+02:00",
+                                    "Content": "Hallo ihr alle, da bei der Tutorienvergabe letzte Woche einige Studierende aufgrund fehlender Plätze ohne Tutorium verblieben sind, haben wir uns entschieden zwei zusätzliche Tutorien anzubieten. Prof. Kreutzer wird jeden Mittwoch von 12-14 Uhr ein Online-Tutorium halten. Zudem werde ich ein Ergänzungstutorium am Freitag von 14-16 Uhr im A 060 halten. Grundsätzlich ist die Tutorienvergabe auf Moses nicht bindend ihr könnt auch ein anderes Tutorium besuchen als euch auf Moses zugeteilt wurde. Die Räume sind mit der bisherigen Vergabe allerdings bereits voll gebucht, ich würde also bitten, falls ihr auf einen anderen Termin wechseln wollt, präferiert zu einem der beiden oben angekündigten neuen Tutorien zu gehen, da diese keine zugeordneten Teilnehmer haben. Freundliche Grüße Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Übungsaufgaben",
+                            "Discussion_Id": "587565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059379",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-04-19T10:08:35+02:00",
+                                    "Content": "Liebe Kursteilnehmer,  das erste Aufgabenblatt ist jetzt auf ISIS verfügbar. Dieses wird nächste Woche (22.04.2024 bis 26.04.2024) in den Tutorien besprochen. Freiwillige Hausaufgaben gibt es diese Woche keine, diese beginnen erst mit dem zweiten Aufgabenblatt. Aus diesem Grund öffnen die Lernräume, anders als in der letzten Ankündigung steht, erst am darauffolgenden Montag, dem 29.04.2024. Zusätzlich wurde ein weiteres Forum auf ISIS eingerichtet, das der Suche von Übungsgruppen dient.  Viele Grüße Amelie und Johannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Semesterstart",
+                            "Discussion_Id": "585650",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056555",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-04-12T16:11:04+02:00",
+                                    "Content": "Liebe Kursteilnehmer,  herzlich willkommen bei Diskrete Strukturen! Zum Start der Vorlesungszeit nächste Woche, folglich ein Überblick über die ersten Termine dieses Moduls: Die Vorlesung startet in der ersten Vorlesungswoche, am Do. 18.04. um 12:00 im Raum HE101.  Die Tutorien starten in der zweiten Vorlesungswoche (Mo. 22.04. - Fr. 26.04). Ihr könnt eure Termine hierfür auf MOSES bis Mi. 17.04. auswählen. Die jeweiligen Räume (und der Onlineraum) werden bis zum Start des Tutoriumsbetriebs auf der Kursseite eingetragen. Die Großübung startet in der  zweiten Vorlesungswoche, am Do. 25.04 im Raum A151. Die Lernräume öffnen in der zweiten Vorlesungswoche, am Mo. 22.04. um 14 Uhr in der sechsten Etage des Mathegebäudes.  Der geplante wöchentliche Ablauf ist folgender: Nach der Vorlesung wird der Stoff in der Großübung durch Beispiele, Wiederholung und weitere Erklärung ergänzt. Dann werden Übungsblätter veröffentlicht, die teilweise in den Tutorien der folgenden Woche besprochen werden und teilweise dem Selbststudium dienen und für eine Korrektur abgegeben werden können. Zusätzlich stehen montags und donnerstags von 14-18 Uhr Lernräume zur Verfügung, in denen alleine oder gemeinsam gelernt werden kann und Aufgaben bearbeitet werden können. Dort werden Tutoren, sowohl von Diskrete Strukturen als auch von Formale Sprachen und Automaten, anwesend sein, um Fragen zu beantworten.  Zur Prüfung: Die Modulprüfung besteht aus einem Multiple-Choice-Test, einer Hausaufgabe und einer schriftlichen Klausur. Weitere Informationen hierzu folgen im Verlauf des Semesters.  Alle Termine und Orte findet ihr auch auf der Startseite dieses ISIS-Kurses.  Viele Grüße und einen schönen Semesterstart, Johannes und Amelie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1807069",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tut 11",
+                            "Discussion_Id": "607651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089595",
+                                    "Author": "Florian Jobs",
+                                    "DateTime": "2024-07-13T18:05:43+02:00",
+                                    "Content": "Hallo, werden die Lösungssvorschläge von Blatt 11 noch hochgeladen ? MFG :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089609",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-13T21:00:17+02:00",
+                                    "Content": "Hallo Florian,  danke für den Hinweis. Die Lösungsvorschläge sind nun verfügbar.  Viele Grüße Amelie",
+                                    "Response to": "p1089595"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabe 2 - 0 Punkte in ISIS, aber Punkte in Korrektur",
+                            "Discussion_Id": "606984",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088622",
+                                    "Author": "Joshua Daniel Goering",
+                                    "DateTime": "2024-07-10T17:26:30+02:00",
+                                    "Content": "Hallo, Dies ist scheinbar bei vielen passiert - wir haben in der Korrektur Punkte erhalten, aber diese wurden nicht in ISIS eingetragen.   LG, Joshua",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088678",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-10T21:21:18+02:00",
+                                    "Content": "Hallo Joshua,  danke für den Hinweis. Ich habe die Punkte für euer Team nun eingetragen.  Viele Grüße Amelie",
+                                    "Response to": "p1088622"
+                                },
+                                {
+                                    "Message_id": "p1089496",
+                                    "Author": "Luca Joel Jaspers",
+                                    "DateTime": "2024-07-12T21:02:22+02:00",
+                                    "Content": "für unser Team gilt das auch",
+                                    "Response to": "p1088678"
+                                },
+                                {
+                                    "Message_id": "p1089523",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-13T08:26:59+02:00",
+                                    "Content": "Hallo Luca,  ist nun nachgetragen.  Viele Grüße Amelie",
+                                    "Response to": "p1089496"
+                                },
+                                {
+                                    "Message_id": "p1089581",
+                                    "Author": "Finn Beckmann",
+                                    "DateTime": "2024-07-13T16:04:20+02:00",
+                                    "Content": "Bei meiner Gruppe fehlen ebenfalls die Punkte für Aufgabe 2. Mit freundlichen Grüßen Finn",
+                                    "Response to": "p1089523"
+                                },
+                                {
+                                    "Message_id": "p1089607",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-13T20:55:50+02:00",
+                                    "Content": "Hallo Finn,  die Punkte für euer Team sind nun eingetragen.  Viele Grüße Amelie",
+                                    "Response to": "p1089581"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsfolien heute 11.07.2024",
+                            "Discussion_Id": "607141",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088827",
+                                    "Author": "Richard Martin Fitzroy Hickstein",
+                                    "DateTime": "2024-07-11T11:41:32+02:00",
+                                    "Content": "Hallo,  könnten bitte die VL-Folien vor der VL hochgeladen werden? Dies würde die Mitschrift sehr erleichtern. Danke!  Viele Grüße Richard",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einsicht für Hausaufgaben",
+                            "Discussion_Id": "606958",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088581",
+                                    "Author": "Yilong Wang",
+                                    "DateTime": "2024-07-10T16:17:46+02:00",
+                                    "Content": "Liebe DS Gruppe, Ich möchte gerne nachfragen, ob es möglich ist, bei der Klausureinsicht auch die Einsicht für Hausaufgaben zu erhalten? Mit freundlichen Grüßen, Yilong",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themen der Abschlussklausur",
+                            "Discussion_Id": "606903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088503",
+                                    "Author": "Suyog Prakash Srivatsa",
+                                    "DateTime": "2024-07-10T14:00:46+02:00",
+                                    "Content": "Hallo liebes DS-Team, ich möchte mich langsam auf die Abschlussprüfung vorbereiten und frage mich, welche Themen (Vorlesungen/ Tutorien) relevant sind. Vielen Dank. Beste Grüße, Suyog.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088512",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-07-10T14:10:08+02:00",
+                                    "Content": "Hallo Suyog, Alles von Woche 8 bis 12 ist Prüfungsrelevant. Also: Die letzte Woche der Graphentheorie (zu Färbung und Graphzeichnung), die Zahlentheorie und die letzten Wochen zu Ordnungen und Algebra.  Grüße Johannes",
+                                    "Response to": "p1088503"
+                                },
+                                {
+                                    "Message_id": "p1088516",
+                                    "Author": "Suyog Prakash Srivatsa",
+                                    "DateTime": "2024-07-10T14:15:45+02:00",
+                                    "Content": "Hallo Johannes,  vielen Dank für die schnelle Antwort.  Grüße, Suyog",
+                                    "Response to": "p1088512"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unstimmigkeit in der Notenvergabe",
+                            "Discussion_Id": "606898",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088495",
+                                    "Author": "Oleksandra Dron",
+                                    "DateTime": "2024-07-10T13:49:55+02:00",
+                                    "Content": "Hallo, ich habe gerade die Bewertungen der Hausaufgaben überprüft. Bei einer Aufgabe stimmt die Note in ISIS nicht mit der im annotierten Dokument überein. Bitte sagen Sie mir, an wen ich mich wenden soll. Grüße, Oleksandra",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088511",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-07-10T14:09:29+02:00",
+                                    "Content": "Hallo Oleksandra,  danke für den Hinweis. Die Bewertung ist nun angepasst.  Viele Grüße Amelie",
+                                    "Response to": "p1088495"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probeklausur ",
+                            "Discussion_Id": "605916",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087080",
+                                    "Author": "Denis Sergeevic Gelgorn",
+                                    "DateTime": "2024-07-06T15:09:15+02:00",
+                                    "Content": "Guten Tag, ich möchte fragen, ob eine Probeklausur hochgeladen wird, oder es keine Probeklausur gibt? Viele Grüße Denis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Terminauswahl schriftlicher Test?",
+                            "Discussion_Id": "604026",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084353",
+                                    "Author": "Joshua Daniel Goering",
+                                    "DateTime": "2024-06-27T13:05:51+02:00",
+                                    "Content": "Hallo, wann können wir den Termin für den schriftlichen Test auswählen? Habe ich es richtig verstanden, dass man den MC-Test im ersten Termin, aber den schriftlichen Test im zweiten Termin schreiben darf (wenn nicht, dann wäre ja die Wahl des Termins schon bei dem MC-Test erfolgt)? LG, Joshua",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087035",
+                                    "Author": "Leander Elija Luca Bunte",
+                                    "DateTime": "2024-07-05T23:22:13+02:00",
+                                    "Content": "+1 Kann man den Termin von der DS Prüfung noch auswählen?",
+                                    "Response to": "p1084353"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lösungen zu Tutorium 9",
+                            "Discussion_Id": "604690",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085363",
+                                    "Author": "Theo Ben Bruno Biergans",
+                                    "DateTime": "2024-07-01T14:31:22+02:00",
+                                    "Content": "Hallo,  werden die Lösungen zum Tutorium von letzter Woche (Tut 9) noch veröffentlicht?  LG Theo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085403",
+                                    "Author": "Johannes Christoph Benjamin Schröder",
+                                    "DateTime": "2024-07-01T15:12:42+02:00",
+                                    "Content": "Habe ich soeben hochgeladen. Danke für die Erinnerung.  Grüße Johannes",
+                                    "Response to": "p1085363"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VL Folien W. 9 Fehler",
+                            "Discussion_Id": "604679",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085350",
+                                    "Author": "Leonard Emil Luciano Schwab",
+                                    "DateTime": "2024-07-01T14:12:35+02:00",
+                                    "Content": "Hallo, ich glaub in den Vorlesungsfolien Woche 9 hat sich ein Fehler eingeschlichen. Auf S. 78/98 (bzw. 28/36) ist die Primfaktorzerlegung von 8712 inkorrekt, was schon alleine dadurch klar wird, dass sie auf der Folie identisch zu der Primfaktorzerlegung von 24948 ist, was natürlich Quatsch ist.  Danke schon mal für die Rückmeldung!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur Themen",
+                            "Discussion_Id": "604107",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084468",
+                                    "Author": "Anna Takhirovna Khalikova",
+                                    "DateTime": "2024-06-27T17:09:22+02:00",
+                                    "Content": "Könnten Sie uns bereits verraten welche Inhalte klausurrelevant sind?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084604",
+                                    "Author": "Rayssen Zaouali",
+                                    "DateTime": "2024-06-28T10:22:38+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1084468"
+                                },
+                                {
+                                    "Message_id": "p1085036",
+                                    "Author": "Oussema El Mzergui",
+                                    "DateTime": "2024-06-30T17:38:51+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1084468"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsfolien Woche 10 ",
+                            "Discussion_Id": "603924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084222",
+                                    "Author": "Richard Martin Fitzroy Hickstein",
+                                    "DateTime": "2024-06-27T07:38:22+02:00",
+                                    "Content": "Hallo,   könnten bitte vor der Vorlesung die VL-Folien von heute hochgeladen werden? Dies würde bei der Mitschrift sehr helfen. Vielen Dank!  VG Richard",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084235",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-06-27T09:10:10+02:00",
+                                    "Content": "Hallo Richard,  die Vorlesungsfolien sind nun verfügbar.  Viele Grüße Amelie",
+                                    "Response to": "p1084222"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabe 3 Doppelschnittgraphen Definition",
+                            "Discussion_Id": "603683",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083897",
+                                    "Author": "Danil Nepriakhin",
+                                    "DateTime": "2024-06-26T10:20:48+02:00",
+                                    "Content": "Guten Morgen, habe ich es richtig verstanden, dass man den Doppelschnittgraphen im Gründe so bekommt, dass man alle nicht Schnittknoten von Graph G in diesem Graph benutzt und dann für jede Schnittknoten man fügt 2 Knoten, die am Platz von Schnittknoten entstehen sollen? Ich freue auf eine Korrigierung meines Aussagens somit ich besser es verstehen kann.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084027",
+                                    "Author": "Baris Basar",
+                                    "DateTime": "2024-06-26T14:15:49+02:00",
+                                    "Content": "Hallo Danil,  Diese Frage wurde bereits gestellt. https://isis.tu-berlin.de/mod/forum/discuss.php?d=600910  VG",
+                                    "Response to": "p1083897"
+                                },
+                                {
+                                    "Message_id": "p1084074",
+                                    "Author": "Danil Nepriakhin",
+                                    "DateTime": "2024-06-26T15:45:12+02:00",
+                                    "Content": "Habe schon mein eigenes Verständnis für diese Definition überlegt, danke Ihnen",
+                                    "Response to": "p1084027"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zur Seiten Anzahl",
+                            "Discussion_Id": "603811",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084062",
+                                    "Author": "Luis Kian Naderi",
+                                    "DateTime": "2024-06-26T15:29:12+02:00",
+                                    "Content": "Ich habe eine Frage zur Seitenanzahl Wie streng wird es bewertet, wenn man insgesamt mehr als 10 Seiten hat, zum Beispiel 10,5 Seiten? Oder wenn alle Aufgaben zusammen 3,3 Seiten einnehmen, dies jedoch im PDF als 4 Seiten angezeigt wird? Außerdem verliere ich viel Platz, weil das erste Viertel der ersten Seite bei jeder Aufgabe immer von der Überschrift eingenommen wird.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Kreutzer?",
+                            "Discussion_Id": "603690",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083906",
+                                    "Author": "Ben Ortlepp",
+                                    "DateTime": "2024-06-26T10:30:34+02:00",
+                                    "Content": "Fällt heute das Tutorium beim Prof. Kreutzer aus?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabe 3.ii",
+                            "Discussion_Id": "603576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083729",
+                                    "Author": "Adam Abu Kean",
+                                    "DateTime": "2024-06-25T18:35:03+02:00",
+                                    "Content": "Guten Tag Wenn wir den neuen Graphen S,G betrachten, der durch die Einführung von Doppel-Knoten für jeden Schnittknoten im ursprünglichen Graphen  G entsteht, sollten wir dann jeden der neuen Doppel-Knoten (z.B. v1  und  v2 ) als eigenständige und getrennte Entitäten betrachten, wenn wir Schnittknoten in SG  bestimmen? Oder sollten wir jedes Paar von Doppel-Knoten als eine einzige Entität behandeln, die dem ursprünglichen Schnittknoten in  G  entspricht?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083750",
+                                    "Author": "Martin Schoen",
+                                    "DateTime": "2024-06-25T19:43:51+02:00",
+                                    "Content": "Hallo Adam, ich verstehe nicht so ganz, was du mit \"einzige / getrennte Entität(en)\" meinst. Die Definition, die auf dem Aufgabenblatt gegeben ist, beschreibt die Knoten- und Kantenmenge des Doppelschnittgraphen. Und ein Knoten ist halt ein Knoten - egal, wie der seinen Weg in unseren Graphen gefunden hat. Insbesondere ist S_G selbst ja wieder ein \"normaler\" Graph für den die Definition eines Schnittknotens unverändert ist. Falls das den Kern deiner Frage nicht getroffen haben sollte, dann frag gerne nochmal nach.  Viele Grüße, Martin",
+                                    "Response to": "p1083729"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zusammenhängigkeit von 1-Knotigen Graphen",
+                            "Discussion_Id": "603566",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083718",
+                                    "Author": "Danil Nepriakhin",
+                                    "DateTime": "2024-06-25T18:18:33+02:00",
+                                    "Content": "Guten Abend, habe ich es richtig verstanden, dass der Graph, der nur 1 Knoten enthält zusammenhängend ist, oder soll man zumindest 2 Knoten verbunden durch eine Kante als Graph haben, damit es zusammenhängend sein könnte?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083747",
+                                    "Author": "Martin Schoen",
+                                    "DateTime": "2024-06-25T19:38:58+02:00",
+                                    "Content": "Das ist korrekt - Der Graph, der nur aus einem einzelnen Knoten besteht, ist zusammenhängend.",
+                                    "Response to": "p1083718"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Textverarbeitungsprogramm",
+                            "Discussion_Id": "603431",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083527",
+                                    "Author": "Karina Deines",
+                                    "DateTime": "2024-06-25T13:50:17+02:00",
+                                    "Content": "Hallo, Ich hätte da eine Frage zum Thema \"Textverarbeitungsprogramm\". Und zwar wollte ich wissen, ob man Goodnotes ebenfalls als Textverarbeitungsprogramm zählen kann, da man dort ebenfalls eine Schriftart als auch Schriftgröße wählen kann. Anschließend kann man auch alles als PDF umwandeln. Danke für die Antworten im Voraus! ~Karina",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083543",
+                                    "Author": "Amelie Marie-Christin Heindl",
+                                    "DateTime": "2024-06-25T14:15:19+02:00",
+                                    "Content": "Hallo Karina,  falls sich deine Frage auf die Abgabemodalitäten der Hausaufgabe bezieht, kannst du jedes Programm verwenden, bei dem ein lesbares pdf-Dokument entsteht.  Viele Grüße Amelie",
+                                    "Response to": "p1083527"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frage zur Aufgabe 3.vi)",
+                            "Discussion_Id": "602672",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082421",
+                                    "Author": "Luis Kian Naderi",
+                                    "DateTime": "2024-06-21T17:09:53+02:00",
+                                    "Content": 

@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] 60591_PBI_Immobilienökonomie/Projektentwicklung SE",
+        "Course_id": "38835",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1806430",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Bitte an die Evaluation denken!",
+                            "Discussion_Id": "606979",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088615",
+                                    "Author": "Kristin Wellner",
+                                    "DateTime": "2024-07-10T17:21:11+02:00",
+                                    "Content": "Bitte an die Evaluation denken! Das ist sehr wichtig für uns!  Danke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Heute Verspätung (2.7.)",
+                            "Discussion_Id": "604862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085619",
+                                    "Author": "Kristin Wellner",
+                                    "DateTime": "2024-07-02T08:41:09+02:00",
+                                    "Content": "Guten Morgen,  aufgrund eines Notaruteinsatzes werde ich mich um mindestens 30 Minuten verspäten. Ich melde mich nochmlas wenn ich Näheres weiß. Grüße KW  Komme ca. 10:45 an",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Achtung: keine VL am 28.05.2024",
+                            "Discussion_Id": "596642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073536",
+                                    "Author": "Kristin Wellner",
+                                    "DateTime": "2024-05-24T21:31:30+02:00",
+                                    "Content": "Achtung: keine VL am 28.05.2024",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

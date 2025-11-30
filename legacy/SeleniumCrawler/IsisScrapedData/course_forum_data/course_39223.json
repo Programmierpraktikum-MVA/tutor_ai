@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Praxis und Theorie des Segelflugs",
+        "Course_id": "39223",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1828092",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Infoveranstaltung am Mi., 26.06. um 16 Uhr",
+                            "Discussion_Id": "603313",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083385",
+                                    "Author": "Alexandra Müller",
+                                    "DateTime": "2024-06-25T10:03:02+02:00",
+                                    "Content": "Hallo zusammen, schön dass ihr euch für Theorie und Praxis des Segelflugs interessiert. Damit ihr genau wisst, worum es in diesem Modul geht und genaueres zum Ablauf erfahren könnt, wird es am Mittwoch den 26.06. um 16 Uhr eine Infoveranstaltung über Zoom geben. Den Link für das Meeting findet ihr bei den Allgemeinen Informationen oder am Ende dieser Ankündigung. Falls es vorher schon Fragen gibt, könnt ihr mir gerne schreiben. Ich freue mich auf ein spannendes Semester mit euch! Viele Grüße, Alex  https://tu-berlin.zoom.us/j/63632986538?pwd=UVNwL0YwUlNIUWwwVjZTam9RQ0drZz09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1828095",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermine",
+                            "Discussion_Id": "605925",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087097",
+                                    "Author": "Alexej Seib",
+                                    "DateTime": "2024-07-06T17:50:15+02:00",
+                                    "Content": "Hallo, wann wird die mündliche Prüfung stattfinden? Liebe Grüße Alexej",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087351",
+                                    "Author": "Alexandra Müller",
+                                    "DateTime": "2024-07-08T10:19:13+02:00",
+                                    "Content": "Hallo Alexej,  es gibt noch keinen festen Termin für die Prüfungen. Sie werden aber voraussichtlich Ende September / Anfang Oktober stattfinden.  Viele Grüße, Alex",
+                                    "Response to": "p1087097"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Projekt Systemsimulation: Grundlagen",
+        "Course_id": "38177",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782529",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "604179",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084576",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-06-28T09:29:38+02:00",
+                                    "Content": "Hallo, leider habe ich es gestern versäumt euch auf die Lehrevaluation hinzuweisen. Deswegen schon wieder eine Ankündigung, bitte keinen Spam-Filter setzen! Mir persönlich wäre es sehr wichtig, dass möglichst viele von euch konstruktive Kritik äußern, damit ich den Kurs stetig verbessern kann. Für euch ist auch was drin: ihr habt ja nächstes Semester voraussichtlich wieder das Vergnügen, einen Kurs bei mir zu absolvieren, also werden sich eure Anmerkungen und Verbesserungsvorschläge unmittelbar auszahlen! Die Lehrevaluation dauert nur ein paar Minuten und ihr findet sie unter folgendem Link: https://befragung.tu-berlin.de/evasys/online.php?pswd=JHMAE Vielen Dank im Voraus und ein schönes Wochenende Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PyFMI-Simulation mit Ergebnisdatei",
+                            "Discussion_Id": "604063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084410",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-06-27T14:48:12+02:00",
+                                    "Content": "Hallo, Wir haben heute in der Sprechstunde folgendes Problem besprochen: Bei der Auswertung mit Python haben wir bis jetzt immer nur Ergebnisse in den Arbeitsspeicher geladen und unsere gesamte Auswertung direkt im Anschluss gemacht. Dies stellt ein Problem dar, wenn zu einem späteren Zeitpunkt etwas zur Auswertung hinzugefügt werden soll. Dann muss man immer wieder auch die Simulation durchführen. Ich habe deshalb ein Notebook mit dem Titel \"FMU_example_store_results\" angelegt und zu den Unterlagen zur integrierten Veranstaltung hinzugefügt. Hier sind die Simulation und die Auswertung entkoppelt. Als Beispiel wird hier in einer For-Loop für jeden Parameter tau ein unterschiedlich benanntest *.mat-File angelegt. In einer zweiten Schleife werden die Ergebnisse dann wieder eingelesen und ausgewertet. Dies hat den Vorteil, dass ich an der Auswertung Änderungen vornehmen kann, ohne nochmals simulieren zu müssen. Es ist nicht erforderlich, dieses Beispiel zu übernehmen, es könnte aber Vorteile bieten, falls euer Modell eine lange Simulationszeit benötigt. Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Korrektur zum Wettermodell",
+                            "Discussion_Id": "602407",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082024",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-06-20T14:44:39+02:00",
+                                    "Content": "Hallo, ich wurde heute darauf hingewiesen, dass das bereitgestellte Wettermodell unplausible Strahlungswerte liefert. Tatsächlich konnte ich das Problem nachvollziehen und habe festgestellt, dass der voreingestellte Parameter für \"DiffWeatherDataTime\" nicht richtig ist. Damit für die Strahlung korrekte Werte ausgegeben werden, muss im Wettermodell \"CombinedWeather\" der Parameter \"DiffWeatherDataTime\" von 1h auf 0h gesetzt werden. Bitte entschuldigt den daraus resultierenden Mehraufwand. Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Python-FMU und Mat-files",
+                            "Discussion_Id": "600900",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079878",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-06-13T15:04:12+02:00",
+                                    "Content": "Hallo, Ich habe das Archiv zur integrierten Veranstaltung in Python aktualisiert. Die FMU sollte nun das Wettermodell als Ressource enthalten und unabhängig vom Dateipfad funktionieren. Außerdem ist nun ein Notebook \"result_import.ipynb\" enthalten, in dem zwei Wege aufgezeigt werden, wie Simulationsergebnisse aus Dymola in Python importiert werden können. Dies stellt eine Möglichkeit dar, wie Probleme mit Python in der virtuellen Maschine umgangen werden können, da die *.mat-files auch in Windows eingelesen werden können und keine Lizenz benötigt wird. Der aufgezeigte Weg funktioniert analog auch für Ergebnisdateien aus OpenModelica. Auch für die Parameterstudie ist die FMU-Simulation nicht zwingend erforderlich: Dymola bietet über das Menü \"Sweep Parameters\" im Tab \"Simulation\" die Möglichkeit, eine Parameterstudie durchzuführen. Es werden dann für alle Parameterwerte Ergebnisdateien angelegt, die zur Auswertung auf oben genanntem Weg in Python importiert werden müssen.  Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung und Termine",
+                            "Discussion_Id": "599561",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077902",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-06-07T09:37:16+02:00",
+                                    "Content": "Hallo, Die Prüfungsanmeldung ist ab sofort freigeschaltet. Ihr könnt euch bis zum 15.07.2024 in MTS anmelden und bis zum 09.08.2024 wieder abmelden. Abgabefrist für den Bericht ist der 10.08.2024 um 00:00 Uhr. Der Zeitraum für die mündlichen Rücksprachen liegt vom 03.09.2024 bis 05.09.2024. Die Terminwahl wird erst nach Abgabe der Berichte freigeschaltet, da wir uns bei der Anzahl der Termine nach der Anzahl der Abgaben richten werden.  Viele Grüße und ein schönes Wochenende Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HRI-Sommerfest 2024",
+                            "Discussion_Id": "597450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074828",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-05-28T16:45:51+02:00",
+                                    "Content": "Liebe Studierende, bitte beachtet den folgenden Aushang. Inhalte der Veranstaltung sind nicht prüfungsrelevant.   URL: https://pad.systemli.org/p/HRI_Sommerfest_2024-keep",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderungen an der Semesteraufgabe",
+                            "Discussion_Id": "594970",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070962",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-05-16T15:01:51+02:00",
+                                    "Content": "Hallo, es gibt zwei kleine Änderungen an der Semesteraufgabe: Außen- und Innentüren müssen nicht berücksichtigt werden. Des weiteren werden die Räume 4 und 5 zu einem Raum zusammengefasst. Eine aktualisierte Version werde ich Anfang nächster Woche hochladen. Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Shared Clipboard + Nachtrag Semesteraufgabe",
+                            "Discussion_Id": "591744",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065873",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-05-02T14:08:00+02:00",
+                                    "Content": "Hallo, die fehlende Bemaßung habe ich in der Aufgabenstellung ergänzt. Um zwischen dem Host-Betriebssystem und der Virtual Machine copy paste durchführen zu können. muss im Hauptmenü der VirtualBox PGET2024 ausgewählt sein und dann \"ändern\" betätigt werden. Hier kann unter \"Erweitert\" bei der gemeinsamen Zwischenablage beispielsweise \"bidirektional\" ausgewählt werden. Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Semesteraufgabe",
+                            "Discussion_Id": "591106",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064903",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-04-30T10:30:53+02:00",
+                                    "Content": "Hallo, die Semesteraufgabe steht ab sofort auf der ISIS-Seite zur Verfügung. Am Donnerstag werde ich sie ab 12:30 vorstellen, danach können Fragen dazu gestellt werden. Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung",
+                            "Discussion_Id": "588237",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060465",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-04-22T09:59:45+02:00",
+                                    "Content": "Hallo, alle Studierenden, die bei der Umfrage mit \"Ja\" geantwortet haben,  können in diesem Semester an Systemsimulation teilnehmen. Bitte ladet euch zur Vorbereitung die VirtualBox herunter und installiert die virtuelle Maschine. Nutzt dazu die bereitgestellte Installationsanleitung. Bei Installationsproblemen helfen wir euch am 25.04. zwischen 10 und 12 Uhr (c.t.). Der inhaltliche Teil der Einführungsveranstaltung beginnt am 25.04. um 12:30 Uhr (s.t.). Bitte habt zu diesem Zeitpunkt bereits die virtuelle Maschine gestartet. Viele Grüße Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum zur Semesteraufgabe",
+                    "Forum_id": "1797725",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VPN Verbindung",
+                            "Discussion_Id": "591512",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065538",
+                                    "Author": "Philipp Homuth",
+                                    "DateTime": "2024-05-01T21:58:06+02:00",
+                                    "Content": "Hallo, um die VM von zu Hause bedienen zu können wurde uns letzten Donnerstag mitgeteilt, dasss wir per VPN mit dem Internet verbunden sein müssen. Um welches Profil handelt es sich? Jedes mal wenn ich versuche die VM zu starten bricht der Ladevorgang ab. Mit freundlichen Grüßen Philipp",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065869",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-05-02T14:03:51+02:00",
+                                    "Content": "Hallo, ich habe bis jetzt mit der Option \"2-TU-Full Tunnel\" nie Probleme gehabt. Funktioniert es damit?  Viele Grüße Oliver",
+                                    "Response to": "p1065538"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laptop-Eigenschaften",
+                            "Discussion_Id": "587203",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058809",
+                                    "Author": "Mohamad Saed",
+                                    "DateTime": "2024-04-18T10:07:37+02:00",
+                                    "Content": "könnten Sie noch mal bitte erklären, welche  Laptop-Eigenschaften sollte  meines Laptops zur Systemsimulation Modeica haben.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058867",
+                                    "Author": "Oliver Hilgendorf",
+                                    "DateTime": "2024-04-18T11:18:03+02:00",
+                                    "Content": "Hallo Mohamad, in den Folien zur Entscheidungsfindung sind die Anforderungen aufgelistet: Mindestens 2 CPU-Kerne, 8GB RAM und 40GB freier Festplattenspeicher. Falls diese Anforderungen einen Hinderungsgrund darstellen sollten, komme bite nochmal auf mich oder Alex Neubauer persönlich zu, damit wir eine Lösung diskutieren können.  Viele Grüße Oliver",
+                                    "Response to": "p1058809"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

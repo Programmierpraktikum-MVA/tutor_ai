@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Sprache und Kommunikation in den Sozialen Medien",
+        "Course_id": "38319",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1787650",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall Sitzung 13.06.",
+                            "Discussion_Id": "600719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079612",
+                                    "Author": "Karl-Hubert Kiefer",
+                                    "DateTime": "2024-06-12T21:21:14+02:00",
+                                    "Content": "Liebe Studierenden, leider muss die Sitzung morgen aus dringenden persönlichen Gründen ausfallen - ich bitte um Ihr Verständnis. Mit besten Grüßen KH Kiefer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

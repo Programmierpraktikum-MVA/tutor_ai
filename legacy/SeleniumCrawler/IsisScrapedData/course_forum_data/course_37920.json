@@ -1,0 +1,90 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Global Production Engineering Projekt",
+        "Course_id": "37920",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1773165",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Meeting day and time",
+                            "Discussion_Id": "585629",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056528",
+                                    "Author": "Clemens Biet",
+                                    "DateTime": "2024-04-12T14:30:07+02:00",
+                                    "Content": "Dear Students, we still need to find a date for our weekly project meeting. I remember that you wanted to finalize your schedules and come back to me with some suggestions. So, what would fit best for all of you? For me, Monday or Thursday in the afternoon would be ideal. Best, Clemens Biet",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TUB-Cloud link",
+                            "Discussion_Id": "583424",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053210",
+                                    "Author": "Clemens Biet",
+                                    "DateTime": "2024-03-18T13:49:39+01:00",
+                                    "Content": "Dear students, welcome to our ISIS course. I'll primarily use this to communicate to the group. Of course, you can also contact me via email (clemens.biet@tu-berlin.de). Additionally, we now have a TUB-cloud folder. Careful, it's a non-password-protected link and you all have read & write access, so be careful to not to share the link with others (and be careful with what you do - don't accidently delete everything). https://tubcloud.tu-berlin.de/s/kF5q3JHkWoNj6AJ Best, Clemens Biet",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1821892",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "People leaving the project",
+                            "Discussion_Id": "589993",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063228",
+                                    "Author": "Clemens Biet",
+                                    "DateTime": "2024-04-25T20:19:42+02:00",
+                                    "Content": "Dear students, so most of you informed me that they have decided not to continue with the project. That's fine, I respect your decision. Still, I'm kinda curious about the reasons. Of course, I want to offer interesting projects to the students in the future so I would like to know: what was the problem with this project? what made you quit? You would help me if you gave me some honest feedback that I can try to work on for the next time. Well, and regarding the students who didn't write me to inform me about them leaving the project - are you still with me? I'd love to continue the project, even with a small group. Let me know what you think. Best regards, CLemens",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063257",
+                                    "Author": "Renato De Almeida Leitao E Silva",
+                                    "DateTime": "2024-04-25T21:52:31+02:00",
+                                    "Content": "Hi Clemens  Unfortunately, GPE didn’t approved 6 credits I did at TU during last semester. Thus, I am now quite busy with more credits and I won’t be able to cope. The project continue to be very interesting, with a very hands on application and project development experience. From my side, there was/is nothing “wrong”, but as mentioned, the workload would sufocante the other classes.  Regards Renato",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Meeting today - where are you?",
+                            "Discussion_Id": "589917",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063111",
+                                    "Author": "Clemens Biet",
+                                    "DateTime": "2024-04-25T16:35:00+02:00",
+                                    "Content": "Hi, maybe I missed something but I remember us saying that we would meet again this week at the same day, same time - which is now, but nobody is here. Where are you? Clemens",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1063123",
+                                    "Author": "Renato De Almeida Leitao E Silva",
+                                    "DateTime": "2024-04-25T16:54:05+02:00",
+                                    "Content": "Hi Clemens  Sorry for the short notice, but I’ve decided to leave the MFP projects.  Thanks Regards",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

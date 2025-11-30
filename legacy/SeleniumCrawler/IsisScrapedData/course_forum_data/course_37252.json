@@ -1,0 +1,187 @@
+[
+    {
+        "Course_Name": "[SoSe24] Robotics: Current Topics",
+        "Course_id": "37252",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1754049",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fedback form online",
+                            "Discussion_Id": "606040",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087277",
+                                    "Author": "Adrian Sieler",
+                                    "DateTime": "2024-07-08T08:52:55+02:00",
+                                    "Content": "Dear students,  We have opened the feedback survey for this year's seminar (Deadline: 16.06.2024). We would be grateful if you could spare 5 minutes to answer the questions and give us the opportunity to improve the structure of the seminar. It was the first time we ran the seminar with the scope of this year's seminar. Therefore, feedback is even more appreciated.  Thank you and all the best, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Report template online",
+                            "Discussion_Id": "605601",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086640",
+                                    "Author": "Adrian Sieler",
+                                    "DateTime": "2024-07-04T16:46:24+02:00",
+                                    "Content": "Dear students,  The report template is finally online. You can find the requirements in the comments of the tex file. If you have any questions, please contact me. The deadline for submission is 07.08.2024.  Best, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Session on 10th moved to 17th July",
+                            "Discussion_Id": "603775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084009",
+                                    "Author": "Adrian Sieler",
+                                    "DateTime": "2024-06-26T13:45:58+02:00",
+                                    "Content": "Dear students, Due to absence of Oliver and many of the PhD students on the 10th of July, we need to postpone the last presentation to the 17th of July. This means there will be no session on the 10th of July. Best, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presence at the seminar",
+                            "Discussion_Id": "600756",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079671",
+                                    "Author": "Adrian Sieler",
+                                    "DateTime": "2024-06-13T08:44:33+02:00",
+                                    "Content": "Dear students,  We would like to remind you that we strongly encourage you to attend the seminar every Wednesday. If you are not able to do so, please please send us an e-mail with the reason before the session.  Thank you very much! Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slides from AI-specific wisdom and lessons for better presentations",
+                            "Discussion_Id": "599577",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077925",
+                                    "Author": "Aravind Rao Battaje",
+                                    "DateTime": "2024-06-07T10:31:15+02:00",
+                                    "Content": "We have made the slides from the last couple of sessions on AI-specific wisdom and lessons for better presentations available on the course page. You can also use the following links: AI-specific wisdom: https://isis.tu-berlin.de/mod/folder/view.php?id=1840507  Lessons for better presentations: https://isis.tu-berlin.de/mod/resource/view.php?id=1841306",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ideas on literature survey",
+                            "Discussion_Id": "597690",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075184",
+                                    "Author": "Aravind Rao Battaje",
+                                    "DateTime": "2024-05-29T15:56:11+02:00",
+                                    "Content": "Please find the ideas we brainstormed today for literature survey on course page or here. Don't forget to register yourselves on MOSES. Deadline is May 31st!! Good luck for the presentations!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Session on May 29th",
+                            "Discussion_Id": "596060",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072673",
+                                    "Author": "Aravind Rao Battaje",
+                                    "DateTime": "2024-05-22T16:00:18+02:00",
+                                    "Content": "Sorry for the confusion, but we will indeed have a session next week on 29.05.2024! We will talk more AI-specific wisdom, and have a short discussion on things to keep in mind for literature survey. Following that session, the schedule will be as planned. That is, on 05.06.2024, we will begin presentations from you with the topic \"Are Current Robots as Capable as Humans Already or Are We Being Deceived by Carefully Crafted Illusions?\" PS: Please do not forget to register yourselves on MOSES before 31.05.2024!!!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction to Science",
+                            "Discussion_Id": "590670",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064238",
+                                    "Author": "Adrian Sieler",
+                                    "DateTime": "2024-04-29T10:38:46+02:00",
+                                    "Content": "Dear all,  Oliver's introductory presentation to science is now online. Please see the comments in the PowerPoint for additional references and links.  Best, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses Registration",
+                            "Discussion_Id": "590035",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063291",
+                                    "Author": "Adrian Sieler",
+                                    "DateTime": "2024-04-26T07:08:34+02:00",
+                                    "Content": "Dear all, The official deadline for the registration on Moses is 31.05. Best, Adrian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1754051",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Report Information",
+                            "Discussion_Id": "604590",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085204",
+                                    "Author": "Ladislaus Finger",
+                                    "DateTime": "2024-07-01T11:08:24+02:00",
+                                    "Content": "Last seminar we were told to get further information on the report by the end of last week. But i cant get any information from the isis page for now. Is there still no post regarding the report or didnt i look at the right places?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086331",
+                                    "Author": "Lion-Constantin Weber",
+                                    "DateTime": "2024-07-03T21:47:53+02:00",
+                                    "Content": "In addition to that, I think we get a template for the report. Is that already uploaded somewhere on ISIS? Lion :)",
+                                    "Response to": "p1085204"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Open Science",
+                            "Discussion_Id": "595070",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071127",
+                                    "Author": "Oliver Brock",
+                                    "DateTime": "2024-05-17T07:37:58+02:00",
+                                    "Content": "Dear Roboticists, It seems like the people who contributed to the discussion about open science during out last session strongly supported it. That is, of course, a very reasonable position. But I was surprised by how certain some of you were about your positions, seemingly without having considered the pros in cons in detail. This is why I would like to at least present one counterargument for your consideration, still without revealing my own opinion about the matter. One central strategy of open science is open access publishing. In this publishing model, the cost of publishing is covered by the authors, whereas in the traditional model, the subscribers to journals cover this cost. For many journals, there is a significant price tag attached to publishing a paper, ranging from 1,000 to 10,000 US$. This amount of money is not available to all authors. For example, authors from disciplines that are not as generously funded as computer science (think: philosophy, where people rarely have research grants) will in general not be able to afford this.  Also for authors from developing countries such sums are out of reach. So while open access publication achieves its goal of making research results for everyone, it limits access to publication channels for large parts of the scientific community. Currently, we have a mixture of open access and closed access publication. Most funding agents in \"rich\" countries require open access publications, so this works well, when the funds for open access publication are provided to researchers. But I think these publication fees are also jeopardizing effective scientific dissemination for some disciplines and some geographic regions. Always consider all sides of the argument before you make up your mind! Best, Oliver   ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Robotics at the Intersection between Science and Engineering",
+                            "Discussion_Id": "594698",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070558",
+                                    "Author": "Erik Schlenzka",
+                                    "DateTime": "2024-05-15T15:43:28+02:00",
+                                    "Content": "Here are the two sources from the Science of Science week resources I wanted to highlight: Nurzaman, Surya. \"Challenges and Perspectives in Scientific Publication of Robotics as an Interdisciplinary Field of Study.\" Robotics Reports 1.1 (2023): 1-4. Redfield, Signe. \"A definition for robotics as an academic discipline.\" Nature Machine Intelligence 1.6 (2019): 263-264. Have fun reading!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

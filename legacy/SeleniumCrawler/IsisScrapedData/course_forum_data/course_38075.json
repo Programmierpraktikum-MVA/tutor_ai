@@ -1,0 +1,81 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar: Machine Learning for Biomedical Signal Analysis",
+        "Course_id": "38075",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1778770",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Upoming: Seminar Presentations",
+                            "Discussion_Id": "603147",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083142",
+                                    "Author": "Alexander Lühmann",
+                                    "DateTime": "2024-06-24T16:24:24+02:00",
+                                    "Content": "Seminar presentations are upcoming. On July 2nd and 9th, at 10:00 am each, in MAR 4.033. Talks will be announced and are open to the ML department staff. Presentations will be evaluated based on Clear and understanding of scienctific content Organization Preparation Quality of presentation (slides, communication, engagement, language) Question & Answer session 02. July 2024 N. Doepner - \"Deep Learning in fNIRS: A Review\" (20 min + 10 min Q&A) J. Potel - \"Structured spares multiset CCA of simultaneous fNIRs and EEG provides new insights into the human action-observation network\" (20 min + 10 min Q&A)   09. July 2024 L. Dürrwald - \"Multimodal Deep Learning for Biomedical Data Fusion: a review\" (20 min + 10 min Q&A) Jeremie Güsten - \"Diversity in Indepentent Component and VectorAnalyses\" (20 min + 10 min Q&A)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic assignment concluded",
+                            "Discussion_Id": "592331",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066832",
+                                    "Author": "Alexander Lühmann",
+                                    "DateTime": "2024-05-05T15:35:04+02:00",
+                                    "Content": "Dear participants, your topic assignments are concluded. You can find your time slot on July 2nd/9th and your topic in the course schedule on the main page. Your presentations will be advertised within the ML department to interested researchers one week prior to the seminar.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic Selection",
+                            "Discussion_Id": "591415",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065363",
+                                    "Author": "Alexander Lühmann",
+                                    "DateTime": "2024-05-01T09:39:33+02:00",
+                                    "Content": "As discussed during the kickoff session on 30 April, please send me via email your topic of choice that you would like to work on and present at the end of the seminar, latest by Friday May 3rd, 18:00.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Admission process concluded",
+                            "Discussion_Id": "589552",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062553",
+                                    "Author": "Alexander Lühmann",
+                                    "DateTime": "2024-04-24T18:14:09+02:00",
+                                    "Content": "The admission procedure is closed. Thank you for filling in the enrollment form. If you did, and enrolled for this course here on ISIS, you should have received an email regarding your participation on 24.4.2024, 18:00. If you did not receive an email but think you should have (e.g. you filled out the enrollment form but did not enrol in the course, which is necessary to access your email) please reach out to vonluehmann@tu-berlin.de.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Admission requests now possible until 24 April",
+                            "Discussion_Id": "587505",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059283",
+                                    "Author": "Alexander Lühmann",
+                                    "DateTime": "2024-04-19T08:00:00+02:00",
+                                    "Content": "Admission It is now possible to request admission to the ML for BSA seminar. Because of the format of this seminar, there is a limit of attendees that can be accepted. Priorization will happen according to AllgStuPo.  To request admission, please fill in the enrollment form (link or below the general course info section) by Wed, April 24th 12:00. You will be notified about your admission result by Thu April 25th 18:00.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

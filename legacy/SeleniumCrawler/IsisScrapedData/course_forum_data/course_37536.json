@@ -1,0 +1,227 @@
+[
+    {
+        "Course_Name": "Struktur- und Parameteridentifikation 1 (SoSe 24)",
+        "Course_id": "37536",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1762301",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lecture - 02.07",
+                            "Discussion_Id": "604755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085456",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-07-01T16:26:49+02:00",
+                                    "Content": "Dear Students,  There will be an introduction to machine learning lecture tomorrow from 14:15 to 15:45 in ER 201. Please note that this lecture is not assessable but rather for those who are interested in discussing the similarities and differences between SPI and machine learning.  Kind Regards,  Roxy ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projekt - Subgruppen &amp; Fermentation",
+                            "Discussion_Id": "602474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082124",
+                                    "Author": "Terrance Wilms",
+                                    "DateTime": "2024-06-20T18:24:45+02:00",
+                                    "Content": "Hallo zusammen, wie besprochen ist die Wahl der SubGruppen freigeschaltet. Jede Gruppe bearbeitet die Aufgaben: PI, ZS & OVP. Die Vertiefungsthemen sind wie folgt aufgeteilt: PI (A1,A2), ZS (B1,B2) und OVP (C1,C2).  Konkrete Vorschläge zu den Vertiefungsthemen gibt es von mir und Roxy während der Sprechzeiten, nachdem die grundlegenden Aufgaben erledigt wurden.  Die von Robert Knorre heute präsentierten Daten sind hier zu finden Präsentation & Codes.  Die Vorbereitung der Fermentation sowie die Fermentation selbst findet nächste Woche täglich zwischen 9-16:00 statt. Bitte besprecht innerhalb eurer Gruppen, wer teilnehmen kann und gebt mir kurz Bescheid.  Es besteht die Möglichkeit, dass die Fermentation aufgrund des defekten Kühlwassersystems im Gebäude nicht stattfinden kann. Für diesen Fall stehen Messdaten aus 3 vergangenen Experimenten zur Verfügung. Erscheint bitte dennoch nächste Woche in der von euch abgestimmten Konstellation, damit wir die Zeit für Konsultationen und die Analyse der Messdaten nutzen können.  Bei Fragen und Unklarheiten schreibt mir eine Mail.  Viele Grüße, Terrance",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungstermine für SoSe2024",
+                            "Discussion_Id": "602053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081536",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-06-19T11:46:53+02:00",
+                                    "Content": "Liebe alle,  wie gestern in der VL besprochen, biete ich Prüfungstermine im Juli, August und September an. Die Terminbuchung erfolgt ausschließlich über das dazu eingerichtete Modul auf ISIS (bitte nach unten scrollen): https://isis.tu-berlin.de/course/view.php?id=37243 Die Prüfung ist mündlich.  Viele Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SPI - Projektgruppen",
+                            "Discussion_Id": "600882",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079852",
+                                    "Author": "Terrance Wilms",
+                                    "DateTime": "2024-06-13T14:13:44+02:00",
+                                    "Content": "Hallo zusammen, wie heute in der Übung angekündigt könnt ihr euch in die Gruppen eintragen: Projektgruppen. Es sind 3 Gruppen für jeweils 5 Personen. Sollten die Gruppen voll sein und ihr noch Plätze benötigen, schreibt mir bitte eine Email.  Nächste Woche in der Übung für die OVP gibt es weitere Informationen zum Projekt, Modell, Code und die Fermentationswoche 24.06-28.06.  Schaut euch die Projektbeschreibung an und schreibt mir wenn ihr Fragen habt.  VG Terrance",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "heutige Vorlesung entfällt / durch Videos ersetzt",
+                            "Discussion_Id": "598752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076744",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-06-04T09:15:42+02:00",
+                                    "Content": "Liebe Studies,  krankheitsbedingt kann ich die heutige Vorlesung leider nicht halten. Als Ausgleich habe ich Ihnen die entsprechenden Videos aus den Coronajahren freigeschaltet und empfehle das Lesen der entsprechenden Kapitel im Skript. Außerdem teile ich mit Ihnen die Notizen, die ich sonst heute in die Vorlage geschrieben hätte. Natürlich stehe ich für Fragen zu dem Material -so wie zu allen Inhalten aus SPI - gern zur Verfügung.  Herzliche Grüße Steffi Knorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 4 verschoben",
+                            "Discussion_Id": "597622",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075081",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-05-29T12:52:57+02:00",
+                                    "Content": "Hallo Zusammen,  aufgrund einiger logistischer Probleme wird Übung 4 auf Woche 9 (am 13.06) verschoben und Übung 5 findet in Woche 10 (am 20.06) statt.  LG,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung in ER 201",
+                            "Discussion_Id": "594437",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070135",
+                                    "Author": "Roxanne Rose Jackson",
+                                    "DateTime": "2024-05-14T17:13:23+02:00",
+                                    "Content": "Hallo zusammen,  ab Donnerstag (16.05) findet die SPI-Übung in ER 201 statt.  LG,  Roxy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich willkommen bei SPI und Zoom-Link",
+                            "Discussion_Id": "584068",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054251",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-03-26T17:24:42+01:00",
+                                    "Content": "Herzlich willkommen bei Struktur- und Parameteridentifikation!  Die integrierten Veranstaltungen (Vorlesungen und Übungen) finden dienstags von 14:15 bis 15:45 und donnerstags von 10:15 bis 11:45 im Raum H 1058 statt. Die Veranstaltungen mit Steffi Knorn werden außerdem über Zoom übertragen: https://tu-berlin.zoom.us/j/68289533496?pwd=aUNHd0hkWjZvWFNON3Z0TzJZYThEZz09 Die erste Vorlesung findet bereits am Dienstag 16.4. statt! Bis dahin viele Grüße!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1762304",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Thermine Präsentationen",
+                            "Discussion_Id": "604166",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084558",
+                                    "Author": "Merle Marie Rehberg",
+                                    "DateTime": "2024-06-28T08:23:15+02:00",
+                                    "Content": "Hallo liebes Team, ich habe schon mehrere Versionen des PDF Project_2024 gesehen mit unterschiedlichen Terminen für die Präsentationen. Ist das momentane PDF mit den Zeiten 13.08. und 20.08. korrekt oder gibt es noch eine andere Stelle, wo dies deutlich gemacht wurde? Liebe Grüße Merle",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084587",
+                                    "Author": "Terrance Wilms",
+                                    "DateTime": "2024-06-28T09:50:09+02:00",
+                                    "Content": "Hallo,  danke für den Hinweis.  13.08 Demonstration und 20.08 presentation ist richtig.  vg terrance",
+                                    "Response to": "p1084558"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Daten der heutigen Laborübung",
+                            "Discussion_Id": "603208",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083236",
+                                    "Author": "Felix Daniel Hilken",
+                                    "DateTime": "2024-06-24T19:31:12+02:00",
+                                    "Content": "Hallo zusammen,  Ich habe die Daten der heutigen Laborübung mit nach Hause genommen und wollte diese mit euch teilen. Ihr könnt den Datensatz zur Glucosemessung hier herunterladen:  https://tubcloud.tu-berlin.de/s/9EHgxx6kPdBFds4 Ich wünsche einen schönen Abend.  LG Felix Hilken",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PartnerInen suchen",
+                            "Discussion_Id": "602363",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081956",
+                                    "Author": "Guowei Liu",
+                                    "DateTime": "2024-06-20T12:43:19+02:00",
+                                    "Content": "Hallo zusammen, Ich suche PartnerInen, um das Projekt zu machen. Suchen Sie auch einen Platz? Kontaktieren Sie mich bitte. Vielen Dank  Guowei",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Telegrammgruppe",
+                            "Discussion_Id": "600661",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079514",
+                                    "Author": "Jannis Langer Pascual",
+                                    "DateTime": "2024-06-12T16:36:07+02:00",
+                                    "Content": "hi studis, hier ist eine Telegrammgruppe für SPI. Zum Informationsaustausch, Gruppenfindung fürs Projekt, und sonstiges.  https://t.me/+k8Pc-LIbg5piMTk6  Jannis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welche Termine sind online",
+                            "Discussion_Id": "588694",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061223",
+                                    "Author": "Merle Marie Rehberg",
+                                    "DateTime": "2024-04-23T06:48:44+02:00",
+                                    "Content": "Hallo Frau Prof. Knorn, gibt es irgendwo eine Übersicht für welche Termine online angeboten werden oder ist das immer der Dienstag? Liebe Grüße Merle Rehberg",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061234",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-04-23T07:52:21+02:00",
+                                    "Content": "Liebe Frau Rehberg,  sämtliche meiner Veranstaltungen werden auch online angeboten. Ob das auch für die Übungen gilt, die meist am Donnerstag sind, muss ich mit der Übungsleiterin besprechen.  Viele Grüße Steffi Knorn",
+                                    "Response to": "p1061223"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Language",
+                            "Discussion_Id": "586442",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057747",
+                                    "Author": "Yahuan Shi",
+                                    "DateTime": "2024-04-16T15:00:48+02:00",
+                                    "Content": "Hello, Frau Prof. Knorn Could the course be tought in english? Or take oral exam and project of the course in english?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061233",
+                                    "Author": "Steffi Knorn",
+                                    "DateTime": "2024-04-23T07:51:00+02:00",
+                                    "Content": "Hej! I have my material in German but can recommend an English book. Also, doing the exam in English and asking /answering questions in English won't be a problem.  Regards, Steffi",
+                                    "Response to": "p1057747"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

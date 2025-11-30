@@ -1,0 +1,31 @@
+[
+    {
+        "Course_Name": "Betriebsmittel hochspannungstechnischer Anlagen SoSe24",
+        "Course_id": "37687",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Teilnehmendenforum",
+                    "Forum_id": "1767377",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "https://openinframap.org/",
+                            "Discussion_Id": "586903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058373",
+                                    "Author": "William Stanley Selbherr",
+                                    "DateTime": "2024-04-17T14:12:13+02:00",
+                                    "Content": "Vlt hilft es jemandem Die durchgezogenen Linien sind Freileitungen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

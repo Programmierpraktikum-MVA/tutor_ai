@@ -1,0 +1,322 @@
+[
+    {
+        "Course_Name": "Wahrscheinlichkeitstheorie I (SoSe 24)",
+        "Course_id": "37154",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Organisatorisches",
+                    "Forum_id": "1749925",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abgabezeitpunkt der dritten Hausaufgabe",
+                            "Discussion_Id": "595065",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071122",
+                                    "Author": "Valentin Svet",
+                                    "DateTime": "2024-05-17T01:11:28+02:00",
+                                    "Content": "Hallo, der Abgabetermin für die dritte Hausaufgabe wurde auf den Donnerstag und nicht den Freitag gesetzt.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Gruppenwahl nach Tutorieneinteilung",
+                            "Discussion_Id": "587509",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059288",
+                                    "Author": "Yuchen Guo",
+                                    "DateTime": "2024-04-18T21:49:36+02:00",
+                                    "Content": "Hallo.  Ich habe erst nach der Tutorieneinteilung eine 3er-HA-Gruppe gefunden, aber unsere von MOSES zugeteilte Tutorinnen stimmen nicht überein.  Eine Gruppenmitgliederin behauptet sogar, dass die nicht-Übereinstimmung der Tutorinnen zu sofortigem Scheinverlust führt.  Kann ich trotzdem eine HA-Gruppe bilden? Oder muss ich nach eine neue Gruppe suchen, sodass alle Gruppenmitgliedern sich unter der Betreuung von gleichem Tutor befinden?  Viele Grüße  Yuchen",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059458",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-04-19T11:20:42+02:00",
+                                    "Content": "Hallo Yuchen,  vor \"sofortigem Scheinverlust\" braucht ihr euch nicht zu fürchten. Keine Ahnung, woher diese Information stammt, aber das ist jedenfalls nicht richtig. Abgesehen davon muss man vor dem Verlust des Scheins ja erstmal einen haben ;)  So wie ich das sehe, sind zwei von drei Personen eurer Gruppe bei Leon und eine Person bei Paul. Daher schlage ich vor, dass ihr bitte eine Gruppe bei Leon bildet. Ich habe das jetzt für euch mal übernommen. Ihr seid jetzt die Gruppe LS1. (Warum habt ihr euch überhaupt bei mir eingetragen, wenn niemand bei mir im Tutorium ist?)  Ich hoffe, damit ist jetzt alles erstmal geklärt. Viel Spaß mit den Hausaufgaben!  Cheers Thorsten",
+                                    "Response to": "p1059288"
+                                },
+                                {
+                                    "Message_id": "p1059648",
+                                    "Author": "Yuchen Guo",
+                                    "DateTime": "2024-04-19T15:01:13+02:00",
+                                    "Content": "> Warum habt ihr euch überhaupt bei mir eingetragen, wenn niemand bei mir im Tutorium ist?  Weil wir dich lieben. (BVG)",
+                                    "Response to": "p1059458"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp-Gruppe WT 1",
+                            "Discussion_Id": "586909",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058383",
+                                    "Author": "Anna Popkova",
+                                    "DateTime": "2024-04-17T14:23:05+02:00",
+                                    "Content": "Hallo, ich habe eine WhatsApp-Gruppe für WT 1 erstellt. Gerne beitreten mit diesem Link:): https://chat.whatsapp.com/J1e0M6QLLre06rCXmoA0GC",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Inquiry regarding the language of instruction ",
+                            "Discussion_Id": "585718",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056681",
+                                    "Author": "Turhan Shabnam Hiyam",
+                                    "DateTime": "2024-04-14T00:19:34+02:00",
+                                    "Content": "I'd like to confirm if the course is taught in English.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056712",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-04-14T14:27:45+02:00",
+                                    "Content": "Hi Hiyam,  Thank you for reaching out. This course will be taught in German since it is one of the basic courses mandatory for our undergraduate math majors.  Best regards Thorsten",
+                                    "Response to": "p1056681"
+                                },
+                                {
+                                    "Message_id": "p1056719",
+                                    "Author": "Turhan Shabnam Hiyam",
+                                    "DateTime": "2024-04-14T15:06:16+02:00",
+                                    "Content": "Thank you, Sir. I extend my gratitude for your informative response.",
+                                    "Response to": "p1056712"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Ankündigungen / Newsfeed",
+                    "Forum_id": "1749924",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Herzlich Willkommen!",
+                            "Discussion_Id": "578634",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1045554",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-02-10T12:52:07+01:00",
+                                    "Content": "In diesem Kurs werden wir uns mit der Frage befassen, wie man das Konzept von Zufall formalisieren und mathematisch untersuchen kann. Neben den möglicherweise bereits aus der Schule bekannten Urnenmodellen werden wir beispielsweise besprechen, was es mit stochastischer Unabhängigkeit auf sich hat und wie man mit Hilfe sogenannter „Zufallsvariablen“ stochastische Experimente beschreiben kann. Darüber hinaus werden wir lernen, warum Ziegen und Autos für viel Aufsehen sorgen, warum es gar nicht so unwahrscheinlich ist, dass in einem Rosinenbrötchen keine einzige Rosine ist und wie man mit Affen das Gesamtwerk von Shakespeare reproduzieren kann. Bei unserer Reise durch die Grundlagen der diskreten und stetigen Wahrscheinlichkeitstheorie werden wir Methoden aus unterschiedlichen mathematischen Disziplinen – insbesondere aber der Maßtheorie – verwenden. Fans der Analysis werden hier ebenso auf ihre Kosten kommen, wie Fans der Linearen Algebra, der Kombinatorik oder der diskreten Mathematik im Allgemeinen. Darüber hinaus könnt ihr eure stochastische Intuition in diversen Wetten auf die Probe stellen, die hin und wieder in der Übung abgeschlossen werden. Möge Fortuna euch beistehen.  Ausgewählte Highlights dieser Veranstaltung:  Gesetz der großen Zahlen Poisson'scher Grenzwertsatz Zentraler Grenzwertsatz Erzeugende Funktionen Markov-Ketten  Das WT-1-Team freut sich auf Euch!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorien 12.07. bei mir",
+                            "Discussion_Id": "605815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086927",
+                                    "Author": "Tong Mao",
+                                    "DateTime": "2024-07-05T14:13:00+02:00",
+                                    "Content": "Liebe Studis, einige eurer Mitstudis haben sich gewünscht, dass die Freitagstutorien bei mir nächste Woche online stattfinden. Ich werde daher Mitte nächster Woche einen Zoom-Link zur Verfügung stellen, unter dem ich nächste Woche Freitag von 10 bis 14 Uhr erreichbar bin (ich werde ganz normal ein Tutorium halten, aber natürlich werden wir bei Bedarf auch daraus eine Sprechstunde zur Klausurvorbereitung machen können). Falls jemand von euch etwas gegen ein Online-Tutorium hat, möge der oder die mir gerne schrieben. Dann schaue ich, ob wir einen Kompromiss finden können. Herzliche Grüße und schönes Wochenende  Tong",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089100",
+                                    "Author": "Tong Mao",
+                                    "DateTime": "2024-07-11T20:49:46+02:00",
+                                    "Content": "Und hier der Zoom-Link für morgen: https://tu-berlin.zoom.us/j/67958267452?pwd=toCLOGca9m4CKyPF3SAHjRpQMO4Qke.1",
+                                    "Response to": "p1086927"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Informationen zur Klausur und zur letzten Vorlesungswoche",
+                            "Discussion_Id": "607204",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088910",
+                                    "Author": "Matthias Hammer",
+                                    "DateTime": "2024-07-11T14:10:09+02:00",
+                                    "Content": "Liebe Studierende, es folgen einige Informationen zur letzten Vorlesungswoche sowie zur Klausur in der “Wahrscheinlichkeitstheorie I”:  - Die Anmeldung zur Erstklausur (Termin: Mo, 22.07., 9:00-11:00 Uhr) ist noch bis kommenden Montag (15.07.) möglich. Die Anmeldung erfolgt für alle Studierenden über MOSES unter MTS -> Modulprüfungen.  - Die Klausur am 22.07. findet im Hörsaal H 0105 (Audimax) statt. Wie bereits zu Anfang des Semesters bekanntgegeben, ist als Hilfsmittel (nur) ein beidseitig handschriftlich beschriebenes DIN A4-Blatt zugelassen. - Auf der Kursseite finden Sie mittlerweile eine Probeklausur zur selbständigen Bearbeitung (direkter Link: https://isis.tu-berlin.de/mod/resource/view.php?id=1854892). Diese Probeklausur wird in der letzten Vorlesung am Mi, 17.07., 12-14 Uhr besprochen; die Lösungen werden im Anschluss daran veröffentlicht. - In der letzten Vorlesungswoche werden die Übung und die Dienstags-Vorlesung miteinander getauscht: Am Mo, dem 15.07. findet 10-12 Uhr im H 1028 die Vorlesung statt der Übung statt. Wir werden dann das Thema Statistik / Schätztheorie und damit den Stoff für dieses Semester abschließen. Am Di, dem 16.07., findet dafür von 10-12 Uhr im MA 005 die große Übung statt. Dort wird es zum einen ebenfalls um Statistik gehen und zum anderen um eine Wiederholung des gesamten Stoffes.  - Die Tutorien und Sprechstunden finden in der nächsten Woche regulär statt und werden ebenfalls zur Wiederholung genutzt; Sie können dort gerne Fragen zum Stoff der gesamten Veranstaltung stellen.  Mit freundlichen Grüßen Matthias Hammer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einmalige Zusammenlegung Tutorien 5.7.",
+                            "Discussion_Id": "605669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086743",
+                                    "Author": "Tong Mao",
+                                    "DateTime": "2024-07-05T08:42:55+02:00",
+                                    "Content": "Liebe Studis, ich muss leider kurzfristig die zwei Tutorien heute zusammenlegen. Es wird nur die Veranstaltung um 12 Uhr c.t. stattfinden. Falls ihr zu dem früheren Tutorium kommen wolltet, das spätere allerdings nicht besuchen könnt, meldet euch einfach per Mail bei mir. Wir können dann ggf. einen Termin für ein Nachhol-Tutorium vereinbaren. Herzliche Grüße  Tong ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Filmvorstellung",
+                            "Discussion_Id": "601471",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080708",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-06-17T12:26:06+02:00",
+                                    "Content": "Liebe Studis, ich vergaß eben in der Übung auf die heutige Vorstellung des Uni-Kinos hinzuweisen: https://www.unifilm.de/studentenkinos/Berlin_TU Der heutige Film dreht sich um die mathematische Behandlung und Lõsung des Bonnet-Problems, in dem auch die Mathematiker*innen der TU Berlin mitgewirkt haben. Viel Spaß!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Korrekturen HAs und Übungsmitschriften",
+                            "Discussion_Id": "599985",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078540",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-06-10T12:49:47+02:00",
+                                    "Content": "Liebe Studis, es sind korrigierte Versionen der HA-Blätter 7 und 8 (jeweils Indexanpassung bei den zufälligen Summen) sowie der heutigen Übung online (letztes Beispiel). Cheers Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Absolute Stetigkeit",
+                            "Discussion_Id": "597908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075501",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-05-30T13:45:55+02:00",
+                                    "Content": "Liebe Studis, zu eurem Lesevergnügen findet ihr absofort im Ordner \"Übungsmitschriften\" ein Dokument, in dem ich mal etwas ausführlicher auf den Begriff der absoluten Stetigkeit eingehe – als kleine Ergänzung zum Vorlesungsstoff. Solltet ihr das Bedürfnis verspüren, etwas mehr darüber erfahren zu wollen, hilft dieser Text hoffentlich dabei, etwas Licht ins Dunkel zubringen :) Viel Spaß beim Lesen und Verstehen! Cheers Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen (24.05.) keine Tutorien",
+                            "Discussion_Id": "596214",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072876",
+                                    "Author": "Tong Mao",
+                                    "DateTime": "2024-05-23T09:49:22+02:00",
+                                    "Content": "Liebe Studis, ich bin leider erkrankt und werde morgen (24.05.) keine Tutorien halten können. Alle, die es einrichten können, sollten am besten heute die Tutorien von Leon wahrnehmen! Falls ihr auch eure HAs bei mir abgebt, muss ich euch hier leider um etwas mehr Geduld bitten: Durch die Krankheit kann es sein, dass sich die Korrektur etwas verzögert. Bis Anfang nächster Woche solltet ihr aber eure Korrekturen erhalten haben. Herzliche Grüße und entschuldigt bitte die Umstände Tong",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde heute um 9 Uhr bei Tong",
+                            "Discussion_Id": "595854",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072382",
+                                    "Author": "Tong Mao",
+                                    "DateTime": "2024-05-22T08:12:48+02:00",
+                                    "Content": "Liebe Studis, da ich aktuell einen ziemlich nervigen Husten habe, den ich euch ungern weitergeben möchte, biete ich meine Sprechstunde heute nur online an: Ab 9 Uhr bin ich unter https://tu-berlin.zoom.us/j/64701999576?pwd=S2FjcTRKNGkwOElNaFFsamZibjlzQT09 zu erreichen.  Herzliche Grüße Tong",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Am Di, 21.05., 10-12 Übung statt Vorlesung",
+                            "Discussion_Id": "595357",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071591",
+                                    "Author": "Matthias Hammer",
+                                    "DateTime": "2024-05-19T10:47:27+02:00",
+                                    "Content": "Liebe Studierende, wegen des Feiertags am Pfingstmontag (20.05.24) wird die Übung kommende Woche auf den Termin der Dienstags-Vorlesung verschoben, d.h. am Di, dem 21.05., 10-12 findet im MA 005 die Übung anstelle der Vorlesung statt. Es gibt in der kommenden Woche also nur eine Vorlesung, nämlich die am Mittwoch.  Beste Grüße & einen schönen Feiertag! Matthias Hammer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachtrag zur späteren Abgabe",
+                            "Discussion_Id": "595100",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071168",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-05-17T10:05:39+02:00",
+                                    "Content": "Ich vergaß: alle abgegebenen Hausaufgaben wurden von mir in den \"Entwurfsstatus\" zurückgesetzt. Falls ihr also nochmal eure Abgabe korrigieren möchtet, habt ihr die Möglichkeit, dies zu tun. Solltet ihr schon mit eurer Abgabe zufrieden gewesen sein, dann müsst ihr nichts weiter machen. Wir bewerten eure Abgaben auch als Entwurf.  VG T",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabezeit HA Blatt 3",
+                            "Discussion_Id": "595090",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071150",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-05-17T09:33:45+02:00",
+                                    "Content": "Liebe Studis, die Abgabezeit für das dritte Blatt wurde versehentlich auf 0 Uhr gesetzt. Ich habe das soeben korrigiert und die reguläre Abgabezeit für heute ausnahmsweise auf 16 Uhr verlängert. Ein sonniges Wochenende! Cheers Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Korrekturen vierte Übung",
+                            "Discussion_Id": "594021",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069484",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-05-13T13:03:27+02:00",
+                                    "Content": "Liebe Studis, eine korrigiere Version der heutigen Übung ist nun online. Entschuldigt die Verwirrung. Super, dass ihr alle so aufmerksam seid. Vielen Dank! Cheers Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung am Mi 8.5. im H 0111",
+                            "Discussion_Id": "592980",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067828",
+                                    "Author": "Matthias Hammer",
+                                    "DateTime": "2024-05-07T14:29:21+02:00",
+                                    "Content": "Liebe Studierende, wie in der Vorlesung heute morgen bereits angekündigt, findet die Vorlesung am morgigen Mittwoch, 8.5., 12-14 Uhr ausnahmsweise im Hörsaal H 0111 (Hauptgebäude) statt.  Mit freundlichen Grüßen Matthias Hammer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabe 3.1.: Richtigstellung",
+                            "Discussion_Id": "592610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067276",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-05-06T14:53:11+02:00",
+                                    "Content": "Liebe Studis, wie mir völlig richtig mitgeteilt wurde, ist meine Formulierung in o.g. Aufgabenstellung nicht besonders gut gelungen – bitte entschuldigt. Was ich mit den 95% eigentlich ausdrücken wollte:  „Der Algorithmus trifft mit einer WK von 0.95 die richtige Entscheidung (in beide Richtungen).“ oder anders ausgedrückt: „Die WK, dass ein Betrug als Betrug erkannt wird, beträgt 0.95 (das steht schon in der Aufgabe) UND, die WK, dass eine ehrliche Arbeit als ehrlich erkannt wird, beträgt ebenfalls 0.95. (Das habe ich nicht deutlich genug formuliert.)“ Damit sollte die Aufgabe nun hoffentlich eindeutig zu lösen sein. Ich bemühe mich, zukünftige Textaufgaben deutlicher zu formulieren. Danke an alle, die mich darauf hingewiesen haben!  Viel Erfolg bei den Aufgaben!  Cheers Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabengruppen",
+                            "Discussion_Id": "591072",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064860",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-04-30T09:31:26+02:00",
+                                    "Content": "Liebe Studis, am Freitag wird das erste HA-Blatt abgegeben. Daher erinnere ich an folgende Punkte: Abgabe bitte in 2er- oder 3er-Gruppen. Letzteres ist zu bevorzugen. Wenn ihr noch alleine seid, dann schaut bitte mal in der Gruppenauswahl nach offenen 2er-Gruppen und nehmt Kontakt auf, ob ihr da vielleicht noch rein könnt. Einzelabgaben werden ab HA-Blatt 2 ggf. nicht mehr gewertet. Abgabe bitte vorzugsweise bei der Person, zu der ihr auch in das Tutorium geht. Ich habe eben mal die Aufteilungen überflogen und musste feststellen, dass das bisher noch nicht ganz passt. Bitte geht nochmal in euch und wechselt ggf. mit eurer Gruppe dorthin, wo ihr auch im Tutorium seid. Ihr solltet selbst die Möglichkeit haben, eure Gruppenwahl anzupassen auf ISIS. Sollte der Workload unserer Tutor*innen am Freitag nicht passen, werden wir eigenmächtig umsortieren. Falls ihr gestern nicht in der Übung gewesen seid: Die erste Schätzfrage zu den Hausaufgaben ist inzwischen online. Ansonsten eine fantastische sonnige Woche!  Cheers Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Thorsten",
+                            "Discussion_Id": "589643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062703",
+                                    "Author": "Thorsten Matthias Lucke",
+                                    "DateTime": "2024-04-25T08:36:02+02:00",
+                                    "Content": 

@@ -1,0 +1,146 @@
+[
+    {
+        "Course_Name": "Grundlagen der wissenschaftlichen Arbeit und Data Science im WiSe22/23",
+        "Course_id": "31686",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1437028",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vortragsfolien Abgabe ",
+                            "Discussion_Id": "512107",
+                            "Messages": [
+                                {
+                                    "Message_id": "p939863",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-02-09T16:44:03+01:00",
+                                    "Content": "geöffnet von jetzt bis 10.02. (morgen) 8:00 Uhr",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LV-Evaluation ",
+                            "Discussion_Id": "507063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p931941",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-01-18T16:57:42+01:00",
+                                    "Content": "Liebe Studierende, ich würde mich über Feedback zur Veranstaltung sehr freuen. Hier ist der Link zur offiziellen Evaluation: https://befragung.tu-berlin.de/evasys/online.php?p=9RTRJ Besonders freue ich mich über Freitexteingaben, persönliches Feedback, oder - falls Sie lieber anonym bleiben wollen - auch über ein in den Briefkasten eingeworfenesBrieflein. Alles (bis auf die Evaluation oben - diese bitte sofort erledigen) gerne auch nach der Notengebung, wenn Ihnen das lieber ist. Vielen Dank und viele Grüße Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Python Kurs und weitere Planung ",
+                            "Discussion_Id": "506732",
+                            "Messages": [
+                                {
+                                    "Message_id": "p931422",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-01-17T18:14:16+01:00",
+                                    "Content": "Hallo zusammen, Kai Winklers Kind ist am Montag zur Welt gekommen und kommt am Donnerstag nach Hause. Deshalb kann der Pythonkurs verständlicherweise nicht am Donnerstag, 19.01. stattfinden. Alternativ schlägt Kai eine Woche später vor (also den 26.01.). Ich hoffe, diese Änderung funktioniert. Der neue Plan der Veranstaltung wäre also: 19.01.2023 - entfällt 26.01.2023 - Pythonkurs Teil 2 02.02.2023 - Statistik Teil 2 09. und 16.02.2023 - Ihre Vorträge Wenn ich bis morgen (Mittwoch) um 17:00 Uhr nichts gegenteiliges lese, gehe ich davon aus, dass der Terminwechsel funktioniert.  Mit besten Grüßen Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsan- und -abmeldung",
+                            "Discussion_Id": "505992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p930348",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-01-15T10:52:16+01:00",
+                                    "Content": "Die Prüfungsan- und -abmeldung ist bis 31.01.2023 geöffnet. Dies ist die MODULanmeldung für Studierende BSc Materialwissenschaft und Werkstofftechnik. Studierende des BSc Werkstoffwissenschaften, die nur noch das PIW ablegen mussten, melden sich bitte hier NICHT an.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "IV \"Einführung in wissenschaftliche Arbeit und Data Science\" 05. und 12.01.2023",
+                            "Discussion_Id": "503412",
+                            "Messages": [
+                                {
+                                    "Message_id": "p926320",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2023-01-04T08:24:30+01:00",
+                                    "Content": "Liebe GrdlWADS Teilnehmer*innen, ich hoffe, Sie hatten erholsame Feiertage und sind gut ins neue Jahr gerutscht! Für 2023 wünsche ich Ihnen viel Glück, Gesundheit und Erfolg, und vor allem bleibenden Spaß und Begeisterung bei tieferen Einstieg in die Materialwissenschaft und Werkstofftechnik! Im Ablaufplan ergibt sich eine Änderung. Kai Winkler von der Firma Xploraytion wird Ihnen einen \"Hands-on\" Einblick in die Programmierung mit Python geben. Da er nur am 05. und 12.01. verfügbar ist, wird die \"Einführung in die Programmierung\" vorgezogen und der zweite Statistikteil folgt am 19.01. Der 26.01. muss dann leider ersatzlos entfallen - mehr Zeit für die Vorbereitung der Vorträge für Sie! Wichtig: Die beiden Veranstaltungen von Kai Winkler werden per Zoom stattfinden. Um die Übungen mitmachen zu können, müssen Sie vorab Installationen auf Ihren Rechnern vornehmen. Sollten Sie keinen geeigneten Rechner zur Verfügung haben, melden Sie sich bitte umgehend bei mir (per Mail) - wir stellen Ihnen dann Rechner am Fachgebiet zur Verfügung (das schaffen wir aber leider nicht mehr, wenn Sie sich erst morgen melden). Den Zoomlink und Informationen sowie ein pdf mit einer Installationsanleitung finden Sie auf ISIS. Mit besten Grüßen Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Elab Notizbücher/Digitalisierung: Weiterführende Literatur/Links",
+                            "Discussion_Id": "498125",
+                            "Messages": [
+                                {
+                                    "Message_id": "p917404",
+                                    "Author": "Fabian Zemke",
+                                    "DateTime": "2022-12-01T17:47:13+01:00",
+                                    "Content": "Liebe Teilnehmer*innen,  Ich bitte abermals die technischen Probleme zu entschuldigen und möchte demnach ein paar weiterführende Quellen zur Verfügung stellen, falls Sie sich freiwillig weiterbilden möchten.  Exakt in einer Woche wird es einen längeren Vortrag der größeren elektronischen Notizbücher geben (auf Englisch), in dem Zeitraum wo normalerweise die VL stattfinden würde. Organisiert wird dies von der Deutschen Gesellschaft für Materialkunde e.V. Die Alternativen der VL: elabFTW, openBIS, Labfolder, und NOMAD Oasis werden dabei vorgestellt. Leider ist die Registrierung für das Online-Event etwas kompliziert, bzw. erfordert die Angabe von E-Mail und personenbezogenen Daten. Ich sehe aber keine direkte Einschränkung, dass sich nicht auch Privatpersonen bzw. Studierende (campus TU-Email?) anmelden könnten. https://dgm.de/en/events/other-events/introductory-session-electronic-laboratory-notebooks-what-they-are-and-why-we-need-them  Ich könnte mir vorstellen, dass die Vorlesung aufgezeichnet wird, und potentiell auf Youtube zu finden wäre. Eine Übersicht der FAIR-Veranstaltungen ist hier zu finden: https://www.fair-di.eu/fairmat/events-fairmat Und aufgenommene Youtube Videos (meistens) hier: https://www.fair-di.eu/fairmat/outreach-fairmat/videos-fairmat Unter anderem wird hier auch ein wenig auf die Frage eingegangen, was man mit strukturierten Daten machen kann. Stichwort machine learning und AI.  Falls gerade Machine learning und AI Sie in der Hinsicht interessiert, hier ein Artikel dazu: https://depositonce.tu-berlin.de/items/417e47b4-cdeb-48be-b198-0f33dbe9eb67  Falls Sie mehr zu FAIRmat wissen möchten, und wie NOMAD damit zusammenhängt, können Sie hier nachschauen: https://www.fair-di.eu/fairmat/about-fairmat/consortium-fairmat  Falls Sie mehr zu NOMAD wissen möchten und einer gemeinsamen Datenbank, gibt es sehr gut produzierte Videos auf deren offiziellen Youtube Kanal: https://www.youtube.com/@TheNOMADLaboratory  Für weiterführende Informationen können Sie mir auch gerne schreiben: fabian.zemke@ceramics.tu-berlin.de  Viele Grüße Fabian Zemke",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführung in WADS 24.11./01.12.2022 und 08.12.2022",
+                            "Discussion_Id": "495945",
+                            "Messages": [
+                                {
+                                    "Message_id": "p913658",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2022-11-23T17:22:19+01:00",
+                                    "Content": "Liebe GrdlWADS, zur Erinnerung: Morgen und nächste Woche wird Herr Zemke die IV durchführen - die Unterlagen erhalten Sie im Nachgang. Die IV am 08.12. muss leider entfallen (wie angekündigt). Die noch ausstehenden Vorträge werden deshalb zu Beginn der IV am 15.12.2022 stattfinden. Mit besten Grüßen Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführung in wissenschaftliche Arbeit und Data Science - Termine und Laptops",
+                            "Discussion_Id": "491905",
+                            "Messages": [
+                                {
+                                    "Message_id": "p906817",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2022-11-08T19:32:06+01:00",
+                                    "Content": "Liebe alle, 1. Do 10.11.2022: Am Donnerstag, 10.11.2022, gibt es wie angekündigt die Veranstaltung mit Herrn Wurst von der Uni-Bibliothek. Diese wird per Zoom stattfinden (Link folgt). Da Herr Wurst eher etwas länger als 90 min brauchen wird und da es möglicherweise auch anschließend noch Fragen gibt, schlage ich vor, dass Sie die Veranstaltung von zu Hause besuchen und wir die Vorträge um eine Woche auf den 24.11. verschieben. Wenn dies für jemanden nicht möglich sein sollte, melden Sie sich bitte bis morgen (Mittwoch) bei mir, damit ich einen Raum und ggf. Rechner organisiere (bitte lassen Sie mich wissen, was Sie brauchen). Unterlagen zur Veranstaltung finden Sie wie gewohnt auf ISIS. 2. Do 24.11. und 01.12.2022: Die beiden Termine werden von Herrn Zemke übernommen und finden wie gewohnt im EB 133C statt. 3. Do 08.12.2022: Bitte denken Sie daran, dass dieser Termin entfällt. 4. alle Termine: Bitte bringen Sie grundsätzlich einen Laptop oder ein Tablet mit - an den meisten Terminen werden Übungen durchgeführt, für die Sie Internetzugang und einen Rechner brauchen. Wenn Ihnen dies grundsätzlich nicht möglich sein sollte, geben Sie mir bitte Bescheid, damit ich entsprechend planen kann.  Besten Dank! Viele Grüße und bis Donnerstag Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wahl des Vortragstages",
+                            "Discussion_Id": "488900",
+                            "Messages": [
+                                {
+                                    "Message_id": "p901790",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2022-10-31T08:59:37+01:00",
+                                    "Content": "Liebe GrdlWADS'ler*innen die Wahl des Vortragstages ist ab heute 12 Uhr geöffnet. Bitte tragen Sie sich bis Donnerstag, 12 Uhr für einen der Tage ein. BG Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektwahl PIW",
+                            "Discussion_Id": "487030",
+                            "Messages": [
+                                {
+                                    "Message_id": "p898420",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2022-10-25T17:46:06+02:00",
+                                    "Content": "Liebe MaWiWt's, die Projektwahl für das PIW ist ab sofort bis Donnerstag, 27.10.2022, geöffnet. Mit besten Grüßen Claudia Fleck PS: Sollte sich jemand gegen Ende nicht mehr eintragen können, möge diese Person sich bitte bei mir melden. Danke!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

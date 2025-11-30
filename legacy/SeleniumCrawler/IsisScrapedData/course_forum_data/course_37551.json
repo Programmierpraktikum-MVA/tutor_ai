@@ -1,0 +1,142 @@
+[
+    {
+        "Course_Name": "MTAP: Labor Additive Präzisionsfertigung SoSe 2024",
+        "Course_id": "37551",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1762961",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "607472",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089324",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-07-12T13:29:04+02:00",
+                                    "Content": "Sehr geehrte Studierende, die Lehrevaluation für diese Veranstaltung ist ab jetzt bis zum 15.Juli auf der ISIS Startseite einsehbar. Wir bitten Sie alle, diese auszufüllen und würden uns über eine positive Rückmeldung sehr freuen. Sie gelangen außerdem über folgenden Link zu der Umfrage: https://befragung.tu-berlin.de/evasys/online.php?pswd=KGX32  Mit freundlichen Grüßen Franziska Heusler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung Versuchsfeldführung",
+                            "Discussion_Id": "601718",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081081",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-06-18T09:36:11+02:00",
+                                    "Content": "Sehr geehrte Studierende, die für morgen, den 19.06., angesetzte Versuchsfeldführung wird um eine Woche verschoben und am 26.06. stattfinden.  Mit freundlichen Grüßen Franziska Heusler",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1820712",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ich werde mich verspäten ",
+                            "Discussion_Id": "603659",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083866",
+                                    "Author": "Bent Ole Thomsen",
+                                    "DateTime": "2024-06-26T09:52:42+02:00",
+                                    "Content": "Hallo, ich werde vorraussichtlich erst um 10:35 am PTZ ankommen. Kann ich der Versuchsfeldführung noch zustoßen und wenn ja, wo laufe ich dann am besten hin ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Drucker Tolleranze",
+                            "Discussion_Id": "599627",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077990",
+                                    "Author": "Bent Ole Thomsen",
+                                    "DateTime": "2024-06-07T13:06:43+02:00",
+                                    "Content": "Hallo, Wäre es möglich, Angaben zu den Tolleranzen der für das Modul verwendeten Drucker zu bekommen ? Wir haben in unserem Projekt Teile, die ineinander passen sollen bzw. funktionensrelevante Bohrungen, und müssten daher wissen, mit welchen Maßen die im CAD-Programm gezeichnet werden müssen, um das gewünschte Nennmaß zu erhalten.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078044",
+                                    "Author": "Franziska Celine Heusler",
+                                    "DateTime": "2024-06-07T15:36:28+02:00",
+                                    "Content": "Guten Tag, wir werden auf dem Drucker MK4 der Firma Prusa mit PLA drucken. Dafür würde ich mit Toleranzen von 0,1 mm in Z-Richtung und 0,3 mm in X/Y-Richtung rechnen. Viele Grüße Franziska Heusler",
+                                    "Response to": "p1077990"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Treffpunkt Labortermin",
+                            "Discussion_Id": "594552",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070324",
+                                    "Author": "Leonard Julian Günther",
+                                    "DateTime": "2024-05-15T10:17:01+02:00",
+                                    "Content": "Hallo, wo treffen wir uns morgen für den Labortermin? Werden wir am Hörsaal abgeholt oder treffen wir uns direkt am Labor und falls ja, wo ist das Labor? Vielen Dank!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070347",
+                                    "Author": "Stefanie Bode",
+                                    "DateTime": "2024-05-15T10:43:31+02:00",
+                                    "Content": "Hallo Herr Günther, der Treffpunkt für die Labore ist vor dem Vorlesungsraum. Beste Grüße Stefanie Bode",
+                                    "Response to": "p1070324"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenpartner",
+                            "Discussion_Id": "591700",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065814",
+                                    "Author": "David Starke",
+                                    "DateTime": "2024-05-02T12:48:01+02:00",
+                                    "Content": "Hey,  ich suche noch einen Gruppenpartner. Falls jemand noch eine Gruppe sucht, schreib mir gerne über ISIS :).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenpartner gesucht",
+                            "Discussion_Id": "590207",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063533",
+                                    "Author": "Teejasvee Domah",
+                                    "DateTime": "2024-04-26T13:34:27+02:00",
+                                    "Content": "Hallo zusammen,  ich suche noch einen Gruppenpartner für die Bearbeitung des Projekts. Falls jemand noch eine Gruppe sucht, schreib mir gerne über ISIS an :).  VG, Teejasvee",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mitarbeiter Suchen ",
+                            "Discussion_Id": "588437",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060802",
+                                    "Author": "Yunxiang Zhang",
+                                    "DateTime": "2024-04-22T13:59:59+02:00",
+                                    "Content": "Halo Kommilitonen, mein Name ist Yunxiang Zhang, aber ich werde auch oft Tony genannt. Ich bin ein neuer Student an der TU Berlin und studiere im Master Produktionstechnik. Während meines Bachelorstudiums habe ich viel mit 3D-Druckern zur Prototypenkonstruktion gearbeitet, hauptsächlich jedoch zur Demonstration der Geometrie des Produkts und zur Herstellung einfacher Teile für das Endprodukt. Ich habe auch kleine Teile in CATIA entworfen und 3D-gedruckt, um einige Modellbausätze zu verbessern, an denen ich in meiner Freizeit gearbeitet habe. Ich habe grundlegende Kenntnisse in 3D-Modellierung mit sowohl Solidworks als auch CATIA, aber da dies mein erstes Semester in Deutschland ist, ist mein Deutsch nicht sehr gut, insbesondere wenn es um technische Terminologien und komplexe akademische Gespräche geht. Aber ich werde keine Probleme haben, mich auf Englisch zu verständigen, da ich 4 Jahre meines Bachelorstudiums an der University of Toronto in Kanada verbracht habe. In diesem Sinne werde ich dennoch mein Bestes geben, um im Laufe des Semesters Deutsch zu sprechen und zu verbessern. Falls jemand ein Team mit mir für dieses Projekt bilden möchte, bitte kommentieren Sie unter dieser Nachricht, und wir können weitere Details zur Teambildung besprechen. Vielen Dank für eure Zeit!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

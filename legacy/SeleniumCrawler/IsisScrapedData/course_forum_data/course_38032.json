@@ -1,0 +1,156 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] IV Umwandlungstechniken regenerativer Energien",
+        "Course_id": "38032",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1776898",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Masterarbeitsthemen am Fachgebiet EVUR",
+                            "Discussion_Id": "604100",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084459",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-06-27T16:51:49+02:00",
+                                    "Content": "Liebe Studierende, am Fachgebiet EVUR haben wir zwei neue Themen für Masterarbeiten zu vergeben. Bei Interesse meldet euch gerne bei uns oder leitet die Informationen an Freunde und Kommilitonen weiter, die auf der Suche nach einem Masterarbeitsthema sind. 1. Masterarbeitsthema Titel: \"Entwicklung und Konstruktion eines modularen Microgrid-Energiesystemmodells als Testumgebung für KI-basierter Steuerungsalgorithmen\" Beschreibung: Für eine innovative Forschungsplattform im Bereich erneuerbarer Energien und intelligenter Netze suchen wir eine/n engagierte/n Masterstudenten/in. Ziel dieser Arbeit ist die Konzeption, der Aufbau und die Steuerung eines Microgrid-Energiesystemmodells, als Testumgebung für verschiedene KI-Steuerungsalgorithmen. Aufgaben: 1.      Entwurf und Konstruktion eines Energiesystemmodells, bestehend aus: Photovoltaikmodul und Windturbine Batteriespeicher EV-Ladestation Kühl- und Heizelement (Peltier) Diverse Sensoren zur Datenerfassung 2.      Entwicklung einer flexiblen Softwarearchitektur zur Integration verschiedener Energiequellen und -verbraucher 3.      Implementierung von Schnittstellen für austauschbare KI-Steuerungsalgorithmen 4.      Aufbau eines umfassenden Datenerfassungs- und Analysesystems 5.      Entwicklung und Vergleich verschiedener Steuerungsstrategien für Energiemanagement und Lastverteilung 6.      Implementierung eines digitalen Zwillings für Simulationen und Prognosen Anforderungen: ·         Studium der Elektrotechnik, Informatik, Energietechnik oder verwandter Fachrichtungen ·         Grundkenntnisse in erneuerbaren Energien und Energiesystemen ·         Erfahrung in der Programmierung (vorzugsweise Python) ·         Interesse an KI und maschinellem Lernen ·         Praktische Erfahrung im Umgang mit Mikrocontrollern (z.B. Raspberry Pi, Arduino) ·         Selbstständige und strukturierte Arbeitsweise Das Projekt bietet die Möglichkeit, praktische Erfahrungen in zukunftsweisenden Technologien zu sammeln und einen Beitrag zur Forschung im Bereich nachhaltiger Energiesysteme zu leisten.   Beginn: Nach Vereinbarung Bei Interesse senden Sie bitte Ihre Bewerbung mit Lebenslauf und Notenübersicht an nico.dabelstein@tu-berlin.de.  2. Masterarbeitsthema Titel: \"Entwicklung und Konstruktion eines autonomen Modellfahrzeugs für spezifische Transportaufgaben in einem intelligenten Microgrid-Energiesystem\" Beschreibung: Im Rahmen eines innovativen Forschungsprojekts zur Integration von Elektromobilität in intelligente Energiesysteme suchen wir eine/n motivierte/n Masterstudenten/in. Ziel dieser Arbeit ist die Entwicklung eines autonomen Modellfahrzeugs, das spezifische Transportaufgaben in einem Microgrid-Umfeld durchführen kann. Aufgaben: 1.      Konstruktion und Aufbau eines robusten, elektrisch betriebenen Modellfahrzeugs (basierend auf LEGO oder ähnlicher Plattform) 2.      Integration von Sensorsystemen zur Umgebungserfassung und Navigation 3.      Entwicklung von Algorithmen für autonomes Fahren, Objekterkennung und Routenplanung 4.      Implementierung spezifischer Transportaufgaben (z.B. Transport einer Flasche von einem Punkt zu einem anderen) 5.      Anbindung an ein bestehendes Ladesystem und Integration in die Microgrid-Umgebung 6.      Entwicklung einer Benutzeroberfläche zur Steuerung und Überwachung des Fahrzeugs Anforderungen: ·         Studium der Informatik, Robotik, Mechatronik oder verwandter Fachrichtungen ·         Grundkenntnisse in Programmierung (vorzugsweise Python) ·         Interesse an autonomen Systemen und Robotik ·         Erfahrung mit Mikrocontrollern und Sensorik von Vorteil ·         Kreativität und Problemlösungskompetenz ·         Fähigkeit zum selbstständigen Arbeiten und Experimentieren Dieses Projekt bietet die einzigartige Gelegenheit, praktische Erfahrungen in den Bereichen autonome Systeme, Robotik und deren Integration in intelligente Energiesysteme zu sammeln. Die Arbeit ist Teil eines größeren Forschungsvorhabens und bietet Raum für kreative Lösungsansätze.   Beginn: Nach Vereinbarung Bei Interesse senden Sie bitte Ihre Bewerbung mit Lebenslauf und Notenübersicht an nico.dabelstein@tu-berlin.de.  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation URE",
+                            "Discussion_Id": "603161",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083161",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-06-24T16:59:00+02:00",
+                                    "Content": "Liebe Studierende, anbei findet ihr den Link bzw. QR-Code zur Evaluierung dieser Vorlesung. Es wäre toll wenn ihr euch die Zeit nehmen könntet und eine Bewertung abgeben könntet. Link: https://befragung.tu-berlin.de/evasys/online.php?pswd=P4VUM Viele Grüße Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorstellung Ingenieure ohne Grenzen",
+                            "Discussion_Id": "586660",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058051",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-04-17T08:20:02+02:00",
+                                    "Content": "Liebe Studierende, morgen, am Donnerstag, den 17.04., wird es im Anschluss an die Vorlesung einen kurzen Gastvortrag von dem Verein 'Ingenieure ohne Grenzen' geben. In diesem Rahmen wird sich der Verein vorstellen. Der Vortrag wird etwa 5-10 Minuten dauern, und die Folien werden anschließend auf ISIS hochgeladen. Viele Grüße  Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragensammlung",
+                    "Forum_id": "1776900",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Repetitorium",
+                            "Discussion_Id": "604731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085420",
+                                    "Author": "Martin Karsten Liske",
+                                    "DateTime": "2024-07-01T15:33:06+02:00",
+                                    "Content": "Hallo,   ich bin gerade dabei mich auf die Klausur vorzubereiten. Da der Stoff doch recht umfangreich ist, wollte ich Fragen, ob noch ein Repetitorium oder ähnliches Angeboten wird.   LG  Martin Liske ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085515",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-07-01T18:05:16+02:00",
+                                    "Content": "Hi Martin,  ein Repetitorium ist nicht geplant. Wenn ihr Fragen habt dann stellt sie gerne erstmal in der Fragensammlung. Bei Fragen die nicht hier im Forum geklärt werden können, können wir auch einen Termin zur Sprechstunde abstimmen. Es lohnt sich auch das folgende Buch zum Lernen zu benutzen, viele der Inhalte der Vorlesung sind identisch mit den Inhalten des Buches: https://link.springer.com/book/10.1007/978-3-662-61190-6 Als allgemeine Hinweise für alle zum Lernen, achtet drauf, dass ihr die einzelnen Technologien und Prinzipien benennen und beschreiben könnt. Unterschiede und Vor- und Nachteile gegenüber anderen verwandten Technologien können auch dran kommen. Es wird Skizzen geben, schaut euch also auch die Schaubilder der Prozesse (Auch Diagramme von Kreisprozessen) und Aufbau der Technologien an und rechnet damit diese skizzieren zu müssen. Die Übungen sind für die Klausur weniger relevant und dienen eher eurem Verständnis. Es wird nur eine Rechenaufgabe in der Klausur geben. Für eine 1,0 reichen schon 102/120 Punkten. Die ausführlicher behandelten Themen (Wind, PV, Biomasse usw.) werden auch mehr Fragen als die anderen Themen haben. Schaut euch die Übungsklausur an!  Viel Erfolg und viele Grüße  Nico",
+                                    "Response to": "p1085420"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Videos und PowerPoint Windprojektierung",
+                            "Discussion_Id": "601680",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081031",
+                                    "Author": "Tom Herter-Lehmann",
+                                    "DateTime": "2024-06-18T07:42:40+02:00",
+                                    "Content": "Guten Morgen, kann es sein, dass das dritte, d.h. das vom 13.06.24, Video noch nicht im Kurs hochgeladen wurde? Bekommen wir eigentlich auch die PowerPoint oder stehen uns nur die Videos zur Verfügung? Viele Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081045",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-06-18T08:31:06+02:00",
+                                    "Content": "Hallo Tom, ja, du hast recht, das Video von letzter Woche haben wir noch nicht hochgeladen, werden dies aber schnellst möglich machen. Ich habe nun auch die Folien der ersten 3 Vorlesungen als PDF hochgeladen. Video und Folien der vierten Vorlesung folgen dann im Anschluss an die Vorlesung.  Viele Grüße Nico",
+                                    "Response to": "p1081031"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp gruppe",
+                            "Discussion_Id": "596335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073072",
+                                    "Author": "Johannes Bauer",
+                                    "DateTime": "2024-05-23T15:09:48+02:00",
+                                    "Content": "Hallo Gibt es eine Whatsapp gruppe oder ähnliches für das Modul? Ansonsten habe ich hier eine erstellt. https://chat.whatsapp.com/DoFjb2txQjk7jSS0aqaS9v",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Himmelfahrt ",
+                            "Discussion_Id": "593101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067992",
+                                    "Author": "Lennard Finn Stuchels",
+                                    "DateTime": "2024-05-07T19:38:35+02:00",
+                                    "Content": "Sehr geehrte Damen und Herren, ich wollte mich erkundigen, ob am 09.05. (Himmelfahrt) die VL stattfindet.  Mit freundlichen Grüßen  Lennard Stuchels",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068096",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-05-08T09:09:57+02:00",
+                                    "Content": "Liebe Studierende, am 09.05. wird es KEINE Vorlesung geben.  Wünsche allen einen schönen Feiertag. Viele Grüße Nico",
+                                    "Response to": "p1067992"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Biogasgewinnung (Fermentation) &amp; Lower Heating Value",
+                            "Discussion_Id": "587228",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058860",
+                                    "Author": "Emilie John",
+                                    "DateTime": "2024-04-18T11:07:06+02:00",
+                                    "Content": "Was genau verbirgt sich hinter dem Begriff “Lower Heating Value” und wie steht dieser im Zusammenhang mit der Biogasgewinnung durch die Fermentation?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059578",
+                                    "Author": "Nico Dabelstein",
+                                    "DateTime": "2024-04-19T13:33:53+02:00",
+                                    "Content": "Man unterscheidet zwischen oberer und unterer Heizwert, wobei die Begriffe etwas veraltet sind und man eher von Heizwert und Brennwert spricht.\"Lower Heating Value\" (LHV) auf deutsch unterer Heizwert, ist ein Maß für die Energiemenge, die freigesetzt wird, wenn ein Brennstoff vollständig verbrannt wird. Das im Brennstoff enthaltene Wasser wird als Dampf freigesetzt und nicht wieder verflüssigt. Der obere Heizwert bzw. Brennwert (Higher Heating Value, HHV) unterscheidet sich vom LHV, dadurch, dass der bei der Verbrennung entstehende Wasserdampf kondensiert und die Kondensationswärme mitgerechnet wird. Der Heizwert kann also genutzt werden um zu ermitteln, wie viel Energie genutzt werden kann wenn Biogas als Brennstoff genutzt wird. Das heißt auch, dass ein hoher Methananteil und ein niedriger CO2-Anteil im Biogas einen höheren Heizwert zur Folge haben. Hier auch nochmal ein weiterführender Link: https://gammel.de/de/lexikon/Heizwert---Brennwert/4838",
+                                    "Response to": "p1058860"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

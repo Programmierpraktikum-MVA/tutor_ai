@@ -1,0 +1,77 @@
+[
+    {
+        "Course_Name": "Einschreibung Schwingungsmesstechnik SoSe24",
+        "Course_id": "37651",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764891",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Einschreibung in den ISIS Kurs SMT SoSe 24",
+                            "Discussion_Id": "586977",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058475",
+                                    "Author": "Holger Gödecker",
+                                    "DateTime": "2024-04-18T09:45:00+02:00",
+                                    "Content": "Guten Tag und herzlich willkommen bei Schwingungsmesstechnik im Sommersemester 2024! Sie können sich nun mit dem Passwort SMT24_SoSe bei dem ISIS Kurs für dieses Modul anmelden.  Viel Erfolg und viele Grüße Holger Gödecker",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierenden-Forum",
+                    "Forum_id": "1764892",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung",
+                            "Discussion_Id": "587074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058617",
+                                    "Author": "Paul Holger Jahnke",
+                                    "DateTime": "2024-04-17T19:11:29+02:00",
+                                    "Content": "Hallo, werden die Vorlesungen auch als Video bereitgestellt ? Habe leider parallel zu einer Vorlesung auch eine andere Veranstaltung.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058725",
+                                    "Author": "Holger Gödecker",
+                                    "DateTime": "2024-04-18T07:52:49+02:00",
+                                    "Content": "Guten Morgen,  ich werde meine Videos aus 2021 zur Verfügung stellen. Diese werden aber nicht vollständig den Besuch der VL ersetzen können und dienen eher dem Nachholen einzelner verpasster Inhalte. Ich werde in der VL auch praktische Beispiele mit Messtechnik vorführen, die es in den Videos nicht gibt. Auch die Inhalte haben sich leicht geändert. Insbesondere Hinweise auf die Prüfungsinhalte und den Ablauf der Gruppenphase wird es primär in der VL geben.  Viele Grüße Holger Gödecker",
+                                    "Response to": "p1058617"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wie viele LP hat diese Veranstaltung?",
+                            "Discussion_Id": "582949",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1052525",
+                                    "Author": "Noah Maximilian Lorch",
+                                    "DateTime": "2024-03-12T08:46:51+01:00",
+                                    "Content": "Guten Tag, wie viele LP hat diese Veranstaltung?  Vielen Dank  Noah Lorch",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1052531",
+                                    "Author": "Holger Gödecker",
+                                    "DateTime": "2024-03-12T09:10:03+01:00",
+                                    "Content": "Guten Tag, die Veranstaltung hat 6LP. Siehe auch hier. Viele Grüße Holger Gödecker",
+                                    "Response to": "p1052525"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

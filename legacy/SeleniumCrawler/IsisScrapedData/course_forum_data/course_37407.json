@@ -1,0 +1,56 @@
+[
+    {
+        "Course_Name": "SE Theorien und Techniken der Kooperation (SoSe 2024)",
+        "Course_id": "37407",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Spiele",
+                    "Forum_id": "1833872",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Werwolf",
+                            "Discussion_Id": "606896",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088493",
+                                    "Author": "Ella-Greta Terese Klein",
+                                    "DateTime": "2024-07-10T13:47:16+02:00",
+                                    "Content": "Hallo alle,  Michelle und ich wollen morgen das Spiel Werwolf vorstellen und anspielen. Wir freuen uns schon! Viele Grüße und bis morgen, Michelle und Ella",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Magic Maze",
+                            "Discussion_Id": "605812",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086923",
+                                    "Author": "Diana Michel",
+                                    "DateTime": "2024-07-05T14:06:57+02:00",
+                                    "Content": "Hallo zusammen, ich möchte gerne das Spiel Magic Maze vorstellen bzw. mit euch anspielen / evtl. sogar durchspielen (ca. 5-15 Min). Evtl. bringe ich noch mehr Spiele mit, da sie die Spielenden sehr verschieden kooperieren lassen und mich die Einordnung der verschiedenen Kooperationsarten interessieren würde. Bis Donnerstag :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Similo",
+                            "Discussion_Id": "595061",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071113",
+                                    "Author": "Thea Graupp",
+                                    "DateTime": "2024-05-16T23:09:10+02:00",
+                                    "Content": "Thea Graupp stellt Similo vor",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

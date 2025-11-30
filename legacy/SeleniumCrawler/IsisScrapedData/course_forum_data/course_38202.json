@@ -1,0 +1,84 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Verkehrsunfallanalyse, Unfallforschung und Fahrzeugsicherheit II",
+        "Course_id": "38202",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1783703",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "606715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088228",
+                                    "Author": "Gerd Müller",
+                                    "DateTime": "2024-07-09T18:51:23+02:00",
+                                    "Content": "Liebe Kursteilnehmer, die Anmeldung für die Prüfung am 31. Juli ist jetzt über Moses MTS möglich. Letzter Anmeldetermin ist der 26.7.  Viele Grüße, Gerd Müller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Kursforum",
+                    "Forum_id": "1783705",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermin und Aufgabenabgabe",
+                            "Discussion_Id": "605324",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086249",
+                                    "Author": "Matthias Kühn",
+                                    "DateTime": "2024-07-03T16:37:15+02:00",
+                                    "Content": "Liebe Student(in)en, die mündliche Prüfung wird am 31.7.2024 am Institut Kraftfahrzeuge stattfinden. Der Raum wird noch bekannt gegeben. Die Aufgaben zu PC-Crash sowie die Präsentation zur Crashdokumentation sind bis zum 26.7. an Herrn Strzeletz zu schicken. Wer nicht abgibt, kann nicht geprüft werden. Die VL am 16.07. entfällt. Viele Grüße M. Kühn & R. Strzeletz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Veranstaltung",
+                            "Discussion_Id": "588200",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060394",
+                                    "Author": "Mehmet Can Ekiz",
+                                    "DateTime": "2024-04-22T08:56:41+02:00",
+                                    "Content": "Hallo ich konnte leider zur ersten Vorlesung nicht erscheinen und wollte deshalb fragen wann die nächste stattfindet.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060699",
+                                    "Author": "Roy Strzeletz",
+                                    "DateTime": "2024-04-22T12:42:06+02:00",
+                                    "Content": "Die nächste Vorlesung ist morgen um 10 Uhr.  R.Strzeletz",
+                                    "Response to": "p1060394"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raum der ersten Vorlesungen",
+                            "Discussion_Id": "586270",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057492",
+                                    "Author": "Yang Liu",
+                                    "DateTime": "2024-04-16T09:47:43+02:00",
+                                    "Content": "Liebes VUF-Team, in welchem Raum findet die erste Vorlesung heute statt? Auf ISIS konnte ich nur das Gebäude finden.Danke für eine hilfsreiche Antwort im Voraus! Liebe Grüße Yang Liu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,308 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Bildbasierte Blutflusssimulationen",
+        "Course_id": "37853",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1770656",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Erneuter Ausfall der Sprechstunde",
+                            "Discussion_Id": "606983",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088620",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-07-10T17:24:55+02:00",
+                                    "Content": "Hallo, ich hatte ja schon angedroht, dass es dazu kommen kann. Ich muss bei einer anderen Lehrveranstaltung einspringen und kann daher im Zeitraum von 10 bis 14 Uhr nicht. Ich kann euch daher anbieten, dass ich entweder einen Kollegen bitte die Sprechstunde zu übernehmen, oder wir können, gerne auch in kleineren Gruppen, Alternativtermine finden. Eigentlich war für den 19.07. die Vorstellung der Ergebnisse geplant. Wie ist hier der Stand, denkt ihr dass ihr bis dahin fertig werdet, oder wollt ihr lieber noch etwas mehr Zeit? Liebe Grüße, Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Sprechstunde am 05.07.2024",
+                            "Discussion_Id": "604538",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085134",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-07-01T09:33:42+02:00",
+                                    "Content": "Liebe Studierende,  ich hatte es letzten Freitag schon angekündigt: die Sprechstunde diesen Freitag am 05.07.2024 wird leider entfallen. Ich bin diese Woche auf einer Konferenz, aber bis Mittwochabend online erreichbar. Donnerstag und Freitag kann ich nicht versprechen, dass ich es einrichten kann.  Liebe Grüße, Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung - 17.05.2024 - Einführung Bildrekonstruktion",
+                            "Discussion_Id": "594757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070644",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-15T18:03:01+02:00",
+                                    "Content": "Liebe Studierende,  diesen Freitag erfolgt die Hands-On Einführung in die Bildrekonstruktion. Hierfür habe ich ein paar Beispieldatensätze, sowie eine Installationsdatei für die Software die wir verwenden werden hochgeladen.  Im Moment steht nur der Installer für Windows zur Verfügung, da wir hier lokale Lizenzen erstellen können. Hoffentlich bekommen wir zeitnah die neuen Lizenzen, dann können wir auch einen Linux- und OSX-Installer mit euch teilen. Es gibt außerdem noch (mindestens) eine weitere Software (Mimics Innovation Suite, Materialise). Für diese müssen wir aber zunächst den Lizenzserver so konfigurieren, dass er von außerhalb der Charité erreichbar ist. Daran arbeiten wir gerade mit der Charité-IT. Ich werde zwei Notebooks mitbringen, so dass ihr selbst mit den Daten arbeiten könnt.  Das zweite Thema am Freitag wird sein mit euch potentielle Ideen für das Forschungsprojekt zu diskutieren. Im Idealfall habt ihr bis dahin einen Bick auf die geteilten Publikationen oder recherviert selbst zu eurem Thema.  Liebe Grüße, Jan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074320",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-27T17:18:05+02:00",
+                                    "Content": "Liebe Studierende,  ich habe jetzt eine Anleitung für die 3D Rekonstruktion mittels AMIRA hochgeladen (siehe Vorlesung 05 im ISIS Kurs). Weiterhin habe ich Links zu den aktuellen AMIRA Versionen für Linux und Windows eingestellt. Einen Lizenzcode könnt ihr von mir bekommen.  Leider gibt es für keine der Softwarelösungen die wir verwenden (AMIRA, MIMICS Innovation Suite) eine MacOSX Version. Daher gibt es jetzt zwei Mitigationsstrategien: - diejenigen die AMIRA nicht bei sich nutzen können, können in unserem Büro Rechner mit Amira nutzen - die freie Software Slicer3D (https://download.slicer.org/) unterstützt alle drei Betriebssysteme, ich kann hier gerne einmal einen ersten Aufschlag machen und eine Aorta rekonstruieren, das Vorgehen sollte jedoch nahezu identisch sein.  Liebe Grüße, Jan",
+                                    "Response to": "p1070644"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppen und Auswahl der Themen",
+                            "Discussion_Id": "590511",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064000",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-04-28T16:36:59+02:00",
+                                    "Content": "Hallo, da am letzten Freitag nicht alle Teilnehmenden in der Vorlesung sein konnten, müssen wir die Gruppenwahl via ISIS durchführen. Für alle die nicht anwesend waren, sind folgende Punkte wichtig: In den Vorlesungsfolien von letztem Freitag findet ihr eine Liste von insgesamt 6 kardiovaskulären Erkrankungen mit kurzer Beschreibung des Krankheitsbildes, diagnostischer Methoden und möglicher Therapieformen. Diese Erkrankungen dienen als Grundlage für die Gruppenwahl. Tragt euch also bitte in der Umfrage für die Erkrankungen ein, welche euch interessieren. Für jede der Erkrankungen habe ich eine Auswahl an Literatur hochgeladen, welche das Krankheitsbild verdeutlich, einen Überblick über Therapie- und Simulationsverfahren gibt (sofern vorhanden), und ein paar konkrete Beispiele für computer-gestützte Modellierung aufzeigt. Diese Literatur soll euch dabei unterstützen eine eigene Fragestellung zu überlegen, welche ihr im Rahmen des Kurses bearbeiten sollt. Die Gruppengröße sollte, wenn möglich, nicht unter 3 Personen liegen Wir werden euch bei der Themenwahl natürlich unterstützen und darauf achten, dass die Simulationsfragestellung realisitsch umgesetzt werden kann. Es ist hierbei auch nicht wichtig eine noch nicht bearbeitete Fragestellung aus der Literatur zu identifizieren. Vielmehr wollen wir euch ermöglichen eine Fragestellung zu identifizieren, die euch persönlich interessiert.  Bei Fragen zu den Erkrankungen, meldet euch gerne bei mir.  Liebe Grüße, Jan  P.S.: Im letzten Jahr wurden die Themen 'zerebrale Aneurysmen' und 'koronare Herzerkrankung' gewählt.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066436",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-03T14:08:50+02:00",
+                                    "Content": "Im Moment gibt es einen Gleichstand zwischen den drei Themen: - Aortenisthmusstenose - Aortenaneurysmen / Aortopathien - zerebrale Aneurysmen  Drei Studierende, von denen wir wissen, dass sie am Kurs teilnehmen wollen, haben sich noch nicht eingetragen. Insgesamt wären also voraussichtlich 7 Studierende am Kurs beteiligt.  Mit den heute anwesenden Studierenden haben wir besprochen, dass die ersten beiden Themen aus der obrigen Liste am interessantesten wären. Da beide Themen die Aorta betreffen wäre es hier auch leichter, die Gruppen zusammenzuführen, sollten doch noch Studierende abspringen.  Ich bitte euch daher eure Auswahl bis Dienstag dem 07.05. anzupassen und euch für eines der beiden Themen zu entscheiden. Ich versuche das Auswahltool so anzupassen, dass es nur eine konkrete Wahl zulässt.",
+                                    "Response to": "p1064000"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termin - 03.05.2024",
+                            "Discussion_Id": "591613",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065696",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-02T10:48:24+02:00",
+                                    "Content": "Hallo, in der morgigen Vorlesung werden wir einen Überblick über die verschiedenen Bildgebungsmodalitäten geben. Auf Grund der sehr schlechten Projektionsqualität im Vorlesungsraum würde ich euch empfehlen die Folien bereits runterzuladen und ggf. ein eigenes Notebook mitzubringen. In der Übung werde ich, sofern die Qualität der Projektion das zulässt, ein praktisches Beispiel der manuellen Bildrekonstruktion geben. Außerdem werden wir die Gruppen finalisieren. Liebe Grüße, Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einladung zur Besichtigung des Institut für kardiovaskuläre Computer-assistierte Medizin am 08.05.2024 - 12:00 - 14:00",
+                            "Discussion_Id": "590507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063994",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-04-28T16:22:41+02:00",
+                                    "Content": "Liebe Studierende, im Rahmen der Lehrveranstaltung 'Strömungsmechanik in der Medizin', welche von Leo und Ulrich Kertzscher angeboten wird, findet eine Laborführung statt. Zu dieser seid auch ihr herzlich eingeladen. Im Rahmen der Laborführung wird es eine kurze allgemeine Einführung geben. Im Anschluss werdet ihr in Gruppen verschiedene der aktuellen Forschungsthemen vorgestellt bekommen, an denen Kolleg*Innen aus der Arbeitsgruppe von Herrn Kertzscher und Leo arbeiten. Die Themen umfassen aber Aspekte wie Blutschädigung, Herzunterstützungssysteme, Mikrokanalströmungen und die numerische Strömungssimulation kardiovaskulärer Erkrankungen. Wo? Das Labor finder ihr auf dem Campus Virchow Klinikum der Charité (Augustenburger Platz 1, 13353). Die Campusadresse ist Forum 4, Erdgeschoss (Beschilderung 'Labor für Biofluidmechanik'). Eine Wegbeschreibung und einen Lageplan findet ihr hier. Wann? Mittwoch, 08.05.2024, 12:00 - 14:00 Uhr Wenn möglich versucht pünktlich zu sein, da der Zugang zu den Laborräumen nur mit Schlüssel möglich ist. Solltet ihr durch vorherige Lehrveranstaltungen später kommen ist das kein Problem, sagt aber bitte Leo Bescheid (leonid.goubergrits@dhzc-charite.de) , dann können unsere Kolleg*innen euch reinlassen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Rückmeldung zur Teilnahme am Modul",
+                            "Discussion_Id": "587795",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059738",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-04-19T16:46:09+02:00",
+                                    "Content": "Liebe Studierende, wir haben festgestellt, dass bei der heutigen Einführungsveranstaltung weniger als ein Drittel der im ISIS Kurs angemeldeten Studierenden anwesend waren. Um die Planung der Gruppen und die Verteilung der Themen effizient gestalten zu können, bitten wir euch, uns kurz zu bestätigen, ob ihr weiterhin an dem Kurs teilnehmen möchtet. Bitte sendet uns eure Rückmeldung, entweder in Form einer kurzen Nachricht über das Kontaktformular in ISIS oder via Email (jan.bruening@dhzc-charite.de), bis zum Ende nächster Woche. Insbesondere dann, wenn ihr teilnehmen wollt, aber zum nächsten Termin nicht könnt. In der kommenden Woche werden wir die Themen für die Gruppenarbeit vorstellen, und es ist für uns wichtig zu wissen, wie viele Teilnehmer wir erwarten können.  Liebe Grüße, Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung - 19.04.2025 - 10:15 Uhr",
+                            "Discussion_Id": "586113",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057257",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-04-15T17:18:34+02:00",
+                                    "Content": "Liebe Studierende, es freut uns außerordentlich, dass sich bereits viele zu dem Kurs angemeldet haben. Diesen Freitag (19.04.2024), findet um 10:15 im MA 542 die Einführungsveranstaltung für unseren Kurs statt. Diese wird lediglich bis 11:45 gehen. Im Rahmen der Einführungsveranstaltung werden wir einen Einblick in das Thema geben, erklären wie wir den Kurs strukturieren wollen, und organisatorische Aspekte klären. Liebe Grüße, Jan     ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1834112",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Sprechstunde morgen bzw. Alternativtermin",
+                            "Discussion_Id": "607316",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089066",
+                                    "Author": "Anna-Maria Jung",
+                                    "DateTime": "2024-07-11T18:34:12+02:00",
+                                    "Content": "Da ich im \"Ankündigungsforum\" nicht antworten kann, stelle ich die Frage von Jan  zusammen mit meiner Antwort nochmal hier rein. \"Hallo, ich hatte ja schon angedroht, dass es dazu kommen kann. Ich muss bei einer anderen Lehrveranstaltung einspringen und kann daher im Zeitraum von 10 bis 14 Uhr nicht. Ich kann euch daher anbieten, dass ich entweder einen Kollegen bitte die Sprechstunde zu übernehmen, oder wir können, gerne auch in kleineren Gruppen, Alternativtermine finden. Eigentlich war für den 19.07. die Vorstellung der Ergebnisse geplant. Wie ist hier der Stand, denkt ihr dass ihr bis dahin fertig werdet, oder wollt ihr lieber noch etwas mehr Zeit? Liebe Grüße, Jan\" Mir persönlich wäre ein Alternativtermin in kleineren Gruppen lieber. Bezüglich der Vorstellung wäre es mir lieber, wenn wir das Ganze eine Woche nach hinten verschieben könnten, wenn das für jeden passt. Ich habe in den nächsten 2 Wochen noch einige Abgaben und Prüfungen.  Liebe Grüße Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "verzerrtes Bild in AMIRA",
+                            "Discussion_Id": "604400",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084915",
+                                    "Author": "Lea Heide Emmerich",
+                                    "DateTime": "2024-06-29T16:36:29+02:00",
+                                    "Content": "Kennt jemand dieses Problem und weiß, wie man es beheben kann?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084925",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-06-29T17:28:09+02:00",
+                                    "Content": "Welchen der Datensätze hast du eingeladen? Es scheint, dass die Information der Voxelgröße nicht richtig eingelesen wird.",
+                                    "Response to": "p1084915"
+                                },
+                                {
+                                    "Message_id": "p1086251",
+                                    "Author": "Lea Heide Emmerich",
+                                    "DateTime": "2024-07-03T16:43:10+02:00",
+                                    "Content": "Das ist Patient 1. Der screenshot ist von CoA_1_Flow1_A.dcm, aber es passiert bei allen Dateien.",
+                                    "Response to": "p1084925"
+                                },
+                                {
+                                    "Message_id": "p1087093",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-07-06T17:33:56+02:00",
+                                    "Content": "Du hast versucht einen Datensatz mit Geschwindigkeitsinformationen zu laden. Die Daten mit dem Suffix _bSFFP sollten die richtigen anatomischen Daten sein.",
+                                    "Response to": "p1086251"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe 3 - Modellierung physiologischer Belastung",
+                            "Discussion_Id": "601029",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080070",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-06-14T10:30:58+02:00",
+                                    "Content": "Hallo, hier wie eben besprochen der Link zu der Meta Analyse bei verschiedenen physiologischen und pharmakologischen Belastungssituationen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Datenablage via TUB Cloud",
+                            "Discussion_Id": "599769",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078201",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-06-08T17:45:02+02:00",
+                                    "Content": "Hallo, Sebastian hat freundlicherweise einen TUB Cloud Ordner erstellt über den die verschiedenen Dateien persisten ausgetauscht werden können. Das Cloudsystem der Charité ermöglicht leider nur noch kurzfristiges Teilen von Ordnern. Ich habe in den Ordner jetzt die Installationsdateien für STAR-CCM+ und AMIRA abgelegt. Ebenso die Anleitungen für die Programme. In den Anleitungen habe ich außerdem ein früheres Video für STAR-CCM+, sowie die Beispieldatei die ich in der Vorlesung erstellt hatte, abgelegt.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erneute freigabe der Installationsdatei",
+                            "Discussion_Id": "597751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075267",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-29T18:24:21+02:00",
+                                    "Content": "Hi Jan,  könntest du netterweise noch mal den Link für die Installationsdatei und Testdaten freigeben?  Ich wollte es gerade für meinen Rechner herunterladen ^^ Vielen lieben Dank! Sebastian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075405",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-30T10:48:47+02:00",
+                                    "Content": "Seltsam, bei mir funktioniert der Link noch. Ich habe mal einen neuen Link erstellt. Hoffentlich funktioniert dieser. Ich persönlich würde die 2015er Version von Amira empfehlen, da die Anleitung auch dafür geschrieben ist. Hinsichtlich der Segmentierung hat sich bei der neuen Version wenig geändert.",
+                                    "Response to": "p1075267"
+                                },
+                                {
+                                    "Message_id": "p1077707",
+                                    "Author": "Kubilay Gönültas",
+                                    "DateTime": "2024-06-06T14:29:10+02:00",
+                                    "Content": "Könnte der Link zur Installationsdatei erneut freigegeben werden bitte? Ich bekomme die Meldung, dass es wieder abgelaufen ist.  Danke!",
+                                    "Response to": "p1075405"
+                                },
+                                {
+                                    "Message_id": "p1077746",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-06-06T15:48:51+02:00",
+                                    "Content": "Scheinbar hat die Charité strengere Regeln eingeführt und ermöglich den Upload immer nur noch für eine Woche: Link",
+                                    "Response to": "p1077707"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mögliche Struktur des Abschlussberichts",
+                            "Discussion_Id": "598100",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075780",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-31T12:11:44+02:00",
+                                    "Content": "Hallo, untenstehend findet ihr, wie besprochen, eine Empfehlung für die Gliederung des Abschlussberichtes. Durch die Aufteilung in 3 Unterarbeitspakete kann es sinnvoll sein Methoden, Ergebnisse, und Diskussion, jeweils in einem eigenen Kapitel für jede Fragestellung abzuhandeln.  Allgemeines Textlänge ohne Bilder ~25 Seiten (bei einfachem Zeilenabstand und ‚normaler‘ Schriftgröße‘ (wenn ihr mehr Platz braucht ist das in Ordnung, wir wollen euch nur anhalten euch auf das Wesentliche zu konzentriere Sprache: Deutsch oder Englisch Vorläufiges Abgabedatum: 02.08.2024 (wenn ihr mehr Zeit benötigen solltet, meldet euch rechtzeitig bei uns und wir können entscheiden ob wir die Deadline notfalls verschieben) Gliederung und Inhalt Einleitung / Motivation Beschreibung der Pathologie, auf die für die Arbeit wesentlichen Aspekte kondensiert Beschreibung des Problems welches durch die Modellierung untersucht werden soll Referenz wesentlicher Literatur die verwendet wurde (idealerweise kann hier bereits Literatur eineführt werden, welche für die Erarbeitung der Fragestellung verwendet wurde und die dann später in der Diskussion aufgegriffen wird) Beschreibung der Hypothese/Fragestellung Kurzbeschreibung der Studie (als Überleitung zum nächsten Kapitel) Methoden Beschreibung aller wesentlichen Schritte der Methodik, wie bspw. Welche Bilddaten wurden verwendet Wie wurde die Bildrekonstrution durchgeführt oder woher kamen die verwendeten Modelle Welche Gitter- und Lösereinstellungen wurden verwendet Welche hämodynamischen Parameter wurden für die Analyse ausgewählt Wie erfolgt die (statistische) Auswertung und Analyse der Ergebnisse Wichtig: Begründung von Modellannahmen (bspw. Gitterauflösung) etc. sollte genannt werden. Diese Aspekte müssen nicht zwingend durch eigene Gitter-Sensitivitätsanalysen etc. belegt werden Ergebnisse Neutrale Darstellung aller Ergebnisse Tipps für Abbildungen: lesbare Achsenbeschriftungen und Legenden; bei vergleichenden Abbildung ist es empfehlenswerte Colormaps und Achsen identisch zu skalieren Tipps für Tabellen: Einheitliche und sinnvolle Anzahl an Nachkommastellen für dieselben Parameter verwenden Diskussion Interpretation der Ergebnisse konnte die Hypothese, sofern eine definiert wurde, verifiziert oder falsifiziert werden welche Schlussfolgerungen lassen sich aus den Ergebnissen ziehen Einbettung der Ergebnisse in die in der Einleitung genannte Literatur Nennen der Limitationen der Arbeit welche bei der Interpretation der Ergebnisse berücksichtigt werden müssen  Schlussfolgerung: Kurzes Abschlussstatement mit einem Fazit der Arbeiten und ggf. Empfehlungen für weitere Untersuchungen",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tipps für die Daten suche",
+                            "Discussion_Id": "597754",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075274",
+                                    "Author": "Sebastian Sontag",
+                                    "DateTime": "2024-05-29T18:51:45+02:00",
+                                    "Content": "Hallo Jan,  ich habe mir mal alle Websites angeschaut, welche du vorgeschlagen hattest.  Irgendwie gestaltet sich die Suche für mich nicht sehr trivial. Ich finde viele papers, aber tatsächliche Daten zum runterladen sind eher weniger der Fall. Geschweige zu wissen, wie die Datensätze heißen, um danach suchen zu können... :/ Hast du ein paar Tipps? Auch bezüglich einiger Schlagwörter? Vielen lieben Dank :) Sebastian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075436",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-30T11:41:56+02:00",
+                                    "Content": "Die Suche ist leider auch wirklich nicht trivial. Diese Seite bietet ebenfalls noch einmal eine sehr ausführliche Übersicht über mögliche Quellen. Insbesondere bei angeborenen Herzfehlern ist aber eben, dass es keine größeren Repositories gibt. Es ist also leider ein wenig wie die Nadel im Heuhaufen.  Ich habe bspw. nochmal den Datensatz der MICCAI-Challenge, die ich im anderen Post verlinkt hatte, angeschaut. Diese enthält 6 Datensätze. Der frühere Link zu den Datenden wir von den Veranstaltenden bekommen haben funktioniert auch noch. Beim Nutzen der Daten muss das MICCAI-Paper der Gruppe zitiert werden.  Im Zweifelsfall können wir euch wie gesagt einen größeren Datensatz bereitstellen. Dies wären dann allerdings mit an Sicherheit grenzender Wahrscheinlichkeit MRT-Daten (was vollkommen okay ist).",
+                                    "Response to": "p1075274"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zusätzliche Publikationen - Aortenisthmusstenose",
+                            "Discussion_Id": "595249",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071406",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-17T17:03:56+02:00",
+                                    "Content": "Hier noch wie besprochen zwei Publikationen Belastungsuntersuchungen mittels MRT und Simulationen hämodynamische Normwerte in der Aorta Beide sollten Open Access sein, wenn es Probleme gibt, kann ich auch die PDFs rumschicken.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mögliche Quellen für Bilddaten",
+                            "Discussion_Id": "595217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071356",
+                                    "Author": "Jan Brüning",
+                                    "DateTime": "2024-05-17T15:51:00+02:00",
+                                    "Content": "Wie versprochen hier ein paar Tipps für mögliche Quellen für Bilddaten: radiopaedia.org: Hier können scheinbar zunächst nur Einzelbilder heruntergeladen werden. Ggf. kann hier aber nachgefragt werden ob der Gesamtdatensatz bereitgestellt werden kann MICCAI.org: Die MICCAI richtet jährlich mehrere Challenges zu bilddatenbezogenen Fragestellungen aus  Übersicht der Challenges: https://miccai.org/index.php/special-interest-groups/challenges/miccai-registered-challenges Challenge zu angeborenen Herzfehlern: Paper, Daten grand-challenge.org: Ähnlich wie MICCAI  Allgemeine Open Data Repositories (z.B. figshare.com, datadryad.org)  KI-basierte Literatursuchmaschinen (z.B. Elicit, Consensus): Das habe ich selbst nicht probiert, aber diese Tools sind besser geeignet Metadaten von Publikationen zu durchforsten und könnten in der Lage sein, Publikationen zu identifizieren die auch Bilddaten verföffentlicht haben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

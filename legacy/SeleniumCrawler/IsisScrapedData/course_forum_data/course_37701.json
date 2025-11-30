@@ -1,0 +1,70 @@
+[
+    {
+        "Course_Name": "Python for Non-Programmers",
+        "Course_id": "37701",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766810",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No More In-Class Sessions - Focus on Your Final Project!",
+                            "Discussion_Id": "606200",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087497",
+                                    "Author": "Yan Zhang",
+                                    "DateTime": "2024-07-08T12:29:19+02:00",
+                                    "Content": "Dear students, After discussions with the professor, we have concluded the teaching portion of the course for this semester. The final project has been released, so your focus should now be on completing the assigned project by the end of the month. You no longer need to attend in-class sessions and can dedicate your time and effort to the final project. If you have any questions about the final project, please visit the forum in Week 12 on ISIS and post your questions there. I will be checking the forum daily to assist you. Enjoy working on your final project! Best regards, Yan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Project Released - Important Deadline Information",
+                            "Discussion_Id": "605720",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086808",
+                                    "Author": "Yan Zhang",
+                                    "DateTime": "2024-07-05T10:48:59+02:00",
+                                    "Content": "Dear Students, I am pleased to announce that the final project has been released. The deadline for submission is 11:59 PM on July 31, 2024. While I have provided an additional day as a grace period to prevent you from missing the deadline, I strongly encourage you to start working on your project as soon as possible and not wait until the last minute. To assist you, I have set up a forum specifically for the final project in the week 12. If you have any questions or concerns regarding the project, please post them on the forum so that everyone can see. I will respond to your inquiries there as promptly as possible. Please make sure to plan your time wisely and aim to submit your project by the deadline. Good luck with your work! Best regards, Yan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Updated Class Material and Assignment Deadline",
+                            "Discussion_Id": "591183",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065023",
+                                    "Author": "Yan Zhang",
+                                    "DateTime": "2024-04-30T12:46:07+02:00",
+                                    "Content": "Bonjour a tout,  I hope this message finds you well. I am writing to remind you of a couple of important points regarding our class material and upcoming assignment deadline. Firstly, I want to bring to your attention that I have recently updated the latest class material. If you have any lingering questions or uncertainties regarding the exercises, I encourage you to revisit the relevant sections. Don't hesitate to reach out if you need further clarification or assistance. Additionally, I would like to remind you that the deadline for the current assignment is swiftly approaching. The submission is due on 2nd May at 0am. There is an extension for another 24 hours if you have problems. Kindly ensure that you generate the required PDF document according to the provided guidelines. Thank you for your attention to these matters, and I look forward to your continued engagement and progress in the class. Best regards, Yan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment Deadline Reminder - 0am on the 25th",
+                            "Discussion_Id": "589228",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062051",
+                                    "Author": "Yan Zhang",
+                                    "DateTime": "2024-04-24T10:08:10+02:00",
+                                    "Content": "Hi all, I'm writing to remind you that the deadline for the first assignment is midnight tonight (0am on the 25th). In case any of you who haven't submitted your assignments didn't notice. Meanwhile, I uploaded the course materials onto the ISIS system after yesterday's class, and I noticed that some of you didn't notice this. Best regards Yan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

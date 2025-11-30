@@ -1,0 +1,187 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Programmierpraktikum Modelle Dynamischer Systeme",
+        "Course_id": "37889",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1772260",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abschluss dritter Sprint 2024-07-12 und die Folgewochen",
+                            "Discussion_Id": "606237",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087551",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-07-08T13:42:03+02:00",
+                                    "Content": "Liebe Teilnehmende, es folgt ein Überblick über die nächsten Wochen, Beta und Release. (Zu allen Aufgaben existieren auch Orga-Issues, die ich euren Product-Ownern zugewiesen habe, die ihr aber gerne in den Gruppen verteilen sollt.) Am Freitag, 2024-07-12, 12:15–14:30, beenden wir den dritten und leider schon letzten Sprint. Nach dem üblichen gemeinsamen Sprint-Review-Teil werden wir einen kleinen Beta-Test machen, bei dem ihr eure Spiele gegenseitig spielen und letzte Bugs finden könnt. Am Rande dieses Termins werde ich auch mit euch diverses Organisatorisches rückkoppeln. Am Freitag, 2024-07-19, 12:15–15:30, treffen wir uns zur Praktikums-internen Abschlusspräsentation. Jede Gruppe hat dabei 15 Minuten Zeit, ihr Gesamtwerk und seine Entstehung vorzustellen. Bitte findet dazu Leute in eurer Gruppe, die eine Präsentation ausarbeiten! (Struktur-Vorschlag: 1. Beschreibung & Mini-Vorführung des Spiels; 2. Was hat das mit einem Formalismus aus theoretischer Informatik zu tun? 3. Historischer Überblick eures Entwicklungsprozesses illustriert mit ein/zwei Screenshots/Artworks pro Sprint; 4. Was waren eure ein/zwei größten Schwierigkeiten/Hindernisse? 5. Was habt ihr gelernt? bzw. Ausblick.) Im Anschluss an die Vorträge machen wir eine interne Reflexions- und Feedback-Runde, in der ihr herausfinden könnt, was ihr über Software-Entwicklung gelernt habt und was ihr noch lernen wollt. Der 2024-07-19 ist auch der „Release-Termin“ eures Spiels. Euer Projekt muss zu diesem Tag haben: 1. Eine Readme, aus der Name, Spielmechanik und Steuerung klarwerden. 2. Einen Hinweis, wie man das Spiel kompiliert. 3. Credits und eine Lizenz. 4. Ein finales Release im GitLab. Eure Spiele sollen in unser öffentlichen Showcase der Praktikumsprojekte aufgenommen werden. Weil es ja um eure Produkte geht, ist es dabei euch überlassen, wie viel von dem Spiel und euch darin erscheint. Ihr entscheidet als Gruppe durch Gestaltung eines Merge-Requests fürs Showcase, wie ihr präsentiert werdet. Wenn ihr auf volle Öffentlichkeit gehen wollt, seid ihr herzlich eingeladen, euer Ergebnis auf https://itch.io/ (oder vergleichbaren Seiten) zu platzieren. Am Dienstag, 2024-07-23, 15:00–17:00, findet die Meta-Postersession der Praktika im H 3006 statt. (Wenn ich euch ein Poster ausdrucken soll, schreibt mir bis ) Voraussichtlich am 2024-07-23 oder 2024-07-24 finden (nach Absprache mit euch) die mündlichen Rücksprachen für diejenigen statt, die noch Punkte benötigen. Für die letzten anderthalb Wochen wünsche ich euch allen, dass ihr Spiele fertigstellt, auf die ihr stolz seid – und dass ihr motiviert an euren Projekten arbeitet, ohne in den in der Spieleentwicklung klassischen Abgrund des Crunch zu fallen! Bis Freitag! Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hackday 2024-06-14 und Abschluss zweiter Sprint 2024-06-21",
+                            "Discussion_Id": "600635",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079469",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-06-12T15:09:20+02:00",
+                                    "Content": "Hallo allerseits, diesen Freitag, 2024-06-14, 12:15–15:00, biete ich wieder eine Hackday-Arbeitszeit mit Getränken im FH 301 an. Nächsten Freitag, 2024-06-21, 12:15–13:15, begehen wir wieder einen gemeinsamen Sprint-Abschluss im FH 301. Ich werde noch einmal einen kleinen Input zu den Erwägungen über „Flow“ (darüber haben wir schon einmal geredet) geben. Den Großteil der Stunde nutzen wir, damit ihr euch gegenseitig eure Fortschritte vorstellen und euch Anregungen geben könnt. Der Rest des Nachmittags steht euch für gruppeninterne Treffen für Review, Retrospective und Planning zur Verfügung. Liebe Grüße und weiter viel Erfolg mit der zweiten Hälfte eures zweiten Sprints! Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abschluss Erster Sprint 2024-05-31",
+                            "Discussion_Id": "597316",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074658",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-05-28T12:53:42+02:00",
+                                    "Content": "Hey allerseits, diesen Freitag, 2024-05-31, 12:15–13:30, stellt ihr im FH 301 eure Entwicklungsstände vor. Sorgt bitte dafür, dass für eure Gruppe jemand in 5–10 Minuten den Prototypen am Beamer per Live-Demo vorführen kann! (Mit halbwegs durchdachtem Ablauf und vielleicht mit ein paar ergänzenden Ausführungen zu Zielen und Hintergründen.) Danach sollt ihr eure Projekte gegenseitig testen. Dafür ist es wichtig, dass eure Entwicklungsstände unter https://pr.mtv.tu-berlin.de/modysy-2024sose/… aufrufbar sind und grundlegend laufen. Erstellt am 2024-05-31 bitte (ggf. auch erst im Tagesverlauf) einen GitLab-Tag+Release eures Projekts, um das Inkrement zu markieren. Das ist der Stand, den ich mir zur Bewertung eures Sprint-Ergebnisses ansehen werde. Bis Freitag! Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hackday 2024-05-24",
+                            "Discussion_Id": "596350",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073092",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-05-23T15:36:11+02:00",
+                                    "Content": "Hi allerseits, ihr seid inzwischen über den Zenit eures ersten ersten Sprints und ich habe den Eindruck, dass es bei allen Gruppen vorangeht. Morgen, 2024-05-24, 12:15–15:15 treffen wir uns zu einem kleinen „Hackday“ im FH 301. Ihr könnt dort an euren Issues werkeln und euch (auch gruppenübergreifend) über die Schulter schauen, Tricks austauschen usw. Ich helfe auch gerne hands-on. Und ich gebe eine Runde Mate aus! Einige Gruppen haben Devs, die diesen Sprint noch kein Issue abgeschlossen haben. Ich hoffe, bis nächste Woche schafft ihr es jeweils, dass jede:r von euch eins fertigstellt. Bis morgen! Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beginn der Portfolio-Bewertung",
+                            "Discussion_Id": "594172",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069715",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-05-13T18:45:31+02:00",
+                                    "Content": "Hallo allerseits, ich habe begonnen, euch Bewertungspunkte des Praktikums einzutragen. Ich habe euch allen individuell an eure TU-Mailadressen Links geschickt, unter denen ihr eure Punkte verfolgen könnt. Um euch Punkte zu geben, schaue ich alle paar Tage in unserem GitLab, welche Issues geschlossen wurden. Dabei gucke ich jeweils in die verknüpften Merge-Requests, um herauszufinden, was genau ihr gemacht habt und wie viele Punkte ihr für das Issue erhaltet. Wenn im Issue vermerkt ist, dass mehrere Leute es bearbeiten, gebe ich auch mehreren (ggf. differenziert / aufgeteilt) Punkte. Für Issues, bei denen nicht leicht durch verlinkte MR oder Ähnliches erkennbar ist, was getan wurde, kann ich in aller Regel keine Punkte geben. Bitte schließt Issues nicht kommentarlos! Natürlich kann es dabei immer vorkommen, dass ich Dinge übersehe oder in Zeilen verrutsche. Wenn ein Issue komisch oder gar nicht bewertet wurde, schreibt mich bitte mit einem Link zu dem betreffenden Issue an! Die allermeisten Probleme können vermieden werden, indem ihr GitLab strukturiert verwendet und eure Arbeit sauber durch Issues und MRs dokumentiert. Das führt einerseits dazu, dass ich euch effizient bepunkten kann. Vor allem wird es aber auch euch als Gruppen einfacher, den Überblick zu behalten, wer gerade wo was in der Codebase treibt. Es lohnt sich also nicht nur fürs Bestehen, sondern auch fürs Ergebnis und eure Nerven, wenn ihr euch die paar Minuten zur Projekt-Dokumentation nehmt. ;) Nochmal zur Bewertung allgemein: Diese Lehrveranstaltung ist unbenotet. Ihr müsst 60 von 100 Punkten erreichen, um zu bestehen. 30 Punkte könnt ihr dabei durch eure Gruppenarbeit bekommen (5 pro Sprint und 15 fürs Gesamtergebnis) und 50 Punkte individuell für Issues, die ihr bearbeitet. Ich gebe dabei in der Regel 4 Punkte pro Einzel-Issue. Wenn mir auffällt, dass in einem unheimlich viel Arbeit steckt, auch mal (etwas) mehr oder umgekehrt weniger. In der Regel kann ich euch nur Punkte gutschreiben, wenn das Issue als von Anfang bis Ende bearbeitet (mit verbundenen, in Main aufgenommenen Merge-Requests) im GitLab dokumentiert und euch zugeordnet ist. Für gewöhnlich erkennt ihr in den Issues an einer @[EuerName] +[PunkteFürsIssue]-Nachricht, dass ich euch Punkte für dieses gutschreibe. Scrum-Mastern und Product-Ownern notiere ich sprintweise Punkte für die Organisation / ProductBacklog-Pflege und co. Wenn ihr am Ende insgesamt über 40, aber noch keine 60 Punkte erreichen solltet, könnt ihr am Anfang der VL-freien Zeit bis zu 20 Punkte durch eine mündliche Rücksprache erlangen. Das Bewertungssystem ist so eingestellt, dass man als Entwickler:in recht automatisch besteht, wenn man einfach alle ein bis zwei Wochen ein bis zwei Issues bearbeitet und das Gruppenergebnis okay ist. Aber dass das funktioniert, ist keine Selbstverständlichkeit! Ihr müsst als Gruppen darauf achten, dass nicht Einzelne abgehängt oder mit überdimensionierten Tickets versenkt werden. Falls es damit Schwierigkeiten gibt, sprecht eure Scrum-Master an! Und natürlich stehe ich euch auch per Mail, Zoom oder Treffen zur Verfügung. Dieses System bewertet die erfasste Quantität und nicht die Qualität der Einzelleistungen. Es simuliert damit etwas diese Arbeitswelt, in der auch die dokumentierten Arbeitsstunden und Zahlen erledigter Aufgaben manchmal mehr zählen, als fair wäre. Das gehört zu den Zumutungen dieses Praktikums, dass ihr lernen müsst, damit als Einzelne und als Gruppen umzugehen. Lasst euch davon nicht aus dem Konzept bringen! Am Ende ist es am wichtigsten, dass ihr Spaß habt, viel lernt und ein Produkt abliefert, auf das ihr stolz seid. Ich wünsche euch viel Erfolg! Ben P.S. Zur Erinnerung: Am 2024-05-17 werde ich 12:15–13:00 im FH 301 sein, falls ihr Fragen habt / meinen Input zu etwas sucht. Bei Andrang auch länger.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prototypen-Party und 1. Sprint-Start 2024-05-10 (und die kommenden Wochen)",
+                            "Discussion_Id": "593076",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067956",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-05-07T18:05:37+02:00",
+                                    "Content": "Hallo allerseits, am Freitag, 2024-05-10, starten eure ersten Sprints. Um 12:15 werden wir uns im FH 301 treffen, damit ihr euch gegenseitig eure Prototypen vorstellen könnt. Der Großteil des Zeitslots (spätestens ab 13:30) soll euch allerdings für Organisatorisches und euer erstes Sprint-Planning zur Verfügung stehen. Damit die Sprints sauber anlaufen können, schließt bis dahin bitte als Gruppe eure Vorbereitungen ab. Individuell solltet ihr unbedingt soweit mit GitLab klarkommen, dass euer Miniprojekt-Merge-Request durchgeht; und euch per Moses für die Prüfung anmelden. Einen Überblick zu kommenden Sprints und Produktbewertung findet ihr im GitLab. Der Sprint läuft bis zum 2024-05-31, an dem wir uns zum gemeinsamen Sprint-Review treffen werden. Die zwei Termine davor sind informeller: Am 2024-05-17 bin ich 12:15–13:00 im FH 301 und beantworte euch gerne Fragen (ggf. auch länger bei Andrang). (Nutzt den Raum gerne für Treffen und Zusammenarbeit!) Für den 2024-05-24 schlage ich vor, dass wir uns 12:15–15:15 zu einem „Hackday“ treffen. Ihr könnt den Raum nutzen, um an euren Issues werkeln und euch (auch gruppenübergreifend) über die Schulter schauen, Tricks austauschen usw. Ich helfe auch gerne hands-on und gebe ne Runde Mate aus. So oder so könnt ihr den FH 301 (und andere freie Räume im FH-3, die ihr findet) während unseres Slots gerne auch in Zukunft für Treffen oder Zusammenarbeit nutzen. In gewissem Umfang kann ich euch weitere Räume buchen. Im Übrigen sei auf die (teils buchbaren) Gruppenarbeitsräume der TU verwiesen. Bis Freitag! Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Idea-Pitch 2024-05-03 (und Modulprüfungsanmeldung)",
+                            "Discussion_Id": "591487",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065485",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-05-01T18:13:36+02:00",
+                                    "Content": "Liebe Leute, diesen Freitag, 2024-05-03, 12:15, treffen wir uns zum Austausch über eure Spiel-Ideen. Stellt eure Spiel-Idee(n) den anderen Gruppen vor! Maximal 3 Ideen pro Gruppe, maximal 10–15 Minuten pro Gruppe! Wir können danach auch 5–15 Minuten pro Gruppe für Fragen oder Anregungen nutzen. Idealerweise bereitet ihr Skizzen, Mockups oder Screenshots vergleichbarer Spiele vor, die ihr den anderen per Beamer zeigen könnt, um schnell eure Idee zu transportieren! Die Spielmechanik und euer Formalismus müssen eindeutig erkennbar zusammenhängen. Denkt daran, eure individuellen Voraussetzungen zur aktiven Teilnahme zu schaffen, indem ihr euch ans Mini-Projekt wagt! Wir können am Freitag auch noch ein paar Minuten Fragen dazu besprechen. Individuell solltet ihr auch unbedingt mit dem Formalismus eures Projekts soweit vertraut sein, dass ihr die Beispiel-Übungsaufgaben zu VASS bzw. MDP lösen könntet. Für die Portfolioprüfung meldet euch bitte per MOSES-MTS für „Modul #40934: Programmierpraktikum: Modelle Dynamischer Systeme“ an bis zum Beginn des ersten Sprints am 2024-05-10! Beste Grüße Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Workshop am 2024-04-26 und GitLab-Miniprojekt",
+                            "Discussion_Id": "588554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061012",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-04-22T16:58:40+02:00",
+                                    "Content": "Liebe MoDySy-Teilnehmende, ich hoffe, euer Semester hat gut begonnen! Wie vorgestellt, werden wir primär eine GitLab-Gruppe zur weiteren Koordination nutzen. Ich sehe die GitLab-Gruppenmitglieder als die Menge derjenigen, die zur Teilnahme an der Lehrveranstaltung angemeldet sind. (Die Anmeldung zur Modulprüfung erfolgt separat per MTS.) Nächsten Freitag, 2024-04-26, 12:15 Uhr bis 15:45, treffen wir uns zum MoDySy-Workshop, bei dem ihr euch gegenseitig vertiefend über die verschiedenen Grundlagen des Praktikums informieren werdet. Im Wiki der Gruppe findet ihr alles Weitere unter https://git.tu-berlin.de/modysy-2024sose/modysy-orga inklusive Materiallinks, und mit der Zeit auch die Notizen eurer Mit-Studierenden. Das Mini-Projekt zum Kennnenlernen des GitLab-Workflows habe ich unter https://git.tu-berlin.de/modysy-miniproject freigeschaltet und euch Issues zugewiesen. Die meisten Punkte erklärt euch hoffentlich die Projekt-Readme. (Ich stehe euch am 2024-04-26 nach dem Workshop auch etwas dazu zur Verfügung.) Für Nachfragen zu eurem konkreten Issue kommentiert ins Issue und ich werde antworten. Sobald ihr euren Merge-Request für halbwegs fertig haltet, assignt ihn mir und klickt „Mark as ready“! Ich werde dann entweder mergen oder noch Nachbesserungen anfordern. Ziel ist es, dass alle bis zum Start des ersten Sprints mit dem Miniprojekt endgültig fertig (= merge abgeschlossen) sind.  Allgemeine und technische Rückfragen könnt ihr am besten im Forum stellen. Individuell erreicht ihr mich über benjamin.bisping@tu-berlin.de. Ihr könnt mich auch für physische oder virtuelle 1:1-Sprechstunden-Gespräche anfragen. Mein Standard-Slot dafür ist mittwochs, 13:30–14:30 Uhr.  Liebe Grüße und viel Spaß mit MoDySy SoSe 2024!  Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-off  2024-04-19, 12:15, FH 301",
+                            "Discussion_Id": "586143",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057303",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-04-15T18:17:31+02:00",
+                                    "Content": "Liebe MoDySy-Teilnehmende, am Freitag, 2024-04-19, beginnen wir mit dem Kick-off-Treffen, 12:15–15:45 Uhr im FH 302. Dort werde ich euch vorstellen, wie das Programmierpraktikum Modelle Dynamischer Systeme dieses Semester ablaufen wird.  Unsere gemeinsamen Termine werden in der Regel auf dem Freitags-Slot liegen. (Sie finden nicht in allen Wochen statt. Darum ist es umso wichtiger, dass ihr diejenigen Termine, die stattfinden, nicht verpasst. In den Wochen ohne Termin steht euch der Raum in diesem Zeitraum für Gruppenarbeit zur Verfügung.) Falls ihr am Kick-off-Treffen nicht teilnehmen könnt, sorgt bitte dafür, dass eine:r der teilnehmenden Mitstudierenden euch dort mit-vertritt.  Zur Vorbereitung des Kurses möchte ich euch bitten, bis 2024-04-18, 16:00 an der Vorabbefragung teilzunehmen.  Liebe Grüße und bis Freitag! Ben",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059517",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-04-19T12:23:56+02:00",
+                                    "Content": "Miro mit Präsentation: https://miro.com/app/board/uXjVKS5yNtA=/?share_link_id=24876980128",
+                                    "Response to": "p1057303"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zu Programmierpraktika über Meta-Kurs beachten",
+                            "Discussion_Id": "584104",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054314",
+                                    "Author": "Benjamin Bisping",
+                                    "DateTime": "2024-03-27T11:11:18+01:00",
+                                    "Content": "Liebe MoDySy-Interessierte,  dass ihr in diesen ISIS-Kurs eingeschrieben seid, heißt vermutlich, dass ihr euch für eine Teilnahme an Modelle Dynamischer Systeme oder an einem anderen Programmierpraktikum im Sommersemester 2024 interessiert.  Die Vergabe der Praktikumsplätze erfolgt auch dieses Semester über einen Meta-Kurs. Dort müsst ihr euch zwischen heute, 2024-03-27, und Montag, 2024-04-01, 23:59, eintragen und später noch Präferenzen angeben. Alle Details findet ihr hier: https://isis.tu-berlin.de/mod/forum/discuss.php?d=584096  MoDySy startet dieses Semester am ersten Freitag, 2024-04-19, 12:15–15:45 Uhr, FH 301. Falls ihr MoDySy unter euren Prioritäten habt, haltet euch den Termin bitte frei.  Beste Grüße, schöne Feiertage und vielleicht ja bis bald!  Ben",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen und Antworten",
+                    "Forum_id": "1772591",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "[Miniprojekt] Syntaxfehler bei npm run dev und lint",
+                            "Discussion_Id": "591893",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066113",
+                                    "Author": "Armin Roshandel",
+                                    "DateTime": "2024-05-02T20:51:01+02:00",
+                                    "Content": "Hey, ich hab grade das git project geclont und node js installiert (via cmdline). Dann im projekt npm install gemacht, um alle nötigen pakete zu installieren. Beim ausführen von npm run dev, bekomme ich aber nun folgenden fehler: > modysy-orbit@1.0.0 dev > webpack serve --mode development  <i> [webpack-dev-server] Project is running at: <i> [webpack-dev-server] Loopback: http://127.0.0.1:8080/ [webpack-cli] SyntaxError: Unexpected token '?'     at Loader.moduleStrategy (internal/modules/esm/translators.js:133:18)     at async link (internal/modules/esm/module_job.js:42:21) und bei npm run lint den fehler:  > modysy-orbit@1.0.0 lint > eslint . --ext .ts   Oops! Something went wrong! :(  ESLint: 8.57.0  /home/arminroshandel/Uni/MoDySy/orbit-agrippa/node_modules/@typescript-eslint/eslint-plugin/dist/rules/adjacent-overload-signatures.js:39                     const name = member.id?.name ?? null;                                            ^  SyntaxError: Unexpected token '.'     at wrapSafe (internal/modules/cjs/loader.js:915:16)     at Module._compile (internal/modules/cjs/loader.js:963:27)     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)     at Module.load (internal/modules/cjs/loader.js:863:32)     at Function.Module._load (internal/modules/cjs/loader.js:708:14)     at Module.require (internal/modules/cjs/loader.js:887:19)     at require (internal/modules/cjs/helpers.js:74:18)     at Object.<anonymous> (/home/arminroshandel/Uni/MoDySy/orbit-agrippa/node_modules/@typescript-eslint/eslint-plugin/dist/rules/index.js:6:56)     at Module._compile (internal/modules/cjs/loader.js:999:30)     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10) hat jemand einen ähnlichen fehler gehabt und konnte ihn beheben? Bzw. weiß jemand wie ich den beheben könnte? Kann mir nämlich nicht vorstellen, dass irgendwelche internen pakete einen syntax fehler haben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbefragung verpasst",
+                            "Discussion_Id": "587573",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059391",
+                                    "Author": "Sylvester Friedrich Seiler",
+                                    "DateTime": "2024-04-19T10:21:40+02:00",
+                                    "Content": "Hallo, Ist es schlimm, wenn ich die Vorbefragung nicht ausgefüllt habe? ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

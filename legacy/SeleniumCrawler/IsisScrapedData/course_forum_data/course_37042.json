@@ -1,0 +1,249 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Open Distributed Systems - Seminar",
+        "Course_id": "37042",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1743756",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentation today moved to hybrid",
+                            "Discussion_Id": "606843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088417",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-07-10T11:26:52+02:00",
+                                    "Content": "Dear students, As there are many cats and dogs falling down, we moved our presentation meeting to a hybrid meeting. Zoom: https://tu-berlin.zoom.us/j/66711965630?pwd=mp3dv6NmY3fs2GDCwWnzFXkEL6gYo1.1 Those of you, who already are at the university we moved also from HFT-TA 441 to room HFT 410 (same floor, same building).  See you soon Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation Schedule",
+                            "Discussion_Id": "602399",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082012",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-06-20T14:24:10+02:00",
+                                    "Content": "Dear students, We have updated the schedules for our seminar presentations. It is available from today at 3 pm. For organizational reasons, selections for 3 students were moved from their first choice to their second. Students who didn't communicate their prioritized choice have been assigned to open seats in any existing slot. You can check your assigned schedule in the activity \"Presentationslots\", and below \"Presentations HFT-TA 441\" on our ISIS course page. Note, that the due date to upload your presentation slides is Monday, 1 July 2024 at 6 pm. If you want to change for some reason your slot, find somebody who will change with you, and inform us, afterward. If there are any questions, let us know. Finally, a friendly reminder that the due date for \"Submit your review feedback\" is next Tuesday, 25 June at 6 pm.  Best Regards Uwe",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1085603",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-07-02T07:48:21+02:00",
+                                    "Content": "Dear students,  This is a small friendly reminder for our first presentation scheduled, today. It will start at 2 pm. Presenters are asked to take your student ID card with you. We have to validate your identity, as it is usual in face-to-face examination parts.  Kind Regards Uwe Kuehn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Review Files have been published",
+                            "Discussion_Id": "604105",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084466",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-06-27T17:05:01+02:00",
+                                    "Content": "Dear students, You find your review feedback files attached to your ISIS activity as direct feedback files. This you may use to optimize your final draft. As already announced we published the presentation slots for our seminar topics [ https://isis.tu-berlin.de/mod/page/view.php?id=1743782 ]. Last, but not least, our Course Evaluation [ https://isis.tu-berlin.de/mod/page/view.php?id=1845838 ] process has been started, already. You find the link and a QR code on top our ISIS course page. Best Wishes Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Files for Review Process have been published",
+                            "Discussion_Id": "600946",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079937",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-06-13T17:20:47+02:00",
+                                    "Content": "Dear participants,  We have published 2 papers from your fellow students for the upcoming double-blind review process to each of you. You will find these files as feedback files in the activity \"Hand in the draft of your submission\".  Download the Review protocol and Submit your review feedback before June, 25 6 p.m. .  Keep also in mind that the process of selecting Presentationslots will finish on June, 18 at 6 p.m. on the dot.  Kind Regards Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Changes to Graded Tasks",
+                            "Discussion_Id": "589383",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062301",
+                                    "Author": "Aljoscha Thomas Meyer",
+                                    "DateTime": "2024-04-24T14:04:56+02:00",
+                                    "Content": "Dear Students, as announced in today's session, we did some changes to the graded tasks. First off, there is a new timeline for task submissions: 21.05. Last opportunity to unenroll from the course 21.05. Proposal (graded) [more details below] 11.06. Submission (ex 28.05.) (not graded) [more details below] 25.06. Review (ex 18.06.) (graded and grading) 01.07. upload presentations 19.07. Camera-ready (graded) [more details below] The \"submission\" is your first draft of the six-page paper you produce; this will form the basis of the subsequent peer reviews. The \"camera-ready\" version is then the final, graded submission of the six-page paper. Your first graded task has changed significantly: we are asking you to develop research questions and then write a proposal containing the following points: Title Abstract Introduction Problem Domain Research Questions Related Work (\"Literaturliste\") The proposal must have at least one full and at most two full pages, excluding the references. Use the same template for the proposal as you would for the final paper. If there are any further questions, please send an email. Kind regards, Aljoscha",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1075266",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-05-29T18:23:10+02:00",
+                                    "Content": "Dear participants,  The grading of the proposals you have uploaded is finished. You can find your received points in ISIS. You also find there an attachment with the gradings details like the attached one here. I also updated the slides from today's lecture.  Avoid all questions to the received grading details, those will be discussed during the grad review in the beginning of the next semester.  Please keep updated via ISIS webpage for the following due dates. This counts esp. for your submission of first draft and the presentation slot selection process. Note: Since these are synchronous activities with the fellow students, there is no possibility to extend the due dates for any reason for single students.  We wish you a nice weekend. Kind Regards Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder Exam enrolment",
+                            "Discussion_Id": "594295",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069932",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-05-14T12:01:13+02:00",
+                                    "Content": "Dear students,  This is a brief and friendly reminder, that exam enrolment process finishes tomorrow 23:59:59. If you are not enrolled and acknowledged in MOSES, you will not be able to participate in this course further.  Kind Regards Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic Selection",
+                            "Discussion_Id": "587321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059013",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-18T13:55:37+02:00",
+                                    "Content": "Dear students, As already announced in the lecture the topic selection is in progress.  Since we assign first come first serve, first topics are picked, and cannot be assigned to another fellow student. The assigned topic you can find in your grading report, see the sample below. Also in the List \"Offered Topics\" we updated the state from '-' into 'used'.   Best Wishes Uwe",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1062109",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-24T10:47:17+02:00",
+                                    "Content": "Dear participants,  The topic selection process is finished. Your assigned topic you find either in the course grading feedback and in ISIS activity, as well. The next mandatory step for you is to enrol yourself to exam in Moses on 15.05.2024 latest. Withdrawal is possible before 21.05.2024.  Kind Regards Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder topic Selection",
+                            "Discussion_Id": "588802",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061375",
+                                    "Author": "Aljoscha Thomas Meyer",
+                                    "DateTime": "2024-04-23T11:15:58+02:00",
+                                    "Content": "Dear students, this is a quick reminder that you can and must select your topics until midnight today, if you want to participate in the seminar. Kind regards, Aljoscha",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Matrix channel setup",
+                            "Discussion_Id": "587636",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059499",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-19T12:01:17+02:00",
+                                    "Content": "Dear students,  We built a matrix channel for student-student communication. You can join via https://matrix.to/#/#se-ods:matrix.tu-berlin.de or https://chat.tu-berlin.de/#/room/#se-ods:matrix.tu-berlin.de . This channel and the student forum https://isis.tu-berlin.de/mod/forum/view.php?id=1818307 are not used for official announcements. We only announce officially in our announcements section in ISIS. Kind Regards Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Call for Papers for the Students Conference in Computer Science (SKILL 2024)",
+                            "Discussion_Id": "587330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059026",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-18T14:07:26+02:00",
+                                    "Content": "The students conference of the German Informatics Society (GI e.V.) SKILL 2024 is aimed at all students of Computer Science and related disciplines. The conference will focus on student work and projects (Bachelor and Master degrees). Accepted contributions will be published in a conference proceedings and presented at the SKILL 2024 on September 25th and 26th in Wiesbaden as part of the GI Informatics Festival 2024. Prizes will be awarded for outstanding contributions.  Participation can be in English and in German, as well.  More information you find here and on the German webpage.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar \"Open Disitributed Systems\" SoSe 2024 starts",
+                            "Discussion_Id": "585008",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055666",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-08T17:51:35+02:00",
+                                    "Content": "Dear participants, Our first meeting in the lecture Seminar \"Open Distributed Systems\" starts next week on Wednesday, 17 of April at 10 a.m. We will meet in room HFT-TA 441. Please be there on the dot, because we have to leave the room before 11:30 a.m.  We will present the organizational structure of this course. Thus, it is important to take part, since you can ask supervisors in the case details are unclear. As you might know, the application to this course happen only via the \"[SoSe 24] Metaseite der Seminare\". All of you, who followed this procedure are assigned to this Seminar with success. You can check this, because you are assigned to the Group \"Seminar Enrolled Members\".  If you are assigned to the group \"Waiting Members\" you did either, not following the official procedure or you followed this procedure and you were assigned to another seminar. Since the seats for this course are limited, for you a mandatory action is required. Case 1: You were assigned to another seminar. Then unenroll yourself from this course. Case 2: You don´t want to take part for some other reason. Then unenroll yourself from this course. Case 3: You want to stay. Then fill Participant Questionary (only Waiting List members) with the requested data. You will fill the open seats in the order in our ranking process unless the are seats.  Kind Regards And Looking Forward to meet you",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1056593",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-12T19:00:11+02:00",
+                                    "Content": "Dear students,  This is a small friendly reminder. Our first meeting in the lecture Seminar \"Open Distributed Systems\" starts next week on Wednesday, 17 of April at 10 a.m. We will meet in room HFT-TA 441. Please be there on the dot, because we have to leave the room before 11:30 a.m.  All of you within the Group \"Seminar Enrolled Members\" have a save seat in the course.  All of you who are in the Group \"Waiting Members\" only, which means not in the Group \"Seminar Enrolled Members\", can apply for participation with fill Participant Questionary (only Waiting List members) before April, 17. We will remove all students next Wednesday, who are in the Group \"Waiting Members\" and did not apply with the Questionary after our lecture. Students, who responded in the Questionary will be ranked and fill the open seats in that order as long there are seats. Students, who fill the seats, will receive an acceptance mail on Wednesday (April, 17). We still hope we can accept all applications.  Last, but not least, we have updated our topic list \"Topics offered\". All other important information we will discuss in our lecture.  Kind Regards And Looking Forward to meet you",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1057853",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-04-16T16:47:50+02:00",
+                                    "Content": "Dear students,  This is the last and final call to fill out Participant Questionary (only Waiting List members) to apply for the open seats. Students, who responded in the Questionary will be ranked and fill the open seats in that order as long there are seats. Students, who fill the seats, will receive an acceptance mail on Wednesday (April, 17).  See you tomorrow (Wed, 17) in room HFT-TA 441 at 10:00 a.m. on the dot.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Help Yourself (unsupported)",
+                    "Forum_id": "1818307",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Deriving Review Result Grade (5%) from Review Feedback Files",
+                            "Discussion_Id": "604116",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084482",
+                                    "Author": "Nicolas Alejandro Dahbar Miguez",
+                                    "DateTime": "2024-06-27T17:32:23+02:00",
+                                    "Content": "Is there a way of getting the grade of the Review Result part of the Portfolioprüfung (5%) I got from the Review Feedback Files?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1084559",
+                                    "Author": "Uwe Kuehn",
+                                    "DateTime": "2024-06-28T08:26:06+02:00",
+                                    "Content": "Hello Nicolas,  No, the grades for review will be done and published together with the grades for camera ready submission.  Best Wishes Uwe",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Trainers, please fix proposal file submission",
+                            "Discussion_Id": "592310",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066795",
+                                    "Author": "Leo Gabriel Paoletti",
+                                    "DateTime": "2024-05-05T12:10:23+02:00",
+                                    "Content": "",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066799",
+                                    "Author": "Aljoscha Thomas Meyer",
+                                    "DateTime": "2024-05-05T12:24:48+02:00",
+                                    "Content": "Sorry about that, should be fixed now.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1066991",
+                                    "Author": "Leo Gabriel Paoletti",
+                                    "DateTime": "2024-05-06T09:23:20+02:00",
+                                    "Content": "Thanks !",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

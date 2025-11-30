@@ -1,0 +1,36 @@
+[
+    {
+        "Course_Name": "Test | Grundlagen der industriellen Informationstechnik & Fabrikbetrieb und Industrielle Informationstechnik",
+        "Course_id": "17444",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1146385",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Test ",
+                            "Discussion_Id": "550031",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1000239",
+                                    "Author": "Raymond-Paul Tolulope Oladipupo",
+                                    "DateTime": "2023-10-07T13:04:29+02:00",
+                                    "Content": "Einen schönen guten Tag,  Ich bin wiing madchnau student, und muss als studentische studienrichtung Fabrikbetrieb und industrielle Informationstechnik absolvieren. Ich bin mir nicht sicher ob ich hier richtig bin. Kann mir da einer helfen. Schöne Grüße.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1000410",
+                                    "Author": "Lisa Hagedorn",
+                                    "DateTime": "2023-10-09T13:34:20+02:00",
+                                    "Content": "Hallo Raymond, da bist du hier grundsätzlich richtig.  Der Kurs hier ist jedoch nur um den Test zu schreiben, hier werden keine Kursinformationen geteilt. Um den Modulteil Industrielle Informationstechnik zu belegen, der wird nur im Sommersemester angeboten. Fabrikbetrieb kannst du auch im Wintersemester belegen. Dafür musst du dich bei Hannah Lickert von Montagetechnik melden. Viele Grüße Lisa",
+                                    "Response to": "p1000239"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

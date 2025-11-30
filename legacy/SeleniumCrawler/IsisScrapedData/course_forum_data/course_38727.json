@@ -1,0 +1,70 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Unternehmensgründung und Recht I",
+        "Course_id": "38727",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1802471",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Heutige Vorlseung (13.06.2024)",
+                            "Discussion_Id": "600880",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079849",
+                                    "Author": "Martin Sebastian Haase",
+                                    "DateTime": "2024-06-13T14:09:17+02:00",
+                                    "Content": "Liebe Student*innen, heute begrüßen wir die Betreiber der Seite \"acemate.ai\". https://acemate.ai Ich habe das Gefühl, dass die heutige Einheit dadurch sehr spannend (und klausurrelevant (-;) werden kann! Herzliche Grüße Martin S. Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studentenforum",
+                    "Forum_id": "1802473",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Teilnahme an heutiger Vorlesung verhindert ",
+                            "Discussion_Id": "600911",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079891",
+                                    "Author": "Nicolas Karsten Fitzke",
+                                    "DateTime": "2024-06-13T15:31:08+02:00",
+                                    "Content": "Sehr geehrter Prof Dr Haase,  ich bin heute leider verhindert und kann an der Vorlesung nicht teilnehmen. Wird man die klausurrelevanten Information auch nach der Vorlesung auf Isis finden?  Mit freundlichen Grüßen,  Nicolas Fitzke ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079898",
+                                    "Author": "Martin Sebastian Haase",
+                                    "DateTime": "2024-06-13T15:45:29+02:00",
+                                    "Content": "Eine Zusammenfassung des klausurrelevanten Stoffes gibt es bzw. wird es auf ISIS (geben).",
+                                    "Response to": "p1079891"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsApp Gruppe",
+                            "Discussion_Id": "587474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059232",
+                                    "Author": "Noel Leon Kronenberg",
+                                    "DateTime": "2024-04-18T18:44:27+02:00",
+                                    "Content": "Gibt es bereits eine Gruppe für das aktuelle Semester? Falls nicht - gerne dieser für den Austausch im aktuellen Semester beitreten: https://chat.whatsapp.com/JmSzm4PWrUQGRRB0iBe1AA",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

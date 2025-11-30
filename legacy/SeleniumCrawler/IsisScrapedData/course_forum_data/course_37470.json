@@ -1,0 +1,257 @@
+[
+    {
+        "Course_Name": "TKN Wireless Networking Technologies 2024s",
+        "Course_id": "37470",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1760229",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Oral exam",
+                            "Discussion_Id": "606135",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087408",
+                                    "Author": "Anatolij Zubow",
+                                    "DateTime": "2024-07-08T11:09:57+02:00",
+                                    "Content": "Dear students, Some of you have already asked for time slots for the oral exams. This year we do the allocation via ISIS. Please register here: https://isis.tu-berlin.de/mod/organizer/view.php?id=1853276 Note, you must have successfully completed the lab to take the exam. Don't forget to also register in Moses for the exam until July 20 (hard deadline). Best Regards, Anatolij Zubow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab 5",
+                            "Discussion_Id": "602212",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081737",
+                                    "Author": "Christos Laskos",
+                                    "DateTime": "2024-06-19T17:52:22+02:00",
+                                    "Content": "Hi all, in today's lab we found out that OLSR is not working in ns3 version 3.41. I tested multiple ns3 versions and it seems to be a problem specific to version 3.41 and 3.42. Something within ns3 is most likely broken in these two versions. I suggest you use version 3.40 for the lab, where OLSR runs as expected. Best, Christos",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab3",
+                            "Discussion_Id": "599654",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078026",
+                                    "Author": "Sigrid Dimce",
+                                    "DateTime": "2024-06-07T14:41:53+02:00",
+                                    "Content": "Dear all,  regarding Lab3 in ns3, we received multiple submissions after the deadline. Unfortunately, we will grade only the submissions we received in ISIS.  Best Regards,  Sigrid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to the WNT course for SS 2024",
+                            "Discussion_Id": "585559",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056432",
+                                    "Author": "Anatolij Zubow",
+                                    "DateTime": "2024-04-12T09:09:07+02:00",
+                                    "Content": "Dear students, Welcome to the Wireless Networking Technologies (WNT) course for SS 2024! Please note some important information: The first lecture session will take place on Tuesday (16.04.2024) from 12-14h (c.t.), HFT-TA 101. The first lab session will take place on Wednesday (17.04.2023) from 12-14h (c.t.), HFT-TA 101. The overview for the lecture and the labs will be discussed in the first meetings. We encourage you to use the discussion forum on ISIS as much as possible. This will allow us to know, if you are facing any particular problem, and we will reply to it as fast as possible.  Best Regards, Anatolij Zubow",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion",
+                    "Forum_id": "1819798",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Application form",
+                            "Discussion_Id": "606231",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087543",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-07-08T13:24:58+02:00",
+                                    "Content": "In the Isis course for the registration it says: \"Scheduling of an appointment and submission of the application form to us (see below)\".  Should this be sent via email?  Best regards, Mustafa.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration and last lab",
+                            "Discussion_Id": "605945",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087134",
+                                    "Author": "Florian Pirvu",
+                                    "DateTime": "2024-07-07T11:21:00+02:00",
+                                    "Content": "Maybe it was mentioned, but I was wondering when the registration for the exam will open and whether the 10th July is the last lab date",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question regarding Lab05",
+                            "Discussion_Id": "602668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082415",
+                                    "Author": "Moritz Schwarz",
+                                    "DateTime": "2024-06-21T17:02:23+02:00",
+                                    "Content": "Whenever I set the nodespeed to 0 the simulation fails and I get this error message: NS_ASSERT failed, cond=\"delay.IsPositive()\", msg=\"DefaultSimulatorImpl::Schedule(): Negative delay\", +0.000000000s 0 Does anybody else have the same problem?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1082427",
+                                    "Author": "Sigrid Dimce",
+                                    "DateTime": "2024-06-21T17:27:58+02:00",
+                                    "Content": "Hi Moritz, One possible solution would be to set the nodespeed to 1, instead of 0. Best Regards, Sigrid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab 4 - Invalid header checksum!",
+                            "Discussion_Id": "599263",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077474",
+                                    "Author": "Lucas Fenglin Holdermann",
+                                    "DateTime": "2024-06-05T22:04:21+02:00",
+                                    "Content": "Hi everyone, I've been running the simulation from Lab 4 and at some point I get the following error: Error using LoRaPHY/decode (line 663) Invalid header checksum! This happens regardless of whether I use forpar or for in the inner loop. Does anyone else have the same issue?  Regards Lucas",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077795",
+                                    "Author": "Anatolij Zubow",
+                                    "DateTime": "2024-06-06T17:39:42+02:00",
+                                    "Content": "Hi,  I have experienced something similar. It seems that the LoRa instance cannot be used multiple times - some member variables are not reseted. Try to create a new phy instance (phy = LoRaPHY(..)) before each use, i.e. for each packet.  Best, Zubow",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078050",
+                                    "Author": "Lucas Fenglin Holdermann",
+                                    "DateTime": "2024-06-07T16:01:37+02:00",
+                                    "Content": "Hi,  thank you for the suggestion! I did try this both ways and it unfortunately still throws the error even with all of the phy initialisation at the beginning of the same loop that creates packets.  If it helps identifying the cause the full error using a regular for loop over the SNRs is:  Error using LoRaPHY/decode (line 663) Invalid header checksum!  Error in lora_per_sim (line 117) [rxPSDU, checksum, is_checksum_correct] = phy.decode(symbols_d);  It crashes after 65 simulation runs. Since I start with SF 12 (decrementing each run) and increase the SNR each run (-35 to -8), that is exactly after SF10, SNR -27.  Using parfor I get:  Error using LoRaPHY/decode (line 663) Invalid header checksum!  Error in lora_per_sim (line 64)     parfor isnr = 1:numSNR  This time it crashes after 74 runs. With parfor I again start with SF 12 but decrease the SNR each run (-8 to -35) so it stops exactly after SF 10, SNR -25.  If no one else has the same errors, I will ask again during next week's lab.  Best Lucas",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1078236",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-06-09T09:47:33+02:00",
+                                    "Content": "I too did get this error message. I also did initialize the structure in every iteration new.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079212",
+                                    "Author": "Daniel Czech",
+                                    "DateTime": "2024-06-11T21:12:12+02:00",
+                                    "Content": "I encountered the same problem and noticed that you can shift the SNR index where the error occurs by shifting the substream index of the PRNG. I don't know yet why this produces a bad input for the decode function. But I was able to simulate all SF/SNR combinations without the error by shifting the substream index. If you want to try it yourself, I changed line number 73 in the original lora_per_sim.m to  stream.substream = isnr + 1337;  inside the two for loops. I don't know if this will be accepted in the grading process, but it shouldn't matter.  Best regards Daniel",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1079601",
+                                    "Author": "Daniel Czech",
+                                    "DateTime": "2024-06-12T20:47:09+02:00",
+                                    "Content": "It seems that the error that occurs is actually a valid error that stems from the protocol and should be counted as a packet error. I thought it was a programming error because it's so rare and causes the program to abort, but actually the event of getting no bit errors in the preamble but then getting one in the header is just unlikely but possible. So my suggestion from yesterday is bad advice for proper experimental design and should be ignored.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question regarding plot Lab3",
+                            "Discussion_Id": "598281",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076058",
+                                    "Author": "Florian Pirvu",
+                                    "DateTime": "2024-06-01T19:05:58+02:00",
+                                    "Content": "Hallo If I understood it correctly we need to run our simulation with 25 nodes and seed up to 10 for each number of nodes So should the boxplot contain the averages of each seed per node? or do we need to use the also current measurements depending on the time step of our simulation?  Best regards, Florian",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076252",
+                                    "Author": "Lucas Fenglin Holdermann",
+                                    "DateTime": "2024-06-03T08:57:18+02:00",
+                                    "Content": "Hey, I'm not a tutor so no guarantees but from my last Lab visit, the way I understand it is that all 10 runs for each node Number provide the data for one box. The average for that box is the average of all of those (up to 1000) values.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076397",
+                                    "Author": "Christos Laskos",
+                                    "DateTime": "2024-06-03T12:23:32+02:00",
+                                    "Content": "Hi,  yes, you need to run 10 seeds for each number of nodes. At the end you should get 1000 throughput values per number of nodes, if you keep the default calculation interval. In last week's Q&A session we decided that each box needs to have at least 100 data points. This results in storing the throughput every second. Hope this helps.  Best, Christos",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076757",
+                                    "Author": "Florian Pirvu",
+                                    "DateTime": "2024-06-04T10:01:19+02:00",
+                                    "Content": "Thank you, I thought it would suffice to use the average throughput, and therefore giving us only 10 values per node",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 3 mistake?",
+                            "Discussion_Id": "593153",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068083",
+                                    "Author": "Florian Pirvu",
+                                    "DateTime": "2024-05-08T08:14:12+02:00",
+                                    "Content": "While revising lecture 3 I noticed something on page 21 (CDMA Example) For sender B: shouldn't the signs of the ones be inversed for Bs? and therefore we would get a different value for the superimpose As+Bs?  Maybe it was mentioned in the lecture but I couldn't attend because I was sick Thank you for your answer in advance",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1068086",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-05-08T08:38:04+02:00",
+                                    "Content": "You multiply the key (A_k or B_k) with the bit/data to be send (A_d or B_d). Since B sends the data bit \"0\" it means it is assigned \"-1\". Which means when multiplying with the key that 1 becomes -1 and vice versa. I hope this answers your questions. Come to the lab maybe and it will be answered easily by the Christos or Sigrid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "How much detail and reminder for deadline",
+                            "Discussion_Id": "592520",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067146",
+                                    "Author": "Mustafa Gezer",
+                                    "DateTime": "2024-05-06T12:25:43+02:00",
+                                    "Content": "Hello Team,  I just wanted to ask in how much detail we should go regarding the comparison of our histogram and probabilities.   I also noticed that on the PDF it says deadline is on 8.5. 23:59, but the ISIS page says it is 7.5. 23:59. Just wanted to remind someone if they did not submit yet.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067223",
+                                    "Author": "Sigrid Dimce",
+                                    "DateTime": "2024-05-06T13:54:25+02:00",
+                                    "Content": "Hi Mustafa, We expect a short description of the results, e.g., why the results look that way.  Regarding the submission date, we would like to thank you for spotting out the mistake. As we mentioned in every lab session, and in the organization slides, the submission deadline is every second Tuesday at 23:59 (in this case, tomorrow, 7/05/2024). Best Regards, Sigrid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Links",
+                            "Discussion_Id": "586842",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058283",
+                                    "Author": "Sigrid Dimce",
+                                    "DateTime": "2024-04-17T12:32:35+02:00",
+                                    "Content": "Dear all,  Please find below the links for the Matlab tutorial and ns-3 software.  Matlab wireless tutoria;: https://matlabacademy.mathworks.com/details/wireless-communications-onramp/wireless ns-3: https://www.nsnam.org/",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

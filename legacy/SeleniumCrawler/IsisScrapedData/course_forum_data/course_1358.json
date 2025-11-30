@@ -1,0 +1,117 @@
+[
+    {
+        "Course_Name": "HVAT Polymere I",
+        "Course_id": "1358",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Studierendenforum // student's forum",
+                    "Forum_id": "1560190",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kenntnistests",
+                            "Discussion_Id": "533699",
+                            "Messages": [
+                                {
+                                    "Message_id": "p974826",
+                                    "Author": "Juliette Bühler",
+                                    "DateTime": "2023-06-07T14:22:14+02:00",
+                                    "Content": "Hallo, ist es bei jemand anderem auch so, dass die Kenntnistests und der Vorlesungsskript nicht geöffnet werden können? Bei mir steht dann, dass es aus Urheberschutzgründen nicht möglich ist...   LG Juliette",
+                                    "Response to": "#p974826"
+                                },
+                                {
+                                    "Message_id": "p975341",
+                                    "Author": "Tobias Bertz",
+                                    "DateTime": "2023-06-08T17:03:09+02:00",
+                                    "Content": "Hallo Juliette,  der Fehler auf der ISIS-Seite wurde behoben. Die Dateien sollten sich jetzt öffnen lassen.  LG Tobias BERTZ",
+                                    "Response to": "#p974826"
+                                },
+                                {
+                                    "Message_id": "p984519",
+                                    "Author": "gelöscht",
+                                    "DateTime": "2023-07-04T11:13:02+02:00",
+                                    "Content": "Werden die Lösungen zu den Kenntnistests hochgeladen?",
+                                    "Response to": "#p974826"
+                                },
+                                {
+                                    "Message_id": "p984773",
+                                    "Author": "Justus Victor Schönebeck",
+                                    "DateTime": "2023-07-04T16:48:15+02:00",
+                                    "Content": "Nein, es gibt keine Lösungen zu den Kenntnistests, diese dienen als Unterstützung beim Lernen und Hilfestellung, wie Fragen in der Klausur aussehen können.  VG Justus",
+                                    "Response to": "#p984519"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prof. Auhls Vortrag am 30.06.",
+                            "Discussion_Id": "524097",
+                            "Messages": [
+                                {
+                                    "Message_id": "p959773",
+                                    "Author": "Dominika Luiza Lewicka",
+                                    "DateTime": "2023-04-27T15:10:17+02:00",
+                                    "Content": "Liebes HVAT-Team, wenn ich es richtig verstanden habe, hat Prof. Auhl angekündigt, dass sein Vortrag am 30.06. für Studierende online zugänglich wäre. Ist schon eine Zeit bekannt? Die Info wäre für Interessierte relevant, da im Modul HVAT Keramik Praktika an dem Tag stattfinden werden, die zeitnah zu planen sind. Viele Grüße Dominika Lewicka ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungszeiten",
+                            "Discussion_Id": "522400",
+                            "Messages": [
+                                {
+                                    "Message_id": "p956993",
+                                    "Author": "Lucas Georg Patzlaff",
+                                    "DateTime": "2023-04-24T08:23:53+02:00",
+                                    "Content": "Guten Tag Prof. Auhl, am vergangenen Dienstag während der Einführungsveranstaltung hatten Sie uns gefragt, ob die Vorlesungszeiten allen so passen würden bzw. ob es Änderungswünsche gibt.  Ich meine das daraufhin die \"HVAT'ler\" ohne Gegenstimmen für eine Änderung der Vorlesungszeit von Dienstag auf Montag von 12:15-13:45 Uhr gebeten hatten. Wird diese Vorlesungszeit nun ab dieser Woche so angeboten? und wenn ja in welchem Raum sollen wir uns einfinden?  Könnten Sie dies bitte kurz aufklären.  Vielen Dank vorab!  Mit besten Grüßen  Lucas Patzlaff ",
+                                    "Response to": "#p956993"
+                                },
+                                {
+                                    "Message_id": "p957249",
+                                    "Author": "Tobias Bertz",
+                                    "DateTime": "2023-04-24T12:02:26+02:00",
+                                    "Content": "Hallo Lucas,  ich habe mit Prof. Auhl telefoniert. Die nächste Vorlesung findet morgen (Dienstag, 25.04.) um 08:30 Uhr via zoom statt.  Mit besten Grüßen Tobias Bertz",
+                                    "Response to": "#p956993"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ZOOM für Einführungsveranstaltung",
+                            "Discussion_Id": "520479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p953936",
+                                    "Author": "Fanisa Prajogo",
+                                    "DateTime": "2023-04-18T08:56:13+02:00",
+                                    "Content": "Guten Morgen, gibt es heute kein ZOOM-Meeting für die Einführungsveranstaltung? Danke! VG, Fanisa",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine der VL",
+                            "Discussion_Id": "519853",
+                            "Messages": [
+                                {
+                                    "Message_id": "p953020",
+                                    "Author": "Henriette Dorothea Kauer",
+                                    "DateTime": "2023-04-14T14:36:04+02:00",
+                                    "Content": "Hi, bei Moses wird mir die VL für Montag 8-10 und Donnerstag 10-12 angezeigt, hier steht aber Dienstag. Wann findet sie statt? Danke und schönes Wochenende, Henriette",
+                                    "Response to": "#p953020"
+                                },
+                                {
+                                    "Message_id": "p953043",
+                                    "Author": "Tobias Bertz",
+                                    "DateTime": "2023-04-14T16:35:27+02:00",
+                                    "Content": "Hallo Henriette,  die Vorlesung ist vom automatisierten System der Uni ursprünglich für Montag und Donnerstag geplant worden. Prof. Auhl möchte den Montagstermin aber auf Dienstag verschieben. Näheres wird er dann in der Einführungsveranstaltung am Dienstag (18.04.) ankündigen.  Dir und allen Anderen auch ein schönes Wochenende Tobias Bertz",
+                                    "Response to": "#p953020"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

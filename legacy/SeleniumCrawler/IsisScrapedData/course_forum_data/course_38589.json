@@ -1,0 +1,144 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Online R Labor 1",
+        "Course_id": "38589",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Fragen-Forum für Studierende",
+                    "Forum_id": "1796456",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Altklausuren",
+                            "Discussion_Id": "595605",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072026",
+                                    "Author": "Mike Louis Fidanyan",
+                                    "DateTime": "2024-05-21T11:35:20+02:00",
+                                    "Content": "Hallo, Ich wollte mal nachfragen ob es zu diesem Modul Altklausuren gibt und ob wir zugriff zu den Altklausuren bekommen könnten?  Vielen Dank,  Mit freundlichen Grüßen, Mike",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072094",
+                                    "Author": "Oliver Hölscher",
+                                    "DateTime": "2024-05-21T13:34:23+02:00",
+                                    "Content": "Hallo,  es wird ein Probequiz am Ende der Übungen hochgeladen. Sonst gibt es keine richtigen Altklausuren.  Viele Grüße  Das Online R Team",
+                                    "Response to": "p1072026"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 2: NA Werte in Datensätze &amp; Performance von Schleifen",
+                            "Discussion_Id": "595282",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071457",
+                                    "Author": "Minh Quân Tran",
+                                    "DateTime": "2024-05-17T20:59:55+02:00",
+                                    "Content": "Hallo, die Inhalte des 2.Videos habe ich zur Übung an einem eigenen Datensatz geübt.  Der Datensatz enthält 'falsche' Datensätze (rows), die NA Werte für einige Attribute(Columns) haben. Entsprechend habe ich versucht die Datensätze (rows) mit NA's zu entfernen.   Dazu habe ich paar einige Funktionen (siehe Anhang) geschrieben, aber dessen Performance lassen zu wünschen übrig: Ich frage mich, ob man diese Funktion verbessern und schneller machen kann, ohne Funktionen wie apply() zu nutzen. Oder ob es überhaupt Möglichkeiten dazu in R gibt.    *Der Dataframe enthält 250.000 Datensätze (mit 3NA Rows) und 7Columns Funktion1: loopt durch jede row & überprüft diese mit anyNA das Zwischenergebnis von anyNA jeder Iteration wird in einem Vektor na_vector  na_vector wird dabei stetig erweitert Performance: ca. 36 Sekunden Funktion2: wie Funktion1, der na_vector wird aber mit einer Länge (nrow) vor initialisiert na_vector wird nicht mehr erweitert, sondern Werte werden übern index eingefügt Performance: ca. 6 Sekunden Funktion3: loopt wieder durch jede row & überprüft diese mit anyNA das Zwischenergebnis wird aber nur gespeichert, wenn TRUE (*Index statt Logical gespeichert) na_vector wird zwar wieder stetig erweitert, aber nur so häufig wie NA-Rows existieren, statt nrow-häufig Performance: ca. 6 Sekunden Funktion4: benutzt apply() Performance: ca. 1 Sekunde  Experiment zeigt, dass ein Vektor mit vordefinierte Länge besser ist als ein Vektor 240000mal zu erweitern (siehe Funktion1 vs 2). Gibt es noch andere Sachen worauf man achten kann, um die Funktion performanter zu machen? Grüße Minh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071458",
+                                    "Author": "Oliver Hölscher",
+                                    "DateTime": "2024-05-17T21:22:41+02:00",
+                                    "Content": "Hallo,  bitte einmal die Funktion na.omit(dataframe) ausprobieren.  Viele Grüße  Das Online R Team",
+                                    "Response to": "p1071457"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 00: Ausgabe von Vektoren",
+                            "Discussion_Id": "592924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067753",
+                                    "Author": "Lena Stober",
+                                    "DateTime": "2024-05-07T13:06:25+02:00",
+                                    "Content": "Hallo, Vektoren werden bei mir mit allen Einträgen untereinander ausgegeben (z.B. Übung 00, Übungsaufgabe 2.0 Vektoren, 1. Teilaufgabe): In den Lösungsvideos werden die einzelnen Zahlen einfach hintereinander gelistet, was meiner Meinung nach deutlich übersichtlicher und platzsparender ist. Kann ich hier in den Einstellungen irgendwas verändern, damit es bei mir auch so ist oder habe ich etwas falsch eingegeben?  LG Lena (sie/ihr)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067793",
+                                    "Author": "Oliver Hölscher",
+                                    "DateTime": "2024-05-07T13:53:26+02:00",
+                                    "Content": "Hallo,  ich habe tatsächlich noch nie von dem Problem gehört. Es kann sich lohnen print() zu benutzen um den Vektor auszugeben oder die R Version zu wechseln.  Viele Grüße  Das Online R Team",
+                                    "Response to": "p1067753"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 1 (Logik in R)",
+                            "Discussion_Id": "592382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066921",
+                                    "Author": "Minh Quân Tran",
+                                    "DateTime": "2024-05-05T23:00:12+02:00",
+                                    "Content": "Hallo, im Video1 zu \"Logik in R\" wurde die doppelten Logik-Operatoren || und && vorgestellt (ca. 26:00 im Video). Diese geben gegenüber den einfach Operatoren  | und & einen Gesamtvergleich und damit einen einzelnen logical.  Allerdings scheint diese \"Doppeloperatoren\" in den neuen R Versionen nicht mehr zu funktionieren. Diese Änderung wird auch hier unter \"Significant User-Visible Changes\" (3.Stichpunkt) gelistet: R: R News (r-project.org) Ich hab das Beispiel aus dem Video auch nochmal nachgeschrieben:  (eine Warnung statt \"FALSE\")   Wie sollen wir innerhalb des Moduls (und Klausur) damit umgehen? davon ausgehen, dass es funktioniert, so wie im Video beschrieben von den Neuerungen ausgehen von beiden Ausgehen  Grüße Minh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067326",
+                                    "Author": "Oliver Hölscher",
+                                    "DateTime": "2024-05-06T15:46:45+02:00",
+                                    "Content": "Hallo,  da nicht davon ausgegangen werden kann, dass alle Studierende des Moduls die neueste R-Version benutzen, werden beide Antworten als richtig markiert werden. Es gibt viele Gründe warum manchmal nicht die neueste Version genommen wird und diese Fälle möchte ich nicht ausschließen.  Danke aber vielmals für den Hinweis. Zukünftig wird die R-Version im Kurs spezifiziert sein und das Video entsprechend kommentiert / bearbeitet werden.  Viele Grüße  Das Online R Team",
+                                    "Response to": "p1066921"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ORL 1 als Standalone modul?",
+                            "Discussion_Id": "586500",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057831",
+                                    "Author": "Lucas Anthony Ajjam",
+                                    "DateTime": "2024-04-16T16:22:19+02:00",
+                                    "Content": "Guten Tag,  Auf der Mosesseite werden 2 Modulbestandteile beschrieben.   Kann ich dieses Modul alleine machen oder muss ich die beiden Module zuerst absolvieren? Vielen Dank ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057854",
+                                    "Author": "Huong Tra Pham",
+                                    "DateTime": "2024-04-16T16:47:54+02:00",
+                                    "Content": "Hallo, dieselbe Frage hatte ich auch. Das war die Antwort.",
+                                    "Response to": "p1057831"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anrechnung Seminar",
+                            "Discussion_Id": "585333",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056117",
+                                    "Author": "Moritz Paul Barvencik",
+                                    "DateTime": "2024-04-10T17:08:18+02:00",
+                                    "Content": "Hallo, ich wollte fragen ob dieses Modul als Seminar im Wahlpflichtbereich des Studiengangs Wirtschaftsinformatik angerechnet werden kann?  Vielen Dank und mit freundlichen Grüßen, M.Barvencik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1056767",
+                                    "Author": "Jonathan Maximilian Heinrich E Eichholz",
+                                    "DateTime": "2024-04-14T21:50:59+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1056117"
+                                },
+                                {
+                                    "Message_id": "p1056938",
+                                    "Author": "Oliver Hölscher",
+                                    "DateTime": "2024-04-15T11:13:19+02:00",
+                                    "Content": "Hallo,  dieses Modul war vor vielen Jahren einmal ein Seminar. Aktuell entspricht der Kursverlauf jedoch nicht dem eines Seminars und kann somit auch nicht als solches angerechnet werden. Es ist wie ein normales Modul zu bewerten.  Viele Grüße  Das Online R 1 Team",
+                                    "Response to": "p1056117"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

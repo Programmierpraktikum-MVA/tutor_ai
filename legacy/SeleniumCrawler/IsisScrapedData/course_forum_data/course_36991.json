@@ -1,0 +1,85 @@
+[
+    {
+        "Course_Name": "Ingenieurbauwerke im Fokus SoSe 2024",
+        "Course_id": "36991",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1739604",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Baustellenbesichtigung zum Estrel-Tower Berlin",
+                            "Discussion_Id": "591206",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065053",
+                                    "Author": "Michael Hecker",
+                                    "DateTime": "2024-04-30T13:18:44+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, im Zuge des Moduls \"Hochbau II\" findet eine Baustellenbesichtigung vom Estrel-Tower statt. Es sind noch Plätze frei, falls Ihr daran also Interesse haben solltet, meldet euch doch bitte bei Michael Hecker (michael.hecker@tu-berlin.de).  Die Besichtigung findet am 08.05.2024 statt und startet um 16 Uhr an der Baustelle in der Sonnenallee 225, 12057 Berlin. Wir haben das Glück, dass unsere Führung über die Baustelle von dem Büro \"Bollinger + Grohmann Ingenieure\" durchgeführt wird, die uns zur Tragwerksplanung aus erster Hand berichten werden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freier Platz für die Exkursion nach Rotterdam",
+                            "Discussion_Id": "585512",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056359",
+                                    "Author": "Cornelia Otto",
+                                    "DateTime": "2024-04-11T16:56:36+02:00",
+                                    "Content": "Hallo liebe Studierende, es ist ein Platz für die Exkursion nach Rotterdam (06.-09.06.2024) frei geworden! Der Kostenbeitrag beläuft sich auf 200,-€. Der Termin zum Kennenlernen ist kommenden Dienstag 16.04.2024 - 17:00Uhr am Tib.  Wer hat Zeit und Lust mitzukommen? Bitte meldet euch bei Interesse umgehend bei mir (otto@tu-berlin.de). Viele Grüße Cornelia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen-Forum",
+                    "Forum_id": "1740939",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Falsches Formular?",
+                            "Discussion_Id": "575321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1040718",
+                                    "Author": "Florian Alexander Pluntke",
+                                    "DateTime": "2024-01-26T20:03:26+01:00",
+                                    "Content": "Hi, Ich hab mich gerade angemeldet und festgestellt, dass ganz unten im Formular noch der Infotext vom letzten Jahr steht. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1040828",
+                                    "Author": "Katherine Rueda Holguin",
+                                    "DateTime": "2024-01-27T23:13:45+01:00",
+                                    "Content": "+1",
+                                    "Response to": "p1040718"
+                                },
+                                {
+                                    "Message_id": "p1040952",
+                                    "Author": "Paul Jakob Meins",
+                                    "DateTime": "2024-01-28T20:43:04+01:00",
+                                    "Content": "+1",
+                                    "Response to": "p1040718"
+                                },
+                                {
+                                    "Message_id": "p1041000",
+                                    "Author": "Cornelia Otto",
+                                    "DateTime": "2024-01-29T07:26:14+01:00",
+                                    "Content": "Hallo,  ja, das stimmt. Ich habe es jetzt korrigiert, danke für den Hinweis! Ihr erhaltet die Teilnahmebestätigung natürlich am 01.02.2024 und wir bitten euch dann 200,-€ bis zum 06.02.2024 zu bezahlen. Also alles so, wie in der Einführungsveranstaltung mitgeteilt.  Viele Grüße und einen guten Start in die Woche Cornelia",
+                                    "Response to": "p1040718"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

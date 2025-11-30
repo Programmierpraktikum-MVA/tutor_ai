@@ -1,0 +1,449 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Innovation Marketing",
+        "Course_id": "38067",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1778333",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Online Exam Friday June 21 4pm",
+                            "Discussion_Id": "602496",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082160",
+                                    "Author": "Florian Waldner",
+                                    "DateTime": "2024-06-20T21:33:14+02:00",
+                                    "Content": "Dear Students,  Please find the instructions for tomorrow's Innovation Marketing exam below. Additionally, the Zoom link, detailed instructions, and a short practice exam to help you familiarize yourself with the interface are available on ISIS.  Best regards, Florian   Before the exam - Try out the test exam to see which question types will be used and if it works fine on your setup - Make sure to have an operating camera and the latest version of the Zoom client - Make sure to use your laptop with a charger - Join the Zoom call https://us06web.zoom.us/j/85612812759?pwd=w5QTrR1mpFljLs76PJPsIQcDMJuEYd.1  (from 15:45 p.m.) - Upload the „confirmation of exam requirements“ form on ISIS before 16:00.      Without the confirmation form, you cannot access the exam!  During the exam - You can start the exam at 16:00, from that on you have 60min to finish the exam - Stay in the main room of the Zoom call - The exam is auto-saved with every page change and after every minute. You can also manually save longer texts. In the event of interruptions (e.g. Internet failure, accidental closing of the browser window), you can continue at the point of the last storage - If you have questions/problems raise your hand in Zoom and we will move you to a breakout room - in case of technical problems take screenshots as evidence  After the exam - Do not de-register from this ISIS course. If you do, we can’t evaluate your exam  Attempts at deception include, but are not limited to: - Working together on the exam - Conducting the exam with outside help - Persons other than the registered student conduct the exam",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission Market Research Report",
+                            "Discussion_Id": "600482",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079262",
+                                    "Author": "Thomas Kohler",
+                                    "DateTime": "2024-06-12T07:35:32+02:00",
+                                    "Content": "Hello together, We had some technical difficulties, but now the submission of the Market Research Report via ISIS is open. Please resubmit by Friday, June 14, since keeping track of the email submissions is difficult. Best, Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exemplary submission for the Market Research Assignment",
+                            "Discussion_Id": "598253",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076019",
+                                    "Author": "Florian Waldner",
+                                    "DateTime": "2024-06-01T11:26:22+02:00",
+                                    "Content": "Dear Students,  Attached, you will find an exemplary submission for the Market Research Assignment. Please note that this submission is from a previous semester when market sizing was not included.  For your assignment, I am eager to see how you can apply the methods we have discussed in the context of an entrepreneurial situation. Your insights should be presented in a format of 5-10 slides.  Best regards, Florian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kickoff",
+                            "Discussion_Id": "598170",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075885",
+                                    "Author": "Thomas Kohler",
+                                    "DateTime": "2024-05-31T16:03:41+02:00",
+                                    "Content": "Everyone should join today's InnoDays Kickoff starting at 16:15. Same link as always: https://us06web.zoom.us/j/87278282797?pwd=06b5C87Tk2iOWD3aXIhxnFVuSHu2I7.1",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Today's class",
+                            "Discussion_Id": "596570",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073413",
+                                    "Author": "Thomas Kohler",
+                                    "DateTime": "2024-05-24T15:11:27+02:00",
+                                    "Content": "Hello everyone, We will use the same Zoom link also today. See you soon, Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second Session - May 17 4pm",
+                            "Discussion_Id": "595218",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071357",
+                                    "Author": "Florian Waldner",
+                                    "DateTime": "2024-05-17T15:51:49+02:00",
+                                    "Content": "Hello class, Today we will meet online via same old Zoom link. Florian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MTS registration until tomorrow, 11:59 PM",
+                            "Discussion_Id": "594013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069473",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-05-13T12:46:34+02:00",
+                                    "Content": "Dear students, those who preregistered but forgot to register via Moses can now do so until tomorrow (May 14) at 11:59 PM. Kind regards, Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course start",
+                            "Discussion_Id": "589988",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063219",
+                                    "Author": "Thomas Kohler",
+                                    "DateTime": "2024-04-25T19:34:02+02:00",
+                                    "Content": "Hello class, Welcome to our Innovation Marketing course! We’ll discuss the most relevant concepts and apply methods for how to market innovation. Our first session is on 26.04.2024, 16.00-19.00 online via this Zoom link. Please review the syllabus before class. Looking forward to seeing you online tomorrow!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First session",
+                            "Discussion_Id": "589070",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061795",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-23T17:53:28+02:00",
+                                    "Content": "Dear students, thank you for your interest in this course. All preregistered students can participate in the first session. We may have to adjust the number of participants afterwards. Kind regards Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Preregistration ",
+                            "Discussion_Id": "585121",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055823",
+                                    "Author": "Kathrin Forchhammer",
+                                    "DateTime": "2024-04-09T13:22:06+02:00",
+                                    "Content": "Dear students,  you can pre-register for the course until April 21. Since the course is limited to 60 participants, only those who pre-register can be taken into account. In order to pre-register, please fill out the \"preselection questionnaire\". You can find it on the ISIS page of this course. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Student forum",
+                    "Forum_id": "1778346",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Confirmation of exam requirements",
+                            "Discussion_Id": "602534",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082219",
+                                    "Author": "Elizaveta Anokhina",
+                                    "DateTime": "2024-06-21T09:37:38+02:00",
+                                    "Content": "Hi! Where do we need to upload the confirmation of exam requirements? There's a field \"Confirmation of exam requirements\" but I don't see a file upload button",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "final exam",
+                            "Discussion_Id": "600699",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079581",
+                                    "Author": "Youssef Hany Gamaleldin Bahgt Elbably",
+                                    "DateTime": "2024-06-12T19:24:20+02:00",
+                                    "Content": "Hi guys,  Do we have another date for the final exam or only on the 21th of june?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Relevant material for exam",
+                            "Discussion_Id": "600689",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079565",
+                                    "Author": "Paul Oscar Scheuermann",
+                                    "DateTime": "2024-06-12T18:14:26+02:00",
+                                    "Content": "Hello,  I would like to know which material is relevant for the upcoming exam next Friday. Since we did not discuss all the material from the shared dropbox it would be great if we could get some clarification.   Thank you very much in advance.  Regards,   Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Background on clear.se challenge",
+                            "Discussion_Id": "598371",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076189",
+                                    "Author": "Paul Oscar Scheuermann",
+                                    "DateTime": "2024-06-02T20:40:43+02:00",
+                                    "Content": "Hello,  in the lecture on Friday we talked about the challenge for clear.se. It would be great if you could upload some more background information on the challenge or the recording for the lecture so we can develop our own ideas and work on the marketing research report.   Thank you so much  Paul Scheuermann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "submission",
+                            "Discussion_Id": "599843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078321",
+                                    "Author": "Youssef Hany Gamaleldin Bahgt Elbably",
+                                    "DateTime": "2024-06-09T22:39:21+02:00",
+                                    "Content": "Guys does anyone know where to submit the video and the market research presentation?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submitting the market research report",
+                            "Discussion_Id": "599839",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078317",
+                                    "Author": "Mohammad Al Amin Kazi Shoubo",
+                                    "DateTime": "2024-06-09T22:14:37+02:00",
+                                    "Content": "So, we are not submitting our market research report today, since no submission link has been provided yet. It means we have more time to work on market research report.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slides from last lecture for pitch preparation",
+                            "Discussion_Id": "599066",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077200",
+                                    "Author": "Paul Oscar Scheuermann",
+                                    "DateTime": "2024-06-05T10:33:41+02:00",
+                                    "Content": "Hello,  it would be great if we could get the slides from the last lecture for more ideas on what you expect in the pitch from us.  Thank you very much in advance.  Regards,  Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Searching for Three Members for Innodays",
+                            "Discussion_Id": "598212",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075952",
+                                    "Author": "Syed Ali Murad Tahir",
+                                    "DateTime": "2024-05-31T18:59:55+02:00",
+                                    "Content": "Hello Everyone, I am looking for three more people to join my team for the \"clearlea.se\" challenge during innovation days. A little bit about me: I am currently a master's student specializing in Machine Learning and Data Science. I have experience working with Natural Language Processing and Large Language Models, and I am currently working as a Data Engineer. I am seeking three members to join me for the \"Clearlea.se\" challenge. However, I am also open to collaborating on other projects if you have any ideas. If you're interested, feel free to message me! Please include a little bit yourself when you do. Best regards",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Slides from Lecture",
+                            "Discussion_Id": "595296",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071483",
+                                    "Author": "Paul Oscar Scheuermann",
+                                    "DateTime": "2024-05-18T00:22:51+02:00",
+                                    "Content": "Hello,  I was wondering if we could get the slides from the lecture any time soon.   Thank you very much in advance for your answer.  Regards, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Clarification on Individual Assignments 1 &amp; 2 and InnoDays Project",
+                            "Discussion_Id": "596651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073546",
+                                    "Author": "Syed Ali Murad Tahir",
+                                    "DateTime": "2024-05-24T22:25:15+02:00",
+                                    "Content": "Hello, I would like to clarify a few points regarding Individual Assignments 1 and 2: For the market research report, we have the following options, correct? Our own new startup idea Current startups available in the market A startup provided by you in today’s (Friday - 24.05.2024) class Will the startup idea for the InnoDays project be the same as the one we work on for Assignments 1 and 2? Alternatively, can we choose a different idea for Assignments 1 and 2, with the possibility that the best ideas will be selected for the InnoDays project, or will we be required to work on a startup idea provided by you? Thank you for your time and assistance. Best regards",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Missed Exam Registration Deadline",
+                            "Discussion_Id": "592717",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067443",
+                                    "Author": "Arooj Anwar Khan",
+                                    "DateTime": "2024-05-06T19:19:09+02:00",
+                                    "Content": "Hello, I missed the deadline on Moses for exam registration. Is there a way to still register for the exam?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung &amp; Abmeldung Moses",
+                            "Discussion_Id": "592171",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066537",
+                                    "Author": "Sally Isabel Strauchmann",
+                                    "DateTime": "2024-05-03T16:54:01+02:00",
+                                    "Content": "Hi, ich habe mich gerade zur Prüfung angemeldet. Bis wann bzw. unter welchen Bedingungen wäre eine Abmeldung möglich? Vielen Dank & Viele Grüße Sally",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam date",
+                            "Discussion_Id": "591454",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065429",
+                                    "Author": "Madeline Jungnitsch",
+                                    "DateTime": "2024-05-01T13:58:18+02:00",
+                                    "Content": "Hi everyone, could someone please confirm, if the date of the exam will be the 21st of June? I didn't write down which one it was exactly, when the topic came up in the first session and can't remember if the one stated in the schedule / syllabus is correct. Thanks and kind regards, Madeline",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First session ",
+                            "Discussion_Id": "590442",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063876",
+                                    "Author": "Nour Bettaieb",
+                                    "DateTime": "2024-04-27T15:42:59+02:00",
+                                    "Content": "Hallo ! Did anyone attend the zoom meeting for the first session or record it maybe? I couldn't attend yesterday so I would appreciate any notes or anything! Thanks !",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zusage fürs Modul",
+                            "Discussion_Id": "588829",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061418",
+                                    "Author": "Paul Oscar Scheuermann",
+                                    "DateTime": "2024-04-23T11:52:32+02:00",
+                                    "Content": "Hallo, wann können wir mit einer Versendung der Zu- und Absagen für das Modul rechnen? Vielen Dank im Voraus für die Antwort. Mit freundlichen Grüßen Paul Scheuermann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Market research assignment",
+                    "Forum_id": "1836354",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Uploading Assignment A1 now possible",
+                            "Discussion_Id": "600406",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079149",
+                                    "Author": "Kathrin Forchhammer",
+                                    "DateTime": "2024-06-11T18:02:14+02:00",
+                                    "Content": "Dear Students,  you can now submit your assignment \"Individual assignment 1 (A1): Market research report\" via ISIS.   ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "UPLOAD market research",
+                            "Discussion_Id": "599828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078303",
+                                    "Author": "Rohat Turgut",
+                                    "DateTime": "2024-06-09T20:49:08+02:00",
+                                    "Content": "Where do we upload our market research reports??",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078315",
+                                    "Author": "Klevisa Gjini",
+                                    "DateTime": "2024-06-09T22:09:39+02:00",
+                                    "Content": "Would like to know too",
+                                    "Response to": "p1078303"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Market Research Assignment Upload",
+                            "Discussion_Id": "599834",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078311",
+                                    "Author": "Madeline Jungnitsch",
+                                    "DateTime": "2024-06-09T21:35:02+02:00",
+                                    "Content": "Hello, could you please clarify where the market research assignment should be uploaded? Are we supposed to upload it to this forum? It would be great if you could get back to us. Best regards, Madeline",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Market research assignment ",
+                            "Discussion_Id": "598360",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076174",
+                                    "Author": "Jelena Mateskovic",
+                                    "DateTime": "2024-06-02T18:46:37+02:00",
+                                    "Content": "Hi I'm still a bit confused..., the market research analysis is supposed to be about AI Document Processing for chain stores and real estate investors or and their market development am i right ?   Thanks in advance ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076637",
+                                    "Author": "Youssef Hany Gamaleldin Bahgt Elbably",
+                                    "DateTime": "2024-06-03T19:21:58+02:00",
+                                    "Content": "I have the same question",
+                                    "Response to": "p1076174"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Market Research Report Hand in",
+                            "Discussion_Id": "598632",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076576",
+                                    "Author": "Paul Oscar Scheuermann",
+                                    "DateTime": "2024-06-03T16:57:44+02:00",
+                                    "Content": "Hello, should we hand in the market research report via mail or is there a different chapter on ISIS where we will upload it to? Thank you very much in advance. Regards, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline for First Assignment",
+                            "Discussion_Id": "597724",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075233",
+                                    "Author": "Andres Eloy Perez Leon",
+                                    "DateTime": "2024-05-29T17:15:32+02:00",
+                                    "Content": "Hello, During the last lecture it was mentioned that the due date for the 1st Assignment was postponed but I can't find anywhere the new deadline. Can someone clarify until when we can hand in the assignment? And also the Dropbox links in the StudyGuide google doc don't seem to be working...",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

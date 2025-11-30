@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Mikrobiologie für Lebensmittelwissenschaften",
+        "Course_id": "38800",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1805397",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung findet in Präsenz statt",
+                            "Discussion_Id": "588045",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060129",
+                                    "Author": "Rebekka Herdis Lülf",
+                                    "DateTime": "2024-04-20T23:57:06+02:00",
+                                    "Content": "Ab dem 23.04. findet die Vorlesung im Hörsaal KL-H 006 statt!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Offenes Forum",
+                    "Forum_id": "1819167",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Konzentration Wachstumskurve von Mikroorganismen",
+                            "Discussion_Id": "600461",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079236",
+                                    "Author": "Muhammed Ali Dikmen",
+                                    "DateTime": "2024-06-11T23:47:26+02:00",
+                                    "Content": "Was ist hier mit der Konzentration gemeint? Worauf ist hier die Konzentration bezogen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079895",
+                                    "Author": "Rebekka Herdis Lülf",
+                                    "DateTime": "2024-06-13T15:36:16+02:00",
+                                    "Content": "Hierbei ist die Substratkonzentration gemeint, also zB. Zucker. Diese Grafik stellt dar, welche Wachstumskurven man zu erwarten hat, je nachdem was man verändert.",
+                                    "Response to": "p1079236"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] FEM in der Anwendung",
+        "Course_id": "38819",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1806194",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Heutige Übung",
+                            "Discussion_Id": "606785",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088332",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-07-10T09:34:33+02:00",
+                                    "Content": "Hallo in die Runde, zur Info: Wir werden in der heutigen Übung die Tonnenschale nicht mit Karamba3D modellieren, weil wir m.E. mit Grasshopper-Sofistik schon eine sehr änliche Schnittstelle kennen die deutlich relevanter ist. Anstattdessen nutzen wir die Tonnenschale als kleine Übung für die Klausur und ihr könnt versuchen sie alleine zu modellieren. VG, Max Dombrowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Übung in Rhino",
+                            "Discussion_Id": "603752",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083981",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-26T12:42:59+02:00",
+                                    "Content": "Liebe alle, in unserer nächsten Übung am 03.07.24 werden wir mit der Rhino-Sofistik-Schnittstelle arbeiten. Bitte sorgt dafür, dass ihr bis dahin Zugriff auf eine funktionierende Rhino-Version habt und das auch über den Sofistik Application Manager das Rhinoceros Interface für Sofistik installiert ist. Bei Fragen meldet euch gerne. VG, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation",
+                            "Discussion_Id": "603751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083979",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-26T12:41:11+02:00",
+                                    "Content": "Liebe Studierende, wir haben heute zu Beginn der Übung die Lehr-Evaluation durchgeführt. Für alle die nicht da waren oder es während der Übung nicht geschafft haben, anbei nochmal die QR-Codes zur Evaluation.  Vielen Dank, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Rhino-Lizenz",
+                            "Discussion_Id": "602198",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081721",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-19T17:13:45+02:00",
+                                    "Content": "Liebe Studierende, uns ist heute in der Übung das Problem aufgefallen, dass auf den PC-Pool-Pcs keine Testversion von Rhino installiert werden kann, weil dort nur Rhino 7 vorhanden ist und die Testversion nur für Rhino 8 erhältlich ist. Solltet ihr nicht die Möglichkeit haben die Rhino Testversion auf einem privaten Rechner herunterzuladen für die Bearbeitung der Hausaufgabe, sendet mir bitte eine Mail. Dann schalte ich euch eine Rhino 7 Lizenz vom Fachgebiet für den PC-Pool frei. VG, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bitte bis morgen Rhinoceros Testversion herunterladen",
+                            "Discussion_Id": "601789",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081172",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-18T12:36:19+02:00",
+                                    "Content": "Liebe alle, wir werden in der morgigen Übung eine kleine Einführung in die grafische Programmierspreche Grasshopper machen. In der 2. Hausaufgabe, die heute noch veröffentlicht wird, wird es auch um den Umgang mit Grasshopper gehen. Bitte ladet euch als Vorbereitung für die Übung die 90-Tage Testversion von Rhinoceros 3D herunter und probiert aus, ob ihr das Programm starten könnt. Wenn es dabei Proleme gibt, meldet euch gerne bei mir.  Hier der Link zur Testversion: https://www.rhino3d.com/de/download/  VG, Max",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081320",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-18T16:46:12+02:00",
+                                    "Content": "Als Vorbereitung für die morgige Übung findet ihr im Kurs eine Übersicht des Grasshopper-Skripts, dass ich euch morgen zeigen werde. Druckt euch die Übersicht wenn möglich aus und habt morgen optimalerweise zwei Bildschirme zur Verfügung. Mit einem Bildschirm könnt ihr die Übung aber auch verfolgen. Bis morgen, Max",
+                                    "Response to": "p1081172"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 2 ist verfügbar",
+                            "Discussion_Id": "601800",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081185",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-18T12:53:25+02:00",
+                                    "Content": "Liebe Studierende, die 2. Hausaufgabe ist ab jetzt verfügbar. In der Hausaufgabe geht es um die Geometrieerzeugung mit Grasshopper. Wir werden Grasshopper in der morgigen Übung kennenlernen, siehe vorheriger Forumsbeitrag. VG, Max Dombrowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse Hausaufgabe 1 veröffentlicht",
+                            "Discussion_Id": "601620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080929",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-17T18:30:45+02:00",
+                                    "Content": "Liebe Studierende, ihr solltet die Ergebnisse der ersten Hausaufgabe jetzt im ISIS einsehen können. VG, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verlängerung Hausaufgabe bis Freitag 23:59",
+                            "Discussion_Id": "600559",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079364",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-12T11:49:39+02:00",
+                                    "Content": "Liebe alle, ich habe ein paar Nachrichten von euch dazu bekommen, das die Arbeitsbelastung derzeit relativ hoch und die Bearbeitung der Hausaufgabe deswegen etwas knapp ist. Deswegen verlängere ich die Abgabe bis diesen Freitag 23:59 Uhr. Ich möchte darauf hinweisen, dass ihr euch mit solchen Themen eher früher als später melden solltet und dies eine einmalige Sache ist. VG, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungen ab dem 12.06. per Zoom",
+                            "Discussion_Id": "600138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078755",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-10T19:37:42+02:00",
+                                    "Content": "Liebe alle, wie angekündigt finden die Übungen ab dieser Woche per Zoom statt (Link siehe unten). Wenn möglich, empfehle ich euch, die Übung dennoch im PC-Pool oder in Gruppen zu verfolgen, sodass ihr euch gegenseitig beim Debuggen unterstützen könnt. Bis Mittwoch, Max -------------------------------------------------------- Zoom-Meeting beitreten https://tu-berlin.zoom.us/j/62391466399?pwd=PMywVrhdgMZa6XatFbYnNDcxt2BYIE.1 Meeting-ID: 623 9146 6399 Kenncode: 811586 Schnelleinwahl mobil +496971049922,,62391466399#,,,,,,0#,,811586# Deutschland +496950502596,,62391466399#,,,,,,0#,,811586# Deutschland   Einwahl nach aktuellem Standort         +49 69 7104 9922 Deutschland         +49 695 050 2596 Deutschland Meeting-ID: 623 9146 6399 Kenncode: 811586 Ortseinwahl suchen: https://tu-berlin.zoom.us/u/clQf37Wiw   Über SIP beitreten sip:62391466399.811586@fr.zmeu.us   Über H.323 beitreten 213.19.144.110 (Amsterdam Niederlande) 213.244.140.110 (Deutschland) 69.174.57.160 (Kanada Toronto) 65.39.152.160 (Kanada Vancouver) 207.226.132.110 (Japan Tokio) 149.137.24.110 (Japan Osaka) Kenncode: 811586 Meeting-ID: 623 9146 6399",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078756",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-06-10T19:38:35+02:00",
+                                    "Content": "P.S.: Wir starten um 12:15 Uhr.",
+                                    "Response to": "p1078755"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung am 05.06. um 12 Uhr",
+                            "Discussion_Id": "598188",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075916",
+                                    "Author": "Maria Serrano Mesa",
+                                    "DateTime": "2024-05-31T17:17:01+02:00",
+                                    "Content": "Liebe Studierende,  Ich habe am Mittwoch nach FEM einen wichtigen Termin und es wäre sehr hilfreich, wenn wir um 13.30 Uhr fertig wären. Hat jemand ein Problem damit, wenn wir um 12 Uhr anfangen? Schönes Wochenende und viele Grüße María",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076736",
+                                    "Author": "Maria Serrano Mesa",
+                                    "DateTime": "2024-06-04T08:39:35+02:00",
+                                    "Content": "Liebe Studierende, da sich niemand gemeldet hat, fangen wir morgen um 12 Uhr an. Vielen Dank!  Gruß María",
+                                    "Response to": "p1075916"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Infos zu HA1",
+                            "Discussion_Id": "597744",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075256",
+                                    "Author": "Maria Serrano Mesa",
+                                    "DateTime": "2024-05-29T17:58:44+02:00",
+                                    "Content": "Hallo zusammen, bei der HA1 muss die Bodenplatte nicht modelliert werden. Und wenn nur ein Stockwerk modelliert wird, sollte die Lagerung gelenkig angenommen werden. Viel Erfolg! Gruß María",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075787",
+                                    "Author": "Maria Serrano Mesa",
+                                    "DateTime": "2024-05-31T12:21:52+02:00",
+                                    "Content": "Hallo zusammen,  achtet auf die Randbedingungen, verwechselt Lagerung und Anschluss zwischen Elementen nicht ;)  Gruß María",
+                                    "Response to": "p1075256"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA 1",
+                            "Discussion_Id": "594912",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070879",
+                                    "Author": "Maria Serrano Mesa",
+                                    "DateTime": "2024-05-16T12:39:41+02:00",
+                                    "Content": "Hallo zusammen, die HA 1 sollte jetzt verfügbar sein: https://isis.tu-berlin.de/mod/assign/view.php?id=1816133.  Bitte meldet euch, falls dies nicht der Fall ist. Aufgrund der Verzögerung bei der Veröffentlichung der HA 1 wird ein zusätzlicher Tag für die Abgabe gegeben. Viel Spaß!  Viele Grüße María",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung via Moses",
+                            "Discussion_Id": "593368",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068420",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-05-08T17:20:20+02:00",
+                                    "Content": "Liebe alle, vielen Dank für die Hinweise zu den Problemen bei der Prüfungsanmeldung in Moses. Die Probleme sollten behoben sein und die Prüfungsanmeldung sollte ab jetzt möglich sein. Viele Grüße, Max Dombrowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Rhino-Accounts",
+                            "Discussion_Id": "593367",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068418",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-05-08T17:19:15+02:00",
+                                    "Content": "Liebe Studierende, heute kam die Frage auf, ob für FEM in der Anwendung Rhino-Accounts für die Studierenden zur Verfügung gestellt werden. Ich habe mich dazu mit dem Kolleg:innen beraten und wir sind zu dem Schluss gekommen, dass das nicht erforderlich ist, weil maximal zwei Übungen Rhino zum Inhalt haben und die kostenlose Rhino-Studentenversion 90 Tage gilt. Solltet ihr Rhino für andere Zwecke benötigen, z.B. Studien- und Abschlussarbeiten oder das Entwurfsseminar, geht bitte auf die zuständigen WiMis zu. VG, Max Dombrowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Veranstaltung am 01.05.24 fällt aus",
+                            "Discussion_Id": "590907",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064594",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-04-29T16:18:23+02:00",
+                                    "Content": "Liebe alle, die Veranstaltung fällt an diesem Mittwoch wegen des Feiertags aus (01.05.24). Die nächste Veranstaltung findet nächsten Mittwoch statt (08.05.24). VG, Max Dombrowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zulassung zum Kurs",
+                            "Discussion_Id": "589138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061909",
+                                    "Author": "Max Dombrowski",
+                                    "DateTime": "2024-04-23T22:00:21+02:00",
+                                    "Content": "Liebe Studierende, alle, die an der Umfrage zu den Daten der Teilnehmenden teilgenommen haben, sind zur Teilnahme am Kurs zugelassen. Die erste reguläre Übung findet morgen, Mittwoch den 24.04.24, ab12:00 statt. Die Aufgabenstellung ist im Kurs einsehbar. Gruß, Max Dombrowski",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

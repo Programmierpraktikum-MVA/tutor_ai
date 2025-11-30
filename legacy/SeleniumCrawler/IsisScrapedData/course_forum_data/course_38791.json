@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Vehicle-2-X: Communication and Control",
+        "Course_id": "38791",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1804853",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Wrong info on tutorial: WAVE application",
+                            "Discussion_Id": "602651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082395",
+                                    "Author": "Sangyoung Park",
+                                    "DateTime": "2024-06-21T16:24:09+02:00",
+                                    "Content": "Please change the code in NumVehicleMsg.msg  import veins.base.utils.Coord; import veins.modules.messages.BaseFrame1609_4; import veins.base.utils.SimpleAddress;  namespace veins;  packet NumVehicleMsg extends BaseFrame1609_4 {           Coord senderPos;           int numVehicles;           simtime_t timeStampP;           LAddress::L2Type senderAddress = -1; }",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture this Friday (07.06.2024)",
+                            "Discussion_Id": "599217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077408",
+                                    "Author": "Sangyoung Park",
+                                    "DateTime": "2024-06-05T17:27:32+02:00",
+                                    "Content": "There is not lecture this Friday due to personal schedule. See you next Friday!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online Intro to the lecture  today",
+                            "Discussion_Id": "590046",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063304",
+                                    "Author": "Sangyoung Park",
+                                    "DateTime": "2024-04-26T08:17:28+02:00",
+                                    "Content": "I think we have room for all students. Just come to the following Zoom session for the intro. https://tu-berlin.zoom.us/j/65155465171?pwd=am8rQzltS3BzNEpXcFJIWk81ZFVGdz09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

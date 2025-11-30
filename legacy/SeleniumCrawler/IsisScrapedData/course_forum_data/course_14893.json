@@ -1,0 +1,632 @@
+[
+    {
+        "Course_Name": "Energie-, Impuls- und Stofftransport II B im SoSe 2024",
+        "Course_id": "14893",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Diskussionsforum zu Organisatorischen Fragen",
+                    "Forum_id": "1081456",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "602558",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082257",
+                                    "Author": "Ziwei Shen",
+                                    "DateTime": "2024-06-21T10:51:32+02:00",
+                                    "Content": "Guten Tag, findet die Prüfungsanmeldung auf MTS statt? Wann ist die Frist?  VG Ziwei",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082310",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2024-06-21T12:44:22+02:00",
+                                    "Content": "Hallo, siehe \"Prüfungshinweise\" auf der ISIS. Anmeldung ab nächster Woche. Schönen Gruß Lutz Böhm",
+                                    "Response to": "p1082257"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung und Altklausuren",
+                            "Discussion_Id": "598751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076742",
+                                    "Author": "Elif Cever",
+                                    "DateTime": "2024-06-04T09:08:41+02:00",
+                                    "Content": "hallo,  Wann werden die Altklausuren hochgeladen und wann können wir für die Prüfung anmelden?  VG Elif",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076745",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2024-06-04T09:30:05+02:00",
+                                    "Content": "Hallo, die Infos zur Anmeldung finden Sie im Bereich Prüfung auf der ISIS (eigenes Dokument mit Hinweisen dazu). Die Probeklausuren geben wir Mitte Juni frei. Mit freundlichen Grüßen Lutz Böhm",
+                                    "Response to": "p1076742"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WS?",
+                            "Discussion_Id": "595291",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071471",
+                                    "Author": "Aleyna Nur Yigit",
+                                    "DateTime": "2024-05-17T22:41:36+02:00",
+                                    "Content": "Hallo, Wird dieses Modul auch im WS angeboten? VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071472",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2024-05-17T22:55:54+02:00",
+                                    "Content": "Hallo, Nein. Mit freundlichen Grüßen  Lutz Böhm ",
+                                    "Response to": "p1071471"
+                                },
+                                {
+                                    "Message_id": "p1071473",
+                                    "Author": "Joud Ajam",
+                                    "DateTime": "2024-05-17T23:09:26+02:00",
+                                    "Content": "Guten Abend, wann gibt's dementsprechend Klausurtermine?  Mit liebsten Grüßen",
+                                    "Response to": "p1071472"
+                                },
+                                {
+                                    "Message_id": "p1071485",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2024-05-18T01:18:06+02:00",
+                                    "Content": "Hallo, die aktuellen Klausurtermine sind auf der ISIS Seite zu finden, im Juli und September. Für das SoSe 2025 stehen noch keine Termine fest. Mit freundlichen Grüßen  Lutz Böhm ",
+                                    "Response to": "p1071473"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Anmeldung vergessen",
+                            "Discussion_Id": "589354",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062254",
+                                    "Author": "Janek Hoburg",
+                                    "DateTime": "2024-04-24T13:12:15+02:00",
+                                    "Content": "Hallo, ich habe leider vergessen mich bei einem Tutorium anzumelden. Kann ich trotzdem eines der angebotenen Tutorien besuchen?  Danke schonmal im Voraus!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062278",
+                                    "Author": "Emilia Wessel",
+                                    "DateTime": "2024-04-24T13:43:20+02:00",
+                                    "Content": "Hallo Janek,  du kannst trotzdem die Tutorien besuchen. Such dir dafür bitte eines aus, an dem noch freie Plätze sind, und ich füge dich manuell zur Liste hinzu. Die Verfügbarkeiten siehst du bei den Ergebnissen der Umfrage.  Viele Grüße Emilia",
+                                    "Response to": "p1062254"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium montags 12-14 Uhr ohne Daten",
+                            "Discussion_Id": "587703",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059604",
+                                    "Author": "Phetcharin Bartel",
+                                    "DateTime": "2024-04-19T14:14:27+02:00",
+                                    "Content": "Hallo, Ich wollte mal nachfragen, wo das Tutorium montags 12-14 Uhr stattfinden soll? Dieser steht zwar zur Auswahl bei der Anmeldung, aber in der Informationstabelle ist dieser nicht zu finden. Viele Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung",
+                            "Discussion_Id": "584744",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055282",
+                                    "Author": "Josephine Laura Stecknitz",
+                                    "DateTime": "2024-04-05T13:43:25+02:00",
+                                    "Content": "Hallo,  ich wollte nachfragen wann wir in diesem Semester die Vorlesung haben werden? Der Plan der hochgeladen wurde ist noch von SS23 (VL-Mi) und in Moses ist ein Termin dienstags angegeben. Danke schonmal, Josephine ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055288",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2024-04-05T14:01:04+02:00",
+                                    "Content": "Hallo, ja, die ISIS Seite ist noch nicht auf dem neuesten Stand, aber die Vorlesung zu EIS IIB findet normal statt. Schönen Gruß Lutz Böhm",
+                                    "Response to": "p1055282"
+                                },
+                                {
+                                    "Message_id": "p1056041",
+                                    "Author": "Josephine Laura Stecknitz",
+                                    "DateTime": "2024-04-10T13:45:11+02:00",
+                                    "Content": "also mittwochs?",
+                                    "Response to": "p1055288"
+                                },
+                                {
+                                    "Message_id": "p1056049",
+                                    "Author": "Emilia Wessel",
+                                    "DateTime": "2024-04-10T14:04:41+02:00",
+                                    "Content": "Hi Josephine, der Semesterverlaufsplan ist nun aktualisiert. Die Vorlesung (+Übung) wird dienstags 10-12 Uhr stattfinden. Die Tutorientermine werden noch veröffentlicht. Viele Grüße Emilia",
+                                    "Response to": "p1056041"
+                                },
+                                {
+                                    "Message_id": "p1057473",
+                                    "Author": "Josephine Laura Stecknitz",
+                                    "DateTime": "2024-04-16T09:17:39+02:00",
+                                    "Content": "vielen dank!",
+                                    "Response to": "p1056049"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung 2. Klausurtermin",
+                            "Discussion_Id": "547948",
+                            "Messages": [
+                                {
+                                    "Message_id": "p997129",
+                                    "Author": "Axel Krischel",
+                                    "DateTime": "2023-08-31T23:05:48+02:00",
+                                    "Content": "Guten Abend, ich wollte fragen ab wann wir uns für den zweiten Prüfungstermin über MOSES anmelden können? mfg, Axel Krischel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse Klausur",
+                            "Discussion_Id": "546160",
+                            "Messages": [
+                                {
+                                    "Message_id": "p994300",
+                                    "Author": "Maximilian Ferdinand Bauer",
+                                    "DateTime": "2023-08-02T14:06:04+02:00",
+                                    "Content": "Hallo, ich weiß, die Frage hilft auch nicht es schneller zu machen. Da es für mich Aufgrund meiner Arbeit recht dringlich ist zu wissen ob ich zur Einsicht gehe und ob ich den Zweittermin wahrnehmen muss, wollte ich trotzdem fragen, wann wir mit den Ergebnissen rechnen können.  Viele Grüße, Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MTS Moses",
+                            "Discussion_Id": "545362",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992794",
+                                    "Author": "Charalampos Matthaiou",
+                                    "DateTime": "2023-07-26T19:01:30+02:00",
+                                    "Content": "Guten Tag,   Bei mir steht immer noch bei MTS in Moses bei der Prüfungsanmeldung immer noch \"angemeldet\", also nicht \"zugelassen\"! Ist es so richtig?   Mit freundlichen Grüßen",
+                                    "Response to": "#p992794"
+                                },
+                                {
+                                    "Message_id": "p992803",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2023-07-26T19:15:31+02:00",
+                                    "Content": "Hallo, ich weiß nicht so ganz, was Sie meinen, aber bei mir sind Sie sowohl angemeldet als auch zugelassen, wobei letzteres für die Durchführung der Prüfung nicht so wichtig ist. Schönen Gruß LB",
+                                    "Response to": "#p992794"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Strömungsart",
+                            "Discussion_Id": "545323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992717",
+                                    "Author": "Tuong Long Nguyen",
+                                    "DateTime": "2023-07-26T16:03:42+02:00",
+                                    "Content": "Hallo, in der 2. Probeklausur (Aufgabe 1c) im Rechenteil) wird nach der Strömungsart gefragt. Ich dachte damit wird die gemeint, ob die Strömung laminar oder turbulent ist und ich deshalb die Reynoldszahl berechnet habe. Die Lösung ist, dass es sich um eine Kolbenströmung handelt. Könnt ihr sagen, welche Strömungsarten wir wissen müssen und bei welchen Bedindungen (bsp reibungsfrei für Kolbenströmung) sie dann auftreten ? MfG Long",
+                                    "Response to": "#p992717"
+                                },
+                                {
+                                    "Message_id": "p992748",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-26T17:11:12+02:00",
+                                    "Content": "Ja da bin ich dummerweise auch in die Falle getappt Kolben/Tropfenströmung hast du immer wenn es keine Reibung gibt, da es keine Wandhaftung gibt und sich kein laminares oder anderes Profil ausbilden kann. Wir haben in dieser LV aber auch keine durchströmten Röhre behandelt also hätten wir das nicht über Reynolds’s auch nicht berechnen können",
+                                    "Response to": "#p992717"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beantwortung von Fragen im Forum",
+                            "Discussion_Id": "545219",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992548",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-07-26T10:06:57+02:00",
+                                    "Content": "Hallo zusammen,  Fragen in den Foren werden nur noch bis heute 18 Uhr beantwortet.  Viele Grüße und viel Erfolg bei der Klausurvorbereitung, Nils",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reaktionsstromdichte",
+                            "Discussion_Id": "545088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992307",
+                                    "Author": "Tuong Long Nguyen",
+                                    "DateTime": "2023-07-25T12:36:13+02:00",
+                                    "Content": "Hallo, die Reaktionsstromdichte ergibt ja zu r* = k*c_A. Dabei soll für die Konzentration c_A, die Konzentration vom Ausstrom und nicht vom Einstrom eingesetzt werden oder? MfG Long",
+                                    "Response to": "#p992307"
+                                },
+                                {
+                                    "Message_id": "p992314",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-25T12:48:44+02:00",
+                                    "Content": "das ist die Konzentration die im reaktor herrscht, da wir das meistens als ideal durchmischt betrachten, ist ca im reaktor= ca im Abfluss und du kannst die konzentration im Abfluss verwenden",
+                                    "Response to": "#p992307"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HE101",
+                            "Discussion_Id": "544945",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992046",
+                                    "Author": "Razan Öztürk",
+                                    "DateTime": "2023-07-24T15:02:01+02:00",
+                                    "Content": "Lieber Dr. Böhm, \"HE 101 ist aktuell bereits voll freigegeben. Es wird batteriebetriebene Notleuchten, aber keine Treppenbeleuchtung geben. Bitte weisen Sie Ihre Studierenden darauf hin. Über den Zugang informieren Sie sich bitte bei der Pförtnerloge vor Ort.\" Was meinen die mit Batteriebetriebene Notleuchten? Ich hab nämlich eine Sehschwäche.  LG  Frau Öztürk ",
+                                    "Response to": "#p992046"
+                                },
+                                {
+                                    "Message_id": "p992079",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2023-07-24T16:14:20+02:00",
+                                    "Content": "Hallo, ich bin eben beim Mathegebäude vorbei gegangen und habe nachgefragt, wie der Zustand des HE101 ist. Dabei wurde mir bestätigt, dass der Raum ganz normal mit normaler Beleuchtung zu benutzen ist. Die erwähnte batteriebetriebene Notbeleuchtung bezieht sich lediglich auf den Fall, dass der Strom ausfällt. Wenn dies der Fall sein sollte, müssen wir die Klausur eh abbrechen. Schönen Gruß LB",
+                                    "Response to": "#p992046"
+                                },
+                                {
+                                    "Message_id": "p992101",
+                                    "Author": "Razan Öztürk",
+                                    "DateTime": "2023-07-24T17:04:39+02:00",
+                                    "Content": "Lieber Dr.Böhm,  Vielen lieben Dank für Ihre Bemühungen und für die schnelle Rückmeldung.  VG Öztürk",
+                                    "Response to": "#p992079"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probeklausur 4, Koordinatensystem konevention bei EIS 2",
+                            "Discussion_Id": "544779",
+                            "Messages": [
+                                {
+                                    "Message_id": "p991736",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-23T17:33:29+02:00",
+                                    "Content": "In der Aufgabenstellung bin ich auf eine kleine Schwierigkeit gestoßen. Das Koordinatensystem ist ab dem Punkt 3 positiv definiert, sodass \"h\" als negative Größe betrachtet wird und die Funktion \"wa\" als gegeben ist. Allerdings führt diese Definition zu einer Unklarheit, da \"h\" in den Annahmen als positiv definiert angegeben wird. Intuitiv hätte ich die Funktion \"wa\" als s interpretiert, was auch in den Lösungen so angegeben ist.  Es besteht Verwirrung darüber, wie das Koordinatensystem genau zu interpretieren ist. Zusätzlich finde ich es verwirrend, wie das Druckdiagramm erstellt wurde. In der Vorlesung haben wir es immer als Funktion \"P(s)\" über die Position \"s\" (Stromfaden) dargestellt. In der Lösung ist jedoch ein Diagramm mit \"P\" über \"x\" gegeben, wobei nicht klar ist, was \"x\" darstellt.  Es ist verwirrend, dass es in den Lösungen häufig zu unterschiedlichen Darstellungen kommt. Es wäre wünschenswert, wenn hier mehr Konsistenz herrschen würde und man sich die Klausur auf eine Konvention einigen könnte. Können wir sonst alternativ unser eigenes Koordinatensystem einzeichnen? mfg Matteo",
+                                    "Response to": "#p991736"
+                                },
+                                {
+                                    "Message_id": "p991740",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-23T17:45:39+02:00",
+                                    "Content": "oder bezieht sich z nur auf den Wasserspiegel?",
+                                    "Response to": "#p991736"
+                                },
+                                {
+                                    "Message_id": "p991980",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-07-24T13:12:27+02:00",
+                                    "Content": "Hey Matteo,  das in der Abbildung eingezeichnete z bezieht sich auf den Wasserspiegel. Ja du kannst dein eigenes Koordinatensystem einzeichnen. Prinzipiell würde ich dir empfehlen, beim verwenden der Bernoulli Gleichung, dein Koordinatensystem immer in den unteren Punkt zu legen.  Bei den Druckverläufen zeichnen wir immer den statischen Druck p über die Stromfadenlänge s. Ob die Stromfadenlänge nun mit s, oder x bezeichnet wird ist nicht wichtig, ich verstehe aber deine Verwirrung diesbezüglich.  Ich hoffe ich konnte deine Fragen beantworten,  viele Grüße,  Nils",
+                                    "Response to": "#p991736"
+                                },
+                                {
+                                    "Message_id": "p991984",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-24T13:17:49+02:00",
+                                    "Content": "Vielen dank für deine Ausführliche Antwort <3 das hat meine Fragen geklärt vg matteo",
+                                    "Response to": "#p991980"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probeklausur 2",
+                            "Discussion_Id": "544409",
+                            "Messages": [
+                                {
+                                    "Message_id": "p991037",
+                                    "Author": "Marvin Neill Stern",
+                                    "DateTime": "2023-07-20T16:11:04+02:00",
+                                    "Content": "In den Lösungen zu der Probeklausur 2, Aufgabe 2 wird als Ansatz eine differentielle Bilanz durchgeführt. Ich bin mir aber ziemlich sicher, dass wir versichert bekommen haben, das wir in  Eis 2 B keine differentiellen Bilanzen machen. Darf ich annehmen, dass es sich hierbei um die falsche Aufgabe handelt?  Mit freundlichen Grüßen Neill",
+                                    "Response to": "#p991037"
+                                },
+                                {
+                                    "Message_id": "p991267",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-07-21T11:58:21+02:00",
+                                    "Content": "Hey,  in der Klausur müsst ihr keine differentielle Bilanz aufstellen. Du kannst daher den Aufgabenteil überspringen.  Viele Grüße Tobias",
+                                    "Response to": "#p991037"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wörterbuch für die Prüfung ",
+                            "Discussion_Id": "544488",
+                            "Messages": [
+                                {
+                                    "Message_id": "p991183",
+                                    "Author": "Melany Shaden Saltos Erazo",
+                                    "DateTime": "2023-07-21T08:26:10+02:00",
+                                    "Content": "Guten Moregen , Ich würde gerne wissen, ob ich für die Prüfung ein Wörterbuch benutzen kann und wenn ja, wen ich darüber informieren muss, dass ich ein Wörterbuch für die Prüfung benutzen werde.  Danke !",
+                                    "Response to": "#p991183"
+                                },
+                                {
+                                    "Message_id": "p991191",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2023-07-21T09:06:20+02:00",
+                                    "Content": "Hallo  Sie können ein Wörterbuch benutzen. Kommen Sie vor der Prüfung einfach kurz vorne vorbei und zeigen Sie es. Schönen Gruß  LB",
+                                    "Response to": "#p991183"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Skriptverkauf",
+                            "Discussion_Id": "524227",
+                            "Messages": [
+                                {
+                                    "Message_id": "p959979",
+                                    "Author": "Christoph Max Bolduan",
+                                    "DateTime": "2023-04-27T20:46:41+02:00",
+                                    "Content": "Hallo,  gibt es noch eine Möglichkeit das Skript zu kaufen? Denn ich hatte bisher nie eine Möglichkeit das Skript zu kaufen. Da ich immer am Mittwoch eine Veranstaltung am Campus Humboldthain bis 11 45 habe.  Mit freundlichen Grüßen  Christoph ",
+                                    "Response to": "#p959979"
+                                },
+                                {
+                                    "Message_id": "p960051",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-04-28T08:15:03+02:00",
+                                    "Content": "Hallo Christoph,  du kannst heute zwischen 12 Uhr und 13:30 Uhr in den Tutorenraum im Mar. Gebäude kommen. Bitte bringe das Geld auf jeden Fall passend mit.  Viele Grüße  Nils",
+                                    "Response to": "#p959979"
+                                },
+                                {
+                                    "Message_id": "p960082",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-04-28T09:22:03+02:00",
+                                    "Content": "Die Raumnummer ist Mar 2.053",
+                                    "Response to": "#p960051"
+                                },
+                                {
+                                    "Message_id": "p987888",
+                                    "Author": "Aleyna Mert",
+                                    "DateTime": "2023-07-12T13:24:04+02:00",
+                                    "Content": "Hallo,  Sind noch Skripte zur Verfügung? Ich würde gerne eins kaufen ih wusste nur nicht wem ich mih da widmen soll. Wo oder bei wem kann man die Skripte kaufen?",
+                                    "Response to": "#p960082"
+                                },
+                                {
+                                    "Message_id": "p987930",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-07-12T14:22:33+02:00",
+                                    "Content": "Hey Aleyna,  du kannst ein Skript in den Klausursprechstunden kaufen. Bitte bring die 8€ passend mit. Wir können nicht wechseln!  Viele Grüße Tobias",
+                                    "Response to": "#p987888"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kapitel 4 Lösungen hochladen?",
+                            "Discussion_Id": "539981",
+                            "Messages": [
+                                {
+                                    "Message_id": "p984144",
+                                    "Author": "Roschonara Islam",
+                                    "DateTime": "2023-07-03T14:17:08+02:00",
+                                    "Content": "Guten Tag, könnte man vielleicht schon die Lösungen zu den Rechenaufgaben und Transferaufgaben bzgl. Kapitel 4 hochladen?  Mfg Roscho",
+                                    "Response to": "#p984144"
+                                },
+                                {
+                                    "Message_id": "p984188",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-07-03T15:08:11+02:00",
+                                    "Content": "Hey,  die Lösungen sind jetzt hochgeladen.  Viele Grüße Tobias",
+                                    "Response to": "#p984144"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Hydrostatik",
+                            "Discussion_Id": "527773",
+                            "Messages": [
+                                {
+                                    "Message_id": "p965475",
+                                    "Author": "Florian Saß",
+                                    "DateTime": "2023-05-11T11:12:45+02:00",
+                                    "Content": "Hallo, verstehe ich es anhand des Semesterverlaufplans richtig, dass diese Woche kein Tutorium zu Hydrostatik stattfindet? Gruß, Florian",
+                                    "Response to": "#p965475"
+                                },
+                                {
+                                    "Message_id": "p965522",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-05-11T12:17:05+02:00",
+                                    "Content": "Hallo Florian,  ja das hast du ganz richtig verstanden. Diese Woche (08.-14.05.) findet das 1. Repetitorium zu Kapitel 1 statt. In der nächsten Woche (15.-21.05.) wird das 2. Tutorium zu Hydrostatik stattfinden.  Viele Grüße,  Nils",
+                                    "Response to": "#p965475"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Repetitorium",
+                            "Discussion_Id": "527034",
+                            "Messages": [
+                                {
+                                    "Message_id": "p964292",
+                                    "Author": "Falco Mathias Frederic Selzer",
+                                    "DateTime": "2023-05-08T23:45:32+02:00",
+                                    "Content": "Hallo, was genau ist der Unterschied zwischen Repetitorium und Tutorium? Grüße, Falco Selzer",
+                                    "Response to": "#p964292"
+                                },
+                                {
+                                    "Message_id": "p964310",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-05-09T08:11:22+02:00",
+                                    "Content": "Hallo Falco,  im Tutorium wird ein neues Thema/Kapitel eingeführt, während in den Repetitorien das aktuelle Thema noch einmal wiederholt wird. Zusätzlich werden in den Repetitorien auch die Transferaufgaben des jeweiligen Kapitels bearbeitet. Ich hoffe das beantwortet deine Frage.  Viele Grüße,  Nils Vorwerk",
+                                    "Response to": "#p964292"
+                                },
+                                {
+                                    "Message_id": "p964389",
+                                    "Author": "Falco Mathias Frederic Selzer",
+                                    "DateTime": "2023-05-09T10:48:11+02:00",
+                                    "Content": "Alles klar! Vielen Dank, Nils!",
+                                    "Response to": "#p964310"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Dienstags 10-12",
+                            "Discussion_Id": "524969",
+                            "Messages": [
+                                {
+                                    "Message_id": "p961157",
+                                    "Author": "Jakob Alexander Müller-Wirth",
+                                    "DateTime": "2023-05-02T09:59:23+02:00",
+                                    "Content": "Wo findet das Tutorium Dienstag 10-12 statt? EW 812 steht in der Tabelle, aber das ist ein Damen-WC…",
+                                    "Response to": "#p961157"
+                                },
+                                {
+                                    "Message_id": "p961183",
+                                    "Author": "Nils Marius Vorwerk",
+                                    "DateTime": "2023-05-02T10:28:00+02:00",
+                                    "Content": "Leider gibt es ein Problem mit der Raumnummer. Daher wird das Tutorium von 10-12 Uhr heute nicht stattfinden können, bitte weicht auf die anderen Tutoriumstermine aus. Sowie den Ersatztermin am Freitag (05.05.) 14-16 Uhr online.",
+                                    "Response to": "#p961157"
+                                },
+                                {
+                                    "Message_id": "p961220",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-05-02T11:00:16+02:00",
+                                    "Content": "Hallo,  wir haben uns leider mit der Raumnummer geirrt. Die korrekte Raumnummer für das Dienstag Tutorium von 10-12 Uhr ist EW 182.  Ich biete euch daher ein verkürztes Tutorium ab 11:10 an und rechne die Aufgaben im EW 182 vor. Ansonsten besucht bitte die anderen Tutorien oder das Online-Tutorium am Freitag. Das heutige Tutorium von 12-14 Uhr findet regulär statt.  Viele Grüße Tobias",
+                                    "Response to": "#p961183"
+                                },
+                                {
+                                    "Message_id": "p961234",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-05-02T11:17:50+02:00",
+                                    "Content": "Raum ist abgeschlossen, daher RAUM EW109.",
+                                    "Response to": "#p961220"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ekreide für die Vorlesung dieser Woche (24/4 - 30/4)",
+                            "Discussion_Id": "524276",
+                            "Messages": [
+                                {
+                                    "Message_id": "p960056",
+                                    "Author": "Marvin Neill Stern",
+                                    "DateTime": "2023-04-28T08:30:47+02:00",
+                                    "Content": "Hallo,  kann es sein, dass die Ekreide von der Vorlesung dieser Woche noch nicht hochgeladen wurde? Vielleicht stelle ich mich auch blöd an, aber ich kann sie zumindest nirgens finden. ",
+                                    "Response to": "#p960056"
+                                },
+                                {
+                                    "Message_id": "p960262",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2023-04-28T12:45:50+02:00",
+                                    "Content": "Hallo, Sie haben vollkommen recht. Jetzt ist es in der aktuellen Woche verfügbar. Vielen Dank für den Hinweis. MfG LB",
+                                    "Response to": "#p960056"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutoriumsplätze voll belegt",
+                            "Discussion_Id": "522197",
+                            "Messages": [
+                                {
+                                    "Message_id": "p956638",
+                                    "Author": "Luis Philipp Huth",
+                                    "DateTime": "2023-04-22T13:22:23+02:00",
+                                    "Content": "Die Tutoriumsplätze scheinen bereits alle belegt zu sein. Kann man einfach ein Tutorium besuchen und schauen, ob es noch freie Plätze gibt oder soll man sich anderweitig anmelden? ",
+                                    "Response to": "#p956638"
+                                },
+                                {
+                                    "Message_id": "p956677",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-04-22T17:37:19+02:00",
+                                    "Content": "Hey Luis,  die maximale Teilnehmeranzahl in den Tutorien wurde nun auf 30 erhöht. Versuche es jetzt nochmal mit der Anmeldung.  Viele Grüße Tobias",
+                                    "Response to": "#p956638"
+                                },
+                                {
+                                    "Message_id": "p957035",
+                                    "Author": "Cheng Qian",
+                                    "DateTime": "2023-04-24T09:14:38+02:00",
+                                    "Content": "Ich habe zu spät Tutorium angemeldet. Fast alle Plätze sind bereit nicht verfügbar. Aber in der Zeit von den einzigen verfügbaren Tutorium habe ich schon eine andere Veranstaltung, die ich nicht verpassen kann. Gibt es mehrere Tutoriumsplätze?",
+                                    "Response to": "#p956677"
+                                },
+                                {
+                                    "Message_id": "p958685",
+                                    "Author": "Enas Yousef",
+                                    "DateTime": "2023-04-26T08:28:51+02:00",
+                                    "Content": "Bei mir ist das auch der Fall. Alle Tutorium Plätze sind belegt!",
+                                    "Response to": "#p957035"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsApp-Gruppe",
+                            "Discussion_Id": "519804",
+                            "Messages": [
+                                {
+                                    "Message_id": "p952949",
+                                    "Author": "Jan Lucas Beckmann",
+                                    "DateTime": "2023-04-14T11:16:15+02:00",
+                                    "Content": "Hallo! Ich habe eine WhatsApp-Gruppe für EIS II B erstellt. Wenn ihr wollt, könnt ihr unter folgendem Link beitreten:  https://chat.whatsapp.com/GrPlUInsdEF1gpi4YMXrqV",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungstermin",
+                            "Discussion_Id": "519154",
+                            "Messages": [
+                                {
+                                    "Message_id": "p951907",
+                                    "Author": "Laura Magdalena Ostertag",
+                                    "DateTime": "2023-04-07T11:21:14+02:00",
+                                    "Content": "Hallo,  Ich wollte fragen ob die Prüfungstermine richtig angegeben sind? Da sie nur 2 Tage auseinander liegen und beide im September sind.  Viele Grüße, Laura Ostertag",
+                                    "Response to": "#p951907"
+                                },
+                                {
+                                    "Message_id": "p951914",
+                                    "Author": "Lutz Böhm",
+                                    "DateTime": "2023-04-07T13:11:38+02:00",
+                                    "Content": "Guten Tag  und vielen Dank für den Hinweis. Der erste Termin ist natürlich im Juli. Ich habe dies im Bereich Prüfung korrigiert. Im \"Willkommensvideo\" habe ich es aber, glaube ich richtig gesagt. Schönen Gruß Lutz Böhm",
+                                    "Response to": "#p951907"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen zu Kapitel 1: Allgemeine Grundlagen",
+                    "Forum_id": "1081458",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "1.3",
+                            "Discussion_Id": "545231",
+                            "Messages": [
+                                {
+                                    "Message_id": "p992568",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-26T11:14:00+02:00",
+                                    "Content": "Hallo, ich habe die 1.3 grad gemacht, aber direkt bestimmt integriert um keine Randbedingungen setzten zu müssen und bisschen Zeit zu sparen, da es keine werte gibt und ich keine fudge Faktoren eingebaut ahbe , kann ich das ergebnis schlecht vergleichen, aber es kommt auf das selbe hinaus oder?",
+                                    "Response to": "#p992568"
+                                },
+                                {
+                                    "Message_id": "p992795",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-07-26T19:05:17+02:00",
+                                    "Content": "Ja, dein resultierender Ausdruck stimmt mit Gl. 26 aus der Lösung überein.  Viele Grüße Tobias",
+                                    "Response to": "#p992568"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1.6 Teilaufgabe b",
+                            "Discussion_Id": "544693",
+                            "Messages": [
+                                {
+                                    "Message_id": "p991570",
+                                    "Author": "Matteo Borgioli",
+                                    "DateTime": "2023-07-22T13:28:58+02:00",
+                                    "Content": "Hallo, bei der b sind mir ein paar sachen nicht klar, wenn es ein Stationärer Fermenter/oder Rohr ist, dachte ich, dass wir kein Speichersterm haben. Ich sehe zwar ein dass wir ein DT/dt brauchen um über die Zeit zu integrieren aber verstehe nicht ganz wie sich dieser ergibt. In der Lösung ist dann auch für den Wandlungsterm die Partialdichte, r hat aber in der Aufgabenstellung die Konzentration drin, warum ist dann die Partialdichte drin. danke!",
+                                    "Response to": "#p991570"
+                                },
+                                {
+                                    "Message_id": "p991682",
+                                    "Author": "Tobias Kopf",
+                                    "DateTime": "2023-07-23T12:04:36+02:00",
+                                    "Content": 

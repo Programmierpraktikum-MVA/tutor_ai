@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] RFT: Satellitentechnik",
+        "Course_id": "38043",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1777107",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungstermin",
+                            "Discussion_Id": "599606",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077962",
+                                    "Author": "Simon Gläsner",
+                                    "DateTime": "2024-06-07T12:19:21+02:00",
+                                    "Content": "Liebe Studierende, die Prüfung findet am 30.07.2024 um 14 Uhr statt. Die Prüfungsdauer beträgt zwei Stunden. Der Raum wird noch bekannt gegeben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

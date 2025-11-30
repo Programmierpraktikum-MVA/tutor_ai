@@ -1,0 +1,43 @@
+[
+    {
+        "Course_Name": "Rheologie",
+        "Course_id": "1367",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Studentenforum // student's forum",
+                    "Forum_id": "1462852",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung Heute 5.12",
+                            "Discussion_Id": "498942",
+                            "Messages": [
+                                {
+                                    "Message_id": "p918836",
+                                    "Author": "Christina Ye-Ting Lu",
+                                    "DateTime": "2022-12-05T22:14:14+01:00",
+                                    "Content": "Hey, weiß jemand was heute passiert ist? Wieso ist die heutigen Vorlesung entfallen und wird ein Ersatzvorlesung oder ein Video später stattfinden bzw geben?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsenzvorlesungstermin am 31.10.'22",
+                            "Discussion_Id": "488945",
+                            "Messages": [
+                                {
+                                    "Message_id": "p901883",
+                                    "Author": "Dominika Luiza Lewicka",
+                                    "DateTime": "2022-10-31T10:17:14+01:00",
+                                    "Content": "Liebes Rheologie-Team, wird heute (Montag, den 31.10.) eine Präsenzvorlesung stattfinden?  Vielen Dank für die Auskunft :) Beste Grüße ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Scientific Computing Seminar",
+        "Course_id": "38948",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1810334",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Please send the slides for tomorrow",
+                            "Discussion_Id": "596240",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072916",
+                                    "Author": "Thorsten Koch",
+                                    "DateTime": "2024-05-23T10:55:38+02:00",
+                                    "Content": "Hi, please send me the slides for tomorrow by tomorrow morning. To <koch@zib.de> Subject: seminar slides and your topic BR Thorsten Koch",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Q&A",
+                    "Forum_id": "1821445",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "First Meeting",
+                            "Discussion_Id": "588797",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061370",
+                                    "Author": "Khalid Osmaev",
+                                    "DateTime": "2024-04-23T11:14:21+02:00",
+                                    "Content": "Hello there was a Zoom Link for the 1st Meeting so I assumed that it would be online. Was it not the case?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

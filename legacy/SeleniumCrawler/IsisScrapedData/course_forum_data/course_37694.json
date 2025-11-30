@@ -1,0 +1,94 @@
+[
+    {
+        "Course_Name": "[SoSe 24] Seminar: Explainable Machine Learning",
+        "Course_id": "37694",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766597",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentation topics and dates",
+                            "Discussion_Id": "592258",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066701",
+                                    "Author": "Lorenz Johannes Linhardt",
+                                    "DateTime": "2024-05-04T14:15:39+02:00",
+                                    "Content": "Thank you everyone for voting. The assignments are as follows. ------------------------------------------------------------ 22.05.2024        Laurenz Julian Rasche         \"Layer-Wise Relevance Propagation: An Overview\" Supervisor: Lorenz Linhardt l.linhardt@tu-berlin.de 05.06.2024        Noah Kamangar \"Are Large Language Models Post Hoc Explainers?\" Supervisor: Stefan Blücher bluecher@tu-berlin.de 05.06.2024        Julian Alexander Dralle \"Why should I trust you?\" Explaining the predictions of any classifier Supervisor: Stefan Blücher bluecher@tu-berlin.de 12.06.2024        Konstantin Pissarsky \"This Looks Like That: Deep Learning for Interpretable Image Recognition\" Supervisor: Lorenz Linhardt l.linhardt@tu-berlin.de 19.06.2024        Sayed Mohammad Vakilzadeh Hatefi \"From attribution maps to human-understandable explanations through Concept Relevance Propagation\" Supervisor: Lorenz Linhardt l.linhardt@tu-berlin.de  19.06.2024        Yuxin Xue \"Neural Additive Models: Interpretable Machine Learning with Neural Nets\" Supervisor: Lorenz Linhardt l.linhardt@tu-berlin.de TBD        Jakob Balasus TBD Supervisor: TBD ------------------------------------------------------------ If you are not on the list but would still want to participate, please contact me with your preferred date & topic. Likewise, if you are missing a topic/date and haven't contacted me yet. Missing entries will be updated as soon as I have the information.  Have a nice weekend!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminar Evaluation Survey",
+                            "Discussion_Id": "605731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086820",
+                                    "Author": "Lorenz Johannes Linhardt",
+                                    "DateTime": "2024-07-05T11:07:24+02:00",
+                                    "Content": "Hello everyone,  I would be grateful if you could take some time and fill out the evaluation form for the Explainable ML Seminar: https://befragung.tu-berlin.de/evasys/online.php?pswd=Y72E7  Thank you!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Matriculation number",
+                            "Discussion_Id": "602611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082330",
+                                    "Author": "Lorenz Johannes Linhardt",
+                                    "DateTime": "2024-06-21T13:19:59+02:00",
+                                    "Content": "Everyone who held a presentation, please send me you matriculation number to l.linhardt@tu-berlin.de Thank you!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No seminar today",
+                            "Discussion_Id": "594534",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070293",
+                                    "Author": "Lorenz Johannes Linhardt",
+                                    "DateTime": "2024-05-15T09:17:38+02:00",
+                                    "Content": "Hello everyone,  as no one signed up for today's date, we will not meet today. The first presentation will be next week.  Best, Lorenz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Voting is open",
+                            "Discussion_Id": "591570",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065623",
+                                    "Author": "Lorenz Johannes Linhardt",
+                                    "DateTime": "2024-05-02T09:20:56+02:00",
+                                    "Content": "Apologies for the delayed start of the paper/date selection polls. You should now be able to select your preferred papers/dates.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deep Learning 2",
+                            "Discussion_Id": "589265",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062125",
+                                    "Author": "Lorenz Johannes Linhardt",
+                                    "DateTime": "2024-04-24T10:57:22+02:00",
+                                    "Content": "Just to confirm: the seminar is combinable with Deep Learning 2.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Thermische Strömungsmaschinen I - Grundlagen",
+        "Course_id": "38686",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1800777",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Studentische Hilfskraft DLR-AT: Vorauslegung und Lebensdauervorhersage von rotierenden Triebwerkskomponenten",
+                            "Discussion_Id": "605749",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086842",
+                                    "Author": "Judith Isabelle Kraus",
+                                    "DateTime": "2024-07-05T11:30:33+02:00",
+                                    "Content": "Liebe Studierende, anbei findet ihr die Ausschreibung für eine Werkstudentenstelle vom DLR Antriebstechnik.  https://www.static.tu.berlin/fileadmin/www/10002278/Ausschreibungen/Stellenausschreibung_LCF_Wehrel.pdf Sie sind aktuell auf der Suche nach einem/r WerkstudentIn, der/die sich vor Allem mit der Vorauslegung und Lebensdauervorhersage von rotierenden Triebwerkskomponenten beschäftigt. Das Institut sitzt zwar vor Allem in Köln, jedoch kann man auch vollständig vom Homeoffice aus arbeiten. In Anlehnung an die Werkstudentenstelle ist auch die Bearbeitung einer Abschlussarbeit möglich. Die Stelle ist vorerst befristet auf 6 Monate kann jedoch verlängert werden. Viele Grüße Mücahit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beginn der Vorlesung am 3. Juli um 9:00h",
+                            "Discussion_Id": "605123",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085981",
+                                    "Author": "Dieter Peitsch",
+                                    "DateTime": "2024-07-02T20:29:59+02:00",
+                                    "Content": "Liebe Teilnehmer und Teilnehmerinnen, wegen eines dringenden ärztlichen Termins werde ich die morgige Vorlesung erst ab 9:00h abhalten können. Für die kurzfristige Information bitte ich um Verständnis. Viele Grüße  DP",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung der Sprechstunde",
+                            "Discussion_Id": "595879",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072421",
+                                    "Author": "David Bresemann",
+                                    "DateTime": "2024-05-22T09:32:42+02:00",
+                                    "Content": "Hallo Studierende, Ich muss meine Sprechstunde heute leider auf nächsten Mittwoch den 29.05.2024 von 13-14 Uhr legen. Ich bitte die kurzfristige Verschiebung zu entschuldigen. Grüße David Bresemann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorstellung Projektwerkstatt MoVe",
+                            "Discussion_Id": "589425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062365",
+                                    "Author": "David Bresemann",
+                                    "DateTime": "2024-04-24T15:00:16+02:00",
+                                    "Content": "Liebe Studierende, Anbei findet ihr die Präsentation der Projektwerkstatt MoVe.  Grüße David Bresemann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Fragen",
+                    "Forum_id": "1848002",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Anmeldung 2. Prüfungstermin",
+                            "Discussion_Id": "607513",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089379",
+                                    "Author": "Johannes Weber",
+                                    "DateTime": "2024-07-12T14:52:42+02:00",
+                                    "Content": "Hallo, Ich wollte fragen, ob die Anmeldung auf MOSES für den 2. Prüfungstermin (im Oktober) nach dem 1. Prüfungstermin freigeschaltet wird oder muss man sich dafür auch schon früher anmeldend? MfG, Johannes",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089427",
+                                    "Author": "Mario Eck",
+                                    "DateTime": "2024-07-12T16:23:38+02:00",
+                                    "Content": "Hallo Johannes, wie generell üblich, wird auch für die zweite Prüfung die Anmeldung etwa einen Monat vor dem Termin freigeschaltet. Viele Grüße, Mario",
+                                    "Response to": "p1089379"
+                                },
+                                {
+                                    "Message_id": "p1089436",
+                                    "Author": "Johannes Weber",
+                                    "DateTime": "2024-07-12T16:43:11+02:00",
+                                    "Content": "Hallo Mario, Vielen Dank für die Info. Viele Grüße, Johannes",
+                                    "Response to": "p1089427"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tag der Prüfung",
+                            "Discussion_Id": "604871",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085632",
+                                    "Author": "Moritz Lellau",
+                                    "DateTime": "2024-07-02T09:04:34+02:00",
+                                    "Content": "Hallo, ich wollte mal fragen, ob es schon einen Tag für die Prüfungen gibt? Viele Grüße Moritz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085639",
+                                    "Author": "David Bresemann",
+                                    "DateTime": "2024-07-02T09:23:06+02:00",
+                                    "Content": "Guten Tag,  Die Prüfungstermine sind auf der Homepage des Fachgebiets veröffentlicht. Sie wurden auch bereits in der Übung angesagt. Ich habe sie jetzt nochmal im ISIS-Kurs eingetragen.  Mit freundlichen Grüßen David Bresemann",
+                                    "Response to": "p1085632"
+                                },
+                                {
+                                    "Message_id": "p1085684",
+                                    "Author": "Kirill Roesler",
+                                    "DateTime": "2024-07-02T10:41:00+02:00",
+                                    "Content": "Hallo, ab wann wird ca. die Prüfungsanmeldung auf Moses MTS freigeschaltet?  Grüße",
+                                    "Response to": "p1085639"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

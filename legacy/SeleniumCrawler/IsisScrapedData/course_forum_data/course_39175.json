@@ -1,0 +1,107 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Projektlabor Robotik",
+        "Course_id": "39175",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1821443",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Nächste Woche: Projektpräsentation",
+                            "Discussion_Id": "606065",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087310",
+                                    "Author": "Emma Galow",
+                                    "DateTime": "2024-07-08T09:35:35+02:00",
+                                    "Content": "Liebe Studierende,  nächste Woche ist die letzte Woche der Vorlesungszeit des Sommersemesters 2024. Ihr habt auch nach Ende der Vorlesungszeit die Möglichkeit, an Euren Projekten weiter zu arbeiten.  Was nächste Woche anfällt, ist die Präsentation Eures bisherigen Projekts. Genauere Infos dazu findet Ihr auf der Kurswiki Seite unter \"Abschlusspräsentation: Worauf kommt es an?\" . Das Projekt muss bis nächste Woche nicht fertig sein, die Präsentation dient nur dazu, zu zeigen, was Ihr bisher gemacht habt.   Liebe Grüße  Euer Robotik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine zur Projektphase",
+                            "Discussion_Id": "601236",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080360",
+                                    "Author": "Luis Marek Kleiner",
+                                    "DateTime": "2024-06-15T17:42:06+02:00",
+                                    "Content": "Hallo liebe Studierende, ab nächster Woche könnt Ihr neben den beiden Terminen des Robotiklabors (Mo 10-14Uhr und Mi 14-18Uhr) auch in die Termine der anderen Labore (Mechatronisches Labor Di 10-14Uhr und KreaTech Do 14-18Uhr) kommen um an euren Projekten zu arbeiten. Zusätzlich könnt ihr auch in die neue, extra Einheit von Emma und Luis, Freitags von 8-12Uhr, kommen. Hier meldet ihr euch bitte am Tag vorher (Donnerstag) bis spätestens 18:00Uhr jede Woche über Discord an. Bitte auch von wann bis wann ihr kommen werdet.  Viele Grüße  Emma und Luis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start in die Projektphase",
+                            "Discussion_Id": "599205",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077392",
+                                    "Author": "Emma Galow",
+                                    "DateTime": "2024-06-05T16:55:57+02:00",
+                                    "Content": "Liebe Studierenden, wir befinden uns aktuell in der letzten Woche der Crashkursphase. Nächste Woche geht es in die Projektphase. In den ersten 1 bis 2 Wochen habt Ihr Zeit, euch in Gruppe zusammen zu finden und einen Roboter zu planen. Wenn Ihr damit fertig seid könnt, Ihr mit dem Bau beginnen. Der Abgabetermin für die Projektplanung ist der 23.06.2024. Weitere Informationen zur Projektplanung findet Ihr demnächst auf der Robotik-ISIS-Seite. Die Projektplanung soll auf der RobotikWiki-Seite geschehen. Damit Ihr dort etwas schreiben könnt, müssen wir euch mit einer E-Mail Adresse anmelden. Schickt daher Anne bis zu diesem Sonntag (09.06.2024) eine Nachricht, in der Ihr die E-Mail-Adresse angebt, mit der Ihr im RobotikWiki angemeldet werden wollt.  Da die Projektphase dieses Semester relativ kurz ausfällt, sind zu große und aufwendige Projekte wahrscheinlich nicht realisierbar. Bedenkt das in eurer Projektidee! Was wir euch auch anbieten können (und worüber wir uns freuen würden :) ) ist, dass Ihr an Projekten weiterarbeitet, die Studierende in den letzten Semestern angefangen haben, aber nicht beenden konnten. Nächste Woche, werden wir euch ein paar dieser Projekte vorstellen. Nächste Woche wird außerdem die Sicherheitsbelehrung für das Labor stattfinden, seid also bitte pünktlich anwesend, wenn Ihr weiterhin am Laborteilnehmen wollt! Liebe Grüße, Euer Robotik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WICHTIG: Prüfungsanmeldung Robotik",
+                            "Discussion_Id": "598185",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075910",
+                                    "Author": "Emma Galow",
+                                    "DateTime": "2024-05-31T16:58:02+02:00",
+                                    "Content": "Liebe Studierende,  Ihr könnt Euch ab jetzt bis zum 14.06.2024, 23:59 Uhr für die Robotik-Portfolioprüfung auf Moses eintragen. Erledigt das bitte unbedingt bis zum Ablauf der Frist, da wir Euch sonst weder benoten, noch die Noten eintragen können. Um Euch anzumelden geht Ihr auf der Moses-Startseite auf \"Modulprüfungen, Zur Anmeldeübersicht\", klickt dann auf \"Anmelden\" und führt die Anmeldung Schritt für Schritt aus. Wählt das aktuelle Semester und unter \"Modul\" das \"Projektlabor Robotik\" mit der Modulnummer 40087. HINWEIS  Auch die Studierenden aus dem letzten Semester, die dieses Semester noch an Ihren Projekten weiter arbeiten, müssen sich auf Moses für die Prüfung anmelden!  Liebe Grüße Euer Robotik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Phototransistoren",
+                            "Discussion_Id": "597785",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075321",
+                                    "Author": "Emma Galow",
+                                    "DateTime": "2024-05-29T22:55:06+02:00",
+                                    "Content": "Liebe Studierende,  wie ein paar von euch vielleicht schon mitbekommen haben, sind die \"Phototransistoren\" in euern Sets gar keine Phototransistoren sondern durchsichtige LEDs. Die Mittwochsgruppe hat schon die richtigen Phototransistoren bekommen und verlötet, die Montagsgruppe hat nun verlötete LEDs. Luis hat netterweise ausreichend Photransistoren verlötet, so dass sich die Leute aus der Montagsgruppe nächste Woche Montag zwei verlötete Phototransistoren abholen können. Da ein Teil von euch ja nun daran gehindert ist, die Hausaufgaben zu erledigen, werden wir euch eine Woche länger Zeit geben. Wir entschuldigen uns für die Umstände und hoffen, dass diese Lösung für alle ok ist.  Liebe Grüße Euer Robotik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Woche (27.05. - 02.06.2024)",
+                            "Discussion_Id": "596304",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073017",
+                                    "Author": "Emma Galow",
+                                    "DateTime": "2024-05-23T13:33:36+02:00",
+                                    "Content": "Liebe Studierende, nächste Woche wird es neben weiteren Programmier-Grundlagen auch um das Messen von Lichtintensitäten mit Euren Phototransistoren gehen. Damit Ihr diese gut nutzen könnt, wollen wir Euch zeigen, wie man längere Kabel an die Phototransistoren lötet. Da Ihr das für die nächsten Hausaufgaben braucht, ist es wichtig, dass Ihr nächste Woche zu euerm jeweiligen Robotik-Termin vor Ort erscheint! Der Termin wird dann so aufgebaut sein, dass Ihr in der ersten Hälfte die Videos der aktuellen Wochen schauen und/oder Fragen zu den Videos stellen könnt und in der zweiten Hälfte eine Einführung ins Löten bekommt und anschließend die Kabel an Eure Phototransistoren lötet. Wir freuen uns auf Euch :) Bis nächste Woche  Euer Robotik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verlauf des Semesters",
+                            "Discussion_Id": "593480",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068610",
+                                    "Author": "Emma Galow",
+                                    "DateTime": "2024-05-09T14:11:08+02:00",
+                                    "Content": "Liebe Studierende, wir als Robotik-Team haben nochmal besprochen, wie wir den Kurs dieses Semester gestalten können und wollen. Da Anne voraussichtlich den Unterricht in den nächsten Woche nicht übernehmen kann, haben wir beschlossen, den gesamte Crashkurs-Phase asynchron über Videos, die in der Corona-Zeit entstanden, aber noch aktuell sind, durchzuführen. Das ganze wird wie folgt ablaufen: Eine Woche vorher werden Videos mit den aktuellen Themen der folgenden Woche hochgeladen. Die schaut ihr euch bis zum nächsten Robotik-Termin an. Zu euerm jeweiligen Robotik-Termin könnt ihr gerne kommen, um Fragen zu den Videos zu stellen und die Hausaufgaben zu bearbeiten. Es wird einen Termin geben, an dem wir mit euch Löten wollen. Dabei verlötet ihr Bauteile, die ihr für die Bearbeitung der darauf folgenden Hausaufgaben benötigt. Wann dieser Termin stattfindet, wird eine Woche vorher angesagt. Noch ein kleiner Hinweis: In der Pfingstwoche (20.05.2024 - 26.05.2024) werden nicht nur der Montagstermin, sondern auch der Mittwochstermin ausfallen. Falls ihr Fragen habt, könnt ihr euch aber trotzdem gerne bei uns über ISIS, Discord oder per Mail melden. Liebe Grüße Euer Robotik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

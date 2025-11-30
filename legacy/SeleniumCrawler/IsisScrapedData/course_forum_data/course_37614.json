@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Precise Orbit Determination - SS24",
+        "Course_id": "37614",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764207",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "POD Software information",
+                            "Discussion_Id": "607178",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088872",
+                                    "Author": "Maorong Ge",
+                                    "DateTime": "2024-07-11T13:04:43+02:00",
+                                    "Content": "Dear  All, Dr. Jungang Wang will introduce you the PANDA software on Friday. Please following the instruction in the forwarded email to check if the software can be installed and execute in your computer.  Best regards, Maorong   Dear Prof. Ge, please share the following materials with the master students for the POD class. Software https://nextcloud.gfz-potsdam.de/s/6pHD7KfJPgActgB Data https://nextcloud.gfz-potsdam.de/s/qZkHZTtSDDcKHpD It would be nice if the students read this instruction first: https://nextcloud.gfz-potsdam.de/s/ByBcSEfSnCARDSn  Thank you and best regards, Jungang   Dr. -Ing. Jungang Wang  Section 1.1: Space Geodetic Techniques Helmholtz Centre Potsdam GFZ German Research Centre for Geosciences Telegrafenberg, 14473 Potsdam  Tel: +49 (0) 331/288-1975 Email: jgwang@gfz-potsdam.de Website: https://www.gfz-potsdam.de/staff/jungang.wang",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Confirmation of your participation in the POD course and exam?",
+                            "Discussion_Id": "597801",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075341",
+                                    "Author": "Maorong Ge",
+                                    "DateTime": "2024-05-30T03:52:22+02:00",
+                                    "Content": "Dear All,   The lectures will be given in person in H6131 within the last two weeks from 8-16. July. Considering the availablity of the lecture room we have the following arrangement: July 08 Mo  16:00-20:00   4 July 09 Tue 18:00-20:00   2 July 10 We  18:00-20:00   2 July 11 Thu 18:00-20:00   2 July 12 Fri   16:00-20:00   4 July 15 Mo  14:00-20:00   6  software and exercise  July 16 Tue 14:00-20:00   6  software and exercise   Could you please confirm me by email (m.ge@tu-berlin.de  maorong.ge@outlook.com)  if you participate the course and the exam?  Best regards, Maorong ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

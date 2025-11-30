@@ -1,0 +1,113 @@
+[
+    {
+        "Course_Name": "Convex Analysis (Summer Semester 2024)",
+        "Course_id": "37216",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1752598",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exercise on 16.07 cancelled // Office Hours after End of Lectures",
+                            "Discussion_Id": "606428",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087809",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-07-08T21:08:36+02:00",
+                                    "Content": "Dear students,  unfortunately, the *exercise session next Tuesday (16.07) has to be cancelled*. If you have any questions concerning the exercises, please do not hesitate to write me an email or come by my office (or join the exercise session on Wednesday). If any questions about the lecture or exercises come up after the end of lectures, you can also contact me anytime via mail to request an office hour in person or via zoom.  Kind regards Viktor ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration open",
+                            "Discussion_Id": "605385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086340",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-07-03T22:15:40+02:00",
+                                    "Content": "Dear students,  following your availability we have decided on the following four exam dates 14. and 15.08.2024 23. and 24.09.2024 If the need arises, more dates will be announced later.  If you want to take the oral exam, please register on MOSES. If you encounter any difficulty, please let me know. After that, please also write an email to me (stein@math.tu-berlin.de) so I can allocate you to a specific time slot.  Kind regards Viktor",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Feedback",
+                            "Discussion_Id": "595743",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072211",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-05-21T16:11:46+02:00",
+                                    "Content": "Dear students,  as you are probably aware, there is a \"Lehrevaluation\" (assessment of teaching quality) in the middle of the semester. Since we will get the results of these question only after the semester has ended and there is no chance of changing anything for the better for this semester's course, I have created a *very short anonymous voluntary feedback* survey (four questions).  I would be very happy if you could fill it out, so I can get some feeling how you like the course so far and what can be improved.  Kind regards Viktor",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076980",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-06-04T16:28:27+02:00",
+                                    "Content": "Many thanks to everyone who answered the short feedback questionnaire.  Some questions were raised, which I will answer below.  Q. Can the sample solutions of homework be uploaded ?  A. No, but they will be discussed in the exercises and if additional questions arise, you can always email me or come by my office (or exchange ideas with other students).  Q. It is unclear if the extra-exercises are also relevant for the exam.  A. The separation into exercises and extra-exercises is motivated by the following (not exam-related) consideration: the amount of exercises constitutes what you should be able to answer in one week. If you want, you can also do the extra-exercises. The material relevant to the exam consists of the contents of the lecture. The homework exercises are a good way to check if you understood this material well.  Kind regards Viktor",
+                                    "Response to": "p1072211"
+                                },
+                                {
+                                    "Message_id": "p1078587",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-06-10T14:05:32+02:00",
+                                    "Content": "Dear students,  please take a few minutes to answer the question of the (anonymous!) official feedback survey (Lehrevaluation) for the exercise sessions: https://befragung.tu-berlin.de/evasys/online.php?pswd=D5JCK.  This feedback is very important to me, especially since this is my first time holding exercise sessions for a whole semester.  Kind regards Viktor",
+                                    "Response to": "p1076980"
+                                },
+                                {
+                                    "Message_id": "p1078822",
+                                    "Author": "Oleh Melnyk",
+                                    "DateTime": "2024-06-11T08:40:49+02:00",
+                                    "Content": "Dear Students,  please also find a little time for the lecture feedback survey: https://befragung.tu-berlin.de/evasys/online.php?pswd=D5JCK  Just as for Viktor, it is the first time I am giving a lecture, so I am interested in your response.  Best, Oleh",
+                                    "Response to": "p1078587"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First exercise sheet is online - Exercise sheet procedure",
+                            "Discussion_Id": "586533",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057881",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-04-16T17:19:14+02:00",
+                                    "Content": "Dear students, I have just uploaded the first exercise sheet. The material needed to solve exercises 1.2 and 1.3 will be covered in the lecture on Thursday. In the future exercise sheets will be  *uploaded on Sunday* or early Monday, *due on Sunday night* (so that I can correct them before the exercise sessions on Tuesday / Wednesday). *discussed* in the exercises sessions *on Tuesday / Wednesday*. The exercises are not mandatory and not needed for participating in the exam. However, I recommend you solve them to check your understanding of the lectures contents. I have also added a homework group choice, where you can organize yourselves into homework groups of your choice.  I look forward to seeing you all in the exercise sessions next week! - Viktor",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum for the exercise",
+                    "Forum_id": "1835463",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Proximal mapping of the distance to a nonempty closed convex set",
+                            "Discussion_Id": "597753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075269",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-05-29T18:37:41+02:00",
+                                    "Content": "Dear students, as promised I share with you the complete and detailed solution to the (more difficult) part of exercise 6.3 concerning the proximal mapping of the distance to a nonempty closed convex set. If you have any question, don't hesitate to contact me via stein@math.tu-berlin.de. Kind regards Viktor",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Convexity of the LogSumExp function",
+                            "Discussion_Id": "596047",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072656",
+                                    "Author": "Viktor Stein",
+                                    "DateTime": "2024-05-22T15:36:53+02:00",
+                                    "Content": 

@@ -1,0 +1,1115 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] System-on-Chip (SoC) + RISC-V Lab",
+        "Course_id": "37453",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1759347",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Mid-term presentation grading available",
+                            "Discussion_Id": "603150",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083147",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-06-24T16:36:04+02:00",
+                                    "Content": "Dear students, the grading of the mid-term presentation is now available in the MOSES exam management system. The mid-term presentation accounts for 10 of the 100 portfolio points of the overall module exam. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " mid term presentation: important organisational information  / upload opened",
+                            "Discussion_Id": "599625",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077985",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-06-07T12:59:43+02:00",
+                                    "Content": "Hi, Location EN424 Schedule please observe the due date for the upload in ISIS As a backup (in case ISIS breaks down) it is recommended to additionally bring your slides / media files on an USB stick. start of presentations is 12:00 (12st). Please be there 20min early. I will be there at 11:30 (terminal room then EN424). Format slides must be in PDF format (NOT: Power Point), one file per group (Optional) media files: Must be playable with VLC. If your files are too big for upload to ISIS please submit a text file with a download link. all filenames shall start with \"rvlab<group number>\" (e.g. rvlab01_slides.pdf, rvlab01_audio.mp3,...) Other a provided laptop will be used for all presentations (no change of beamer source due to the short time frame). your presentations can be performed in English or German Please practice your presentation to stay within the allocated time (6minutes). Due to the number of groups there is no possibility to extend your presentation time (6pres+2qa+2change=10min*9=90min). Looking forward to your great presentations,  Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Remainder: New location for exercise: EN424",
+                            "Discussion_Id": "598707",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076687",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-06-03T22:38:16+02:00",
+                                    "Content": "Hi, as announced in the last exercise all subsequent exercises will take part in EN424. Yours, Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important: register for exam until 07.06.",
+                            "Discussion_Id": "598089",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075761",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-31T11:21:50+02:00",
+                                    "Content": "Dear students, As a reminder: If you have not done so yet, please register for the SoC + RISC-V Lab exam on MOSES/MTS before Friday, 07.06., 23:59. Exam registration is mandatory to participate in the portfolio exam. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lecture on Monday, 03.06.",
+                            "Discussion_Id": "598087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075759",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-31T11:16:32+02:00",
+                                    "Content": "Dear students, as announced, please note that there is no lecture on Monday, 03.06. The lectures in the weeks after that will take place as usual. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Q&amp;A / Review Project Ideas Th 30.5. 12ct",
+                            "Discussion_Id": "597791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075328",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-29T23:34:39+02:00",
+                                    "Content": "Hi, as announced on Wednesday a review of your project ideas will be offered this Thursday. Please have a Hardware Toplevel Diagram ready for screen sharing. Cia, Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Q&amp;A Friday 24.5 15ct",
+                            "Discussion_Id": "596324",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073053",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-23T14:46:45+02:00",
+                                    "Content": "Hi, There will be a Q&A in Zoom  this Friday 15ct. It will last until all question have been answered. Please have your problem ready for screen sharing. Yours, Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline Ex3 postponed by 2 days",
+                            "Discussion_Id": "595487",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071838",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-20T20:31:15+02:00",
+                                    "Content": ".",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Last Minute Q&amp;A: 13.5. 9:30ct in Zoom",
+                            "Discussion_Id": "593880",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069250",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-13T00:02:18+02:00",
+                                    "Content": "Hi, due to a request on Sunday(!) afternoon there will be a spontaneous Q&A at 9:30ct. All questions are welcome. Please have your issue ready for screen sharing. Yours, Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration + second MC test date",
+                            "Discussion_Id": "593180",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068131",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-08T10:08:25+02:00",
+                                    "Content": "Dear students, As a reminder: to take part in the SoC + RISC-V Lab, exam registration via MOSES/MTS is required. Exam registration is open until 07.06.2024. The exam dates are: Interim Presentation: 11.06. 12.00 – 14.00 (HFT-TA 131) MC Test: 25.07. 11.00 – 11.45 (A 151) Final Presentation: 05.08. 10.00 – 13.00 (E-N 424) Please note that the stated times are s. t. (no academic quarter), and please arrive 15 minutes before the start times.  Furthermore, we now offer an alternative date (Zweittermin) for the MC test: 07.08. 10.00 – 10.45 (E-N 424). This alternative date is for students who are sick for the first MC test or cannot attend the first MC test date for other important reasons. Please attend the first MC test date whenever possible, as room capacity for the second date is low. You can select the MC test date when registering on MOSES. If you have already registered, you can change the selected date on MOSES until 07.06.2024. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Q&amp;A Session Thu 2.5. 12ct",
+                            "Discussion_Id": "591352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065268",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-04-30T18:09:46+02:00",
+                                    "Content": "Hi, due to request a Q&A session is scheduled for Thursday starting at 12ct in Zoom. It ends when no question are left. Please prepare to share your screen to show the problem. Yours, Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "06.05./07.05.: project and lecture swapped",
+                            "Discussion_Id": "591306",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065197",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-30T16:28:13+02:00",
+                                    "Content": "Dear students, as previously announced, project and lecture will be swapped next week: Monday, 06.05., 12–14, HFT-TA 131: RISC-V Lab (project) Tuesday, 07.05., 12–14, HFT-TA 131: SoC lecture Only that week is affected.  All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "System Verilog Crash Course Fr, 26.4 12-14 in EN424 //  Q&amp;A Th, 25.4. 12ct in Zoom",
+                            "Discussion_Id": "589307",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062180",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-04-24T11:48:11+02:00",
+                                    "Content": "Hi, The System Verilog crash course will take place Fr, 26.4 12-14 in EN424. The (optional) Q&A session will take place in Zoom starting  Th, 25.4. 12ct. The Zoom link is on the ISIS course page. Yours, Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SoC MC test moved to 25.07., 11:00, A 151",
+                            "Discussion_Id": "588509",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060924",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-22T15:29:36+02:00",
+                                    "Content": "Dear students, as discussed in today's lecture, the SoC multiple choice (MC) test will take place one day earlier than previously planned. The new date is: Thursday, 25.07., 11:00, room A 151. The previous date collided with an exam in a Computer/Electrical Engineering elective course and was on the same day as an exam in a Computer Engineering mandatory course. I hope that the new exam date works well for everyone in the course. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "RISC-V Lab Git Repository",
+                            "Discussion_Id": "586036",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057154",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-15T15:00:29+02:00",
+                                    "Content": "Dear students, a few of you have asked for technical details of the RISC-V Lab project. If you are curious and want to study the RISC-V Lab code, documentation and setup ahead of time, you find our Git repository here: https://git.tu-berlin.de/msc/rvlab. You must login with your TU account to access the repository. Note that the repository is not necessarily self-explanatory. You can either run the RISC-V Lab locally on your computer (which requires some setup) or using the MSC computer lab (which you will get access to next week). Everything else will be discussed in the first project session on 23.04. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First lecture (15.04.) &amp; start of project (23.04.)",
+                            "Discussion_Id": "585273",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056037",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-10T13:32:01+02:00",
+                                    "Content": "Dear students, welcome to the SoC + RISC-V Lab course! Our first lecture takes place on Monday, 15.04. Contrary to the previous info on ISIS, the RISC-V Lab (project) sessions start one week later, with the first session on Tuesday, 23.04. At the first RISC-V Lab / project session, you will be asked to form groups of four students, in which you will complete exercises and the project. For this reason, attendance is mandatory. If you are unable to attend the first project session due to an important reason, you are individually responsible to find a group (e.g. using the ISIS discussion board) and catch up on missed content. To make group formation easier, I will also provide some time during the first lecture to form groups ahead of the first project session. Of course, attendance of lectures and project sessions is always highly recommended. Even though slides will be available, no recordings will be provided. All the best, Tobias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion board (RISC-V lab + lecture)",
+                    "Forum_id": "1772258",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "TMDS Debugging Tool",
+                            "Discussion_Id": "605402",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086366",
+                                    "Author": "Erik Felgendreher",
+                                    "DateTime": "2024-07-04T00:56:42+02:00",
+                                    "Content": "Hi, for all those who are working on TMDS encoded Image output I've found a debugging tool which came in quite handy. It also dumps your images back to files which can be read with imagemagick. The structure of the tmds.dump file which is required for the tool to work isn't documented (as is the case with pretty much everything in that repo), so I'll attach my testbench. The most interesting part is in line 43 to 62.   If anybody need help with that or has found more elegant or simple solutions to debug an HDMI output, just reply on this thread :D",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Opentitan Ibex Version",
+                            "Discussion_Id": "600576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079383",
+                                    "Author": "Felix Kraus",
+                                    "DateTime": "2024-06-12T12:17:34+02:00",
+                                    "Content": "Hallo, welche Version/git Revision von RISC-V Ibex wird im rvlab projekt verwendet? Beim vergleich von rvlab_cpu.sv mit rv_core_ibex.sv aus dem opentitan git habe ich festgestellt dass diese sehr unterschiedlich sind, bis zurück zu versionen aus 2019/2020. Wir überlegen den OTBN zu integrieren und ich würde gerne eine nicht zu unterschiedliche git revision verwenden. Allerdings ist die erste version des OTBN von 2020.  Danke und Grüße, Felix",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079857",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-06-13T14:21:02+02:00",
+                                    "Content": "Hallo Felix,  der Commit 183ae4ad4f346336040cdd78b11cb3c08b54a167 (28.01.2020) von Ibex sollte passen. In den letzten Jahren wurde der Ibex-Code etwas umgestaltet und ist meiner Meinung nach unübersichtlicher geworden, weshalb wir auf einer älteren Version aufbauen.  Viele Grüße Tobias",
+                                    "Response to": "p1079383"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "PS2 Controller PMOD Link",
+                            "Discussion_Id": "600297",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078990",
+                                    "Author": "Maximilian Joel Kamps",
+                                    "DateTime": "2024-06-11T13:51:09+02:00",
+                                    "Content": "Here is the link to the PS2 PMOD I mentioned https://de.aliexpress.com/item/1005006265716790.html",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Room info on ISIS home page",
+                            "Discussion_Id": "599943",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078472",
+                                    "Author": "Maximilian Joel Kamps",
+                                    "DateTime": "2024-06-10T11:11:10+02:00",
+                                    "Content": "Would it be possible to update the project room info in the table at the top of the ISIS home page? Just to avoid any confusion. Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078487",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-06-10T11:25:46+02:00",
+                                    "Content": "Thank you for the reminder, I have updated it now.",
+                                    "Response to": "p1078472"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mögliche Verhinderung bei mid term presentation",
+                            "Discussion_Id": "599800",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078259",
+                                    "Author": "Rasmus Nissen",
+                                    "DateTime": "2024-06-09T15:46:23+02:00",
+                                    "Content": "Hallo, am 11.06. habe ich einen Zahnarzttermin und werde es daher möglicherweise nicht rechtzeitig zu den mid term presentations schaffen. Dürfen in diesem Fall meine Gruppenmitglieder meinen Teil der Präsentation übernehmen? MfG, Rasmus",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078469",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-06-10T11:07:35+02:00",
+                                    "Content": "Hallo Rasmus,  falls du in Verbindung mit dem Termin ärztlich prüfungsunfähig bist, könntest du die Midterm-Presentation später nachholen, z. B. in Form eines Videos. Ohne ärztliche Bescheinigung würden wir bei Abwesenheit die Teilleistung mit 0/10 Punkten werten.  Viele Grüße Tobias",
+                                    "Response to": "p1078259"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Module 'B_ISERDESE2' is not defined QuestaSim",
+                            "Discussion_Id": "599113",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077253",
+                                    "Author": "Marvin Dietrich",
+                                    "DateTime": "2024-06-05T11:59:44+02:00",
+                                    "Content": "Hallo, wir benutzen einen ISERDES2 in einem I/O Modul. Wenn wir nun die Testbench für dieses Modul ausführen erscheint folgende Fehlermeldung in QuestaSim: ** Error: /usr/xilinx/2021.2/Vivado/2021.2/data/verilog/src/unisims/ISERDESE2.v(594): Module 'B_ISERDESE2' is not defined. #  For instance 'B_ISERDESE2_INST' at path 'dvi_in_io_tb.DUT.genblk1[0].ISERDESE2_inst' # Optimization failed  Wie kann man dieses Problem lösen?  Vielen Dank, Gruppe 09",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077503",
+                                    "Author": "Marvin Dietrich",
+                                    "DateTime": "2024-06-06T01:06:46+02:00",
+                                    "Content": "Okay hab das Problem selbst gelöst :) Falls man einen ISERDES2 mit Questa verwenden möchte, muss man die secureip lib zu den QuestaSim Tasks in module_tb.py hinzufügen",
+                                    "Response to": "p1077253"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Mid Term Presentation in German or English?",
+                            "Discussion_Id": "598979",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077067",
+                                    "Author": "Shuhan Miao",
+                                    "DateTime": "2024-06-04T19:56:01+02:00",
+                                    "Content": "Hi Tobias, we would like to know if the mid term presentation is in German or English thanks in advance rvlab07",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ex4 simultaneous Read and Write ",
+                            "Discussion_Id": "598473",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076354",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-06-03T11:19:35+02:00",
+                                    "Content": "Hi, how is it possible to implement a simultaneous read and write. The TL-UL connection is occupied by either doing a read operation or a write operation. Thus, I don't quite understand how to actually realize such a behaviour.  kind regards Armin",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076541",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-06-03T16:00:08+02:00",
+                                    "Content": "Nevermind. I think I understand it now. The main point is to make use of both channels (A channel and D channel) at anytime without busy wait.",
+                                    "Response to": "p1076354"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unable to depcit TL-UL connections in wave view",
+                            "Discussion_Id": "598594",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076528",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-06-03T15:39:24+02:00",
+                                    "Content": "Hello everyone, does anybody know how I can depict the TL-UL connection in the wave view. It would be quite nice to see it for troubleshooting. kind regards Armin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline for High Level Design?",
+                            "Discussion_Id": "598361",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076175",
+                                    "Author": "Maximilian Joel Kamps",
+                                    "DateTime": "2024-06-02T18:52:06+02:00",
+                                    "Content": "Hello!  The course wiki says the high level design is due on the 11. (\"High level design (due date: mid term presentation)\"), but the ISIS submission title sounds like the high level design is due along with the requirement and functional specification this Monday night (on the 3./4.)  Which one is correct?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076221",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-06-03T00:03:58+02:00",
+                                    "Content": "Just before the exercise I updated the git for clarifcation, please update:  for task 1: Requirements and functional specification and “Hardware Toplevel Diagram” of High level Design (due date: one week after the exercise, deadline: two weeks). Please continue working on the project only after your requirements and functional specification has been signed off. This guards against accidentally starting a project too simple (or too complex).  for task 2: High level design (deadline: mid term presentation). It is recommended to hand in the complete high-level design before proceeding to the implementation to make conceptual errors which might manifest only very late in the project cycle more unlikely.",
+                                    "Response to": "p1076175"
+                                },
+                                {
+                                    "Message_id": "p1076279",
+                                    "Author": "Nils Einfeldt",
+                                    "DateTime": "2024-06-03T09:48:38+02:00",
+                                    "Content": "Hello Marco,  could you please also push your changes to the GitLab server? The latest change available there is from May 2nd where you changed something in exercise 2.",
+                                    "Response to": "p1076221"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "QuestaSim Layout",
+                            "Discussion_Id": "598284",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076062",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-06-01T20:45:17+02:00",
+                                    "Content": "Hello, depending on the flow routine that I invoke I am getting a different layout in questaSim. The problem is that I can't examine the wave views by drag and dropping the components into the wave view window of the dma flow routine. The reason is I have just one big tap in fullscreen instead of several taps open concurrently as it used to be. Can someone help me?  with kind regards Armin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project - Software Defined Radio / Modulated data transmission",
+                            "Discussion_Id": "597381",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074741",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-05-28T15:02:14+02:00",
+                                    "Content": "Hello,  is some kind of project like the one in the video:  https://www.youtube.com/watch?v=4VW017qPT6Y&ab_channel=RafRamakers  allowed or not for the project, from a legal point of view of transmitting wireless waves via antenna?  Thanks in advance",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074768",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-28T15:42:40+02:00",
+                                    "Content": "Generally speaking radio transmission is only allowed in certain frequency band and only if you are licensed (\"Funkamateuer\"). The project mentioned by me today was done by someone with such a license. However you can also transmit RF signals via a cable and do not radiate.",
+                                    "Response to": "p1074741"
+                                },
+                                {
+                                    "Message_id": "p1075273",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-29T18:51:32+02:00",
+                                    "Content": "If you have license it's legal, there's is a course at tu Berlin amateuradiofunk that might help you get the license, I think you need the A license",
+                                    "Response to": "p1074741"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Troubleshooting Pass-Through behavior in muxer?",
+                            "Discussion_Id": "596718",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073652",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-25T22:04:05+02:00",
+                                    "Content": "I’m working on exercise 5 and encountering issues with signal assignments not behaving as expected in simulation. Below are the key parts of the code where the problems occur: the tilelink structs do not seem to be being passed along. the multiplexer seems to work on the multiplexer testbench (which was modified to fix the bit issue) In the TL-UL Multiplexer (student_tlul_mux):   // Definitions for visualization in waveform tools   tlul_pkg::tl_h2d_t examineinput;   tlul_pkg::tl_d2h_t examineoutput;   // Assignments to examine signals on the waveform   assign examineoutput = tl_device_o[0]; // For visualizing output in the waveform as arrays do not appear on questasim   assign examineinput = tl_device_i[0]; // For visualizing input directly In the Main Module (student):   // Array declarations for device I/O   tlul_pkg::tl_d2h_t tl_output_devices[2];   tlul_pkg::tl_h2d_t tl_input_devices[2];      tlul_pkg::tl_h2d_t rlight_input;   tlul_pkg::tl_d2h_t rlight_output;   assign rlight_input = tl_input_devices[0]; // Direct assignment for visibility   assign tl_output_devices[0] = rlight_output; // Connect output to the array        student_tlul_mux #(       .NUM(2)   ) tlul_mux ( //...       .tl_host_i(tl_device_peri_i),       .tl_device_i(tl_input_devices) //...   ); This is surprising as rlight_input just seems to ignore the commands given to it by the tlul_mux, and we can verify in the waveform that examineinput is being set, but rlight_input is not, and they are supposed to be the same.. but a possible hint is that when NUM=1, it seems to work. What could possible be going on?   Here in the image you see rlight_input != examineinput even though tl_device_i[0] being examineinput means that it must necessarily be the same as rlight input.. no? because tl_device_i should be the same as tl_input_devices...",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073656",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-25T22:36:04+02:00",
+                                    "Content": "So I created  always_ff @(posedge clk_i, negedge rst_ni) begin   if (~rst_ni) begin   end else begin  if(tl_input_devices[0]!=tl_device_peri_i)//I created tlul_mux such that it forwards everything to 0  begin  $error(\"This MUST BE THE SAME\");  end   end // if (~rst_ni) else  end in student to get an error when tl_device_peri_i is not equal to tl_onput_devices[0] and I changed tlul_mux to just be module student_tlul_mux #(     parameter int NUM = 2 ) (     input logic clk_i,     input logic rst_ni,      output tlul_pkg::tl_d2h_t tl_host_o,     input  tlul_pkg::tl_h2d_t tl_host_i,      input  tlul_pkg::tl_d2h_t  tl_device_o [NUM-1:0],     output tlul_pkg::tl_h2d_t  tl_device_i [NUM-1:0] );   // Implement TL-UL multiplexer here.   assign tl_device_i[1]='0;   assign tl_device_i[0]=tl_host_i;   assign tl_host_o = tl_device_o[0];  endmodule And yes it seems I get the same \"This MUST BE THE SAME\" error . I wonder what I am doing wrong here. (again, when for some reason num is just 1, it seems to work? why?)",
+                                    "Response to": "p1073652"
+                                },
+                                {
+                                    "Message_id": "p1073952",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-27T10:39:02+02:00",
+                                    "Content": "In student_tlul_mux, you assign tl_device_i, which is an input. Do not drive/assign inputs from within a module. I suspect the unexpected behavior is due to this.",
+                                    "Response to": "p1073656"
+                                },
+                                {
+                                    "Message_id": "p1073964",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-27T10:52:10+02:00",
+                                    "Content": "The real issue was that arrays declared [val:0] are backwards, so [0] was last, [1] was last-1, etc.. It was silly, but confusing.",
+                                    "Response to": "p1073952"
+                                },
+                                {
+                                    "Message_id": "p1074017",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-27T11:33:05+02:00",
+                                    "Content": "I see, good to hear that you managed to resolve the issue!",
+                                    "Response to": "p1073964"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "student_tlul_mux_tb addresses",
+                            "Discussion_Id": "596511",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073331",
+                                    "Author": "Jonathan Benno Wendler",
+                                    "DateTime": "2024-05-24T12:27:25+02:00",
+                                    "Content": "I am a bit confused with tlul student muxer. the mux_tb suggest that the bits [7:4] should be used, but this seems wrong If I want to split the memory of the student_device_peri into 0x01000000 / 16 Parts  Or am I totally wrong somewhere?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073334",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-24T12:38:57+02:00",
+                                    "Content": ">the mux_tb suggest that the bits [7:4]  Where did you read this?",
+                                    "Response to": "p1073331"
+                                },
+                                {
+                                    "Message_id": "p1073368",
+                                    "Author": "Jonathan Benno Wendler",
+                                    "DateTime": "2024-05-24T13:49:42+02:00",
+                                    "Content": "In the test script:  add = j << 4 that means 7:4 if I can have 16 CONNECTED_SLAVES  ``` for (int j = 0; j < CONNECTED_SLAVES; j = j + 1) begin addr = j << 4; wdata = j + 1; bus.put_word(addr + SHIFTIN_OFFSET, wdata); bus.put_word(addr + SHIFTCFG_OFFSET, 6'b000010); end ```",
+                                    "Response to": "p1073334"
+                                },
+                                {
+                                    "Message_id": "p1073408",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-24T15:02:46+02:00",
+                                    "Content": "Yes the test script is misleading.",
+                                    "Response to": "p1073368"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reading hardware-written register from sw",
+                            "Discussion_Id": "595977",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072560",
+                                    "Author": "Nils Oskar Nuernbergk",
+                                    "DateTime": "2024-05-22T13:24:18+02:00",
+                                    "Content": "I can't seem to read hw-written registers from sw. Say I have the following entry in my hjson:    {       name: \"constant_1\"       desc: \"constant 1\"       swaccess: \"ro\"       hwaccess: \"hwo\"       fields: [         { bits: \"31:0\", name: \"constant\", desc: \"value\"}       ]     } In my student_rlight, I have: assign hw2reg.constant_1.d = 32'hFFFFFFFF  And in my main.c: printf(\"constant: 0x%08x\", REG32(STUDENT_RLIGHT_CONSTANT_1(0)));  Then, I still only get the message \"constant: 0x00000000\". What am I doing wrong here?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072867",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-05-23T09:40:12+02:00",
+                                    "Content": "I assume then, today will be a consultation hour at 12, because this question hasn't been answered.",
+                                    "Response to": "p1072560"
+                                },
+                                {
+                                    "Message_id": "p1073048",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-23T14:40:37+02:00",
+                                    "Content": "Sorry, as announced multiple times: Q&A will be on request only due to lack of participants, for Th. the request should occur until Wed evennig,. My frist free slot this week is Friday 15ct.",
+                                    "Response to": "p1072867"
+                                },
+                                {
+                                    "Message_id": "p1073139",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-05-23T17:04:37+02:00",
+                                    "Content": "I think it would spare you more time, if you would just open the zoom session weekly in the background on your machine. After 5min you could just leave the zoom session. When someone is joining the session then you would hear it acoustically, so it ins't necessary at all to pay attention at zoom while nobody is there.  Advantages: 1. Everyone knows when the Zoom session is. 2. Less time spending in emailing (for you and the students). Instead, you just need to push a button one time to open the zoom session.  For me personally, in the first weeks I wasn't either able to attend or it wasn't necessary because we've made it without help. But this doesn't mean that this isn't necessary anymore for the subsequent weeks.",
+                                    "Response to": "p1073048"
+                                },
+                                {
+                                    "Message_id": "p1073220",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-23T23:20:57+02:00",
+                                    "Content": "Have you resolved the issue? Please look at the internal structure of the generated register fields (slides ex3), esp understand the de signal. How did you set this? Please look at the register field inside the generated register module. Is it set to the desired value? If yes check if your SW read  (a and d channel) appears at the TUL port of the generated  register module. You might read the wrong address or the tul connection is interrupted. In any case this will be the points I will review in the Q&A to locate the issue.",
+                                    "Response to": "p1072560"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "are we allowed to extend the IRQ register interface?",
+                            "Discussion_Id": "596420",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073189",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-23T19:38:16+02:00",
+                                    "Content": "Design an interrupt controller based on the principles presented in the exercise. It should aggregate 1-32 incoming interrupt lines in any imaginable configuration to the outgoing interrupt line. The number of incoming interrupt lines should be made configurable at compile time using the parameter IRQ_MAX. The interrupt controller should have the following register interface: address mode name description 0x00 r/w all_en 0: suppresses all outgoing interrupt requests 0x04 r/w mask mask(n) = 1 <=> irq(n) enabled 0x08 w mask_set mask_set(n) = 1 <=> set bit n in mask 0x0C w mask_clr mask_clr(n) = 1 <=> clear bit n in mask 0x10 r status status(n) = 1 <=> irq(n) is asserted 0x14 r irq_no n < IRQ_MAX: irq_no = n, irq(n) = 1 and there is no m < n with irq(m) = 1 and mask(m) = 1. n = IRQ_MAX: no pending unmasked irq 0x18 r/w test 0: regular operation; 1: all irq inputs are wired to the test_irq register 0x1C r/w test_irq see test  ---- My real question which it is not clear to me, is how does the CPU notify the irq controller, that the job has been done? Is this a misunderstanding of my part?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073196",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-23T20:37:03+02:00",
+                                    "Content": "The fundamental principle explained on the exercise is that only the peripheral decides if an IRQ is still pending or not. Thus the IRQ controller is never notified. The given regiser interface shall not be chasnged.",
+                                    "Response to": "p1073189"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation",
+                            "Discussion_Id": "595948",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072523",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-05-22T12:25:30+02:00",
+                                    "Content": "Hello, does somebody know, if the exercises are factored into the project grade? kind regards Armin",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072890",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-23T10:19:44+02:00",
+                                    "Content": "Dear Armin,  we use the grading scheme from our module description. Completion of the exercises is not part of any of the four exam elements, but missing or being behind on the exercises makes it quite difficult for you to complete the project successfully and on time for the final presentations.  All the best, Tobias",
+                                    "Response to": "p1072523"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "running .sim_rtl_xsim instead of questa",
+                            "Discussion_Id": "595841",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072362",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-21T23:22:21+02:00",
+                                    "Content": "I am running the gitlab master branch, and I get some errors with memset, (which works with questa)  hostio: test memset_dma: hostio: Error: buf[1] was 0 != 85 hostio: Error: buf[2] was 0 != 85 hostio: Error: buf[3] was 0 != 85  Time: 1821610 ns Started: 1821610 ns Scope: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line:276 Error: [ASSERT FAILED] [system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i] IbexInstrErrWithoutRvalid: instr_err_i |-> instr_rvalid_i Time: 1821610 ns  Iteration: 7  Process: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i//system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i  Scope: system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i  File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line: 276  Time: 1821650 ns Started: 1821650 ns Scope: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line:276 Error: [ASSERT FAILED] [system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i] IbexInstrErrWithoutRvalid: instr_err_i |-> instr_rvalid_i Time: 1821650 ns  Iteration: 7  Process: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i//system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i  Scope: system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i  File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line: 276  Time: 1821690 ns Started: 1821690 ns Scope: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line:276 Error: [ASSERT FAILED] [system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i] IbexInstrErrWithoutRvalid: instr_err_i |-> instr_rvalid_i Time: 1821690 ns  Iteration: 7  Process: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i//system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i  Scope: system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i  File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line: 276  Time: 1821730 ns Started: 1821730 ns Scope: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line:276 Error: [ASSERT FAILED] [system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i] IbexInstrErrWithoutRvalid: instr_err_i |-> instr_rvalid_i Time: 1821730 ns  Iteration: 7  Process: /system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i//system_tb/board/DUT/core_i/cpu_i/u_core_default/if_stage_i  Scope: system_tb.board.DUT.core_i.cpu_i.u_core_default.if_stage_i  File: /home/rvlab/groups/rvlab07/juan/src/rtl/ibex/ibex_if_stage.sv Line: 276  Is xsim not supported anymore? I can't seem to run questa with ddr3, and xsim has some simulation problems, I am running the master branch. With no changes from my side.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072469",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-22T10:44:31+02:00",
+                                    "Content": "Thanks for reporting this error. I can reproduce it and recorded it as issue on GitLab. We have tested the project mainly using QuestaSim, so I suggest using im_rtl_questa for now.",
+                                    "Response to": "p1072362"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Running .sim_rtl_questa_ddr leads to errors on Cluster",
+                            "Discussion_Id": "595394",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071656",
+                                    "Author": "Mark-Andre Schadow",
+                                    "DateTime": "2024-05-19T18:53:22+02:00",
+                                    "Content": "When trying to run systb_dma.sim_rtl_questa_ddr on the university server, there are a range of not defined errors. These do not occur when using Xsim (e.g. sim_rtl_xsim_ddr) or when using the non _ddr version. See attached screenshot. Is this intentional?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071830",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-20T20:00:04+02:00",
+                                    "Content": "This is not intentional. The errors are caused by Xilinx library components which are not found.They are compiled uisng the flow, Try flow --clean",
+                                    "Response to": "p1071656"
+                                },
+                                {
+                                    "Message_id": "p1072346",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-21T22:19:59+02:00",
+                                    "Content": "I did the following:  git checkout b2a02cd1dbd76785993466fcab9292eafc3ca61c (remote master branch, to check if this error is inserted by my changes) flow --clean flow systb_dma.sim_rtl_questa_ddr  and I get the following error:     # vsim -onfinish stop \"+transport_int_delays\" -voptargs=\"\"+acc\"\" -suppress 16107 -suppress 14408 -suppress 3262 -L /home/rvlab/groups/rvlab07/juan/build/simlibs_questa/unisims/unisims -L /home/rvlab/groups/rvlab07/juan/build/simlibs_questa/secureip/secureip \"+jtag_prog_mem=/home/rvlab/groups/rvlab07/juan/build/sw_dma/delta/delta\" system_tb glbl -do \"/home/rvlab/opt/python/lib/python3.10/site-packages/notcl/notcl.tcl\"      # Start time: 22:08:53 on May 21,2024     # ** Note: (vsim-3812) Design is being optimized...     # ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.     # ** Error: (vopt-13130) Failed to find design unit system_tb.     # Searched libraries:     # /home/rvlab/groups/rvlab07/juan/build/simlibs_questa/unisims/unisims     # /home/rvlab/groups/rvlab07/juan/build/simlibs_questa/secureip/secureip     # work     # Optimization failed     # ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=1.     # Error loading design     # End time: 22:08:53 on May 21,2024, Elapsed time: 0:00:00     # Errors: 1, Warnings: 1 what happened? I thought maybe something that is not in git, so I deleted the directory and cloned again.  I get the same error, why?",
+                                    "Response to": "p1071830"
+                                },
+                                {
+                                    "Message_id": "p1072351",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-21T22:26:53+02:00",
+                                    "Content": "after doing it again, I get a similar error",
+                                    "Response to": "p1072346"
+                                },
+                                {
+                                    "Message_id": "p1072468",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-05-22T10:42:57+02:00",
+                                    "Content": "There are sometimes problems with building the Xilinx simulation libraries for QuestaSim. Try running \"flow simlibs_questa.secureip\" and \"flow simlibs_questa.unisims\", and then try \"flow systb_dma.sim_rtl_questa_ddr\" again.",
+                                    "Response to": "p1072351"
+                                },
+                                {
+                                    "Message_id": "p1072353",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-05-21T22:36:19+02:00",
+                                    "Content": "did you guys solve this problem?",
+                                    "Response to": "p1071656"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "VPN Connection Failed",
+                            "Discussion_Id": "595435",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071741",
+                                    "Author": "Tianyi Wang",
+                                    "DateTime": "2024-05-20T13:13:22+02:00",
+                                    "Content": "This issue firstly occurred on Saturday and still exists till now...Any idea to fix it? Thanks in advance! BR, Tianyi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071833",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-20T20:05:05+02:00",
+                                    "Content": "For IT related question please contact our system administrators Rene or Adele directly (see slides ex1).",
+                                    "Response to": "p1071741"
+                                },
+                                {
+                                    "Message_id": "p1071872",
+                                    "Author": "Tianyi Wang",
+                                    "DateTime": "2024-05-21T00:22:56+02:00",
+                                    "Content": "Got it. Thank you for your hint!",
+                                    "Response to": "p1071833"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Deadline of Task because of Pfingstmontag/public holiday",
+                            "Discussion_Id": "595064",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071121",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-05-17T00:22:08+02:00",
+                                    "Content": "Hello,  will the deadline be postponed by 24 hours due to the public holiday(Pfingstmontag)?  Thank you  Best regards  Hejie ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071396",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-17T16:38:40+02:00",
+                                    "Content": "Sorry, no. This would shift all following deadlines. With Ascencion also during the summer semester, this would de synchronize the deadlines from the lectures.",
+                                    "Response to": "p1071121"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "What should happen with the old regA, regB, regC in ex.3",
+                            "Discussion_Id": "594793",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070700",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-05-15T22:43:37+02:00",
+                                    "Content": "In ex.3 we should: \"Replace your current register implementation of student_rlight.sv, i.e. the tul_adapter_reg and the read/write processes operating on the register bus by instantiating the generated RTL from rvlab/build/reggen/generate/rtl/student_rlight_reg_top.v.\"  I don't really understand, what will happen with our old regA,regB,regC etc.  thank you",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070738",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-16T08:37:06+02:00",
+                                    "Content": "Your old implementation from ex1 (e.g. \"regA/B/C\") will be replaced by the generated code student_rlight_reg_top.v.",
+                                    "Response to": "p1070700"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "wr_en/we signal from prim_subreg; ex3",
+                            "Discussion_Id": "594795",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070703",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-05-15T23:14:22+02:00",
+                                    "Content": "Hello,  Does the wr_en signal of a prim_subreg show me the access time of the software or which signal would be recommended?  Thanks in advance",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070737",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-16T08:35:21+02:00",
+                                    "Content": "Please refer to slides 11 & 13 of ex.3. (\"write strobe qe\")",
+                                    "Response to": "p1070703"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wo kommt die Base-Address her?",
+                            "Discussion_Id": "594712",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070581",
+                                    "Author": "Nils Oskar Nuernbergk",
+                                    "DateTime": "2024-05-15T16:15:21+02:00",
+                                    "Content": "In Ex. 3 setzen wir die Base Address in rvlab.h auf 0x10000000. Diesen Wert haben wir quasi aus der gegebenen main.c übernommen, da dort die Register bei dieser Adresse anfingen. Es funktioniert im Prinzip auch alles wie erwartet. Meine Frage ist nur, woher dieser Wert kommt. Ist der irgendwo festgeschrieben? In unserer eigenen student_rlight.sv und .hjson legen wir ja nichts dergleichen fest (..was ja auch Sinn macht, die Adressen sollen ja relativ zu der Base Address funktionieren).",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070591",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-15T16:30:06+02:00",
+                                    "Content": "Die Addressen werden beim Erzeugen des Hauptswitches und des Peri 1:N Mux  vergeben, s. rvlab/src/design/tlgen/xbar_main.hjson rvlab/src/design/tlgen/xbar_peri.hjson",
+                                    "Response to": "p1070581"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Register Bus und Kommunikation zwischen den Komponenten",
+                            "Discussion_Id": "594669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070518",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-05-15T14:33:38+02:00",
+                                    "Content": "Hi,  mir sind folgende Sachen noch unklar bzgl. wie nun eigentlich das Student Modul mit den anderen Komponenten kommuniziert: 1. Was ist mit register Bus gemeint? 2. Wie ist es möglich, dass die Software über einen Memory write/read das Student Modul ansteuern kann? Irgendwie müssen ja die Register wdata und regA beschrieben werden, zudem müssen die Leitungen we und re entsprechend gesetzt werden. Kann mir jemand files empfehlen wo ich nachgucken sollte, um das besser nachzuvollziehen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070534",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-15T15:10:34+02:00",
+                                    "Content": "1. \"register bus\" ist der bus welches euer Lauflicht seit der ersten Übung benutzt. Er kommt vom Modul  tul_adapter_reg. Das Diagramm auf der Seite von ex1 zeigt die Zusammenhänge, 2. ... Irgendwie müssen ja die Register wdata und regA beschrieben werden, zudem müssen die Leitungen we und re entsprechend gesetzt werden. ... Die Register werden im json File beschrieben und das register Tool generiert daraus die RTL Beschreibung. Kann mir jemand files empfehlen wo ich nachgucken sollte, um das besser nachzuvollziehen? Slides und Aufgabenblätter von ex3 & ex4  das Modul \"regdemo\": src/design/reggen/regdemo.hjson src/rtl/rvlab_fpga/rvlab_regdemo.sv build/reggen/generate/rtl/regdemo*",
+                                    "Response to": "p1070518"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ex3. register definition key hwext",
+                            "Discussion_Id": "594436",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070132",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-05-14T17:09:51+02:00",
+                                    "Content": "Hello everyone,  could anyone explain, what is the real usage of hwext?  When and why should one use it?  Thanks in advance  Best regards  Hejie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Signale in der Netlist simulation hinzufügen?",
+                            "Discussion_Id": "593327",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068359",
+                                    "Author": "Adam Gabriel Knothe",
+                                    "DateTime": "2024-05-08T16:02:27+02:00",
+                                    "Content": "Hallo, ich wollte fragen, wo oder wie ich Signale in die Netzlistensimulation einfügen kann, die ich in der Basissimulation nicht gefunden habe.  Ist es möglich, eine Sprechtunde oder etwas zu haben, wo dies gezeigt werden könnte?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069247",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-12T23:58:50+02:00",
+                                    "Content": "Das Hinzufügen von Signalen in der Netzlistensimulation funktioniert genauso wie bei der RTL Simulation (d.h. wie im Questa Sim Tutorial beschrieben). In der Netzliste besteht das Design nur aus Technologieelementen (z.B. FlipFlops oder LUTs), welche im Simulator als jeweils eigene Instanzen in der Designhierarchie aufgeführt werden. Euer state \"register\" z.B. besteht also aus mehreren Instanzen (Flip Flops) mit jeweils einem eigenen Ausgangsbit.",
+                                    "Response to": "p1068359"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reg type variable assignment",
+                            "Discussion_Id": "593506",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068643",
+                                    "Author": "Zuyi Liang",
+                                    "DateTime": "2024-05-09T17:50:27+02:00",
+                                    "Content": "We wrote something like this: reg [1:0] regA; reg [31:0] regB; reg [23:0] regC; assign regA=reg2hw.regabullshit; assign regB=reg2hw.regb; assign regC=reg2hw.regc;  Isn't it true that we cannot use assign for a reg variable? But when we wrote this and did the simulation, it compiled and there was no errors. How come? Are we allowed to do this? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069244",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-12T23:47:17+02:00",
+                                    "Content": "Hi Zuyi, reg & wire are legacy types originating from a very old version of Verilog. We (strongly) recommend to use only \"logic\" as introduced in the System Verilog crash course. If you are interested in details originating from the (convoluted) history of Verilog please refer to the LRM (Language reference manual) linked on the resources page of the rvlab documentation. Yours, Marco",
+                                    "Response to": "p1068643"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "can't seem to find rvlab/src/rlight/main.c",
+                            "Discussion_Id": "591388",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065321",
+                                    "Author": "Shuhan Miao",
+                                    "DateTime": "2024-04-30T21:35:54+02:00",
+                                    "Content": "Hi, today we tried to look at exercise 2 but were not able to find this file. Does anyone know where it's located? Greetings, Shuhan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065891",
+                                    "Author": "Shuhan Miao",
+                                    "DateTime": "2024-05-02T14:28:37+02:00",
+                                    "Content": "we already found it",
+                                    "Response to": "p1065321"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ex2: relaxed specification of deliverable",
+                            "Discussion_Id": "591679",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065783",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-05-02T12:18:13+02:00",
+                                    "Content": "Hi, on request by a group bold sections were changed to accomodate a wider range of implementations. changed Two complete cycles with the following configurations: #. mode=right, initial pattern=11111110, pause = 1 cycle #. mode=ping-pong, initial pattern=10000000, pause = 0 cycles (i.e. the pattern changes every clock cycle) to Two complete cycles with the following configurations: mode=right, initial pattern=11111110, pattern advances every 2nd clock cycle mode=ping-pong, initial pattern=10000000, pattern advances every clock cycle  Git has been updated accordingly.  Yours,  Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Instructions language of the course",
+                            "Discussion_Id": "591175",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065011",
+                                    "Author": "Mohamed Mohamed Abdellatif Abdelgawad",
+                                    "DateTime": "2024-04-30T12:35:44+02:00",
+                                    "Content": "Dear Instructors, As my understanding the language of the course is English.. Unfortunately the lab sessions are thought in German..which means losing lot of valuable discussions and knowledge in the lab topics which are essential part of the course, because not every details are in the slides. Evn non German speakers can't ask reasonable questions because the context is lost. .. so would you please take into consideration that not all students speaks German , but clearly all students speaks English. Already I registered to the course based on the course description and left other courses chance for this one, so even dropping from the course is double lose.. Best regards  Mohamed Abdelgawad",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065223",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-04-30T16:58:19+02:00",
+                                    "Content": "Dear Mohamed, we fully understand your concern that students not having a minimum knowledge of German might have issues following the lab. Giving that the official module description in Moses explicitly lists \"German\" as the language of the lab course (the default description of the module is also in German - so we are not sure how your \"understanding the language of the course is English\" developed) I offered to switch to English (in English and German) during the 1st mandatory session of the lab but the majority of students voted for German and against English as the language of instruction for the lab. I am sorry but we can (only) offer to answer any question asked in English in English. Yours, Marco",
+                                    "Response to": "p1065011"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Only PDF files",
+                            "Discussion_Id": "591029",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064794",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-04-29T23:15:43+02:00",
+                                    "Content": "We can't upload our code because the tools does only accept pdf files.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064795",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-04-29T23:27:07+02:00",
+                                    "Content": "yeah you're supposed to explain what you did",
+                                    "Response to": "p1064794"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Excercise1. Are we allowed to use `less` than 4 registers?",
+                            "Discussion_Id": "590470",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063931",
+                                    "Author": "Shuhan Miao",
+                                    "DateTime": "2024-04-28T09:13:34+02:00",
+                                    "Content": "It says: `A maximum of four 32bit addresses (relative addresses 0x0, 0x4, 0x8, 0xC) of the address space may be used to access the registers of the running light.` If I understand correctly, `may` is not compulsory, and here only maximum is specified not minimum, so we can use less than 4 is that incorrect?  Later it says `All registers should be read and written at least once.` When you say `All` do you mean all registers that we create or, all four registers?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064070",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-04-28T23:15:13+02:00",
+                                    "Content": "1. Yes you can use less than 4 registers. 2. 'All' refers to the registers you create.",
+                                    "Response to": "p1063931"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Incorrect ISIS submission deadline for exercise 1?",
+                            "Discussion_Id": "590551",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064060",
+                                    "Author": "Maximilian Joel Kamps",
+                                    "DateTime": "2024-04-28T22:22:55+02:00",
+                                    "Content": "All the other exercises are due on the night from Monday to Tuesday, but the first one is due on the night from Sunday to Monday. That's not intentional, right?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064069",
+                                    "Author": "Marco Liem",
+                                    "DateTime": "2024-04-28T23:12:49+02:00",
+                                    "Content": "Yes. Changed.",
+                                    "Response to": "p1064060"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "git push/write acces to the Rvlab repo",
+                            "Discussion_Id": "589651",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062713",
+                                    "Author": "Hejie Zhu",
+                                    "DateTime": "2024-04-25T09:07:20+02:00",
+                                    "Content": "Hello,  i wanted to know, if we have write access to the git repository, to push for example our own branches? If not, what else is suggested to do?  Thank you  Best regards,  Hejie",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062770",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-25T10:27:01+02:00",
+                                    "Content": "Dear Hejie,  please create a private fork of the rvlab repository at git.tu-berlin.de and give write access to your fellow group members. You can then work together using that private fork.  All the best, Tobias",
+                                    "Response to": "p1062713"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second date for MC Test",
+                            "Discussion_Id": "588525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060955",
+                                    "Author": "Jonathan Benno Wendler",
+                                    "DateTime": "2024-04-22T15:57:18+02:00",
+                                    "Content": "Hey   Unfortunately I cannot attend the MC Test on the new date (25.7.)   Is there a possibility to have a second option   Best, Jonathan ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060991",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-22T16:37:32+02:00",
+                                    "Content": "Hi Jonathan,  thanks for letting me know. It seems to me that we will not find a single date that works for everyone then. I will discuss this internally and check that we can offer a second exam date. I will keep you all updated.  All the best, Tobias",
+                                    "Response to": "p1060955"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Format of the Module",
+                            "Discussion_Id": "584750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055290",
+                                    "Author": "Nasuh Ege Acikgöz",
+                                    "DateTime": "2024-04-05T14:19:55+02:00",
+                                    "Content": "Hi, I would already like to know if the whole module will take place in person, or if there will be the possibility to take part in some appointments online. Thanks a lot in advance. Best regards, Ege",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1055291",
+                                    "Author": "Tobias Christian Kaiser",
+                                    "DateTime": "2024-04-05T14:33:17+02:00",
+                                    "Content": "Hi Ege,  both lecture and weekly project sessions will take place in person. I have edited the ISIS page a bit to clarify this now.  All the best, Tobias",
+                                    "Response to": "p1055290"
+                                },
+                                {
+                                    "Message_id": "p1055296",
+                                    "Author": "Nasuh Ege Acikgöz",
+                                    "DateTime": "2024-04-05T15:03:44+02:00",
+                                    "Content": "Hi Tobias,  thanks for the quick reply.  Best, Ege",
+                                    "Response to": "p1055291"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion group to find group members",
+                    "Forum_id": "1823858",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "looking for a new group",
+                            "Discussion_Id": "596754",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073728",
+                                    "Author": "Daniel Haberling",
+                                    "DateTime": "2024-05-26T14:12:07+02:00",
+                                    "Content": "Hello,  I am looking for a new group , if your group got a space left or you are also looking , please contact me via ISIS.  regards , Daniel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New Group (capacity for two members)",
+                            "Discussion_Id": "596584",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073433",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-05-24T15:50:50+02:00",
+                                    "Content": "Hi, when you like to join our group, we have 2 places left. Feel free the message me!  kind regards Naval and Armin",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073456",
+                                    "Author": "Armin Puran Youssef",
+                                    "DateTime": "2024-05-24T17:08:07+02:00",
+                                    "Content": "Correction: one place is left",
+                                    "Response to": "p1073433"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for another group of two",
+                            "Discussion_Id": "594360",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070027",
+                                    "Author": "Erik Felgendreher",
+                                    "DateTime": "2024-05-14T14:40:43+02:00",
+                                    "Content": "Hi, as of yesterday we are down to two people in our group, so if there are any other groups of two we could join up. Best regards!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Excercise1. Are we allowed to use `less` than 4 registers?",
+                            "Discussion_Id": "590464",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063917",
+                                    "Author": "Juan Nicolas Pardo Martin",
+                                    "DateTime": "2024-04-27T22:44:26+02:00",
+                                    "Content": "It says: `A maximum of four 32bit addresses (relative addresses 0x0, 0x4, 0x8, 0xC) of the address space may be used to access the registers of the running light.` If I understand correctly, `may` is not compulsory, and here only maximum is specified not minimum, so we can use less than 4 is that incorrect?  Later it says `All registers should be read and written at least once.` When you say `All` do you mean all registers that we create or, all four registers?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "looking for a fourth group member",
+                            "Discussion_Id": "588919",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061547",
+                                    "Author": "Marvin Dietrich",
+                                    "DateTime": "2024-04-23T14:03:47+02:00",
+                                    "Content": "Hello, we are looking for a fourth group member. Please dm me, if youre searching for a group :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

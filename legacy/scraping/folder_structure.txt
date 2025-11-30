@@ -1,0 +1,873 @@
+.
+└── pdf_data
+    ├── 20735
+    ├── 21917
+    ├── 23037
+    ├── 25400
+    ├── 25495
+    ├── 25797
+    ├── 26537
+    │   ├── Blatt01-public.pdf
+    │   ├── Blatt02-public (1).pdf
+    │   ├── Blatt02-public.pdf
+    │   ├── Blatt03-public.pdf
+    │   ├── Blatt05-public.pdf
+    │   ├── Blatt06-public.pdf
+    │   ├── Blatt07-public (1).pdf
+    │   ├── Blatt07-public.pdf
+    │   ├── Blatt08-public.pdf
+    │   ├── ckurs-tag4.pdf
+    │   ├── introprog-v03-komplexitaet.pdf
+    │   ├── introprog-v08-korrektheit.pdf
+    │   └── wiederholung-ws1920.pdf
+    ├── 26553
+    ├── 26859
+    ├── 26884
+    ├── 27692
+    ├── 27804
+    ├── 27844
+    │   ├── 2020-14-Oct-Data Science and Engineering Masters Track-v4.1.pdf
+    │   └── DataScienceEngineeringTrack-v22.pdf
+    ├── 27943
+    ├── 28163
+    │   ├── 2019-AlgoDat-Exam1.pdf
+    │   └── 2019-AlgoDat-Exam2.pdf
+    ├── 28232
+    ├── 28476
+    │   ├── blatt3_lsg.pdf
+    │   └── blatt3.pdf
+    ├── 28622
+    ├── 28781
+    ├── 28792
+    │   ├── FoSA.1718-Exam-Klausur-Tut.pdf
+    │   ├── FoSA.1718-Exam-Nachklausur-Tut.pdf
+    │   ├── FoSA.1819-Exam-Klausur-Tut.pdf
+    │   └── FoSA.1819-Exam-Nachklausur-Tut.pdf
+    ├── 29166
+    ├── 29168
+    ├── 30325
+    │   ├── 04.11.2022 1417.pdf
+    │   ├── 11.11.2022 1420.pdf
+    │   ├── 13.01.2023 1409.pdf
+    │   ├── 16.12.2022 1419.pdf
+    │   ├── 25.11.2022 1417.pdf
+    │   ├── 27.01.2023 1415.pdf
+    │   ├── 3_2_singulaerwertzerlegung.pdf
+    │   ├── Gleitkommazahlen1.pdf
+    │   ├── Vorlesung_4_1_Globale_Interpolation.pdf
+    │   ├── WR_Gro__bung-9.pdf
+    │   ├── WR_Großübung0_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung0.pdf
+    │   ├── WR_Großübung1.1_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung1.1.pdf
+    │   ├── WR_Großübung1.2_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung1.2.pdf
+    │   ├── WR_Großübung2.1_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung2.1.pdf
+    │   ├── WR_Großübung2.2_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung2.2.pdf
+    │   ├── WR_Großübung3.1_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung3.1.pdf
+    │   ├── WR_Großübung3.2_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung3.2.pdf
+    │   ├── WR_Großübung4.1_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung4.1.pdf
+    │   ├── WR_Großübung5.1_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung5.1.pdf
+    │   ├── WR_Großübung5.2_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung5.2.pdf
+    │   ├── WR_Großübung6.1_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung6.1.pdf
+    │   ├── WR_Großübung6.2_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung6.2.pdf
+    │   ├── WR_Großübung7_Lösungsvorschläge.pdf
+    │   ├── WR_Großübung7.pdf
+    │   ├── wr-skript.pdf
+    │   └── WRVL2.pdf
+    ├── 30385
+    │   ├── AllInOne_annotated.pdf
+    │   ├── AllInOne.pdf
+    │   ├── aufzaehlbarkeit_annotated.pdf
+    │   ├── aufzaehlbarkeit.pdf
+    │   ├── BeKo Cheat Sheet.pdf
+    │   ├── BeKo Modulkonf 02.02.2023 1614.pdf
+    │   ├── BeKo Modulkonf 03.11.2022 1609.pdf
+    │   ├── BeKo Modulkonf 05.01.2023 1559.pdf
+    │   ├── BeKo Modulkonf 12.01.2023 1610.pdf
+    │   ├── BeKo Modulkonf 20.10.2022 1549.pdf
+    │   ├── BeKo Modulkonf 26.01.2023 1612.pdf
+    │   ├── BeKo Modulkonf 27.10.2022 1543.pdf
+    │   ├── BeKo Modulkonferenz 08.12.2022 1607.pdf
+    │   ├── BeKo Modulkonferenz 17.11.2022 1603.pdf
+    │   ├── BeKo Modulkonferenz 24.11.2022 1602.pdf
+    │   ├── Beko Modulkoonferenz 10.11.2022 1606.pdf
+    │   ├── Blatt_00.pdf
+    │   ├── Blatt_01 (1).pdf
+    │   ├── Blatt_01.pdf
+    │   ├── Blatt_02 (1).pdf
+    │   ├── Blatt_02.pdf
+    │   ├── Blatt_03 (1).pdf
+    │   ├── Blatt_03.pdf
+    │   ├── Blatt_04 (1).pdf
+    │   ├── Blatt_04.pdf
+    │   ├── Blatt_05 (1).pdf
+    │   ├── Blatt_05.pdf
+    │   ├── Blatt_06 (1).pdf
+    │   ├── Blatt_06.pdf
+    │   ├── Blatt_07 (1).pdf
+    │   ├── Blatt_07.pdf
+    │   ├── Blatt_08 (1).pdf
+    │   ├── Blatt_08.pdf
+    │   ├── Blatt_09 (1).pdf
+    │   ├── Blatt_09.pdf
+    │   ├── Blatt_10 (1).pdf
+    │   ├── Blatt_10.pdf
+    │   ├── Blatt_11 (1).pdf
+    │   ├── Blatt_11.pdf
+    │   ├── Blatt_12 (1).pdf
+    │   ├── Blatt_12.pdf
+    │   ├── Blatt_13 (1).pdf
+    │   ├── Blatt_13.pdf
+    │   ├── Blatt_14 (1).pdf
+    │   ├── Blatt_14.pdf
+    │   ├── Blatt_15 (1).pdf
+    │   ├── Blatt_15.pdf
+    │   ├── busybeaver_annotated.pdf
+    │   ├── busybeaver.pdf
+    │   ├── coNP-annotated.pdf
+    │   ├── coNP.pdf
+    │   ├── faq.pdf
+    │   ├── flussdiagramm-portfolio.pdf
+    │   ├── halteproblem_annotated.pdf
+    │   ├── halteproblem.pdf
+    │   ├── hausaufgabe (1).pdf
+    │   ├── hausaufgabe.pdf
+    │   ├── hausaufgabe-wdh.pdf
+    │   ├── komplexitaet1_annotated.pdf
+    │   ├── komplexitaet1.pdf
+    │   ├── mc-test-A.pdf
+    │   ├── mc-test-B.pdf
+    │   ├── NPc_reductions-annotated.pdf
+    │   ├── NPc_reductions.pdf
+    │   ├── NP_voll_annotated.pdf
+    │   ├── NP_voll.pdf
+    │   ├── PCP_annotated.pdf
+    │   ├── PCP.pdf
+    │   ├── PSPACE_annotated.pdf
+    │   ├── PSPACE.pdf
+    │   ├── reduzierbarkeit_annotated.pdf
+    │   ├── reduzierbarkeit.pdf
+    │   ├── rice_annotated.pdf
+    │   ├── rice.pdf
+    │   ├── Satz von Cook_annotated.pdf
+    │   ├── Satz von Cook.pdf
+    │   ├── slides_1.pdf
+    │   ├── slides2.pdf
+    │   ├── slides3-LOOP_WHILE_GOTO.pdf
+    │   ├── slides4-primitive_Rekursion.pdf
+    │   ├── slides5.pdf
+    │   ├── slides_annotated_1.pdf
+    │   ├── slides_annotated_2.pdf
+    │   ├── slides_annotated3.pdf
+    │   ├── slides_annotated4.pdf
+    │   ├── slides_annotated5.pdf
+    │   ├── sose17_lsg.pdf
+    │   ├── sose17.pdf
+    │   ├── ws1819_lsg.pdf
+    │   └── ws1819.pdf
+    ├── 30849
+    │   ├── blatt01.pdf
+    │   ├── blatt02.pdf
+    │   ├── blatt03.pdf
+    │   ├── blatt04.pdf
+    │   ├── blatt05.pdf
+    │   ├── blatt06.pdf
+    │   ├── blatt07_lsg.pdf
+    │   ├── blatt07.pdf
+    │   ├── blatt08_lsg.pdf
+    │   ├── blatt08.pdf
+    │   ├── blatt09_lsg.pdf
+    │   ├── blatt09.pdf
+    │   ├── blatt10_lsg.pdf
+    │   ├── blatt10.pdf
+    │   ├── blatt11_lsg.pdf
+    │   ├── blatt11.pdf
+    │   ├── blatt12_lsg.pdf
+    │   ├── blatt12.pdf
+    │   ├── blatt13_lsg.pdf
+    │   ├── blatt13.pdf
+    │   ├── blatt14_lsg.pdf
+    │   ├── blatt14.pdf
+    │   ├── blatt15_lsg.pdf
+    │   ├── blatt15.pdf
+    │   ├── ha-haskell.pdf
+    │   ├── ha-uml-ocl-beispielloesung.pdf
+    │   ├── ha-uml-ocl.pdf
+    │   ├── test_folder
+    │   ├── uebungsaufgaben-ot.pdf
+    │   ├── uebungsaufgaben-pt.pdf
+    │   ├── VL00_Organisatorisches.pdf
+    │   ├── VL01_Funktionale_Programmierung.pdf
+    │   ├── VL02_Logische_Programmierung.pdf
+    │   ├── VL03_Einfuehrung_und_Entwicklungsmodelle.pdf
+    │   ├── VL04_Codequalität.pdf
+    │   ├── VL05_Testen.pdf
+    │   ├── VL06_RequirementsEngineering.pdf
+    │   ├── VL07_AnalyseUndEntwurf_Struktur.pdf
+    │   ├── VL08_AnalyseUndEntwurf_Verhalten.pdf
+    │   ├── VL09_OCL.pdf
+    │   ├── VL10_Hoare.pdf
+    │   └── VL11_Implementierung.pdf
+    ├── 31139
+    │   ├── 2022-10-27-woche2.pdf
+    │   ├── 2022-11-10-woche4.pdf
+    │   ├── 2022-11-17-woche5.pdf
+    │   ├── 2022-11-24-woche6.pdf
+    │   ├── 2022-12-01-woche-7.pdf
+    │   ├── 2022-12-15-woche9.pdf
+    │   ├── 2023-01-05-woche-10.pdf
+    │   ├── 2023-01-26-woche-12.pdf
+    │   ├── 2023-02-02-woche13 (1).pdf
+    │   ├── 2023-02-02-woche13.pdf
+    │   ├── 2023-02-09-woche-14.pdf
+    │   ├── Annotierte Folien Woche 3.pdf
+    │   ├── FAQ.pdf
+    │   ├── folien-handout.pdf
+    │   ├── Folien Woche 3.pdf
+    │   ├── graphsheet.pdf
+    │   ├── ha00.pdf
+    │   ├── ha01 (1).pdf
+    │   ├── ha01.pdf
+    │   ├── ha02 (1).pdf
+    │   ├── ha02.pdf
+    │   ├── ha03 (1).pdf
+    │   ├── ha03.pdf
+    │   ├── ha04 (1).pdf
+    │   ├── ha04.pdf
+    │   ├── ha06.pdf
+    │   ├── ha07.pdf
+    │   ├── ha08.pdf
+    │   ├── ha09.pdf
+    │   ├── ha10.pdf
+    │   ├── ha11.pdf
+    │   ├── ha12.pdf
+    │   ├── ha13.pdf
+    │   ├── logik.pdf
+    │   ├── Modulbeschreibung Logik (26.09.2022).pdf
+    │   ├── sequentcalculusrules.pdf
+    │   ├── tut00 (1).pdf
+    │   ├── tut00.pdf
+    │   ├── tut01 (1).pdf
+    │   ├── tut01.pdf
+    │   ├── tut02 (1).pdf
+    │   ├── tut02.pdf
+    │   ├── tut03 (1).pdf
+    │   ├── tut03.pdf
+    │   ├── tut04 (1).pdf
+    │   ├── tut04.pdf
+    │   ├── tut05 (1).pdf
+    │   ├── tut05.pdf
+    │   ├── tut06 (1).pdf
+    │   ├── tut06.pdf
+    │   ├── tut07 (1).pdf
+    │   ├── tut07.pdf
+    │   ├── tut08 (1).pdf
+    │   ├── tut08.pdf
+    │   ├── tut09 (1).pdf
+    │   ├── tut09.pdf
+    │   ├── tut10 (1).pdf
+    │   ├── tut10.pdf
+    │   ├── tut11 (1).pdf
+    │   ├── tut11.pdf
+    │   ├── tut12 (1).pdf
+    │   ├── tut12.pdf
+    │   ├── tut13 (1).pdf
+    │   ├── tut13.pdf
+    │   ├── tut14 (1).pdf
+    │   ├── tut14.pdf
+    │   ├── tut15.pdf
+    │   ├── woche11 neu.pdf
+    │   ├── woche14-handout.pdf
+    │   ├── woche2-handout.pdf
+    │   └── woche8.pdf
+    ├── 31508
+    │   ├── Datenpfad-Einfache-Pipeline.pdf
+    │   ├── Datenpfad-Erweiterte-Pipeline.pdf
+    │   ├── Eintaktdatenpfad.pdf
+    │   └── MIPS_Green_Card.pdf
+    ├── 31624
+    │   ├── 2023-AlgoDat-Exam1.pdf
+    │   ├── 2023-AlgoDat-Exam2-Lsg.pdf
+    │   ├── 2023-AlgoDat-Exam2.pdf
+    │   ├── 2023-AlgoDat-Vorlesung00_print (1).pdf
+    │   ├── 2023-AlgoDat-Vorlesung00_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung01_print (1).pdf
+    │   ├── 2023-AlgoDat-Vorlesung01_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung02_print (1).pdf
+    │   ├── 2023-AlgoDat-Vorlesung02_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung03_print (1).pdf
+    │   ├── 2023-AlgoDat-Vorlesung03_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung04_print (1).pdf
+    │   ├── 2023-AlgoDat-Vorlesung04_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung05_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung06_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung07.pdf
+    │   ├── 2023-AlgoDat-Vorlesung07_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung08_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung09_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung10_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung11_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung12_print.pdf
+    │   ├── 2023-AlgoDat-Vorlesung13_print.pdf
+    │   ├── Blatt00 (1).pdf
+    │   ├── Blatt00.pdf
+    │   ├── Blatt01 (1).pdf
+    │   ├── Blatt01.pdf
+    │   ├── zuweisung2.pdf
+    │   └── zuweisung.pdf
+    ├── 32559
+    │   ├── FAQ.pdf
+    │   ├── ForSA.21-Exam-Klausur-Tut.pdf
+    │   ├── ForSA.21-Exam-Nachklausur-Tut.pdf
+    │   ├── ForSA.22-Exam-Klausur-Tut (1).pdf
+    │   ├── ForSA.22-Exam-Klausur-Tut.pdf
+    │   ├── ForSA.22-Exam-Nachklausur-Tut (1).pdf
+    │   ├── ForSA.22-Exam-Nachklausur-Tut.pdf
+    │   ├── FoSA.1516-Exam-Klausur-Tut.pdf
+    │   ├── FoSA.1516-Exam-Nachklausur-Tut.pdf
+    │   ├── FoSA.1617-Exam-Klausur-Tut.pdf
+    │   ├── FoSA.1617-Exam-Nachklausur-Tut.pdf
+    │   ├── FoSA.1718-Exam-Klausur-Tut.pdf
+    │   ├── FoSA.1718-Exam-Nachklausur-Tut.pdf
+    │   ├── FoSA.1819-Exam-Klausur-Tut.pdf
+    │   └── FoSA.1819-Exam-Nachklausur-Tut.pdf
+    ├── 32910
+    │   ├── ISDA_Org.pdf
+    │   └── Modulbeschreibung Informationssysteme und Datenanalyse (17.04.2023).pdf
+    ├── 32913
+    ├── 33600
+    │   ├── AsymtNormalitäz.pdf
+    │   ├── Blatt10.pdf
+    │   ├── Blatt11.pdf
+    │   ├── Blatt2.pdf
+    │   ├── Blatt3.pdf
+    │   ├── Blatt4.pdf
+    │   ├── Blatt5.pdf
+    │   ├── Blatt6.pdf
+    │   ├── Blatt7.pdf
+    │   ├── Blatt8.pdf
+    │   ├── Blatt9.pdf
+    │   ├── ChiSqTests.pdf
+    │   ├── Einführung_und_Organisatorisches.pdf
+    │   ├── Klausur_06_10_Lösungen.pdf
+    │   ├── Klausurvorbereitung-C.pdf
+    │   ├── Konfidenzintervalle.pdf
+    │   ├── LinModII.pdf
+    │   ├── LinModI.pdf
+    │   ├── LinRegII.pdf
+    │   ├── LinReg.pdf
+    │   ├── MaximumLikelihood.pdf
+    │   ├── Probeklausur_Stoch_fuer_Info.pdf
+    │   ├── Skript1_3.pdf
+    │   ├── Testen_Handout.pdf
+    │   ├── Tutorienliste.pdf
+    │   └── ÜbungsaufgabenKW26.pdf
+    ├── 33704
+    │   ├── 00-KIsemIntro.pdf
+    │   ├── 01-ReadingAssignments.pdf
+    │   ├── 02-ReviewReadingAssignments.pdf
+    │   └── 03-LiteratureAssignment.pdf
+    ├── 34272
+    ├── 34273
+    ├── 34738
+    │   ├── 01.12.2023 1408.pdf
+    │   ├── 02.02.2024 1413.pdf
+    │   ├── 03.11.2023 1403.pdf
+    │   ├── 08.12.2023 1404.pdf
+    │   ├── 09.02.2024 1416.pdf
+    │   ├── 1_1.pdf
+    │   ├── 16.12.2022 1419.pdf
+    │   ├── 19.01.2024 1416.pdf
+    │   ├── 2_1.pdf
+    │   ├── 26.01.2024 1414.pdf
+    │   ├── 3.1.pdf
+    │   ├── 5.1.pdf
+    │   ├── Großübung5.pdf
+    │   ├── Thema2.2.pdf
+    │   ├── Übung1.1_Lösungsvorschläge.pdf
+    │   ├── Übung1.1.pdf
+    │   ├── Übung1.2_Lösungsvorschläge.pdf
+    │   ├── Übung1.2.pdf
+    │   ├── Übung2.1_Lösungsvorschläge.pdf
+    │   ├── Übung2.1.pdf
+    │   ├── Übung2.2_Lösungsvorschläge.pdf
+    │   ├── Übung2.2.pdf
+    │   ├── Übung3.1_Lösungsvorschläge.pdf
+    │   ├── Übung3.1.pdf
+    │   ├── Übung3.2_Lösungsvorschläge.pdf
+    │   ├── Übung3.2.pdf
+    │   ├── Übung4.1_Lösungsvorschläge.pdf
+    │   ├── Übung4.1.pdf
+    │   ├── Übung4.2_Lösungsvorschläge.pdf
+    │   ├── Übung4.2.pdf
+    │   ├── Übung4.3_Lösungsvorschläge.pdf
+    │   ├── Übung4.3.pdf
+    │   ├── Übung5.1_Lösungsvorschläge.pdf
+    │   ├── Übung5.1.pdf
+    │   ├── Übung5.2_Lösungsvorschläge.pdf
+    │   ├── Übung5.2.pdf
+    │   ├── Übung6.1_Lösungsvorschläge.pdf
+    │   ├── Übung6.1.pdf
+    │   ├── Übung6.2_Lösungsvorschläge.pdf
+    │   ├── Übung6.2.pdf
+    │   ├── Übung7_Lösungsvorschläge.pdf
+    │   ├── Übung7.pdf
+    │   ├── VL4.2_Tafelbild.pdf
+    │   └── wr-skript.pdf
+    ├── 34749
+    │   ├── 00-org.pdf
+    │   ├── 01-introduction.pdf
+    │   ├── 02-protocols.pdf
+    │   ├── 03-application.pdf
+    │   ├── 04-web-services.pdf
+    │   ├── 05-dht.pdf
+    │   ├── 06-time-sync.pdf
+    │   ├── 07-error-control.pdf
+    │   ├── 08-transport.pdf
+    │   ├── 09-network.pdf
+    │   ├── 10-ip.pdf
+    │   ├── 11-data-link.pdf
+    │   ├── 12-wlan.pdf
+    │   ├── theorie1.loesung.pdf
+    │   ├── theorie1.pdf
+    │   ├── theorie2.loesung.pdf
+    │   ├── theorie2.pdf
+    │   ├── theorie3.loesung.pdf
+    │   ├── theorie3.pdf
+    │   ├── theorie4.loesung.pdf
+    │   ├── theorie4.pdf
+    │   ├── theorie5.loesung.pdf
+    │   ├── theorie5.pdf
+    │   ├── theorie6.loesung.pdf
+    │   └── theorie6.pdf
+    ├── 34904
+    │   ├── 1861-algorithms-for-non-negative-matrix-factorization.pdf
+    │   ├── 44565.pdf
+    │   ├── Bias-Variance, ISLR.pdf
+    │   ├── Bishop-Clustering.pdf
+    │   ├── Bishop-KernelMethods.pdf
+    │   ├── Bishop-LDA.pdf
+    │   ├── Bishop-OLS.pdf
+    │   ├── Bishop-PCA.pdf
+    │   ├── ca_ex2_slides-annotated.pdf
+    │   ├── ca_ex3_slides_annotated.pdf
+    │   ├── CA___Exercise_5.pdf
+    │   ├── CA_In_Person_Tutorial_1.pdf
+    │   ├── CA_notation.pdf
+    │   ├── ca_test_exam.pdf
+    │   ├── CA_Tut_3.pdf
+    │   ├── CA___Tut_4_WiSe2324.pdf
+    │   ├── Cognitive_Algorithms__Tutorial_2.pdf
+    │   ├── Cognitive_Algorithms_WS2324_Test_Exam_solutions.pdf
+    │   ├── CV, ISLR.pdf
+    │   ├── Exercise1_Solution_StarExercises.pdf
+    │   ├── Exercise2_Solution_StarExercises.pdf
+    │   ├── Exercise5_Solution_StarExercises.pdf
+    │   ├── Hasties-OLS.pdf
+    │   ├── Jaekel_et_al.pdf
+    │   ├── kernel_methods_pattern_analysis.pdf
+    │   ├── KPCA.pdf
+    │   ├── LDA, ISLR.pdf
+    │   ├── LDA, Marsland.pdf
+    │   ├── LDA_Whitening.pdf
+    │   ├── lecture1_handout.pdf
+    │   ├── lecture1_orig.pdf
+    │   ├── lecture2_original.pdf
+    │   ├── lecture2.pdf
+    │   ├── lecture_kernels (1).pdf
+    │   ├── lecture_kernels.pdf
+    │   ├── lecture_LR (1).pdf
+    │   ├── lecture_LR.pdf
+    │   ├── lecture_unsupervised (1).pdf
+    │   ├── lecture_unsupervised.pdf
+    │   ├── ml_cookbook.pdf
+    │   ├── MLP_lecture (1).pdf
+    │   ├── MLP_lecture.pdf
+    │   ├── MLP-Marsland.pdf
+    │   ├── MLP_Tutorial.pdf
+    │   ├── NCC_Perceptron.pdf
+    │   ├── Overfitting, Bishop .pdf
+    │   ├── PCA, Marsland.pdf
+    │   ├── pca.pdf
+    │   ├── recap_lecture.pdf
+    │   └── Wrong CV, Hasties.pdf
+    ├── 35236
+    ├── 35394
+    │   ├── 00a_Intro-Überblick.pdf
+    │   ├── 00b_Formalia.pdf
+    │   ├── 01__BGB-Auszug.pdf
+    │   ├── 01_Recht-Eigentum-Transaktionen.pdf
+    │   ├── 02_Güterarten-Geist_Eigentum.pdf
+    │   ├── 04_Wettbewerb und Transaktionskosten.pdf
+    │   ├── 04_Wissenschaftliches Arbeiten.pdf
+    │   ├── 05_Informationsökonomie.pdf
+    │   ├── 06_Netzwerkökonomie.pdf
+    │   ├── 07_DigitaleTransformationen.pdf
+    │   ├── 08_Datenschutz_1.pdf
+    │   ├── 09_Datenschutz_2_windows_fonts.pdf
+    │   ├── 10_Surveillance.pdf
+    │   ├── 11_TechnikUndRegulierung_6.pdf
+    │   ├── 12_Ethik_II.pdf
+    │   ├── 12_Ethik_I.pdf
+    │   ├── 13_Roundup_Lehreval_etc.pdf
+    │   ├── Ablaufplan-IG-v0-14.pdf
+    │   ├── Aufgabenstellung Essay.pdf
+    │   ├── Aufgabenstellung Poster.pdf
+    │   ├── How_to_Essay (1).pdf
+    │   ├── How_to_Poster.pdf
+    │   ├── IG_Semesterthemen_WS23.pdf
+    │   ├── Internetrecht_30.03.2023.pdf
+    │   ├── Notenschlüssel.pdf
+    │   ├── Tut_02_Güterarten-Geist_Eigentum.pdf
+    │   ├── Tut_04_TXArten-Preismechanismen-kompVorteile.pdf
+    │   ├── TUT_05_InfOek.pdf
+    │   ├── TUT_06_NetzOek.pdf
+    │   ├── Tut_08_DS_Grundlagen.pdf
+    │   ├── Tut_09_Privacy_Engineering.pdf
+    │   ├── Tut_11_TechnikUndRegulierung.pdf
+    │   └── Zitationsquiz.pdf
+    ├── 35785
+    ├── 35958
+    │   ├── aufgabenstellung.pdf
+    │   ├── beispielloesung.pdf
+    │   ├── blatt01.pdf
+    │   ├── blatt02.pdf
+    │   ├── blatt03.pdf
+    │   ├── blatt04.pdf
+    │   ├── blatt05.pdf
+    │   ├── blatt06.pdf
+    │   ├── blatt07.pdf
+    │   ├── blatt08_lsg.pdf
+    │   ├── blatt08.pdf
+    │   ├── blatt09_lsg.pdf
+    │   ├── blatt09.pdf
+    │   ├── blatt10_lsg.pdf
+    │   ├── blatt10.pdf
+    │   ├── blatt11_lsg.pdf
+    │   ├── blatt11.pdf
+    │   ├── blatt12_lsg.pdf
+    │   ├── blatt12.pdf
+    │   ├── blatt13_lsg.pdf
+    │   ├── blatt13.pdf
+    │   ├── blatt14_lsg.pdf
+    │   ├── blatt14.pdf
+    │   ├── blatt15_lsg.pdf
+    │   ├── blatt15.pdf
+    │   ├── ha-haskell.pdf
+    │   ├── uebungsaufgaben-test1.pdf
+    │   ├── uebungsaufgaben-test2.pdf
+    │   ├── VL00_Organisatorisches.pdf
+    │   ├── VL01_Funktionale_Programmierung.pdf
+    │   ├── VL02_Logische_Programmierung.pdf
+    │   ├── VL03_Einfuehrung_und_Entwicklungsmodelle.pdf
+    │   ├── VL04_Codequalität.pdf
+    │   ├── VL05_Testen.pdf
+    │   ├── VL06_Hoare.pdf
+    │   ├── VL07_RequirementsEngineering.pdf
+    │   ├── VL08_AnalyseUndEntwurf_Struktur.pdf
+    │   ├── VL09_AnalyseUndEntwurf_Verhalten.pdf
+    │   ├── VL10_OCL.pdf
+    │   └── VL11_Implementierung.pdf
+    ├── 36003
+    │   ├── AllInOne_annotated.pdf
+    │   ├── AllInOne.pdf
+    │   ├── aufzaehlbarkeit_annotated.pdf
+    │   ├── aufzaehlbarkeit.pdf
+    │   ├── auswertung_ws2223.pdf
+    │   ├── BeKo Cheat Sheet.pdf
+    │   ├── BekoMC_24.10.2023 1413.pdf
+    │   ├── Beko MC 31.10.2023 1411.pdf
+    │   ├── BeKo_Modulkonf_07.11.2023 1416.pdf
+    │   ├── BeKo Modulkonf 12.12.2023 1410_annotated.pdf
+    │   ├── BeKo Modulkonf 14.11.2023 1410.pdf
+    │   ├── BeKo Modulkonf 16.01.2024.pdf
+    │   ├── BeKo Modulkonf 17.10.2023 1419.pdf
+    │   ├── BeKo Modulkonf 19.12.2023 1415.pdf
+    │   ├── BeKo Modulkonf 23.01.2024 1412.pdf
+    │   ├── BeKo Modulkonferenz 21.11.2023 1406.pdf
+    │   ├── Blatt_00.pdf
+    │   ├── Blatt_01 (1).pdf
+    │   ├── Blatt_01.pdf
+    │   ├── Blatt_02 (1).pdf
+    │   ├── Blatt_02.pdf
+    │   ├── Blatt_03 (1).pdf
+    │   ├── Blatt_03.pdf
+    │   ├── Blatt_04 (1).pdf
+    │   ├── Blatt_04.pdf
+    │   ├── Blatt_05 (1).pdf
+    │   ├── Blatt_05.pdf
+    │   ├── Blatt_06 (1).pdf
+    │   ├── Blatt_06.pdf
+    │   ├── Blatt_07 (1).pdf
+    │   ├── Blatt_07.pdf
+    │   ├── Blatt_08 (1).pdf
+    │   ├── Blatt_08.pdf
+    │   ├── Blatt_09 (1).pdf
+    │   ├── Blatt_09.pdf
+    │   ├── Blatt_10 (1).pdf
+    │   ├── Blatt_10.pdf
+    │   ├── Blatt_11 (1).pdf
+    │   ├── Blatt_11.pdf
+    │   ├── Blatt_12 (1).pdf
+    │   ├── Blatt_12.pdf
+    │   ├── Blatt_13 (1).pdf
+    │   ├── Blatt_13.pdf
+    │   ├── Blatt_14 (1).pdf
+    │   ├── Blatt_14.pdf
+    │   ├── Blatt_15 (1).pdf
+    │   ├── Blatt_15.pdf
+    │   ├── busybeaver_annotated.pdf
+    │   ├── busybeaver.pdf
+    │   ├── coNP-annotated.pdf
+    │   ├── coNP.pdf
+    │   ├── eval.pdf
+    │   ├── faq-portfolio.pdf
+    │   ├── flussdiagramm-portfolio.pdf
+    │   ├── Formelsammlung_ForSA_DS.pdf
+    │   ├── HA_beko_ws2324.pdf
+    │   ├── halteproblem_annotated.pdf
+    │   ├── halteproblem.pdf
+    │   ├── hausaufgabe.pdf
+    │   ├── klausur.pdf
+    │   ├── klausurvorbereitung.pdf
+    │   ├── komplexitaet1_annotated.pdf
+    │   ├── komplexitaet1.pdf
+    │   ├── mc-test.pdf
+    │   ├── Modulkonf 13.02.2024 1405.pdf
+    │   ├── NPc_reductions-annotated.pdf
+    │   ├── NPc_reductions.pdf
+    │   ├── NP_voll_annotated.pdf
+    │   ├── NP_voll.pdf
+    │   ├── PCP_annotated.pdf
+    │   ├── PCP.pdf
+    │   ├── PSPACE_annotated.pdf
+    │   ├── PSPACE.pdf
+    │   ├── reduzierbarkeit_annotated.pdf
+    │   ├── reduzierbarkeit.pdf
+    │   ├── rice_annotated.pdf
+    │   ├── rice.pdf
+    │   ├── Satz von Cook_annotated.pdf
+    │   ├── Satz von Cook.pdf
+    │   ├── slides_1.pdf
+    │   ├── slides2.pdf
+    │   ├── slides3-LOOP_WHILE_GOTO.pdf
+    │   ├── slides4-primitive_Rekursion.pdf
+    │   ├── slides5.pdf
+    │   ├── slides_annotated_1.pdf
+    │   ├── slides_annotated_2.pdf
+    │   ├── slides_annotated3.pdf
+    │   ├── slides_annotated4.pdf
+    │   ├── slides_annotated5.pdf
+    │   ├── sose17_lsg.pdf
+    │   ├── sose17.pdf
+    │   ├── wdh-hausaufgabe (1).pdf
+    │   ├── wdh-hausaufgabe.pdf
+    │   ├── wdh-klausur.pdf
+    │   ├── wdh-mc-test-lsg.pdf
+    │   ├── ws1819_lsg.pdf
+    │   └── ws1819.pdf
+    ├── 36725
+    │   ├── Datasheets_Deutsch.pdf
+    │   ├── gebruappendix.pdf
+    │   ├── Grenzen der Echokammerforschung auf Social Media.pdf
+    │   ├── Lesen - eine Anleitung.pdf
+    │   ├── OSD1_2024_01_12_A_Bonus.pdf
+    │   ├── OSD1_2024_01_12_A.pdf
+    │   ├── OSD1_RDF_2024_01_12_B.pdf
+    │   ├── OSD1_SPARQL_2024_01_12_C.pdf
+    │   ├── Qualitative Methoden.pdf
+    │   ├── SocialDataAllgemein 2 03.11.2023.pdf
+    │   ├── SocialDataAllgemein 27.10.23.pdf
+    │   ├── Social Network Analysis (all).pdf
+    │   ├── SPARQL-Examples.pdf
+    │   ├── wahlinformationen_fuer_studierende_2024.pdf
+    │   └── WissenschaftlichesArbeiten1.pdf
+    ├── 36966
+    ├── 37039
+    │   ├── 2024 Programmierpraktikum Fachverfahren Generator.pdf
+    │   └── Gruppe A-5_  Computer Vision for Edge devices.pdf
+    ├── 37048
+    │   ├── BVB_SoSe24_Einfuehrung.pdf
+    │   ├── BVB_SoSe24_PR01_Anleitung.pdf
+    │   ├── BVB_SoSe24_PR02_Instructions.pdf
+    │   ├── BVB_SoSe24_PR03_Instructions.pdf
+    │   └── BVB_SoSe24_Protokollhinweise.pdf
+    ├── 37061
+    ├── 37360
+    ├── 37443
+    ├── 37485
+    │   ├── 00 - How to use JupyterHub.pdf
+    │   ├── 00 - Module Description.pdf
+    │   ├── 00 - Organizational Details.pdf
+    │   ├── 01 - Exploratory Data Analysis.pdf
+    │   ├── 02 - Introduction to Machine Learning.pdf
+    │   ├── 03 - Linear Regression  Gradient Descent.pdf
+    │   ├── 04 - Hands-On Machine Learning - Training Models.pdf
+    │   ├── 04 - Polynomial Regression  Regularization.pdf
+    │   ├── 05 - Hands-On Machine Learning - Support Vector Machines.pdf
+    │   ├── 05 - Logistic Regression.pdf
+    │   ├── 06 - Hands-On Machine Learning - Decision Trees.pdf
+    │   ├── 06 - Support Vector Machines.pdf
+    │   └── 07 - Hands-On Machine Learning - Ensemble Learning and Random Forests.pdf
+    ├── 37640
+    │   ├── Blatt00.pdf
+    │   ├── Blatt01_Sol_Tut.pdf
+    │   ├── Blatt02_Sol_Tut.pdf
+    │   ├── Blatt03_Sol_Tut.pdf
+    │   ├── Blatt04_Sol_Tut.pdf
+    │   ├── Blatt05_Sol_Tut.pdf
+    │   ├── Tutorieneinteilung_StochInf.pdf
+    │   ├── unabhaengigkeit.pdf
+    │   ├── VL10.pdf
+    │   ├── VL11.pdf
+    │   ├── VL12.pdf
+    │   ├── VL1.pdf
+    │   ├── VL2 (1).pdf
+    │   ├── VL2.pdf
+    │   ├── VL3 (1).pdf
+    │   ├── VL3.pdf
+    │   ├── VL4_mit_Notizen.pdf
+    │   ├── VL5.pdf
+    │   ├── VL6.pdf
+    │   ├── VL7.pdf
+    │   ├── VL8.pdf
+    │   └── VL9.pdf
+    ├── 37840
+    │   ├── Bias-Variance, ISLR.pdf
+    │   ├── Bishop-KernelMethods.pdf
+    │   ├── Bishop-LDA.pdf
+    │   ├── Bishop-OLS.pdf
+    │   ├── ca_ex2_slides-annotated.pdf
+    │   ├── ca_ex3_slides_annotated.pdf
+    │   ├── CA_notation.pdf
+    │   ├── CV, ISLR.pdf
+    │   ├── Exercise1_Solution_StarExercises.pdf
+    │   ├── Exercise2_Solution_StarExercises.pdf
+    │   ├── Hasties-OLS.pdf
+    │   ├── Jaekel_et_al.pdf
+    │   ├── kernel_methods_pattern_analysis.pdf
+    │   ├── LDA, ISLR.pdf
+    │   ├── LDA, Marsland.pdf
+    │   ├── LDA_Whitening.pdf
+    │   ├── lecture1 (1).pdf
+    │   ├── lecture1.pdf
+    │   ├── lecture2 (1).pdf
+    │   ├── lecture2.pdf
+    │   ├── lecture_kernels (1).pdf
+    │   ├── lecture_kernels.pdf
+    │   ├── lecture_LR (1).pdf
+    │   ├── lecture_LR.pdf
+    │   ├── ml_cookbook.pdf
+    │   ├── NCC_Perceptron.pdf
+    │   ├── Overfitting, Bishop .pdf
+    │   └── Wrong CV, Hasties.pdf
+    ├── 38049
+    │   └── Advanced Research Data Infrastructures-Introduction Class.pdf
+    ├── 38283
+    │   ├── IT Sec für WiInf_01_orga_intro.pdf
+    │   ├── IT Sec für WiInf_02_crypto (1).pdf
+    │   ├── IT Sec für WiInf_02_crypto.pdf
+    │   ├── IT Sec für WiInf_03_ident_auth.pdf
+    │   ├── IT Sec für WiInf_04_secure systems.pdf
+    │   └── IT Sec für WiInf_05_network security.pdf
+    ├── 38983
+    │   ├── _ (1).pdf
+    │   ├── EX1_Vectors.pdf
+    │   ├── EX2_Matrices.pdf
+    │   ├── HW1_Vectors.pdf
+    │   ├── HW2_Matrices (1).pdf
+    │   ├── HW2_Matrices.pdf
+    │   ├── lecture_1_handout.pdf
+    │   └── lecture_week2.pdf
+    └── demo_folder
+        ├── 26537
+        │   ├── Blatt01-public.pdf
+        │   ├── Blatt02-public (1).pdf
+        │   ├── Blatt02-public.pdf
+        │   ├── Blatt03-public.pdf
+        │   ├── Blatt05-public.pdf
+        │   ├── Blatt06-public.pdf
+        │   ├── Blatt07-public (1).pdf
+        │   ├── Blatt07-public.pdf
+        │   ├── Blatt08-public.pdf
+        │   ├── ckurs-tag4.pdf
+        │   ├── introprog-v03-komplexitaet.pdf
+        │   ├── introprog-v08-korrektheit.pdf
+        │   └── wiederholung-ws1920.pdf
+        ├── 30849
+        │   ├── blatt01.pdf
+        │   ├── blatt02.pdf
+        │   ├── blatt03.pdf
+        │   ├── blatt04.pdf
+        │   ├── blatt05.pdf
+        │   ├── blatt06.pdf
+        │   ├── blatt07_lsg.pdf
+        │   ├── blatt07.pdf
+        │   ├── blatt08_lsg.pdf
+        │   ├── blatt08.pdf
+        │   ├── blatt09_lsg.pdf
+        │   ├── blatt09.pdf
+        │   ├── blatt10_lsg.pdf
+        │   ├── blatt10.pdf
+        │   ├── blatt11_lsg.pdf
+        │   ├── blatt11.pdf
+        │   ├── blatt12_lsg.pdf
+        │   ├── blatt12.pdf
+        │   ├── blatt13_lsg.pdf
+        │   ├── blatt13.pdf
+        │   ├── blatt14_lsg.pdf
+        │   ├── blatt14.pdf
+        │   ├── blatt15_lsg.pdf
+        │   ├── blatt15.pdf
+        │   ├── ha-haskell.pdf
+        │   ├── ha-uml-ocl-beispielloesung.pdf
+        │   ├── ha-uml-ocl.pdf
+        │   ├── test_folder
+        │   ├── uebungsaufgaben-ot.pdf
+        │   ├── uebungsaufgaben-pt.pdf
+        │   ├── VL00_Organisatorisches.pdf
+        │   ├── VL01_Funktionale_Programmierung.pdf
+        │   ├── VL02_Logische_Programmierung.pdf
+        │   ├── VL03_Einfuehrung_und_Entwicklungsmodelle.pdf
+        │   ├── VL04_Codequalität.pdf
+        │   ├── VL05_Testen.pdf
+        │   ├── VL06_RequirementsEngineering.pdf
+        │   ├── VL07_AnalyseUndEntwurf_Struktur.pdf
+        │   ├── VL08_AnalyseUndEntwurf_Verhalten.pdf
+        │   ├── VL09_OCL.pdf
+        │   ├── VL10_Hoare.pdf
+        │   └── VL11_Implementierung.pdf
+        ├── 32559
+        │   ├── FAQ.pdf
+        │   ├── ForSA.21-Exam-Klausur-Tut.pdf
+        │   ├── ForSA.21-Exam-Nachklausur-Tut.pdf
+        │   ├── ForSA.22-Exam-Klausur-Tut (1).pdf
+        │   ├── ForSA.22-Exam-Klausur-Tut.pdf
+        │   ├── ForSA.22-Exam-Nachklausur-Tut (1).pdf
+        │   ├── ForSA.22-Exam-Nachklausur-Tut.pdf
+        │   ├── FoSA.1516-Exam-Klausur-Tut.pdf
+        │   ├── FoSA.1516-Exam-Nachklausur-Tut.pdf
+        │   ├── FoSA.1617-Exam-Klausur-Tut.pdf
+        │   ├── FoSA.1617-Exam-Nachklausur-Tut.pdf
+        │   ├── FoSA.1718-Exam-Klausur-Tut.pdf
+        │   ├── FoSA.1718-Exam-Nachklausur-Tut.pdf
+        │   ├── FoSA.1819-Exam-Klausur-Tut.pdf
+        │   └── FoSA.1819-Exam-Nachklausur-Tut.pdf
+        └── 37048
+            ├── BVB_SoSe24_Einfuehrung.pdf
+            ├── BVB_SoSe24_PR01_Anleitung.pdf
+            ├── BVB_SoSe24_PR02_Instructions.pdf
+            ├── BVB_SoSe24_PR03_Instructions.pdf
+            └── BVB_SoSe24_Protokollhinweise.pdf
+
+64 directories, 806 files

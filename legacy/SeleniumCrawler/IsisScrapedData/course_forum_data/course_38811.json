@@ -1,0 +1,76 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Mathematical Physics II",
+        "Course_id": "38811",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1805990",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No exercise class on 08.07!",
+                            "Discussion_Id": "605028",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085844",
+                                    "Author": "Igor Makhlin",
+                                    "DateTime": "2024-07-02T15:26:05+02:00",
+                                    "Content": "Next week I'll be away at a conference so there will be no class on Monday, 08.07 and no office hours on Wednesday, 10.07. After that we will have one more class on 15.07. The next (and most likely final) homework assignment will be due on 15.07.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "teaching evaluation, lectures",
+                            "Discussion_Id": "602798",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082626",
+                                    "Author": "Jurij Suris",
+                                    "DateTime": "2024-06-23T12:52:05+02:00",
+                                    "Content": "Dear participants, in addition to the previous mail by Igor: here is the link for an evaluation questionnaire for the lectures of the running semester: https://befragung.tu-berlin.de/evasys/online.php?pswd=GSYVT Best regards, J. Suris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching evaluation",
+                            "Discussion_Id": "602482",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082137",
+                                    "Author": "Igor Makhlin",
+                                    "DateTime": "2024-06-20T19:06:53+02:00",
+                                    "Content": "Please find the teaching evaluation questionnaire for the exercise classes under the following link: https://befragung.tu-berlin.de/evasys/online.php?pswd=ZF9GL It can be filled out until 29.06, I believe.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "lectures this week online",
+                            "Discussion_Id": "596847",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073872",
+                                    "Author": "Jurij Suris",
+                                    "DateTime": "2024-05-27T09:01:26+02:00",
+                                    "Content": "Dear participants, as announced in the last lecture, there will be no lectures in presence this week (Tue May 28 and Thu May 30). I will upload lecture videos and handwritten notes on the ISIS course page. Best regards, Yuri Suris",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074495",
+                                    "Author": "Jurij Suris",
+                                    "DateTime": "2024-05-28T08:04:06+02:00",
+                                    "Content": "The materials uploadad this week are actually from the analogous course in 2021. Please have understanding for this. See you in presence next week. Best regards, Yuri Suris",
+                                    "Response to": "p1073872"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

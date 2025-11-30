@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SS 2024] Master’s Thesis Colloquium in Data Management Systems",
+        "Course_id": "37506",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1760964",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Master's Defense Today at 16:15 in EN-719",
+                            "Discussion_Id": "601970",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081430",
+                                    "Author": "Juan Soto",
+                                    "DateTime": "2024-06-19T06:12:14+02:00",
+                                    "Content": "1. Alexander Kuhn, \"Migration of Object Relational Mapping Tools in Legacy Java Applications\" (Defense,  Advisor: Prof. Dr. Stefan Jähnichen) Abstract. This thesis aims to find a replacement for the outdated object-relational mapping tool Apache ObjectRelationalBridge (OJB) in a legacy Java application. At first, a suitable replacement will be determined by comparing the most commonly used persistence solutions in the Java environment. Performance tests and other metrics will be taken into account. After a replacement has been determined, the legacy application VISITE will be migrated to use the new ORM tool. The necessary steps will be documented and any occurring problem discussed. Several test iterations will be performed until the application is ready to be tested in a semi-productive environment. In the end, an outlook on the required future maintenance work will be given.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Meeting Tomorrow, 22nd of May at 16:15",
+                            "Discussion_Id": "595730",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072194",
+                                    "Author": "Juan Soto",
+                                    "DateTime": "2024-05-21T15:45:01+02:00",
+                                    "Content": "Dear All, We will meet tomorrow afternoon at 16:15 in EN-719. Reminder: Students currently working on a thesis with DIMA should be in attendance. Our agenda is as follows: 1. Alexander Kühn, \"Migration of ORM Tools in Legacy Java Applications\" (Defense, Advisor: Dimitrios Giouroukis) Abstract. This thesis aims to find a replacement for the outdated object-relational mapping tool Apache ObjectRelationalBridge (OJB) in a legacy Java application. At first, a suitable replacement will be determined by comparing the most commonly used persistence solutions in the Java environment. Performance tests and other metrics will be taken into account. After a replacement has been determined, the legacy application VISITE will be migrated to use the new ORM tool. The necessary steps will be documented and any occurring problem discussed. Several test iterations will be performed until the application is ready to be tested in a semi-productive environment. In the end, an outlook on the required future maintenance work will be given. 2. Ilayda Kücükkayalar, \"On Benchmarking Vector Databases\" (Proposal, Advisor: Dimitrios Giouroukis)  See you then, Juan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

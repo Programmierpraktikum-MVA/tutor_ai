@@ -1,0 +1,117 @@
+[
+    {
+        "Course_Name": "BA ÖKUP Einführung in die Geoinformationsverarbeitung - Übung // Grundlagen Umweltplanung II SoSe 2024",
+        "Course_id": "37127",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1748432",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Feedback Zwischenaufgabe und letzter Termin",
+                            "Discussion_Id": "605283",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086204",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-07-03T14:32:30+02:00",
+                                    "Content": "Liebe Studis, ich habe nun alle eure Zwischenaufgaben kontrolliert. Es haben fast alle von euch abgegeben und bestanden. Mir haben eure Digitalisierungen sehr gut gefallen. Bei einigen gab es einige Probleme beim Hochladen, ich habe euch eine Mail geschrieben, wie ihr die Datei erneut hochladen könnt. Wenn ihr erfolgreich abgegeben habt, seid ihr für die Abschlussaufgabe zugelassen, welche ich am Freitag vorstellen und ausgeben werde. Überlegt euch schonmal gerne in welchen 3er Gruppen ihr arbeiten wollt.  Dieser Freitag (05.07.) ist gleichzeitig auch unser letzter Übungstermin. An dem Termin lernt ihr die Präsentation eurer Daten und die Erstellung von Karten (relevant für die Abschlussaufgabe!!) kennen. Bitte erscheint wieder zahlreich und ich kann euch nur motivieren am Freitag auch vor Ort zu erscheinen. Ich werde am Freitag von Jonathan (einem WiMi von uns) unterstützt, welcher sich online dazuschaltet, aber natürlich macht er das nur zum einmaligen Aushelfen, also bitte ich um Rücksicht. Ich kann am Freitag auch gerne nochmal ein paar Worte zur Klausur sagen. Schöne Grüße und bis Freitag! Okan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen erneut hybride Veranstaltung",
+                            "Discussion_Id": "595055",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071103",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-05-16T21:13:45+02:00",
+                                    "Content": "Liebe Studierende, hier ein kurzer Reminder, dass wir ab dem morgigen Termin alle weiteren Termine in Hybrid, also sowohl online als auch vor Ort anbieten werden. Wir freuen uns natürlich, wenn ihr morgen zahlreich auch vor Ort erscheint (Raum EB 431d). Schöne Grüße, Okan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Remote Nutzung für morgen einrichten!!",
+                            "Discussion_Id": "591620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065703",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-05-02T11:00:51+02:00",
+                                    "Content": "Liebe Studierende, wie viele von euch mitbekommen haben, ist uns nicht mehr die selbe Anzahl an Lizenzen verfügbar, sodass ihr vermehrt auf den Remote Zugang zurückgreifen müsst, damit wir den Kurs weiterhin online fortführen können. Wie bereits angekündigt, werden wir den Termin morgen wieder vollständig online anbieten müssen, da wir beide nicht vor Ort sein können und ihr ohne Betreuung den Raum nicht nutzen dürft. Daher bitten wir euch den Remote Zugang bereits heute einzurichten, damit es morgen keine Probleme gibt.  Hier die Anleitung zum Remote einrichten aus der Einführungsmail (mit kleinen Änderungen): 5.) Remote-Zugriff (FÜR Nicht-WINDOWS-Betriebssysteme) ArcMAP funktioniert nur mit Windows Betriebssystemen. Von anderen Betriebssystemen könnt ihr aber einen Remote-Zugriff auf die TU-Computer herstellen und die Software darüber benutzen. Einrichten einer Remote-Verbindung: 5.1.) CIP-Pool-Konto Um die TU-Rechner nutzen zu dürfen, benötigt ihr dort einen Account. Bitte registriert euch daher entweder vor Ort beim CIP-Pool 29 Team (Raum EB 420) oder füllt das beigefügte \"Anmeldeformular CIP-POOL\" aus (im Anhang und ISIS) und schickt es an info@cip29.tu-berlin.de . 5.2.)  5.3.) VPN-Verbindung Ihr benötigt eine VPN-Verbindung zum TU-Netz, deshalb müsst ihr den Cisco Any Connect Client installieren. Hier ist die TU-Anleitung dazu, wo ihr auch einen Download-Link am Ende der Seite findet: https://www.tu.berlin/campusmanagement/angebot/vpn-mit-cisco-anyconnect und https://www.tu.berlin/campusmanagement/it-support/vpn-installation-und-nutzung-unter-macos (Anleitung mit Screenshots für Mac User) 5.4.) VMware Horizon Client Die zweite Software, die ihr benötigt, ist der ‘VMware Horizon Client’, den ihr hier findet:  https://myhorizon.vmware.com/ 5.5.) Der erste Schritt ist dann die Herstellung einer VPN-Verbindung zur TU (der Name des Servers ist \"vpn.tu-berlin.de\") und das Einloggen mit eurem regulären TU-Benutzernamen und Passwort, das ihr auch für ISIS etc. verwendet. 5.6.) Dann könnt ihr den VMware Horizon Client starten und den Server \"extern.vdi.tu-berlin.de\" hinzufügen. Ihr werdet aufgefordert, euch anzumelden, s. Schritt 5.7: 5.7.) Anmeldung mit FreeOTP Passcode Als Benutzernamen verwendet ihr tub\\DEINTU-BENUTZERNAME und als Passcode den TAN-Schlüssel, den ihr von der FreeOTP+ App (übers Smartphone) oder Google Authenticator erhaltet. (Diesen benötigt ihr auch z.B. für die Nutzung der Webmail-Dienste der TU.) 5.8.) Ihr werdet ein weiteres Mal aufgefordert, euch anzumelden. Dieses Mal verwendet ihr DEINTU-BENUTZERNAME@tu-berlin.de und euer reguläres TU-Passwort. 5.9.) Auf dem folgenden Bildschirm könnt ihr die Universitätsrechner auswählen (die Namen sollten 'Fak VI Großer Lehrpool' und 'Fak VI Kleiner Lehrpool' lauten. Wir empfehlen, die Option 'Großer Lehrpool' zu wählen. Mit einem Doppelklick wird die Verbindung zu den Rechnern hergestellt. WICHTIG FALLS 5.7 BIS 5.9 NICHT FUNKTIONIEREN: Bei einigen funktioniert es nicht mit dem TUB Benutzernamen bei dem Schritt 5.7. Verwendet hierfür bitte dann bereits euren Benutzernamen und dann den Email Kürzel wie folgt: DEINTU-BENUTZERNAME@tu-berlin.de oder tub\\DEINTU-BENUTZERNAME@tu-berlin.de  Ich hoffe, dass somit alle morgen ArcGIS nutzen können! Schöne Grüße, Okan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nachtrag zur Veranstaltung",
+                            "Discussion_Id": "590228",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063564",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-04-26T14:08:26+02:00",
+                                    "Content": "Liebe Studierende, hier ein paar Nachträge zu unserer Veranstaltung heute: Problem: Menü-Leiste und Catalog-Tree in ArcCatalog werden nicht mehr angezeigt Lösung: https://gis.stackexchange.com/questions/108151/main-menu-and-catalog-tree-view-in-arccatalog-are-not-visible   Sprache in ArcMap ändern: https://desktop.arcgis.com/de/arcmap/latest/get-started/administer/selecting-the-language-of-the-user-interface.htm Ansonsten möchte ich euch alle bitten, mal den Remote-Zugriff einzurichten, wenn ihr dafür Zeit habt, da uns das nächste Woche viel Mühe erleichtern könnte. An dem Problem mit den Lizenzen sitzen wir dran, mehr dazu Anfang nächste Woche. Die Lösungen auf ISIS hab ich freigeschaltet. Schöne Grüße, Okan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgiger Termin (26.04.) als Hybrid Veranstaltung",
+                            "Discussion_Id": "589706",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062791",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-04-25T10:43:28+02:00",
+                                    "Content": "Sehr geehrte Studierenden, aus der Umfrage ergibt sich, dass ein Interesse für hybride Veranstaltungen besteht. Daher werden wir den morgigen Termin sowohl online als auch vor Ort anbieten. Ihr könnt dann in den großen Lehrpool (Raum 431d) im EB Gebäude kommen und an den Rechnern arbeiten. Da es vermutlich einen Moment dauern könnte, werden wir die Veranstaltung morgen dann um 8:15 Uhr starten für die Zoom-Teilnehmer*innen. Ich kann euch nur anregen morgen in die Uni zu kommen! PS: Wir möchten morgen probieren wie es läuft (und wie viele kommen) und werden anhand dessen schauen, wie wir das Format über das Semester gestalten können. Schöne Grüße, Okan Özsoy",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage zum Veranstaltungsformat",
+                            "Discussion_Id": "588668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061186",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-04-22T22:20:31+02:00",
+                                    "Content": "Liebe Studierende, da letzte Woche einige von euch noch Probleme mit dem Starten von ArcGIS hatten und auch in den CIP-Pool gefahren sind bzw. fahren wollten, möchten wir euch anbieten, den Kurs in einer hybriden Form anzubieten. Demnach würden wir den großen CIP Pool für die Lehre aufschließen und ihr könntet ab 8 Uhr von den PCs in der Uni arbeiten. Wir werden dies jedoch voraussichtlich nicht jeden Freitag anbieten können, daher bitten wir euch, die Software trotzdem möglichst gut auf eurem eigenen Rechner zum Laufen zu bringen. Ich habe auf ISIS eine Umfrage freigeschaltet zu diesem Thema. Bitte stimmt bei dieser ab, damit wir einschätzen können, wer Interesse auf hybrid bzw. Präsenzlehre hat. Je nach Interesse würden wir es diesen Freitag als Test anbieten, sodass wir einerseits vom CIP Pool aus arbeiten, jedoch auch online über das Zoom-Meeting teilgenommen werden kann. Die Umfrage ist bis Mittwoch abend verfügbar. PS: Um alle weiteren technischen Probleme bei der Einrichtung von ArcGIS kümmern wir uns am Freitag während der Veranstaltung. Schöne Grüße, Okan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen erster Kurstermin",
+                            "Discussion_Id": "587480",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059241",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-04-18T19:14:04+02:00",
+                                    "Content": "Liebe Studierenden, morgen ab 8 Uhr geht unser erster Kurstermin in dem Zoom-Raum (Link auf ISIS) los. Wir fangen morgen mit einer Einführung zu der Software ArcGIS an und klären organisatorische Fragen.  In unserem Technik-Meeting gestern konnten wir bereits die Software für viele von euch aufsetzen. Da jedoch immer noch einige Probleme damit haben, werden wir diese morgen nach dem kurzen Vorlesungsteil durchgehen. Einige von euch haben gefragt, ob sie morgen vom CIP-Pool aus teilnehmen können, jedoch macht dieser leider erst ab 10 Uhr auf. Der Vorlesungs- und Einleitungsteil wird voraussichtlich bis 9:15/9:30 Uhr gehen, daher könnt ihr dann im Anschluss in die Uni zum CIP Pool fahren bzw. schon vorher an dem Meeting von der Uni aus teilnehmen. Da die praktische Einführung morgen noch sehr simpel ist, können die, bei denen es noch nicht funktioniert hat, bei euren Kommiliton*innen im Zoom Meeting mit reinschauen und das Skript gemeinsam bearbeiten. Ich hoffe, dass wir somit alle morgen an dem Termin mit Begeistern teilnehmen können und sich die Probleme damit lösen. Viele Grüße und bis morgen! Okan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059244",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-04-18T19:18:54+02:00",
+                                    "Content": "Natürlich können auch die Windows-Nuter*innen den Remote Zugang einrichten und damit auf die CIP-Pool Rechner vom eigenen Rechner zugreifen, ohne die Software installieren zu müssen. Die Anleitung dafür findet ihr in der vorherigen Ankündigung.  VG Okan",
+                                    "Response to": "p1059241"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Herzlich Willkommen - Softwareinstallation vor Freitag - Lange E-Mail, bitte sorgfältig lesen :)",
+                            "Discussion_Id": "585462",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056290",
+                                    "Author": "Okan Özsoy",
+                                    "DateTime": "2024-04-11T14:34:25+02:00",
+                                    "Content": 

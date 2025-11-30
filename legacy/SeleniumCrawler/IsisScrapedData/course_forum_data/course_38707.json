@@ -1,0 +1,37 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Advanced Methods in Medical Biotechnology",
+        "Course_id": "38707",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Platztausch",
+                    "Forum_id": "1801677",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Platztausch Woche 1 gegen Woche 2",
+                            "Discussion_Id": "586488",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057817",
+                                    "Author": "Chiara Gerstner",
+                                    "DateTime": "2024-04-16T16:10:01+02:00",
+                                    "Content": "Hey, möchte jemand aus Woche zwei lieber in die erste Woche und somit mit mir tauschen? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057873",
+                                    "Author": "Laura Marie Hartmann",
+                                    "DateTime": "2024-04-16T17:09:22+02:00",
+                                    "Content": "Hi Chiara! Bei mir würde Woche 1 besser passen (bin gerade 2 zugeteilt)! :)",
+                                    "Response to": "p1057817"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

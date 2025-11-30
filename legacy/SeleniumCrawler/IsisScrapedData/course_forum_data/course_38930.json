@@ -1,0 +1,164 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Surfacewater Quality Modeling",
+        "Course_id": "38930",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1810058",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final Presentation",
+                            "Discussion_Id": "606767",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088306",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-07-10T08:20:33+02:00",
+                                    "Content": "Dear students, Next week we will have final presentations. Please plan for max. 10 min. per person. Reports are due the Monday after that. I am available in my office today from 14 to 16 Uhr. Best regards, Ferdi Hellweger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Term Project Help",
+                            "Discussion_Id": "604955",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085738",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-07-02T12:12:50+02:00",
+                                    "Content": "Dear students, I am available to meet with you about your term project at the following times in my office: Thursday 4. July 13-16 Wednesday 10. July 14-16 You may also stop by at any other time, or schedule an appointment via email. There will not be an exercise session on Monday 8. July. Best regards, Ferdi Hellweger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kurs Feedback",
+                            "Discussion_Id": "603067",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083001",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-06-24T13:52:23+02:00",
+                                    "Content": "Liebe Studis: Wir würden uns über euren Kurs Feedback freuen, unter diesem Link: https://befragung.tu-berlin.de/evasys/online.php?pswd=QZF3J",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise Session Today - Project Help",
+                            "Discussion_Id": "602930",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082819",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-06-24T10:00:54+02:00",
+                                    "Content": "Dear students, Today I can help you with your project between 14 and 16 in my office KF306. You can come by anytime. Its optional. Sincerely, Ferdi Hellweger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3 PhD/Post-doc Positions / TU Berlin / Modeling",
+                            "Discussion_Id": "602777",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082596",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-06-23T07:35:56+02:00",
+                                    "Content": "{Sorry if you receive multiple copies of this or if you are not interested}  Dear students,  We presently have 3 openings for PhD/Post-doc positions in our group. Keywords: water quality modeling, microbial ecology, cyanobacteria, cyanotoxins. Brief summaries and links are below. It would be great if you could pass this along to potential candidates.  Best regards, Ferdi   (1) DFG - PHD OR POST-DOC - ANABAENA NITROGEN FIXATION  Reference number: TBA (starting at ASAP / 3 years / closing date for applications TBA)  Eutrophication, including cyanobacteria harmful algal blooms (cyanoHABs), is an important societal problem, whose effective management relies on understanding of phytoplankton biology and ecology. This position is part of the DFGfunded project “Cost/benefit of dinitrogen fixation and the ecosystem consequences”, which aims to understand and quantify the costs (e.g. forming heterocysts) and benefits (N availability) of nitrogen fixation, and the consequences for ecological fitness and ecosystems. This is a collaborative project with the group of Dr. Jan Köhler (IGB Berlin), which includes lab and field experiments, the analysis of long-term data and mathematical modelling. This advertised PhD position focuses on modeling and includes updating and applying an existing agent-based model (ABM) of Anabaena (https://doi.org/10.1111/1462-2920.13299). The model will be updated to the current state of understanding (i.e. since its development in 2016), applied to the lab and field experiments conducted as part of this project, and to Lake Müggelsee. The goal is to reproduce and understand the dynamics of nitrogen-fixing and non-nitrogen-fixing species in this system during its history of changing N-availability, which will contribute to science-based predictions of cyanobacteria blooms and thresholds of nitrogen loading.  https://www.tu.berlin/en/wrh/news-details/default-32ceb52158edcc2b409eba0902e2e8b4   (2) BMBF - PHD - TYCHONEMA ANATOXIN-A PRODUCTION  Reference number: III-267/24 (starting at 01/09/24 / 3 years / closing date for applications 19/07/24)  Cyanobacteria and their toxins threaten the safe use of lakes for drinking water and recreation, and are an important societal problem. For example, the cyanobacterium Microcoleus, which produces the neurotoxin anatoxin-a (also known as \"very fast death factor\"), grows in Berlin's Lake Tegel, which regularly leads to dog deaths. This position is part of the BMBF-funded project DIVATOX (Diversity of aquatic plants and associated neurotoxic cyanobacteria - effects on the recreational and drinking water use of inland waters). The collaborative project is investigating the causes and effects of plant-associated toxic cyanobacteria (at Institute of Freshwater Ecology and Inland Fisheries, IGB), the influence of microbial diversity (IGB), the type and quantity of cyanobacterial toxins (at Federal Environmental Agency, UBA) and the mechanism of action of the toxins (at Research Centre for Working Environment and Human Factors, IfADo). A model for predicting the growth and toxin production of these cyanobacteria is to be developed at TU Berlin as part of the position advertised here. The project includes the development of a mathematical model (based on existing models) for the prediction of macrophyte diversity, the associated cyanobacteria and toxin concentrations on the basis of environmental conditions. The model will be used to predict toxicity as a function of lake characteristics (e.g. depth, wind) and boundary conditions (e.g. nutrient loading) for a range of lakes and scenarios.  https://www.jobs.tu-berlin.de/en/job-postings/183458   (3) RA/TA - PHD - OPEN TOPIC  Reference number: III-316/24 (starting at 01/11/24 / 5 years / closing date for applications 26/07/24)  Research and teaching assistant at the chair of Water Quality Engineering (Wasserreinhaltung) at TU Berlin. Research in the field of water quality engineering with a focus on surface water quality, incl. cyanobacteria and their toxins in Berlin’s lakes and microbial ecology and biogeochemistry; Mathematical modeling; Measurements of water quality in lakes, laboratory experiments; Teaching in Master and Bachelor-level courses in Environmental Science and Engineering: Oberflächenwasserqualität: Schutz und Sanierung, Surfacewater Quality Modeling, Agent-Based Modeling (exercises and lab/field sessions), and others.  https://www.tu.berlin/en/wrh/news-details/default-ab11eebc0011c57cb6ea273197902d11   DESCRIPTION OF RESEARCH GROUP  Our research group works in the area of surface water quality with a focus on microbial ecology; works at the interface/combination of biology and mechanistic modeling; is diverse, consisting of German (6) and international (1), male (4) and female (3), and PI (1), post-doc (2) and PhD (4) researchers. We are part of a dynamic research environment with collaborations in Berlin and worldwide. We meet weekly as a group and individually. Working options are flexible, i.e. in the office or partly home office. The presentation of research results at national and international conferences is supported. More information about the TU as an employer, e.g. continuing education, sports and soft skills courses, is available on the TU Berlin website.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Midterm Exam next Monday at 8:45",
+                            "Discussion_Id": "598881",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076921",
+                                    "Author": "Jutta Susanne Hoffmann",
+                                    "DateTime": "2024-06-04T14:38:07+02:00",
+                                    "Content": "Dear students, since the time limit for the SQM midterm next Monday is 60 min, we won't need the full time slot of the lecture. The exam will be written in the usual room H0106 and the starting time for the exam will be 8:45 a.m. It's open book and open notes, but no computers so remember to bring a calculator. Best, Jutta",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SQM exercise in KF218 starting today!",
+                            "Discussion_Id": "592457",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067049",
+                                    "Author": "Jutta Susanne Hoffmann",
+                                    "DateTime": "2024-05-06T10:26:09+02:00",
+                                    "Content": "Dear Students, from now on, the SQM exercise will take place in room KF218, starting today.  The time remains unchanged: Mondays 14-16h. See you later! Jutta",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next week's lecture via video",
+                            "Discussion_Id": "588301",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060580",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-04-22T11:14:59+02:00",
+                                    "Content": "Dear students, As announced in class today, next week's lecture will be a video. It is already uploaded. Sincerely, Ferdi Hellweger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SQM Course: Welcome and Important Information",
+                            "Discussion_Id": "585580",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056461",
+                                    "Author": "Ferdinand Leberecht Hellweger",
+                                    "DateTime": "2024-04-12T10:45:30+02:00",
+                                    "Content": "Dear Students,  Welcome to the course Surface-water Quality Modeling (SQM).   GENERAL INFO  The course will be in presence.  Please see the uploaded syllabus and schedule.  The course consists of two general parts: lecture and exercise sessions. With this e-mail, I want to give you some important information about the lecture part of the course. Mrs. Jutta Hoffmann will provide information about the exercise sessions.  INFO ON LECTURE  Time: Monday at 8:00-10:00 Room: H0106 First lecture is on April 15  Lectures include presentations by myself, Mrs. Hoffmann and you, the students.  Also during the lecture times, I will present information about the term project, like a description of the next deliverable. There will also be an opportunity for you to ask questions about the term project.   For your presentations (marked in green on the schedule), you will make presentations during the lecture time.  During the first lecture, in addition to being available to answer questions about the first lecture topic, I will go over the syllabus in detail and be available to answer questions about the course.   Sincerely, Ferdi Hellweger",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Student forum",
+                    "Forum_id": "1810061",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Oral Exam",
+                            "Discussion_Id": "603964",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084275",
+                                    "Author": "Felix Maximilian Engelke",
+                                    "DateTime": "2024-06-27T10:43:38+02:00",
+                                    "Content": "Hey everyone, I was wondering about the oral exam. Is there going to be one in the end of the semester or did i missunderstand something? Or is it just the presentation and the Assignment? How is it going to be like? How long will it be and when will it take place? Best, Felix",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084312",
+                                    "Author": "Jutta Susanne Hoffmann",
+                                    "DateTime": "2024-06-27T11:46:50+02:00",
+                                    "Content": "The oral part ist just the presentation of your term project, this will take place during the last lecture and exercise sessions on July 15th. I recall that the time per group member is 12 min but please ask Prof. Hellweger to make sure. Best, Jutta",
+                                    "Response to": "p1084275"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Calculation ",
+                            "Discussion_Id": "595138",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071236",
+                                    "Author": "Ghaith Kinjoue",
+                                    "DateTime": "2024-05-17T12:03:48+02:00",
+                                    "Content": 

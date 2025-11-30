@@ -1,0 +1,161 @@
+[
+    {
+        "Course_Name": "Brückenbau 1 - SoSe 2024",
+        "Course_id": "37729",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767048",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Test 2, Hörsaal B, 12:30 Uhr",
+                            "Discussion_Id": "607101",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088777",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-07-11T10:12:56+02:00",
+                                    "Content": "Hallo zusammen,  heute ist es soweit, der zweite Test des Semesters steht an und viele von Ihnen haben sich angemeldet.  Ein paar Infos vorab, um den Ablauf etwas reibungsloser zu gestalten:  1. Sie finden sich um 12:30 Uhr vor dem Hörsaal B ein, 2. ich öffne Ihnen die Tür und lasse Sie ein, 3. dann kommen Sie zu mir, zeigen mir Ihren Studierendenausweiß und bestätigen mit Ihrer Unterschrift auf der Teilnehmerliste, dass Sie sich gemäß §64 AllgStuO prüfungsfähig fühlen, 4. dann begeben Sie sich an einen Platz im Hörsaal, an dem der Tisch bereits heruntergeklappt ist und 5. bereiten Sie sich dort vor und warten auf die Ausgabe und das Verlesen des Tests, 6. dann beginnt der Test (Testdauer 60min).  Abschließender Hinweis: In diesem Jahr gibt es zum ersten Mal eine Portfolio-Prüfung in Brückenbau I, bestehend aus Test 1 + Test 2 + Hausaufgabe. Die Portfolio-Prüfung beginnt mit dem Start der ersten Teilleistung. Alle Teilleistungen kompensieren sich gegenseitig. Es gibt kein Nichtbestehen einer einzelnen Teilleistung, sondern nur eine anteilige Punktzahl (ggf. auch 0). Die Gesamtnote ergibt sich aus der Summe aller Teilleistungen am Ende des Semesters.  Soweit von mir. Bis gleich.  Ich wünsche allen viel Erfolg.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation der Übung - Brückenbau I",
+                            "Discussion_Id": "602665",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082411",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-06-21T16:48:45+02:00",
+                                    "Content": "Hallo zusammen,  leider habe ich den Link zur Evaluation der Lehrveranstaltung \"Übung - Brückenbau I\" in diesem Semester erst nach unserer letzten Übung erhalten.  Ich hätte euch gerne noch während der Übung Zeit dafür gegeben, aber ich bitte euch trotzdem, zahlreich an der Online-Umfrage teilzunehmen. Denn nur mit eurem Feedback kann eine Übungsreihe besser werden. Die ihnen nachfolgenden KommilitonInnen werden davon profitieren. Also bitte nehmen Sie sich die 5-10 min. Zeit.  Ich bin für jede Rückmeldung dankbar. Letztes Jahr haben 17 an der Befragung teilgenommen, vielleicht werden es dieses Jahr etwas mehr.  Hier ist der Link:  https://befragung.tu-berlin.de/evasys/online.php?p=MADDS  (Bitte beachten: Diese Evaluation ist für die Übung, NICHT für die Vorlesung)  VG Stephan Voß",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085461",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-07-01T16:30:49+02:00",
+                                    "Content": "Zur Erinnerung: Die Evaluation läuft noch bis zum 07. Juli.  Vielen Dank für euer Feedback.",
+                                    "Response to": "p1082411"
+                                },
+                                {
+                                    "Message_id": "p1086958",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-07-05T15:10:20+02:00",
+                                    "Content": "Nur noch bis einschließlich Sonntag können Rückmeldungen für die Evaluation abgegeben werden.",
+                                    "Response to": "p1082411"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bepunktung der Hausaufgaben jetzt einsehbar",
+                            "Discussion_Id": "605053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085880",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-07-02T16:13:42+02:00",
+                                    "Content": "Hallo zusammen,  die Bewertung der Hausaufgaben ist nun in Moses unter Brückenbau I - Portfolioprüfung (6 LP) einsehbar.  Bitte beachten Sie die Punkteumrechnung:  Punkte der Hausarbeit mit Faktor 0,5 (=10/20)  Beispiel: Sie haben in Moses für die Hausaufgabe 9,5 Punkte erhalten, dann haben Sie in der schriftlichen Prüfung 9,5/0,5=19 von 20 möglichen Punkten erhalten.  VG Stephan Voß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Punkteumrechnung: Test / Hausaufgabe -&gt; Modulkarte / Moses ",
+                            "Discussion_Id": "605046",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085869",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-07-02T15:52:20+02:00",
+                                    "Content": "Hallo zusammen,  wie einigen schon aufgefallen ist, sind in der Modulbeschreibung (Modulkarte) 10 Punkte für die Hausarbeit und jeweils 45 Punkte für den Test (1) und den Test (2) vorgesehen. Die Hausarbeit war aber mit 20 Pkt. und die Klausuren mit je 60 Pkt. bewertet (1 Pkt./Min.).  Wundern Sie sich also bitte nicht über die Punkte, die in Moses unter \"Portfolioprüfung (6 LP)\" eingetragen sind. Diese Punkte wurden nach folgendem Schema gewichtet:  Punkte im Test mit Faktor 0,75 (=45/60) Punkte in der Hausaufgabe mit dem Faktor 0,5 (=10/20)  Beispiel 1: Sie haben in Moses für Test (1) 37,5 Punkte erhalten, dann haben Sie in der schriftlichen Prüfung 37,5/0,75=50 Punkte erreicht.  Beispiel 2: Sie haben in Moses für die Hausaufgabe 9,5 Punkte erhalten, dann haben Sie in der schriftlichen Prüfung 9,5/0,5=19 Punkte erhalten.  Damit passen die Bewertungen in das obige Schema von 10/45/45 aus Absatz 1.  Ich bitte diese etwas umständliche Punktevergabe zu entschuldigen. Da wir Brückenbau I in diesem Semester erstmals auf Portfolio umgestellt haben, sind dies leider Kinderkrankheiten, die wir im nächsten Semester beheben werden.    VG  Stephan Voß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "--- WICHTIG --- Anmeldung zur Prüfung (Portfolioprüfung)",
+                            "Discussion_Id": "605033",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085852",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-07-02T15:30:31+02:00",
+                                    "Content": "Hallo zusammen,  leider ist uns bei der Semestervorbereitung ein Fehler unterlaufen. Moses bietet nun die Möglichkeit, eine Portfolioprüfung so anzulegen, dass man sich erstens zu einem bestimmten Termin für eine Teilleistung anmelden kann und zweitens alle Teilleistungen gemäß Modulplan automatisch mit Punkten addiert werden.  Bisher haben wir leider nur einzelne Prüfungstermine mit Einzelergebnissen angelegt.  Daher habe ich nun unter Brückenbau I in Moses eine weitere Prüfung \"Portfolioprüfung (6 LP)\" angelegt. Ich habe, soweit es mir möglich war, alle Ihre Anmeldungen aus den Teilterminen übernommen. Meine Bitte: Schauen Sie noch einmal nach, ob alles stimmt (Studiengang, StuPo, Anrechnungsart etc.).  Die bisherigen Noten bzw. jetzt Punkte werde ich aus den bestehenden \"Prüfungsterminen\" übernehmen.  Wer sich noch nicht entschieden hat, ob \"Test (2)-Spannbeton\" zum ersten (\"Standardtermin\") oder zum zweiten (\"Zweittermin\") geschrieben werden soll, trägt das bitte noch in Moses - Brückenbau I - Portfolioprüfung (6 LP) nach.  VG  Stephan Voß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test I - Spannbetonbrücke - 1.PZ (Ergebnisse)",
+                            "Discussion_Id": "601762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081142",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-06-18T11:25:24+02:00",
+                                    "Content": "Hallo zusammen,  die Ergebnisse des ersten Tests können nun über Moses-MTS eingesehen werden.  Einsicht am Freitag, den 21.06.2024 um 10:00 Uhr parallel zur Sprechstunde im Raum 466.  VG Stephan Voss",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe",
+                            "Discussion_Id": "600641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079476",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-06-12T15:25:45+02:00",
+                                    "Content": "Die Hausaufgabe kann ab Morgen 14:00 Uhr heruntergelden und bearbeitet werden.  Abgabe ist dann eine Woche später am 20.06.2024 persönlich bei mir in der Übung.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Test I, Hörsaal B, 12:30 Uhr",
+                            "Discussion_Id": "600554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079358",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-06-12T11:38:12+02:00",
+                                    "Content": "Hallo zusammen,  morgen ist es soweit, der erste Test des Semesters steht an und viele von Ihnen haben sich angemeldet.  Ein paar Infos vorab, um den Ablauf etwas reibungsloser zu gestalten:  1. Sie finden sich um 12:30 Uhr vor dem Hörsaal B ein, 2. ich öffne Ihnen die Tür und lasse Sie ein, 3. dann kommen Sie zu mir, zeigen mir Ihren Studierendenausweiß und bestätigen mit Ihrer Unterschrift auf der Teilnehmerliste, dass Sie sich gemäß §64 AllgStuO prüfungsfähig fühlen, 4. dann begeben Sie sich an einen Platz im Hörsaal, an dem der Tisch bereits heruntergeklappt ist und 5. bereiten Sie sich dort vor und warten auf die Ausgabe und das Verlesen des Tests, 6. dann beginnt der Test (Testdauer 60min).  Abschließender Hinweis: In diesem Jahr gibt es zum ersten Mal eine Portfolio-Prüfung in Brückenbau I, bestehend aus Test 1 + Test 2 + Hausaufgabe. Die Portfolio-Prüfung beginnt mit dem Start der ersten Teilleistung. Alle Teilleistungen kompensieren sich gegenseitig. Es gibt kein Nichtbestehen einer einzelnen Teilleistung, sondern nur eine anteilige Punktzahl (ggf. auch 0). Die Gesamtnote ergibt sich aus der Summe aller Teilleistungen am Ende des Semesters.  Soweit von mir. Bis morgen.  Ich wünsche allen viel Erfolg.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung des zweiten Termins für Test 1+2",
+                            "Discussion_Id": "596832",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073848",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-05-27T08:14:39+02:00",
+                                    "Content": "Hallo zusammen,  da am 22.07.2024 zusätzlich zu unseren Tests eine Klausur Mikrobiologie im Hörsaal A doppelt gebucht wurde, müssen wir unsere Klausurtermine leider etwas nach hinten verschieben und zwar für den  Zweittermin Test 1 (Spannbeton) von 12:00 Uhr auf 14:00 - 16:00 Uhr und für den  Zweittermin Test 2 (Stahl) von 14:00 Uhr auf 16:00 - 18:00 Uhr verschieben.   Ich entschuldige mich für die späteren Stunden, aber mir sind leider die Hände gebunden.   VG Stephan Voss",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "!!!---WICHTIG---!!! Brückenbau 1 HEUTE 23.05.2024 in Hörsaal C (!)",
+                            "Discussion_Id": "596183",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072841",
+                                    "Author": "Stephan Voß",
+                                    "DateTime": "2024-05-23T08:15:07+02:00",
+                                    "Content": "Hallo zusammen,  es tut mir leid, dass ich das so kurzfristig mitteile, aber Brückenbau findet heute wegen der BauFaK im ersten und zweiten Block im Hörsaal C statt.  Ich hoffe, es kommt noch rechtzeitig. Bitte kommunizieren Sie das auch an alle Ihre KommilitonInnen, die es evtl. nicht mehr gelesen haben.  VG Stephan Voß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

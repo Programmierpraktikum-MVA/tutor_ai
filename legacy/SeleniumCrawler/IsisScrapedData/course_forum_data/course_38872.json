@@ -1,0 +1,185 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Informationsverarbeitung im Gesundheitswesen - Anwendungen",
+        "Course_id": "38872",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1808283",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Grundlagen LV im WS 2024/2025",
+                            "Discussion_Id": "607607",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089525",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-07-13T08:55:44+02:00",
+                                    "Content": "Die LV \"Informationsverarbeitung im Gesundheitswesen - Grundlagen\" wird (auch) im WS 24/25 wieder im Wechsel zwischen \"Präsenz vor Ort\" und \"Präsenz online\" stattfinden. Termin ist am Freitag von 08:00 c.t. bis 12:00 Uhr im Gebäude Marchstrasse Raum MAR 0.003 - Start in Präsenz vor Ort am 18-Okt-2024 um 08:00 Uhr c.t.. Veranstaltung ist auf ISIS bereits angelegt - Einschreibung sollte ab sofort möglich sein.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Begin LV 28-Jun-2024 UPDATE",
+                            "Discussion_Id": "604181",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084581",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-06-28T09:42:08+02:00",
+                                    "Content": "Bin gelandet und sitze im Zug vom Flughafen zum Bahnhof Zoo, nach Plan sollte ich um 10:25 dort ankommen und dann wäre ich ca. 10:40 Uhr in der Bibliothek am Lehrstuhl.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LV 28-Jun-2024 beginnt SPÄTER",
+                            "Discussion_Id": "604151",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084531",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-06-27T22:27:48+02:00",
+                                    "Content": "Mein Flug heute Abend ist ausgefallen und ich komme nach Plan erst am Freitag um 08:45 Uhr in Berlin an - an der TU bin ich vermutlich frühestens gegen 09:45 bis 10:00 Uhr. Bitte organisiert euch in Gruppen und wir treffen uns dann entsprechend später an der TU. Sobald in Berlin gelandet schicke ich morgen noch mal ein Update… Marcus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dateiaustausch",
+                            "Discussion_Id": "601092",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080155",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-06-14T13:50:14+02:00",
+                                    "Content": "Antonios Links und Dateien von heute (14.6.24) sind jetzt auf ISIS hochgeladen, NUR INTERN VERWENDEN - KEINE WEITERGABE AUSSERHALB DER LV GRUPPEN",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbereiten für den 31.5.2024",
+                            "Discussion_Id": "596490",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073302",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-05-24T11:29:29+02:00",
+                                    "Content": "Bis / am nächsten Freitag (31.5.2024) sollte jede Gruppe diese Ziele erreichen: Asynchrone Kommunikation innerhalb der Gruppe ist organisiert. Literaturliste zum Thema ist festgelegt. (Backlog Sprint 2 und Factsheet sollten bereits erledigt sein.)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DRG Dokumente Schweiz",
+                            "Discussion_Id": "593613",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068818",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-05-10T12:14:02+02:00",
+                                    "Content": "Die Grundlagen für die Abrechnung Reha in der Schweiz sind in zwei Dokumenten bereits hochgeladen (Woche 10. Mai). Die Logik werden wir aber auch noch in der LV behandeln.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: 10.5.2024 Start um 11:00 Uhr (s.t.)",
+                            "Discussion_Id": "593536",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068695",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-05-10T00:40:03+02:00",
+                                    "Content": "Noch mal zu Erinnerung, am 10.5. sind die ersten drei Stunden für selbständige Gruppenarbeit reserviert, wir treffen uns zu Check-In und Sprechstunde um 11:00 Uhr (s.t.), der Zoom Call ist entsprechend auch erst dann offen!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LV am 10.5.24: Gruppenarbeit / Check-In und Sprechstunde",
+                            "Discussion_Id": "592057",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066355",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-05-03T12:15:36+02:00",
+                                    "Content": "Wie heute in der LV angekündigt sind die ersten drei Stunden der LV am 10.5.24 für die selbst organisierte Arbeit in euren Gruppen reserviert. Wir treffen uns daher am 10.5.24 erst um 11:00 Uhr (s.t.) online in Zoom. Bitte bis dahin auch die Aufgabe CMIO Challenge auf Isis einreichen (eine Abgabe pro Gruppe)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgaben zum 3.5.2024",
+                            "Discussion_Id": "590150",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063449",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-04-26T11:44:24+02:00",
+                                    "Content": "Zwei Aufgaben habe ich auf ISIS angelegt: Fehlende Präsentationen (EPK, UML) einreichen Vorbereitung CMIO Challenge für Gruppenarbeit am 3.5.2024 (alle)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literaturliste",
+                            "Discussion_Id": "590041",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063297",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-04-26T07:51:23+02:00",
+                                    "Content": "EHier auf Isis, erste Woche (19.4.-25.4) \"Literatur zur LV\"",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "587942",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059971",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-04-20T12:11:36+02:00",
+                                    "Content": "Prüfung ist auf Moses eingerichtet, Anmeldung sollte ab sofort möglich sein!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom Link",
+                            "Discussion_Id": "587756",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059674",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-04-19T15:36:51+02:00",
+                                    "Content": "Der Zoom Link zur Online LV ist:  https://tu-berlin.zoom.us/j/62845776611?pwd=R2xJcEhNSDJhQnRpbDZpeGphMnZUdz09",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start am 19.4.2024 um 08:00 Uhr",
+                            "Discussion_Id": "585364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056157",
+                                    "Author": "Marcus Werners",
+                                    "DateTime": "2024-04-10T19:50:04+02:00",
+                                    "Content": "Wir starten am 19.4.2024 um 08:00 Uhr an einem NEUEN ORT: Bibliothek des FG Management im Gesundheitswesen im TU Hauptgebäude!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

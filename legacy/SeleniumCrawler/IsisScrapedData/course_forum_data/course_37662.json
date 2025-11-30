@@ -1,0 +1,167 @@
+[
+    {
+        "Course_Name": "[SoSe24] Programmierpraktikum: Skalierbare Systeme",
+        "Course_id": "37662",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1765342",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Meilensteinpräsentation 2",
+                            "Discussion_Id": "606280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087607",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-07-08T14:42:11+02:00",
+                                    "Content": "Liebe Studierende, die 2. Meilensteinpräsentation findet am 22.07 statt. Gruppen die nicht persönlich erscheinen können, haben bis zum 22.07 12:15 Uhr Zeit ein Video abzugeben: https://isis.tu-berlin.de/mod/assign/view.php?id=1853471 Die Präsentation soll 10 Minuten lang sein und soll folgendes beinhalten: Die Requirements an eure Webseite und dann in der Live-Demo beweisen, dass ihr diese erfüllt habt. Betrachtet die 2. Präsentation als Abgabe eures Projektes, wo ihr euer MVP vorstellt. Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ablauf Meilensteinpräsentation 1",
+                            "Discussion_Id": "601545",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080817",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-06-17T15:15:22+02:00",
+                                    "Content": "Liebe Studierende, nächste Woche ist die erste Meilensteinpräsentation. Diese Präsentation richtet sich an die anderen Studierenden. Ihr sollt also den anderen Gruppen euer Projekt vorstellen. Nächste Woche findet daher wieder von 12:15 - 13:45 Uhr für alle Studierenden statt.  Insgesamt hat jede Gruppe 15 Min Zeit, davon habt ihr 12 Min für die Präsentation (hard limit - ich stelle einen Timer). Die anderen 3 Minuten sind für Fragen reserviert. In diesen 12 Minuten sollen folgende Aspeckte besprochen werden: Kleine Intro: Worüber geht euer Projekt (1min) Tech-Stack (2-5 Min) Live-Demo (4-6 Min) Ausblick -> Was der Zielzustand eures Projekts ist. (1-3 Min) Die Zeiten hinter den 4 Bereichen müsst ihr nicht einhalten, es dient nur zur orientierung. Wichtig ist, dass ihr die 12 Minuten einhaltet.  Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bewertung HA2",
+                            "Discussion_Id": "598277",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076052",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-06-01T17:44:02+02:00",
+                                    "Content": "Liebe Studierende, am Montag ist die Bewertung der 2. HA dran. Die Slots sind folgendermaßen: Gruppe 12_1: 12:15 - 12:20 Gruppe 12_2: 12:20 - 12:25 ... Gruppe 12_4: 13:20 - 13:25 Es kann natürlich zu leichten Verzögerungen kommen. Deswegen vorab schon mal wie die Demo aussehen soll: 1) Öffnen der Webseite + Erstellen eines Todo's 2) Todo bearbeiten + Webseite schließen 3) webseite wieder öffnen und das bearbeitete ToDo löschen + webseite wieder schließen. 4) Webseite wieder öffnen und zeigen, dass das gelöschte ToDo nicht mehr vorhanden ist.  Wenn eine Gruppe am Montag nicht kann, hat sie die Möglichkeit ein Video (max 5 min) von ihrer TODO-Webseite zu machen, welches diese 4 Schritte enthält und das bis zum 7.6 Hochzuladen.  VG, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenslots",
+                            "Discussion_Id": "596678",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073589",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-05-25T12:29:24+02:00",
+                                    "Content": "Diesen Montag ist der erste Termin in den Gruppenslots:  Gruppenslots A 12:15-12:30 B 12:30-12:45 C 12:45-13:00 D 13:00-13:15 E 13:15-13:30 F 13:30-13:45  Bitte kommt mit eurer Gruppe entsprechend des Zeitslots.  Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA1 ist Bewertet",
+                            "Discussion_Id": "593374",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068432",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-05-08T17:38:28+02:00",
+                                    "Content": "Die erste Hausaufgabe ist Bewertet. Ihr sehr die Punkte bei eurer Abgabe. Solltet ihr keine Abgabe gemacht haben, aber euer Gruppenmitglied, solltet ihr trotzdem die Punkte sehen. Falls nicht, meldet euch bei mir. Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "589260",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062118",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-04-24T10:54:18+02:00",
+                                    "Content": "Liebe Studierende, ihr könnt euch jetzt über Moses zur \"Prüfung\", bzw. im Modul Anmelden. Das ist der Kurs: #40135 Programmierpraktikum: Skalierbare Systeme  Ich könnt euch bis zum 05.05.24 um 23:59 Uhr an und abmelden.  Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung für HA1 &amp; 2",
+                            "Discussion_Id": "588505",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060918",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-04-22T15:25:42+02:00",
+                                    "Content": "Liebe Studierende,  ich habe euch von ISIS per Zufall in 2er Gruppen einteilen lassen. Mit wem ihr in einer Gruppe seid, seht ihr auf der Teilnehmerseite: https://isis.tu-berlin.de/user/index.php?id=37662 Es reicht, wenn pro Gruppe eine Person abgibt die HA's abgibt.  Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Termin",
+                            "Discussion_Id": "585751",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056734",
+                                    "Author": "Thorsten Philipp Wittkopp",
+                                    "DateTime": "2024-04-14T17:07:44+02:00",
+                                    "Content": "Liebe Studierende, der erste Termin ist der 22.04, wie es auf der Isis-Seite steht. Viele Grüße, Thorsten",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1765344",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gruppe B sucht drei Mitglieder",
+                            "Discussion_Id": "594017",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069479",
+                                    "Author": "Lucina Marthania Woldeab",
+                                    "DateTime": "2024-05-13T12:54:28+02:00",
+                                    "Content": "Hi Leute, wir sind in Gruppe B nur zu zweit. Es können sich gerne noch drei Leute anschließen :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung über QISPOS nicht möglich",
+                            "Discussion_Id": "586522",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057862",
+                                    "Author": "Felix Hauptmann",
+                                    "DateTime": "2024-04-16T16:55:06+02:00",
+                                    "Content": "Hallo zusammen, ich wollte darauf hinweisen, dass die Prüfungsanmeldung für Wirtschaftsinformatik dieses Semester nicht wie beschrieben über QISPOS funktioniert. Hat jemand das gleiche Problem oder weiß, wie man sich stattdessen anmelden kann? Danke und viele Grüße!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wechsel des Programmierpraktikum",
+                            "Discussion_Id": "585323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056106",
+                                    "Author": "Moritz Paul Barvencik",
+                                    "DateTime": "2024-04-10T16:45:32+02:00",
+                                    "Content": "Hallo,  ich wollte fragen ob die Möglichkeit besteht noch in dieses Praktikum zu wechseln, da sich mein derzeitiges Programmierpraktikum mit einem anderen Modul überschneidet.   Vielen Dank und mit freundlichen Grüßen,  Moritz Barvencik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

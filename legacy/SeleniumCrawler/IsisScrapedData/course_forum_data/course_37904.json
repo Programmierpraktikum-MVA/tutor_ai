@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Prozesspraktikum der Fakultät III",
+        "Course_id": "37904",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1772720",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Auftaktveranstaltung - ProzessPraktikum",
+                            "Discussion_Id": "589710",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062796",
+                                    "Author": "Denis Saric",
+                                    "DateTime": "2024-04-25T10:47:45+02:00",
+                                    "Content": "Liebe Studierende,   wir haben die Auftaktveranstaltung, die heute (25.04, 10 Uhr) stattfinden sollte, auf die nächste Woche verschoben.  Der Grund dafür ist, dass nur ein Student heute erschienen ist.   Wir treffen uns dann nächste Woche am Donnerstag (02.05) vor dem AstA-Eingang, TK Gebäude um 10:15.   Können Sie uns hier kurz bestätigen, ob Sie zu dem Termin kommen werden?   Im Prozesspraktikum geht es um die Gruppenarbeit. Daher ist die Mindestteilnehmerzahl für diesen Kurs drei Personen.  Mit freundlichen Grüßen, Denis Saric.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

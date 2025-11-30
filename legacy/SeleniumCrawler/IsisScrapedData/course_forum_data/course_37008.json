@@ -1,0 +1,25 @@
+[
+    {
+        "Course_Name": "[SoSe 24] Lecture: Machine Learning for Computer Security",
+        "Course_id": "37008",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "MLSEC: Announcements",
+                    "Forum_id": "1740846",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Registration for exchange students",
+                            "Discussion_Id": "598152",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075857",
+                                    "Author": "Jonas Möller",
+                                    "DateTime": "2024-05-31T15:09:11+02:00",
+                                    "Content": "Dear students,  if you are an exchange student, you might need to register for this course via a separate form (and not via MOSES). If this applies to you, please send me the filled out form to my mail address \"jonas.moeller.1@tu-berlin.de\". If you are unsure, whether this applies to you, please get in contact with your examination office.  Best regards, Jonas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": 

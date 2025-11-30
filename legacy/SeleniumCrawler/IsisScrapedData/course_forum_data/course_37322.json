@@ -1,0 +1,65 @@
+[
+    {
+        "Course_Name": "QW: Applied Data Science for Reliability Engineering SoSe 2024",
+        "Course_id": "37322",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1755665",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Infos zu DRE im SoSe 2024",
+                            "Discussion_Id": "589422",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062359",
+                                    "Author": "Lennart Frederik Müller-Stein",
+                                    "DateTime": "2024-04-24T14:59:04+02:00",
+                                    "Content": "Liebe Studis, Applied Data Science for Reliability Engineering (DRE) wird dieses Semester wieder als Blockveranstaltung angeboten. Termine: integrierte Veranstaltung (VL+Übung): 26.-28.08. + 02.-04.09.2024 schriftliche Prüfung: 12.09.2024 Präsentationen: 26.09.2024 Weitere Informationen zu Zeiten und Räumen werden zu einem späteren Zeitpunkt bekannt gegeben. Die Prüfungsanmeldung ist über das Moseskonto noch bis zum 11.09.2024 möglich. Wir freuen uns auf eure Teilnahme! Viele Grüße Lennart Müller-Stein",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1757386",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung, Übung?",
+                            "Discussion_Id": "586150",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057313",
+                                    "Author": "Elias Jens Kunath Tolaba",
+                                    "DateTime": "2024-04-15T18:28:23+02:00",
+                                    "Content": "Guten Tag,  gibt es in diesem Modul Vorlesungen und Übungen. Wenn ja, wann finden diese statt? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057351",
+                                    "Author": "Henrik Handtke",
+                                    "DateTime": "2024-04-15T20:02:17+02:00",
+                                    "Content": "Soweit ich das verstanden habe, ist das eine Blockveranstaltung über zwei Wochen zum Ende des Semesters.",
+                                    "Response to": "p1057313"
+                                },
+                                {
+                                    "Message_id": "p1057458",
+                                    "Author": "Lennart Frederik Müller-Stein",
+                                    "DateTime": "2024-04-16T08:58:14+02:00",
+                                    "Content": "Genau, es handelt sich um eine Blockveranstaltung mit einer Portfolioprüfung am Ende des Semesters. Die genauen Termine werden baldmöglichst bekanntgegeben.",
+                                    "Response to": "p1057351"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

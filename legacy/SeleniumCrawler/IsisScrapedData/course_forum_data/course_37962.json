@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] AV: Campus Networks - 5G Evolution/6G (Project)",
+        "Course_id": "37962",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1774111",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kick-off slides and OpenAPI Definition",
+                            "Discussion_Id": "586547",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057900",
+                                    "Author": "Ronny Kreuch",
+                                    "DateTime": "2024-04-16T17:41:05+02:00",
+                                    "Content": "Dear students, the slides from the kick-off meeting and the OpenAPI Definition for the assessment exercise are now available. If you are interested in a project topic, please submit the exercise by the deadline stated in the slides. We look forward to your participation. Best regards, Ronny",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Open Source Mobile Network Technologies Conference, April 17, 2024, TU Berlin Campus",
+                            "Discussion_Id": "584931",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055554",
+                                    "Author": "Elena-Ramona Modroiu",
+                                    "DateTime": "2024-04-08T12:57:03+02:00",
+                                    "Content": "Dear Students,  our Chair Next Generation Networks (AV), led by Prof. Thomas Magedanz, organizes on April 17, 2024 the Open Source Mobile Network Technologies Conference at TU Berlin. It is a one day event where you can meet some of the key people behind the popular open source 4G/5G-related projects and toolkits (such as: srsRAN, Free5GC, OpenAirInterface, LENA-5G, Osmocom/pySIM, Kamailio) as well as learn about experiences on using open source based 4G/5G deployments. Prof. Thomas Magedanz will provide insights of the academic research directions.  The schedule and further details are available at:     - https://www.open6gnet.org/osmnt2024-conference/  Registration for the event is free, but the number of seats are limited. Students interested in participating at the event are kindly invited to register by filling the registration form:     - https://www.open6gnet.org/osmnt2024-registration/  Looking forward to meeting you!  Best regards, Ramona Modroiu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

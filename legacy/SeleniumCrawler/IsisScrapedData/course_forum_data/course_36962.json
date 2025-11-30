@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "2023 Investments",
+        "Course_id": "36962",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1736368",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Company Presentations",
+                            "Discussion_Id": "598947",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077007",
+                                    "Author": "Jens Weibezahn",
+                                    "DateTime": "2024-06-04T17:16:34+02:00",
+                                    "Content": "Dear All, Please remember tomorrow's company presentations: From 10:30 until lunch you will hear from Cinthya (ENERTRAG SE) and after lunch until 16:00 we will have Clemens (HanseWerk AG Group). Both presentations will be in S5. Best, \\Jens",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welcome to the Module Investment",
+                            "Discussion_Id": "594958",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070944",
+                                    "Author": "Gernot Bohmann",
+                                    "DateTime": "2024-05-16T14:28:43+02:00",
+                                    "Content": "Dear Students, we are welcoming you to the module Investment. We want to let you know, that the attendance and punctuality rules are still active! Just to remind you  What does this mean: We will take your attendance from now on. If we notice that some of you are missing many classes or being late often, we will have a talk with you about this and discuss how we could support you Of course, there are good reasons for not being able to make it to class, such as being sick In this case, please send us (Jing and Gernot) an email and inform us that you cannot make it to a lesson. Be on time for lessons. If you are more than 15 min late, you might not be able to enter the classroom before the next break, or we will note your late coming. We still hope that all of you can agree to and follow these basic rules. Thank you for your understanding. Warm regards, Your EM-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

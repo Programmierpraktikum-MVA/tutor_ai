@@ -1,0 +1,116 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Studentische Exoskelettentwicklung (RISE) (Technisch und Nicht-Technisch)",
+        "Course_id": "38528",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1793518",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Offizielle Lehrevaluation bis 15.07.2024",
+                            "Discussion_Id": "607554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089441",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-07-12T16:53:59+02:00",
+                                    "Content": "Liebe Studierende, Eure ehrliche Meinung ist uns wirklich wichtig, deshalb möchten wir Euch herzlich dazu einladen, an unserer bevorstehenden Evaluation teilzunehmen. Eure Rückmeldungen helfen uns dabei, die Veranstaltung stetig zu verbessern sowie um Euren Lernerfolg und die positive Erfahrung bestmöglich zu fördern. Bitte nehmt Euch einen kurzen Moment Zeit, um die Evaluation auszufüllen. Euer konstruktives Feedback ermöglicht es uns, unsere Methoden zu überdenken und gezielt an den Schwachpunkten zu arbeiten. Gleichzeitig würden wir uns sehr über positives Feedback und wohlwollende Bewertungen freuen. Wenn Ihr mit unserem Konzept und der Betreuung zufrieden wart, wäre es für uns eine große Bestätigung, diese Erfahrungen auch für etwaige Außendarstellungen nutzen zu dürfen. Positives Feedback hilft uns, anderen potenziellen Studierenden zu zeigen, welchen Mehrwert sie durch unsere Kurse erhalten können. Ihr könnt Euch sicher sein, dass Eure Antworten anonym behandelt werden, um eine offene und ehrliche Meinungsäußerung zu ermöglichen. Den Link zur Evaluation findet Ihr sowohl hier als auch auf ISIS. Eure Teilnahme ist natürlich freiwillig, aber sie ist von unschätzbarem Wert, um uns kontinuierlich zu verbessern. Vielen Dank im Voraus für Eure Teilnahme und Unterstützung! Beste Grüße Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Arbeits-Wochenende",
+                            "Discussion_Id": "605847",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086976",
+                                    "Author": "Celine Schröder",
+                                    "DateTime": "2024-07-05T16:09:09+02:00",
+                                    "Content": "Hallo ihr Lieben, an diesem Sonntag (07.07.2024) wollen wir eine Art Konstruktionswochenende veranstalten. Das bedeutet, dass das FG am Sonntag für euch offen ist, und Zeit und Gelegenheit ist nochmal gemeinsam zu arbeiten. Da der nächste Mittwoch für das Team Event verplant ist, würde ich euch gerne ans Herz legen, diesen Termin wahrzunehmen (soweit möglich). Am nächsten Wochenende (13.07./14.07.24) würden wir je nach Bedarf schauen, ob noch ein Konstruktionswochenende veranstaltet wird. (Deshalb gerne rückmelden, ob ihr Interesse daran habt.) Die genauen Uhrzeiten werden auf Webex in der Allgemeinen Gruppe veröffentlicht. Ich wünsche euch allen einen guten Start ins Wochenende und einen erfolgreichen 3. Sprint. :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprint Review II",
+                            "Discussion_Id": "603620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083803",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-06-25T23:11:33+02:00",
+                                    "Content": "Hallo Zusammen, Das Semester schreitet eifrig voran und der CYBATHLON rückt immer näher! Wir sind auf einem guten Weg, aber die nächsten Wochen werden entscheidend sein, ob und wie wir unser gemeinsames Ziel erreichen werden! Entsprechend hier nochmal die Ankündigung, dass der \"Zeitplanung Sprint-Review II\" für nächste Woche nun auf ISIS hochgeladen ist und eingesehen werden kann. Wir werden wieder im Raum 118 sein. Pünktlichkeit ist auf Grund der engen Taktung unverzichtbar. Die Präsentationen und somit die Präsentationszeiten starten spätestens zum angegeben Zeitpunkt. Seid also rechtzeitig vor Ort, die Pausen vor den Präsentationen müssen ohne Aufforderung zur Vorbereitung der Technik (und Lüften) genutzt werden. Solltet ihr zwingend von euren persönlichen Rechnern aus präsentieren wollen, stellt sicher, dass Eduroam (oder ein Ethernet-Anschluss) und das WEBEX-Meeting vor eurem Zeitslot auf diesen aktiv laufen, sodass ihr unmittelbar den Bildschirm auch teilen könnt.  Anmerkung zum Format: Es werden pro Gruppenmitglied 5 min. Präsentationszeit angenommen. Schwerpunkte der Präsentation sind nach der Einführung in die Thematik entsprechend des Bewertungsschemas zu wählen. Vorzustellen ist: Kurze Darstellung der Aufgabe Sprintanalyse und Priorisierungsanpassung Konzeptentwicklung und –Entscheidung, sowie die Darstellung der Methodik Finanzierung - (grober) Überblick über die Bestellauswahl und die Kosten Ergebnisse nächste Schritte und kritische Selbsteinschätzung Bitte achtet hierbei vorab auch nochmal auf das vorgestellte Bewertungsschema \"Bewertung Praesentationen Kriterien\".   Bitte achtet zudem auf unsere getroffene Vereinbarung: Das \"Strukturdiagramm Exoskelett\" im Ordner \"3_RISE-Gemeinsame_Unterlagen\" sollte bis zum 26.06.24 mit allen Bauteilen ausgefüllt sein, damit anhand dessen zum Sprintende die FMEA ergänzt werden kann - falls nicht geschehen, bitte holt das zeitnah nach. Die FMEA wird ebenfalls zum Sprintende von H4 zumindest als Erstentwurf erwartet, damit diese Bewerten und ggf. noch korrigieren kann. ist in der \"Disposition SoSe 24 RISE\" auch festgelet, dass alle Bauteile, die noch zu fertigen sind, bis zu diesem Zeitpunkt finalisiert sind, damit die letzten Aufträge (zumindest in einer nutzbaren Version) vor der Endmontage herausgeschickt werden können.  bezüglich Social Media Unterlagen, Damit H3 weiterarbeiten kann: Ein aussagekräftiges Bild mit kleiner Beschreibung zur Gruppenarbeit zu jedem Sprint verpflichtend für alle Gruppen (optional ggf. auch kleines Video) Outtakes dürfen auch gerne mit dazu abgelegt werden, eventuell kann man das ja später sinnvoll verwende Im Rahmen einer Inventur sollte spätestens zum Sprintende klar sein, welche Teile nun alles vorhanden sind, damit keine unerwarteten Engpässe mehr auftreten können.  Die Präsentationen müssen am jeweiligen Tag in den jeweiligen Nextcloud Ordnern bei \"6_Präsentationen\" abgelegt sein.  Ich bin sehr gespannt auf eure Ergebnisse und wünsche euch noch viel Erfolg bei den Vorbereitungen! Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprint Review I",
+                            "Discussion_Id": "597949",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075551",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-05-30T15:36:08+02:00",
+                                    "Content": "Hallo Zusammen,  der Zeitplanung Sprint-Review1 liegt nun auf ISIS für den ersten Sprint-Review am 05.06.24. und ist abrufbar, sobald ihr die Prüfung zum Sicherheitsvideo absolviert habt. Ein bestehen ist zwingend erforderlich. Wie gesagt, muss niemand den ganzen Tagebleiben, aber ich lege jeder Gruppe (oder einzelnen Teilnehmenden) sehr ans Herz, zumindest die Schnittstellengruppen auch anzusehen oder zumindest online zu verfolgen. Insgesamt ist zu beachten, dass ein mangelnder Informationsaustausch unter den Gruppen (insbsondere vor dem Meilenstein) zwingend bewertungsrelevant ist, da die Product Owner für die Kommunikation zwischen den Schnittstellen verantwortlich sind.  Pünktlichkeit ist auf Grund der engen Taktung unverzichtbar. Die Präsentationen und somit die Präsentationszeiten starten spätestens zum angegeben Zeitpunkt. Seid also rechtzeitig vor Ort, die Pausen vor den Präsentationen müssen ohne Aufforderung zur Vorbereitung der Technik (und Lüften) genutzt werden. Solltet ihr zwingend von euren persönlichen Rechnern aus präsentieren wollen, stellt sicher, dass Eduroam (oder ein Ethernet-Anschluss) und das WEBEX-Meeting vor eurem Zeitslot auf diesen aktiv laufen, sodass ihr unmittelbar den Bildschirm auch teilen könnt.  Anmerkung zum Format: Es werden pro Gruppenmitglied 5 min. Präsentationszeit angenommen. Schwerpunkte der Präsentation sind nach der Einführung in die Thematik entsprechend des Bewertungsschemas zu wählen. Vorzustellen ist: Kurze Darstellung der Aufgabe Sprintanalyse und Priorisierungsanpassung Konzeptentwicklung und –Entscheidung, sowie die Darstellung der Methodik Finanzierung - (grober) Überblick über die Bestellauswahl und die Kosten Ergebnisse nächste Schritte und kritische Selbsteinschätzung  Die Präsentationen müssen zwingend zum 05.06 vor 8:30 Uhr in den jeweiligen TubCloud Ordnern bei Präsentation abgelegt sein.  Ich bin sehr gespannt auf eure Ergebnisse und wünsche euch noch viel Erfolg bei den Vorbereitungen!  Beste Grüße Lukas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076806",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-06-04T11:06:36+02:00",
+                                    "Content": "Hallo Zusammen,  nur nochmal der Hinweis, dass wir morgen wieder im Raum 118 sein werden, wegen der parallelen MRI-Vorlesung. Zudem, möchte ich nochmal daran erinnern, dass zu jedem Sprint ein Social-Media-Foto in jeder Gruppe entstehen soll mit einem Eindruck eurer derzeitigen Arbeit (FEM-Simulation, Bewegungsdaten, Code, Löten, usw...). Dieses bitte im Ordner 8_Oeffentlichkeitsarbeit mit Zeitstempel ablegen.  Best Grüße und bis Morgen Lukas",
+                                    "Response to": "p1075551"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zeitplanung für Sprintplan-Präsentationen",
+                            "Discussion_Id": "593408",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068477",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-05-08T18:57:41+02:00",
+                                    "Content": "Hallo Zusammen, Wie versprochen findet ihr unter \"Zeitplanung Semesterplan-Vorstellung\" auf der ISIS Seite zu dieser Woche die Zeitplanung für eure Sprintplan-Präsentationen am Mittwoch. Ich habe nach den Wünschen von Heute nochmal die H- und R-Gruppen getauscht. Anwesenheit bei Präsentationen Ihr müsst auf Grund der ausgedehnten Zeit natürlich nicht zu allen Präsentationen anwesend sein. Allerdings kann das bei den Gruppen, wo ihr Schnittstellen vermutet, durchaus sehr spannend und sinnvoll sein. So würde ich euch sehr ans Herz legen, zumindest diese auch mitzunehmen und euch bei der Diskussion zu beteiligen. Wichtige Hinweise zur Zeitplanvorstellung: Die Prüfungsanmeldung bei MOSES ist VOR der Veranstaltung abzuschließen! Der Folienmaster liegt auf ISIS bei \"Vorlagen\" Bitte beachtet die Vorgaben aus der Input-VL zur Methodischen Produktentwicklung und agilem PM Stellt eure Zielsetzung nochmal dar und holt uns ab, achtet auf definierte und abschließbare Zwischenziele, die zu den Sprint-Reviews (siehe Disposition) erfüllt sein sollen. Lieber \"kleine\" Abschlüsse nach Priorisierung statt zehrender Parallelisierung. Es soll (auch wenn das nicht streng SCRUM ist) nicht nur der erste Sprint (dieser ausführlicher), sondern das gesamte Semester in vier Sprints mit geclusterten Sprintzielen dargestellt werden. Die Reihenfolge entspricht der Priorisierung eures Backlogs. Aufgabenpakete und Sprint-Planung: Baut die entsprechenden Aufgabenpakete zusammen Erstellt im Vorfeld einen möglichst allumfassenden Product-Backlog, in dem ihr die Aufgabenpakete so kleinteilig runterbrecht, damit ihr den Aufgaben problemlos Story Points zuweisen könnt Der vorgestellte Zeitplan stellt die priorisierte Reihenfolge des Product-Backlogs - aufgeteilt in Sprints - dar. Bemüht euch um realistische Sprint-Planung - der Gruppengröße angemessen (Diese ist nach jedem Sprint und der erfassten Geschwindigkeit anzupassen) Beachtet eure persönliche Urlaubs/-Klausurenzeit Darstellung des Zeitplans: Der vorgestellte Zeitplan muss nicht jeden einzelnen bedachten Unterpunkt kleinteilig darstellen. Es geht darum, den groben Verlauf aufzuzeigen, um als Diskussionsgrundlage zu dienen Versucht Doppeldokumentation zu vermeiden und nutzt die Decks-Funktion in der Nextcloud. Über die Export-Funktion könnt ihr eine CSV-Datei ausgeben lassen, die ihr dann für etwaige Filterung oder Visualisierung nutzen könnt. Probiert das rechtzeitig aus, um eure Strategie zur Kennzeichnung der Priorisierung oder der Story Points festzulegen. Weitere Hinweise: Mindestschriftgröße einer Power Point ist (ohne Lupenfunktion) 15 Die angesetzte Zeit darf nicht überschritten, aber ggf. gerne unterschritten werden, insbesondere bei kleineren Teams! Tutor*innen und Feedback: Ich empfehle euch, euren Tutor*innen nochmal (rechtzeitig!!!! nicht Mittwoch Abend) eine erste Vorabversion der Planung zu schicken, damit diese nochmal ein kurzes Feedback geben können. Auch der Beginn der regelmäßigen Treffen macht in dieser Woche sicherlich auch Sinn.   Viel Erfolg und bis Donnerstag  Lukas  ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069787",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-05-14T00:43:15+02:00",
+                                    "Content": "Hallo Zusammen,  leider musste die \"Zeitplanung Semesterplan-Vorstellung-v2\" für Mittwoch nochmal angepasst werden. Falls das nun zu Konflikten führt, kann der Vortrag auch oline, hybrid oder von einzelnen Mitgliedern gehalten werden, so lange sich alle bei der Erstellung der Planung beteiligt haben.  Ich bitte um Entschuldigung für die kurzfristige Änderung. Um das in Zukunft zu vermeiden, bitte ich alle, sich rechtzeitig bei Einschränkung zu Meilensteinterminen bei mir zu melden, damit ich das in der Planung berücksichtigen kann.  Beste Grüße und bis Mittwoch Lukas",
+                                    "Response to": "p1068477"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Semesterauftakt RISE",
+                            "Discussion_Id": "587044",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058571",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-04-17T17:37:17+02:00",
+                                    "Content": "Liebe RISE Studierende, wir freuen uns über einen erfolgreichen RISE-Auftakt mit euch! Die Folien zur Auftaktveranstaltung sind auf ISIS hochgeladen. Hier finden sich auch nochmal alle Gruppenaufgabenbeschreibungen. Bitte denkt daran, euch bis Samstagabend bei der Selbsteinschätzung einzutragen, damit wir auf dieser Grundlage die Gruppen für nächste Woche zusammenstellen können. Ihr seid natürlich herzlich eingeladen, auch noch weitere Kommiliton*innen von unserer Sache zu überzeugen! Beste Grüße Lukas PS: Ich habe vorhin vergessen nochmal auf unser Frühlingsfest am 02.05. aufmerksam zu machen, Infos hierzu findet ihr auf den letzten Folien und im dafür vorgesehenen ISIS-Kurs.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059943",
+                                    "Author": "Lukas Julius Schneidewind",
+                                    "DateTime": "2024-04-20T10:05:03+02:00",
+                                    "Content": "Hallo zusammen,  Friendly-Reminder: Bitte bis Heute Abend in die Selbsteinschätzung eintragen.  Beste Grüße Lukas",
+                                    "Response to": "p1058571"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

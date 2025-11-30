@@ -1,0 +1,380 @@
+[
+    {
+        "Course_Name": "Orientierungsprojekt SoSe2024 - \"Flächengerechtigkeit in Städten\"",
+        "Course_id": "37119",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Nachrichtenforum",
+                    "Forum_id": "1747959",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Layout + Anleitung für QGIS",
+                            "Discussion_Id": "605843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086971",
+                                    "Author": "Johann Friedrich Knuth",
+                                    "DateTime": "2024-07-05T15:39:41+02:00",
+                                    "Content": "Liebe Alle, ich habe euch auf dem Miro-Board die vorläufigen Layouts hochgeladen (bei GIS-Analyse unter den Farben). Hier eine Anleitung wie das für QGIS zu öffnen ist: Zuerst müsst ihr die Datei herunterladen, möglichst an einen Ort an dem Ihr sie leicht wiederfindet. Danach öffnen ihr euer QGIS Projekt mit eurer Stressoren-Karte. Danach geht ihr auf \"Projekt\" und wählt dort \"neues Drucklayout\" aus. Nun müsst ihr dieses Projekt benennen. Soweit ich weiß ist die Benennung nicht wirklich relevant, also nennt es wie ihr wollt. Eine Möglichkeit könnte TEST sein.  Nun öffnet sich ein neues Fenster in welchem ihr das neue Drucklayout seht. Zuerst drückt ihr bitte Rechtsklick auf das weiße Blatt und wählt \"Seiteneigenschaften\" aus. Nun erscheint auf der rechten Seite des Fensters eine neue Bedienfläche namens \"Seite\" . Dort stellt ihr bitte die Größe des Blattes auf A0.  Nun wählt ihr oben das Ordner-Symbol an (vom Beginn des Fensters an dritte Reihe, viertes Symbol von links). Nun öffnet sich die Option \"Vorlage laden\". Dort wählt ihr nun die abgespeicherte Vorlage aus und drückt auf \"öffnen\". Nun müsst ihr nur noch euren Zoom ändern, macht das einfach entweder mit eurem Mausrad oder gebt die Zoom-Stufe 15% unten rechts ein, dann müsstet ihr eure Karte sehen können. Ein paar Funktionen müssten zwar noch nicht funktionieren, diese Dinge lassen sich aber leicht beheben. Das TU-Logo in der oberen rechten Ecke könnt ihr auch aus der Cloud laden. Speichert es dort, wo ihr es leicht wiederfindet. Nun wählt ihr auf der rechten Seite eures Bildschirms im Fenster \"Elemente\" (dies ist bereits geöffnet) \"TU-Logo\" aus.  Wenn ihr es ausgewählt habt, dann ausgewählt habt, drückt ihr auf die im Bild angegebenen drei Knöpfe und wählt das TU-Logo aus. Nun müsste es erscheinen.  Das wars erstmal. In der Cloud findet ihr außerdem das Layout für ArcMap. Wer mit ArcMap arbeiten will nutzt dieses, wir empfehlen aber QGIS sehr. Bei Problemen oder Nachfragen, wendet euch an uns.  Habt ein schönes Wochenende, Johann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Farben für die Karten ",
+                            "Discussion_Id": "605398",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086361",
+                                    "Author": "Zora Röske",
+                                    "DateTime": "2024-07-03T23:28:21+02:00",
+                                    "Content": "Hallo an alle,  die überarbeiteten Farben sind jetzt auf dem Miro Board hochgeladen, in den farbigen Kästchen steht jeweils der HEX Code. Neben den Farben sind auch Vorschläge für die \"Ampel\" Farben, bei denen die unteren 2 Möglichkeiten auch für die meisten farbenblinde Menschen lesbar sein sollten. Für Rückfragen oder Feedback könnt ihr euch gerne hier im Forum oder über WhatsApp bei der Layout-Gruppe melden. LG Zora",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Überarbeiteter Moderationsplan für den 08.07.2024",
+                            "Discussion_Id": "605367",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086310",
+                                    "Author": "Jan Anton Herbert König",
+                                    "DateTime": "2024-07-03T19:52:34+02:00",
+                                    "Content": "Liebe alle, auf Feedback von Frau Kleinschmit hin möchten Robin und ich euch den angepassten Moderationsplan vorstellen. Es ist etwas früher Schluss, doch dafür müssen wir umso mehr darauf achten, im Zeitplan zu bleiben!  Bitte denkt alle daran, euch für das Dragon Dreaming mittels Recherche zu euren Themen vorzubereiten! Wir wurden alle per Durchzählen im Plenum am 25.06.2024 einer der drei Gruppen zugeteilt, die auf Miro im Dragon Dreaming Bereich zu sehen sind. Liebe Grüße Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokoll, Einladung und Moderationsplan",
+                            "Discussion_Id": "605021",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085834",
+                                    "Author": "Jan Anton Herbert König",
+                                    "DateTime": "2024-07-02T15:08:26+02:00",
+                                    "Content": "Hallo alle, das Protokoll des heutigen Plenums ist nun hochgeladen. Gleichzeitig möchten Robin und ich euch zum Plenum am kommenden Montag, den 08.07. um 14 Uhr im EB 415 einladen. Die einzelnen Aufgabengruppen werden ihr Konzept vorstellen, es wird etwas dragon gedreamed, einige haben sich bereiterklärt Kuchen oder andere Leckereien mitzubringen, es wird schön, kommt vorbei. Hier der Moderationsplan: Wir freuen uns, euch noch einmal in gesammelter Runde zu sehen. Viele Grüße Robin und Jan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokoll 01.07.2024",
+                            "Discussion_Id": "604830",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085576",
+                                    "Author": "Lavinia Marie-Louise Glatz",
+                                    "DateTime": "2024-07-01T22:03:47+02:00",
+                                    "Content": "Hey Leute, absofort findet ihr das Protokoll zum heutigen Vortrag.  Beste Grüße Lavinia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einladung zum Plenum am 02.07.2024",
+                            "Discussion_Id": "604507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085089",
+                                    "Author": "Hannah Amy Sondermann",
+                                    "DateTime": "2024-07-01T01:40:49+02:00",
+                                    "Content": "Hallo zusammen,   Leider etwas verspätet, Sorry dafür, aber hier einmal die Einladung zum Plenum am 02.07. in EB415. Wir treffen uns wie immer um 10:15 Uhr, Ende wird voraussichtlich gegen 13:00 Uhr sein.  Auf Miro findet ihr die Tagesordnung.   Liebe Grüße Hannah & Vincent ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vortrag Dr. Klimeczek Montag 1.7 14 Uhr online",
+                            "Discussion_Id": "604308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084768",
+                                    "Author": "Birgit Kleinschmit",
+                                    "DateTime": "2024-06-28T15:07:08+02:00",
+                                    "Content": "Liebe Studierende! Herr Dr. Klimeczek, der \"Vater\" der Umwetgerechtgkeit in Berlin, hat mir jetzt kurzfirstig angeboten, am Montag den 01.7 von 14-15:30 Uhr  zum Thema \"Umwelt- und Flächengerechtkeit in Berlin\" zu berichten. Der Termin findet online in meinem Zoom-Raum statt. Ich hoffe auf rege Teilnahme, trotz der Kurzfristigkeit. Herr Klimeczek ist wirklich ein absoluter Experte auf dem Gebiet. Bitte schicken Sie die Info auch noch mal in ihrer WhatsApp Gruppe rum, damit alle informiert sind. hier ist der Zoom-Link zu meinem Raum: https://tu-berlin.zoom.us/j/6724542092?pwd=V3BEaFdUVUcyd2ZMSDMxOGI4UjBmQT09 Gruß und ein schönes Wochenende B. Kleinschmit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tabellen für Mehrfachbelastung",
+                            "Discussion_Id": "603974",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084288",
+                                    "Author": "Zora Röske",
+                                    "DateTime": "2024-06-27T11:10:56+02:00",
+                                    "Content": "Hallo an alle,   damit wir an der Mehrfachbelastungskarte arbeiten können, wäre es jetzt für die Karten/Layout Gruppe wichtig, dass wir von allen Gruppen ihre Tabellen mit der Einteilung in den Stufen 1-3 bekommen. Die Tabelle sollte nur die Spalten PLR_ID, PLR_Name, die Einstufung eures Faktors (1= „gut“, 3 = „schlecht“/ so wie bei dem sozialen Status) und zur Sicherheit noch einmal die ausgeschriebenen Einstufungen (hoch, mittel, gering) enthalten. Ihr könnt eure Tabellen dafür einfach bei ArcGIS als Textdatei exportieren (Table options -> Export… Dann bei Export: „All records“ und unter Output table: den Ordner auswählen, in dem ihr die Tabelle speichern wollt und bei „Save as type“ Textdatei auswählen) und diese dann in der TUB-Cloud hochladen: https://tubcloud.tu-berlin.de/s/o66ZP6PATKEHNE7 . Bitte achtet bei der Beschriftung der Tabelle darauf, dass ihr euren Faktor aussagekräftig benennt (zB. „Lärm_wert“ anstatt nur „Wert“) und die anderen Felder ebenfalls richtig beschriftet sind, das erleichtert uns dann die Arbeit.   Liebe Grüße :)  Eure Layout Gruppe ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moderationsplan für den 25.06.2024",
+                            "Discussion_Id": "603049",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082969",
+                                    "Author": "Hannes Leopold Wittenstein",
+                                    "DateTime": "2024-06-24T13:02:39+02:00",
+                                    "Content": "Liebes Plenum, im Anhang findet ihr nun den Moderationsplan als PNG-Datei. (Die Dateiformate docx und pdf funktionieren nicht.) Liebe Grüße Hannes & Johann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Plenum am 25.06.2024",
+                            "Discussion_Id": "602709",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082472",
+                                    "Author": "Hannes Leopold Wittenstein",
+                                    "DateTime": "2024-06-21T21:58:45+02:00",
+                                    "Content": "Liebes Plenum, das nächste Plenum wird am Dienstag, den 25.06.2024, um 10:00 Uhr s.t. im EB 415 stattfinden. Im Anhang findet ihr den Moderationsplan. Bei weiteren Anregungen / Ergänzungen dazu, könnt ihr gerne Johann oder mich kontaktieren. Wir wünschen ein erholsames Wochenende! Hannes & Johann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokoll 13.06.2024 VCD",
+                            "Discussion_Id": "601037",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080086",
+                                    "Author": "Eva Meret Roosmann",
+                                    "DateTime": "2024-06-14T10:53:49+02:00",
+                                    "Content": "Hallo zusammen, das Protokoll von Donnerstag, 13.06. ist unter \"Protokolle Exkursion\" hochgeladen. Ihr könnt es unter dem Link abrufen https://isis.tu-berlin.de/pluginfile.php/3111355/mod_data/content/372627/Protokoll_13_06_2024.pdf Liebe Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokoll 12.06.2024 Difu",
+                            "Discussion_Id": "600961",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079961",
+                                    "Author": "Hannes Leopold Wittenstein",
+                                    "DateTime": "2024-06-13T18:02:07+02:00",
+                                    "Content": "Guten Abend, ich habe euch das Protokoll vom Besuch beim Deutschen Institut für Urbanistik gestern schon hochgeladen. Ich habe nur nicht daran gedacht, dass ihr dadurch aber keine automatische Benachrichtigung erhaltet. Daher hiermit nun die Information. Ihr findet das Protokoll unter folgendem Link: https://isis.tu-berlin.de/mod/data/view.php?id=1747974 Liebe Grüße Hannes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Präsentation DIfU",
+                            "Discussion_Id": "600629",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079463",
+                                    "Author": "Julia Stefanie Maidl",
+                                    "DateTime": "2024-06-12T15:03:13+02:00",
+                                    "Content": "Hallo, hier ist noch die Präsentation von heute: https://isis.tu-berlin.de/draftfile.php/3015887/user/draft/197632656/Difu%20Fl%C3%A4chengerechtigkeit.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Checkt eure Koordinatensysteme!",
+                            "Discussion_Id": "600313",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079011",
+                                    "Author": "Jule Gillmann",
+                                    "DateTime": "2024-06-11T14:17:28+02:00",
+                                    "Content": "Hey alle!  Uns ist leider ein blöder Fehler unterlaufen und wir dachten, den teilen wir mit euch als kleiner Reminder: Falls ihr eure Daten nicht vom FIS-Broker habt, dann überprüft doch nochmal, ob die Koordinatensysteme einheitlich sind. Das könnt ihr einfach über die Properties machen. Sonst können schnell ein paar Fehlerchen passieren. Hoffentlich sind wir die einzigen, denen das passiert ist :) Liebe Grüße Jule",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Treffe Mittwoch vor dem Difu",
+                            "Discussion_Id": "600127",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078740",
+                                    "Author": "Julia Stefanie Maidl",
+                                    "DateTime": "2024-06-10T18:48:27+02:00",
+                                    "Content": "Hallo Alle,  wir treffen uns Mittwoch um 10:45 Uhr in der Zimmerstraße 13 und gehen dann zusammen ins Institut. Dort wird uns ein Raum zur Verfügung gestellt, in dem wir auch die Präsentation zeigen können. Bis morgen Julia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tabelle_Miro_Exkursion",
+                            "Discussion_Id": "599932",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078454",
+                                    "Author": "Matthias Wolfgang Arlt",
+                                    "DateTime": "2024-06-10T10:52:34+02:00",
+                                    "Content": "Hallo liebe Alle,  wie Ihr vielleicht schon gesehen habt, gibt es eine Tabelle auf Miro für die verschiedenen Themen der Exkursionswoche. Unter der Tabelle findet Ihr die Links zu den verschiedenen Themen.  Bitte recherchiert hierzu und tragt für jedes Thema eine Frage in die Tabelle ein.   Gruß  Euer Exkursionsteam",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CIP-Pool",
+                            "Discussion_Id": "599508",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077818",
+                                    "Author": "Birgit Kleinschmit",
+                                    "DateTime": "2024-06-06T18:55:23+02:00",
+                                    "Content": "Hallo Herr Seidel, hallo alle! In den CIP-Lehrpool dürfen sie leider ohne einen Lehrenden nicht rein. Daher müssten sie bitte im öffentlichen CIP-Pool arbeiten. Okan und Phil werden am Montag, den 17.06 nochmal um 14 Uhr eine Lab-Session anbieten. Bis dahin müssen alle Gruppen ihre Be- und Entlastungskarten  mit den drei Stufen hoch (3) , mittel (2) gering (1) auf der PLR-Ebenen fertig haben. Bei den Entlastungsfaktoren (Beleuchtung und Grünflächenversorgung enspricht 3 dann gering (versorgt), 2 mittel (versorgt) und 1 hoch (versort.  Mit den numerischen Zahlen 1-3 werden sie dann weiter rechnen und die Mehrfachbelastungen in den PLRs quantifizieren. Ich werde auf MIRO nochmals die weiteren  Arbeitsschritte etwas genau beschreiben. Gruß B. Kleinschmit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CIP nächsten Montag und Dienstag",
+                            "Discussion_Id": "599271",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077486",
+                                    "Author": "Dominic Seidel",
+                                    "DateTime": "2024-06-05T22:38:46+02:00",
+                                    "Content": "Guten Abend :), wir haben uns ja dafür entschieden, den Montag und Dienstag (Exkursionswoche) für die GIS Arbeit zu nutzen. Wäre es möglich und besteht die überhaupt auch die Nachfrage, dass wir für die beiden Tage einen CIP Pool mieten ?  Mit freundlichen Grüßen und einen schönen Abend Dominic Seidel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Status-Index 2021",
+                            "Discussion_Id": "599096",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077233",
+                                    "Author": "Birgit Kleinschmit",
+                                    "DateTime": "2024-06-05T11:27:11+02:00",
+                                    "Content": "Hallo Zusammen! Wir verwenden den \"Status-Index 2021\"  vom Monitroring Sozial Stadt 2021. Die relevanten Spalten sind SI_V und SI_N. SI_V ist die verbale Zuordnung (hoch, mittel, niedrig, sehr niedrig) und SI_N die numerischen Bezeichnungen (!,2,3,4) Seit 2021 werden PLR mit niedrigem und sehr niedrigem Statudindex zusammengefasst. Im auf der Cloud liegt die Tabelle einmal als CSV und einmal als Excel. Das ist der WFS Link: https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_Indizes_MSS2021_homogen?REQUEST=GetCapabilities&SERVICE=wfs Gruß B. Kleinschmit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Model Builder",
+                            "Discussion_Id": "598821",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076846",
+                                    "Author": "Birgit Kleinschmit",
+                                    "DateTime": "2024-06-04T12:36:09+02:00",
+                                    "Content": "Hier wie angekündig Infos zum  Model Builder: Der ModelBuilder ist eine Anwendung, mit der Sie  Sequenzen von Geoverarbeitungswerkzeugen miteinander verketten und diese in einem Modell speichern können. https://desktop.arcgis.com/de/arcmap/latest/analyze/modelbuilder/what-is-modelbuilder.htm https://desktop.arcgis.com/de/arcmap/latest/analyze/modelbuilder/creating-tool-with-modelbuilder-tutorial.htm Viele Spaß beim Ausprobieren B. Kleinschmit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI in der Lehre und Forschung",
+                            "Discussion_Id": "596220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072884",
+                                    "Author": "Birgit Kleinschmit",
+                                    "DateTime": "2024-05-23T10:08:23+02:00",
+                                    "Content": "Hallo Zusammen! Ich möchte Ihnen diesen Link der Bibliothek zur Verfügung stellen, der Ihnen mehrere Dokumente  zum Thema \"KI und Wissenschafltiches Arbeiten\" bereitstellt. Es lohnt sich hier mal zu stöbern! https://www.tu.berlin/wm/bibliothek/lernen-arbeiten/kuenstliche-intelligenz-tools-und-wissenschaftliches-arbeiten Gruß B. Kleinschmit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Plenum am 04.06.",
+                            "Discussion_Id": "596013",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072607",
+                                    "Author": "Lavinia Marie-Louise Glatz",
+                                    "DateTime": "2024-05-22T14:38:57+02:00",
+                                    "Content": "Hallo liebe alle, hiermit wollen wir euch zu unserem nächsten Plenum am 04.06. um 10:00 Uhr c.t. im EB 415 einladen.  Die Tagesordnungspunkte findet ihr bereits auf dem Miro-Board. Falls ihr noch Ergänzungen oder Wünsche habt, könnt ihr euch gerne bei uns melden. Habt alle eine schöne Restwoche. Matthias und Lavinia",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einladung zum Plenum am 21.05.",
+                            "Discussion_Id": "595419",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071706",
+                                    "Author": "Zora Röske",
+                                    "DateTime": "2024-05-20T11:21:35+02:00",
+                                    "Content": "Hallo ihr Lieben,  Unser nächstes Plenum wird morgen um 10:00 Uhr c.t. im EB 415 stattfinden. Die Tagesordnungspunkte sind auf das Miro-Board hochgeladen, falls ihr noch irgendwelche Ergänzungen dazu habt, könnt ihr gerne Dominic oder mich kontaktieren.  Wir wünschen euch allen heute noch einen schönen freien Tag!  Dominic und Zora",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorenstelle FG Kleinschmit",
+                            "Discussion_Id": "591771",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065910",
+                                    "Author": "Birgit Kleinschmit",
+                                    "DateTime": "2024-05-02T14:52:09+02:00",
+                                    "Content": "Liebe Studierende! Es gibt an meinem Fachgebiet eine Ausschreibung für eine Lehr-Tutorenstelle. https://tub.stellenticket.de/de/offers/182306 Wer Spaß an GIS und zukünftig auch an Statistik und Fernerkundung hat ist herzlich willkommen, sich zu bewerben. Die Person würde Okan in der Lehrvorbereitung und Durchführung unterstützen.  Wir bieten recht flexible Arbeitszeiten und einen Arbeitsplatz in unserem Tutorenbüro. Bewerbungsfrist ist der 13. Mai. Herzliche Grüße Birgit Kleinschmit",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokollant*innen für Plenum am 30.04",
+                            "Discussion_Id": "590999",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064752",
+                                    "Author": "Varvara Kosova",
+                                    "DateTime": "2024-04-29T20:07:23+02:00",
+                                    "Content": "Hallo liebe Alle, wir mit Julia haben bemerkt, dass für das morgige Plenum niemand als Protokollant*innen in Miro-Board eingetragen ist. Bitte überlegen Sie bis dahin, wer das machen will-wir brauchen 2 Personen. Mit freundlichen Grüßen  Varvara Kosova",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einladung 2. Plenum",
+                            "Discussion_Id": "590113",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063395",
+                                    "Author": "Julia Stefanie Maidl",
+                                    "DateTime": "2024-04-26T10:49:28+02:00",
+                                    "Content": "Hallo liebe Alle, Wir haben nächste Woche Dienstag am 30.04. um 10:15 Uhr unser nächstes Plenum in EB 415. Ihr könnt hier gerne noch TOPs an uns schicken, ansonsten haben wir die ersten drei Vorträge und werden über die Exkursion sprechen.  Bis dann!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MIRO Board",
+                            "Discussion_Id": "587444",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059196",
+                                    "Author": "Zora Röske",
+                                    "DateTime": "2024-04-18T17:41:23+02:00",
+                                    "Content": "Hallo,  der MIRO Link auf der Kursseite führt glaube ich zu dem Projekt vom letzten Jahr, das hier wäre unserer: https://miro.com/welcomeonboard/ZWVBNFRBS1RTd1I0U2xMUmhQNHdNcjhiWGFsR1dTazdBUmljMlVVc2phd2RXQTZwcGNtNW53QmNOampTZ0xsN3wzMDc0NDU3MzQ3NjY3MzE3NDYzfDI=?share_link_id=15259270670 Liebe Grüße  Zora",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokoll am 16.04.2024",
+                            "Discussion_Id": "587250",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058893",
+                                    "Author": "Varvara Kosova",
+                                    "DateTime": "2024-04-18T11:52:42+02:00",
+                                    "Content": "Hallo zusammen, das Protokoll von 16.04.24 ist bereit und ihr könnt es unter „Upolad Protokolle“ anschauen. Mit freundlichen Grüßen ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

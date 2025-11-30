@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Kosmetische Mittel",
+        "Course_id": "37497",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1760938",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Feedback zum Kurs",
+                            "Discussion_Id": "603251",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083305",
+                                    "Author": "Hajo Haase",
+                                    "DateTime": "2024-06-25T06:27:33+02:00",
+                                    "Content": "Liebe Alle,  über den folgenden Link können Sie bei Evasys Feedback zu dieser Veranstaltung abgeben: https://befragung.tu-berlin.de/evasys/online.php?pswd=7FTYA Bitte machen Sie von dieser Möglichkeit Gebrauch!  Beste Grüße Hajo Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

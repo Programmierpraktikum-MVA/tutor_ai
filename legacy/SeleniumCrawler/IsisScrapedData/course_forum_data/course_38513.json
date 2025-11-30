@@ -1,0 +1,211 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Web-Service Engineering",
+        "Course_id": "38513",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1793311",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Reihenfolge Milestone Präsentation",
+                            "Discussion_Id": "600547",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079350",
+                                    "Author": "Timm-Christopher Teubner",
+                                    "DateTime": "2024-06-12T11:13:37+02:00",
+                                    "Content": "Beginn 16:15 Uhr 01    Softwaregini 02    Grpah2Data 03    Cobry 04    BMW#2 05    BMW#1",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Milestone-Präsentation am 12.06.2024",
+                            "Discussion_Id": "596066",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072684",
+                                    "Author": "Timm-Christopher Teubner",
+                                    "DateTime": "2024-05-22T16:17:35+02:00",
+                                    "Content": "Liebe Teilnehmer*innen der WebService-Engineering LV, wie Sie wissen, findet am 12.06.2024 (16 Uhr c.t.) ja die Milestone-Präsentation statt. Jedes Team wird gebeten, dort in 12 Minuten den aktuellen Stand der Arbeiten darzustellen (Sprache: Deutsch oder Englisch). Dabei gehen Sie bitte auch auf folgende Aspekte ein (die Zeiten nur als grobe Orientierung): ·         Aufgabenstellung des Praxispartners in Ihren Worten (was genau ist Ihr Ziel?) (ca. 1 Minute) ·         Identifizierte Herausforderungen (ca. 3 Minuten) ·         Aufgabenverteilung im Team (ca. 3 Minuten) ·         Bereits abgeschlossene Arbeitsschritte (ca. 3 Minuten) ·         Zeitplan für bis zur Abgabe/ Abschlusspräsentation (ca. 2 Minuten) Der Termin ist ein Pflichttermin für den Abschluss des Moduls, alle Teammitglieder müssen teilnehmen (in Ausnahmefällen per Zoom möglich). Ort: Hörsaal BH-N 128. Herzliche Grüße Timm Teubner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung von 08.05. auf 15.05.",
+                            "Discussion_Id": "592887",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067705",
+                                    "Author": "Timm-Christopher Teubner",
+                                    "DateTime": "2024-05-07T11:53:48+02:00",
+                                    "Content": "Liebe Kurs-TN, da die Kickoff-Veranstaltungen der Partner-Unternehmen ja teilweise überlappend mit der geplanten Vorlesung zu WebScraping morgen stattfinden, werden wir die VL-Einheit um eine Woche nach hinten, d.h. auf den 15.05. 16:00 Uhr c.t. verschieben. Herzliche Grüße Timm Teubner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erst- Zweit- und Drittpräferenzen",
+                            "Discussion_Id": "590311",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063683",
+                                    "Author": "Timm-Christopher Teubner",
+                                    "DateTime": "2024-04-26T17:17:24+02:00",
+                                    "Content": "Liebe Kurs-Teilnehmer*innen, da sich abzeichnet, dass sich Ihre Präferenzen vor allem auf einige wenige der Use-Cases konzentrieren, bitte ich Sie, für Ihre Bewerbung Erst- Zweit- und Drittpräferenzen, anzugeben. (Bitte auch, falls Sie mir bereits geschrieben haben.) Vielen Dank & beste Grüße Timm Teubner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kostenloser Zugang zu DataCamp",
+                            "Discussion_Id": "588930",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061561",
+                                    "Author": "Ha Diana Tran Nhat",
+                                    "DateTime": "2024-04-23T14:13:17+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, wer Interesse daran hat, programmieren zu lernen bzw. Kenntnisse zu verbessern, kann im Rahmen des Kurses einen kostenlosen Zugang zur Coding-Lernplattform DataCamp erhalten. Tretet dazu dem Kurs unter dem folgenden Link bei: https://www.datacamp.com/groups/shared_links/a3433fd6b494d62f3a00742f0ce285a70bf13582dfc9a6e4d058d7a649a59424 Für den kostenlosen Zugang müsst ihr ein Konto mit eurer TU-E-Mail-Adresse erstellen (entweder @campus.tu-berlin.de oder @tu-berlin.de). Bitte verwendet nicht eure private E-Mail-Adresse. Viele Grüße Diana ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1793312",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final Presentation",
+                            "Discussion_Id": "606400",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087774",
+                                    "Author": "Jan Bode",
+                                    "DateTime": "2024-07-08T18:58:50+02:00",
+                                    "Content": "Dear Prof. Teubner & Team, are there any formal requirements regarding the content of the final presentation or should we focus on the industry partner's requirements? Best Jan Bode",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087960",
+                                    "Author": "Ha Diana Tran Nhat",
+                                    "DateTime": "2024-07-09T10:45:18+02:00",
+                                    "Content": "Hi Jan,  There are no formal requirements for the slides. However, the presentation should include the following points:  - Summary of the task - Summary of the project organization - Presentation of the solution (pages & functionalities with rationale for decisions) - Outlook: Ideas for extensions / additional work packages  Best, Diana",
+                                    "Response to": "p1087774"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Project Presentations",
+                            "Discussion_Id": "589242",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062085",
+                                    "Author": "Shahraz Nasir",
+                                    "DateTime": "2024-04-24T10:28:20+02:00",
+                                    "Content": "Hello, due to some time conflicts, I am not sure if I will be able to attend today's session. I recall from the last one that today our company partners will present the project ideas and scope. Therefore, is it possible to upload the information they provide today on the ISIS course? So people who miss out can still learn about the requirements and expectations. Or even better, is the session available to follow online? Best, Shahraz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062329",
+                                    "Author": "Ha Diana Tran Nhat",
+                                    "DateTime": "2024-04-24T14:34:29+02:00",
+                                    "Content": "Hi Shahraz,  the slides will be uploaded but there won't be an online session.  Best, Diana",
+                                    "Response to": "p1062085"
+                                },
+                                {
+                                    "Message_id": "p1062446",
+                                    "Author": "Aleksander Gomilsek",
+                                    "DateTime": "2024-04-24T16:07:29+02:00",
+                                    "Content": "I am in a similar situation. So if possible can someone take notes of things that are not on slides?  Best, Aleksander",
+                                    "Response to": "p1062085"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "kick-off",
+                            "Discussion_Id": "588489",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060899",
+                                    "Author": "Muaaz Chihabi",
+                                    "DateTime": "2024-04-22T15:12:57+02:00",
+                                    "Content": "hello I was not able to come to the kick-off last week what should I do?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060936",
+                                    "Author": "Timm-Christopher Teubner",
+                                    "DateTime": "2024-04-22T15:39:43+02:00",
+                                    "Content": "simply join in on Wednesday! best",
+                                    "Response to": "p1060899"
+                                },
+                                {
+                                    "Message_id": "p1062302",
+                                    "Author": "Felipe Trost",
+                                    "DateTime": "2024-04-24T14:05:13+02:00",
+                                    "Content": "Are the presentations at 16:00?",
+                                    "Response to": "p1060936"
+                                },
+                                {
+                                    "Message_id": "p1062327",
+                                    "Author": "Ha Diana Tran Nhat",
+                                    "DateTime": "2024-04-24T14:32:44+02:00",
+                                    "Content": "Yes, the presentations start at 4 pm.",
+                                    "Response to": "p1062302"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kursinformationen",
+                            "Discussion_Id": "585905",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056965",
+                                    "Author": "Lucas Frederic Stuve",
+                                    "DateTime": "2024-04-15T11:45:07+02:00",
+                                    "Content": "Liebes Kurs-Team,  um das aktuelle Semester planen zu können, wäre es hilfreich zu erfahren, wann mit weiteren Informationen über den Kurs zu rechnen ist. Dies würde mir sehr helfen, um die Kursplanung für dieses Semester abzuschließen.  Ich freue mich über weitere Informationen über den Kurs.  Vielen Dank Lucas ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057199",
+                                    "Author": "Ha Diana Tran Nhat",
+                                    "DateTime": "2024-04-15T16:11:26+02:00",
+                                    "Content": "Hallo Lucas,  am Mittwoch (17.04.24) findet die Kick-off-Veranstaltung statt, bei der alle relevanten Informationen bekannt gegeben werden.  Viele Grüße Diana",
+                                    "Response to": "p1056965"
+                                },
+                                {
+                                    "Message_id": "p1057727",
+                                    "Author": "Lucas Frederic Stuve",
+                                    "DateTime": "2024-04-16T14:43:28+02:00",
+                                    "Content": "Super, vielen Dank!",
+                                    "Response to": "p1057199"
+                                },
+                                {
+                                    "Message_id": "p1059706",
+                                    "Author": "Victor Nogueira Alves Aguiar",
+                                    "DateTime": "2024-04-19T16:13:23+02:00",
+                                    "Content": "Hi,  Is there a limit of participants? Any form that should be filled for registration? I couldn't find any of this info in the uploaded slides",
+                                    "Response to": "p1057199"
+                                },
+                                {
+                                    "Message_id": "p1059728",
+                                    "Author": "Ha Diana Tran Nhat",
+                                    "DateTime": "2024-04-19T16:35:37+02:00",
+                                    "Content": "Hi Victor,  yes, there is a limit. If you are interested in the course, please send your letter of motivation, CV, and transcript of records to Professor Teubner by April 28th.  Best, Diana",
+                                    "Response to": "p1059706"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

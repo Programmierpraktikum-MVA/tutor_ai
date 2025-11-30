@@ -1,0 +1,36 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] RFT: Attitude Determination and Control Lab",
+        "Course_id": "38189",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782986",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "First Lecture",
+                            "Discussion_Id": "586073",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057206",
+                                    "Author": "Sebastian Grau",
+                                    "DateTime": "2024-04-15T16:21:40+02:00",
+                                    "Content": "Dear participants, Please note, that the lecture will take place in the Student Lab of the Chair of Space Technology, located in room F 143, Mrchstraße 12-14, 10587 Berlin. Due to the limited number of places in the lab, please make sure to attend the first lecture on Thursday, 2024-04-18 as it might be necessary to limit the number of participants. If you are not able to participate this week, please let me know and provide your reasons for not attending during the first week of the lecture period. Kind regards Sebastian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058408",
+                                    "Author": "Sebastian Grau",
+                                    "DateTime": "2024-04-17T14:57:33+02:00",
+                                    "Content": "We will start at 8:30. Please be in time!",
+                                    "Response to": "p1057206"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

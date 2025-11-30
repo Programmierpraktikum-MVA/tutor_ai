@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] RFT: Projekt Raumfahrtsysteme II",
+        "Course_id": "38991",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1811932",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Beginn der Lehrveranstaltung",
+                            "Discussion_Id": "585319",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056101",
+                                    "Author": "Harry Adirim",
+                                    "DateTime": "2024-04-10T16:36:17+02:00",
+                                    "Content": "Die erste Lehrveranstaltung findet am 26.4.2024 um 8:15 statt.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

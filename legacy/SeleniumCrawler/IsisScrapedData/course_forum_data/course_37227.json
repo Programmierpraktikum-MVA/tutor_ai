@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "SE Hélène Landemore: Open Democracy (SoSe 2024)",
+        "Course_id": "37227",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1752847",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Heutige Sittung muss leider krankheitsbedingt ausfallen",
+                            "Discussion_Id": "590087",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063357",
+                                    "Author": "Giulia Fammartino",
+                                    "DateTime": "2024-04-26T10:11:23+02:00",
+                                    "Content": "Liebe Studierende,  die heutige Sitzung muss leider krankheitsbedingt ausfallen. Die ersten beiden Sitzungen werden nachgeholt, die Termin werden direkt mit den Dozent abgesprochen. Mit freundlichen Grüßen, Giulia Fammartino",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Heutige Sitzung krankheitsbedingt abgesagt",
+                            "Discussion_Id": "587744",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059657",
+                                    "Author": "Giulia Fammartino",
+                                    "DateTime": "2024-04-19T15:12:56+02:00",
+                                    "Content": "Liebe Studierende, leider muss die erste Sitzung heute krankheitsbedingt ausfallen. Das Seminar findet nächste Woche regulär statt. Viele Grüße, i.A. Giulia Fammartino",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

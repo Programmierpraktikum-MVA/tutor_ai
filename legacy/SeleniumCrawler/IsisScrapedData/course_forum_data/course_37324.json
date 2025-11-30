@@ -1,0 +1,242 @@
+[
+    {
+        "Course_Name": "ADM II – Discrete Optimization 2024",
+        "Course_id": "37324",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Forum for questions",
+                    "Forum_id": "1756659",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lecture Slides",
+                            "Discussion_Id": "605063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085893",
+                                    "Author": "Anja Katharina Ilg",
+                                    "DateTime": "2024-07-02T16:32:29+02:00",
+                                    "Content": "As I am following the lectures by the Skrutella slides and the book by Korte\\Vygen, would it be possible to either post the slides, or a note which topics where discussed? Thanks in advance! Anja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration form",
+                            "Discussion_Id": "603196",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083217",
+                                    "Author": "Leon Jari Kullmann",
+                                    "DateTime": "2024-06-24T18:40:06+02:00",
+                                    "Content": "Hello, where can I find the exam registration form? Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085167",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-07-01T10:22:51+02:00",
+                                    "Content": "Dear Leon,  Please apologize for the delayed answer - I was out of office...  Here it is: https://www.static.tu.berlin/fileadmin/www/10002461/Pruefungsamt/Formulare_Bescheide/Pruefungsanmeldung.pdf (And here is the page with all examination forms, including grade transfer, withdrawal, etc. https://www.tu.berlin/pruefungen/pruefungen/kontakt-teams/formulare)  Best, Ekin",
+                                    "Response to": "p1083217"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Stundents' forum",
+                    "Forum_id": "1756660",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Study group",
+                            "Discussion_Id": "607464",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089308",
+                                    "Author": "Vincent Jonas Bremer",
+                                    "DateTime": "2024-07-12T12:51:42+02:00",
+                                    "Content": "Dear fellow students, for preparation of the exams, I wanted to ask, if you would be interested in studying together. To organize that, I was thinking about opening a WhatsApp group to talk about possible study dates and rooms, that can be booked for that or simply to meet up in virtual room online.  If you are interested, just send me a short text and I will add you to the group or just respond to this thread. My number is: 01523 389 4119 Until then and good luck studying, Vincent",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089354",
+                                    "Author": "Jan Pawel Gorski",
+                                    "DateTime": "2024-07-12T14:13:28+02:00",
+                                    "Content": "I'd be willing",
+                                    "Response to": "p1089308"
+                                },
+                                {
+                                    "Message_id": "p1089440",
+                                    "Author": "Vincent Jonas Bremer",
+                                    "DateTime": "2024-07-12T16:51:27+02:00",
+                                    "Content": "great, another student has texted me already as well. could you send me a text message or post your number here, so that I can invite you to the group chat? Thanks",
+                                    "Response to": "p1089354"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework Group",
+                            "Discussion_Id": "588403",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060751",
+                                    "Author": "Mohammed Zonain Maqsood",
+                                    "DateTime": "2024-04-22T13:14:44+02:00",
+                                    "Content": "Hello, if anyone wants to form a group or has capacity for a new member, feel free to dm me. Thanks. Best",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "looking for study and homework group",
+                            "Discussion_Id": "586371",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057648",
+                                    "Author": "Anja Katharina Ilg",
+                                    "DateTime": "2024-04-16T13:14:16+02:00",
+                                    "Content": "Lets form a group! Message me on Signal/Telegram/Whatsapp ( +49176 98591218 ) .",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for homework group",
+                            "Discussion_Id": "586083",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057218",
+                                    "Author": "Arvell Octavius Leoputra",
+                                    "DateTime": "2024-04-15T16:37:14+02:00",
+                                    "Content": "Hello everyone,  I am looking for homework group to submit the homeworks and occassionally discuss the materials of the lecture (if possible). If you are interested, you can contact me through WhatsApp (+49 15117820505). I appreciate any and all replies. Thankyou.  Kind regards, Arvell",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1756058",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Rest of the course",
+                            "Discussion_Id": "606559",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088008",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-07-09T11:52:07+02:00",
+                                    "Content": "Dear all, Here is an overview of the course for the next two weeks.  Thursday 11.7.: 8-10 Lecture course, we continue with complexity theory. Friday 12.7.: 8-10 Exercise session about TSP, 10-12 tutorial session about Sheet 12 (Ekin) Monday 15.7.: 10-12 tutorial session about Sheet 12 (Chris), 14-16 lecture course (recap and exam prep 1) Tuesday 16.7.: Solutions to Sheet 13 are out Thursday 18.7.: 8-10 lecture course (recap and exam prep 2) Friday 19.7: no exercise session/tutorial.   Please do not forget to send your exam registrations until one week before your examination date. We would, on the other hand, really appreciate to know as soon as possible whether you are indeed participating at the exam or not, for organizational reasons.  Have a nice week! Ekin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Friday 28.06 Programming Contest during the Exercise Session",
+                            "Discussion_Id": "603524",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083653",
+                                    "Author": "Christos Eleftherios Pavlidis",
+                                    "DateTime": "2024-06-25T17:10:00+02:00",
+                                    "Content": "Dear Students, the Exercise Session this friday will be a little bit different than usual. In the first part of the Exercise Session you will be provided with some theoretical groundwork on a (partly) new topic, which you will then be asked to immediatelly apply in a Programming Contest! If you like the idea of a programming contest and want to participate make sure to bring a machine which has the programming language of your choice as well as some tool to solve LPs (like SCIP) installed and configured to your liking (If you did the programming assignments last year this should already be the case). The contest will not be super serious and you can also work (and compete) in groups or support each other, as long as you can agree on how to split the prizes, if you win ;) That's right, as it should be for a contest, there will be prizes! If you don't want to participate in the contest you can still attend the exercise session for the theoretical part at the beginning and/or to cheer up and support your favorite competitor. Best regards and see you friday, Chris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Monday 12-14 Tutorial cancelled",
+                            "Discussion_Id": "603384",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083476",
+                                    "Author": "Christos Eleftherios Pavlidis",
+                                    "DateTime": "2024-06-25T12:13:52+02:00",
+                                    "Content": "Dear students, due to recently low demand for this Tutorial slot we decided to cancell it for the rest of the semester. Please attend one of the other two Tutorials instead. Best regards, Chris",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation and Examinations",
+                            "Discussion_Id": "602485",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082141",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-06-20T19:24:07+02:00",
+                                    "Content": "Dear all, We would appreciate it very much if you could take a few minutes to evaluate this course until June 29.  Here are the links: Dr. Spiegel: https://befragung.tu-berlin.de/evasys/online.php?pswd=VY6XL Ekin:  https://isis.tu-berlin.de/mod/url/view.php?id=1844235 You also find the links on the ISIS homepage.  Regarding exams: Please do not forget to send/hand in registration forms until one week before your exam day. Further, if you are (unbindingly) assigned a slot but ultimately decide against taking the exam, it would help us enormously if you sent me a short email about it. This way, we can perhaps reassign your slot to someone who had a stronger preference towards it.  Thanks in advance! Ekin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Examination",
+                            "Discussion_Id": "599379",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077632",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-06-06T11:36:33+02:00",
+                                    "Content": "Dear all,  Please note the information we have provided on the ISIS homepage regarding the exam and registration, including the exam slot assignment tool. If you wish to take an exam in the first round (29-31 July), please fill in this tool by Friday, July 14, 18:00. Short after this deadline, we will inform you about your assignment, with which you can fill in your registration form. You can find more details on the homepage. All the best, ADM II team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080265",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-06-14T18:41:28+02:00",
+                                    "Content": "Dear all,  If all went well, you should have received an email with your assigned timeslot if you have registered. I would really appreciate it if someone could give a short feedback. Thanks in advance!  Ekin",
+                                    "Response to": "p1077632"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Changes for the next few weeks",
+                            "Discussion_Id": "592684",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067391",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-05-06T17:38:19+02:00",
+                                    "Content": "Dear all, Please note the following changes in the course plan: - 10 May: I am not in Berlin, but the exercise session as well as the tutorial session will be substituted by Chris. As always, the material in the exercise session is different than the homework sheets. - 13 & 16 May: Christoph Spiegel is not in Berlin, the lectures of that week will be recorded and uploaded to ISIS. Besides this, the exercise session and tutorials are as usual. - 20 May: This is a public holiday and therefore the two tutorials of Chris are not taking place. If you have the possibility, feel free to come to my tutorial on the 17th instead (after the exercise session). The lecture on the 20th does not take place or is replaced in any way, either. All the best, Ekin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorials - no tutorial next Monday",
+                            "Discussion_Id": "587666",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059545",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-04-19T12:53:18+02:00",
+                                    "Content": "Dear all,  Please note that the assignments to the three tutorials are finalized and can be seen via Moses. If you have not been assigned but would like to participate at a tutorial, please contact me via email. Furthermore, please note that there are no tutorials next Monday, 22.04.2024. In particular, the tutorials on Monday will always correspond to the tutorial on Friday the week before, see notes in the exercise session for a more rigorous explanation. Other details about homework can be found in these notes as well. The sheet to be discussed in the first tutorials, consisting of non-homework exercises only for this time, is out. Feel free to take a first look at the exercises; however, they will not be graded. The first homework sheet, to be submitted by Tuesday, 30.04., will be uploaded by Tuesday, 23.04. Have a nice weekend! Ekin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration via Moses // Starting times of courses",
+                            "Discussion_Id": "586352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057617",
+                                    "Author": "Ekin Ergen",
+                                    "DateTime": "2024-04-16T12:19:27+02:00",
+                                    "Content": "Dear all, Welcome to ADM II! We hope that you had a nice start into the term. For those who have missed the first lecture, we have two announcements: 1. Please do not forget to sign up to a tutorial via Moses by 6pm tomorrow (17.4.).  If you do not have a Moses account (e.g. because you are from another university), send me (Ekin, ergen@math.tu-berlin.de) an email with times where you are available, so that you can be assigned manually. You can also do this after the deadline; indeed, it will be easier since we will know the exact times of the tutorials. The same applies if you see this message after the deadline. 2. We have decided that the lecture on Thursday as well as the exercise session on Friday each start at 8:30 and end at 10. Further announcements will follow on Friday during the exercise session. All the best, ADM II Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

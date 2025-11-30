@@ -1,0 +1,43 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] SNET: Mobile Services",
+        "Course_id": "39076",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1815036",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Last lecture on Wednesday the 17th of July",
+                            "Discussion_Id": "607466",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089313",
+                                    "Author": "Sandro Rodriguez Garzon",
+                                    "DateTime": "2024-07-12T13:04:53+02:00",
+                                    "Content": "The last lecture will take place at Wednesday the 17th of July. There will be no lecture on the 18th of July.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pre-registration required for verbal exams in ST 2024",
+                            "Discussion_Id": "589568",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062570",
+                                    "Author": "Sandro Rodriguez Garzon",
+                                    "DateTime": "2024-04-24T18:36:42+02:00",
+                                    "Content": "Dear students, please pre-register at http://130.149.223.198/limesurvey/index.php/364858?lang=en until the 30th of April if you want to be examined in ST 2024. Pre-registrations after the 30th of April will not be accepted unless less than 60 students pre-registered. More information about the pre-registration and exam registration process as a whole can be found in the Syllabus slides. Best Sandro",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

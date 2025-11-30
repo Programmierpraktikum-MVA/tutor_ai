@@ -1,0 +1,114 @@
+[
+    {
+        "Course_Name": "Technologiegestütztes Lehren und Lernen",
+        "Course_id": "59",
+        "Forums": [
+            null,
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "ChatGPT & KI Austauschforum",
+                    "Forum_id": "1626708",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "*Erlaubter* Einsatz von chatGPT für Prüfungsleistungen",
+                            "Discussion_Id": "544444",
+                            "Messages": [
+                                {
+                                    "Message_id": "p991104",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2023-07-20T18:51:55+02:00",
+                                    "Content": "Ich starte mal mit einer positiven/konstruktiven Grundstimmung ... :-) Es wird ja mittlerweile schon an vielen Universitäten (und auch Schulen) darüber diskutiert, wie man aktuelle KI-Tools sinnvoll einsetzen kann, womöglich auch für Prüfungsleistungen. Nur muss man sich dann halt sehr genau überlegen, welche Kompetenzen man mit welcher Art von Aufgabenstellung tatsächlich noch feststellen/überprüfen kann. Meine Frage daher: Praktiziert das hier an der TU schon jemand?",
+                                    "Response to": "#p991104"
+                                },
+                                {
+                                    "Message_id": "p993546",
+                                    "Author": "Jannik Wolff",
+                                    "DateTime": "2023-07-30T12:50:28+02:00",
+                                    "Content": "Für Projekte mit individueller Betreuung wird dies sicher bereits weitreichend (implizit) genutzt. Beispielsweise arbeitet mittlerweile vermutlich ein Großteil der Programmierer mit irgendeiner Unterstützung von LLMs. Dies halte ich auch für sinnvoll.  Die Prüfungsleistung ist die Differenz zwischem dem erwartbaren Beitrag des KI-Tools und dem Gesamtbeitrag. Da KI-Tools mittlerweile leistungsstark sind, muss die Anforderung der Aufgabe entsprechend wachsen. Dies dürfte den Betreuungsbedarf erhöhen, da die Lösungen im Durchschnitt komplizierter und weniger standardisiert sind.",
+                                    "Response to": "#p991104"
+                                },
+                                {
+                                    "Message_id": "p993588",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2023-07-30T16:58:15+02:00",
+                                    "Content": "Ja, das klingt zunächst vernünftig und auch nachvollziehbar.  Aber wie skaliert das, wenn man es – wie wir mit einem Modul der \"Einführung in die Programmierung\" – mit um die Tausend(!) Studierenden in einem Semester zu tun hat?",
+                                    "Response to": "#p993546"
+                                },
+                                {
+                                    "Message_id": "p993603",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2023-07-30T18:14:50+02:00",
+                                    "Content": "Ich habe mal ein Experiment gemacht. Die Klausur \"Grundlagen der Rechnersicherheit\" war im WS 2021/22 eine Open-Book-Klausur. Ich habe die Fragen 1-zu-1 kopiert (eine Frage, die auf einem Bild basierte habe ich ausgelassen) Wenn die Antwort zu lang war für den vorgesehenen Platz, schrieb ich \"Fasse mir das in x Sätzen zusammen\", wobei x die Punktzahl der Aufgabe war. An keiner Stelle habe ich inhaltlich etwas hinterfragt! Ergebnis: 33/50 Punkten für ChatGPT, die Studenten hatten im Schnitt 30 Punkte, und es lag auch etwas über dem Median  Dabei war diese Klausur schon sehr darauf ausgelegt, keinerlei Fakten abzufragen, sondern nur Anwendungswissen. Man könnte natürlich einen iterativen Prozess beim Erstellen haben, und jeweils schauen wie gut ChatGPT den aktuellen Entwurf lösen kann ( kann man auch zT an Tutoren auslagern), aber das frisst eine Menge Zeit und hat keine Garantie, dass man passende Aufgaben am Ende findet.  Mein Fazit: Schriftliche Prüfungsleistungen sollte man analog oder zumindest ohne Internetzugriff durchführen.",
+                                    "Response to": "#p993588"
+                                },
+                                {
+                                    "Message_id": "p993611",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2023-07-30T18:40:47+02:00",
+                                    "Content": "Das sehe ich aktuell auch so. Zumindest noch. Ich möchte aber nicht ausschließen, in der Zukunft tolle Ideen entwickeln zu können, wie man man mit erlaubten KI-Mitteln die intendierten Kompetenzen dennoch zielgenau abprüfen könnte. Noch fehlt mir dazu jedoch die Fantasie. Beziehungsweise Eingebung.",
+                                    "Response to": "#p993603"
+                                },
+                                {
+                                    "Message_id": "p993609",
+                                    "Author": "Henning Seidler",
+                                    "DateTime": "2023-07-30T18:38:47+02:00",
+                                    "Content": "Eine Möglichkeit ist mir gerade noch eingefallen, in Anlehnung an das Prinzip \"better than guarantee\", ähnlich wie es manchmal schon bei MC ist. Schriftliche Tests werden im Vorfeld in ein LLM eingegeben und daraus errechnet sich dann die Bestehensgrenze. Das kann man auch mehrfach machen, einfach x-mal eingeben, und die Studenten haben bestanden, wenn sie mindestens einen Punkt mehr haben als das beste KI-Ergebnis. Der Aufwand hält sich in Grenzen, insbesondere bei großen Kursen ist der prozentuale Overhead gering.  Grenze dieser Idee ist, wenn eine KI (in Zukunft) nahe an 100 % der Punkte gelangt.",
+                                    "Response to": "#p993588"
+                                },
+                                {
+                                    "Message_id": "p993623",
+                                    "Author": "Marc Tilman Schieber",
+                                    "DateTime": "2023-07-30T21:43:09+02:00",
+                                    "Content": "Ich denke da ist es auf keinen Fall mehr möglich die Aufgabenschwere an einem KI-Mitautor zu kalibrieren. Das Problem ist ja auch dass sich das momentan alles sehr schnell entwickelt. Selbst wenn davon ausgeht, dass die Studierenden GPT-3 nutzen, ist GPT-4 schon verfügbar und hat ein Plugin System mit dem es z.B. Wolfram Alpha oder Datenbanken mit akademischen Papers benutzen kann. Auch der neue Code Interpreter, mit dem ChatGPT4 selbst Code ausführen, Bugs finden und korrigieren kann ist ziemlich gut.  Programmierhausaufgaben kann man damit eigentlich überhaupt nicht mehr bewerten. Würde man z.B. das (kostenpflichtige) ChatGPT4 zugrunde legen, benachteiligt man ja die Studierenden, die kein Abo haben. Man kann sich natürlich auf alte TU Traditionen besinnen und Programmierhausaufgaben in OPAL geben. Da ist ChatGPT komplett überfragt (es gibt PASCAL Code aus)",
+                                    "Response to": "#p993588"
+                                },
+                                {
+                                    "Message_id": "p994610",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2023-08-03T17:26:11+02:00",
+                                    "Content": "Bertrand Meyer, der Erfinder der Programmiersprache Eiffel schrieb kürzlich über AI Does Not Help Programmers in CACM. Er nutzte ChatGPT 4 für sein Experiment. Auch die Kommentare, die er dazu bekam, fand ich nützlich.",
+                                    "Response to": "#p993623"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umgang mit KI-Werkzeugen bei Portfolioprüfungen mit vielen Teilnehmenden",
+                            "Discussion_Id": "545764",
+                            "Messages": [
+                                {
+                                    "Message_id": "p993551",
+                                    "Author": "Jannik Wolff",
+                                    "DateTime": "2023-07-30T13:16:20+02:00",
+                                    "Content": "Ich leite einen Programmierkurs mit mehreren hundert Studierenden, mit Prüfungsleistungen aus Hausaufgaben und einer Klausur. Angesichts moderner KI-Werkzeuge sehe ich keine Notwendigkeit mehr, Hausaufgaben zu bewerten, zumindest in großen Kursen, in denen individuelle Betreuung schwierig ist. Für die Bewertung ist es essenziell, Varianz und Bias zu minimieren: Bei vielen leistungsähnlichen Studierenden sollten die Bewertungen konstant sein und ihrem tatsächlichen Können entsprechen. KI-Werkzeuge können den Bias erhöhen. Schließt man sie aus, reguliert man den Bias, aber erhöht die Varianz. Dies ist nicht ideal, aber meiner Meinung nach die beste Lösung. Wie handhaben andere Kursverantwortliche diese Situation?",
+                                    "Response to": "#p993551"
+                                },
+                                {
+                                    "Message_id": "p993589",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2023-07-30T17:08:31+02:00",
+                                    "Content": "Angesichts moderner KI-Werkzeuge sehe ich keine Notwendigkeit mehr, Hausaufgaben zu bewerten, zumindest in großen Kursen, in denen individuelle Betreuung schwierig ist. Daraus ergeben sich natürlicherweise Fragen, nicht nur für Programmieraufgaben, wie man in solchen Kontexten: Kompetenz zukünftig überhaupt messen können kann/möchte; Studierenden Feedback auf ihre ureigenen – nicht von irgendwoher kopierten/inspirierten –  Lösungsvorschläge bekommen können; den Zugang zu einer Modulprüfung regulieren wollen würde. Ich sehe hier dringenden Diskussionsbedarf. ",
+                                    "Response to": "#p993551"
+                                },
+                                {
+                                    "Message_id": "p993590",
+                                    "Author": "Uwe Nestmann",
+                                    "DateTime": "2023-07-30T17:10:11+02:00",
+                                    "Content": "Und das im Kontext von mehr oder weniger ernst zu nehmenden \"Prognosen\" wie https://www.developer-tech.com/news/2023/jul/04/stability-ai-ceo-replace-human-coders-five-years/ ...",
+                                    "Response to": "#p993589"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+]

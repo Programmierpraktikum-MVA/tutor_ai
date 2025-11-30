@@ -1,0 +1,282 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Automotive and Building Aerodynamics",
+        "Course_id": "38364",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1788823",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "CFD-Consultation Tuesday 10:30",
+                            "Discussion_Id": "605611",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086654",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-07-04T17:18:44+02:00",
+                                    "Content": "Hi, there will be an online consultation regarding the CFD-assignment next Tuesday (09.07.24) 10:30. If there are any questions regarding the assignment feel free to join, we will be using the Zoom link for online lectures. Please be on time, since we will close the session when all questions seem to have been answered. Best regards, Denes",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1087892",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-07-09T09:17:22+02:00",
+                                    "Content": "Hi, unfortunately we will have to shift the consultation to Thursday (11.07.24) 10:30. Apologies for the short notice.  Best regards, Denes",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088798",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-07-11T10:46:28+02:00",
+                                    "Content": "Hi, since not all of you could make it today, we will give it another try on Monday 12:00.  Best regards, Denes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Guest lecturers from Audi and Alstom/Bombardier",
+                            "Discussion_Id": "605130",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085993",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-07-02T21:37:49+02:00",
+                                    "Content": "Hi, on Wednesday we will have an aerodynamicists from Audi giving a lecture and on Friday from Alstom/Bombardier! Kind regards, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Register for Exam",
+                            "Discussion_Id": "594699",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070559",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-15T15:43:49+02:00",
+                                    "Content": "Dear all, please register for the exam (as far as it concerns you): Exam admission #50162v2: Automobil- und Bauwerksumströmung Until Mai 31. Thanks and kind regards, Navid",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1080601",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-06-17T10:45:20+02:00",
+                                    "Content": "Registration is open again until June 21...",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture on Monday 10 July 16:15",
+                            "Discussion_Id": "599765",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078187",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-06-08T15:42:32+02:00",
+                                    "Content": "Dear all, after a discussion with the students during the lecture on last Wednesday we decided to have an in-person lecture by Prof. Löfdahlon Monday 10 July 16:15-17:45. It will be recorded and hybrid. Wednesday 12 and Friday 14 July will be thus no lecure at all. See you hopefully Monday! Have an nice Sunday. Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "In-person lectures instead of zoom?",
+                            "Discussion_Id": "596577",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073422",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-24T15:31:00+02:00",
+                                    "Content": "Hi all, I have prepared two polls. Both are related to the possibility to replace Zoom-lectures by in-person lecture from Prof. Löfdahl. Please let me know you choice as soon as possible:  Long lecture with Prof. Löfdahl on Friday July 7? In-Person lecture with Prof. Löfdahl on July 10th or 11th 16:15-17:45?  Depending on the majority of the choices, I would schedule the lectures...  Navid",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1073966",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-27T10:53:10+02:00",
+                                    "Content": "Sorry, I mixed June with July. Please correct yours selections...",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076504",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-06-03T14:52:58+02:00",
+                                    "Content": "Thank you very much for your replies. The majority was pro having a long in-person lecture on Friday 7 from 9 till 12. So we will do that.  Regarding July 10th or 11th the majority was pro sticking with the planned zoom-lecture on Friday July 14th. So this reminas unchanged.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lectures via Zoom next week 22",
+                            "Discussion_Id": "596564",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073406",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-24T14:59:00+02:00",
+                                    "Content": "Hi, next week Prof. Löfdahl will give lectures on Road vehicle aerodynamics via zoom. The zoom-link is provided on ISIS. There is no in-person lecture in week 22! Wishing you interesting lectures, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CFD assignment is now available",
+                            "Discussion_Id": "596297",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073008",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-23T13:18:41+02:00",
+                                    "Content": "Please from groups of 3-4 by using this poll and read the assignment. Regards, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation dates",
+                            "Discussion_Id": "595199",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071330",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-17T15:05:23+02:00",
+                                    "Content": "Hi, I have published the presentations dates in the schedule with respect to the topic numbers. The first presentations are due next Tuesday. Please plan accordingly. Kind regards, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wind Tunnel Campaign",
+                            "Discussion_Id": "594863",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070801",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-05-16T10:55:00+02:00",
+                                    "Content": "Hello everybody, my Name is Philip and I will conduct the Wind Tunnel Measurement Campaign on the 17th and 20th of June with you. Therefore, we are offering four time slots for you to choose from to participate. The Wind Tunnel Slot Selection is limited and will be available starting today at 5:00 p.m. Here, the principle of first come, first served applies. As the campaign is not graded, you can select your preferred slot regardless of your previously chosen groups. Please recap the topics of Aerodynamic Forces/Force Coefficients (e.g. F D , F L , c D , c L ) as well as the Reynolds Number (formula and meaning) in preparation for the campaign. Best, Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Scientific paper topics are now available",
+                            "Discussion_Id": "591327",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065228",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-04-30T17:03:43+02:00",
+                                    "Content": "Dear all, please select here your topic. You have time until 8 Mai. Kind regards, Navid",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1067479",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-06T21:04:46+02:00",
+                                    "Content": "Dear all,  I have added two more topic areas to be selected for those who have not been able to select one.  Kind regards,  Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New lecture room HF212",
+                            "Discussion_Id": "587403",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059130",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-04-18T15:53:00+02:00",
+                                    "Content": "Dear all, I have changed the lecture room to HF212 in Müller-Breslau-Str. 8 for Wednesday and Friday. Please use this door code to enter: 1609#. The room is on the second floor. See you tomorrow! Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum",
+                    "Forum_id": "1830463",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Contact Details",
+                            "Discussion_Id": "600561",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079366",
+                                    "Author": "Cedric Marlin Epler",
+                                    "DateTime": "2024-06-12T11:55:04+02:00",
+                                    "Content": "Hello, I wrote an E-Mail to the address of Dr. Christian Nayeri given on the slides. It seems like I can't reach him this way. Could you check if it is his current E-Mail address?  For the case that Christian Nayeri is out of office, another person's contact details would be helpful. Best regards  Cedric ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lectures of Friday and Monday ",
+                            "Discussion_Id": "600503",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079290",
+                                    "Author": "Tristan Ratzsch",
+                                    "DateTime": "2024-06-12T09:25:40+02:00",
+                                    "Content": "Hello Mr. Nayeri, could you upload the lectures of professor L. Löfdahl from last Friday and Monday? Thank you!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Recorded lesson",
+                            "Discussion_Id": "598653",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076602",
+                                    "Author": "Roberto D Ambrosio",
+                                    "DateTime": "2024-06-03T17:45:41+02:00",
+                                    "Content": "Good evening professor. I am writing to ask where I can find the recording of Professor L. Löfdahl's last lecture of Friday. Thank you and best regards!",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076805",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-06-04T11:06:27+02:00",
+                                    "Content": "Hi, the recording is now available:  Lecture 2  Best regards, Denes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CFD software",
+                            "Discussion_Id": "598406",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076237",
+                                    "Author": "Jules Didier Loeizig Penel",
+                                    "DateTime": "2024-06-03T08:01:32+02:00",
+                                    "Content": "Dear Professor,  I hope you're good.  I wanted to ask you if it is possible or not to perform the CFD analysis on other software (STAR CCM+ and ANSYS fluent) since we have them on our computer already. Thank you very much,  Best regards, Jules Penel.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076476",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-06-03T14:16:23+02:00",
+                                    "Content": "Yes, you can replace Simscale by your own choice as written in the assignment.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1076516",
+                                    "Author": "Jules Didier Loeizig Penel",
+                                    "DateTime": "2024-06-03T15:26:01+02:00",
+                                    "Content": "thank you very much for your answer !",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

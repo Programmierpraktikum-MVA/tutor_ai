@@ -1,0 +1,773 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Robotics: Fundamentals",
+        "Course_id": "37251",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1753957",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Assignment 4 Grades Are Online",
+                            "Discussion_Id": "607552",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089437",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-12T16:44:16+02:00",
+                                    "Content": "Dear all,  Assignment 4 grades are now online. All of you did an amazing job this term! See you at the tournament :)  Best, Furkan  P.S. For those who haven't filled out the feedback form (it is under Week 13 on ISIS), please do! We already got some amazing feedback and we would love to hear your opinions, suggestions and feedback too.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Challenge / The Grand Tournament",
+                            "Discussion_Id": "607509",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089374",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-12T14:45:25+02:00",
+                                    "Content": "Dear all,  We are going to have our Final Challenge/The Grand Tournament this Monday (July 15) starting from 4 pm. I would change the maze and put the new map, gold and pickup files on ISIS between 3 and 4 pm. We would have a short \"warm up\" session and then we will start with the tournament! We will have some food and drinks for you too! See you all.  Best, Furkan  P.S. For those who haven't filled out the feedback form (it is under Week 13 on ISIS), please do! We already got some amazing feedback and we would love to hear your opinions, suggestions and feedback too.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Don't Forget to Give Us Feedback!",
+                            "Discussion_Id": "606763",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088301",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-10T08:02:39+02:00",
+                                    "Content": "Dear all,  This is a kind reminder for you to fill out the feedback form for our course. Your opinions and suggestions do matter a lot! A big thank you for all the people who already filled out the form!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Please Give Us Feedback!",
+                            "Discussion_Id": "606276",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087603",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-08T14:39:20+02:00",
+                                    "Content": "Dear all,  I have put up an anonymous feedback form on our course page. Please fill out the feedback form and give us feedback to make this course better! Your feedback is much appreciated! Please try to give us your feedback before the grand tournament, July 15.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final Challenge Time Flexibility Pool",
+                            "Discussion_Id": "605284",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086205",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-03T14:34:19+02:00",
+                                    "Content": "Dear all,  The challenge is scheduled for 16:00 - 18:00 on July 15. However, we believe this won't be enough time and we would like to start at 14:30. With the poll on ISIS (Final Challenge - Time Flexibility) we want to ensure that all teams can attend the challenge if we start early. So, please everyone let us know your availability before the next lecture on July 8. Thank you!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Don't Forget to Upload Your Presentations",
+                            "Discussion_Id": "605280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086200",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-03T14:21:07+02:00",
+                                    "Content": "Dear all,  Please upload your presentations to ISIS until next Wednesday (10/07).  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Supervised Lab Sessions Date Change for Next Week",
+                            "Discussion_Id": "605278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086197",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-03T14:18:34+02:00",
+                                    "Content": "Dear all,  I won’t be in the MAR building on next Tuesday (09/07) and Wednesday (10/07). Thus, I am going to move our supervised-lab sessions on these days. Instead of Tuesday and Wednesday, we will have them on Monday (08/07) and Friday (12/07), at the same hours (14:00 - 15:00).  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentations Location Change - Now at MAR 5.006!!!",
+                            "Discussion_Id": "604554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085154",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-01T09:59:04+02:00",
+                                    "Content": "Dear all,  We will have our group presentation sessions at MAR 5.006 instead of our normal lecture location (HFT-TA 441). Please let everyone in your group or others in the class know about this development! This applies to both this week and next week.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 3 Grades Are Online and Assignment 4 Demonstrations",
+                            "Discussion_Id": "603119",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083093",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-24T15:30:13+02:00",
+                                    "Content": "Dear all,  Assignment 3 grades are now online. Thanks everyone for putting in all the effort again, we really like the progress you have made over the last weeks! I will give feedback to groups on supervised lab sessions if they want it. If you have some questions or confusion about your grade, just email/contact me.  On Wednesday, we are going to have our last demonstration session. Each group will have around 10 minutes. Please be ready with your robots (as instructed in the assignment) and only use the code you have submitted for grading. I will check your workspace at the time of demonstration with the submitted workspace.  We will follow this group ordering for demonstrations:  1. Red 2. Silver 3. Green 4. Orange 5. Pearlgreen 6. Plastic 7. Turquoise  Please make sure that you are ready to demonstrate your behaviors on your robots when you are the next group.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Presentations and Schedule",
+                            "Discussion_Id": "601835",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081224",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-18T14:20:44+02:00",
+                                    "Content": "Dear all,  We are going to have our group presentations on July 1st and July 8th during our lecture time and class.  During the group presentations, each group has 12 minutes (+8 minutes for discussion) to present one (or more) aspect(s) of their solution, which they are especially proud of/shows a clever idea/is different from how other teams approached the problem/etc. It should be fun and interesting to see what you came up with.  Each team member should be involved in the presentation and present (roughly) the same amount. There will be 20 points awarded for the presentation.  Schedule for the presentations:  July 1st: 1. Silver 2. Orange 3. Plastic 4. Red  July 8th: 1. Turquoise 2. Lilac 3. Green 4. Pearlgreen  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 3 \"Extended\" Submissions",
+                            "Discussion_Id": "600907",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079887",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-13T15:21:39+02:00",
+                                    "Content": "Dear all,  If you have updated your code after the first deadline (Sunday night) for the Assignment 3, please send me your updated workspace as a .zip file. If you would like to update your report, please also do that too. The deadline for this extended submission is tomorrow (14/06) at 16:00.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Maze Shape Change, Lab Visit and Presentations",
+                            "Discussion_Id": "600642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079477",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-12T15:29:19+02:00",
+                                    "Content": "Dear all,  I have updated the maze for our challenge and uploaded the relevant files to ISIS. Please ensure you update your files! We will also use the map.txt, gold.txt, and pickup.txt files on ISIS for Assignment 4.  Next Monday, we will have our final lecture. The following Monday (24/06), you will have the opportunity to visit our lab (https://www.tu.berlin/en/robotics/) and speak with PhD students working on challenging problems in robotics. Our lab is located on the 5th floor of the MAR building, room 5.065.  On the last two Mondays (01/07 and 08/07) before the final challenge, each group will present an aspect of their solution that they are most proud of. These presentations will take place in our regular classroom. I will provide more information about the presentations in the coming days.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 4 and Challenge Rules Are Online!",
+                            "Discussion_Id": "600117",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078728",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-10T18:12:37+02:00",
+                                    "Content": "Dear all,  Assignment 4 and revised challenge rules are online! Good luck! You can also find the files for an example map, gold and pick-up locations. I will build the maze this week :)  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 3 Extension",
+                            "Discussion_Id": "600004",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078569",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-10T13:29:18+02:00",
+                                    "Content": "Dear all,  Due to popular demand, we are going to extend the deadline for the Assignment 3. You have time until the start of the demonstrations session this week on Wednesday.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 2 Grades Are Online!",
+                            "Discussion_Id": "598843",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076874",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-04T13:17:18+02:00",
+                                    "Content": "Dear all,  Assignment 2 grades are now online. Thanks everyone for putting in all the effort again, keep up the good work! I will give feedback to groups on supervised lab sessions if they want it. If you have some questions or confusion about your grade, just email/contact me.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Demonstrations/Presentations for Assignment 2",
+                            "Discussion_Id": "595554",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071945",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-21T09:50:18+02:00",
+                                    "Content": "Dear all,  Tomorrow you are going to have your second demonstration session! Each group will have around 10 minutes. Please be ready with your robots (as instructed in the assignment) and only use the code you have submitted for grading. I will check your workspace at the time of demonstration with the submitted workspace.  We will follow this group ordering for demonstrations:  1. Green 2. Lilac 3. Orange 4. Pearlgreen 5. Plastic 6. Red 7. Silver 8. Turquoise  Please make sure that you are ready to demonstrate your behaviors on your robots when you are the next group. See you tomorrow!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 3 is Online!",
+                            "Discussion_Id": "595544",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071929",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-21T09:36:58+02:00",
+                                    "Content": "Dear all,  Assignment 3 is online! Good luck!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 1 Grades Are Online!",
+                            "Discussion_Id": "594706",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070571",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-15T15:56:36+02:00",
+                                    "Content": "Dear all,  Assignment 1 grades are now online. Thanks everyone for putting in all the effort, keep up the good work! I just want to note that not everyone in the same group will get the same grade. It still very much depends on the effort you have put into the assignment and your knowledge about the assignment content.  Please also try to focus about the issues we discussed during your demonstrations. Some general feedback: 1. For the groups who couldn't get the alignment done yet, please make sure to work on it and make your robots align in a cell at an acceptable performance. 2. Keep it simple, stupid (https://en.wikipedia.org/wiki/KISS_principle) first! Try to get some behaviors running quickly! Only then you will be able to understand the full extend of what you need to do. 3. Read the documentation and try to understand the examples on different components of ROS that you are using. Having a deeper understanding of what's going on under the hood will make your lives easier! 4. Your reports should explain your approach you took in order to solve the problems in the assignment. Some reports were really good, however, some groups should put a little bit more effort into the report. I already communicated this to those groups during demonstrations. The idea is, we should be able to read your reports and understand what you are doing. It shouldn't include all the details of course, but it shouldn't also look like some random notes you took during development process!  If you still have some questions or confusion about your grade, just email/contact me.  Best, Furkan  P.S I think a lot of the Akin's laws of spacecraft design apply to robotics too, maybe have a look at them (https://spacecraft.ssl.umd.edu/akins_laws.html) but don't take them too literally for this course!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Demonstrations/Presentations for Assignment 1",
+                            "Discussion_Id": "592899",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067722",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-07T12:11:36+02:00",
+                                    "Content": "Dear all,  Tomorrow you are going to have your first demonstration session! You will give us a demo with your robot on your robot's Assignment 1 capabilities. I (and hopefully Oliver) will talk to each group about the first assignment in general, how it went and will also ask you some questions about the implementation. Each group will have around 8 minutes. See you tomorrow!  Best, Furkan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068171",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-08T11:02:07+02:00",
+                                    "Content": "Dear all,  We will follow this group ordering for demonstrations:  1. Green 2. Lightblue 3. Lilac 4. Orange 5. Pearlgreen 6. Plastic 7. Red 8. Silver 9. Turquoise  Please make sure that you are ready to demonstrate your behaviors on your robots when you are the next group!  Best, Furkan",
+                                    "Response to": "p1067722"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Check the Group Forum too!",
+                            "Discussion_Id": "593012",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067872",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-07T15:45:20+02:00",
+                                    "Content": "Dear all,  I have posted several announcements and clarifications in the \"Group Forum\". If you have notifications disabled for that forum for any reason, please remember to check it out!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 2 is Online!",
+                            "Discussion_Id": "592606",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067272",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-06T14:48:41+02:00",
+                                    "Content": "Dear all,  Assignment 2 is online! Good luck!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Don't forget to register on Moses!",
+                            "Discussion_Id": "590074",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063342",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-26T09:51:05+02:00",
+                                    "Content": "Dear all,  The official deadline for registration on Moses is May 5, 23:59. If you have a spot in the course and would like to continue, please register as soon as possible. If, for any reason, you would like to not continue with this course, please let us know too.  Best, Furkan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065072",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-30T13:50:45+02:00",
+                                    "Content": "Dear all,  Please don't forget to register!  Best, Furkan",
+                                    "Response to": "p1063342"
+                                },
+                                {
+                                    "Message_id": "p1066477",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-03T15:09:56+02:00",
+                                    "Content": "Dear all,  This is your final reminder to register on Moses! The deadline is May 5, 23:59.  Best, Furkan",
+                                    "Response to": "p1065072"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Confirmation of Safety Instructions",
+                            "Discussion_Id": "589050",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061755",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-23T17:03:50+02:00",
+                                    "Content": "Dear all,  Here are the safety instructions for you to follow during the term. Please read them carefully! I will put printed out copies of this document in the teaching lab and all of you should sign them and put them into the box in the lab.  Best, Furkan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065076",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-30T13:54:34+02:00",
+                                    "Content": "Dear all,  Thank you all the people who have signed the document so far! For others, please sign the safety instructions and put them into the cardboard box in the teaching lab before next week!  Best, Furkan",
+                                    "Response to": "p1061755"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentations are Online!",
+                            "Discussion_Id": "590977",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064724",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-29T18:28:47+02:00",
+                                    "Content": "Dear all,  I have uploaded all the presentations relevant to us on ISIS. Please take a look! Remember that we will cover most of these presentations in the future.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Longer Supervised Lab Session this Tuesday",
+                            "Discussion_Id": "590652",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064217",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-29T10:21:30+02:00",
+                                    "Content": "Dear all,  As you are aware, Wednesday is a bank holiday, and we have a supervised lab session scheduled for that day. To ensure that we do not miss out on this session, I have decided to extend the supervised lab session on Tuesday. It will now take place from 13:30 to 15:30.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Getting in touch with your groupmates and dropping the class",
+                            "Discussion_Id": "589053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061763",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-23T17:13:11+02:00",
+                                    "Content": "Dear all,  You should get in touch with your groupmates as soon as possible! We are going to set a deadline on this: Friday, 26 April 2024, 14:00. After this date, groups should let me know if they still cannot reach any one of their group members. These people will lose their spot in the course and we will continue with people from the waiting list.  In these two weeks there might be some movements inside the groups, sorry for that in advance!  Also, if for any reason you would like to not continue with this course but already have a spot, please let us know as soon as possible so that we can continue with the people from the waiting list.  Best, Furkan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063558",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-26T14:02:19+02:00",
+                                    "Content": "Dear groups,  If you haven't heard back from a group member yet, please inform me immediately.  Best, Furkan",
+                                    "Response to": "p1061763"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ISIS Groups, Lab Instructions, Waitlist and more!",
+                            "Discussion_Id": "588616",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061106",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-22T18:43:47+02:00",
+                                    "Content": "Dear all,  I have just entered the group information into ISIS. If you are in the wrong group for some reason and/or cannot see the Assignment 1, please let me know. Also, I have uploaded the Lab - Hardware Instructions Presentation on \"Group Forums\". Check it out!  For those who have not been here today, please reach out to your fellow group members ASAP.  And for those who have not granted a spot in the course yet, please send me an email to get into the waitlist! Thank you!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Assignments, Challenge Rules and Assignment 1!",
+                            "Discussion_Id": "588470",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060864",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-22T14:48:30+02:00",
+                                    "Content": "Dear all,  After going through the registration forms and Assignment 0, we have assigned the students to their respective groups for this semester! Please have a look at Week 2 files (or here is the file)! If you are not able to find your name on this list, sadly, this means that you didn't get a spot in the course.  We have also posted the tentative challenge rules! You can (and should) have a look at it and imagine what kinds of problems you might need to solve at the end of the term.  Assignment 1 is also released today! The deadline is May 5. Good luck!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "FaSTTUBe Driverless project",
+                            "Discussion_Id": "587598",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059431",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-19T10:58:09+02:00",
+                                    "Content": "Dear all,  The Formula Student Team of the Technical University of Berlin, FaSTTUBe, reached out to us about their FaSTTUBe Driverless project. If you want to join their team and work on autonomous driving with them, please have a look at the attached presentation! We believe it can be a great interest to many of you who want to work on real-world systems and robotics.  https://isis.tu-berlin.de/pluginfile.php/3119071/mod_forum/post/1059431/FaSTTUBe%20Software%20Recruiting%20SoSe%202024.pdf  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important reminder on registration form and Assignment 0",
+                            "Discussion_Id": "587389",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059113",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-18T15:37:23+02:00",
+                                    "Content": "Dear all,  Please don't forget to fill out the registration form if you haven't already. Please remember that you also need to submit and pass Assignment 0 in order for us to be able to consider you for this course.  Good luck and we are looking forward to your submissions!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organizational slides online!",
+                            "Discussion_Id": "586135",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057290",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-15T17:58:05+02:00",
+                                    "Content": "Dear all,  Thank you all for your interest in our course today! Organizational slides from today's lecture is now online. I have extended them a little bit with teamwork and cheating sections.  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 0, registration form and more!",
+                            "Discussion_Id": "586059",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057187",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-15T15:47:05+02:00",
+                                    "Content": "Dear all,  You can find the Assignment 0 and the \"Registration form\" on our ISIS webpage under Week 1. There is a quick C++ refresher video if you would like to have a look! I will be doing supervised lab times this week for the Assignment 0. If you have questions or confused about something, come to MAR 5.026 on both Tuesday and Wednesday between 14-15h and I will try to answer all of your questions.  Please don't forget to fill out the registration form!  Best, Furkan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1753959",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Course evaluation?",
+                            "Discussion_Id": "607414",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089212",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-07-12T10:25:03+02:00",
+                                    "Content": "Is the evaluation posted in Isis the official course evaluation or did I miss that one still?  Tia Josh ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089230",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-07-12T10:39:23+02:00",
+                                    "Content": "Hi Josh,  There are two evaluations indeed! One is very short and generated automatically by ISIS for this course. The other one we put (and maybe a bit more interested in) is under Week 13, titled \"Please Give Feedback!\".  Best, Furkan",
+                                    "Response to": "p1089212"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dear Team Green,",
+                            "Discussion_Id": "603241",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083289",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-06-24T23:10:17+02:00",
+                                    "Content": "thank you all for your attention ^^. Since I can't contact any of you separately through Isis, I have to try and reach you through the forum posts. My team (Red) and me were wondering, whether you were interested in swapping our presentation dates because all of our team members, except for one, have 2-3 assignments this week and early next week, wherefore having our presentation on Monday already is, to put it lightly, challenging. Of course, we are all busy, so if it doesn't work for you, we'll accept our fate, but we thought we'd give asking a chance at least. Let us know how you feel! Also, @any of the other teams, if any of you changed their mind and want to present earlier, please let us know! Tia Team Red",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Corrected version of the Maze map.txt",
+                            "Discussion_Id": "600866",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079831",
+                                    "Author": "Tobias Veselsky",
+                                    "DateTime": "2024-06-13T13:41:49+02:00",
+                                    "Content": "Hello everyone, First, a big thanks to Furkan for expanding, updating and especially building our lab's maze for the new assignment. Yesterday after the demonstrations, I spent time in the lab adding new features to our project and checking for bugs in previous code. Initially, the robot's localization functioned very reliably. However, towards the end of my lab session, I encountered a persistent localization issue. After a bit of testing I was even able to reproduce the issue reliably. Despite planning to leave the lab early, my curiosity led me to debug this issue. As this issue was reliably reproducible and our wall detection for each cell was spot on, I expected a fundamental issue in our localization implementation. This led me to increase our debug levels incrementally for a long long time, but with each debug level I still didn't find the Bug. Only late in the evening, after ramping up our debugging significantly, I was able to pinpoint the issue. Although Furkan thoroughly checked the new map file against the physical maze and even verified it with Team Green's visualizations and on first glance the map seemed accurate, creating such maps manually in a text file is obviously inherently susceptible to errors. The error involved a missing wall at the bottom of the maze. This wasn't immediately apparent since our robot didn’t attempt to exit the maze through the non-existent boundary as there is no neighboring cell it is allowed to enter, but it obviously disrupted our localization as it expected no wall there. As finding that issue took me way too much time and to ensure you don't need to spend time troubleshooting a non-existent code issue as well, I have updated the map file to include the missing wall. Here’s the corrected version for download: map.txt This might also be (maybe even more) interesting for you: Download Link Best regards, Tobias",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079884",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-06-13T15:15:03+02:00",
+                                    "Content": "Hi Tobias,  Thanks for finding and reporting the error in the file! :) I will update it accordingly.  Best, Furkan",
+                                    "Response to": "p1079831"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture today?",
+                            "Discussion_Id": "595409",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071687",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-05-20T09:48:45+02:00",
+                                    "Content": "Is there a lecture today as today is a public holiday? Tia Josh ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072006",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-21T11:13:10+02:00",
+                                    "Content": "Hi Josh,  It was indeed a public holiday. I hope you didn't go for the lecture.  Best, Furkan",
+                                    "Response to": "p1071687"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Out of curiosity, why not Actions in assignment 2?",
+                            "Discussion_Id": "593525",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068675",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-05-09T21:38:21+02:00",
+                                    "Content": "Why are we not using actions for assignment 2 as shown in the ros documentation, they seem like the more appropriate type for the task since we're not doing a \"quick\" calculation? Just curious, looking forward to the answer! Greetings Josh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069412",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-13T11:24:07+02:00",
+                                    "Content": "Dear Josh,  Excellent question! First of all, the documentation you sent is for ROS2, not ROS1, however there is the comparable actionlib (http://wiki.ros.org/actionlib) in ROS1. You are right about services would be used for some quick calculations/requests. I missed out on this in our assignment because I was focusing on something else, sorry!  I agree that waiting for the whole plan execution to end in order to return the service call is not ideal. So, I would suggest this to everyone instead: You can immediately return the service call, however, you should play a short sound/song on the robot when the plan is not achievable (aka the robots would need to jump over the wall to be able to execute the plan). Similarly, when the robot finishes its execution of the plan, it should play another sound/song to report success!  Best, Furkan",
+                                    "Response to": "p1068675"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Matrix library",
+                            "Discussion_Id": "591460",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065438",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-05-01T14:27:15+02:00",
+                                    "Content": "Since we mentioned in the lecture that it's unnecessary for us to all implement matrix multiplication etc., are we allowed to use e.g. the Eigen library? Tia Josh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065650",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-02T09:56:57+02:00",
+                                    "Content": "Yes, you can use Eigen.",
+                                    "Response to": "p1065438"
+                                },
+                                {
+                                    "Message_id": "p1066733",
+                                    "Author": "Alexander Schwind",
+                                    "DateTime": "2024-05-04T18:01:00+02:00",
+                                    "Content": "Can you please explain how to install this library?",
+                                    "Response to": "p1065438"
+                                },
+                                {
+                                    "Message_id": "p1066735",
+                                    "Author": "Julian Guillaume Böhm",
+                                    "DateTime": "2024-05-04T18:25:42+02:00",
+                                    "Content": "I found these instructions: https://gitlab.com/libeigen/eigen/-/blob/master/INSTALL",
+                                    "Response to": "p1066733"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "32-bit SensorPacket.distance",
+                            "Discussion_Id": "591794",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065951",
+                                    "Author": "Julian Guillaume Böhm",
+                                    "DateTime": "2024-05-02T15:50:14+02:00",
+                                    "Content": "When driving for over 32767mm, driver.py fails to encode the distance provided by iCreate into the 16-bit SensorPacket.distance field. Even though the iCreate spec may claim that distance is only a 16-bit integer, if we just change SensorPacket.distance to a 32-bit field, it provides values well outside the 16-bit range. Is it allowed to make this change in SensorPacket.msg for the assignments and the challenge? I know it is important to still handle overflows in sensor values, but this at least prevents driver.py from crashing entirely. Pictured: Modified SensorPacket.msg on the left, rostopic echo /sensorPacket output on the right.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065967",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-02T16:06:07+02:00",
+                                    "Content": "I am going to update the create_fundamentals package after the first homework is done. Until that happens, you can use that fix to prevent the driver from crashing. Thanks for testing it out!",
+                                    "Response to": "p1065951"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whats the unit of the encoders?",
+                            "Discussion_Id": "591417",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065366",
+                                    "Author": "Alexander Schwind",
+                                    "DateTime": "2024-05-01T09:57:52+02:00",
+                                    "Content": "Hello, I wanted to ask what the unit of the encoder readings are in. I wasnt able to measure it in the lab. Is it radians the wheel turned in total since the last reset?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065369",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-01T10:14:15+02:00",
+                                    "Content": "Hi,  Yes! It is.  Best, Furkan",
+                                    "Response to": "p1065366"
+                                },
+                                {
+                                    "Message_id": "p1065370",
+                                    "Author": "Alexander Schwind",
+                                    "DateTime": "2024-05-01T10:18:52+02:00",
+                                    "Content": "Thank you. Also, that is the unit of the velocity we specify when calling the service? Is it rad/s?",
+                                    "Response to": "p1065369"
+                                },
+                                {
+                                    "Message_id": "p1065651",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-02T09:57:11+02:00",
+                                    "Content": "Yes it is!",
+                                    "Response to": "p1065370"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Will the lab be open tomorrow on May 1st?",
+                            "Discussion_Id": "591318",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065214",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-04-30T16:42:13+02:00",
+                                    "Content": "Question is in the title :) not talking about supervised hours but the room itself Tia Josh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065368",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-05-01T10:13:41+02:00",
+                                    "Content": "Hi Josh,  As long as the building is open, you can go to the lab. As far as I know, the building is open whole year except for Christmas.  Best, Furkan",
+                                    "Response to": "p1065214"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses registration ",
+                            "Discussion_Id": "590351",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063741",
+                                    "Author": "Joshua Carrapita",
+                                    "DateTime": "2024-04-26T19:40:47+02:00",
+                                    "Content": "Since the announcement about registering in Moses just came; I tried to register two days ago already and it said that there is no Prüfung for Robotics Fundamentals. Maybe now it works, but that might be why a few people didn't register still?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064493",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-29T14:46:11+02:00",
+                                    "Content": "Hi Joshua,  We opened registrations around that time too, maybe it was not available when you tried. Can you check again?  Best, Furkan",
+                                    "Response to": "p1063741"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Yellow Group",
+                            "Discussion_Id": "588605",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061095",
+                                    "Author": "Raymond Wihartono",
+                                    "DateTime": "2024-04-22T18:31:27+02:00",
+                                    "Content": "Note: If you are not on yellow group, please just ignore             this post Hi Tom, We are from yellow groups, which you supposedly should also be, unfortunately we didn't find you during group forming, if you see this post and still decide to continue on this course, please kindly PM me on ISIS. So we will add you the group chat. Best,  Raymond",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Still possible to participate?",
+                            "Discussion_Id": "587388",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059111",
+                                    "Author": "Alexander Schwind",
+                                    "DateTime": "2024-04-18T15:36:37+02:00",
+                                    "Content": "Hello,  I would like to take this course but I did not attend the first lecture, because I only now found out that this course takes place this semester. Is it still possible to register?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059128",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-18T15:48:53+02:00",
+                                    "Content": "Hi Alexander,  Yes it is still possible for you to register. However, we only have 36 spots and you need to fill out the registration form and finish the Assignment 0 to be considered a spot for this course.  Best, Furkan",
+                                    "Response to": "p1059111"
+                                },
+                                {
+                                    "Message_id": "p1060671",
+                                    "Author": "Zion Elijah-Juwan Dere",
+                                    "DateTime": "2024-04-22T12:17:56+02:00",
+                                    "Content": "hey misssed the registration form yesterday... :( is there still any way to take this course??",
+                                    "Response to": "p1059128"
+                                },
+                                {
+                                    "Message_id": "p1060753",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-22T13:16:44+02:00",
+                                    "Content": "Der Zion,  Sorry, it's not possible anymore.  Best, Furkan",
+                                    "Response to": "p1060671"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "file structure assignment0 submission",
+                            "Discussion_Id": "587460",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059215",
+                                    "Author": "Carla Victoria Matthews",
+                                    "DateTime": "2024-04-18T18:09:02+02:00",
+                                    "Content": "Hello!  Is there a specific file structure our submission should follow (or where the screenshots should be)? And should we also include additional files e.g. in build and devel or just the ones we were given with the assignment?  Thank you in advance, Carla",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059385",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-19T10:12:52+02:00",
+                                    "Content": "Hi Carla,  There is no specific file structure and you don't need to put build or devel files. Just put the screenshots and the updated files in a single .zip file and you are done!  Best, Furkan",
+                                    "Response to": "p1059215"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ROS Noetic on WSL",
+                            "Discussion_Id": "586228",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057416",
+                                    "Author": "Ulas Dilek",
+                                    "DateTime": "2024-04-15T23:56:58+02:00",
+                                    "Content": "Hey everyone, If you do not want to mess with setting up a dual-boot or face the performance effects of VirtualBox, you can use WSL (Windows Subsystem for Linux) on your Windows machines. You can install an Ubuntu version and start using it from the command line (it is also supported by all major IDEs so you can use it while developing your projects). After you setup WSL on your PC, you need to install the desired Ubuntu version from the Windows Store and configure your environment. It is quite easy to work on it after you set it up. The only important thing is that you install Ubuntu version 20.04 since ROS Noetic cannot be installed on newer versions. At least I could not make it work with the most recent Ubuntu version anyway :/ Disclaimer: I am a student and I do not know if the usage of WSL needs to be approved by the teaching body (this forum entry is also an implicit question). So, take my advice with a grain of salt :D",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057597",
+                                    "Author": "Furkan Davulcu",
+                                    "DateTime": "2024-04-16T11:57:27+02:00",
+                                    "Content": 

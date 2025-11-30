@@ -1,0 +1,78 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Differential Equations III / Differentialgleichungen III",
+        "Course_id": "38250",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1785017",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "603352",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083431",
+                                    "Author": "Alex Kaltenbach",
+                                    "DateTime": "2024-06-25T11:11:23+02:00",
+                                    "Content": "Hallo Liebe DGLIII-Interessierte, ich bitte euch bis zum 29.06.2024 den Lehrevaluationsfragebogen, der über den Link https://befragung.tu-berlin.de/evasys/online.php?pswd=FAGJY erreichbar ist, auszufüllen. Liebe Grüße, Alex",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1785175",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Verschobene Vorlesungstermine",
+                            "Discussion_Id": "597906",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075498",
+                                    "Author": "Alex Kaltenbach",
+                                    "DateTime": "2024-05-30T13:40:49+02:00",
+                                    "Content": "Die Vorlesungstermine am 11. und 13. Juni werden auf den  10. Juni, 16-18 Uhr, Raum MA 541 und 17. Juni, 16-18 Uhr, Raum MAR 0.017  verschoben.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1785176",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Termin erste Vorlesung",
+                            "Discussion_Id": "585729",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056697",
+                                    "Author": "Jannik Lorenz",
+                                    "DateTime": "2024-04-14T12:09:33+02:00",
+                                    "Content": "Wann findet die erste Vorlesung statt? In der Terminuebersicht steht, dass die VL dienstags und donnerstags 14 - 16 Uhr ist, aber nicht, was das Datum des ersten Termins ist. Gruesse Jannik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057674",
+                                    "Author": "Alex Kaltenbach",
+                                    "DateTime": "2024-04-16T13:48:08+02:00",
+                                    "Content": "Hallo Jannik,  tut mir leid wegen der verspäteten Antwort. Der erste Termin ist heute um 14:15.  Viele Gruesse, Alex",
+                                    "Response to": "p1056697"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

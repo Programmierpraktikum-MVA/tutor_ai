@@ -1,0 +1,69 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Hochbau II",
+        "Course_id": "38046",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1777352",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation der Vorlesung sowie Übung",
+                            "Discussion_Id": "606957",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088580",
+                                    "Author": "Michael Hecker",
+                                    "DateTime": "2024-07-10T16:16:44+02:00",
+                                    "Content": "Liebe Studierende,  über den Link auf unserer ISIS-Seite zum Modul gelangt Ihr zur Online-Befragung für unsere Vorlesung und Übung. Die Befragung ist bis zum 18.07.2024 verlängert worden. Ich würde euch bitten zahlreich an der Befragung/ Evaluation teilzunehmen, da uns für die Verbesserung des Kurses euer Feedback am Herzen liegt.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vortrag der Firma Schöck",
+                            "Discussion_Id": "595007",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071021",
+                                    "Author": "Michael Hecker",
+                                    "DateTime": "2024-05-16T16:50:40+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, am Donnerstag den 23.05.2024 findet um 16 Uhr im Hörsaal C ein spannender Vortrag der Firma Schöck statt. Herr Christoph Meul (Leiter der Produktionsingenieure) wird zur Entwicklung und Produktion von Bauprodukten mit hohem bauphysikalischem Nutzen vortragen. Er wird von interessanten Praxisbeispielen berichten sowie konstruktive Problemstellungen und mögliche Lösungen vorstellen. Bei Interesse könnt Ihr einfach ohne Anmeldung zu dem Vortrag am 23.05.2024 um 16 Uhr im Hörsaal C vorbeischauen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Besichtigung des EDGE-Südkreuz kommenden Montag",
+                            "Discussion_Id": "591195",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065037",
+                                    "Author": "Michael Hecker",
+                                    "DateTime": "2024-04-30T13:07:10+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, im Zuge des Moduls \"Ingenieurholzbau\" findet eine Besichtigung der neuen Vattenfall-Zentrale (Edge-Südkreuz) statt. Bei dem Gebäude handelt es sich um einen sehr interessanten Holz-Hybridbau. Es sind noch Plätze frei, weshalb Ihr noch die Gelegenheit habt daran teilzunehmen. Die Besichtigung wäre Montag 06.05.2024 - 16:00Uhr vor Ort. Bei Interesse meldet euch doch bitte bei Cornelia Otto (otto@tu-berlin.de).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme an der Baustellenbesichtigung vom Estrel Tower Berlin",
+                            "Discussion_Id": "589823",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062967",
+                                    "Author": "Michael Hecker",
+                                    "DateTime": "2024-04-25T13:29:52+02:00",
+                                    "Content": "Über \"Teilnahme an der Baustellenbesichtigung vom Estrel Tower Berlin\" ISIS-Tool in Form einer Wahl habt Ihr ab heute 16 Uhr die Chance euch für die Baustellenbesichtigung am 08.05.2024 anzumelden. Die Besichtigung startet um 16 Uhr an der Baustelle in der Sonnenallee 225, 12057 Berlin. Wir haben das Glück, dass unsere Führung über die Baustelle von dem Büro \"Bollinger + Grohmann Ingenieure\" durchgeführt wird, die uns zur Tragwerksplanung aus erster Hand berichten werden. Die Teilnahme ist auf 18 Studierende begrenzt. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "Course_Name": "Matrix Functions (Advanced Topics in Numerical Linear Algebra) - Summer semester 2024",
+        "Course_id": "37740",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1767483",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "No lectures on July 8 and 9",
+                            "Discussion_Id": "606003",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087217",
+                                    "Author": "Jan Zur",
+                                    "DateTime": "2024-07-07T20:48:05+02:00",
+                                    "Content": "Dear participants,   unfortunately, the lectures on July 8 and 9 in Matrix functions have to be canceled due to illness.   Please apologize for the inconvenience.  We will continue with computing f ( A ) b on July 15.  Best regards, Jan Zur",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course evaluation",
+                            "Discussion_Id": "601908",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081324",
+                                    "Author": "Jan Zur",
+                                    "DateTime": "2024-06-18T16:56:45+02:00",
+                                    "Content": "Dear students, as every semester, you are invited to evaluate your current courses. This is done via an anonymous survey. It only takes a few minutes to complete. You can find the evaluation here: https://befragung.tu-berlin.de/evasys/online.php?pswd=MU37U Please complete the evaluation by 29.06.2024.  Thank you in advance for your feedback and best regards, Jan Zur",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam dates",
+                            "Discussion_Id": "599574",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077919",
+                                    "Author": "Jan Zur",
+                                    "DateTime": "2024-06-07T10:17:11+02:00",
+                                    "Content": "Dear participants,  the exam dates for Matrix functions have been fixed:  26.07., 04.09., 05.09, 07.10., 08.10.  Details on registration can be found in the ISIS course.  Best regards, Jan Zur",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion forum",
+                    "Forum_id": "1767487",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lecture Notes",
+                            "Discussion_Id": "602382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081989",
+                                    "Author": "Rosmi Francis",
+                                    "DateTime": "2024-06-20T13:53:03+02:00",
+                                    "Content": "Hi Everyone  Its been a while since lecture notes were not updated on the isis page. Though it is difficult to keep up, it would be extremely beneficial for students to keep track of missed lectures.  Thanks in Advance",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Notes of the lecture tomorrow (June 10) for TeX-ing",
+                            "Discussion_Id": "600160",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078796",
+                                    "Author": "Lennart Helmstädter",
+                                    "DateTime": "2024-06-10T23:05:05+02:00",
+                                    "Content": "Hello, I am the guy who types up the lecture notes in L A T E X together with Anna. I am sick right now and will not be able to attend the lecture tomorrow. I would much appreciate it, if someone would take notes and send them to me. If anyone even feels motivated to write them up in L A T E X themselves, just send me a message and I will add you to our overleaf project. Also, sorry that last week's lectures are not written up yet. We are doing our best :) Lennart",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture Notes from Last Week",
+                            "Discussion_Id": "587669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059548",
+                                    "Author": "Laura Michelle Kluge",
+                                    "DateTime": "2024-04-19T12:54:35+02:00",
+                                    "Content": "Hello,  since I couldn't attend the lecture last week, I would greatly appreciate it if someone could share their lecture notes with me. My email address is kluge@tu-berlin.de .  Thank you very much for your help! Laura",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1059664",
+                                    "Author": "Laura Michelle Kluge",
+                                    "DateTime": "2024-04-19T15:24:24+02:00",
+                                    "Content": "Somebody already helped me out. Thanks a lot!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

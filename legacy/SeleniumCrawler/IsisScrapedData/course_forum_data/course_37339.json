@@ -1,0 +1,89 @@
+[
+    {
+        "Course_Name": "Grundlagen der Konstruktion - Konstruktion 1- Konstruktion und Werkstoffe - SoSe-2024",
+        "Course_id": "37339",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1756255",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Grundlagen der Konstruktion - Einrichtung eines Studierendenforums",
+                            "Discussion_Id": "586527",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057868",
+                                    "Author": "Henning Meyer",
+                                    "DateTime": "2024-04-16T17:03:56+02:00",
+                                    "Content": "Hallo,  auf Anregung von Studierenden habe ich für Sie eine Studierendenforum eingerichtet, dass Sie für den Austausch untereinander nutzen können. Viele Grüße Henning Meyer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1818997",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "599991",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078553",
+                                    "Author": "Lennard Finn Stuchels",
+                                    "DateTime": "2024-06-10T13:10:33+02:00",
+                                    "Content": "Sehr geehrte Damen und Herren, ich wollte mich mal erkundigen, ob jemand mir sagen kann, ob ich, wenn ich Konstruktion und Werkstoffe Belege, mich extra auf Moses für die Klausur Grundlagen der Konstruktion #50677 anmelden muss um zum ersten Termin den Test mitschreiben zu können?  Viele Grüße Lennard",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungsaufgaben",
+                            "Discussion_Id": "591965",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066221",
+                                    "Author": "Maximilian Klaus Meth",
+                                    "DateTime": "2024-05-03T09:09:06+02:00",
+                                    "Content": "Inwiefern sind die Übungsaufgaben relevant für die Klausur? Die Klotz-Aufgaben kann ich als Übung gut nachvollziehen, aber die \"Aufgabe Baugruppe\" zum Beispiel geht völlig an den Lehrinhalten der Vorlesung vorbei.  Auf dem Übungsblatt zu Toleranzen ist auch keine Toleranztabelle gegeben, wird für die Klausur dann auch erwartet, dass wir die Toleranzen auswendig wissen müssen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinladung",
+                            "Discussion_Id": "587122",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058694",
+                                    "Author": "Christine Maria Claussen",
+                                    "DateTime": "2024-04-17T22:11:38+02:00",
+                                    "Content": "Hallo, kommt gern in diese Telegram-Gruppe, um schnell und unkompliziert die anderen aus diesem Kurs etwas fragen zu können:  https://t.me/+8PGvrbMCM942ZDBi",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "DTS bereits bestanden",
+                            "Discussion_Id": "586890",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058356",
+                                    "Author": "Patrick Petrovic",
+                                    "DateTime": "2024-04-17T14:05:05+02:00",
+                                    "Content": "Ich war leider am Montag krank und weiß nicht ob diese Frage bereits beantwortet wurde. Ich muss Konstruktion 1 belegen und dafür braucht man ja DTS. DTS habe ich bereits vor paar Semestern abgeschlossen, als ich noch im Maschinenbau-Studium war. Kann ich mir das anrechnen lassen und muss nur noch Grundlagen der Konstruktion machen? Danke für die Hilfe!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

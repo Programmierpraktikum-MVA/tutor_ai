@@ -1,0 +1,693 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Statistik 1",
+        "Course_id": "38587",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1796620",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Veranstaltung 18.07.24 (Klausurvorbereitung, Fragerunde)",
+                            "Discussion_Id": "607565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089459",
+                                    "Author": "Astrid Cullmann",
+                                    "DateTime": "2024-07-12T18:05:43+02:00",
+                                    "Content": "Liebe Studierende,  wie angekündigt bieten wir nächste Woche (18.07.) von 14-16 Uhr im HE 101 noch eine Veranstaltung zur Klausurvorebereitung an. Es werden Beispiele vorgerechnet und Ihre Fragen beantwortet.  Bitte schicken Sie uns hierfür in den nächsten Tagen (bis spätestens 17.07.) Ihre Fragen und Wünsche zu den einzelnen Themenblöcken/Beispielen zu, die Sie behandeln möchten. Wir sortieren und gruppieren im Vorfeld.  Emails bitte an Lukas Krain und Astrid Cullmann lukas.krain@gmail.com a.cullmann@tu-berlin.de Ihr Statistik Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium Jan online",
+                            "Discussion_Id": "606650",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088134",
+                                    "Author": "Jan Josef Meisberger",
+                                    "DateTime": "2024-07-09T15:02:23+02:00",
+                                    "Content": "Liebe Studis, aus organisatorischen Gründen muss mein Tutorium morgen (10.07) von 10-12 Uhr einmalig online stattfinden. Es geht wie gewohnt um 10:15 los. Link: https://tu-berlin.zoom.us/j/67423620308?pwd=7j9CuQTY25QbvUaTpfwikR2854QoF6.1 Kennwort: 273172",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Extra Sprechstunde",
+                            "Discussion_Id": "606387",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087757",
+                                    "Author": "Lukas David Heinrich Krain",
+                                    "DateTime": "2024-07-08T18:10:56+02:00",
+                                    "Content": "Liebe Studierende,  wie angekündigt werde ich diese Woche eine Sprechstunde mehr machen. Kommt gerne morgen ab 12:15 in den Tutorenraum H5119. Viele Grüße Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ersatztutorium am Dienstag, 18 Uhr",
+                            "Discussion_Id": "605974",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087176",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-07-07T15:10:58+02:00",
+                                    "Content": "Hallo zusammen, am Dienstag um 18 Uhr findet das Ersatztutorium statt. Behandelt wird Tutorium 11. https://tu-berlin.zoom.us/j/65368982368?pwd=9DxHVQ1ljaugpq2VbmWxWxVIKANk6y.1 David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ersatztutorium online nächste Woche",
+                            "Discussion_Id": "605637",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086689",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-07-04T20:04:44+02:00",
+                                    "Content": "Hallo zusammen, ich werde nächste Woche ein Ersatztutorium anbieten. Uhrzeit und Datum werden bald folgen. Es sind natürlich alle willkommen, deren Tutorien diese Woche ausgefallen sind. Viele Grüße  David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorien Benjamin ",
+                            "Discussion_Id": "605454",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086433",
+                                    "Author": "Benjamin Karl Ritschl",
+                                    "DateTime": "2024-07-04T10:08:34+02:00",
+                                    "Content": "Liebe Studis, leider entfallen auch meine Tutorien morgen krankheitsbedingt. Es wird dafür ein Online-Ersatztutorium in der nächsten Woche geben, weitere Infos dazu erhaltet ihr von David.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium/Sprechstunde David",
+                            "Discussion_Id": "605347",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086281",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-07-03T17:58:32+02:00",
+                                    "Content": "Hallo zusammen, aufgrund von Krankheit fallen morgen meine Sprechstunde und mein Tutorium aus. Bei Bedarf wird es ein Ersatz-Tutorium online geben.  David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde diese Woche",
+                            "Discussion_Id": "604682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085355",
+                                    "Author": "Lukas David Heinrich Krain",
+                                    "DateTime": "2024-07-01T14:20:13+02:00",
+                                    "Content": "Liebe Studierende, diese Woche wird meine Sprechstunde entfallen. In der kommenden Woche (vermutlich Dienstag) werde ich einen Ersatz anbieten. Details folgen. Natürlich könnt ihr mir trotzdem die ganze Zeit Fragen per Mail schreiben.  Viele Grüße Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Startzeitpunkt Mittwoch Tutorium",
+                            "Discussion_Id": "604681",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085353",
+                                    "Author": "Lukas David Heinrich Krain",
+                                    "DateTime": "2024-07-01T14:18:06+02:00",
+                                    "Content": "Liebe Studierende,  mein Tutorium diesen Mittwoch, 03.07., wird um eine Viertelstunde nach vorne verlegt. Das bedeutet, wir starten um 14 Uhr und sind um 15:30 Uhr fertig.  Bis dann :) Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Sprechstunde",
+                            "Discussion_Id": "604670",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085333",
+                                    "Author": "Mark Paranskij",
+                                    "DateTime": "2024-07-01T13:54:23+02:00",
+                                    "Content": "Liebe Studierende, leider muss meine Sprechstunde heute von 14-16 Uhr einmalig einfallen. Stattdessen biete ich morgen am 2.7.24 von 10 bis 12 Uhr einen Ersatztermin an. Mit freundlichen Grüßen, Mark Paranskij",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorien Raik ",
+                            "Discussion_Id": "604510",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085097",
+                                    "Author": "Raik Joachim Riechers",
+                                    "DateTime": "2024-07-01T07:46:00+02:00",
+                                    "Content": "Liebe Studierende, aufgrund von Krankheit entfallen beide meine Tutorien heute. Bitte verteilt euch auf die restlichen Termine in der Woche. LG Raik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation der Vorlesung/Großübung Statistik 1",
+                            "Discussion_Id": "602461",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082110",
+                                    "Author": "Astrid Cullmann",
+                                    "DateTime": "2024-06-20T17:53:08+02:00",
+                                    "Content": "Liebe Studierende, heute in der Vorlesung wurde die Evaluation in Präsenz durchgeführt. Für alle Studierende, die heute nicht da waren aber die Veranstaltung noch evaluieren möchten anbei der link. Bitte nehmen Sie sich die Zeit und geben uns Feedback. https://befragung.tu-berlin.de/evasys/online.php?pswd=TKL9Z Ihr Statistik Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation Tutorium Lukas",
+                            "Discussion_Id": "602354",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081937",
+                                    "Author": "Lukas David Heinrich Krain",
+                                    "DateTime": "2024-06-20T12:02:46+02:00",
+                                    "Content": "Liebe Studierende,  es ist endlich Payback-Zeit. Anbei ist der Link, mit dem ihr mein Tutorium bewerten dürft. Positives und Negatives ist gerne gesehen! Je mehr Feedback, desto besser. https://befragung.tu-berlin.de/evasys/online.php?pswd=7USU7 Viele Grüße Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation Mark",
+                            "Discussion_Id": "601782",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081164",
+                                    "Author": "Mark Paranskij",
+                                    "DateTime": "2024-06-18T12:17:53+02:00",
+                                    "Content": "Liebe Studierende, sie haben dieses Semester die Möglichkeit an der Lehrevaluation für Statistik 1 unter folgendem Link teilzunehmen. Lehrevaluation Beachten Sie, dass der Link nur für meine Tutorien gilt. Mit freundlichen Grüßen, Mark",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorium Jan",
+                            "Discussion_Id": "601381",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080577",
+                                    "Author": "Jan Josef Meisberger",
+                                    "DateTime": "2024-06-17T10:03:29+02:00",
+                                    "Content": "Liebe Studis, aufgrund von Krankheit fällt mein Tutorium diese Woche einmalig aus. Bitte verteilt euch auf die anderen Tutorien.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation des Kurses",
+                            "Discussion_Id": "600510",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079299",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-06-12T09:52:41+02:00",
+                                    "Content": "Liebe Studierende, bis zum 21. Juni 2024 könnt ihr den Kurs über folgenden Link evaluieren: https://befragung.tu-berlin.de/evasys/online.php?pswd=7PC72  Beste Grüße Euer Statistik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Sprechstunde ",
+                            "Discussion_Id": "598490",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076377",
+                                    "Author": "Mark Paranskij",
+                                    "DateTime": "2024-06-03T11:57:53+02:00",
+                                    "Content": "Liebe Studierende, krankheitsbedingt entfällt die heutige Sprechstunde um 14 - 16 Uhr. Gerne beantworte ich Fragen per Mail oder Isis. Mit freundlichen Grüßen, Mark Paranskij ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Tutorien Dienstag",
+                            "Discussion_Id": "595570",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071971",
+                                    "Author": "Mark Paranskij",
+                                    "DateTime": "2024-05-21T10:19:10+02:00",
+                                    "Content": "Liebe Studierende, leider muss sowohl das heutige 12 - 14 Uhr Tutorium, als auch das heutige 14 - 16 Uhr Statistik 1 Tutorium krankheitsbedingt entfallen. Nutzt bitte andere Termine um keinen Inhalt zu verpassen. Mit freundlichen Grüßen, Euer Statistik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neuer Sprechstundentermin",
+                            "Discussion_Id": "592377",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066913",
+                                    "Author": "Lukas David Heinrich Krain",
+                                    "DateTime": "2024-05-05T22:34:11+02:00",
+                                    "Content": "Liebe Studierende,  meine Sprechstunde wird ab der kommenden Woche, ab 06. Mai, mittwochs von 16 bis 18 Uhr stattfinden. Die Übersicht wird zeitnah angepasst. Viele Grüße Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ersatztutorium David",
+                            "Discussion_Id": "591957",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066213",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-05-03T08:58:56+02:00",
+                                    "Content": "Hallo zusammen, wie angekündigt wird es ein Ersatztutorium geben. Dieses findet am Montag, den 06.05., von 17:00 Uhr bis 18:30 Uhr statt. Behandelt werden natürlich die Aufgaben von dieser Woche. Einladungslink:  https://tu-berlin.zoom.us/j/62344980491?pwd=TDJrOHJYaENSSGlnbjJXTC90aHI2QT09  Viele Grüße  David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Sprechstunde und Tutorium David",
+                            "Discussion_Id": "591539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065577",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-05-02T08:02:55+02:00",
+                                    "Content": "Liebe Studierende, leider müssen meine Veranstaltungen heute krankheitsbedingt ausfallen. Dies betrifft meine Sprechstunde von 8-10, sowie das Statistik 1 Tutorium von 10-12. Ich werde zeitnah einen Alternativtermin für das Tutorium bekanntgeben. Dieses wird Anfang nächster Woche online über Zoom nachgeholt. Liebe Grüße David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update Tutorienplan",
+                            "Discussion_Id": "590972",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064716",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-04-29T18:14:43+02:00",
+                                    "Content": "Liebe Studierende, ich möchte auf den neuen Tutorienplan hinweisen. Das Tutorium am Donnerstag von 16-18 Uhr wird nicht mehr stattfinden. Viele Grüße David",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Sprechstunde",
+                            "Discussion_Id": "590951",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064669",
+                                    "Author": "Lukas David Heinrich Krain",
+                                    "DateTime": "2024-04-29T17:31:47+02:00",
+                                    "Content": "Liebe Studierende,  diese Woche wird meine Sprechstunde entfallen. Ab der nächsten Woche wird der Termin geändert. Den neuen Termin kündige ich rechtzeitig an. Viele Grüße Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorienplan Anpassung",
+                            "Discussion_Id": "590540",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064042",
+                                    "Author": "Arne Karl Hans Stange",
+                                    "DateTime": "2024-04-28T20:49:30+02:00",
+                                    "Content": "Liebe Studierende, Im Tutorienplan gab es eine Anpassung. Bitte schauen Sie in den Plan bevor Sie das nächste Tutorium besuchen. Viele Grüße euer Statistik-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Vorlesung Donnerstag 25.04.24, 14- 16 Uhr im HE101",
+                            "Discussion_Id": "589279",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062145",
+                                    "Author": "Astrid Cullmann",
+                                    "DateTime": "2024-04-24T11:12:36+02:00",
+                                    "Content": "Liebe Studierende,  Die nächste Veranstaltung in Präsenz (Vorlesung) findet statt am Donnerstag 25.04.24, 14-16 Uhr im HE101. Es wird der Stoff der KW16 und KW17 wiederholt und vertieft.  Das Statistik Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Statistik 1 Tutorium",
+                            "Discussion_Id": "589220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062037",
+                                    "Author": "Jan Josef Meisberger",
+                                    "DateTime": "2024-04-24T10:00:49+02:00",
+                                    "Content": "Liebe Studierende, Aufgrund von Problemen mit der U2 fängt mein Tutorium heute voraussichtlich 10min zu spät an.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Organisatorisches",
+                    "Forum_id": "1796621",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Inhalt Klausur",
+                            "Discussion_Id": "607349",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089114",
+                                    "Author": "Tom Niklas Lorenz",
+                                    "DateTime": "2024-07-11T22:16:43+02:00",
+                                    "Content": "Hi!  Werden alle behandelten Themen in der (Ersttermin) Klausur berücksichtigt oder werden auch einzelne ausgeschlossen? Mit freundlichen Grüßen ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Probe Klausuren",
+                            "Discussion_Id": "607036",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088695",
+                                    "Author": "Mahmoud Kayed",
+                                    "DateTime": "2024-07-10T22:17:12+02:00",
+                                    "Content": "Hallo ich wollte nur mal fragen ob noch Probeklausuren hochgeladen werden?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Link zu den Online Sprechstunden ",
+                            "Discussion_Id": "607017",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088667",
+                                    "Author": "Hilde Hilscher",
+                                    "DateTime": "2024-07-10T20:17:04+02:00",
+                                    "Content": "Wo finde ich den Link zu den Online Sprechstunden am Donnerstag ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088692",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-07-10T22:00:01+02:00",
+                                    "Content": "Im Sprechstundenplan einfach über die entsprechende Stelle mit dem Mauszeiger.",
+                                    "Response to": "p1088667"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Taschenrechner für die Prüfung",
+                            "Discussion_Id": "605997",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087207",
+                                    "Author": "Philipp Jan Stallmann",
+                                    "DateTime": "2024-07-07T19:05:40+02:00",
+                                    "Content": "Sehr geehrtes Statistik-Team, ich habe mir den fx-991DEX von Casio gekauft in der Annahme, dass dieser zugelassen ist, da er nicht programmierbar und nicht grafikfähig ist. Nun habe ich in einer Altklausur diesen Hinweis entdeckt: \"Taschenrechnermodelle, die mindestens eines der folgenden Merkmale aufweisen, sind nicht zugelassen: – Programmierbarkeit – Eingabe und Lösung von Funktionen und Integralen – Rechenoperationen mit Matrizen und Vektoren – Eingabe und Lösung von Gleichungssystemen\". Dieser Taschenrechner kann einige der beschriebenen nicht erlaubten Funktionen. Deswegen wollte ich fragen, ob dieser Taschenrechner zugelassen ist, da offiziell nur kommuniziert wurde, dass er nicht programmierbar und nicht grafikfähig sein soll. Mit freundlichen Grüßen, Philipp Stallmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bedarf Online-Tutorium",
+                            "Discussion_Id": "605424",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086392",
+                                    "Author": "Malte Töner",
+                                    "DateTime": "2024-07-04T08:31:24+02:00",
+                                    "Content": "[Bzgl. Tutorium-Ausfall heute 10 Uhr David] Für die Leute unter uns, die es Freitag nicht ein ein anderes Tutorium schaffen, wäre ein Ersatztutorium für das ausgefallene heute um 10 Uhr sicherlich sehr hilfreich :) Beste Grüße, Malte",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Formelsammlung",
+                            "Discussion_Id": "604749",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085445",
+                                    "Author": "Ben Burkhard Garmshausen",
+                                    "DateTime": "2024-07-01T15:59:51+02:00",
+                                    "Content": "Guten Morgen,  ich frage mich gerade, ob alle 44 Seiten der Formelsammlung mit in die Klausur dürfen?! Erschien mir als recht viel...  Und dies ist auch nur die Formelsammlung von Stat1 ohne Stat2 korrekt?  Danke im Voraus!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086054",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-07-03T09:43:05+02:00",
+                                    "Content": "Hallo,  die komplette Formelsammlung von Statistik 1 ist für die Klausur zugelassen, Statistik 2 nicht.  David",
+                                    "Response to": "p1085445"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erlaubte Hilfsmittel in der Prüfung",
+                            "Discussion_Id": "597775",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075307",
+                                    "Author": "Philipp Jan Stallmann",
+                                    "DateTime": "2024-05-29T21:49:48+02:00",
+                                    "Content": "Sehr geehrtes Statistik-Team, dürfen wir die von Ihnen bereitgestellte Formelsammlung mit in die Prüfung nehmen? Welche Hilfsmittel sind generell erlaubt?  Mit freundlichen Grüßen, Philipp Stallmann",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075354",
+                                    "Author": "David Bügel",
+                                    "DateTime": "2024-05-30T08:24:45+02:00",
+                                    "Content": "Hallo,  erlaubt sind Formelsammlung und Taschenrechner.  Viele Grüße David",
+                                    "Response to": "p1075307"
+                                },
+                                {
+                                    "Message_id": "p1079555",
+                                    "Author": "Philipp Jan Stallmann",
+                                    "DateTime": "2024-06-12T17:54:49+02:00",
+                                    "Content": "Hallo,  ich denke an nicht-grafikfähige Taschenrechner wie den fx-991DE CW von Casio. Bin mir bei diesem Modell nicht sicher. Passt das?  Danke für die schnelle Antwort!  Mit freundlichen Grüßen, Philipp Stallmann",
+                                    "Response to": "p1075354"
+                                },
+                                {
+                                    "Message_id": "p1079568",
+                                    "Author": "Philipp Jan Stallmann",
+                                    "DateTime": "2024-06-12T18:18:20+02:00",
+                                    "Content": "Dieser Taschenrechner ist nicht programmierbar und nicht grafikfähig.",
+                                    "Response to": "p1079555"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurtermine",
+                            "Discussion_Id": "592095",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066422",
+                                    "Author": "Pascal Leon Vestweber",
+                                    "DateTime": "2024-05-03T13:42:55+02:00",
+                                    "Content": "Liebes Statistik Team, Können Sie bitte zeitnah die Klausurtermine mitteilen? Andere Module haben eine kürzere Anmeldefrist, weshalb es für die persönliche Planung hilfreich ist zu wissen, wann die Klausur stattfindet. Vielen Dank Beste Grüße  Pascal",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1796622",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VL Woche 26-28",
+                            "Discussion_Id": "605985",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087194",
+                                    "Author": "Khwaja Farhad Sediqi",
+                                    "DateTime": "2024-07-07T17:42:52+02:00",
+                                    "Content": "Hallo Team, in der KW 26-28 ist ein Screencast(KW05-06) zur Normalverteilung. Ist diese VL auch Teil des Semesters und prüfungsrelevant?  Vielen Dank! VG Farhad",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088693",
+                                    "Author": "Van Viet Anh Thai",
+                                    "DateTime": "2024-07-10T22:03:19+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1087194"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Altklausuren",
+                            "Discussion_Id": "605108",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085957",
+                                    "Author": "Mike Louis Fidanyan",
+                                    "DateTime": "2024-07-02T18:31:32+02:00",
+                                    "Content": "Hallo! Laden Sie noch Altklausuren hoch oder könnten Sie mich bitte weiterleiten wo ich welche finde? Vielen dank, Mit freundlichen Grüßen, Mike",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bitte um Antwort auf vorherigen Beitrag",
+                            "Discussion_Id": "604279",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084731",
+                                    "Author": "Ben Burkhard Garmshausen",
+                                    "DateTime": "2024-06-28T14:02:41+02:00",
+                                    "Content": ".",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Formelsammlung",
+                            "Discussion_Id": "601731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081100",
+                                    "Author": "Ben Burkhard Garmshausen",
+                                    "DateTime": "2024-06-18T10:25:35+02:00",
+                                    "Content": "Guten Morgen,  ich frage mich gerade, ob alle 44 Seiten der Formelsammlung mit in die Klausur dürfen?! Erschien mir als recht viel...  Und dies ist auch nur die Formelsammlung von Stat1 ohne Stat2 korrekt?  Danke im Voraus!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erster Klausurtermin am 20.07",
+                            "Discussion_Id": "592744",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067490",
+                                    "Author": "Philipp Jan Stallmann",
+                                    "DateTime": "2024-05-06T21:42:48+02:00",
+                                    "Content": "Sehr geehrtes Statistik-Team, ist es richtig, dass wir am Samstag, den 20.07., den Ersttermin haben? Mit freundlichen Grüßen, Philipp Stallmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium",
+                            "Discussion_Id": "590080",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063348",
+                                    "Author": "Ben Burkhard Garmshausen",
+                                    "DateTime": "2024-04-26T10:04:49+02:00",
+                                    "Content": "Hallo, ich stehe gerade vor dem Hörsaal EB107, weil ich auf moses dieses tutorium (10-12h) eingetragen bekommen habe. Auf dem Raumplan steht 12-14 Uhr. Gibt es überhaupt ein Tutorium heute um 10h?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063467",
+                                    "Author": "Ben Burkhard Garmshausen",
+                                    "DateTime": "2024-04-26T12:01:57+02:00",
+                                    "Content": "Hat sich geklärt",
+                                    "Response to": "p1063348"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zoom Link online Tutorium",
+                            "Discussion_Id": "589111",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061860",
+                                    "Author": "Mohammad Bilal Butt",
+                                    "DateTime": "2024-04-23T20:01:43+02:00",
+                                    "Content": "Hallo, wann wird der Zoom Link für das Online Tutorium um 8:00 veröffentlicht ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium",
+                            "Discussion_Id": "588449",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060825",
+                                    "Author": "Maximilian Genee",
+                                    "DateTime": "2024-04-22T14:20:00+02:00",
+                                    "Content": "Liebes Statistik Team, Ich wurde auf Moses in das Tutorium am Montag von 10-12 (Tutor unbekannt) eingeteilt, jedoch gibt es diesen Termin gar nicht in der Tutoriumsplanung. Gibt es dieses Tutorium trotzdem? Oder war das ein Fehler auf Moses? Beste Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutoriumsübersicht",
+                            "Discussion_Id": "588127",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060273",
+                                    "Author": "Judah Freeman Johnson",
+                                    "DateTime": "2024-04-21T19:15:54+02:00",
+                                    "Content": "Guten Abend, Wurde die Tutoriumsübersicht schon hochgeladen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060360",
+                                    "Author": "Lisa Sophie Fritze",
+                                    "DateTime": "2024-04-22T07:16:56+02:00",
+                                    "Content": "Guten Morgen,  Die stehen unten in Material Tutoren.  LG",
+                                    "Response to": "p1060273"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausurtermine",
+                            "Discussion_Id": "587201",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058805",
+                                    "Author": "Malte Töner",
+                                    "DateTime": "2024-04-18T10:02:03+02:00",
+                                    "Content": "Liebes Statistik Team, wäre es möglich, die Klausurdaten bald zu veröffentlichen?  Dies würde sicherlich vielen bei der Kurs- und Urlaubsplanung sehr helfen.  Mit besten Grüßen, Malte Töner",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsapp Gruppe",
+                            "Discussion_Id": "586949",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058439",
+                                    "Author": "Darian Gottfried Thomas Benjamin von Bismarck",
+                                    "DateTime": "2024-04-17T15:27:40+02:00",
+                                    "Content": "Moin, gibts eine WhatsApp Gruppe für Statistik I dieses Semester?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Screencast erste Woche",
+                            "Discussion_Id": "586131",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057282",
+                                    "Author": "Johannes Duschl",
+                                    "DateTime": "2024-04-15T17:43:17+02:00",
+                                    "Content": "Sehr geehrtes Statistik 1 Team, da die Screencasts erst bei Screencast 2 starten, würde ich gerne wissen, ob es im Sinne des Moduls ist, damit anzufangen, oder ob noch ein weiterer Screencast hinzugefügt wird bzw. die Vorlesung am Donnerstag als \"1. Screencast\" dient. Mit freundlichen Grüßen Johannes Duschl",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057947",
+                                    "Author": "Constantin Conrad Stahl",
+                                    "DateTime": "2024-04-16T19:14:29+02:00",
+                                    "Content": "+ 1",
+                                    "Response to": "p1057282"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

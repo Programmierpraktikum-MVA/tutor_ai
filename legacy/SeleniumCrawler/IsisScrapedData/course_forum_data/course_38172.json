@@ -1,0 +1,472 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Projekt Entwurf Eingebetteter Systeme + Master Project Software Engineering of Embedded Systems",
+        "Course_id": "38172",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1782466",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final presentation details &amp; next week",
+                            "Discussion_Id": "606880",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088472",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-07-10T13:01:42+02:00",
+                                    "Content": "Dear Students,  we wanted to clarify a few things about the final presentation and the next week in general as we have received several questions on this topic:  The final presentation will take place on Monday (July 15th) at 10 AM in room BIB 014 (sharp!). During this session, we will only be viewing your videos, after which everyone can vote on which group has the best video. We will provide a laptop that has the videos saved on it.  The videos themselves will be graded by us, but the competition is just for fun and will be rewarded with a small Lego prize. The entire process will take about 45 minutes. Afterwards, we will all go to the project room in the MAR building, where you can show us your robots in action. This live demonstration will not be graded either. The official end of the event remains at 1 PM. Since we currently do not have the ability to print and display your posters, they will not be part of the presentation on Monday but will still be graded by us.  The group sessions on July 16th, 17th, and 19th are not taking place and we will meet again during the week of July 22nd to 25th for the oral exams (see schedule on ISIS).  Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update: Extended submission deadline",
+                            "Discussion_Id": "606607",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088071",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-07-09T13:34:52+02:00",
+                                    "Content": "Dear Students,  we are extending the submission deadline to Friday, July 12th, at 6 PM. This will allow the Friday groups to hold their discussions as usual and still have enough time to submit their work afterwards. Additionally, Lucas and I will be available to provide support until then - in case any last-minute issues arise. And the best part: You’ll have plenty of time to celebrate the completion of your work on Friday evening! :) If you have any questions or need further assistance, feel free to reach out. Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final submission and presentation",
+                            "Discussion_Id": "606232",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087545",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-07-08T13:28:06+02:00",
+                                    "Content": "Dear Students,  there are only 5 days left until the final submission. It’s amazing to see how far you’ve come. Judging by your last milestone presentations, your results are very impressive.  Please remember that the submission deadline is Friday at 12 PM noon at 6 PM. We want to save you from having to work through the weekend. Also, this way, we can provide support via e-mail or ISIS if anything goes wrong.  Make sure to carefully check the \"Final Presentations\" and \"Final Submission\" sections on the ISIS page to ensure you don't miss any components of the submission. Someone asked during the third milestone if there would be more information about the poster. For this, we can only refer to the existing information on the ISIS page. However, you can get some inspiration here if you need a starting point.  The final presentation will start on Monday (July 15th) at 10 AM sharp. Attendance is mandatory.  We will watch all the videos together, and then vote on which video will win our Lego prize. Since this won’t take too long, we will then go together to the MAR, where you can demonstrate your robots in full glory. :)  We’re looking forward to it! Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Third MS presentation schedule",
+                            "Discussion_Id": "604450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084997",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-06-30T13:41:58+02:00",
+                                    "Content": "Dear students, better late than never: We schedule the third milestone presentation on Monday (1.7.) as follows: Plotting 1 Moving 2 Driving 1       * Coffee break *  Plotting 2 Moving 1 Driving 2 The presentations start at 10:00 (sharp!) and take place in BIB 014. Attendance is mandatory!  We have also opened an upload option for your slides on ISIS. Please upload your slides until 10:00 on Monday as well.  Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final presentation and code submission details now available",
+                            "Discussion_Id": "602633",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082369",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-06-21T15:06:23+02:00",
+                                    "Content": "Dear students,  although there are still a few weeks to go until the end of the project, you can already find more information about the final presentation (video and poster) and the code submission on the ISIS website. Please take your time to review the details and contact your supervisor if you have any questions.  Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "CI/CD Runner now working!",
+                            "Discussion_Id": "599961",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078499",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-06-10T11:49:58+02:00",
+                                    "Content": "Dear students,  our GitLab Runner should work now! All groups that have sent me a registration token should be able to see our Lego Runner under  \"Settings -> CI/CD -> Runners -> Assigned project runners\". Information on how to create your own gitlab-ci.yaml and start using CI/CD for your project can be found here.  Good luck setting up your pipeline!  Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Final talks schedule",
+                            "Discussion_Id": "599581",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077930",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-06-07T10:40:00+02:00",
+                                    "Content": "Dear students, the schedule for the final talks is now available online. You can find it under the \"Final Talks\" tab at the bottom of the ISIS page. If you have a scheduling conflict, please contact your supervisor immediately. Attendance is mandatory, and you cannot miss your scheduled time under any circumstances. Please note that the final talks will be held in person at TU Berlin. Detailed information about the exact room and procedure will be provided soon. Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "New meeting room available",
+                            "Discussion_Id": "597340",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074686",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-28T13:24:29+02:00",
+                                    "Content": "Dear students, currently, in addition to the regular project activities, our weekly group meetings are held in MAR 5.040. At the beginning of the semester, this was manageable as there were rarely many students in the room simultaneously. However, as the semester progresses and the room gets busier, it is becoming increasingly difficult to hold group discussions and work on projects in the same space. To address this issue, starting this week, we have the option to use a meeting room in MAR 5.044 (just down the floor) for group meetings. This room provides a quiet space for conversations but is only available during the scheduled group meeting times and must be left afterwards. Please coordinate with your supervisor if you wish to use this room. Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second MS presentation schedule",
+                            "Discussion_Id": "597330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074675",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-28T13:12:09+02:00",
+                                    "Content": "Dear students, we schedule the second milestone presentation on Monday (3.6.) as follows: Plotting 2 Driving 2 Moving 2       * Coffee break *  Plotting 1 Driving 1 Moving 1 The presentations start at 10:00 (sharp!) and take place in BIB 014. Attendance is mandatory!  We have also opened an upload option for your slides on ISIS. Please upload your slides until 10:00 on Monday as well.  Best, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Urgent: Respecting project box contents",
+                            "Discussion_Id": "596053",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072664",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-22T15:52:25+02:00",
+                                    "Content": "Dear Students, we have recently discovered that parts have gone missing from some project boxes - likely because they were used by other teams. While we do not believe that taking the parts was done with malicious intent, it must stop immediately! If this issue persists, we will have to introduce scheduled access times for the project room and lock away the parts boxes outside these times. If you urgently need a part that is not available in sufficient quantity in your own box, please contact your supervisor directly instead of taking it from another team's box. We will make every effort to provide the missing part as quickly as possible. Additionally, we ask each team to review the contents of their box (and the parts already used) against their team's parts list. Please report any missing or excess parts to us! Best regards, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First MS presentation schedule",
+                            "Discussion_Id": "593199",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068162",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-08T10:53:10+02:00",
+                                    "Content": "Dear students, we schedule the first milestone presentation on Monday (13.5.) as follows: Moving 1 Driving 1 Plotting 1       * Coffee break *  Moving 2 Driving 2 Plotting 2 We will change the time slots for the next presentations so that the distribution is as fair as possible.  The presentations start at 10:00 (sharp!) and take place in BIB 014. Attendance is mandatory!  We have also opened an upload option for your slides on ISIS. Please upload your slides until 10:00 on Monday as well.  See you all on Monday! Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration until next week",
+                            "Discussion_Id": "591642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065734",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-02T11:32:21+02:00",
+                                    "Content": "Dear students,  today is a very announcement-heavy day for this project. :) Please remember that the exam registration deadline for this course is the 6th May (Monday next week!). You must register on MOSES. Yellow sheets are no longer accepted. The registration is obligatory. Late registrations or registrations via mail are not accepted. Please also make sure that you register for the correct course variant (Bachelor project + seminar, Master project, or Master project + seminar). Changing the variant later is not possible. Best regards Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Milestone: Minimal requirements",
+                            "Discussion_Id": "591625",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065709",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-02T11:07:00+02:00",
+                                    "Content": "Dear students,  with the first milestone approaching, here are the minimum aspects that you must cover in your presentations: Background to your project topic. For example a summary of relevant related literature (at most 2 slides per paper) Definition of the project goal and most important requirements (including safety requirements) Schedule: What goals do you have for subsequent milestones? Basic approach: System architecture, likely algorithms and libraries First results: Basic robot design, basic environment, ... You can find a PowerPoint template on ISIS. Please use slide numbers and put the name of the speaker who is currently presenting on that slide.  Best regards Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "C++ Build HAT library available",
+                            "Discussion_Id": "591565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065614",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-02T09:17:04+02:00",
+                                    "Content": "Dear students,  the C++ library for the Raspberry Pi Build HAT is now available on ISIS.  This library was created last summer semester by another group for our project and was kindly provided to us for further use. Lucas then revised it and added a read-me file and examples.  Please note that this is only intended as an aid for your work. You are not obliged to use the library and can of course work with your own solutions.  Furthermore, as we are not the authors of the software, we can't provide you with any support.  Best regards Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Our new project room: MAR 5.040",
+                            "Discussion_Id": "591555",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065602",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-05-02T08:53:22+02:00",
+                                    "Content": "Dear students,  the Tuesday groups have been introduced to it already:  Our new project room is located in MAR 5.040.  Access is via a number combination on the door. The combination will be announced at your first in-presence meeting.  This room is intended to be a retreat and creative space for all project members. Therefore, please handle the number combination confidentially and do not share it with anyone outside the project. As we unfortunately do not have a separate room for the weekly group meetings, we ask you all to be considerate during the meeting. You are welcome to stay in the room, but please behave quietly. The room has a total of 14 workplaces. If, contrary to expectations, more people want to work in the room at any given time, the groups that have their group meeting on the same day have priority.  And one last request: In the new room, even we as a department are only guests. So please treat the room and interiors with even more care than you already would. :)  Best regards Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update: Project room situation",
+                            "Discussion_Id": "587312",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058999",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-18T13:35:18+02:00",
+                                    "Content": "Dear Students,  good news: we have found a replacement for our project room!  However, since we have yet to move our equipment there and set up the room, the first meetings next week (23.4 to 26.4) are still taking place via Zoom.  The first in-person meetings will then start one week later (30.4. to 3.5.). The location of the new project room is to be announced shortly.  Best regards, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Allocation Results",
+                            "Discussion_Id": "586969",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058467",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-17T15:44:56+02:00",
+                                    "Content": "Dear Students, Thank you for your interest in our course! Due to the high number of applicants we have conducted a random selection to assign places. For those selected: You have been assigned to a specific group and topic on ISIS. Each group has a private discussion forum for communication among group members and with your supervisor. Your supervisor will reach out to you to send you the link for your first Zoom meeting, scheduled for next week. Please note that attendance is required - failure to attend will result in your spot being offered to another student. If you are no longer interested in participating, please inform us via email as soon as possible. This will allow us to offer your place to another student on the waiting list.  We are excited about the upcoming projects and look forward to your contributions! Best regards, Paul, Lucas, and Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update on the current situation at TEL",
+                            "Discussion_Id": "586474",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057795",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-16T15:46:43+02:00",
+                                    "Content": "Dear Students, as you may be aware, there has been an incident in the TEL building just in time for the start of the semester. Due to the resulting damage, the building will remain closed for an unspecified period. Unfortunately, this closure affects our department, including our project and seminar rooms, preventing our meetings from taking place there next week.  On a positive note, our equipment was not damaged, and we are actively seeking an alternative room for the project. If we are unable to secure a replacement room by the beginning of next week, we will temporarily shift to virtual meetings via Zoom.  We will provide further updates as soon as more information becomes available.  Best regards, Paul, Lucas & Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Both application forms must be completed!",
+                            "Discussion_Id": "585868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056907",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-15T10:47:59+02:00",
+                                    "Content": "Dear Students, we would like to remind you that both application forms must be completed in order to participate in the allocation process for our project. Currently, 24 students have filled out the first form but not the second one. If this oversight was unintentional, please complete the second form as soon as possible. The deadline is tomorrow. Best regards, Paul, Lucas, and Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Application is now open!",
+                            "Discussion_Id": "584938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055562",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-08T13:21:04+02:00",
+                                    "Content": "Dear students, welcome and thank you for your interest in our projects! The number of participants for this course is limited. If you want to participate, please complete both forms under \"Application for Participation\" here on ISIS until 16th April. We ask you to provide information about yourself and vote for a project topic and a team:  More details on the individual topics are available on ISIS. Please read those carefully. Changing topics later is not possible! The team determines on which day and time you have to participate in our weekly meetings: You must attend these weekly meetings! Therefore, make sure that you select a team with a time-slot on that you are available. Changing teams later is not possible! We will choose students randomly among all submitted applications. We expect to publish the results on 18th April.  We will also provide additional details on the first meeting and the further organization of this course then.  Best regards, Paul, Lucas and Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "General Questions",
+                    "Forum_id": "1782467",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Requirements for software architecture diagram",
+                            "Discussion_Id": "606711",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088222",
+                                    "Author": "Matin Gohar Far",
+                                    "DateTime": "2024-07-09T18:35:49+02:00",
+                                    "Content": "Hello, I have been criticized for using a flow chart for the software architecture which is not standardized, so I have the following question for the poster: Do I HAVE TO implement a UML Diagram (I haven't done that before) if I want to graphically show our software architecture or can i also do a Functional Flow Diagram (FFD) like this?:",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088505",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-07-10T14:01:20+02:00",
+                                    "Content": "Hi Matin,  a Functional Flow Diagram is generally suitable for the poster. However, it should still match the overall design. But I think that's self-explanatory.  Best, Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission Deadline",
+                            "Discussion_Id": "606254",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087573",
+                                    "Author": "Anders Jörgen Hausding",
+                                    "DateTime": "2024-07-08T14:05:16+02:00",
+                                    "Content": "Why is the video submission deadline at Friday 12 noon?  For the Plotting2 group this would mean loosing half a work day besides the fact that all other groups have one more meeting before the deadlines, which feels very unfair.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1087634",
+                                    "Author": "Amon Kay Benson",
+                                    "DateTime": "2024-07-08T15:13:33+02:00",
+                                    "Content": "I have to agree as Plotting1 is in the same situation. I don't really see the benefit of having the deadline in the middle of the day.  If someone prefers to get support via ISIS, they are free to submit earlier during the day. Most members of my group have courses on other weekdays, and specifically chose friday to work on the project because of the meeting. I'd suggest friday at 23:59 as a more sensible deadline. This way, we would still not need to work on the weekend, but we would have one more meeting and actually enough time to make minor adjustments before our submission.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088056",
+                                    "Author": "Matin Gohar Far",
+                                    "DateTime": "2024-07-09T13:03:53+02:00",
+                                    "Content": "+1",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088072",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-07-09T13:38:09+02:00",
+                                    "Content": "Hey,  we understand your concerns and hope that the new announcement addresses them.  Best, Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "uploading presentation slides",
+                            "Discussion_Id": "599166",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077329",
+                                    "Author": "Matin Gohar Far",
+                                    "DateTime": "2024-06-05T14:43:29+02:00",
+                                    "Content": "Hello,  is it possible to upload all the presentation slides from the Milestones? I think more knowledge is effectively accessible, if the slides are freely accessible. thank you in advance.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1077367",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-06-05T16:10:07+02:00",
+                                    "Content": "Hi Matin,  you should now have access to all slides!  Best, Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Contact to Team driving 2",
+                            "Discussion_Id": "593727",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068995",
+                                    "Author": "Paul Robin Markus Reichelt",
+                                    "DateTime": "2024-05-10T19:29:46+02:00",
+                                    "Content": "Hi to the team driving2, You offered some of our group members to share some details about the map/ parcour we agreed on. Sadly, we heard not back from you yet. Since we probably both need to finish and polish our presentation slides, it would be really great if you contact us. :) You can either approach me via mail or find some of us on Sunday around 1 p.m. in the not so sunny project room. Have a fantastic Weekend! Best, Robin",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1069033",
+                                    "Author": "Kinan Helani",
+                                    "DateTime": "2024-05-11T12:52:29+02:00",
+                                    "Content": "Hi,  I have already sent it per E-mail and sent it a second time now.  Hopefully you can re-check your mails and find it there Robin.  Best regards, Kinan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group allocations",
+                            "Discussion_Id": "587278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058933",
+                                    "Author": "Abdelrahman Nashaat Samir Abdelsalam",
+                                    "DateTime": "2024-04-18T12:34:49+02:00",
+                                    "Content": "Hi Where can i see which group i've been assigned to?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1058949",
+                                    "Author": "Willie Thorsten Ingo Szollmann",
+                                    "DateTime": "2024-04-18T12:47:44+02:00",
+                                    "Content": "Hello Abdelrahman,  unfortunately, you can't see the group forum, because you have not been assigned to a place in the project.  I am very sorry about that. :(  Best, Willie",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Crediting of the project for Computational Engineering Science as project work",
+                            "Discussion_Id": "585551",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056417",
+                                    "Author": "Till Otto Schäfer",
+                                    "DateTime": "2024-04-12T06:17:07+02:00",
+                                    "Content": "I am a CES student and listened to SEES last winter semester. I'm very interested in the project, but I'm not sure if I can get credit for it for my degree program. Is there any specific information on this?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1056427",
+                                    "Author": "Paul Werner Kogel",
+                                    "DateTime": "2024-04-12T08:16:21+02:00",
+                                    "Content": "Hi Till,  thank you for your interest! In such cases, it's usually best to check your specific exam regulation (is the module listed as elective? do you have free electives, where you can choose any module? etc.) and/or contact your Prüfungsausschuss.  Best, Paul",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1057007",
+                                    "Author": "Till Otto Schäfer",
+                                    "DateTime": "2024-04-15T12:30:31+02:00",
+                                    "Content": "Hi Paul, thanks for your response. SEES (which i took last semester) is in my first core field of studies (Informatik & Mathematik). However this project does not appear in the project work list for CES. As I have already taken all my free modules, it would be important for me to get credit for the module as a 'project'. Is there a possibility?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1057086",
+                                    "Author": "Paul Werner Kogel",
+                                    "DateTime": "2024-04-15T13:58:31+02:00",
+                                    "Content": "Hi Till, the best idea is to ask your Prüfungausschuss about that, they know all about module catalogs and crediting. Best, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Application",
+                            "Discussion_Id": "585215",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055962",
+                                    "Author": "Jennifer Fomin",
+                                    "DateTime": "2024-04-10T09:48:58+02:00",
+                                    "Content": "Hello, I have a question regarding the application. Can we leave the answer for the question \"Who would you like to have in your group?\" just blank if we don't know anyone? Or is the question about something else?  Thanks in advance and greetings Jenny",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1055985",
+                                    "Author": "Paul Werner Kogel",
+                                    "DateTime": "2024-04-10T10:27:11+02:00",
+                                    "Content": "Hi Jenny, you can leave the field blank, no worries :) Best, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Is the time for the lecture on MOSES valid?",
+                            "Discussion_Id": "584972",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055609",
+                                    "Author": "Laurin Dahm",
+                                    "DateTime": "2024-04-08T15:08:10+02:00",
+                                    "Content": "On MOSES \"Veranstaltungssuche\"  I only found 0434 L 166 for EES. It says the course takes place on Monday from 10am to 1pm. But I didn't find that date given in the course organisation slides (maybe I missed it). Will a part of this course take place at that time?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1055611",
+                                    "Author": "Paul Werner Kogel",
+                                    "DateTime": "2024-04-08T15:27:44+02:00",
+                                    "Content": "Hi Laurin, our 3 milestone presentations and the final presentation will take place at this time. Apart from these, there are no weekly meeting on Monday at this time. All relevant dates are given in the schedule on ISIS, plus the weekly meeting with your assigned group. Best, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

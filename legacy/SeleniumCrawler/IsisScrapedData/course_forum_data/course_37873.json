@@ -1,0 +1,88 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Satellite Communication / Radio Astronomy / Projekt Amateurfunk",
+        "Course_id": "37873",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1771575",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Tomorrow 13:30: Safety Instruction for the StudiSatLab",
+                            "Discussion_Id": "594380",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070056",
+                                    "Author": "Timo Samuel Prinz",
+                                    "DateTime": "2024-05-14T15:28:46+02:00",
+                                    "Content": "Dear Students, as you might remember during the tour of the chair of space technology we showed you the StudiSatLab (opposite the Satellite Integration Lab, near the Mission Control Center). If you want to use this lab for your work, you need to attend the Safety Instruction first. The last safety instruction for this semester is TOMORROW, at 13:30. If you want to participate, you need to enroll to the ISIS-Course \"RFT: Arbeitsschutz\" [1] and register for the appointment there. Best regards, Timo [1]: https://isis.tu-berlin.de/course/view.php?id=39072",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Presentation by Prof. Alimenti",
+                            "Discussion_Id": "592503",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067119",
+                                    "Author": "Camille Cecil Anthon Westerhof",
+                                    "DateTime": "2024-05-06T11:53:29+02:00",
+                                    "Content": "I have uploaded the Presentation slides by Prof. Alimenti for the RA project",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Application for vacant slots is now possible",
+                            "Discussion_Id": "592207",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066601",
+                                    "Author": "Timo Samuel Prinz",
+                                    "DateTime": "2024-05-03T19:51:22+02:00",
+                                    "Content": "Dear interested students, who didn't apply in the first round, Due to students dropping out of the project, we are able to fill two more positions in the Satellite Communication Project. Both positions are in the Work Package \"Flight Software II\". To get one of these positions you need to do the following: Complete the Activity \"Your field of study\". Read the Work Package Description for the Work Package carefully, including the information linked in the section \"Input and Dependencies\". Fill out the Application Form. You can find these Activities in the section \"Application for Vacant Positions\" in the ISIS course. Deadline for completing the above steps is this Sunday, 23:59.  Best regards, Timo Prinz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second meeting this Thursday",
+                            "Discussion_Id": "589475",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062439",
+                                    "Author": "Timo Samuel Prinz",
+                                    "DateTime": "2024-04-24T16:02:09+02:00",
+                                    "Content": "Dear Students,  we'll meet again this Thursday at 14:15 in room H2013. In addition to revealing your assignments we'll give you some Information on workflow, schedule and tools during the project as well as a short introduction into the topic of the projects.  If you can't make it to the meeting, please let us know beforehand by mail to kurs@dk0tu.de.  See you there Timo for the SIERRA-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Invitation to the Kickoff Meeting",
+                            "Discussion_Id": "584782",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055334",
+                                    "Author": "Timo Samuel Prinz",
+                                    "DateTime": "2024-04-05T19:06:22+02:00",
+                                    "Content": "Dear SatCom- and Radio Astromony-Interested students,  the Kickoff Meeting for this semesters SIERRA-Projects will take place on Thursday, 18.04.24 starting at 14:15 in room H 2013.  During the meeting you will get to know the team behind SIERRA, what we're planning for this semester and how to participate. Afterwards we'll give you a tour of our Satellite Ground Station and Mission Control facilities as well as TU Berlins amateur radio station, DK0TU. Including the tours, you should expect the event to take about four hours.  After the kickoff meeting you'll have to write a short letter of motivation. This allows us to arrange sub-teams for specific work packages depending on your knowledge, interests and priorities.  For general questions please wait until the kickoff meeting, as many questions will be answered there. For any special questions feel free to reach out to us via kurs@dk0tu.de. Please also read the information at the top of the ISIS page.  Looking forward to meeting you, Sebastian, Camille, Martin and Timo",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058703",
+                                    "Author": "Timo Samuel Prinz",
+                                    "DateTime": "2024-04-17T22:51:56+02:00",
+                                    "Content": "Dear students,  friendly reminder for our Kickoff Meeting tomorrow: Thursday, 18.04.24 starting at 14:15 in room H 2013.  See you there! Sebastian, Camille, Martin and Timo",
+                                    "Response to": "p1055334"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

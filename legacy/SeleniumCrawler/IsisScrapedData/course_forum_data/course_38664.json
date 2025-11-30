@@ -1,0 +1,116 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] PV2- Dünnschichtphotovoltaik und neue Konzepte",
+        "Course_id": "38664",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1799646",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Masterarbeiten am HZB",
+                            "Discussion_Id": "607385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089164",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-07-12T09:12:30+02:00",
+                                    "Content": "Liebe Studierende, am Helmholtz-Zentrum Berlin bieten wir auch dieses Jahr wieder Masterarbeiten an. Im entsprechenden Kursabschnitt finden Sie Angebote für Masterarbeitsthemen in den Abteilungen Perowskit Tandemsolarzellen (Prof. Steve Albrecht) und Solarenergieoptik (Prof. Christiane Becker). Bei Interesse setzen Sie sich mit den dort angegebenen Personen in Verbindung. Viele Grüße Philipp Tockhorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zur Leistungskontrolle am 17.7. ist freigeschaltet",
+                            "Discussion_Id": "604173",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084568",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-06-28T09:00:10+02:00",
+                                    "Content": "Liebe Studierende, Sie können sich bis zum 15.7. (13 Uhr) für die erste Leistungskontrolle am 17.7. anmelden. Bitte nutzen Sie hierfür das Formular in diesem ISIS-Kurs. Viele Grüße Philipp Tockhorn",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086342",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-07-03T22:22:13+02:00",
+                                    "Content": "Falls Sie die Anmeldung zur Leistungskontrolle noch nicht gefunden haben: Sie können sich für die Leistungskontrolle über diesen Link anmelden: https://isis.tu-berlin.de/mod/questionnaire/view.php?id=1799652  Viele Grüße Philipp Tockhorn",
+                                    "Response to": "p1084568"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung über Moses freigeschaltet",
+                            "Discussion_Id": "595175",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071296",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-05-17T13:46:34+02:00",
+                                    "Content": "Liebe Studierende, die Anmeldung zu unseren Modulen in Moses ist jetzt freigeschaltet und Sie können sich bis zum 03.07.2024 (23:59) anmelden (bzw. Ihre Anmeldung zurückziehen). WICHTIG: Wenn Sie sich in einem vorherigen Semester bereits zu einem unserer Module angemeldet haben (Moses oder gelber Zettel), müssen Sie nichts weiter unternehmen. Viele Grüße Philipp Tockhorn",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum - Inhalt der Vorlesung, Organisatorisches",
+                    "Forum_id": "1799651",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "VL Folien hochladen",
+                            "Discussion_Id": "604521",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085112",
+                                    "Author": "Oliver Zeh",
+                                    "DateTime": "2024-07-01T08:51:25+02:00",
+                                    "Content": "Hallo, die Folien der letzten VL (müsste Deposition und Wachstum gewesen sein) sind noch nicht hochgeladen. VG Oliver",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung Klausur",
+                            "Discussion_Id": "604178",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084575",
+                                    "Author": "Oliver Zeh",
+                                    "DateTime": "2024-06-28T09:29:37+02:00",
+                                    "Content": "Hi, zwei Hinweise: 1. Die Frage 1 und 8 in der Anmeldung überschneiden sich. 2. Ich habe mich im SoSe24 für das Modul angemeldet, da das aber keine Anmeldeoption war, habe ich SoSe23 angekreuzt, da ich davon ausgehe, dass hier die Jahreszahlen falsch eingeschlichen haben.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1084621",
+                                    "Author": "Philipp Tockhorn",
+                                    "DateTime": "2024-06-28T10:50:14+02:00",
+                                    "Content": "Vielen Dank für den Hinweis. Das Formular ist jetzt angepasst. Wenn die Jahreszahlen bei Ihnen falsch sind, ist dies kein Problem.",
+                                    "Response to": "p1084575"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung PV2 und Seminar auf Moses",
+                            "Discussion_Id": "593521",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068662",
+                                    "Author": "Bingfeng Cheng",
+                                    "DateTime": "2024-05-09T20:12:52+02:00",
+                                    "Content": "Hallo,  In der Einführungsvorlesung wurde gesagt, dass Studierende, die das Modul nach dem WS22/23 begonnen haben, melden sich bitte über Moses an. Ich finde die beiden Module aber nicht auf Moses. Wann wird die Anmeldung freigeschaltet?  LG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

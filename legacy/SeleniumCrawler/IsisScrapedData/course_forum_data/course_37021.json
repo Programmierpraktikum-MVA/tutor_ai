@@ -1,0 +1,78 @@
+[
+    {
+        "Course_Name": "[SS24] Applications of Robotics and Autonomous Systems",
+        "Course_id": "37021",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1741733",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "24 Apri Lecture in ZE-KI e.V.  Ernst-Reuter-Platz 2 10587 Berlin",
+                            "Discussion_Id": "588784",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061353",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-23T10:57:31+02:00",
+                                    "Content": "Dear students, As you know our TEL building is closed, this week we will have our lecture in ZE-KI e.V. Ernst-Reuter-Platz 2 10587 Berlin https://ze-ki.de  We will bring you up in front the main entrance at about 14:00.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Enrollment and Groups",
+                            "Discussion_Id": "588595",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061075",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-22T18:06:52+02:00",
+                                    "Content": "Group Full name 1 Wangdong Yin 1 Maximilian Alex 1 Truong Nam Tran 1 Jonas Peschel 1 Tino Nicksch 2 Jason Osayi 2 Sam Chamani 2 Doan Hoang Long Kästner 2 2 Adrian Salewsky 2 Yeqiao Xu 3 Mehmet Yasin Cifci 3 Ufuk Algac 3 Akram Salim Jawad Al-Saffah 3 3 Leunar Kalludra   4 4 4 4 Jonathan Leonard Zöllinger 4 4 Helena Schulz 4 Simon Thomas Thomes 4 Luisa Wittig 4 Anastasia Weiz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061345",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-23T10:53:35+02:00",
+                                    "Content": "Dear students,  Some selected students can't join the lecture, so we have update the groups: everyone get chance to take the course.",
+                                    "Response to": "p1061075"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1741736",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Clarification about group selection",
+                            "Discussion_Id": "589104",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061853",
+                                    "Author": "Bryan Oppong-Boateng",
+                                    "DateTime": "2024-04-23T19:46:33+02:00",
+                                    "Content": "Hello, In a recent post the following was said. Some selected students can't join the lecture, so we have update the groups: everyone get chance to take the course.  I don’t quite understand what that means. Unfortunately I wasn’t on the list that was published on Monday. Does the message posted today say that I can now participate?   Kind regards  Bryan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062094",
+                                    "Author": "Yuan Xu",
+                                    "DateTime": "2024-04-24T10:34:51+02:00",
+                                    "Content": "Hi Bryan,  Yes everyone who have done the survey can join. But if you have taken the lecture already, it doesn't make sense to take it again.",
+                                    "Response to": "p1061853"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Computer Graphics Seminar B",
+        "Course_id": "37167",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1750462",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Final Presentation 19.07.24",
+                            "Discussion_Id": "605820",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086935",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-07-05T14:26:24+02:00",
+                                    "Content": "Dear all, We want to remind you that the final presentations (project and seminar) are taking place in two weeks on Friday 19.07.24 starting at 13:00 c.t. Please prepare a 10 minutes presentation about the final results of your work and be ready to discuss them with us for a couple of minutes after your presentation. Since a lot of people are presenting in the sessions, make sure not to exceed the time limit of 10 minutes.  As an example, your presentation could cover some of the following topics: - Brief motivation - Final prototype/demonstrator - Algorithm - Technical challenges - What did you learn? Insights (conceptually and technically) - Future work (very brief, how could the project be expanded)  Kind regards, The CG team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088144",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-07-09T15:20:10+02:00",
+                                    "Content": "Attention: of course it's not Monday, but *Friday* 19.07.24",
+                                    "Response to": "p1086935"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation \"Computer Graphics Seminar B\" - New deadline: 12.07.2024  ",
+                            "Discussion_Id": "605268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086181",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-07-03T13:34:49+02:00",
+                                    "Content": "Liebe Studierende/Dear Students, ihr könnt noch bis zum 12.07.2024 an der Evaluation der Lehrveranstaltung \"Computergraphik Seminar B\" des Sommersemesters 2024 teilnehmen. Bitte nehmt Euch die Zeit, die Frage Bögen auszufüllen. Danke! You can still take part in the evaluation of the course \"Computer Graphics Seminar B\" for the summer semester 2024 until July 12, 2024. Please take the time to fill out the questionnaires. Thank you! ------------------------------ Beiliegend erhaltet Ihr den Link der lösungsbasierten Umfrage für die Evaluation der Lehrveranstaltung \"Computergraphik Seminar B\" des Sommersemesters 2024: Computergraphik Seminar B: https://befragung.tu-berlin.de/evasys/online.php?p=YWGF7   Die Umfrage dauert jeweils ca. eine halbe Stunde und ist bis zum 12. Juli 2024 freigeschaltet. Durch Eure Teilnahme leistet Ihr einen wichtigen Beitrag zur Qualitätssicherung des Lehrangebotes. Desto mehr Kursteilnehmer und -teilnehmerinnen auf die Umfrage antworten, desto aussagekräftiger sind die Daten am Ende. Die Rückmeldungen werden vom Evaluationsteam der Fakultät IV gesammelt und in anonymer Form ausgewertet. Die Ergebnisse der Evaluation werden zum Schluss per E-Mail an die Dozenten und Dozentinnen mitgeteilt. ****************************************************************************** Please find, enclosed, the link to the online survey for the evaluation of the course \"Computer Graphics Seminar B\" in the summer semester 2024: Computer Graphics Seminar B: https://befragung.tu-berlin.de/evasys/online.php?p=YWGF7  Each survey takes about half an hour and is activated until July 12th, 2024. By participating, you make an important contribution to the quality assurance of the courses offered. The more course participants take part in the survey, the more conclusive the data will be in the end.  The feedback is collected by the evaluation team of the Faculty IV and evaluated in an anonymous form. The results of the evaluation are then communicated to the lecturers via email. Mit besten Grüßen/Best regards, Gaëlle  ****************************************************************************** Gaëlle Fer-Arslan Technische Universität Berlin – Fakultät IV Institut für technische Informatik und Mikroelektronik Fachgebiet Computer Graphics – Sekr. MAR 6-6  Raum MAR 6.034 Marchstr. 23, D-10587 Berlin Tel.: +49-30-314-73 100 eMail: gaelle.fer-arslan@tu-berlin.de",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation \"Computer Graphics Seminar B\" - SoSe 2024",
+                            "Discussion_Id": "603038",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082957",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-06-24T12:53:14+02:00",
+                                    "Content": "Liebe Studierende/Dear Students, beiliegend erhaltet Ihr den Link der lösungsbasierten Umfrage für die Evaluation der Lehrveranstaltung \"Computergraphik Seminar B\" des Sommersemesters 2024: Computergraphik Seminar B: https://befragung.tu-berlin.de/evasys/online.php?p=YWGF7   Die Umfrage dauert jeweils ca. eine halbe Stunde und ist bis zum 28. Juni 2024 freigeschaltet. Durch Eure Teilnahme leistet Ihr einen wichtigen Beitrag zur Qualitätssicherung des Lehrangebotes. Desto mehr Kursteilnehmer und -teilnehmerinnen auf die Umfrage antworten, desto aussagekräftiger sind die Daten am Ende. Die Rückmeldungen werden vom Evaluationsteam der Fakultät IV gesammelt und in anonymer Form ausgewertet. Die Ergebnisse der Evaluation werden zum Schluss per E-Mail an die Dozenten und Dozentinnen mitgeteilt. ****************************************************************************** Please find, enclosed, the link to the online survey for the evaluation of the course \"Computer Graphics Seminar B\" in the summer semester 2024: Computer Graphics Seminar B: https://befragung.tu-berlin.de/evasys/online.php?p=YWGF7  Each survey takes about half an hour and is activated until June 28th, 2024. By participating, you make an important contribution to the quality assurance of the courses offered. The more course participants take part in the survey, the more conclusive the data will be in the end.  The feedback is collected by the evaluation team of the Faculty IV and evaluated in an anonymous form. The results of the evaluation are then communicated to the lecturers via email. Mit besten Grüßen/Best regards, Gaëlle  ****************************************************************************** Gaëlle Fer-Arslan Technische Universität Berlin – Fakultät IV Institut für technische Informatik und Mikroelektronik Fachgebiet Computer Graphics – Sekr. MAR 6-6  Raum MAR 6.034 Marchstr. 23, D-10587 Berlin Tel.: +49-30-314-73 100 eMail: gaelle.fer-arslan@tu-berlin.de",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Portfolioprüfung - Anmeldungsfrist in MOSES verlängert",
+                            "Discussion_Id": "599595",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077948",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-06-07T11:49:20+02:00",
+                                    "Content": "Hallo, wer vergessen hat, sich für die Portfolioprüfung in MOSES anzumelden, kann dies noch bis Montag (10.06.2024) machen.  Die Anmeldefrist wurde verlängert. Beste Grüße Gaëlle",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "GitLab Repositories",
+                            "Discussion_Id": "597019",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074158",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-05-27T14:00:17+02:00",
+                                    "Content": "Dear course participants,  I have just created the GitLab repositories, to which you will upload your program code and create the documentation web pages. So that I can add you, you should log in with your TU username and password at gitlab.cg.tu-berlin.de (note the \"cg\" in the name, this is NOT the usual TU Git). Once you have done this, please send me a private message on ISIS with your TU username and your topic.  Best regards  Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung - SoSe 2024",
+                            "Discussion_Id": "594052",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069521",
+                                    "Author": "Gaelle Fer-Arslan",
+                                    "DateTime": "2024-05-13T14:04:09+02:00",
+                                    "Content": "Liebe Studierende,  die Frist für die An- und Abmeldung zur Portfolioprüfung des Moduls \"Computergraphik Seminar B\" in MOSES läuft am 31. Mai 2024 ab.   Mit besten Grüßen  Gaëlle ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tech Presentation on 24.05.2024",
+                            "Discussion_Id": "590785",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064420",
+                                    "Author": "Markus Andreas Worchel",
+                                    "DateTime": "2024-04-29T13:59:21+02:00",
+                                    "Content": "Dear all, due to scheduling conflicts, the tech presentation will be moved to Friday 24.05.2024 at 12:00 (c.t.).  Please prepare a 10 min. presentation where you present the paper your topic is based on, the corresponding technical background and, potentially, a first prototype of your implementation. An example presentation could show the following: Introduction, topic, context Motivation A detailed explanation of the algorithm / paper, what are its inputs / outputs, how is the problem solved? Prototype implementation Outlook on the implementation and experiments We are looking forward to the presentations.  Kind regards, The CG Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction this Friday from 12pm to 2pm",
+                            "Discussion_Id": "586739",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058160",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-04-17T10:49:13+02:00",
+                                    "Content": "Dear all, in the previous announcement, I mistook the time period when the introduction will be held: The correct time slot is 12pm to 2pm (and not 2pm to 4pm). The time you can see in the table is correct. I apologize for the confusion. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction on Friday",
+                            "Discussion_Id": "586071",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057204",
+                                    "Author": "Gabriel Alexander Dogadov",
+                                    "DateTime": "2024-04-15T16:18:57+02:00",
+                                    "Content": "Dear students, thank you for your interest in our master seminar/project. The first appointment will take place this week's Friday, the 19th of April from 2pm to 4pm 12pm to 2pm (c.t.) in MAR 6.051, in which we will present you the schedule and the topics for this semester. Looking forward to seeing you. Best, Gabriel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

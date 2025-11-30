@@ -1,0 +1,240 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Einführung in die Fahrzeugdynamik / Schienenfahrzeugdynamik",
+        "Course_id": "38084",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1779023",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Am Donnerstag (11.07.) keine Vorlesung",
+                            "Discussion_Id": "606579",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088033",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-07-09T12:26:19+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, wie in der heutigen Vorlesung angekündigt, wird die Vorlesung am Donnerstag (11.07.) leider ausfallen. Bitte nutzt die Zeit entweder zur Bearbeitung der 5. Hausaufgabe oder zur Wiederholung der Hertzschen Kontakttheorie. Am Dienstag werden wir die Lösungsformeln so erweitern, dass sie sogar für den Kontakt von Rad und Schiene angewendet werden können. Dies wird anhand der 5. Übung dann gemacht. Ich möchte darauf hinweisen, dass in der Prüfung gern der Hertzsche Kontakt abgeprüft wird. Wer die Lösungen des 5. Übungsblattes versteht, ist in diesem Thema gut vorbereitet. Viele Grüße Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bewertung der 3. Hausaufgabe",
+                            "Discussion_Id": "605704",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086785",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-07-05T10:20:26+02:00",
+                                    "Content": "Guten Morgen alle zusammen, die Bewertung der 3. Hausaufgabe ist nun auch abgeschlossen. Einige, wenige Gruppen haben zwar das korrekte Amplitudenerregungsspektrum ermittelt und auch die Vergrößerungsfunktion korrekt angegeben, die Graphen (insbesondere für das Amplitudenantwortspektrum) sind aber nicht richtig. In solchen Fällen empfehle ich, auch das Matlab-Skript zur Erstellung mit abzugeben, damit ich den Fehler orten kann. Ein schönes Wochenende und viele Grüße Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bewertung der 2. Hausaufgabe",
+                            "Discussion_Id": "605397",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086359",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-07-03T23:22:36+02:00",
+                                    "Content": "Liebe Studierende, nach großer Verzögerung ist die Bewertung der 2. Hausaufgabe nun abgeschlossen, in welcher 31 Punkte geholt werden konnten.  Ich bemühe mich, den Rückstand schnellstmöglich aufzuholen und werde morgen nach der Vorlesung mit der Korrektur der 3. Hausaufgabe beginnen. Bitte vergesst nicht, einen Prüfungstermin (Zeitslot) hier auf der ISIS-Seite zu buchen. Viele Grüße Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "4. Hausaufgabe online!",
+                            "Discussion_Id": "604144",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084516",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-06-27T20:51:56+02:00",
+                                    "Content": "Liebe SFZD-Studierende, die 4. Hausaufgabe ist nun online verfügbar! Aufgabe 1 umfasst lediglich die Berechnung von statistischen Kennziffern nach DIN 1311. Ihr müsst euch dazu eine Datei mit abgelegten Daten (textzug.txt) herunterladen und auswerten (Summenformen sind zu nutzen). Gern könnt Ihr auch die in Matlab abgelegten Kennwertfunktionen nutzen (mean, etc.), wenn die Definitionen passen. In Aufgabe 2 ist der Weg zwar klar vorgegeben, man kann aber schnell Fehler einbauen. Ihr müsst schauen, dass Ihr das Integral sauber auswertet (Summe) oder numerisch integriert. Vermutlich wird dies aber sowieso keiner Gruppe gelingen ... Ein schönes Wochenende und viele Grüße Markus Heß    ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine für mündliche Prüfungen",
+                            "Discussion_Id": "600399",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079142",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-06-11T17:52:40+02:00",
+                                    "Content": "Liebe Studierende, oben auf der Seite unter Allgemeines und Aktuelles findet Ihr nun einen Reiter \"Wahl des Prüfungstermins\". Hier könnt Ihr ab Freitag, den 14.06. um 8 Uhr einen Zeitslot für einen Prüfungstermin buchen. Folgende Tage stehen zur Auswahl: Freitag, den 26.07. Donnerstag, den 01.08. Donnerstag, den 08.08. Montag, den 12.08. Ihr müsst euch weder beim Prüfungsamt noch unter MTS Moses für die Prüfung anmelden. Bitte bringt aber unbedingt einen vorausgefüllten Prüfungsanmeldebogen mit. Solltet Ihr kurzfristig den Termin nicht wahrnehmen können, gebt bitte Bescheid. VG M. Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MATLAB über Universitätslizenz",
+                            "Discussion_Id": "599831",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078306",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-06-09T21:08:10+02:00",
+                                    "Content": "Liebe Freunde der Schienenfahrzeugdynamik, zur Bearbeitung der 2. Hausaufgabe wird MATLAB zur Berechnung der Eigenfrequenzen und Eigenvektoren benötigt. Wer noch kein MATLAB hat, kann dieses kostenlos über die Unversitätslizenz beziehen.  Eine Anleitung zum Herunterladen von MATLAB über die Universitätslizenz findet Ihr ganz oben auf der ISIS-Seite. Ich hoffe, alle Schritte sind noch aktuell. Falls nicht, gebt bitte Bescheid. Freundliche Grüße Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe 1 Korrigiert",
+                            "Discussion_Id": "598159",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075865",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-05-31T15:22:01+02:00",
+                                    "Content": "Liebe SFZDler, die 1. Hausaufgabe ist nun korrigiert und Ihr könnt die Korrekturen in den Feedbackdateien einsehen. Sollten Fragen auftreten, sprecht mich bitte einfach an. Ich habe streng korrigiert! Zur 2. Hausaufgabe: Bitte beachtet, dass die Aufgabe 2 eine vollkommen neue Aufgabe ist. Es kann durchaus sein, dass Ihr andere  Werte für die Eigenfrequenzen herausbekommt als in dem Forschungspaper veröffentlicht. Weder den Tabellenwerten für den ICE noch der von mir überschlagenen Steifigkeit des linearisierten Hertzschen Kontaktes kann man 100 prozentig trauen. Ich bin gespannt, wer auf dieselben Werte kommt, wie ich... Ein schönes Wochenende und viele Grüße Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zwei Stellenausschreibungen - Werkstudent/in bei der Firma G-ELIT",
+                            "Discussion_Id": "591504",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065516",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-05-01T20:50:13+02:00",
+                                    "Content": "Liebe Kursteilnehmer*innen, einer der Bereichsleiter der Frima G-ELIT und früherer TU-Student bat uns, zwei Stellenausschreibungen als Werkstudent/in weiterzuleiten (in zwei verschiedenen Abteilungen). Ihr könnt diese unter folgenden Links abrufen Werkstudent/in G-ELIT WQS Werkstudent/in G-ELIT TP Solltet Ihr Interesse oder Fragen haben, meldet Euch doch bitte direkt unter den Kontaktadressen oder schickt gleich eure Bewerbung an die Firma. Der Stundenlohn liegt sicherlich oberhalb jenem, den die TU zahlt. Viele Grüße M. Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Vorlesung am Donnerstag, den 02. Mai; Hausaufgabengruppe",
+                            "Discussion_Id": "591462",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065444",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-05-01T15:03:23+02:00",
+                                    "Content": "Liebe Studierende, wie bereits angekündigt, wird es auch morgen aufgrund einer zeitgleich angesetzten Trauerfeier keine Vorlesung geben. Ich hoffe, dass Ihr am Dienstag bereits das 1. Übungsblatt zu den nichtlinearen Koppelelementen ausfüllen konntet. Die Lösungen findet Ihr in der nun freigeschalteten Blattsammlung zu Kapitel 1  (Seite 9). Hierauf findet Ihr auch die Parallelschaltung einer Feder mit einem Federreibelement (Nr. 7 in der Tabelle auf Seite 9). Genau diese benötigt Ihr, um Aufgabe 3 der 1. Hausaufgabe zu lösen. Versucht dies mal! Ich werde am kommenden Dienstag nochmal kurz darauf eingehen.  Dass solche rheologischen Modelle immer wieder und überall zur Anwendung kommen, zeigt z.B. ein Paper, welches ich im letzten Jahr begutachten durfte und nur für Interessierte auf die Wochenseite gesetzt habe. Hier wurde eine Flanschverbindung zyklisch durch ein Moment belastet. Es ergibt sich eine Hystereschleife durch Mikroreibbewegungen, die durch eine modifizierte Parallelschaltung einer Feder mit einem Federreibelement abgebildet wurde.  Wer noch keine Hausaufgabengruppe hat, kann sich noch bis morgen Abend einschreiben (Deadline auf 2.5. verlängert). Wenn jemand unbedingt allein abgeben möchte, ist dies meinetwegen auch möglich. Aber bitte unbedingt noch anmelden! Ab Dienstag nächster Woche müssen wir dann richtig loslegen! Viele Grüße Markus Heß  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der heutigen Vorlesung (Montag, 30.04.)",
+                            "Discussion_Id": "591038",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064807",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-04-30T07:21:38+02:00",
+                                    "Content": "Liebe Studierende, die heutige Vorlesung (30.04. von 10 bis 12 Uhr im M 128) muss krankheitsbedingt leider ausfallen. Über Nacht hat sich ein MD-Infekt durchgesetzt. Wer möchte, kann gern die beim letzten Mal begonnene Aufgabe lösen oder das 1. Übungsblatt zu nichtlinearen Koppelelementen bearbeiten (ausfüllen). Der Ausfall ist sehr ärgerlich, da ich, wie bereits angekündigt, auch am Donnerstag aufgrund einer Trauerfeier verhindert bin. Ich sende diesbezüglich nochmal eine Ankündigung raus. Der heutige, kurzfristige Ausfall tut mir sehr leid.  Viele Grüße Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde, 1. Hausaufgabe, YouTube-Video zur Sekundärfederung",
+                            "Discussion_Id": "589619",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062661",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-04-24T23:00:52+02:00",
+                                    "Content": "Liebe Freunde der Fahrzeugdynamik, nachfolgend ein paar wichtige Informationen: Meine Sprechstunde findet dienstags von 14:00 bis 15:00 Uhr im Raum M 130 statt Die 1. Hausaufgabe ist bereits online gestellt. Die Abgabe ist am Donnerstag, den 9. Mai bis 23:59 Uhr auf der ISIS-Seite hochzuladen. Morgen und am Dienstag wird dazu noch Lehrstoff unterrichtet. Am Dienstag ist dann auch die Deadline für die Gruppeneinteilung. Ich erinnere daran, dass 90% der Punktzahl in den Hausaufgaben eine Verbesserung der Prüfungsnote bedeutet (z.B. von 1,7 auf 1,3). In der aktuellen Woche befindet sich ein Link zu einem ca. 3 minütigen YouTube-Video, welches eine 3D-Animation eines LHB-Laufwerks zeigt und dabei die Sekundärfederungselemente hervorhebt. Das ist viel anschaulicher als auf Papier! Viele Grüße M. Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Vorlesung, Einführungspräsentation",
+                            "Discussion_Id": "586369",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057644",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-04-16T13:07:05+02:00",
+                                    "Content": "Liebe Studierende, ich habe mich sehr darüber gefreut, dass so viele von Euch zur 1. Vorlesung gekommen sind und wir einen regen Austausch hatten. Mir hat es Spaß gemacht und ich hoffe, dass alle am Donnerstag wieder dabei sind (dann im Raum gegenüber M 123 um 12 :15 Uhr)! Auf der Seite ist nun als PDF die Einführungspräsentation verfügbar. Wie geäußert, wird nach Abschluss eines Themas immer auch die zugehörige Blattsammlung hochgeladen. Die Kapitel zum Buch \"Rail Vehicle Dynamics\" von Prof. Knothe (und Prof. Stichel) kann man frei aus dem Netz der TU herunterladen.  Ausgewählte Kapitel werde ich zudem hier auf der ISIS-Seite verlinken. Für die Einteilung in die Hausaufgabengruppen ist noch Zeit bis zum 30. April.  Viele Grüße und bis Donnerstag! Markus Heß",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für fachliche und organisatorische Fragen",
+                    "Forum_id": "1779024",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Prüfungsanmeldebogen",
+                            "Discussion_Id": "600841",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079793",
+                                    "Author": "Luise Klemp",
+                                    "DateTime": "2024-06-13T12:29:01+02:00",
+                                    "Content": "Wenn ich mich nicht täusche ist das der Bogen, den wir zur Prüfung mitbringen müssen.  https://www.static.tu.berlin/fileadmin/www/10002461/Pruefungsamt/Formulare_Bescheide/Pruefungsanmeldung.pdf",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079901",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-06-13T15:53:26+02:00",
+                                    "Content": "Liebe Frau Klemp,  das ist genau der richtige Bogen. Danke, dass Sie den Link herausgesucht haben!  VG M. Heß",
+                                    "Response to": "p1079793"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2.HA 1c: reeller Eigenvektor",
+                            "Discussion_Id": "600030",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078617",
+                                    "Author": "Jason Groß",
+                                    "DateTime": "2024-06-10T14:54:05+02:00",
+                                    "Content": "Sehr geehrter Herr Heß, können Sie mir bitte erklären, was genau Sie mit \"reeller Eigenvektor\" in der Aufgabe 1c der 2.HA meinen? Sollen wir nur den Realteil der Vektoren betrachten oder den Betrag bilden und von dort aus weiterrechnen? MfG und bis morgen, Jason",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078653",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-06-10T15:36:51+02:00",
+                                    "Content": "Hallo Jason,  da Ihr nur den ungedämpften Fall analysieren sollt, müssten meines Erachtens rein imaginäre Eigenwerte herauskommen, die rein reelle Eigenvektoren für die Verschiebungen zur Folge haben.   Daraus resultieren rein imaginäre Eigenvektoren für die Geschwindigkeiten (die Ihr ebenfalls herausbekommt, wenn Ihr die EVen der Matrix A ermittelt - man bekommt ja zunächst 10x1-Vektoren, die in zwei 5x1 Vektoren aufgespaltet werden können). Nach Normierung (teilen durch den Eigenwert) sollten diese Eigenvektoren für die Geschwindigkeitskomponenten aber auf gleiche Resultate führen, wie für die Verschiebungen.   Viele Grüße Markus Heß",
+                                    "Response to": "p1078617"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Terminverschiebung/Online-Vorlesung möglich?",
+                            "Discussion_Id": "584241",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054519",
+                                    "Author": "Niklas Christopher Andreas Köhler",
+                                    "DateTime": "2024-03-28T20:19:29+01:00",
+                                    "Content": "Sehr geehrtes Team dieses Moduls, in den letzten Tagen sind die Termine für die Vorlesungen in den Modulen veröffentlicht worden und leider musste ich dabei feststellen, dass sich beide Vorlesungstermine dieses Moduls mit anderen Vorlesungen überschneiden. So findet am Dienstag ab 10 Uhr neben dieser Vorlesung auch die Veranstaltung \"Einführung in die Schienenfahrzeugtechnik\" statt. Diese wird nach dessen ISIS-Kurs ebenfalls in Präsenz gehalten. Und am Donnerstag wird von 12-16 Uhr die Vorlesung \"Bahnbetrieb\" gehalten. Nach Moses scheint es sich auch hierbei um eine Präsenzvorlesung handeln. Leider handelt es sich bei beiden Modulen um grundlegende Module, die für spätere Module benötigt werden und auch nur alle zwei Semester angeboten werden. Ich vermute, dass auch andere Studierende diese Modulkombination haben werden. Gleichzeitig ist mir auch bewusst, dass Schienenfahrzeugdynamik in diesem Semester in dieser Form voraussichtlich das letzte Mal statt findet. Dementsprechend würde ich diese Vorlesung auch gerne hören.  Gibt es die Möglichkeit die Vorlesungstermine nachträglich zu ändern oder die Vorlesungen aufzuzeichnen und im Nachhinein online zur Verfügung zu stellen? Dies würde es denke ich mehreren Personen ermöglichen, dieses Modul zu besuchen. Mit freundlichen Grüßen und ein schönes Osterfest Niklas Köhler",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054887",
+                                    "Author": "Markus Heß",
+                                    "DateTime": "2024-04-03T10:32:05+02:00",
+                                    "Content": "Sehr geehrter Herr Köhler,  es ist äußerst ärgerlich, dass sich die Veranstaltungen überschneiden. Genau solche Dopplungen hat das frühere Planungssystem automatisch unterbunden. Das nach dem IT-Hack aufgespielte (vermeintlich verbesserte) System liefert leider immer noch absolut unzufriedenstellende Ergebnisse, so dass die Fachgebiete im Nachhinein Termine stets manuell umbuchen/verschieben müssen. Ich werde diesen kritischen Punkt abermals bei InnoCampus ansprechen.  Gegenwärtig ist es meinerseits schwierig, die Termine zu verschieben. Gleiches gilt für eine Aufzeichnung der Vorlesungen, da die Kreidetafel das Hauptmedium der Präsenzveranstaltung sein wird.  Sollten sich zahlreiche weitere Kommiliton*innen melden, würde ich nochmal schauen, ob zumindest die Verlagerung einer der Termine umsetzbar ist und hier vorab diskutieren. Im Moment muss ich leider an den Terminen festhalten.  Freundliche Grüße M. Heß",
+                                    "Response to": "p1054519"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

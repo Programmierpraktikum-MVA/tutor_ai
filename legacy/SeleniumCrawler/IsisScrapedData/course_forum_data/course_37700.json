@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Machine Learning for Aging and Longevity",
+        "Course_id": "37700",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766808",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Mon 29th April: Software Installation",
+                            "Discussion_Id": "590594",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064128",
+                                    "Author": "Charmayne Mary Lee Hughes",
+                                    "DateTime": "2024-04-29T08:55:26+02:00",
+                                    "Content": "Hi Machine Learners! Don't forget that today Yan and Ali will be in class to help anyone with the correct installation of software needed for the assignments and project: Python, Anaconda, and Juypter Notebook. It's not mandatory, but if you choose to opt out: Then any future issues are on you to debug. If you do go, please try to be on time. They will not \"hang out\" in the lecture room the whole time if no one is there. VG Char",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Options: Benotet and Unbenotet",
+                            "Discussion_Id": "589262",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062121",
+                                    "Author": "Charmayne Mary Lee Hughes",
+                                    "DateTime": "2024-04-24T10:55:50+02:00",
+                                    "Content": "Hi Machine Learning Fans! Just wanted to let you know that you can take this course as either benotet or unbenotet.  I hope it will be visible in the system soon, my secretary is working on this currently. Ping me if you have any questions. VG Char",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

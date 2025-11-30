@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Complex Analysis I",
+        "Course_id": "38216",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1784404",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Keine Tutorien diese Woche",
+                            "Discussion_Id": "598411",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076243",
+                                    "Author": "Fabian Jonas Bittl",
+                                    "DateTime": "2024-06-03T08:14:03+02:00",
+                                    "Content": "Beide Tutorien fallen morgen aus. Liebe Grüße  Fabian ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

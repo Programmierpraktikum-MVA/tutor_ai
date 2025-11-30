@@ -1,0 +1,195 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Vermessungskunde für die beruflichen Fachrichtungen",
+        "Course_id": "38887",
+        "Forums": [
+            null,
+            [
+                {
+                    "Forum_name": "Forum Vermessungskunde",
+                    "Forum_id": "1840875",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Terminfindung Polares Anhängen Zoom",
+                            "Discussion_Id": "600582",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079390",
+                                    "Author": "Marina Paustian",
+                                    "DateTime": "2024-06-12T12:41:37+02:00",
+                                    "Content": "Hey, falls ihr noch nicht über einen Termin gesprochen hattet... Wann würde es euch zeitlich für einen Zoom passen (für das polare Anhängen)? Mir würde es am Freitag zwischen 12:00 Uhr und 16:00 Uhr passen. Falls es wem gar nicht passt, macht gerne andere Vorschläge. ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079395",
+                                    "Author": "Heinrich Josef Wulfing",
+                                    "DateTime": "2024-06-12T12:55:51+02:00",
+                                    "Content": "Ja das würde mir auch passen",
+                                    "Response to": "p1079390"
+                                },
+                                {
+                                    "Message_id": "p1079482",
+                                    "Author": "Lukas Brunken",
+                                    "DateTime": "2024-06-12T15:34:48+02:00",
+                                    "Content": "Das passt bei mir leider nicht, aber ich glaube, ich kann alle meine Fehler nachvollziehen. Macht mal einen Termin und entweder ich kann oder eben nicht.",
+                                    "Response to": "p1079390"
+                                },
+                                {
+                                    "Message_id": "p1079578",
+                                    "Author": "Jörg Kelterborn",
+                                    "DateTime": "2024-06-12T19:04:42+02:00",
+                                    "Content": "Mir passt das leider auch nicht.  Mir würde Dienstag ab 12:00 Uhr und Mittwoch ab 14:00 Uhr und Donnerstag ganztägig passen  Hat da jemand keine Zeit?",
+                                    "Response to": "p1079390"
+                                },
+                                {
+                                    "Message_id": "p1079865",
+                                    "Author": "Heinrich Josef Wulfing",
+                                    "DateTime": "2024-06-13T14:38:45+02:00",
+                                    "Content": "Also Mittwoch um 14 Uhr würde bei mir auch passen. Dienstag ist ehr schlecht",
+                                    "Response to": "p1079390"
+                                },
+                                {
+                                    "Message_id": "p1080431",
+                                    "Author": "Marina Paustian",
+                                    "DateTime": "2024-06-16T14:22:20+02:00",
+                                    "Content": "Dann machen wir Mittwoch um 14:00 Uhr, wenn es allen (oder den meisten) passt. Würde das auch bei Ihnen passen, Herr Weisbrich?",
+                                    "Response to": "p1079865"
+                                },
+                                {
+                                    "Message_id": "p1080520",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T07:24:46+02:00",
+                                    "Content": "alles klar, dann treffen wir uns diesen Mittwoch um 14:00 via zoom. Den Link stell ich dann später online.de",
+                                    "Response to": "p1080431"
+                                },
+                                {
+                                    "Message_id": "p1081495",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-19T10:39:12+02:00",
+                                    "Content": "Hallo,  hier der Link für unser heutiges Treffen um 14:00 Uhr. https://tu-berlin.zoom.us/j/68182425877?pwd=8zmVO1XAb73VDDpVoAwTW1xMyGazad.1  Viele Grüße Sven Weisbrich",
+                                    "Response to": "p1079390"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 6 - Absteckung",
+                            "Discussion_Id": "600631",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079465",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-12T15:05:31+02:00",
+                                    "Content": "ich habe das Übungsblatt für die Absteckübung jetzt auf ISIS hochgeladen. Darin findet ihr u.a. eine Tabelle mit den Absteckelementen.  Allerdings habe ich dabei die Absteckelemente von 3 Punkte für jede Gruppe weggelassen, dir ihr dann noch berechnen müsstet. Schaut Mal bitte ob ihr auf die gleichen Ergebnisse kommt und falls nicht meldet euch einfach mir. Kann durchaus sein, dass ich einen Fehler bei der Berechnung gemacht habe ;) Viele Grüße Sven",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080839",
+                                    "Author": "Jörg Kelterborn",
+                                    "DateTime": "2024-06-17T15:50:17+02:00",
+                                    "Content": "Hallo Herr Weisbrich,  ich habe gerade mal meine Werte, für das Abstecken morgen, mit den Werten von Ihnen verglichen. Meine Berechnete Horizontalstrecke ist mit Ihren Werten identisch, jedoch mein Horizontalwinkel weicht immer um 59,68 gon (mehr) von Ihrem Wert ab. Sie haben beim Punkt P11 einen Horizontalwinkel von 335,9397 gon angegeben, ich habe jedoch einen Wert von 395,6216 gon herausbekommen.  Es ist ja ein kontinuierlicher Fehler, könnte dieser Fehler ein Zahlen dreher sein?  Komisch ist auch, dass die Sehnenlänge welche ich berechnet habe exzackt der von Ihnen eingtragenen Sehnenlänge (von P11 zu P1 und P16 zu P1) enspricht.  Mit freundlichen Grüßen Jörg Kelterborn",
+                                    "Response to": "p1079465"
+                                },
+                                {
+                                    "Message_id": "p1080924",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T18:18:36+02:00",
+                                    "Content": "...hmmm, der Fehler könnte von der Berechnung des Richtungswinkels von Punkt 5000 nach 1000 resultieren. Aber so auf die Schnelle konnte ich gerade bei mir keinen Fehler entdecken. Na da bin ich ja Mal gespannt was morgen raus kommt ;)",
+                                    "Response to": "p1080839"
+                                },
+                                {
+                                    "Message_id": "p1080859",
+                                    "Author": "Jörg Kelterborn",
+                                    "DateTime": "2024-06-17T16:07:27+02:00",
+                                    "Content": "Hallo Herr Weisbrich,  Mir ist auch gerade aufgefallen, dass die Koordinaten der Tabelle aus der Vorlesung letzter Woche (Ankündigung der Übung - letzte Folie) und die Koordinaten des Übungsblattes nicht übereinstimmen. Angegeben in der Folie ist: P16 [375gon] Y-Wert[596,774] X-Wert[251,765] Angegeben im Übungsblatt ist: P16 [375gon] Y-Wert[597,003] X-Wert[250,617]  Wieso sind die Koordinaten unterschiedlich, beide beziehen sich doch auf die Absteckübung oder nicht?  Mit freundlichen Grüßen Jörg Kelterborn",
+                                    "Response to": "p1079465"
+                                },
+                                {
+                                    "Message_id": "p1080926",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T18:21:47+02:00",
+                                    "Content": "Ja, stimmt, hatte ich wohl vergessen die neue Tabelle einzufügen. Alle Punkt in der Tabelle in der VL wurden um eins verschoben. Also P1 in der VL ist P16 im Übungsblatt. Die Punktnummern wurden Mal verschoben, weil man einen Punkt vom Standpunkt 1000 nicht abstecken konnte.  Viele Grüße Sven Weisbrich",
+                                    "Response to": "p1080859"
+                                },
+                                {
+                                    "Message_id": "p1080952",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T19:45:19+02:00",
+                                    "Content": "...ich habe meine Werte nochmal überprüft und sie scheinen zu stimmen. Aus den gegeben Polarwerten aus der Tabelle kann ich wieder korrekt die kartesischen Koordinaten berechnen. Das Übungsblatt habe ich korrigiert und es hat jetzt die gleichen Werte wie in der VL.",
+                                    "Response to": "p1080926"
+                                },
+                                {
+                                    "Message_id": "p1080953",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T19:51:12+02:00",
+                                    "Content": "...ich bringe morgen meine komplett ausgefüllte Tabelle mit zur Übung, von daher macht euch jetzt erst einmal keinen Kopf darüber ;)  Viele Grüße und euch noch einen schönen Abend Sven Weisbrich",
+                                    "Response to": "p1080926"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unterstützung beim Transport der Ausrüstung für die Absteckübung",
+                            "Discussion_Id": "601448",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080668",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T11:36:28+02:00",
+                                    "Content": "Hallo, morgen früh findet ja die Absteckübung in Grundlagen der Vermessungskunde statt. Da meine Kollegin morgen beim Transport der Ausrüstung jedoch nicht helfen kann, bin ich auf Unterstützung eurerseits angewiesen. Könnte mir dabei vielleicht jemand von euch helfen? Besten Dank und viele Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080786",
+                                    "Author": "Jörg Kelterborn",
+                                    "DateTime": "2024-06-17T14:31:58+02:00",
+                                    "Content": "Hallo Herr Weisbrich,  wenn Sie sagen wo man sein muss und am besten wann man da sein soll. Natürlich  Mit freundlichen Grüßen Jörg Kelterborn",
+                                    "Response to": "p1080668"
+                                },
+                                {
+                                    "Message_id": "p1080819",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-17T15:17:36+02:00",
+                                    "Content": "...super, Danke! Dann treffen wir uns morgen um 8:00 Uhr im Raum H6108.  Viele Grüße Sven Weisbrich",
+                                    "Response to": "p1080786"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 5",
+                            "Discussion_Id": "599340",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077578",
+                                    "Author": "Jörg Kelterborn",
+                                    "DateTime": "2024-06-06T10:13:02+02:00",
+                                    "Content": "Ich bin bei der Übung 5 auf ein kleines rechnerisches Problem gestoßen. Bei der Berechnung des Richtungswinkels habe ich vom Punkt 5000 zu den Eckpunkten, den Richtungswinkel von Punkt 5000 zu 1000 genommen (Berechnet). Jetzt habe ich aber das Problem, dass ich vom Hilfspunkt den Richtungswinkel nicht berechnen kann. Mir fehlen die Koordinaten des Hilfspunktes, um den Richtungswinkel vom Hilfspunkt zu Punkt 5000 berechnen zu können und den Richtungswinkel von Punkt 5000 zu Punkt 1000 kann ich ja nicht nehmen, da das Tachymeter umgestzt wurde und der Nullpunkt sich geändert haben könnte (wahrscheinlich). Wie müsste ich vorgehen, um die Rechnung weiter führen zu können?  Mit freundlichen Grüßen Jörg Kelterborn",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077592",
+                                    "Author": "Christoph Jeremias Mück",
+                                    "DateTime": "2024-06-06T10:38:41+02:00",
+                                    "Content": "Ich habe von dem Hilfspunkt aus den Richtungswinkel zum ersten Standpunkt (bei dir 5000) berechnet (Achtung hier muss man zusätzlich 200 gon addieren wegen dem Durchschlagen). Koordinaten der Eckpunkte aus 1. und 2. Messung sind recht nah beieinander (+-0,009..). Viele Grüße Christoph",
+                                    "Response to": "p1077578"
+                                },
+                                {
+                                    "Message_id": "p1077758",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-06T16:19:01+02:00",
+                                    "Content": "warum +200gon? Eigentlich solltet ihr nicht in 2 Lagen messen. Viele Grüße Sven",
+                                    "Response to": "p1077592"
+                                },
+                                {
+                                    "Message_id": "p1077757",
+                                    "Author": "Sven Weisbrich",
+                                    "DateTime": "2024-06-06T16:18:18+02:00",
+                                    "Content": "ihr habt ja zunächst vom Standpunkt 5000 die Richtungen und Strecke zum Hilfspunkt (sowie die 3 Ecken) gemessen und daraus könnt ihr dann die xy Koordinaten vom Hilfspunkt (sowie den 3 Ecken) mit dem Richtungswinkel t_5000_1000 (von 5000 zu 1000) berechnen. Danach habt ihr den Standpunkt gewechselt und Richtungen und Strecken vom Hilfspunkt zum Punkt 5000 sowie zu 3 Ecken gemessen. Um die Koordinaten der 3 Ecken zu berechnen, müsst ihr diesmal den Richtungswinkel t_Hilfspunkt_5000 (vom Hilfspunkt zu 5000) aus den Koordinaten berechnen.  Viele Grüße Sven",
+                                    "Response to": "p1077578"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

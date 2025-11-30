@@ -1,0 +1,369 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Blockchain Technology and Decentralized Applications",
+        "Course_id": "36920",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1731454",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Presentations + Oral Exam",
+                            "Discussion_Id": "605450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086427",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-07-04T09:54:38+02:00",
+                                    "Content": "Dear BTDA Students,  some information on the presentations and exam:  The presentations will be held on 11.7. in the usual room H0111, but we'll use the full time range of 12:00 to 14:00 -- please be on time! Please send your slides by 10.7. 15:00 as PDF so we can merge them all into a single slide deck to have a smooth presentation. If you would like to show a demo video, you can insert a link. Each team has 5 minutes to present their progress, findings and successes/failures in an informative and entertaining way. Each student can vote for the best presentation and the best teams win a small price! Please prepare a one page summary of your project work until 18.7. -- this should briefly outline your research and prototyping work, your thought process, and what worked or did not work as intended The Oral exam will start with a 10 minute written part, the result of which is then discussed in the oral part The oral part will be held in your groups, with a length of 20 minutes per team member (so usually 1 hour). Questions and grading will be individual. Each group will be assigned a proposed oral exam date and time (see here). If for an important reason this time does not work for your group, we will find an individual solution - please let us know. Questions will include the full range of lecture contexts, as well as how you applied the knowledge from the lectures within the scope of your projects Do not forget to formally register on Moses -- registration is possible until the 18th, but we advise to sign up as soon as possible to avoid any problems! If you have any questions, let us know! All the best Karl & the BTDA Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088420",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-07-10T11:28:32+02:00",
+                                    "Content": "Dear BTDA students,  just a quick reminder to submit your presentations slides by today 15:00 16:30 so we can prepare a deck for tomorrow. Please submit your slides on ISIS and include your group name!. Slides have to be PDF. You can include links to additional material (demo/video/more slides) but make sure that the PDF is self-sufficient just in case.  Presentation order will be by group name. Please remember to be on time at 12:00 sharp so everyone can present! As you know, there'll be a public voting. The categories will be most interesting research, most entertaining presentation, and most enticing prototype. You'll receive some instruction on how to vote in time. Best of luck to all the groups! Let me know if you have any issues or questions. All the best Karl & the BTDA team",
+                                    "Response to": "p1086427"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Group Topics and Advisors",
+                            "Discussion_Id": "600072",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078675",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-06-10T16:03:36+02:00",
+                                    "Content": "Dear BTDA students, based on your priorities, we have matched groups and project topics. You'll find the list here as well as your advisors. Please contact your advisors until Wednesday to find a slot this week for an initial talk about your prior knowledge, expectations, plan, and open questions for your project. We're looking forward to talking to you! All the best Arash, Alvaro & Karl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hands-on in tomorrow's lecture + Topic Selection",
+                            "Discussion_Id": "599102",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077239",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-06-05T11:30:49+02:00",
+                                    "Content": "Dear BTDA students, Tomorrow’s lecture will feature the missing part of lecture 4, as well as hands-on session for using Zokrates: “Compute and prove on-chain, verify off-chain”. Please bring a laptop! Also, keep the following links ready for tomorrow: 1. https://remix.ethereum.org/ 2. https://github.com/ZK-Plus/ICBC24_Tutorial_Compute-Offchain-Verify-Onchain For the topic selection, please send an email to Arash and me with your group's choice of topic until the end of the week, and a second/third priority in case we can’t match everyone’s wish. If you have any questions, let us know!  All the best Karl, Alvaro & Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Video on Congestion Attacks in Payment Channel Networks",
+                            "Discussion_Id": "598865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076900",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-06-04T14:00:47+02:00",
+                                    "Content": "Dear all,  Given the tight schedule for lectures, we decided to refer the details of congestion attack on payment channels (and PCNs in general) to a detailed video, accessible here: https://isis.tu-berlin.de/mod/url/view.php?id=1840009  If you are interested in PCNs in general, please let me know. The INET group has been working on them for a while, and you can do a thesis/... on this topic.  Focus of the next lecture will be on a hands-on experience with zero-knowledge proofs, Karl will provide you more information on that soon.   Also, we will announce details of topic selection shortly. Stay tuned.  Kind regards, Arash",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Start of project phase",
+                            "Discussion_Id": "597294",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074630",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-05-28T11:51:34+02:00",
+                                    "Content": "Dear BTDA Students,  we are slowly coming towards the project phase of the course. As discussed in the lecture, the process is as follows:  Yesterday, we have published the project proposals -- as you'll see, some are more focussed on a concrete research problem while others give you the freedom to find an interesting problem within a given field, which you will tackle by tinkering with your own prototype. You can even choose your own project -- in this case, please send us your suggested topic by the end of this week.  In any case, we will guide you through the process through Counselling meetings, especially for the more open-ended topics.  There will be no specific grade for your project work, but the oral exam will (partly) address your work in the team and your findings towards the proposal. You will also have the opportunity to present your findings with the group, and potentially even continue on your work as a thesis or research opportunity.  The group and topic choice is a twofold process: Until this Thursday, you can choose a group on ISIS. If you are looking for a group, maybe specifically for a given topic, feel free to use the dedicated ISIS forum to find suitable teammates. You can then choose -- as a group -- a topic until the Thursday after.  If you have any questions regarding the scope or contents of any of the proposals or the overall process, feel free to reach out on ISIS at any time -- we are happy to clarify and assist.  All the best Karl & the BTDA Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074732",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-05-28T14:31:28+02:00",
+                                    "Content": "Dear all,  There was an error in my email addres in some project descriptions. My correct email address is \"pourdamghani [at] tu-berlin [dot] de\". If you sent me an email already regarding projects, pleaase kindly resend it to the correct address.  Kind regards, Arash",
+                                    "Response to": "p1074630"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Admission process completed",
+                            "Discussion_Id": "588715",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061256",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-04-23T08:57:13+02:00",
+                                    "Content": "Dear students, we've completed the admission process and are happy to report that most of you -- although unfortunately not all --  who filled the signup form got a slot for this semester. On the ISIS page, you should see a message of whether or not you received a slot. If you see neither or both, let us know. Also, please notify us if for any reason you withdraw from participating in the course. We are looking forward to seeing you to the introductory lecture on Thursday! All the best Karl & the BTDA team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1731461",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Slot assignment oral examination",
+                            "Discussion_Id": "596732",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073683",
+                                    "Author": "Luca Vetter",
+                                    "DateTime": "2024-05-26T10:52:11+02:00",
+                                    "Content": "Hello,  I have a question regarding the assignment of the oral examination that will take place in the week from 22nd July to 26th July.  Will the assignment be random or can we choose according to our preferences? And if it is random, are we allowed to change dates with a peer that is willing to change the examination date? I ask because I have an important appointment on the 22nd of July.  Best,  Luca",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073692",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-05-26T11:28:19+02:00",
+                                    "Content": "Dear Luca,  Thanks for your question.  We will include students' constraints one way or the other, don't worry. We will offer multiple time slots, and in the worst case, we try to swap you with another team. However, please coordinate with your teammates*, so as a team you would not have a conflicting schedule for the entirety of that week.  Kind regards, ARash   *Team selection is open, and we announce project topics soon.",
+                                    "Response to": "p1073683"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Do we need to register in moses?",
+                            "Discussion_Id": "590894",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064577",
+                                    "Author": "Johan Peter Fagrell",
+                                    "DateTime": "2024-04-29T16:02:28+02:00",
+                                    "Content": "",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Is the location specified in Moses (H0111) correct?",
+                            "Discussion_Id": "589344",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062241",
+                                    "Author": "Luisa Wittig",
+                                    "DateTime": "2024-04-24T12:56:27+02:00",
+                                    "Content": "I was wondering if the location information (H0111) provided in Moses/Vorlesungsverzeichnis is correct since I couldn't find any information in this Isis course :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062257",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-04-24T13:14:38+02:00",
+                                    "Content": "Hello,  yes, H0111 is the correct location! I'll also add it to the ISIS page now.  All the best Karl",
+                                    "Response to": "p1062241"
+                                },
+                                {
+                                    "Message_id": "p1062265",
+                                    "Author": "Luisa Wittig",
+                                    "DateTime": "2024-04-24T13:24:35+02:00",
+                                    "Content": "Thank you :)",
+                                    "Response to": "p1062257"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Will the powerpoint of the presentations be made available?",
+                            "Discussion_Id": "588764",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061324",
+                                    "Author": "Johan Peter Fagrell",
+                                    "DateTime": "2024-04-23T10:39:41+02:00",
+                                    "Content": "Even though the lectures are in presence and wont be taped will the presentation be uploaded?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061343",
+                                    "Author": "Karl Christoph Wolf",
+                                    "DateTime": "2024-04-23T10:53:13+02:00",
+                                    "Content": "Hello Johan,  yes, the slides will be uploaded to ISIS each week.  All the best Karl",
+                                    "Response to": "p1061324"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Missed kick-off meeting",
+                            "Discussion_Id": "588073",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060177",
+                                    "Author": "Luca Vetter",
+                                    "DateTime": "2024-04-21T12:30:47+02:00",
+                                    "Content": "Hey everyone, since I unfortunately could not attend the kick-off meeting: could please anyone tell me what the group work will be about? Will there be a practical programming task or some scientific work? Best, Luca",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060271",
+                                    "Author": "Ramon Mehrpoya",
+                                    "DateTime": "2024-04-21T19:12:59+02:00",
+                                    "Content": "Hi Luca,  the first 6 lectures are fixed and then a group project will follow. The goals of the projects are open and we are free to seguest topics we find interesting. There will be no scientific work, as suppose reports e. g.. If you are interested in joining the course, you have to fill out and submit the survey untill tomorrow 10 or 12 am. because there is only capacity for 51 students and the AllgStuPo applies for selecting the participants.  Cheers and good luck.  Ramon",
+                                    "Response to": "p1060177"
+                                },
+                                {
+                                    "Message_id": "p1060323",
+                                    "Author": "Luca Vetter",
+                                    "DateTime": "2024-04-21T22:10:47+02:00",
+                                    "Content": "Thank you for the quick answer!  Are there any programming skills necessary to take part in the group work?",
+                                    "Response to": "p1060271"
+                                },
+                                {
+                                    "Message_id": "p1060669",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-04-22T12:15:20+02:00",
+                                    "Content": "Dear Luca,  Our projects cover a wide range of topics, and hence each might require a different skill set. As said during the lecture, we expect you to have a basic understanding of a (any) programming language, so you can confirm a previous result, build a prototype, and so on. More detail about projects come in the middle of lecture period.  And in general, don't worry. If you selected a project that required a blockchain specific programming language (e.g., Solidity), you can learn it in matter of days given the huge amount of resources that is out there (I have done similar thing 5-6 years ago when I was in your shoes, when there was even less resources).  All in all, this course might be a good chance for you to learn a more specific programming language, but it is not required.  Kind regards, Arash",
+                                    "Response to": "p1060323"
+                                },
+                                {
+                                    "Message_id": "p1060618",
+                                    "Author": "Ekin Böke",
+                                    "DateTime": "2024-04-22T11:44:46+02:00",
+                                    "Content": "Hi Ramon Do you know when they will announce the participants ? I remember today but not sure",
+                                    "Response to": "p1060271"
+                                },
+                                {
+                                    "Message_id": "p1060674",
+                                    "Author": "Arash Pourdamghani",
+                                    "DateTime": "2024-04-22T12:20:57+02:00",
+                                    "Content": "Dear Ekin,  The deadline to fill out the form was this morning. We need to go through responses and sort studednts. We announce who got in as soon as possible, don't worry.  Kind regards, Arash",
+                                    "Response to": "p1060618"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Group Matching Forum",
+                    "Forum_id": "1835756",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Looking for a group – Policy Enforcement",
+                            "Discussion_Id": "598018",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075666",
+                                    "Author": "Katrin Lenzeder",
+                                    "DateTime": "2024-05-30T22:05:36+02:00",
+                                    "Content": "Hey everyone,  I’m looking for a group to work on the topic Policy Enforcement.  The project proposal is quite open, so there’s some room for different areas and/or use cases to consider.  If you're interested in joining, feel free to send me a DM. Best,  Katrin ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for partners for a project proposal: Decentralized renting platform",
+                            "Discussion_Id": "597962",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075571",
+                                    "Author": "Vincent Happersberger",
+                                    "DateTime": "2024-05-30T16:14:39+02:00",
+                                    "Content": "Hey everyone, I submitted a project proposal, which I would like to work on. I'm searching for group members if anyone is interested. Here is a brief description: I want to propose a decentralized renting platform. Users should be able top publish any item of their choice via a UI. The renting process will take place without any intermediary or third party. The lenders can upload pictures oft their items to lend and add metadata like a description, price, and additional information. Each item to lend will have a cost per day which can be updated like every metadata. Borrowers can choose the number of days to borrow items and need to agree to the conditions set by the lender and a general loan agreement (to accept they send a transaction and therefore signing with their private key, maybe this could be extended by signing with a digital identity/self-sovereign identity with ERC-725 standard). A smart contract will manage the payment (return money if the agreement was not met, the item is damaged/not returned, and so on). Example: When renting an apartment the key code for the door (metadata in the contract) will only be shown to the borrower (call function in the contract), if the full payment was sent to the contract and the lender can withdraw the money. The key code can be updated after the renting process. Please contact me via ISIS or on Telegram if you are interested, there I can share more details: @vincevacano Many greetings, Vincent",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for Group: Detecting Crypto Wash Trading",
+                            "Discussion_Id": "597645",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075120",
+                                    "Author": "Paul Leonhardt Florian Sickert",
+                                    "DateTime": "2024-05-29T13:59:02+02:00",
+                                    "Content": "Hello, I am looking for a group, preferably researching the topic of “Detecting Cryptocurrency Wash Trading” but would also be open for other suggestions. If you are interested just send me a DM. Thanks and regards, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group:Fair Leader Election/Smart Contract Verification/Detecting Cryptocurrency Wash Trading",
+                            "Discussion_Id": "597597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075048",
+                                    "Author": "Xiaomeng Ci",
+                                    "DateTime": "2024-05-29T11:54:31+02:00",
+                                    "Content": "Hey,  I'm looking for a group to do the project together. I'm interested in topic Fair Leader Election, Smart Contract Verification or Detecting Cryptocurrency Wash Trading. If you're interested in anyone of those topics and willing to do the project together, feel free to DM :)  Best Xiaomeng",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Folding Relays / Build your own blockchain / SC verification ",
+                            "Discussion_Id": "597555",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074984",
+                                    "Author": "Niklas Blume",
+                                    "DateTime": "2024-05-29T09:55:57+02:00",
+                                    "Content": "Hey :)  I'm looking for a group interested in above topics. I'm primarily interested in Folding Relays as I have experience with zk-proofs and zk-rollups. Besides that, if no group forms for Relays, building a Blockchain or SC verification sounds fun too. Feel free to DM me or use the forum. I'm in Group K.  Cheers Niklas ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a Group: Detecting Cryptocurrency Wash Trading",
+                            "Discussion_Id": "597422",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074794",
+                                    "Author": "Alexander Smirnov",
+                                    "DateTime": "2024-05-28T16:16:24+02:00",
+                                    "Content": "Hello, I am looking for a group or members to form a new one for the project \"Detecting Cryptocurrency Wash Trading\". I have experience in analyzing EVM on-chain data and maintaining my own database for such data. You can contact me on ISIS or WhatsApp at +491633737777. Best regards, Alexander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for Group - Selfish Mining or Fair Leader Election",
+                            "Discussion_Id": "597403",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074766",
+                                    "Author": "Laurits Sartorius",
+                                    "DateTime": "2024-05-28T15:41:23+02:00",
+                                    "Content": "Hey everyone,   I am looking for a group to either work on Avoiding Selfish Mining via Transaction Fee Optimization or A Fair Leader Election. If you have any interest in one of the topics and fulfil the requirements mentioned in the proposal papers, feel free to send me a DM.  Best, Laurits",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Building blockchain or voting system group",
+                            "Discussion_Id": "597359",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074712",
+                                    "Author": "Johanes Albert Simohartono",
+                                    "DateTime": "2024-05-28T13:55:52+02:00",
+                                    "Content": "Hello all,  I'm Albert. I am interested to do the project \"Best Presentation Voting System\" or \"Build your own Blockchain\". But I'm also open for any other projects. If you are interested, fell free to message me and join the group. Best regards Albert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "I'm looking for a group",
+                            "Discussion_Id": "597181",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074463",
+                                    "Author": "Fahreddin Ozcan",
+                                    "DateTime": "2024-05-27T22:52:50+02:00",
+                                    "Content": "Hey, I'm Fahreddin. I'm looking for a group for the project. Especially the \"Smart Contract Verification\" proposal seemed interesting to me, but I'd be up to any topic. Feel free to get in touch via ISIS dm. You can also reach me at  fahreddin.ozcan@campus.tu-berlin.de",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

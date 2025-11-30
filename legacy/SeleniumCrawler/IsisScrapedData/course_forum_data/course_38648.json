@@ -1,0 +1,463 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Automatic Image Analysis 2024",
+        "Course_id": "38648",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1799306",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": " Jetzt Tutor*in werden!",
+                            "Discussion_Id": "605846",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086975",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-07-05T16:05:02+02:00",
+                                    "Content": "Hallo!  Du suchst aktuell nach einem Nebenjob, der sich sehr gut mit deinem Studium vereinbaren lässt? Zudem möchtest du deinen Kommiliton*innen bei ihrem Lernerfolg unterstützen und Lehrerfahrung sammeln? Dann haben wir genau das Richtige für Dich: Bewirb dich jetzt als Tutor*in an der Fakultät IV!  Als Tutor*in leitest Du Tutorien in einer Veranstaltung Deiner Wahl und hilfst deinen Kommiliton*innen dabei, Kenntnisse zu vertiefen und Fertigkeiten einzuüben. Gleichzeitig kannst Du Dein Wissen vertiefen. Du würdest dich gern bewerben, hast aber Bedenken, weil du noch keine Lehrerfahrung hast? Keine Sorge, Lehrerfahrung ist keine Voraussetzung. Du erhältst zu Beginn Deiner Tätigkeit eine Schulung und wirst von einem engagierten Team unterstützt, sodass Du bestens vorbereitet bist.  Du willst dich bewerben? Dann schick einfach ein kurzes Motivationsschreiben, Deinen Lebenslauf und eine aktuelle Immatrikulationsbescheinigung sowie Deine Notenübersicht an tutvw@eecs.tu-berlin.de.  Weitere Informationen und Hinweise findest Du hier. Melde dich bei Fragen gern jederzeit bei uns!  Viele Grüße Deine Fakultät IV",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1st Exercise cancelled",
+                            "Discussion_Id": "586584",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057948",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-04-16T19:21:05+02:00",
+                                    "Content": "Hello everyone, the exercise tomorrow (17.04) is cancelled. Unfortunately, I won't be available.  The slides are uploaded. The first exercise is mostly organizational and provides a voluntary homework. I recommend solving the first homework, so you can setup your python environment and get a minimal OpenCV application running. Next week I will go over the organizational stuff and continue regularly.  See you next week!  Best Simon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1799309",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Test Exam: RNN Question",
+                            "Discussion_Id": "606949",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088571",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-07-10T15:59:56+02:00",
+                                    "Content": "Hi there, I tried the Test Exam and do have problems to understand Question 28 regarding the RNNs. I did not find anything related in the slides. Did we even cover RNN in the lectures ? My approach has h1 = a * h0 + a * x1 = 9 * 0 + 9 * 7 =  63 h2 = a * h1 + a * x2 d h2 / d a = h1 + x2 = 63 + 5 = 68 I tried many different other way but never reached 131. Can someone help me ?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088588",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-07-10T16:33:50+02:00",
+                                    "Content": "I got it with help now. d h1 / d a = h0 + x1 = 7 d h2 / d a = h1 + a * d h1 / da + x2 = 63 + 9 * 7 + 5 = 131",
+                                    "Response to": "p1088571"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Questions about the exam",
+                            "Discussion_Id": "604098",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084457",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-06-27T16:47:32+02:00",
+                                    "Content": "Hi, are they yet any information available about the exam ? What kind of question can we expect ? Do we have program during the exam or is it a paper exam ? Are there any topics excluded from the exam ? Are topics from the assignments part of the exam ? Are there any exams from last semester we can use to study ? What utilities, own notes and tools are allowed during the exam ? Thanks in advance!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087343",
+                                    "Author": "Tom Alexander Pruggmayer",
+                                    "DateTime": "2024-07-08T10:13:56+02:00",
+                                    "Content": "+1",
+                                    "Response to": "p1084457"
+                                },
+                                {
+                                    "Message_id": "p1087530",
+                                    "Author": "Feriel Saber Cherif",
+                                    "DateTime": "2024-07-08T13:07:11+02:00",
+                                    "Content": "+1 I would also like to know",
+                                    "Response to": "p1084457"
+                                },
+                                {
+                                    "Message_id": "p1088515",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-07-10T14:12:38+02:00",
+                                    "Content": "here my note from todays exercise:  General Notes - Test Exam on ISIS - actual exam will be digital on ISIS in the unix pool (like the test exam) - genreal understand concepts no much detail - gradient calculation: simple functions, calculate derivative, computing chain rule - most questions multiple choice - usually 4 answers - wrong answers for one question give minus points but rounded to 0 per question as lower limit - tools:     - cheat sheet is **not** allowed     - calculators are allowed     - paper for notes is allowed  Exam Topics  1. General CV - objection detection, classification - understanding concept of feature engineering and feature extraction - introduction slides - correspond to 6. Various  2. Hough / General Hough Transform / R-Tables - binary image - gradient information - tempalte - voting space    - difference between working with binary image and gradient information    - votings are different!    - gradient information returns one specific line and not various possibilities - how it works for line detection - improved versions of R-Tables    - correlations    - gradients and complex nubmbers - see homework - e.g. how could hough transform looks like for a circle - understand how to create an algorithmen   3. Baysian Methods - MLE/MAP/Bayes Estimation    - definitely one task where to estimate some parameter of some probability distribution (MLE ?)    - see homework - Discriminators / Classifiers    - giving a classifier: what is the error ?   4. Machine Learning in General - Bias-Variance Decomposition    - compute bias (or both) for certain estimator - Generalization (Train-Test Split / K-Fold)    - implification of bias and variance    - why use k-fold cross validation ?    - why dont we use the training data to evaluate the perfomance - underfitting and overfitting   5. Deep Learning (more signification Topic! 30-40%) - Architectures    - MLP: Parameters like depth, width (number of neurons)    - CNN: stride, kernel size, dilation, padding (signification part!)    - Transformers: Attention Methods, how do they work mathematically, why do we use the models - Optimization: SGD, Mpmemtum, Adam    - dont fully need to understand Adam    - typical question:       - graph (level set, function) given       - some kind of optimization goes through       - what is the most likely optimization function used here ?       - is there a small or large learning rate ? - Regularization: Batch-Normalization, Dropout, Residuals, Skip    - why we use them ? - Various Models (how we train the models)    - Autoencoder       - concept of embeddings (project data into much smaller space), trained feature space    - VAE    - GAN    - self supervised training (not too much into depth)    - supervised training (not too much into depth)   6. Various    - Saliency    - Implicit Shape Models",
+                                    "Response to": "p1084457"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Old/ sample exam ",
+                            "Discussion_Id": "606261",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087582",
+                                    "Author": "Gero Paul Schmekel",
+                                    "DateTime": "2024-07-08T14:14:54+02:00",
+                                    "Content": "Will you upload something like a sample exam or an old exam. So we can study for the exam with it?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question for the submission of the first assignment",
+                            "Discussion_Id": "598176",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075895",
+                                    "Author": "Johannes Pascal Falkhofen",
+                                    "DateTime": "2024-05-31T16:14:33+02:00",
+                                    "Content": "Hi,  we noticed a discrepancy between the tasks listed in the notebook given to us for the assignment and the tasks on the presentation of the corresponding exercise that was held. Should we submit solutions to all questions asked in the jupyter notebook and the slides, oder just either of them and if so, which?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076960",
+                                    "Author": "Simon Matern",
+                                    "DateTime": "2024-06-04T15:49:52+02:00",
+                                    "Content": "Only the ones in the notebook. I'll provide solutions to the remaining tasks.  Best Simon",
+                                    "Response to": "p1075895"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First Exercise",
+                            "Discussion_Id": "598635",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076579",
+                                    "Author": "Vasileios Lalos",
+                                    "DateTime": "2024-06-03T17:04:20+02:00",
+                                    "Content": "Goodmorning In the first exercise we have to submit both assignment 1.1 and assignments 1.2 ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "597278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074609",
+                                    "Author": "Malek Barnat",
+                                    "DateTime": "2024-05-28T11:23:36+02:00",
+                                    "Content": "Hello,  I'm a CS student still looking for a group, hit me up if you can accomodate me :)  Regards, Malek.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assignment 1.1 Applying calcBinaryMaskimg",
+                            "Discussion_Id": "595108",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071180",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-05-17T10:33:41+02:00",
+                                    "Content": "Hi, I have trouble to understand how and when to apply the binary mask in the first Assignment. If I understand Slide 46 correctly, implies to apply the binary mask on the gradient of the template. To clarify if I am understood correctly the notation from Slide 12 of Exercise 3: O(x,y) is the Object, I(x,y) is the original image and O^I is the objects gradient and I^I the images gradient. The function header calcBinaryMask declare the input as an image and should calculate the gradient it self. BUT step 2) of the slide 46 and the TODO in the correlation function needs compute the templates gradients and normalize it AFTER copying and circular shifting the templates gradient into a larger frame. Now my question: Should calcBinaryMaskimg normalize the templates gradient too ? Should the larger frame with the normalize and masked template gradient again be normalized ? Otherwise when calculation T = O^B * O^I I have a mismatch of size because O^B is large as the original template and O^I is in the larger frame in size of the original image I would be happy if someone can help me def calcBinaryMaskimg(img, thresh = 0.3):     \"\"\"     Compute the gradient of an image and compute a binary mask     based on the threshold. Corresponds to O^B in the slides.     Parameters     ----------     img : ndarray         an image     thresh : float         A threshold value. The default is 0.3.     Returns     -------     binary : ndarray         A binary image.     \"\"\"  ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071200",
+                                    "Author": "Moufid Tarek Zaamoum",
+                                    "DateTime": "2024-05-17T11:07:25+02:00",
+                                    "Content": "Hey, I'll try to answer your questions and help as I can :  1. Should calcBinaryMaskimg normalize the templates gradient too ? I think It doesn't matter, since the output is Binary, initially normalized or not the result is the same  2. Should the larger frame with the normalize and masked template gradient again be normalized ? I am not sure If I understand properly, but yeah the template you use for the correlation should be normalized. following the order of the tasks in the exercise, you should first have it in a larger frame ->apply circular shift -> normalize  3. for the mismatch T = O^B * O^I I think you tried to apply the mask to the \"template gradient in large frame\", I suggest you to first apply the mask to the original-frame template gradient then do the rest.  I hope this could help you Regards",
+                                    "Response to": "p1071180"
+                                },
+                                {
+                                    "Message_id": "p1071251",
+                                    "Author": "Moufid Tarek Zaamoum",
+                                    "DateTime": "2024-05-17T12:33:55+02:00",
+                                    "Content": "Let me add a correction: for the function calcBinaryMask, you should Not normalize otherwise the mask will be full of ones I was thinking about something else, I apologise.",
+                                    "Response to": "p1071200"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group ",
+                            "Discussion_Id": "593713",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068975",
+                                    "Author": "Arno Bock",
+                                    "DateTime": "2024-05-10T17:42:20+02:00",
+                                    "Content": "Hey everyone, I'm looking for a group to do the assignments together. If anybody wants to join or if any of you still have a spot avaiable, let me know via DM :) Kind regards, Arno",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 ppl to join our group",
+                            "Discussion_Id": "592496",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067103",
+                                    "Author": "Damla Kayikci",
+                                    "DateTime": "2024-05-06T11:26:38+02:00",
+                                    "Content": "Hey  We are two Erasmus students taking this course and we need 2 more people in our group. Feel free to DM me!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "592423",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066988",
+                                    "Author": "Albin Cekaj",
+                                    "DateTime": "2024-05-06T09:19:50+02:00",
+                                    "Content": "Hello, I study CS as well and I am looking for a group to make the assignments together. If you have any free slot in your group, feel free to PM me. Best, Albin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for two people to join our group",
+                            "Discussion_Id": "591401",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065347",
+                                    "Author": "Anibal Esteban Plaza Ramirez",
+                                    "DateTime": "2024-05-01T01:51:16+02:00",
+                                    "Content": "Hello everyone! Me and a friend are looking for teammates. If you are interested, DM me!  Thanks!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for Teammates to Join Our Group",
+                            "Discussion_Id": "590903",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064588",
+                                    "Author": "Rui Zhang",
+                                    "DateTime": "2024-04-29T16:08:59+02:00",
+                                    "Content": "Hello everyone,  We are currently a group of two members studying Computer Engineering and Electrical Engineering. We have space for one to two more members. If you are interested in joining our group, please PM me.  We look forward to having you with us! —————————————————————————————————————————————————— Hallo zusammen,  wir sind derzeit eine Gruppe von zwei Mitgliedern, die in den Bereichen Computer Engineering und Elektrotechnik studieren. Wir haben Platz für ein bis zwei weitere Mitglieder. Wenn du Interesse hast, unserer Gruppe beizutreten, sende bitte eine private Nachricht.  Wir freuen uns auf deine Teilnahme!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065034",
+                                    "Author": "Etienne Jean Philippe Delate",
+                                    "DateTime": "2024-04-30T13:05:02+02:00",
+                                    "Content": "Hey, me and my friend are interested in joining your group in AIA. Is it still possible ?",
+                                    "Response to": "p1064588"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group",
+                            "Discussion_Id": "590710",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064302",
+                                    "Author": "Akram Salim Jawad Al-Saffah",
+                                    "DateTime": "2024-04-29T11:38:29+02:00",
+                                    "Content": "Hi, I am a Computer Eng. student and looking for a group. Please, send me a PM if you're interested or if you have a free slot, then please PM me also.  Best",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064354",
+                                    "Author": "Muhammad Shamim Mushtaq",
+                                    "DateTime": "2024-04-29T12:53:24+02:00",
+                                    "Content": "Hi bro we can make group together",
+                                    "Response to": "p1064302"
+                                },
+                                {
+                                    "Message_id": "p1064359",
+                                    "Author": "Muhammad Shamim Mushtaq",
+                                    "DateTime": "2024-04-29T12:59:18+02:00",
+                                    "Content": "we are two",
+                                    "Response to": "p1064354"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a Group",
+                            "Discussion_Id": "589944",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063152",
+                                    "Author": "Koray Akalin",
+                                    "DateTime": "2024-04-25T17:21:25+02:00",
+                                    "Content": "Hi, I am a CS student and also looking for a group to do exercises together. You can PM me if you are interested. Best,  Koray",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063799",
+                                    "Author": "Azmi Hasan",
+                                    "DateTime": "2024-04-27T09:10:10+02:00",
+                                    "Content": "Hi Koray,  I am also looking for a group. Would you mind if I join?  Best, Hasan",
+                                    "Response to": "p1063152"
+                                },
+                                {
+                                    "Message_id": "p1063819",
+                                    "Author": "Tzu-Hsin Tang",
+                                    "DateTime": "2024-04-27T11:02:49+02:00",
+                                    "Content": "Hello, I am a Geoinformation student. Do you still have space for me to join?  Best, Neo",
+                                    "Response to": "p1063152"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "590365",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063761",
+                                    "Author": "Parth Nayanbhai Kosambi",
+                                    "DateTime": "2024-04-26T20:24:39+02:00",
+                                    "Content": "Hello, I am a GGS student and am still looking for a group to work on the assignments together. Please feel free to PM me on ISIS if your group can accommodate me. Best Regards, Parth.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for a group",
+                            "Discussion_Id": "589922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063117",
+                                    "Author": "Seungcheon Lee",
+                                    "DateTime": "2024-04-25T16:44:32+02:00",
+                                    "Content": "Hello, Im still looking for a group or other people to make a group for excercises. Please PM me on ISIS if you are interested in.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Searching for a group",
+                            "Discussion_Id": "589864",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063029",
+                                    "Author": "Johannes Pascal Falkhofen",
+                                    "DateTime": "2024-04-25T14:51:19+02:00",
+                                    "Content": "Hello,  I am a CS student and looking for a group to work on the assignments together.  Best Regards Johannes",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063066",
+                                    "Author": "Jannis Kappel",
+                                    "DateTime": "2024-04-25T15:36:23+02:00",
+                                    "Content": "Hi, i am also looking for a group. Maybe we can form one. Write me a pm or answer this post, then i will read it. Best regard Jannis",
+                                    "Response to": "p1063029"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for group",
+                            "Discussion_Id": "589850",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063011",
+                                    "Author": "Tim Schuster",
+                                    "DateTime": "2024-04-25T14:24:37+02:00",
+                                    "Content": "Hi everyone, I‘m currently looking for a group. Please PM me on ISIS of you are interested to join me. Best Regards Tim",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063027",
+                                    "Author": "Niklas Obländer",
+                                    "DateTime": "2024-04-25T14:43:07+02:00",
+                                    "Content": "Hey, You can join us. We are in group G19! Greetings Niklas",
+                                    "Response to": "p1063011"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Looking for 2 more group members",
+                            "Discussion_Id": "589644",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062704",
+                                    "Author": "Siyu Xiao",
+                                    "DateTime": "2024-04-25T08:36:50+02:00",
+                                    "Content": "Hi, Looking for 2 more members to join our group! We are both CE students. Feel free to dm. LG Siyu",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062867",
+                                    "Author": "Siyu Xiao",
+                                    "DateTime": "2024-04-25T11:50:58+02:00",
+                                    "Content": "We’ve formed a group of 4 :)",
+                                    "Response to": "p1062704"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seeking to Join a Group",
+                            "Discussion_Id": "589451",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062403",
+                                    "Author": "Rui Zhang",
+                                    "DateTime": "2024-04-24T15:39:22+02:00",
+                                    "Content": "Hello everyone, I am currently not part of any group and am hoping to join one that still has available slots. I am comfortable communicating in both English and German. Please feel free to PM me if your group can accommodate me. Thank you!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppen Suche",
+                            "Discussion_Id": "589165",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061949",
+                                    "Author": "Raymond Wihartono",
+                                    "DateTime": "2024-04-24T06:53:04+02:00",
+                                    "Content": "Hello, I am looking for a group for the assignment. Currently I am studying Computer Enginneering and in case you are interested to form a motivated group together, PM me directly on ISIS. For the communication, I have no problem on either using English or Deutsch. Best, Raymond",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exercise 1 - Black and White",
+                            "Discussion_Id": "587064",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058605",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-04-17T18:34:13+02:00",
+                                    "Content": "Hi, on page 2 of the sheet for exercise 1 the goal is state as a black and white image by an colored image input. The description for the function binarizeImage states:     Given a coloured image and a threshold binarizes the image.     Values below thresh are set to 0. All other values are set to 255 The information for one pixel contains of three values (BGR). When I apply the threshold to each color value of each pixel, the image is of course not black and white, but with pixel which only 0 or 255 for each BGR values. Is this the supposed way or should  we set all BGR of one pixel to 0 / 255 according to the threshold ? If yes how to check for \"Values\" ?      B < tresh (AND, OR, XOR, ..) G < tresh (AND, OR, XOR, ..) R < tresh  Thanks!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058612",
+                                    "Author": "Marius Gehlhaus",
+                                    "DateTime": "2024-04-17T19:02:12+02:00",
+                                    "Content": "Hi Jonathan,  maybe convert the colored image to grayscale first and then apply thresholding. (e.g. see: cv2.cvtColor function on how to convert an image to grayscale)",
+                                    "Response to": "p1058605"
+                                },
+                                {
+                                    "Message_id": "p1059185",
+                                    "Author": "Thea Pagel",
+                                    "DateTime": "2024-04-18T17:23:43+02:00",
+                                    "Content": "The description of the provided functions and todos do not specify that it should be convert to grayscale. My solution is binarized isn't it ? Because my image only has values of 0 or 255.",
+                                    "Response to": "p1058612"
+                                },
+                                {
+                                    "Message_id": "p1059842",
+                                    "Author": "Ferdinand Benedict Laurin Brüninghaus",
+                                    "DateTime": "2024-04-19T18:54:08+02:00",
+                                    "Content": "https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html First argument is the source image, which should be a grayscale image.",
+                                    "Response to": "p1059185"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

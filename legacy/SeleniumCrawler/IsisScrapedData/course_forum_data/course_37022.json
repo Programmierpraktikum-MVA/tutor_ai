@@ -1,0 +1,119 @@
+[
+    {
+        "Course_Name": "[SS24] Data Science Project",
+        "Course_id": "37022",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1741757",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Available Slot for Topic 4",
+                            "Discussion_Id": "592853",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067646",
+                                    "Author": "Aray Karjauv",
+                                    "DateTime": "2024-05-07T10:52:50+02:00",
+                                    "Content": "One slot is available for \"Topic 4: Survey: Explainable AI for Vision Transformers\". Interested candidates are urged to contact me at Aray.Karjauv@gt-arc.com Please reach out as soon as possible to secure the spot.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1741854",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "User study | Visual Counterfactual Explanations | group 8",
+                            "Discussion_Id": "602479",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082133",
+                                    "Author": "Cederic Aßmann",
+                                    "DateTime": "2024-06-20T18:41:47+02:00",
+                                    "Content": "Dear all, we (group 8) are conducting the study on the explainability of artificial intelligence. In detail, it is about exploring the human perspective on a problem in the classification of facial features. We explore further how human and Generative AI generated Counterfactual Explanations differ. The duration is 8-10 minutes. We are happy if you take your time and participate. The study is to be carried out on a laptop or PC, not a mobile device. Link to the study:  http://visualcounterfactualsstudy.info  Many thanks and best regards! Group 8",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course Registration ",
+                            "Discussion_Id": "588388",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060727",
+                                    "Author": "Alina Ustymenko",
+                                    "DateTime": "2024-04-22T13:00:06+02:00",
+                                    "Content": "Dear DAI Labor team,  I've noticed that some students have been assigned to groups. Will we be receiving an email or some form of notification? I am still uncertain whether I have been rejected or not.  Kind regards, Alina",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061205",
+                                    "Author": "Victor Nogueira Alves Aguiar",
+                                    "DateTime": "2024-04-22T23:49:11+02:00",
+                                    "Content": "same here",
+                                    "Response to": "p1060727"
+                                },
+                                {
+                                    "Message_id": "p1061242",
+                                    "Author": "Mhd Oubada Al Kiddeh",
+                                    "DateTime": "2024-04-23T08:36:58+02:00",
+                                    "Content": "same here",
+                                    "Response to": "p1060727"
+                                },
+                                {
+                                    "Message_id": "p1061349",
+                                    "Author": "Tolga Akar",
+                                    "DateTime": "2024-04-23T10:55:47+02:00",
+                                    "Content": "Hello Alina,  Unfortunately not being in a group means that you were not selected. Sorry for the confusion.",
+                                    "Response to": "p1060727"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Late applications ",
+                            "Discussion_Id": "587785",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059719",
+                                    "Author": "Tarik Abu Mukh",
+                                    "DateTime": "2024-04-19T16:30:09+02:00",
+                                    "Content": "Hello, Due to circumstances i was late to apply to this project, is there still spots for it? If so, is there someone to email about a late registration?  Regards Tarik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Inquiry about online availability of the course",
+                            "Discussion_Id": "586176",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057349",
+                                    "Author": "Raiyan Mahmud Tanim",
+                                    "DateTime": "2024-04-15T19:57:31+02:00",
+                                    "Content": "Dear Professor, I am a first-semester student of the program Msc Information Systems Management. Can this course be taken online? Due to the visa issues, I won't be able to attend in-person lectures until June. So if lectures can be taken online up until June, I will continue the course. Or else I'll need to unenroll. Can you confirm if the course can be attended remotely? Thank you.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058185",
+                                    "Author": "David Schultz",
+                                    "DateTime": "2024-04-17T11:08:58+02:00",
+                                    "Content": "Most of the course can be done online. In-presence meetings are arranged individually for each group.  Please attend the introduction today. The class size is limited. An Application Form will be available today after the introduction.",
+                                    "Response to": "p1057349"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

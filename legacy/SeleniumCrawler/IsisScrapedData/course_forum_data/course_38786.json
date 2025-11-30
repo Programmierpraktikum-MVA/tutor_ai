@@ -1,0 +1,82 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Experimentalphysik IV",
+        "Course_id": "38786",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1804526",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Klausuranmeldung Exp IV - Anmeldeschluß: 10.07.2024",
+                            "Discussion_Id": "601858",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081250",
+                                    "Author": "Alexander Axel Breier",
+                                    "DateTime": "2024-06-18T15:08:06+02:00",
+                                    "Content": "Liebe Studierende, Sie können sich ab sofort für die Scheinklausur anmelden. Informationen dazu finden Sie auf ISIS oder im Anhang. Anmeldeschluß ist der 10.07.2024. Beste Grüße A. Breier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsevaluierung (deadline 29.6.24)",
+                            "Discussion_Id": "599968",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078510",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-06-10T12:03:34+02:00",
+                                    "Content": "liebe Studierende anbei der Link für die Evaluierung der Lehrveranstaltung:  https://befragung.tu-berlin.de/evasys/online.php?pswd=5MNNV  Bitte nehmen Sie and der Befragung teil und geben Sie uns Ihr konstruktives feedback zur Veranstaltung (Vorlesung und Übungen). Im Anhang befindet sich auch ein QR-Code. Deadline ist der 30.6.24 Mit freundlichen Grüßen Otto Dopfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TutorInnen gesucht für WS 24/25 für Physik für Elektrotechnik (40h/Monat, Bewerbungsschluss 21.6.24)",
+                            "Discussion_Id": "597285",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074619",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-05-28T11:34:46+02:00",
+                                    "Content": "liebe Studierende, wir suchen für das WS 24/25 TutorInnen für die VL Physik für Elektrotechnik. Sie finden Details der Ausschreibung auf der ISIS Seite. Bewerbungsschluss ist der 21.6.24. Sie können mich gerne zu Details kontaktieren (z.B. auch in/nach der VL) Dies ist eine ausgezeichnete Möglichkeit, Ihr Wissen in ExpPhys zu vertiefen und gleichzeitig Geld zu verdienen. Wir freuen uns auf Ihre aussagekräftige Bewerbung. Mit freundlichen Grüßen OD",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung AG Dopfer",
+                            "Discussion_Id": "605417",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086383",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-07-04T07:47:59+02:00",
+                                    "Content": "liebe Studierende, wie in der letzten Vorlesung angekündigt, werde ich nächste Woche am Dienstag 9.7. 12-14 eine Vorlesung über unsere aktuellen Experimente und Forschungsaktivitäten geben. Außerdem gibt es für Interessierte eine Laborführung um 16:00 (nach der Vorlesung Exp XI von Ernstorfer) in den Laserlaboren im dritten Stock (Treffpunkt vor Labor EW 329-330 im dritten Stock). Mit freundlichen Grüßen Otto Dopfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "H2+ exakte Lösung",
+                            "Discussion_Id": "591284",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065165",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-04-30T15:48:03+02:00",
+                                    "Content": "liebe Studierende, heute kam nach der VL die Frage auf nach der exakten Lösung des H2+ Ions. Neben der bereits in ISIS gelisteten Publikation von Teller, anbei weitere Literatur zu diesem Problem. https://home.uni-leipzig.de/~physik/sites/mona/wp-content/uploads/sites/3/2017/04/the_hydrogen_molecular_ion_revisited.pdf https://link.springer.com/article/10.1007/BF01333263 https://arxiv.org/pdf/1508.01359 Diese Literatur sollte von der TU aus zugänglich sein. schönen 1. Mai Feiertag (bzw schönen Tag der Arbeit) OD",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

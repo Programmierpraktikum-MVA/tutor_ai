@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Lebensmitteltoxikologie",
+        "Course_id": "37498",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1760947",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Feedback zur Vorlesung",
+                            "Discussion_Id": "603252",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083306",
+                                    "Author": "Hajo Haase",
+                                    "DateTime": "2024-06-25T06:30:59+02:00",
+                                    "Content": "Liebe Alle,   über den folgenden Link können Sie bei EvaSys Feedback zu dieser Veranstaltung abgeben: https://befragung.tu-berlin.de/evasys/online.php?pswd=EYY82 Bitte machen Sie von dieser Möglichkeit Gebrauch!   Beste Grüße Hajo Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

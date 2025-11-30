@@ -1,0 +1,185 @@
+[
+    {
+        "Course_Name": "[SS24] Ambient Assisted Living Bachelor",
+        "Course_id": "37019",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1741424",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "600952",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079947",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-06-13T17:35:23+02:00",
+                                    "Content": "Dear Students, I hope this message finds you well. I am writing to inform you about an important survey for the course \"Ambient Assisted Living (Project)\" conducted by faculty IV. Your feedback is crucial to improve the course and hear your feedback. We kindly ask you to participate.  Survey Details: Link: Course Survey https://befragung.tu-berlin.de/evasys/online.php?p=PHH4V Period: June 17, 2024 - June 28, 2024 Estimated Time to Complete: 5 - 10 minutes Please take a moment to complete the survey during the specified period.  Click on the survey link or scan the QR code.  The survey results will be collected anonymously and posted on the ISIS page without comments. Your feedback is valuable and helps us enhance the course. If you have any questions, please do not hesitate to contact us. Thank you for your participation and valuable feedback. Best regards,  Pedram",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1083375",
+                                    "Author": "Stefan Fricke",
+                                    "DateTime": "2024-06-25T09:55:59+02:00",
+                                    "Content": "Erinnerung: Bitte an der Lehrevaluation für das Modul Ambient Assisted Living teilnehmen! Danke: S. Fricke im Namen der Lehrenden",
+                                    "Response to": "p1079947"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Milestone Presentation",
+                            "Discussion_Id": "603359",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083439",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-06-25T11:23:29+02:00",
+                                    "Content": "Dear students, I hope you are all doing well.  I would like to inform you about the milestone presentation schedule for this semester. The milestone presentation will be held on 9th July, Tuesday at 12:00 in ZEKI . The presentation schedule is as follows: Presentation of Smart Ring (12:00 - 12:15) Presentation of Smart Workplace (12:15 - 12:30) Presentation of Smart Kitchen (12:30 - 12:45) Presentation of Smart Planting (12:45 - 13:00) Presentation of Smart Access (13:00 - 13:15) Please follow the agenda for your presentations: Introduction: A brief introduction to the problem and motivation behind your project. Motivation: Explain why the problem is significant and worth solving. Related Work (if any): Briefly discuss any existing solutions or research related to your project. User Stories: Describe the users and their interaction with the system. Main Features: Highlight the key features of your project. Deployment Scenario: Explain how and where the system will be deployed. Evaluation: Present any tests or evaluations conducted to assess the system's performance. Conclusion: Summarize the project and its potential impact. Each presentation should be 10-15 minutes long, with an additional 5 minutes for Q&A. The presentation aims to ensure you are progressing and collaborating well in your group. Please use the template I attached here.  We look forward to seeing your presentation. Please don't hesitate to contact me if you have any questions. Best regards, Pedram https://isis.tu-berlin.de/pluginfile.php/3103389/mod_forum/post/1083439/AAL_Template.zip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MOSES Registration [Important]",
+                            "Discussion_Id": "594947",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070926",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-05-16T14:03:23+02:00",
+                                    "Content": "Dear Students  This is a reminder for MOSES registration, Please register in the MOSES for the course.  Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Third Session in ZEKI",
+                            "Discussion_Id": "592735",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067477",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-05-06T20:47:59+02:00",
+                                    "Content": "Dear Students I would like to invite some groups to ZEKI, tomorrow Tuesday 7th May from 12:00-14:00.  Tomorrow groups of Smart Access, Smart Workplace, Hand Tracking, and Smart Ring, Smart Kitchen are invited to ZEKI, the other two groups should Communicate with their supervisor. We will pick you up at the ZEKI entrance. You are assigned to each group in the ISIS Page, if you changed your topic last week and you didn't let me know via email, please just drop a short email about your exchange.   Here is the contact for each supervisor:  Pedram Babakhani  (Hand Tracking) : <strong>Pedram.babakhani@dai-labor.de, Pedram.babakhani@tu-berlin.de Haipeng Ya (Smart Ring): haipeng.yan@dai-labor.de, haipeng.yan@tu-berlin.de Finn Harms  (Smart Planting): finn.harms@gt-arc.com, finn.v.harms@campus.tu-berlin.de Moritz Heine (Smart Workplace): moritz.heine@gt-arc.com ,  moritz.heine@campus.tu-berlin.de Henri Evard (Smart Kitchen): henri.evard@gt-arc.com, henri.evard@campus.tu-berlin.de  Lennard Hänsch (Smart Access):lennard.haench@gt-arc.com, haensch@campus.tu-berlin.de  Abdullah Kiwan (Smart Kitchen): abdullah.kiwan@gt-arc.com, abdullah.kiwan@campus.tu-berlin.de  In this session, you will become more familiar with your groupmates and supervisors. Additionally, supervisors will provide more details about the project.   Please don't hesitate to ask your questions.  Looking forward to seeing you tomorrow,   Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Second Session",
+                            "Discussion_Id": "590210",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063536",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-04-26T13:38:17+02:00",
+                                    "Content": "Dear Students I would like to invite you to ZEKI, Next Tuesday 30th April from 12:15-14:00. I will pick you up at the ZEKI entrance. In this session, you will become familiar with your groupmates and supervisors. Additionally, supervisors will provide more details about each project.   Furthermore, Groups and Forums are created in the ISIS to ease your communication, Also you will be invited to the GitLab group for the course.   Please don't hesitate to ask your questions.  Looking forward to seeing you next week,   Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Topic and Groups",
+                            "Discussion_Id": "590206",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063532",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-04-26T13:32:21+02:00",
+                                    "Content": "Dear Students  As was announced by the professor, we have assigned you to each project according to your skills matching the requirements of each project as follows. If another project interests you more we can discuss replacement and exchange between the two groups.   Role      Topic                            Name ML Hand Tracking Antonia Katharina Knäbel UI Hand Tracking Piet Rasmus Zubin Uhthoff  SW Smart Access Hayfa Dhahbi PCB Smart Access Hakan Ates FW Smart Access Jon-Wee Joey Liew ML Smart Access Frederic Caspar Zoepffel SW Smart Access Daniel Hristov PCB Smart Access Jann-Erik Schindler HW Smart Access Jonas Onno Bender  UI Smart Access Mohamad Ward Haj Hamdi UI Smart Access Jasraj Singh SW Smart Access Annika Weißbach ML Smart Kitchen Harun Demir SW Smart Kitchen Ali Obali ML Smart Kitchen Alexandra Iakovleva UI Smart Kitchen Jonas Mario Quick UI Smart Kitchen Jule Zimmermann SW Smart Kitchen Isabella Benser SW Smart Kitchen Benjamin Anselm Kloas SW Smart Kitchen Mahmoud Ossama Hamed Elsayed PCB Smart Planting Alan Legenza UI Smart Planting Kerim Koc ML Smart Planting Jeanne Lilian Olek PCB Smart Planting Masa Kebe FW Smart Ring Sebastian Ten Bosch API Smart Ring Dominik Guido Milas UI Smart Ring Yagiz Erayan SW Smart Ring Nikita Krapp SW Smart Workplace Robert Cezary Kuzio UI Smart Workplace Franz Xaver Kaiser ML Smart Workplace Zehra Özlem Ciftci SW Smart Workplace Susanna Antonia Hufnagl ML Smart Workplace Jan Jakub Cieslinski HW Smart Workplace Erik Haarländer UI Smart Workplace Tessa Elisabeth Billens ML Smart Workplace Celeste-Rosalia Wolf  Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Application Results &amp; First Session",
+                            "Discussion_Id": "588609",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061099",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-04-22T18:37:17+02:00",
+                                    "Content": "Dear Students  After carefully reviewing your answers to the application form, we made an allocation based on the required qualifications of project topics and priority for students in higher semesters. Unfortunately, the capacity is limited and we were not able to accommodate all requests. Please find the selected student list in the attachment as a PDF.  Welcome to those students who are selected and we wish all the best for those who have been rejected, we may see you in the following semesters.   I would like to invite selected students to ZEKI tomorrow, Tuesday 23rd April at 12:15-14:00, The entrance is not publicly available and I will pick all of you up at the entrance.   ZEKI (Center for Experienceable Artificial Intelligence and Digitalization eV) Ernst-Reuter-Platz 2, 10587 Berlin  If you are selected and you will not continue the course, please let us know so that another student can take the course.  Looking forward to seeing you tomorrow,   Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction Slide",
+                            "Discussion_Id": "586495",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057825",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-04-16T16:17:49+02:00",
+                                    "Content": "Dear Students  Thanks to those students who attended the introduction session today. As promised, I have attached the introduction slide here, Please check the Link  Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Introduction of the AAL course",
+                            "Discussion_Id": "585755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056739",
+                                    "Author": "Pedram Babakhani",
+                                    "DateTime": "2024-04-14T17:47:13+02:00",
+                                    "Content": "Dear All Students  Thanks for your interest in the Ambient Assisted Living course for the Summer Semester of 2024.   I would like to invite you to the first introduction session of the course. Therefore, the first session will be held exceptionally online due to the high demand of the participants for the course.  The first session will be online on Tuesday, 16th April, at 12:15 PM via Zoom: https://tu-berlin.zoom.us/j/66475804159?pwd=elppcTI1NG1WQ3pSLy9QN2lZMTViUT09  Please note that the capacity for the course is limited therefore after the introduction there will be a selection round based on a questionnaire according to your skills and expertises.  Best regards,  Pedram",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Smart Ring",
+                    "Forum_id": "1741425",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Discord for Smart Ring",
+                            "Discussion_Id": "591280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065159",
+                                    "Author": "Haipeng Yan",
+                                    "DateTime": "2024-04-30T15:27:30+02:00",
+                                    "Content": "https://discord.gg/ZyWxfZRJ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Smart Kitchen",
+                    "Forum_id": "1741427",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Source Code",
+                            "Discussion_Id": "592854",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067648",
+                                    "Author": "Jan Henri Christian Evard",
+                                    "DateTime": "2024-05-07T10:54:42+02:00",
+                                    "Content": "Hey all, I added all of you to the gitlab repository for smart kitchen as developers. I also added you to \"ChefGPT\" repo from last semester. They created a web app combined with a camera that takes pictures pf products and stores them in a database. The camera and database part are not so useful, but maybe you can use the web app (or just create your own). For the voice assistant Luna, you can find the source code on my private github page: https://github.com/evardhen/Voice-Assistant Although I dont know if you actually need this, depending on what you are planning to implement. If any of you has not been added to the gitlab project, contact me via email or today in person.  Regards Henri",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null
+        ]
+    }
+]

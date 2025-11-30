@@ -1,0 +1,212 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Theoretische Quantenphysik fern des Gleichgewichts",
+        "Course_id": "38151",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1781974",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "9. Übungsblatt",
+                            "Discussion_Id": "604339",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084806",
+                                    "Author": "Francesco Petiziol",
+                                    "DateTime": "2024-06-28T17:42:35+02:00",
+                                    "Content": "Dear students, The 9th exercise sheet, which is now online, will be the last sheet of the course.  Best regards, Francesco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabe 12(c) ",
+                            "Discussion_Id": "600163",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078801",
+                                    "Author": "Francesco Petiziol",
+                                    "DateTime": "2024-06-10T23:45:42+02:00",
+                                    "Content": "Dear students, As it has been pointed out to me, there is a mistake in the text of Aufgabe 12(c) in the 6. Übungsblatt. The transfer matrix M on the right hand side of the equation should be hermitian-conjugated, namely M_\\dagger. Best regards, Francesco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lehrevaluation",
+                            "Discussion_Id": "600068",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078670",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-06-10T15:57:09+02:00",
+                                    "Content": "Liebe Studierende,  die Fragebögen für die Lehrevaluation sind nun online. Hier ist der Link für unsere Veranstaltung: https://befragung.tu-berlin.de/evasys/online.php?pswd=WEH7W. Der Fragebogen kann bis zum 29. Juni ausgefüllt werden. Bitte nehmen Sie an der Befragung teil! Ihr Feedback ist uns wichtig!  Viele Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Neues Kapitel heute",
+                            "Discussion_Id": "599309",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077541",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-06-06T09:28:50+02:00",
+                                    "Content": "Liebe Studierende,  nur kurz zur Info für diejenigen, die die Vorlesung online verfolgen. Ich habe mich entschieden dem Thema Verschänkung ein eigenes Kapitel (Kapitel 8) zu widmen. Wir werden heute also in der E-Kreide Tafel 8 Verschränkung beginnen.  Viele Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übersichtsartikel",
+                            "Discussion_Id": "598974",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077062",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-06-04T19:11:41+02:00",
+                                    "Content": "Liebe Studierende,  da ich nach Literatur gefragt wurde, habe ich zwei Übersichtsartikel zur Thermalisierung isolierter Quantensysteme auf ISIS in den Ordner \"Literatur: Paper\" gelegt: \"Thermalization and prethermalization in isolated quantum systems: a theoretical overview\" von Takashi Mori et al., J. Phys. B 51, 112001 (2018) sowie \"From Quantum chaos and eigenstate thermalization to statistical mechanics and thermodynamics\". Die Lektüre ist weder verpflichtend noch im Rahmen der Vorlesung besonders empfohlen. Wer Interesse hat, kann dort aber Informationen finden, die über die Vorlesung hinausgehen.  Viele Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "4. Übungsblatt",
+                            "Discussion_Id": "597984",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075610",
+                                    "Author": "Francesco Petiziol",
+                                    "DateTime": "2024-05-30T17:31:43+02:00",
+                                    "Content": "Dear students, Regarding the subdivision of points in Aufgabe 9 for the tasks (a), (b) and (c): the subdivision 6+6 previously indicated on the sheet is incorrect, as it has been pointed out to me. The correct subdivision is 5+4+3. I updated the sheet on ISIS accordingly. Best regards, Francesco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Literatur",
+                            "Discussion_Id": "597747",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075259",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-05-29T18:01:44+02:00",
+                                    "Content": "Liebe Studierende,  ich habe nun das Buch von Fritz Haake \"Quantum Signatures of Chaos\" auf der ISIS-Seite verlinkt. (Ich hatte zunächst vergessen, die Literaturseite zu veröffentlichen, das ist jetzt behoben).  Viele Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorium 23.05",
+                            "Discussion_Id": "595122",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071207",
+                                    "Author": "Francesco Petiziol",
+                                    "DateTime": "2024-05-17T11:17:10+02:00",
+                                    "Content": "Dear students, as anticipated yesterday in the Tutorium, please note that next week (on 23.05) the Tutorium will start a bit earlier, at 12.00. Best regards, Francesco ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Übungsblatt",
+                            "Discussion_Id": "591910",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066140",
+                                    "Author": "Francesco Petiziol",
+                                    "DateTime": "2024-05-02T22:50:48+02:00",
+                                    "Content": "Liebe Studierende, Übungsblatt 2 wird morgen online auf ISIS verfügbar sein und, wie heute im Tutorium angekündigt, wurde die Abgabe bist Sonntag 19.05 verlängert (da wir nächste Woche aufgrund des Feiertags am 09.05 kein Tutorium haben). Viele Grüße, Francesco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung am Donnerstag",
+                            "Discussion_Id": "591463",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065445",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-05-01T15:08:52+02:00",
+                                    "Content": "Liebe Studierende,  morgen (Donnerstag) in der Vorlesung werden wir noch einige Dinge besprechen, die auch teil der QM2 waren (Gauss'sche Zustände,Wick-Zerlegung und Gleichgewichtserwartungswerte freier Teilchen). Die darauf folgenden Unterkapitel beinhalten dann aber wieder neues Material (Prinzip von Jaynes, Jordan-Wigner-Transformation zwischen Hardcore-Bosonen/Spins und freien Fermionen in 1D, Relaxationsdynamik eines integrablen Systems). Ich vermute, dass wir am Donnerstag frühestens gegen Ende mit den neuen Themen anfangen werden (evtl. auch noch nicht), kann das aber nicht genau abschätzen. Falls jemand von Ihnen erst um 11:30 Uhr kommen möchte, ist das vollkommen in Ordnung.  Viele Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Am Dienstag noch zweite Quantisierung",
+                            "Discussion_Id": "590583",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064113",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-04-29T08:36:46+02:00",
+                                    "Content": "Liebe Studierende,  in der Vorlesung morgen am Dienstag, werden wir uns noch weiterhin mit der Einführung der zweiten Quantisierung beschäftigen und Stoff behandeln, der auch Gegenstand der QM-II-Vorlesung im letzten Semester war. D.h. alle von Ihnen, die bei mir bereits die QM-II gehört haben, brauchen am Dienstag noch nicht zu kommen.  Viele Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Übungsblatt und Tutoriums Code",
+                            "Discussion_Id": "590148",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063446",
+                                    "Author": "Francesco Petiziol",
+                                    "DateTime": "2024-04-26T11:43:37+02:00",
+                                    "Content": "Liebe Teilnehmer*innen der Vorlesung Theoretische Quantenphysik fern des Gleichgewichts, Das erste Übungsblatt ist online mit Abgabe am 05.05. Ich habe auch das IPython-Notebook und das Codebeispiel (mit einigen Ergänzungen), die wir im Tutorium gesehen haben, zu ISIS hochgeladen. Beste Grüße, Francesco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online-Übertragung der Vorlesung via FAILS",
+                            "Discussion_Id": "586323",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057565",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-04-16T11:24:56+02:00",
+                                    "Content": "Liebe Teilnehmer*innen der Vorlesung Theoretische Quantenphysik fern des Gleichgewichts,  wir werden die Vorlesung auf ISIS über das E-Kreide-System FAILS auch online übertragen. Heute werden wir mit Kapitel 1 \"Motivation und Ausblick\" beginnen. Die Übertragung wird nicht direkt um 12:15 Uhr beginnen, sondern ein paar Minuten später, da wir zuvor erst ein paar allgemeine organisatorische Dinge besprechen (die Sie aber auch auf der ISIS-Seite finden).  Mit besten Grüßen,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage: Zweite Quantisierung",
+                            "Discussion_Id": "586078",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057211",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-04-15T16:31:27+02:00",
+                                    "Content": "Liebe Teilnehmer*innen der Vorlesung Theoretische Quantenphysik fern des Gleichgewichts,  ich habe eine Umfrage erstellt, https://isis.tu-berlin.de/mod/choice/view.php?id=1817408 in der ich von Ihnen gerne wissen möchte, ob Ihnen der Formalismus der Zweiten Quantisierung für die Beschreibung vieler identischer Quantenteilchen vertraut ist. Wir haben die zweite Quantisierung im vergangenen Semester in der Vorlesung Quantenmechanik 2 eingeführt. Allerdings werden vermutlich nicht alle von Ihnen diese Vorlesung besucht haben. Da das Konzept auch für diese Vorlesung wichtig ist, würde ich es auch in dieser Vorlesung noch einmal einführen, es sei denn Sie kennen es bereits (fast) alle. Daher würde Sie bitten, kurz an der Umfrage teilzunehmen. Es gibt nur zwei Antworten und geht ganz schnell.  Beste Grüße,  André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tutorientermin steht fest",
+                            "Discussion_Id": "585840",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056866",
+                                    "Author": "André Eckardt",
+                                    "DateTime": "2024-04-15T10:05:03+02:00",
+                                    "Content": "Liebe Studierende,  für das Modul \"Quantenphysik fern des Gleichgewichts\" stehen jetzt auch der Termin und der Ort für das Tutorium fest. Es findet im selben Raum wie die Vorlesungen statt (in unserem neuen Theorie-Seminarraum ER 242 im Ernst-Ruska Gebäude) und zwar direkt im Anschluss an die Vorlesung am Donnerstag (es wird aber 30 Minuten Pause zwischen beiden Veranstaltungen geben). Die Termine sind also Vorlesung: Dienstag 12:15 Uhr, ER 242  Donnerstag 10:15 Uhr, ER 242  (erste Vorlesung am 16. April) Tutorium/Übung: Donnerstag 12:15 Uhr, ER 242 (erstes Tutorium am 25. April) Bis morgen, Dienstag, viele Grüße, André Eckardt",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

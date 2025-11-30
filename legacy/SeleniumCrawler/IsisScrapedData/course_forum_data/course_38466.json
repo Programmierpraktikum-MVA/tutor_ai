@@ -1,0 +1,645 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Bioanalytik 1",
+        "Course_id": "38466",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1792557",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Infos zum Abschlusstestat",
+                            "Discussion_Id": "607154",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088840",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-07-11T11:58:57+02:00",
+                                    "Content": "Liebe *, wahlweise morgen (12.07.2024) oder morgen in einer Woche (19.07.2024) finden die Abschlusstestate statt. Bitte seid pünktlich um 10:00 Uhr (s.t.) vor Hörsaal A (Tib13b), dann beginnen wir mit dem Einlass. Die 40-minütige Bearbeitungszeit des Testats beginnt um 10:15 Uhr. Bitte bringt euren Studierendenausweis und einen funktionierenden Kugelschreiber mit. Falls noch nicht geschehen – ihr könnt euch noch bis morgen früh um 7:59 Uhr für einen der beiden Termine anmelden. --> https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1792567 Beste Grüße Christian und das Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zum Abschlusstestat und Evaluation",
+                            "Discussion_Id": "604302",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084759",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-06-28T14:48:38+02:00",
+                                    "Content": "Bitte meldet euch bis spätesten 12.07.2024 um 8:00 Uhr für einen der beiden Termine des Abschlusstestats an. Die Termine sind Freitag 12. und 19.07., jeweils um 10:15 Uhr (Testatbeginn), Einlass 10:00 Uhr.  --> https://isis.tu-berlin.de/mod/choicegroup/view.php?id=1792567  Bitte klickt auch auf folgenden Link, um unseren Kurs zu evaluieren (am besten sofort) --> https://isis.tu-berlin.de/mod/url/view.php?id=1848754",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung zum Live-Praktikum und Info zur Recap-Sprechstunde",
+                            "Discussion_Id": "604232",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084669",
+                                    "Author": "Jan Eric Gieseler",
+                                    "DateTime": "2024-06-28T12:15:35+02:00",
+                                    "Content": "Liebe *, Wir wollten euch noch einmal darauf hinweisen, dass ihr bis zum 07.07.24 eure Teilnahme am Live-Praktikum auf der ISIS-Seite unter Organisatorisches bestätigen bzw. ablehnen könnt. Je nachdem, wie viele von euch sich anmelden, werden wir die Termine in den 2 Wochen vom 30.09.24 bis zum 11.10.24 planen. Wir freuen uns auf alle, die teilnehmen möchten und mit uns ein bisschen Laborluft schnüffeln wollen. Bitte nehmt euch auch kurz die Zeit uns zu antworten, falls ihr nicht kommen wollt.  Außerdem haben wir euch eine Umfrage, zu den Themen für die Recap-Übung (05.07.2024, 10-12 Uhr), unter dem Teil Organisatorisches, freigeschaltet.  Schreibt uns da gerne offene Fragen und Themen, welche ihr nochmal besprechen wollt. Wir können natürlich nicht alle offenen Fragen beantworten, aber so können wir uns für euch auf die häufigsten Themen bestmöglich vorbereiten. Die Umfrage ist bis nächsten Mittwoch (03.07.24) 20 Uhr geöffnet.  Liebe Grüße Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung am 21.06.24 - Bitte Paper vorab lesen",
+                            "Discussion_Id": "602140",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081647",
+                                    "Author": "Ruben Tag",
+                                    "DateTime": "2024-06-19T15:21:10+02:00",
+                                    "Content": "Liebe *, ein kleiner Reminder an das Paper welches wir diesen Freitag in der Übung gemeinsam besprechen möchten mit der Bitte das Paper vorab zu lesen. Die Fragen auf dem Übungszettel können beim Verstehen der Inhalte eine Hilfestellung bieten. Wissenschaftliche Texte (insbesondere in einer Fremdsprache) zu lesen kann sehr herausfordernd sein, deshalb möchten wir darauf am Freitag ebenfalls eingehen. Wie immer freuen wir uns auf eure Beiträge in der Übung! Viele Grüße und bis Freitag Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorgriff aus der IR auf die Zucker in BA2",
+                            "Discussion_Id": "599682",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078067",
+                                    "Author": "Juri Rappsilber",
+                                    "DateTime": "2024-06-07T16:46:00+02:00",
+                                    "Content": "Glycan Fingerprinting via Cold-Ion Infrared Spectroscopy (die ursprüngliche Veröffentlichung, aus Berlin!) Gas-phase infrared spectroscopy of glycans and glycoconjugates (ein Review) Zum Vergleich, hier in Fig 6 ein klassisches IR Spektrum: https://pubs.rsc.org/en/content/articlehtml/2022/an/d1an00697e",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung am 31.05.24",
+                            "Discussion_Id": "597250",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074568",
+                                    "Author": "Julius Benedikt Seidl",
+                                    "DateTime": "2024-05-28T10:32:45+02:00",
+                                    "Content": "Hallo zusammen, für die Übung am Freitag solltet Ihr einen Laptop mit Excel mitbringen oder euch in Grüppchen mit einem entsprechenden Laptop zusammenfinden. Wir freuen uns auf euch! Viele Grüße Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "native PAGE um Komplexe zu identifizieren",
+                            "Discussion_Id": "596540",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073374",
+                                    "Author": "Juri Rappsilber",
+                                    "DateTime": "2024-05-24T13:54:09+02:00",
+                                    "Content": "Mitochondrial complexome reveals quality-control pathways of protein import: https://www.nature.com/articles/s41586-022-05641-w Bedenkt dabei, dass die verwendete Technologie wirklich alt ist (blue native PAGE 1991, Proteine mit MS identifizieren 1995-2005) Im Prinzip hätte diese Arbeit also genau so vor 20 Jahren gemacht werden können! Welche Arbeit wird in 20 Jahren gemacht werden, die ihr eigentlich jetzt schon machen könntet?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umfrage: Offene Fragen aus Lektion 06",
+                            "Discussion_Id": "595539",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071921",
+                                    "Author": "Jan Eric Gieseler",
+                                    "DateTime": "2024-05-21T09:22:27+02:00",
+                                    "Content": "Liebe*, wir haben soeben eine Umfrage für die aktuelle Lektion 06: Electrophoresis freigeschaltet, die dazu dienen soll, euch die Selbstreflexion bezüglich eures erlernten Wissens zu erleichtern als auch uns Hinweise zu Inhalten zu geben, die wir z.B. in unserem Präsenztermin aufarbeiten können. Bitte nehmt euch nach dem Bearbeiten der Lektion kurz die Zeit, uns euren Wissensstand zu spiegeln. Aktuell ist die Befragung bis Freitag 08:00 geöffnet und es sind mehrere Abgaben erlaubt. Gebt uns gerne im nächsten Präsenztermin Feedback, ob die Umfrage mit den aktuellen Einstellungen sinnvoll ist. Ansonsten bis Freitag! :) Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lektion 05: Übung am 17.05.2024 10 Uhr (c.t)",
+                            "Discussion_Id": "595057",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071106",
+                                    "Author": "Jan Eric Gieseler",
+                                    "DateTime": "2024-05-16T21:58:54+02:00",
+                                    "Content": "Liebe *,  da uns die Frage erreicht hat, ob morgen eine Übung stattfindet, möchte ich nur kurz mit dieser Nachricht bestätigen, dass wir morgen am 17.05.2024 von 10-13 Uhr (c.t.) eine Übung zu Lektion 05 Derivatisation & Detection, sowie den Vorlesungsteil 2 halten werden. Wir freuen uns auf euch!  Liebe Grüße Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "GeoGebra-Tools zur Übung 01",
+                            "Discussion_Id": "589853",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063014",
+                                    "Author": "Ruben Tag",
+                                    "DateTime": "2024-04-25T14:34:12+02:00",
+                                    "Content": "Liebe *, wir möchten euch noch auf zwei Visualisierungs-Tools zur letzten Übung aufmerksam machen. Die Visualisierung zur van-Deemter Gleichung kennt ihr bereits aus der letzten Übung, ich habe darüber hinaus noch eine Visualisierung zur Auflösung sowie anderen Größen erstellt. Visualisierung zur van-Deemter Gleichung (GeoGebra) Visualisierung zur Auflösung (GeoGebra) Bis morgen in der Übung!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laptop für LC Übung",
+                            "Discussion_Id": "589739",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062840",
+                                    "Author": "Jan Eric Gieseler",
+                                    "DateTime": "2024-04-25T11:25:43+02:00",
+                                    "Content": "Liebe *,  wie ihr bestimmt im Übungszettel gesehen habt, möchten wir mit euch in der Übung das Standardadditionsverfahren anhand einiger Messwerte anwenden.  Sofern möglich, bringt bitte für die kommende Übung am 26.04.2024 ein Excel-fähiges Endgerät mit.  Bis morgen, Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen erste Übung",
+                            "Discussion_Id": "587420",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059157",
+                                    "Author": "Ruben Tag",
+                                    "DateTime": "2024-04-18T16:32:11+02:00",
+                                    "Content": "Hallo zusammen, auch von unserer Seite ein herzliches Willkommen im Kurs Bioanalytik 1.  Wir möchten noch einmal an unsere erste Übung morgen um 10 Uhr (c.t.) im Raum TIB-13b A erinnern. Wir freuen uns auf einen motivierenden Start ins neue Semester mit euch! Eure Tuts",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungs-Video",
+                            "Discussion_Id": "585450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056273",
+                                    "Author": "Edward Vincent Rullmann",
+                                    "DateTime": "2024-04-11T14:05:09+02:00",
+                                    "Content": "Liebe Studierende,  herzlich willkommen zum Kurs Bioanalytik 1!  Wir freuen uns darauf, das neue Semester mit euch zu beginnen. Bevor es nächste Woche dann schon inhaltlich losgeht, möchten wir euch bitten, euch das Einführungsvideo in Lektion 00 anzusehen und euch am besten jetzt schon im ISIS-Kurs und im MTS für dieses Modul anzumelden.  Bis nächste Woche und auf eine spannende Zeit zusammen,  Euer Team Bioanalytik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Help-Line Forum",
+                    "Forum_id": "1792559",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Nachteilsausgleich",
+                            "Discussion_Id": "606660",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088148",
+                                    "Author": "Paula Lee Robin Varchmin",
+                                    "DateTime": "2024-07-09T15:27:00+02:00",
+                                    "Content": "Hallo ihr, An welche E-Mail adresse soll ich den den Antrag auf nachteilsausgleich für die Prüfung am Freitag schreiben?  LG Paula ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088203",
+                                    "Author": "Juri Rappsilber",
+                                    "DateTime": "2024-07-09T17:15:33+02:00",
+                                    "Content": "Bitte an Christian senden: c.forbrig@tu-berlin.de",
+                                    "Response to": "p1088148"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Quiz 9",
+                            "Discussion_Id": "601246",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080374",
+                                    "Author": "Abdallah Eower",
+                                    "DateTime": "2024-06-15T20:18:59+02:00",
+                                    "Content": "Hallo, Ich habe leider das Quiz 9 versehentlich verpasst. Gibt es eine Möglichkeit, es nachzuholen? Vielen Dank für deine Rückmeldung. LG",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum 4",
+                            "Discussion_Id": "599465",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077750",
+                                    "Author": "Aimo Alexander Weber",
+                                    "DateTime": "2024-06-06T16:02:27+02:00",
+                                    "Content": "Bei dem 4. Praktikum steht das man es bis zum14.6 abgeben kann, stimmt das so, weil es dann nicht mehr im 2 Wochen Rythmus wäre oder ist das ein Fehler und es muss bis heute abgegeben werden?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077779",
+                                    "Author": "Julius Benedikt Seidl",
+                                    "DateTime": "2024-06-06T16:59:01+02:00",
+                                    "Content": "Hallo Aimo Alexander,  Danke für deinen Hinweis, da ist wohl leider etwas mit der Freischaltung auf ISIS falsch gelaufen. Wir werden die Praktikumslektion bis zum nächsten Freitag (14.06.) offen lassen, damit alle, die sich darauf eingestellt haben, noch genug Zeit haben Ihre Lektion abzugeben. Dadurch verschiebt sich auch unser Q&A Teil zum Praktikum von morgen auf nächsten Freitag. Trotzdem schalten wir den 5 Praktikumsteil zur nächsten Woche frei. Dieser wird dann wie angegeben bis zum 21.06. freigeschaltet bleiben und wir machen unseren Q&A Teil zu Versuch 5 am Freitag, dem 21.06.  Beste Grüße Euer Team Lehre",
+                                    "Response to": "p1077750"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MTS Anmeldung",
+                            "Discussion_Id": "593766",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069067",
+                                    "Author": "Benjamin Buchholz",
+                                    "DateTime": "2024-05-11T17:19:43+02:00",
+                                    "Content": "Hallo, hab leider die MTS Anmeldung verpasst. Wäre eine nachträgliche Anmeldung möglich? Liebe Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "mts anmeldung",
+                            "Discussion_Id": "591992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066258",
+                                    "Author": "Ada Zeynep Bul",
+                                    "DateTime": "2024-05-03T10:07:15+02:00",
+                                    "Content": "Hallo,  ich habe leider den Termin für Prüfungsanmeldung bei Moses verpasst. Ist eine spätere Anmeldung möglich?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pr-Quiz Unterbrechungen möglich?",
+                            "Discussion_Id": "588219",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060434",
+                                    "Author": "Kristina Berger",
+                                    "DateTime": "2024-04-22T09:38:40+02:00",
+                                    "Content": "Hallöle,  hab gerade das Praktikumsquiz gemacht, hatte bei der einen Aufgabe einen Fehler angezeigt bekommen und wollte bevor ich auf \"wiederholen\" klicke ins Forum posten. Kam dann doch alleine auf meinen Fehler und wollte die Bearbeitung fortsetzen, wurde allerdings gleich zum Ende geleitet.  Hab ich da jetzt was missverstanden gehabt und man kann nicht unterbrechen oder ist das ein Fehler vom System?  Mit lieben Grüßen  Kristina ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1060670",
+                                    "Author": "Kristina Berger",
+                                    "DateTime": "2024-04-22T12:15:48+02:00",
+                                    "Content": "Wurde privat beantwortet, nur falls sich jemand das selbe fragt: Unterbrechungen sind möglich! Der Button \"Wiederholen\" überprüft zwar ob die Korrektur richtig ist, zählt aber nicht mehr für die Punkte.",
+                                    "Response to": "p1060434"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 01",
+                    "Forum_id": "1792577",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Quiz 1- Frage 7",
+                            "Discussion_Id": "587708",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059611",
+                                    "Author": "Julius Maximilian Breyvogel",
+                                    "DateTime": "2024-04-19T14:25:55+02:00",
+                                    "Content": "Die stationäre Phase ist ein fester Bestandteil der Trennsäule. Der Satz sollte ja richtig sein aber die stationäre Phase kann doch auch ein flüssiger Bestandteil sein oder? Oder ist die Frage nicht ganz eindeutig gestellt und es ist gemeint, dass die stationäre Phase immer Bestandteil der Trennsäule ist?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062222",
+                                    "Author": "Ruben Tag",
+                                    "DateTime": "2024-04-24T12:40:39+02:00",
+                                    "Content": "Hey, Danke für dein Feedback! Korrekt, gemeint ist dass die SP immer Bestandteil der Trennsäule ist, wir schauen dass die Fragestellung präzisiert wird. LG",
+                                    "Response to": "p1059611"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zwischenmolekulare Kräfte",
+                            "Discussion_Id": "587427",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059168",
+                                    "Author": "Matteo Di Fiore",
+                                    "DateTime": "2024-04-18T16:42:02+02:00",
+                                    "Content": "Hallo der Prof meinte ja wir sollen sagen, welche Kräfte uns einfallen. Mir würden jetzt spontan Disulfidbrücken, Wasserstoffbrückenbindungen, Van der Waals Kräfte und Dipol Dipol Wechselwirkungen, sowie Ionische Kräfte einfallen. Kennt ihr noch mehr?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059606",
+                                    "Author": "Julius Maximilian Breyvogel",
+                                    "DateTime": "2024-04-19T14:20:15+02:00",
+                                    "Content": "Mehr fallen mir auch nicht ein. Bin mir aber nicht sicher, ob Disulfidbindungen eine Wechselwirkung sind, beinhalten die nicht kovalente Bindungen?",
+                                    "Response to": "p1059168"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 02",
+                    "Forum_id": "1792583",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Plattenhöhe",
+                            "Discussion_Id": "590151",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063451",
+                                    "Author": "Evelin Maier",
+                                    "DateTime": "2024-04-26T11:46:06+02:00",
+                                    "Content": "ich verstehe nicht genau, was mit der Plattenhöhe gemeint ist. Kann mir da jmd bitte weiterhelfen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wechle Säule",
+                            "Discussion_Id": "588606",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061096",
+                                    "Author": "Yelizaveta Selivanova",
+                                    "DateTime": "2024-04-22T18:34:55+02:00",
+                                    "Content": "Hey,  Habe ich es richtig verstanden, dass eine dünne Säule besser für eine Trennung und Auflösung ist? Was denkst ihr?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061162",
+                                    "Author": "Kristina Berger",
+                                    "DateTime": "2024-04-22T21:05:21+02:00",
+                                    "Content": "Jup denke schon, da die Longituidal Kräfte einfach mehr Weg haben um zu wirken.",
+                                    "Response to": "p1061096"
+                                },
+                                {
+                                    "Message_id": "p1061823",
+                                    "Author": "Kristina Berger",
+                                    "DateTime": "2024-04-23T18:54:28+02:00",
+                                    "Content": "Meinte btw die Eddy-Kräfte. Dickere Säule -> mehr Eddy -> schlechtere Auflösung",
+                                    "Response to": "p1061162"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 03",
+                    "Forum_id": "1792588",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Affinitätschromatographie- ausschließlich Peptide oder Proteine auch möglich?",
+                            "Discussion_Id": "590896",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064581",
+                                    "Author": "Kristina Berger",
+                                    "DateTime": "2024-04-29T16:04:18+02:00",
+                                    "Content": "Huhu,  hab ichs richtig verstanden, dass es in der Affinitätschromatographie(AC) Proteine erst in Peptide geschnitten werden MÜSSEN? Warum? Wie beim Ionenaustauscher, dass sie sonst zu stark binden und nicht mehr eluieren? Warum gibt es dann in der AC dann nicht auch unterschiedlich starkbindende Säulen. Oder werden die Proteine zerschnitten um überhaupt die Bindungsstellen (z.B. Phosphatreste) freizulegen?  Habt ihr vllt mehr Ahnung?   LG  Kristina ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066500",
+                                    "Author": "Ruben Tag",
+                                    "DateTime": "2024-05-03T15:32:21+02:00",
+                                    "Content": "Hey Kristina, mit Affinitätschromatographie können auch vollständige Proteine getrennt werden. Die Affinitätschromatographie umfasst viele Verfahren, Proteine können z.B. auch durch Protein-Substrat- oder Antigen-Antikörper-Interaktionen getrennt werden (so funktionieren auch die Covid-19 Antigen-Schnelltests). Ich vermute allerdings deine Frage bezieht sich auf die IMAC (in der Vorlesung bezieht sich Juri hier glaube ich nur auf Peptide), diese kann aber auch für gesamte Proteine verwendet werden.  In diesem Buch zu Bioanalytik wird nochmal deutlich ausführlicher auf die verschiedenen Verfahren eingegangen, falls dich (euch) das Thema interessiert: Zugang über die UB/VPN: Bioanalytik (Kurreck) (Stichwortverzeichnis: \"Affinitätschromatographie\" oder STRG+F: IMAC)  LG Ruben",
+                                    "Response to": "p1064581"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 04",
+                    "Forum_id": "1792594",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Übungszettel VL4 ",
+                            "Discussion_Id": "592861",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067659",
+                                    "Author": "Yelizaveta Selivanova",
+                                    "DateTime": "2024-05-07T10:59:46+02:00",
+                                    "Content": "Hey, kann jemand seine Idee über die Aufgabe 2b (Theorie) teilen?  Danke :) ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 07",
+                    "Forum_id": "1792630",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Unser Paper",
+                            "Discussion_Id": "599159",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077315",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-06-05T14:26:45+02:00",
+                                    "Content": "Hi *, wie am Freitag nach der Übung versprochen, hier der Link zum Paper über die Aufklärung neuer Protein-Proteininteraktionen in Bacillus subtilis (nicht prüfungsrelevant!). --> https://www.embopress.org/doi/full/10.15252/msb.202311544 Viele Grüße Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 10",
+                    "Forum_id": "1792647",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "faszinierende Anwendung der (Fluoreszenz)mikroskopie",
+                            "Discussion_Id": "602223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081752",
+                                    "Author": "Julius Maximilian Breyvogel",
+                                    "DateTime": "2024-06-19T19:20:43+02:00",
+                                    "Content": "https://www.science.org/doi/10.1126/science.1260088 Schaut da gerne mal rein, falls es euch interessiert. Der Gedanke, die Probe physisch zu vergrößern, um sie dann innerhalb der physikalischen Grenzen zu untersuchen, ist ein typischer Fall, wo ich mir ans Kinn fasse und denke: hmmmm",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zu Lektion 11",
+                    "Forum_id": "1792653",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Foto der Tafel",
+                            "Discussion_Id": "604304",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084761",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-06-28T14:54:51+02:00",
+                                    "Content": "Hallo *, anbei ein Foto der von euch gesammelten Themen. Viele Grüße Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Praktikumsforum Versuch 1 HPLC",
+                    "Forum_id": "1792666",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Mittelwert der Konzentration",
+                            "Discussion_Id": "589865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063032",
+                                    "Author": "Matteo Di Fiore",
+                                    "DateTime": "2024-04-25T14:53:17+02:00",
+                                    "Content": "Hallo, Ich habe diese Formel raus y = 7*10^-6x - 0,1319 und damit die Werte gerechnet und für die Fritz Cola habe ich diese Werte raus  24,215087 24,106132 24,074611  der Mittelwer davon ist ja 24,13, aber bei mir war es falsch :( Was habt ihr raus? Hätte ich mit 241,32 eingeben sollen wegen dem Verdünnungsfaktor?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063230",
+                                    "Author": "Nils Frederik Möller",
+                                    "DateTime": "2024-04-25T20:26:37+02:00",
+                                    "Content": "Hey, ist genau so wie du sagst. Dein Ergebnis 24,13 wäre dann in [mg/100mL] statt der geforderten [mg/L]",
+                                    "Response to": "p1063032"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Praktikumsforum Versuch 2 IEX",
+                    "Forum_id": "1792674",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kapazitätsberechnung ",
+                            "Discussion_Id": "593378",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068437",
+                                    "Author": "Leon Weber",
+                                    "DateTime": "2024-05-08T17:51:15+02:00",
+                                    "Content": "Hallo, ich habe beim ausfüllen der Praktikumsaufgaben die Berechnung der Kapazität (mit anderen Werten) übersehen oder sie wurde mir nicht angezeigt. Gibt es eine Möglichkeit wie ich die Aufgabe noch einmal wiederholen kann ? mfg",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068484",
+                                    "Author": "Julius Maximilian Breyvogel",
+                                    "DateTime": "2024-05-08T19:07:05+02:00",
+                                    "Content": "Ich denke du kommst nicht zurück aber nimm für die Rechnung die Formel aus dem Praktikumsskript und denk an die Verdünnung, dann solltest du es hinkriegen.",
+                                    "Response to": "p1068437"
+                                },
+                                {
+                                    "Message_id": "p1068494",
+                                    "Author": "Leon Weber",
+                                    "DateTime": "2024-05-08T19:29:36+02:00",
+                                    "Content": "Also heißt das den Portfoliopunkt würde ich nicht mehr kriegen ?",
+                                    "Response to": "p1068484"
+                                },
+                                {
+                                    "Message_id": "p1068982",
+                                    "Author": "Julius Benedikt Seidl",
+                                    "DateTime": "2024-05-10T18:04:05+02:00",
+                                    "Content": "Hallo Leon,  Wir wurden heute auch in der Übung darauf aufmerksam gemacht, dass bei manchen von Euch einzelne Fragen nicht angezeigt wurden. Wir sitzen gerade daran, das zu überprüfen und eine Lösung zu finden.  Liebe Grüße Julius",
+                                    "Response to": "p1068494"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zu Praktikumsversuch 03 - GC",
+                    "Forum_id": "1792678",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Rundung des arithmetischen Mittels ",
+                            "Discussion_Id": "595791",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072286",
+                                    "Author": "Nathaniel Jeremias Wegwerth",
+                                    "DateTime": "2024-05-21T18:19:40+02:00",
+                                    "Content": "Hallo,  Ich habe bei der Bestimmung des Wassergehalts die Werte vor der Bestimmung des arithmetischen Mittels einmal nur auf drei Nachkommastellen gerundet, da dazu nichts dabei stand. Dadurch ist jedoch hab ich jedoch quasi einen Rundungsfehler in meinem arithmetischen Mittel. Ist das der Fehler? Denn wenn ja, wäre es sehr hilfreich gewesen schon vorher anzugeben, auf wie viele Nachkommastellen gerundet werden soll. Ist es möglich einen Toleranzbereich nachträglich hinzuzufügen, da das sonst natürlich sehr ärgerlich, um den Punkt wäre.  Wenn das nicht geht kann ich das natürlich auch verstehen. Mit freundlichen Grüßen und eine angenehme Woche! Nathaniel Wegwerth",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " Daten- und Auswertungsbogen GC nicht verfügbar",
+                            "Discussion_Id": "594448",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070148",
+                                    "Author": "Taja Kira Finnja Schielinski",
+                                    "DateTime": "2024-05-14T17:31:19+02:00",
+                                    "Content": "Der  Daten- und Auswertungsbogen GC ist nicht verfügbar. Er lässt sich nicht öffnen wäre es möglich diesen bitte freizuschalten?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070251",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-05-15T05:36:01+02:00",
+                                    "Content": "Danke für den Hinweis, die Datei ist jetzt verfügbar. Bitte entschuldigt die Verzögerung.",
+                                    "Response to": "p1070148"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zu Praktikumsversuch 04 - UV/VIS",
+                    "Forum_id": "1792686",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vierte Aufgabe",
+                            "Discussion_Id": "599425",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077697",
+                                    "Author": "Anne Marie Avetisyan",
+                                    "DateTime": "2024-06-06T14:11:21+02:00",
+                                    "Content": "Hat Jemand einen Tipp, wie man die relative Masse berechnet?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077879",
+                                    "Author": "Kristina Berger",
+                                    "DateTime": "2024-06-07T08:27:13+02:00",
+                                    "Content": "Relative Masse m2 = m1/ Einwaage",
+                                    "Response to": "p1077697"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

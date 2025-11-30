@@ -1,0 +1,187 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Bachelormodul VL Bioverfahrenstechnik II",
+        "Course_id": "38212",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1784138",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Etherpad Rechenbeispiel",
+                            "Discussion_Id": "603577",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083730",
+                                    "Author": "Mariano Nicolas Cruz Bournazou",
+                                    "DateTime": "2024-06-25T18:35:26+02:00",
+                                    "Content": "Hallo zusammen,  die Etherpad ist ab jetzt verfügbar. Da können wir alle Fragen bezüglich des Beispiels in Stirring and Mixing Lecture 2, Folie 40 besprechen.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089548",
+                                    "Author": "Mariano Nicolas Cruz Bournazou",
+                                    "DateTime": "2024-07-13T12:12:04+02:00",
+                                    "Content": "Dear all,  nach Anfrage haben wir eine Reihe von Rechenaufgaben für euch erstellt, auf Deutsch: https://isis.tu-berlin.de/pluginfile.php/3254982/mod_resource/content/1/RechenAufgaben_ohneLoesung.pdf  Meisten sind auch im Dokument Questions Lecture 6 zu finden. Die Aufgaben sind auch im Etherpad zu finden. Es ist viel effizienter, wenn ihr eure Fragen da reinschreibt so dass alle sie sehen können.  am Montag werden wir der Rechenaufgaben besprechen.  cheers nico",
+                                    "Response to": "p1083730"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbereitungsseminare für die Prüfung",
+                            "Discussion_Id": "606793",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088344",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-07-10T09:52:24+02:00",
+                                    "Content": "Dear all, nachdem wir jetzt die Vorlesungen abgeschlossen haben, finden jetzt vor der online BVTII Prüfung (am 25.7. 10-12 Uhr) noch zwei Seminare statt: 15.7. 16:15-17.45 im Hörsaal 13B-B Gustav Meyer Allee (onsite Meeting mit online Verbindung wie gewohnt)  22.7. 15:30-16:30 online über Zoom (https://tu-berlin.zoom.us/j/67432840283?pwd=eENmWGJDSWxuRnhOVzlOYzR2UnZQZz09 Meeting-ID: 674 3284 0283, Kenncode: 363948, Schnelleinwahl mobil: +49 30 5679 5800) Themen: Thema 5: Downstream processing 2: protein refolding, aquous two phase systems, lyophilisation (abgefragt werden auch für Thema 5 relevante Anwendungsbezüge zu Inhalten von Thema 4 - Zentrifugation und Zellaufschluss) Thema 6: Rühren und Mischen Thema 7: Bioprocess scale up /down Beste Grüße Peter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsteile 2 und 3 der BVTII",
+                            "Discussion_Id": "606330",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087672",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-07-08T16:10:57+02:00",
+                                    "Content": "Die schriftlichen Prüfungsteile 2 und 3 der BVTII finden am Donnerstag, dem 25.7.2024 von 10:00-13:00 online statt (jeweils 59 min). ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebisse der 1. Prüfungsleistung sind verfügbar. ",
+                            "Discussion_Id": "604473",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085034",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-06-30T17:32:29+02:00",
+                                    "Content": "Die Ergebnisse der 1. Prüfungsleistung sind verfügbar. Bei 2 Personen konnte ich leider das hochgeladene File für die Beschreibung der Fermentation nicht öffnen. Diese haben bisher deshalb keine Punktzahl bekommen und melden sich bitte bei mir (Ich hatte sie mit E-Mail kontaktiert).  Die offizielle Einsicht erfolgt nach den anderen Prüfungsleistungen; ihr könnt euch aber jetzt schon die Inhalte ansehen. Beste Grüße Peter N.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "BVTII Seminar Prüfungsvorbereitung",
+                            "Discussion_Id": "597085",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074275",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-05-27T16:21:39+02:00",
+                                    "Content": "am Mittwoch 5.6. um 14:00-16:00 HG Peter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Prüfungsteil am 10.6.",
+                            "Discussion_Id": "594817",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070743",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-05-16T08:48:57+02:00",
+                                    "Content": "Dear all, die Prüfung am 10.6. findet online wie geplant zur Vorlesungszeit statt (16-18 Uhr). Details werde ich später bereitstellen.  Mit besten Grüßen Peter Neubauer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung",
+                            "Discussion_Id": "594814",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070740",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-05-16T08:47:31+02:00",
+                                    "Content": "Dear all, ich habe den Kurs in Moses/MTS zur Anmeldung jetzt freigeschaltet. Danke noch einmal für die Erinnerung das diese Eintragung noch nicht funktionierte. Moses - Prüfungsverwaltung (tu-berlin.de) Mit besten Grüßen Peter N.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "BVTII Klausur am 10.6. - Abstimmung",
+                            "Discussion_Id": "588597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061082",
+                                    "Author": "Peter Neubauer",
+                                    "DateTime": "2024-04-22T18:13:17+02:00",
+                                    "Content": "Hallo, Es kam die Anfrage, ob wir die online Klausur am 10.6.2024 eher schreiben können und nicht erst zur normalen VL-Zeit. Falls es eine große Mehrheit für eine andere Zeit gibt, bin ich gern bereit, die Klausur vorzuverlegen. Bitte tragt euch hier in ISIS für ALLE Zeiten, die euch passen unten ein. Angezeigt ist der Startpunkt der Klausur. Diese geht 59 min. Beste Grüße Peter",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Kursforum - zur Kommunikation von Fragen die alle Kursteilnehmer betreffen",
+                    "Forum_id": "1784218",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "2FA vor der Prüfung",
+                            "Discussion_Id": "599964",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078503",
+                                    "Author": "Hakyong Song",
+                                    "DateTime": "2024-06-10T11:53:33+02:00",
+                                    "Content": "Hallo, mir ist gerade eben eingefallen, dass man ein 2FA für die Teilnahme an der Prüfung benötigt. Jedoch ist mein Handy gerade in der Reparatur und es besteht keine Möglichkeit die 2FA wiederherzustellen. Wäre die Teilnahme ohne 2FA möglich?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Video Downstream Processing",
+                            "Discussion_Id": "596254",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072939",
+                                    "Author": "Jakob Alexander Müller-Wirth",
+                                    "DateTime": "2024-05-23T11:32:00+02:00",
+                                    "Content": "Guten Tag,  Ich kann im Isis Kurs momentan kein Video zum Thema Downstream Processing 1 finden. Ist das nur ein Seminar, oder fehlt das Video noch?  Viele Grüße Jakob Müller-Wirth",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Klausur 10.06",
+                            "Discussion_Id": "586868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058326",
+                                    "Author": "Christoph Max Bolduan",
+                                    "DateTime": "2024-04-17T13:36:33+02:00",
+                                    "Content": "Hallo liebes BVTII-Team, wäre es möglich die 1. Klausur am 10.06 am Vormittag statt am Abend zu schreiben? Mit freundlichen Grüßen  Christoph Bolduan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "585365",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056158",
+                                    "Author": "Nils Frederik Möller",
+                                    "DateTime": "2024-04-10T19:50:28+02:00",
+                                    "Content": "Hallo liebes BVT-II-Team, momentan steht in der Teilnehmererfassung, dass die Prüfungsanmeldung über QISPOS erfolgen soll. https://www.tu.berlin/pruefungen/pruefungen/qispos schreibt jedoch, dass Anmeldungen nur noch über Moses MTS stattfinden.  Wird dieser Abschnitt in der Teilnehmererfassung noch geändert, oder findet die Anmeldung dann mit gelbem Zettel statt bzw. wird ein MTS-Eintrag erstellt?  Beste Grüße Nils Möller",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

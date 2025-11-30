@@ -1,0 +1,122 @@
+[
+    {
+        "Course_Name": "SoSe 24 ODS Project Advanced Web Technologies",
+        "Course_id": "37623",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1764537",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "AWT PJ Onboarding - 23. April 2024",
+                            "Discussion_Id": "587762",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059681",
+                                    "Author": "Louay Bassbouss",
+                                    "DateTime": "2024-04-19T15:42:47+02:00",
+                                    "Content": "Dear AWT participants, Information about the onboarding session next Tuesday (23rd April) has been added to ISIS under week \"Onboarding - 23rd April 2024\". Please check the breakout table to find the Zoom breakout room for your topic (the timing for some topics may be updated before the onboarding session). Kindly study the project topic you selected and prepare questions for your supervisor. Your supervisor will also explain the project topic and answer any questions you may have. Best regards, Louay",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "AWT Project Intro - April 16 10:00-12:00",
+                            "Discussion_Id": "585610",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056500",
+                                    "Author": "Louay Bassbouss",
+                                    "DateTime": "2024-04-12T12:41:07+02:00",
+                                    "Content": "Dear AWT Project participants, This is a reminder for the AWT Project introductory lecture on Tuesday, April 16, from 10:00 to 12:00, via Zoom. Attendance is mandatory to participate in this course. All instructions are available in the \"Intro & Schedule\" section on this ISIS page. The project topics are also listed there. The project selection will open on Tuesday, April 16, at 12:00 and will remain open until Wednesday, April 17, at 18:00. Further details will be provided during the introductory lecture next week. Best regards, Louay Bassbouss",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057223",
+                                    "Author": "Louay Bassbouss",
+                                    "DateTime": "2024-04-15T16:39:11+02:00",
+                                    "Content": "Dear All,  FYI a new topic \"Evaluation of Reinforcement Learning Techniques\" is added to the list of project topics.   Best Louay",
+                                    "Response to": "p1056500"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Students Forum",
+                    "Forum_id": "1818370",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Issue with enrolling to 12LP Module",
+                            "Discussion_Id": "588367",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060690",
+                                    "Author": "Tanem Basaraner",
+                                    "DateTime": "2024-04-22T12:32:24+02:00",
+                                    "Content": "Hello,  When trying to enroll to the module for 12 Points (Modul #40240)  its says that the module is not available this semester and only the Project module (Modul #40253) with 9 points is available.  In this case, what should the people who need to enroll for 12 Points do? Thank you in advance!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061435",
+                                    "Author": "Ettore Carlo Marangon",
+                                    "DateTime": "2024-04-23T12:04:54+02:00",
+                                    "Content": "Hello, I have the same problem.  best, Ettore",
+                                    "Response to": "p1060690"
+                                },
+                                {
+                                    "Message_id": "p1061833",
+                                    "Author": "Louay Bassbouss",
+                                    "DateTime": "2024-04-23T19:07:15+02:00",
+                                    "Content": "Hello,  You request is received we are checking.  Best Louay",
+                                    "Response to": "p1061435"
+                                },
+                                {
+                                    "Message_id": "p1064136",
+                                    "Author": "Lilli Wittner",
+                                    "DateTime": "2024-04-29T09:06:48+02:00",
+                                    "Content": "Hi, are there any new information to this problem?  Best, Lilli",
+                                    "Response to": "p1061833"
+                                },
+                                {
+                                    "Message_id": "p1064149",
+                                    "Author": "Louay Bassbouss",
+                                    "DateTime": "2024-04-29T09:22:50+02:00",
+                                    "Content": "Please wait we will let you know when you can register. I will send an announcement here in ISIS.  Best Louay",
+                                    "Response to": "p1064136"
+                                },
+                                {
+                                    "Message_id": "p1067158",
+                                    "Author": "Melanie Lahrkamp",
+                                    "DateTime": "2024-05-06T12:41:53+02:00",
+                                    "Content": "Dear students,  if you would like to take the 12 LP module, you can already enrol for the 12 LP module for the winter semester 24/25 via MTS (Moses). Enrolment is open there. Lectures and tests are only offered in the winter semester.  You can take the PJ this semester. Please also register for this via the MTS for the current semester. This allows us to check the number of participants.  Best regards, Melanie Lahrkamp - administrative assistance ODS",
+                                    "Response to": "p1064149"
+                                },
+                                {
+                                    "Message_id": "p1067324",
+                                    "Author": "Ettore Carlo Marangon",
+                                    "DateTime": "2024-05-06T15:46:03+02:00",
+                                    "Content": "Dear Ms. Lahrkamp,  thank you very much for the info.  Just to be 100% sure: I would like to enroll in the 12LP course and also visit the lecture + exam next semester. If I understood correctly, this semester I have to double register; once in the module #40240 (WiSe 24/25) and once in #40253 (SoSe 24). Is this correct?  How are the grades going to be managed at the end if I have a double registration? I would like to habe AWT only once in my master's certificate.  Thank you in advance :)  Ettore Marangon",
+                                    "Response to": "p1067158"
+                                },
+                                {
+                                    "Message_id": "p1067868",
+                                    "Author": "Florian Richter",
+                                    "DateTime": "2024-05-07T15:38:38+02:00",
+                                    "Content": "Hello, i just saw your answer today and now the registration period for the project in this semester is over. Is it possible to extend this or should i just enroll for the 12 LP next semester?  Thank you and best regards Florian",
+                                    "Response to": "p1067158"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Submission of first slides/video",
+                            "Discussion_Id": "591103",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064900",
+                                    "Author": "Tea Rosic",
+                                    "DateTime": "2024-04-30T10:28:22+02:00",
+                                    "Content": 

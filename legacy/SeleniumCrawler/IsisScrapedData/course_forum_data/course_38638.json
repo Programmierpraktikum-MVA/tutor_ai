@@ -1,0 +1,133 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] [CommIT] Information Theory and Applications",
+        "Course_id": "38638",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1798912",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "[ITA SoSe2024] Project presentations this week",
+                            "Discussion_Id": "607662",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089611",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-07-13T21:21:15+02:00",
+                                    "Content": "Dear Students,  project presentations will be during class time on Wednesday 17.07 at starting at 14:00. Please be in class at 14:00 since we must do everything within the 2h.  Please be all present.  G ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA SoSe2024] Reminder for the Final Exam",
+                            "Discussion_Id": "606482",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087889",
+                                    "Author": "Tom Szollmann",
+                                    "DateTime": "2024-07-09T09:12:44+02:00",
+                                    "Content": "Dear students,  a little reminder that the final exam will take place tomorrow on WEDNESDAY, 10.07. at 14:15 in the lecture hall we used all semester. As for the midterm exam, you should bring: a pen, sufficient scratch paper for your deductions / calculations, one double-sided A4 page with formulas, a calculator. As before, the exam is \"closed books\", so make sure to shut down all digital accessories beforehand (or don't take them with you).  Best regards, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA Sose 2024] PLAN FOR THE REST PART OF THE SEMESTER",
+                            "Discussion_Id": "599547",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077883",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-06-07T08:30:05+02:00",
+                                    "Content": "Week of June 10-16: problems on channel capacity, and theory on the Gaussian channel (with application to OFDM); Week of June 17-21: problems on Gaussian channel capacity, and theory on lossy source coding, rate-distortion function; Week of June 24-28: problems on lossy source coding, and general catch up (in case some topic is left behind); Week of July 1-5: IMPORTANT: on Tuesday July 2 during lecture time, the end of semester projects will be discussed and assigned.  YOU MUST COME TO THE LECTURE AND GET YOUR PROJECT, OTHERWISE YOU CANNOT PASS THE COURSE AND GET YOUR CREDITS.  The time to work on your project is from Tuesday July 2 to the date of your project presentation, which will be either Tuesday July 16, or Wednesday July 17, i.e., in the last week of the semester.  Week of July 8-12: SECOND WRITTEN TEST ON WEDNESDAY JULY 10. No class on Tuesday July 9 (you are working on your project and preparing the written test).  Week of July 15-19: PROJECT PRESENTATIONS",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA SoSe2024] COURSE IN-CLASS PARTICIPATION",
+                            "Discussion_Id": "597699",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075203",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-05-29T16:25:04+02:00",
+                                    "Content": "Dear Students,  I noticed that after the Midterm test the number of people coming to class has drastically decreased. IMPORTANT: for all those students who have turned in the test but for some reason have decided to drop the module, PLEASE SEND ME AN EMAIL (caire@tu-berlin.de) SPECIFYING YOUR INTENTION TO DROP THE MODULE.  If not, I will grade all tests and once graded I **must** register the failing grade (university rule).  Once you receive some scope in the portfolio exam, you cannot drop the module any more and i have to register the failing grade.  Best wishes,  G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA SoSe24] IMPORTANT INFORMATION FOR THE MIDTERM TEST",
+                            "Discussion_Id": "594867",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070810",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-05-16T11:07:47+02:00",
+                                    "Content": "Dear Students,  for the test you can have:  1) scratch paper 2) one A4 double-sided formula sheet, where you can annotate all the formulas you want. For the rest, the test is ``closed books'', which means: you cannot have a copy of the slides and of the problems with solutions, you cannot have laptops and other devices connected to the internet, you cannot ask ChatGPT, Wikipedia, and so on .... It is just you, your pen and paper, and your formula sheet to recall things that you may find useful.  Notice that preparing a good formula sheet is a great learning opportunity, since annotating by hand formulas and theorems helps not only remembering but also understanding.   Cheers,   G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[FSI SoSe2024] First written test",
+                            "Discussion_Id": "591165",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064992",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-04-30T12:15:18+02:00",
+                                    "Content": "The first written test will take place on Thursday 23.05 during usual class time. Beginning at 14:15 (sharp) in the usual classroom. Best wishes,   G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA Sose2024] First written test ",
+                            "Discussion_Id": "591162",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064988",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-04-30T12:12:25+02:00",
+                                    "Content": "The first written test will take place on Wednesday 22.05 during the usual class time. Beginning at 14:15 (sharp), in the usual classroom.  Cheers,  G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA SoSe 2024] CORRECTION",
+                            "Discussion_Id": "585757",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056741",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-04-14T17:49:27+02:00",
+                                    "Content": "... The class time on Wednesday is 14:00 - 16:00, not 12:00 - 14:00 as erroneously said in my previous email. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[ITA SoSe 2024]  Lecture schedule",
+                            "Discussion_Id": "585754",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056738",
+                                    "Author": "Giuseppe Caire",
+                                    "DateTime": "2024-04-14T17:44:55+02:00",
+                                    "Content": "Dear Students,  the ITA module meets 2 times per week on Tuesday 10:00 - 12:00 and Wednesday 12:00 - 14:00, both in Room HFT-TA 131.  Before the first lecture (Tuesday April 16) I will post on ISIS the lecture notes (slides) of the first topic and the syllabus with all the information about the module.   Best wishes,  G",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

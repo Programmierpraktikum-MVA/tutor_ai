@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Seminar Generative Neural Networks",
+        "Course_id": "37734",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1767327",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorbesprechung Seminar Generative NNs",
+                            "Discussion_Id": "585733",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056701",
+                                    "Author": "Gabriele Steidl",
+                                    "DateTime": "2024-04-14T12:38:19+02:00",
+                                    "Content": "Liebe (potentielle) Seminarteilnehmer, nochmals vielen Dank für Ihre Interessenbekundung per E-Mail. Die Seminarvorbesprechung findet am Do 18.4. um 16:00 in MA 314 statt. Dies ist im Ostflügel des Mathematikgebäudes. Ggf gibt es noch eine Raumänderung. Leider habe ich derzeit massive Probleme mit der E-Mail, so dass ich die Vorbesprechung via ISIS ankündige. Ich hätte dies ansonsten per E-Mail getan. Mit freundlichem Gruss, Gabriele Steidl",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

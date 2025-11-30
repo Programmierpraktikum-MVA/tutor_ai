@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "Seminar Convex/Discrete Geometry",
+        "Course_id": "37330",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1756141",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Gebäude",
+                            "Discussion_Id": "604093",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084446",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-06-27T16:17:13+02:00",
+                                    "Content": "Wir haben gerade feststellen müssen,  dass das HFT Gebäude, in dem morgen das Seminar stattfinden soll, wegen (teilweiser) Einsturzgefahr geschlossen ist :-) Wir treffen uns daher um 12:00 im E 220.    Viele Grüße   Martin Henk ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Info",
+                            "Discussion_Id": "595616",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072042",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-05-21T12:00:05+02:00",
+                                    "Content": "The seminar will take place at June 28th, July 12th and July 19th. We start at 12:00 s.t. and the room is 340 in the building HFT-TA. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Info",
+                            "Discussion_Id": "584595",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055056",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-04-04T10:49:18+02:00",
+                                    "Content": "In this semester's seminar, we will be studying Sinai Robins' forthcoming book Fourier analysis on polytopes, and the geometry of numbers,  part I:   a friendly introduction. A free preliminary (and extended) version  can be downloaded here (arXiv:2104.06407). A solid background in Convex/Discrete Geometry and Analysis is needed !  The first meeting will take place at Thursday, April 18th, at 12:15 in MA 649 -- see you! ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

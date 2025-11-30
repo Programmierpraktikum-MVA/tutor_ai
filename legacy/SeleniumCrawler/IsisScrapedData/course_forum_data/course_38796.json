@@ -1,0 +1,118 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Vorlesung Messdatenverarbeitung",
+        "Course_id": "38796",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1805261",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung MDV",
+                            "Discussion_Id": "601321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080495",
+                                    "Author": "Clemens Gühmann",
+                                    "DateTime": "2024-06-16T22:00:47+02:00",
+                                    "Content": "Hallo zusammen,   ich hoffe, Sie haben ein angenehmes Wochenende verbracht. Wir treffen uns am Montag, 17. Juni, um 14 Uhr c. t. wieder persönlich im E 20.  Wir werden uns einem neuen Thema widmen. Es geht dann um transiente Signale. Die einfache DFT reicht dann zur Analyse nicht mehr aus.  Mit bestem Gruß Clemens Gühmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung MDV - 10. Juni 2024",
+                            "Discussion_Id": "599973",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078520",
+                                    "Author": "Clemens Gühmann",
+                                    "DateTime": "2024-06-10T12:16:36+02:00",
+                                    "Content": "Hallo zusammen,  ich habe Ihnen die Videos (Vorlesung 7 und 8) zum Filterentwurf bereitgestellt. Bitte schauen Sie sich diese an. Am 17. Juni freue ich mich über Ihre Rückmeldungen und Fragen. Ebenso möchte ich dafür werben, die Zeit zu nutzen und die Lernzielkontrolle zu bearbeiten. Viel Freude und Erfolg dabei. Wir sehen uns dann persönlich wieder am 17. Juni ium 14 Uhr c. t. m E20.  Mit bestem Gruß Clemens Gühmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung am 10. Juni",
+                            "Discussion_Id": "599859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078349",
+                                    "Author": "Clemens Gühmann",
+                                    "DateTime": "2024-06-10T05:48:43+02:00",
+                                    "Content": "Liebe Studierende, die MDV-Vorlesung am 10. Juni fällt leider aus. Ich werde Ihnen Videos zur Verfügung stellen. Wir sehen uns dann am 17. Juni wieder persönlich im E20.  Mit bestem  Gruß  Clemens Gühmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikum",
+                            "Discussion_Id": "588820",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061403",
+                                    "Author": "Ongun Türkcüoglu",
+                                    "DateTime": "2024-04-23T11:38:54+02:00",
+                                    "Content": "Liebe Studierende, Das Praktikum wird aufgrund des Feiertages in der KW 18 übernächste Woche (KW 19) anfangen. Die Termine sind dann wie folgt verschoben: - Praktikum in KW 18 -> KW 19 - Praktikum in KW 19 -> KW 20 - Praktikum in KW 20 -> KW 21 - Rest bleibt wie im Semesterplan Viele Grüße, Ongun",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Fragen",
+                    "Forum_id": "1805269",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Link zum  Praktikum",
+                            "Discussion_Id": "592292",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066760",
+                                    "Author": "Boris Lador Tene Fokou Mbou",
+                                    "DateTime": "2024-05-05T01:56:22+02:00",
+                                    "Content": "Guten Morgen Herr Ongun Türkcüoglu , ich habe bisher keiner link für das Praktikum bekommen , Obwohl ich schon auf Moses eingeteilt würde . Wann sollen wir es kriegen ?  Mit freundlichen Grüßen  Boris Tene ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066765",
+                                    "Author": "Ongun Türkcüoglu",
+                                    "DateTime": "2024-05-05T08:31:33+02:00",
+                                    "Content": "Hallo,  Sie sind schon in den Kurs eingeschrieben, den Kurs sollten Sie in Ihrer Übersicht sehen können.  Wenn nicht, dann hier ist der Link: https://isis.tu-berlin.de/course/view.php?id=38795  Viele Grüße, Ongun",
+                                    "Response to": "p1066760"
+                                },
+                                {
+                                    "Message_id": "p1069790",
+                                    "Author": "Mireille Bella Fotie Epse Mausehund",
+                                    "DateTime": "2024-05-14T00:47:15+02:00",
+                                    "Content": "Hallo, In welchem Raum finden denn die Tutorien  statt?     Danke",
+                                    "Response to": "p1066765"
+                                },
+                                {
+                                    "Message_id": "p1069800",
+                                    "Author": "Ongun Türkcüoglu",
+                                    "DateTime": "2024-05-14T07:46:17+02:00",
+                                    "Content": "Hallo, In EN 442 Viele Grüße, Ongun",
+                                    "Response to": "p1069790"
+                                },
+                                {
+                                    "Message_id": "p1069808",
+                                    "Author": "Mireille Bella Fotie Epse Mausehund",
+                                    "DateTime": "2024-05-14T08:28:03+02:00",
+                                    "Content": "Okay Alles Klar .      Danke für die Info        Mit freundlichen Grüssen",
+                                    "Response to": "p1069800"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

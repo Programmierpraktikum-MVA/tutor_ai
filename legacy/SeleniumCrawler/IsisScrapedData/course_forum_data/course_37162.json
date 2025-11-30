@@ -1,0 +1,1051 @@
+[
+    {
+        "Course_Name": "[SoSe24] Praktisches Programmieren und Rechneraufbau",
+        "Course_id": "37162",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1750433",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "[Allgemein][Anderes] - Tutoriumsmitschriften Adrian",
+                            "Discussion_Id": "589542",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062540",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-04-24T17:52:27+02:00",
+                                    "Content": "Ich werde in diesem Thread meine Tutoriumsmitschriften (und später auch Code) hochladen. Tutorium 1:",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066459",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-05-03T14:46:14+02:00",
+                                    "Content": "Tutorium 2:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1069287",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-05-13T08:36:07+02:00",
+                                    "Content": "Tutorium 3:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1070888",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-05-16T12:53:29+02:00",
+                                    "Content": "Prozesstabelle aus Tutorium 4:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1073806",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-05-26T21:34:52+02:00",
+                                    "Content": "Tutorium 5 (Programmdateien):",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1075927",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-05-31T17:35:00+02:00",
+                                    "Content": "Tutorium 6:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1077850",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-06-06T21:31:28+02:00",
+                                    "Content": "Tutorium 7:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1079804",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-06-13T12:52:02+02:00",
+                                    "Content": "Tutorium 8:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1082373",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-06-21T15:09:04+02:00",
+                                    "Content": "Tutorium 9:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1084351",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-06-27T13:03:52+02:00",
+                                    "Content": "Tutorium 10:",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1086687",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-07-04T20:00:03+02:00",
+                                    "Content": "Tutorium 11",
+                                    "Response to": "p1062540"
+                                },
+                                {
+                                    "Message_id": "p1088913",
+                                    "Author": "Adrian Martin Sung",
+                                    "DateTime": "2024-07-11T14:15:45+02:00",
+                                    "Content": "Tutorium 12",
+                                    "Response to": "p1062540"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Schülerstudierende] Teilnahme an der Klausur",
+                            "Discussion_Id": "606861",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088443",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-07-10T12:01:37+02:00",
+                                    "Content": "Liebe Schülerstudierende, Ihr müsst euch - wie alle anderen - zur Klausur auch anmelden. Bitte folgt hierfür die Angaben in den FAQs.  Bitte unterlasst es, Prof. Obermayer mit E-Mails zu bedrängen, dass ihr an der Klausur teilnehmt und ihm euren Teilnahmeschein schickt. Ihr könnt nicht einfach teilnehmen, sondern ihr müsst - wie alle anderen - erst das HA-Kriterium erwerben und dann euch ordnungsgemäß anmelden.  Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Klausur] - Sprechstunden",
+                            "Discussion_Id": "606825",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088387",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-07-10T10:48:51+02:00",
+                                    "Content": "Hallo an alle, wie bereits erwähnt bieten wir extra Sprechstunden für die Klausuren an. Ich biete meine Klausursprechstunde für die erste Klausur am 24. Juli (Mittwoch) gegen 15 Uhr hybrid an. Die Uhrzeit kann sich ggf. ändern, da gebe ich noch rechtzeitig bescheid.  Bitte eure Fragen UNBEDINGT per Mail mir mind. 24 Stunden zuvor mitteilen an panagiotidis@tu-berlin.de. Gruß Sokratis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Vorlesungen, Tutorien] zu Ende",
+                            "Discussion_Id": "606781",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088326",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-07-10T09:21:01+02:00",
+                                    "Content": "Hallo,  die Zeit der Vorlesungen und Tutorien ist vorbei. Sobald die letze HA (HA 12 ) vorbei ist, werden die Übungsaufgaben für die Klausur freigeschaltet. Auch die Sprechstunden finden ab nächster Woche nicht mehr statt. Jedoch wird es vor den beiden Klausuren jeweils nochmal Klausurensprechstunden geben.  Liebe Grüße Thomas PS: Denkt daran, dass die letzte HA verpflichtend ist, auch wenn ihr die Gesamtpunktzahl schon erreicht habt. Auch hier zählt das 20% Kriterium.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Anderes] - Tutoriumsmitschriften_Sokratis",
+                            "Discussion_Id": "589503",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062476",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-24T16:36:27+02:00",
+                                    "Content": "Hey Leute, Wie gestern angekündigt stelle ich euch meine Notizen vom Tutorium zur Verfügung. Bitte berücksichtigt die Hinweise, welche ich oben in der Datei eingetragen habe. Das Wichtigste vorweg: Dies ist kein Ersatz zu den Tutorien und wird nicht zwingend von anderen Tutoren gemacht. Auch bitte ich euch diese Notizen nicht irgendwo anders hochzuladen, da unter anderem meine E-Mail-Adresse abgebildet ist. Andernfalls werde ich die Notizen nicht mehr anbieten. Ganz unten habe ich nochmal Hinweise für das 4. Tutorium und die Umgebung eingeschrieben, welche wir nutzen werden. Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1064751",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-29T20:00:44+02:00",
+                                    "Content": "Hey Leute,  hier meine Notizen vom heutigen Onlinetutorium.  Ich hab aufgrund meines heutigen Zeitplans es nicht geschafft die zu überarbeiten, deshalb rate ich euch ggf. Mittwoch meine Notizen vom Präsenztutorium zu nutzen.  Gruß Sokratis",
+                                    "Response to": "p1062476"
+                                },
+                                {
+                                    "Message_id": "p1067072",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-06T10:57:00+02:00",
+                                    "Content": "Hey Leute,  Anbei stelle ich euch meine Notizen für das heutige Onlinetutorium 3. Nächste Woche arbeiten wir mit Ubuntu. Da müsstet ihr unbedingt das auf eurem Rechner installieren oder in das Rechnernetz der TU verbinden. Gruß Sokratis",
+                                    "Response to": "p1064751"
+                                },
+                                {
+                                    "Message_id": "p1065443",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-01T14:58:09+02:00",
+                                    "Content": "Hey Leute,  Anbei die Notizen aus meinem Präsenztutorium. Ich hab auch die Datei für's Online-Tutorium aktualisiert. Da waren die Folien aus dem 1. Tutorium vorne dabei.  Gruß Sokratis",
+                                    "Response to": "p1062476"
+                                },
+                                {
+                                    "Message_id": "p1067998",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-07T19:56:28+02:00",
+                                    "Content": "Hey Leute,  Hier die Notizen aus meinem Tutorium heute.  Gruß Sokratis",
+                                    "Response to": "p1065443"
+                                },
+                                {
+                                    "Message_id": "p1070177",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-14T18:46:01+02:00",
+                                    "Content": "Hey Leute, Anbei meine Notizen aus dem 4. Tutorium. Ich habe auch die Beiträge zu den Notizen der vorherigen Tutorien korrigiert, da mir dort Fehler unterlaufen sind. Jetzt müssten alle PDF-Dateien da sein und auch den korrekten Namen haben. Wir sehen uns nächste Woche in Java. Gruß Sokratis",
+                                    "Response to": "p1067998"
+                                },
+                                {
+                                    "Message_id": "p1072679",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-22T16:07:32+02:00",
+                                    "Content": "Hallo an alle,  Anbei meine Notizen aus dem gestrigen Java Tutorium. In der ZIP-Datei sind auch die Java-Dateien mit Kommentaren.  Wir sehen uns in der morgigen Vorlesung! Gruß Sokratis",
+                                    "Response to": "p1070177"
+                                },
+                                {
+                                    "Message_id": "p1074879",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-28T18:53:47+02:00",
+                                    "Content": "Hey Leute,  Anbei meine Notizen und Programme des heutigen Tutoriums. Ich kündige das noch rechtzeitig über das Forum an, aber stellt euch drauf ein, dass ich meine Sprechstunde am 7. Juni in zwei Wochen vorverlegen werde auf wahrscheinlich den 6. Juni (Donnerstag), da ich nicht in Berlin sein werde. Habt noch einen schönen Abend!  Gruß Sokratis",
+                                    "Response to": "p1072679"
+                                },
+                                {
+                                    "Message_id": "p1078140",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-06-08T00:06:20+02:00",
+                                    "Content": "Hey Leute, hier meine Notizen und meine kommentierten Code-Dateien. Ich hab auch paar Anregungen für Zusatzaufgaben eingetragen. Gruß Sokratis",
+                                    "Response to": "p1074879"
+                                },
+                                {
+                                    "Message_id": "p1079167",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-06-11T18:41:34+02:00",
+                                    "Content": "Hallo, anbei meine Notizen und Programme vom Tutorium eben. Ich rate euch die Theoriefragen von heute euch anzugucken, bevor ihr euch meine Notizen anschaut. Gruß Sokratis",
+                                    "Response to": "p1078140"
+                                },
+                                {
+                                    "Message_id": "p1082102",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-06-20T17:17:18+02:00",
+                                    "Content": "Hey Leute, anbei meine Notizen und Programme vom Dienstag. An alle, die nicht in meinem Tutorium sind: Ich hab das Thema Überladen von Methoden (und Konstruktoren) in meinem Tutorium behandelt. Ich finde das Thema ist sehr wichtig, deshalb empfiehlt es sich die Datei MethodenUeberladen anzuschauen. Des Weiteren: Es kann sein, dass ich morgen zur Sprechstunde keinen Zugriff auf meinen Laptop habe, da ich wegen eines Defektes einen Techniker erwarte und das Zeitfenster typischerweise zwischen 8 und 13 Uhr liegt. Also worst case werde ich zur Zeit der Sprechstunde keinen Zugriff auf meinen Laptop haben, da meine Daten entweder gelöscht sind oder die Reparatur währenddessen erfolgt. Ich versuche für den Zoom-Raum das über mein Handy zu machen zur Not. Nur werde ich da für euch nicht Programmieren können, ich hoffe aber, dass alles gut verläuft. Für die Präsenz könnt ihr aber ohne Probleme in den MAR 5.050 kommen.  Gruß Sokratis",
+                                    "Response to": "p1079167"
+                                },
+                                {
+                                    "Message_id": "p1084061",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-06-26T15:26:42+02:00",
+                                    "Content": "Hi Leute, hier meine Notizen und Programme. Ich hab bei den Kommentaren u.a. mich stark auf die toString-Methode fokussiert. Hab nochmal das Beispiel neben den Fahrezugen (Fahrzeug, Auto, Motorboot) auch mit den Lebewesen gezeigt. Lest euch auch bitte die readME.txt-Datei durch. Gruß Sokratis",
+                                    "Response to": "p1082102"
+                                },
+                                {
+                                    "Message_id": "p1086699",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-07-04T20:57:16+02:00",
+                                    "Content": "Hi Leute, Anbei meine Notizen und Programme mit ausführlichen Kommentaren. Hab auch einen Fehler behoben. Hier sind übrigens zwei sehr hilfreiche Videos zu den Themen: Super-Schlüsselwort: https://www.youtube.com/watch?v=Qb_NUn0TSAU Abstrakte Klassen und Interfaces: https://www.youtube.com/watch?v=HvPlEJ3LHgE Gruß Sokratis",
+                                    "Response to": "p1084061"
+                                },
+                                {
+                                    "Message_id": "p1088216",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-07-09T18:12:19+02:00",
+                                    "Content": "Hi Leute, Anbei meine Notizen vom heutigen letzten Tutorium. Der Freitag, 12. Juli, wird meine letzte reguläre Sprechstunde sein. Die nächsten sind die jeweiligen Klausursprechstunden. Solltet ihr davor noch Fragen haben so stellt sie ins Forum. Bei Nachfrage werde ich, sollte der Bedarf verständlich sein, eine Sprechstunde anbieten.  Gruß Sokratis",
+                                    "Response to": "p1086699"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Anderes] - Sprechstunde fällt heute aus",
+                            "Discussion_Id": "606597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088060",
+                                    "Author": "Nam Thanh Pham",
+                                    "DateTime": "2024-07-09T13:13:23+02:00",
+                                    "Content": "Liebe Studierende, Ich muss meine Sprechstunde heute um 14 Uhr leider kurzfristig absagen.  Ab nächster Woche bin ich aber wieder für euch da.  Viele Grüße  Nam",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][Tutorium] Tutorium 11",
+                            "Discussion_Id": "603386",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083478",
+                                    "Author": "Lukas Tim Karal",
+                                    "DateTime": "2024-06-25T12:17:12+02:00",
+                                    "Content": "Liebe Studierende,  leider müssen die C-Tutorien (Tutorium 11 sowohl am Montag, den 01.07., als auch am Dienstag, den 02.07.) entfallen.  Ein Video eines Online-Tutoriums wird euch zur Verfügung gestellt. Bitte nutzt dieses, um den Stoff zu bearbeiten. Ihr könnt gerne Fragen im Forum oder in der Sprechstunde stellen. Meldet euch dazu gerne bei mir.  Viele Grüße  Lukas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Klausur] online",
+                            "Discussion_Id": "602918",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082805",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-24T09:41:56+02:00",
+                                    "Content": "Hallo,  die Klausur wird online stattfinden, dass heißt ihr könnt sie von überall aus schreiben.  Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Anderes] - Sprechstunde am Freitag vorgezogen",
+                            "Discussion_Id": "599153",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077307",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-06-05T14:01:23+02:00",
+                                    "Content": "Hey Leute,  Wie bereits letzte Woche erwähnt muss ich meine Sprechstunde diesen Freitag auf morgen vorverlegen.  Diese findet um 11 Uhr statt. Alles andere bleibt gleich. Kommt nach 15 Minuten keiner in den Zoom-Raum, so schließe ich schließen. Ich bin aber bis 12 Uhr im Raum MAR 5.050, falls jemand in Präsenz eine Frage hat.  Habt noch einen schönen Tag!  Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077597",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-06-06T10:44:14+02:00",
+                                    "Content": "Hey Leute,  Ich verspäte mich um 10 Minuten!  Gruß Sokratis",
+                                    "Response to": "p1077307"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][Tutorium] Montagstutorium 6. Woche.",
+                            "Discussion_Id": "596836",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073858",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-27T08:27:22+02:00",
+                                    "Content": "Hallo,  das 6. Tutorium heute ist nun endlich so wie geplant. Kommt gerne in den Raum https://tu-berlin.zoom.us/s/4440534061?pwd=b0VXbW1yM3N1U29ZVVU3bmF3QU50UT09 Bis gleich.  -TG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076212",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-02T22:46:01+02:00",
+                                    "Content": "Da letzte Woche eher spontan, nochmals die Erinnerung, dass die C-Tutorien unter dem Link: https://tu-berlin.zoom.us/s/4440534061?pwd=b0VXbW1yM3N1U29ZVVU3bmF3QU50UT09 stattfinden. Morgen könnte es aus witterungsbedingten Gründen ein ggf. paar Minuten später werden, aber ich komme auf alle Fälle.  Liebe Grüße Thomas",
+                                    "Response to": "p1073858"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][VL 6] - Folien online",
+                            "Discussion_Id": "596139",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072783",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-22T20:53:28+02:00",
+                                    "Content": "Hallo an alle, Wie die meisten von euch bereits wissen werden die morgigen Vorlesungen von mir (Java; 16:15 - 17:45 Uhr) und Lukas (C; 18:00 - 19:30 Uhr) vertretend gehalten. Die von uns benutzen Folien sind bereits online.  Ich habe so eben meine noch einmal ergänzt. Falls ihr wollt könnt ihr die Folien von Prof. Obermayer ebenfalls nutzen als Alternative. Die sind so ziemlich zu 99% gleich vom Inhalt her. Bis morgen! Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073431",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-24T15:48:15+02:00",
+                                    "Content": "Hi Leute,  Ich hab so eben gesehen, dass die alternativen Folien der 6. Vorlesung Java, also die Folien von Professor Obermayer, für euch verborgen waren (woops!). Ich habe sie nun öffentlich zugänglich gemacht, für den Fall, dass ihr mit denen dann auch lernen wollt. Habt noch ein schönes Wochenende! - Sokratis",
+                                    "Response to": "p1072783"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Anderes] - Installation von Java auf MAC OS",
+                            "Discussion_Id": "596538",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073372",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-24T13:52:33+02:00",
+                                    "Content": "Hallo an alle, am Dienstag hat man mich drauf hingewiesen, dass für die Installation von Java auf eurem MAC ein Schritt fehlt. Es handelt sich letztendlich um die Installation des Java Development Kit's (JDK), welches ihr hier euch auf der offiziellen Seite von Oracle runterladen könnt. Hier ist auch ein Youtube-video, welches die Installation wohl gut erklären soll. Falls ihr weitere Fragen habt könnt ihr mich per Mail kontaktieren. Gruß Sokratis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Pfingsten] Tutorien",
+                            "Discussion_Id": "595068",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071125",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-17T07:06:16+02:00",
+                                    "Content": "Hallo,  Es ist Pfingsten. Daher gibt es am Montag keine Tutorien.    C: Die C-Tutorien in der Woche entfallen leider komplett (auch am Dienstag). Nutzt dafür die bereitgestellten Videos.  Java: Geht bin in eine anderes Tutorium. Ersatzweiße finden am Di 21.05 zusätzlich 2 Tutorien statt (in MAR 6.001). Einmal von 10-12 und einmal von 12-14 Uhr. Ihr könnt aber auch die anderen regulären Tutorientermin besuchen. Ihr habt also Dienstag die Option um 10, 12, 14 und 16 Uhr ein Tutorium zu besuchen.   Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Anderes] - Beachten der Forumsregeln!",
+                            "Discussion_Id": "593964",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069392",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-13T10:56:22+02:00",
+                                    "Content": "Hallo an alle, Ich möchte euch bitte darauf hinweisen, dass ihr beim Benutzen des offenen Forums die Forumsregeln beachten sollt. Diese sind dafür da, dass auch andere, die eine Frage haben, das Thema anhand des Betreffs identifizieren können und wir die selbe Frage nicht in unterschiedlichen Threads besprechen müssen. Ihr habt zu Beginn des Semesters eine Abfrage absolviert, in welcher das nochmal gefragt wurde. Trotzdem hatte ich letzte Woche zwei Fälle, in welchen die Notation unvollständig war oder gar nicht angewendet wurde. Auch ist das offene Forum nicht dafür gedacht eure korrigierten Hausaufgaben zu besprechen und nachzufrage, wieso ihr bei einer Aufgabe eine entsprechende Bewertung erhalten habt. Nutzt dafür die Reklamation. Gruß Sokratis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Tutorium] - Tutorium 13.05. fällt aus",
+                            "Discussion_Id": "593884",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069255",
+                                    "Author": "Nam Thanh Pham",
+                                    "DateTime": "2024-05-13T01:09:02+02:00",
+                                    "Content": "Liebe Studierende, Krankheitsbedingt fallen meine heutigen Tutorien von mir aus. Alle die diese besuchen wollten, müssen diese Woche einmalig ein anderes Tutorium aufsuchen.  Ihr könnt auch in C-Tutorien gehen, da dort diese Woche noch der gleiche Inhalt wie im Java-Tutorium präsentiert wird.  MfG Nam",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Hausaufgabe] 3. HA im April versteckt",
+                            "Discussion_Id": "592177",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066547",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-03T17:08:53+02:00",
+                                    "Content": "Hallo, die 3. HA war ein Monat zu früh dran. Jetzt ist sie richtig eingestellt und von heute bis zum 12. Mai zu absolvieren.  Liebe Grüße Th",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Rechneraufbau][Tutorium] - Vertretung für Onlinetutorium",
+                            "Discussion_Id": "590476",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063940",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-28T11:00:37+02:00",
+                                    "Content": "Hallo an alle, Da Thomas weiterhin verhindert ist werde ich sein Tutorium morgen kurzfristig vertreten. Benutzt dabei bitte meinen Zoom-Link. Das Tutorium startet aber diesmal bereits um 8:15 Uhr, da ich direkt im Anschluss eine Vorlesung habe. Wir werden somit wenn alles glatt läuft um 9:45 Uhr fertig sein. Gruß Sokratis",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065787",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-02T12:22:21+02:00",
+                                    "Content": "Hey Leute, Thomas wird die kommenden Tutorien 3 und 4 ebenfalls nicht halten können, weshalb ich ihn erneut vertreten werde.  Der Zoom-Link ist wieder der selbe (s. o.) und wir starten erneut um 8:15 Uhr.  Gruß Sokratis",
+                                    "Response to": "p1063940"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Anmeldung] nur noch bis morgen",
+                            "Discussion_Id": "590450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063889",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-04-27T17:11:15+02:00",
+                                    "Content": "Liebe Studierende, ich möchte euch daran erinnern, dass ihr euch nur noch bis morgen anmelden könnt für die Tutorien und die HA-Abgabe. Zudem ist morgen auch die Deadline für erste HA, welche mit mind. 3 von 15 Punkten bestanden werden muss, damit ihr weitermachen dürft.  Vielen dank  Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Rechneraufbau][Tutorium 1] Mo 8:40 muss leider entfallen/verschoben werden",
+                            "Discussion_Id": "588154",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060316",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-04-21T21:50:44+02:00",
+                                    "Content": "Liebe Studierende,  leider habe ich sehr starke Zahnschmerzen und kann mein Mund inzwischen kaum noch öffnen, weswege ich mein TUtorium morgen um 8:40 nicht halten kann. Alle die dieses besuchen wollten, müssen diese Woche einmalig ein anderes Tutorium aufsuchen. Ihr könnt auch in Java-Tutorien gehen, da dort der gleiche inhalt wie im C-Tutorium präsentiert wird. Falls es mir während der Woche wieder besser werden sollte, biete ich vllt. spontan einen Ersatztermin an, es ist aber sicherer auf eines der anderen Tutorien auszuweichen.  Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Ankündigung] - Sprechstunden im kommenden Semester",
+                            "Discussion_Id": "587641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059509",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-19T12:17:39+02:00",
+                                    "Content": "Hallo an alle, Erst einmal freut es mich so viele in diesem Kurs zu sehen! Ich möchte euch nur mitteilen, dass die Sprechstunden zu den Tutorien erst ab kommender Woche beginnen. Bitte dazu den Reiter Zeiten und Räume, Mitarbeiter anschauen. In den ersten vier Tutorien werdet ihr in allen Tutorien das Thema Rechneraufbau haben, d.h. wenn Plätze frei sind könnt ihr euch in ein \"Java\"-Tutorium hinsetzen und Rechneraufbau lernen, auch wenn ihr C später machen wollt bzw. euch noch nicht sicher seid. Die Sprechstunden sind meist über Zoom. Wir versuchen zur Zeit aber auch die Option zu ermöglichen Sprechstunden ggf. in Präsenz oder in meinem Falle hybrid anzubieten. D.h. bei mir würdet ihr ggf. in der Lage sein in den Raum zu kommen und andere sind dabei per Zoom eingeschaltet und vice versa. Für Fragen bitte das Offene Forum unter den verlangten Notationen nutzen. Da werde ich zum thema Rechneraufbau und Java euch meist beantworten.  Gruß Sokratis",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][Ankündigung] Herzlich Willkommen",
+                            "Discussion_Id": "585057",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055743",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-04-09T09:46:46+02:00",
+                                    "Content": "Liebe Studierende,  herzlich Willkommen zum neuen Semester. In 6 Tagen geht es endlich los, wir starten dann mit PPR in 9 Tagen (in der ersten Woche gibt es keine Tutorien). Die finalen Termine der Tutorien wurden gestern festgelegt und sind unter https://isis.tu-berlin.de/mod/page/view.php?id=1794894 einsehbar. Für die Anmeldung (die in 9 Tagen startet) müsst ihr die Studiengangserhebung, den FAQ-Test und die Abfrage ob (Wahl)pflicht ausfüllen. Mehr dazu dann in der ersten VL: Wir freuen uns auf euch. Liebe Grüße Thomas",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Offenes Forum",
+                    "Forum_id": "1794890",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "[Allgemein] [Klausur] 2. Termin Klausur",
+                            "Discussion_Id": "605607",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086647",
+                                    "Author": "Nils Luca Steinke",
+                                    "DateTime": "2024-07-04T17:02:06+02:00",
+                                    "Content": "Der Termin für die 2. Klausur steht bei ISIS fest für (Di 27.09.2024) aber der 27.09.2024 ist ein Freitag.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086657",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-07-04T17:28:45+02:00",
+                                    "Content": "Hallo Nils,  Ich bin gerade im Gespräch dabei dafür eine Antwort zu finden. Zu 99% wird es wohl so sein, dass wir auf ISIS den falschen Wochentag eingetragen haben. Das muss ich mir aber noch bestätigen lassen.  Gruß Sokratis",
+                                    "Response to": "p1086647"
+                                },
+                                {
+                                    "Message_id": "p1088329",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-07-10T09:25:23+02:00",
+                                    "Content": "Die 2. Klausur findet am Fr 27.09.24 statt. Danke für den Hinweis. Es ist korrigiert.",
+                                    "Response to": "p1086657"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[JAVA][HA10][A8] Feedback zur Aufgabenstellung",
+                            "Discussion_Id": "605071",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085902",
+                                    "Author": "Fabian Magnus Ozegowski",
+                                    "DateTime": "2024-07-02T16:44:21+02:00",
+                                    "Content": "Guten Tag, da nun die HA10 abgeschlossen ist und die Musterlösungen einsichtbar sind, möchte ich kurz ein Feedback zur Aufgabe 8 abgeben. Ich bin der Meinung, dass die Aufgabenstellung zu viel Interpretationsspielraum zugelassen und somit keine eindeutige Lösung ermöglicht hat. Das Attribut lebtImWasser ließe sich beispielsweise auch der Tier-Elternklasse zuordnen. Ein ähnliches Problem tritt für kannSprechen der Papagei-Klasse auf, da es auch andere Vögel gibt, die sprechen können und es somit Sinn ergibt, auch hier das Attribut in die Elternklasse \"Vogel\" aufzunehmen. Die Hinweise hierzu waren für mich nicht aufschlussreich sondern eher verwirrend. Ein weiterer Punkt ist die Uneindeutigkeit der saugen-Methode. Diese ließe sich ohne weitere Erläuterung der Methode auch der Elefanten-Klasse zuordnen, da diese Tiere als großes Alleinstellungsmerkmal einen Rüssel besitzen, der u.a. zum Saugen da ist. Diese Uneindeutigkeiten sind zwar für die übergeordnete Hausaufgabe kein großes Problem, da die Anforderungen zum Bestehen sehr großzügig sind, jedoch ändert sich dies, wenn eine solche Aufgabe in der Klausur verwendet wird, da dort natürlich jeder Punkt zählt. Ich bitte daher darum, keinen Interpretationsspielraum zu lassen bzw. mehrere Lösungsmöglichkeiten zuzulassen, sofern diese Aufgabenart auch in der Klausur Verwendung findet.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085921",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-07-02T17:13:41+02:00",
+                                    "Content": "Hallo,  vielen Dank für das Feedback. Tatsächlich sind Modellierungsaufgaben immer recht schwierig eindeutig zu lösen, da es semantisch unter anderem einen Handlungsspielraum gibt. Die automatische Korrektur hat genau dann Schwierigkeiten, da es technisch sehr komplex ist, alle möglichen Optionen abzudecken und auch das Lehrteam nicht alle möglichen Optionen erfassen kann, selbst wenn jeder es 10 mal durchgeht. Bei Hausaufgaben gibt es glücklicherweise die Reklamation, die benutzt werden kann. Dies kannst du also auch in diesem Fall tun, sofern du meinst, dass dir mehr Punkte zustehen. In der Klausur geben versuchen wir das nicht so offen zu gestalten und zudem wird jede Aufgabe auch direkt händisch von uns überprüft, sodass Alternativen, die richtig sind auch maximal bepunktet werden.   Liebe Grüße Thomas  PS: In der Tat sollte der Hinweis 4 dazu dienen, die vorgesehende Zugehörigkeit anzudeuten",
+                                    "Response to": "p1085902"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][HA9][A8] ",
+                            "Discussion_Id": "601828",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081216",
+                                    "Author": "Lilo Kuhs",
+                                    "DateTime": "2024-06-18T14:13:24+02:00",
+                                    "Content": "Hallo, ich habe bei dieser Aufgabe den Code in \"Visual Studio Code\" geschrieben (wie immer eigentlich) und dann die zu ergänzenden Teile des Codes nach ISIS kopiert. Die Ergebnisse sind richtig nur wird mir bei der letzten Prüfung als Ausgabe meines Codes folgendes gezeigt (siehe Bild) . Ich habe aber weder diese Wörter im Code, noch irgendwas an den Variablennamen geändert.  Woran kann das liegen?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C] [HA 8] [A 8]",
+                            "Discussion_Id": "600979",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079985",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-06-13T18:54:10+02:00",
+                                    "Content": "1. Die main-Funktion soll laut kommentar nicht bearbeitet werden. Im Bild wird erkenntlich, dass allerdings zusätzliche Ausgaben gefragt sind. Diese waren im Originalcode abernicht enthalten.(siehe bild 1) 2. Die letzte fehlermeldung ist bei  \"Testet ob Ausgaben in der Funktion berechnePaketkosten zu finden sind\". Nach welchen Ausgaben genau wird gesucht?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080563",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-17T09:30:12+02:00",
+                                    "Content": "Hallo,  Sry, die Frage ist untergegangen. Mit der Musterlösung sollten die Antworten hoffentlich klar sein.  Liebe Grüße Thomas",
+                                    "Response to": "p1079985"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][HA 8][A9]",
+                            "Discussion_Id": "599790",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078243",
+                                    "Author": "Eric Theiler",
+                                    "DateTime": "2024-06-09T12:40:23+02:00",
+                                    "Content": "Guten Tag, ich habe meinen Code für die Antwort mithilfe von https://www.programiz.com/c-programming/online-compiler/ geschrieben, in dem ich folgenden Output habe.    1:1 der selbe Code gibt jedoch in ISIS folgenden Output:    Woran könnte das liegen?  Vielen Dank für die Antworten im Voraus!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078865",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-11T10:17:55+02:00",
+                                    "Content": "Du hast in deiner Schleife etwas vergessen, sodass es auf manchen Compiler zwar noch funktioniert auf anderen aber nicht. Auf meinen PC funktioniert es bspw. auch nicht.  Liebe Grüße Thomas",
+                                    "Response to": "p1078243"
+                                },
+                                {
+                                    "Message_id": "p1080059",
+                                    "Author": "Eric Theiler",
+                                    "DateTime": "2024-06-14T09:41:13+02:00",
+                                    "Content": "Danke für den Tipp, habe den Fehler direkt entdeckt!",
+                                    "Response to": "p1078865"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][HA 8][A 6] Sprung nach 'break'",
+                            "Discussion_Id": "600022",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078601",
+                                    "Author": "Johannes Thyssen Tishman",
+                                    "DateTime": "2024-06-10T14:26:55+02:00",
+                                    "Content": "In den Anweisungen für die Handsimulation wird angegeben, dass nach einem „break“ ein Sprung zur nächsten Zeile nach der Schleife erfolgen soll. Gilt dies auch für den „switch-case“?  Wenn dies der Fall ist, würde in meiner Lösung eine zusätzliche Zeile in der Tabelle übrig bleiben (was falsch sein sollte, da die Anzahl der Zeilen genau sein sollte). Ich habe meine Lösung mehrfach geprüft und kann keinen Fehler finden. Könnte das vielleicht ein Fehler in der Aufgabe sein?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078857",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-11T10:07:17+02:00",
+                                    "Content": "bei switch-case müsste die nächste Zeile die schließende Klammer des switch-blockes sein. Geht das dann immer noch nicht auf?  Liebe Grüße Thomas",
+                                    "Response to": "p1078601"
+                                },
+                                {
+                                    "Message_id": "p1079209",
+                                    "Author": "Johannes Thyssen Tishman",
+                                    "DateTime": "2024-06-11T21:05:27+02:00",
+                                    "Content": "Ja danke. Das macht mehr Sinn. Grüße, Johannes",
+                                    "Response to": "p1078857"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][HA 7][A10] ",
+                            "Discussion_Id": "599224",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077419",
+                                    "Author": "Lilo Kuhs",
+                                    "DateTime": "2024-06-05T17:52:26+02:00",
+                                    "Content": "Hallo, ich habe meinen Code für diese Aufgabe schon mehrmals auf meinem Laptop kompiliert und die Ausgaben und auch die Formation war immer richtig, so wie die Anforderungen auf ISIS beschrieben sind. Ich habe das Ergebnis schon 2 Mal geprüft und trotzdem wird mir immer angezeigt, dass alles falsch ist. Die Absätze werden, obwohl sie richtig gesetzt sind und auch auf meinem Compiler richtig erscheinen, nicht von ISIS anerkannt. Soll ich die Aufgabe einfach nicht mehr prüfen und später reklamieren? Oder gibt es eine bestimmte Anforderung beim Setzen von Absätzen, außer \\n, sodass das Format mit dem der Anforderungen übereinstimmt? Viele Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078861",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-11T10:10:30+02:00",
+                                    "Content": "Hallo,  eigentlich hatte ich dir vor einigen Tagen schon geantwortet, sehe aber gerade, dass die Antwort nicht in ISIS ankam. Es gibt einen Button Unterschiede anzeigen, mit dem Unterschiede markiert werden.  Liebe Grüße Thomas",
+                                    "Response to": "p1077419"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C] [HA 7] [A 8]",
+                            "Discussion_Id": "598927",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076979",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-06-04T16:28:06+02:00",
+                                    "Content": "Die Quadrate werden mir richtig ausgegeben, jedoch ist der genutzte Datentyp (Integer) für das Array laut dem ISIS-Compiler falsch. Wieso ist das so? Aus dem gegebenen Code wird kein geforderter Datentyp klar und es läuft ja auch.  VG Elia Claes",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077140",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-06-05T09:10:22+02:00",
+                                    "Content": "ASCII-Zeichen werden aus Konvention in characters gespeichert. FAlsch ist die andere Antwort natürlich nicht, weswegen du es. dann bei einer Reklamation versuchen könntest.  Nur die automatische Kontrolle rechnet nicht damit.  -TG",
+                                    "Response to": "p1076979"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][HA 6] Öffnen der Hausaufgabe 6",
+                            "Discussion_Id": "596575",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073420",
+                                    "Author": "Johanna Victoria Pitulle",
+                                    "DateTime": "2024-05-24T15:28:31+02:00",
+                                    "Content": "Die Hausaufgabe 6 ist noch nicht für dieses Semester geöffnet worden.  Könnte jemand dies tun? Ich wünsche ein schönes Wochenende.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073430",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-24T15:46:52+02:00",
+                                    "Content": "Hallo Johanna,  Danke für den Hinweis! Da gab es wohl einen Fehler beim Einstellen des Jahres.  Die Hausaufgabe wurde nun für alle, die die 5. Hausaufgabe bestanden haben, freigeschaltet.  Dir auch noch ein schönes Wochenende! - Sokratis",
+                                    "Response to": "p1073420"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][HA 5] - Probetests geschlossen",
+                            "Discussion_Id": "595673",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072119",
+                                    "Author": "Matthias Köhler",
+                                    "DateTime": "2024-05-21T14:01:42+02:00",
+                                    "Content": "Ist möchte gerne darauf aufmerksam machen, dass die Probetests für Java und C seit Sonntag, 26. November 2023, 23:59 Geschlossen sind. Könnten diese noch freigeschaltet werden?  (Geändert von Sokratis Panagiotidis - Notation ergänzt Originaleintrag Dienstag, 21. Mai 2024, 14:01)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1072133",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-21T14:15:42+02:00",
+                                    "Content": "Hallo Mathias,  Die müssten jetzt beide offen sein. Andernfalls melde dich bitte nochmal.  Gruß Sokratis",
+                                    "Response to": "p1072119"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[C][HA 5][A 9] Unklare Aufgabenstellung",
+                            "Discussion_Id": "595220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071359",
+                                    "Author": "Johannes Thyssen Tishman",
+                                    "DateTime": "2024-05-17T15:53:16+02:00",
+                                    "Content": "Ich bin etwas verwirrt von der Aufgabe Nr. 9. Mein Programm liefert für jede vom Benutzer angegebene Zahl das richtige Ergebnis. Wenn ich das Ergebnis prüfe, sagt die erste Zeile, dass mein Programm korrekt ist, aber die zweite sagt folgendes:  X // Teste exakte Ausgabe ohne richtig eingefügte Zahl --> Leider nicht! Mein Programm prüft nicht, ob die Benutzereingabe innerhalb des durch den Hinweis angegebenen Bereichs liegt, da es eindeutig besagt, dass wir einfach davon ausgehen können, dass es so ist: Ihr könnt davon ausgehen, dass für das eingegebene Alter von Fritz immer gilt: 1 <= Fritz <= 125  Müssen wir prüfen, ob die Eingabe innerhalb dieser Grenzen liegt? Und wenn sie außerhalb der Grenzen liegt, was wird dann von uns erwartet? Die Angaben hierzu sind etwas unklar.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1071466",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-17T22:01:03+02:00",
+                                    "Content": "Hallo,  das Problem sind deine Multiple Strings in printf. Da wir das so nicht beibringen, erwarten wir das nicht, sodass es zu dem Problem bei der Bewertung kommt. Wir korrigieren das händisch nach (du musst das einfach bei der Reklamation dann einreichen, gerne auch mit  Link auf diesen Forumsbeitrag)  Liebe Grüße Thomas",
+                                    "Response to": "p1071359"
+                                },
+                                {
+                                    "Message_id": "p1071479",
+                                    "Author": "Johannes Thyssen Tishman",
+                                    "DateTime": "2024-05-17T23:59:11+02:00",
+                                    "Content": "Soll ich also den Test einfach so wie er ist abgeben und nächsten Sonntag eine Reklamation einreichen?",
+                                    "Response to": "p1071466"
+                                },
+                                {
+                                    "Message_id": "p1071490",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-18T08:21:19+02:00",
+                                    "Content": "genau (wir könnten das erst nach abgabe händisch korrigieren und brauchen dann einfach eine kleine Erinnerung)  Liebe Grüße Thomas",
+                                    "Response to": "p1071479"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][TUT] Tutorien nächste Woche ",
+                            "Discussion_Id": "593889",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069263",
+                                    "Author": "Nuria Mira Lewine Holle",
+                                    "DateTime": "2024-05-13T03:33:11+02:00",
+                                    "Content": "Hallo, ich wollte einmal kurz nachfragen, wie das mit den Tutorien nächste Woche läuft, wenn ein Teil aufgrund von Pfingstmontag ausfällt und der andere Teil aber stattfindet. Sollten wir dann alle ein Tutorium am Dienstag besuchen oder werden die an einem anderen Tag nachgeholt? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070259",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-15T07:31:15+02:00",
+                                    "Content": "Hallo,  das klärt sich - hoffentlich - im laufe von heute. Was ich schonmal sagen kann ist, dass am Montag definitiv nichts stattfinden wird.  Liebe Grüße Thomas",
+                                    "Response to": "p1069263"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA] [HA 4] [A 7] Zeitscheibe",
+                            "Discussion_Id": "594476",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070184",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-05-14T19:26:36+02:00",
+                                    "Content": "Leider ist mir nicht klar wann genau das Untergeordnete Programm M seinen Status ändert.  1.) Tut es das nur, während das wichtige Programm P entweder \"asleep\" oder \"impeded\" ist?  2.) Oder tut es das auch zwischen Zeitschritten, solange P nicht läuft bzw. \"running\" ist?  3.)Und wenn es so ist, ändert M auch seinen Status während P seinen status von running zu asleep oder von ready to run to running ändert?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070190",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-14T19:49:50+02:00",
+                                    "Content": "Hi Elia, Generell ändert ein Prozess (nicht Programm) seinen Zustand, wenn dies denn erfordert ist. P und M können nicht gleichzeitig laufen, also im Zustand running sein. M wird hier aber weniger Priorität haben als P, d.h. falls möglich ist P im Zustand running.  Wenn P im Zustand asleep ist, denn preempted ist es nicht, versucht M so viel auszuführen wie nur möglich unter der Beachtung im Text. Wenn aber P in running ist, so muss M dann dem Text zufolge entweder asleep oder preempted sein.  Hat das deine Frage beantwortet?  Gruß Sokratis",
+                                    "Response to": "p1070184"
+                                },
+                                {
+                                    "Message_id": "p1070207",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-05-14T21:16:28+02:00",
+                                    "Content": "Hi Sokratis,  das hilft! Nur ist mir unklar ob M einen Teil des Programms, wie z.B. das Rätsel zu lösen, in mehrere running-Phasen aufteilen kann und zwischendurch zu asleep wechselt? Heißt preemted, dass der Vorgang unterbrochen wurde und deshalb das Programm wartet, sodass es weitermachen kann?  VG Elia",
+                                    "Response to": "p1070190"
+                                },
+                                {
+                                    "Message_id": "p1070211",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-14T21:44:34+02:00",
+                                    "Content": "Hi Elia, Der Unterschied zwischen asleep und preempted ist wie folgt zu verstehen: asleep: Der Prozess will arbeiten (running), aber ihm fehlen bestimmte Daten/Informationen, um weiter zu machen, und er verlässt freiwillig die CPU für mindestens einen Zeitschritt. Das kann z.B. eine Benutzereingabe sein. preempted: Der Prozess hat alles Nötige bei sich und will arbeiten, doch wird ihm die CPU entzogen, da nun ein anderer Prozess eine höhere Priorität hat. Dies ist immer nur für einen Zeitschritt möglich, ehe er dann wieder bereit ist.  Generell kann ein Prozess so oft wie er will/wie nötig eine Schleife um den selben Befehl machen, ehe er dann fertig ist. Ziel der Aufgabe ist es mit der Beschreibung und den Tipps zu erkennen, wie du die Zeitschritte von M so eingeben musst, dass M schnellstmöglich beendet wird und dabei die Priorität von P nicht in Frage stellt.  Ist damit deine Frage beantwortet?  Gruß Sokratis",
+                                    "Response to": "p1070207"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein] [VL 4] - Folien der VL",
+                            "Discussion_Id": "593510",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068649",
+                                    "Author": "Lilo Kuhs",
+                                    "DateTime": "2024-05-09T18:19:28+02:00",
+                                    "Content": "Hallo, ich hab es aus zeitlichen Gründen nicht zu der Vorlesung am Montag (06.05.2024) geschafft und wollte mal nachfragen, ob die Folien für die VL 4 noch veröffentlicht werden können? VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068758",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-10T10:12:38+02:00",
+                                    "Content": "Hi Die Folien sind jetzt online.  Gruß Sokratis",
+                                    "Response to": "p1068649"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA][HA2][A10] - Überprüfung ",
+                            "Discussion_Id": "593345",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068387",
+                                    "Author": "Mouhib Selmi",
+                                    "DateTime": "2024-05-08T16:41:42+02:00",
+                                    "Content": "Hallo ,  bei der HA2 war die Frage 10 falsch laut ISIS obwohl ich nochmal selber die Schaltung kontrolliert habe und die 8 fälle waren richtig . können wir eventuell sie nochmal überprüfen ?  LG (Geändert von Sokratis Panagiotidis - Notationen vergessen  Originaleintrag Mittwoch, 8. Mai 2024, 16:41)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068403",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-08T17:00:27+02:00",
+                                    "Content": "Hallo Mouhib,  Erstens bitte ich dich die Notation für deine Fragen zu beachten. Die stehen im Forum oben und sind hilfreich, sodass andere Studenten die Frage zuordnen können.  Zweitens ist dies ein Anliegen über eine abgeschlossene Hausaufgabe und ist somit nicht im offenen Forum zu diskutieren, sondern musst du eine Reklamation erstellen und dort dein Anliegen uns mitteilen, indem du die Hausaufgabe und die Aufgabe erwähnst und was genau das Problem ist.  Gruß Sokratis",
+                                    "Response to": "p1068387"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA] [HA 3] [A 9] Shiftbefehl",
+                            "Discussion_Id": "593072",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067952",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-05-07T17:52:56+02:00",
+                                    "Content": "Wie genau nutze ich den SH-Befehl. Innerhalb der gefundenen Literatur sieht dieser Befehl leider anders aus. Beispiel: Wenn ich die Zahl M=0100 (binär) um eine Stelle nach links verschieben möchte und die Zahl schon im AC gespeichert ist, lautet der Befehl dann SH 1 oder SH -1? Ich gehe davon aus, dass der Vorzeichenwechsel auch einen Richtungswechsel mit sich zieht.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067965",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-07T18:20:58+02:00",
+                                    "Content": "Hi Elia,  Ähnlich wie in deiner Frage zur Aufgabe 8 findest du die Antwort in den Vorlesungsfolien (einfach zu meiner Antwort deiner anderen Frage gehen und den Link klicken). Diesmal ist es die Seite/Folie 38 unter dem Punkt \"Schiebe-Operationen\" (Bei deiner anderen Frage musst du den Punkt \"Arithmetische Operationen\" aufsuchen, das habe ich vergessen zu erwähnen). Dort wird in einem Satz deine Frage, welches Vorzeichen und welche Richtung es sind perfekt beantwortet.  Sollte noch etwas unklar sein, schreib gerne ins Forum wieder rein.  Gruß Sokratis",
+                                    "Response to": "p1067952"
+                                },
+                                {
+                                    "Message_id": "p1068121",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-05-08T09:56:31+02:00",
+                                    "Content": "Danke sehr!",
+                                    "Response to": "p1067965"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA] [HA 3] [A 8] - Multiplikationsbefehl",
+                            "Discussion_Id": "593058",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067931",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-05-07T17:14:39+02:00",
+                                    "Content": "Man soll das Assemblerprogramm vervollständigen. Als Kommentar hinter dem auszufüllenden Befehl steht : \" \"Multipliziert den Wert an Adresse  mit dem im AC und speichert das Ergebnis im AC.\"  Was ist der Befehlkürzel für die Multiplikation? Im Tutorium wurde dieser nicht genannt.  (Geändert von Sokratis Panagiotidis - Ergänzung des Themas im Titel Originaleintrag Dienstag, 7. Mai 2024, 17:14)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067961",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-07T18:15:19+02:00",
+                                    "Content": "Hi Elia,  In den Vorlesungsfolien der 3. Vorlesung findest du die arithmetischen Operatoren auf Seite/Folie 37 unter dem Punkt \"Arithmetische Operationen\".  Den Link zu den Folien der Vorlesung habe ich dir hier verlinkt.  Gruß Sokratis",
+                                    "Response to": "p1067931"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA][HA2][A7] Auswertung",
+                            "Discussion_Id": "592414",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066967",
+                                    "Author": "Leona Leytes",
+                                    "DateTime": "2024-05-06T08:52:50+02:00",
+                                    "Content": "Bei mir stehen in der Auswertung bei *was ist rausgekommen* Sachen, die ich nicht so eingegeben habe. Kann es sein, dass dort etwas generell falsch gelaufen ist, oder ist es nur bei mir so?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067006",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-06T09:36:35+02:00",
+                                    "Content": "Hallo Leona,  Es handelt sich hier um eine abgeschlossene Hausaufgabe. Daher bitte ich dich das in der Reklamation einzureichen und das Anliegen zu erklären.  Gruß Sokratis",
+                                    "Response to": "p1066967"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Welchen Assembler Satz benutzen wir?",
+                            "Discussion_Id": "592295",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066767",
+                                    "Author": "Luka Rancic",
+                                    "DateTime": "2024-05-05T09:42:40+02:00",
+                                    "Content": "Ich konnte in den Vorlesungsfolien nicht finden welchen Assembler Satz wir benutzen. Es ist offensichtlich nicht MIPS.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1066773",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-05T10:25:34+02:00",
+                                    "Content": "Hallo Luka,  bitte benutze die von uns gestellte Notation hier in den Foren bevor du deine Frage stellst. Ich kann deine Frage nicht zuordnen, ob es um die Vorlesung, Tutorium oder Hausaufgaben ist.  Gruß Sokratis",
+                                    "Response to": "p1066767"
+                                },
+                                {
+                                    "Message_id": "p1066778",
+                                    "Author": "Eric Theiler",
+                                    "DateTime": "2024-05-05T11:08:57+02:00",
+                                    "Content": "Ich denke, er meint die Assembler Sprache aus z.B. den letzten Quiz-Coding-Aufgaben. Das wuerde mich auch sehr interessieren, damit man neben den Hausaufgaben noch etwas ueben kann.  LG",
+                                    "Response to": "p1066773"
+                                },
+                                {
+                                    "Message_id": "p1066780",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-05-05T11:19:11+02:00",
+                                    "Content": "Hey,  Man kann sich mit den Hausaufgaben sehr gut an die Folie 5 vom 3. Tutorium oder auch den Folien 37-38 der 3. Vorlesung richten.  Da stehen alle Begriffe, die wir so ziemlich benutzen. Wenn es noch Unklarheiten gibt dann gebt Bescheid. Nächstes Mal bitte ich euch aber die Notationen beim Fragestellen einzuhalten.  Gruß Sokratis",
+                                    "Response to": "p1066778"
+                                },
+                                {
+                                    "Message_id": "p1066784",
+                                    "Author": "Luka Rancic",
+                                    "DateTime": "2024-05-05T11:24:47+02:00",
+                                    "Content": "Also benutzen wir keine richtige Assembler Sprache? Scheint so als waere das ne art pseudo assembler.",
+                                    "Response to": "p1066780"
+                                },
+                                {
+                                    "Message_id": "p1066819",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-05-05T13:59:11+02:00",
+                                    "Content": "Hallo Luka,  Der gegebene Satz von Assembler-Befehlen entspricht einer hypothetischen Befehlssatzarchitektur. Diese Architektur unterstützt grundlegende Operationen wie Transfer, arithmetische, logische und Schiebeoperationen sowie Kontrollfluss- und Systembefehle. Die Folien in der VL und TUT dienen dabei als Grundlage. Eine sehr übersichtliche und ausführliche Liste findet sich auch im (veralteten) Skript. Ziel der ersten 4 VL ist eine Übersicht über den Rechneraufbau, der gut und gerne auch in 2 kompletten VL-Reihen vertieft werden kann.  Auch das CPU-Schaltbild + Tabelle ist eine Vereinfachung.  Liebe Grüße Thomas",
+                                    "Response to": "p1066784"
+                                },
+                                {
+                                    "Message_id": "p1066829",
+                                    "Author": "Luka Rancic",
+                                    "DateTime": "2024-05-05T15:01:52+02:00",
+                                    "Content": "Ah okay ich verstehe, vielen Dank fuer die Klarstellung.",
+                                    "Response to": "p1066819"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA][HA 2][A 11] Erweiterte AND- und OR-Gatter",
+                            "Discussion_Id": "591246",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065110",
+                                    "Author": "Joost Frieder Pudewill",
+                                    "DateTime": "2024-04-30T14:25:52+02:00",
+                                    "Content": "Eine kurze Frage zu dem Schaltungsbautool bei den Hausaufgaben:  Können das AND- sowie das OR-Gatter auch mit mehr als zwei Eingangselementen verwendet werden oder entsteht dadurch bei der Auswertung ein Fehler?  Schon mal vielen Dank für die Antwort!  (Geändert von Sokratis Panagiotidis - Ergänzung der Aufgabe im Titel.  Originaleintrag Dienstag, 30. April 2024, 14:25)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065121",
+                                    "Author": "Sokratis Panagiotidis",
+                                    "DateTime": "2024-04-30T14:44:04+02:00",
+                                    "Content": "Hey,  Ja kannst du machen, wenn du meinst du selbst machst keinen Fehler.  Bitte schreib mir noch welche Aufgabe genau das ist, dass ich das ergänzen kann in deiner Frage, sodass andere Teilnehmer die Frage zuordnen können.  Gruß Sokratis",
+                                    "Response to": "p1065110"
+                                },
+                                {
+                                    "Message_id": "p1065213",
+                                    "Author": "Joost Frieder Pudewill",
+                                    "DateTime": "2024-04-30T16:40:35+02:00",
+                                    "Content": "Hallo Sokratis,  vielen Dank für Deine Antwort. Es war eher eine allgemeine Frage zu den Gattern - relevant wäre es evtl. bei Bearbeitung von Aufgabe 11, da hier 4 Eingabeelemente verarbeitet werden müssen.  Viele Grüße  Joost",
+                                    "Response to": "p1065121"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA][HA 1][A 16] Bedeutung von \"bevor\"",
+                            "Discussion_Id": "590505",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063985",
+                                    "Author": "Nicholas Passon",
+                                    "DateTime": "2024-04-28T15:45:41+02:00",
+                                    "Content": "In Aufgabe 16 wird die Formulierung \"bevor er mit dem Exzess verrechnet wird\" verwendet. Welche Richtung der Rechnung ist hier gemeint, d.h. was bedeutet hier bevor? Da ich in einem offenen Forum natürlich keine detaillierten Fragen zur Hausaufgabe stellen darf, hier der Versuch einer vagen Frage: ist hier die Richtung der Rechnung gemeint, sodass die Verrechnung zwischen 3. und 5. stattfindet oder ist hier die entgegengesetzte Richtung gemeint, wie in Aufgabe 15, sodass hier schon der Schritt für 5. getan werden muss? Vielen Dank, Nicholas",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063988",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-04-28T16:00:04+02:00",
+                                    "Content": "Die Zahl muss im Dezimalsystem angegeben werden und kann (theoretisch) noch negativ sein. Hilft das?",
+                                    "Response to": "p1063985"
+                                },
+                                {
+                                    "Message_id": "p1063992",
+                                    "Author": "Nicholas Passon",
+                                    "DateTime": "2024-04-28T16:11:48+02:00",
+                                    "Content": "Ja, vielen Dank.",
+                                    "Response to": "p1063988"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[RA] [HA 1] [MC] Rechtschreibfehler mit Kontextfolgen",
+                            "Discussion_Id": "587859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059845",
+                                    "Author": "Elia Yamin Claes",
+                                    "DateTime": "2024-04-19T18:55:44+02:00",
+                                    "Content": "Hallo, Bezüglich der 2.Aufgabe der 1. HA. die Frage lautet: \"Welche Aussagen zu Mantissen ist korrekt?\" Heißt es eigentlich AussagE oder SIND?  VG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059849",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-04-19T19:10:52+02:00",
+                                    "Content": "...sind...  ich habe es korrigiert. Vielen Dank für den Hinweis.",
+                                    "Response to": "p1059845"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Allgemein][TUT] Anmeldung",
+                            "Discussion_Id": "587523",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059309",
+                                    "Author": "Leona Leytes",
+                                    "DateTime": "2024-04-18T23:34:06+02:00",
+                                    "Content": "In der Vorlesung heute wurde gesagt, dass heute ab 21:00 die Anmeldung zum Tutorium möglich sein sollte. Ich habe alle drei Befragungen abgeschlossen, aber es ändert sich nichts. Bei mir steht noch, dass die Frist am 29.10.23 abgelaufen sein soll. Wie kriegt man sich angemeldet? Danke schonmal!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059314",
+                                    "Author": "Thomas Michael Goerttler",
+                                    "DateTime": "2024-04-19T03:51:31+02:00",
+                                    "Content": "Entschuldige. Da ists ein kleiner Fehler vorgefallen. Ist nun bereinigt und nun sollte es funktionieren.  Liebe Grüße Thomas",
+                                    "Response to": "p1059309"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

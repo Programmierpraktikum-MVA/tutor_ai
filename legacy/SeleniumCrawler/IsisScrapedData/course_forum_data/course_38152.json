@@ -1,0 +1,77 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Advanced Bioanalytics",
+        "Course_id": "38152",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "news",
+                    "Forum_id": "1781996",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "preparation material available",
+                            "Discussion_Id": "597601",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075052",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-05-29T11:58:51+02:00",
+                                    "Content": "Hello *, If you have registered through MTS, you have been designated as a \"participant\". Once you have completed the survey titled \"Survey: Level of confidence (before the course)\", this designation gives you access to the preparation material. In order to earn portfolio points, please go through it and submit at least one question that you still have after reviewing it. The material provides a concise overview of Fourier transformation before delving into the subjects of electron microscopy, mass spectrometry, and structural modeling. Please be advised that we are currently finalising the structural modelling part. Once this is complete, we will share it with you. Best regards,  Christian",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076464",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-06-03T13:55:32+02:00",
+                                    "Content": "Update: Structural modelling preparation material is now available.",
+                                    "Response to": "p1075052"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Preparation meeting this Wednesday ",
+                            "Discussion_Id": "592420",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066979",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-05-06T09:06:07+02:00",
+                                    "Content": "Hi *, the preparation meeting will take place this Wednesday (8th May), 10:30 - 12:00 (s.t.), in our seminar room TIB17-478. à https://www.tu.berlin/rappsilberlab/anfahrt Looking forward to meeting you then, Best wishes, Juri and Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "helpline forum",
+                    "Forum_id": "1781998",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Preperation material",
+                            "Discussion_Id": "597575",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075018",
+                                    "Author": "Alva Kahra",
+                                    "DateTime": "2024-05-29T10:59:53+02:00",
+                                    "Content": "Hi,  I just wanted to know when we will get the material for the preperation. In the prep meeting you said we would get it the next week and now it's 3 weeks later. Would be nice to have it soon, so i can plan when to do what.  Kind regards  Alva ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075046",
+                                    "Author": "Christian Forbrig",
+                                    "DateTime": "2024-05-29T11:50:46+02:00",
+                                    "Content": "Sorry for the delay, I will share it today.",
+                                    "Response to": "p1075018"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

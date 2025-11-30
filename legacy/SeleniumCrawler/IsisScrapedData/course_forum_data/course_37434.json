@@ -1,0 +1,135 @@
+[
+    {
+        "Course_Name": "Entrepreneurial Marketing SoSe 24",
+        "Course_id": "37434",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1758957",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Grades",
+                            "Discussion_Id": "604126",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084495",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-06-27T18:06:45+02:00",
+                                    "Content": "Dear students, you find your grades under section 'Grades'. Kind regards Mona",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085217",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-07-01T11:29:53+02:00",
+                                    "Content": "Dear students,  just for your information: we will send the grades on Wednesday to the examination office. We hope you enjoyed the course and wish you all the best!  Kind regards Mona",
+                                    "Response to": "p1084495"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam",
+                            "Discussion_Id": "599190",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077366",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-06-05T16:08:14+02:00",
+                                    "Content": "Dear students, here some information about the upcoming exam. This is an open-book exam. You are allowed to bring any material. You have 60 minutes to answer the questions.  June 12 4 pm: Case study is available You'll be able to read the case-study. June 14 4 pm: Exam The exam will take place in Room H 3006 as indicated on ISIS. Please bring your laptops because it will be available on ISIS. We will control if you are present during the exam so please also bring your student IDs. Before you are able to start your exam, you are required to give your consent to Declaration of Autonomy by marking the checkbox. Afterwards, you are able to access the exam. Everything exam-related can be found under section 'Exam' in the ISIS course. Kind regards and good luck :) Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MTS registration until tomorrow 11:59 PM",
+                            "Discussion_Id": "594040",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069507",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-05-13T13:51:22+02:00",
+                                    "Content": "Dear students, those who preregistered but forgot to register via Moses can now do so until tomorrow (May 14) at 11:59 PM. Kind regards, Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsApp Group",
+                            "Discussion_Id": "593513",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068654",
+                                    "Author": "Kathrin Forchhammer",
+                                    "DateTime": "2024-05-09T18:43:40+02:00",
+                                    "Content": "Dear Participants,  in case you missed the link for the WhatApp group in the Zoom chat:  https://chat.whatsapp.com/KykkEXC6qukCwJSeVAQinK ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Orientation sessoin May 8, 5 pm",
+                            "Discussion_Id": "591840",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066018",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-05-02T17:25:04+02:00",
+                                    "Content": "Dear students on May 8 at 5 pm Herr Qureshi will provide an orientation session. It is highly recommended to join but not obligatory. Kind regards and have a nice evening! Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Procedure participant selection",
+                            "Discussion_Id": "590180",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063493",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-26T12:43:11+02:00",
+                                    "Content": "Dear preregistered students, thank you for your interest!  On May 6, you will have the opportunity to indicate here if you are still interested in the course. If more students who preregistered simultaneously indicate 'yes' than we have spots available, we will conduct a random selection from those. We will inform you whether you have secured a spot or not on May 8. Kind regards, Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Pre-registration ",
+                            "Discussion_Id": "585846",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056873",
+                                    "Author": "Kathrin Forchhammer",
+                                    "DateTime": "2024-04-15T10:17:46+02:00",
+                                    "Content": "Dear students,  you can pre-register for the course until May 7th by filling out the preselection questionnaire. The course is limited to 30 participants. Only those who pre-register can be taken into account.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Questions",
+                    "Forum_id": "1758958",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Material for the exam",
+                            "Discussion_Id": "600767",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079685",
+                                    "Author": "Tatiana Gonikhina",
+                                    "DateTime": "2024-06-13T09:20:09+02:00",
+                                    "Content": "Good morning, since our exam is open book and we write it with laptops - all the material can be in digital form, right?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

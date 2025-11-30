@@ -1,0 +1,256 @@
+[
+    {
+        "Course_Name": "Digital Rail Sommersemester 2024",
+        "Course_id": "37275",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1754624",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Die nächste Generation Eisenbahn – und wie wir sie spezifizieren",
+                            "Discussion_Id": "607443",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089261",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-07-12T11:32:35+02:00",
+                                    "Content": "Am kommenden Dienstag findet der letzte Gastvortrag des Semesters statt, der mehr als jeder andere für das Ziel der Veranstaltung steht: Oliver Lemke ist Verkehrsingenieur, der sich mit der Architektur zukünftiger Bahnsysteme bei der Digitalen Schiene Deutschland auseinandersetzt.  Dienstag, 16. Juli 2024 10.15 Uhr Thema: Die nächste Generation Eisenbahn – und wie wir sie spezifizieren https://tu-berlin.zoom.us/j/69519608629?pwd=TFVhaTFaTCtUMXF4TWl1aUE2SXpEdz09   Ich freue mich über rege Beteiligung! Birgit Milius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgen: Gastvorlesung DR",
+                            "Discussion_Id": "606416",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087793",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-07-08T20:13:14+02:00",
+                                    "Content": "Hallo, ich möchte an die morgige Gastvorlesung erinnern: 10.15 Uhr Carsten Sattler, Siemens Mobility GmbH „Sicherheit … wozu braucht man das? Funktionale Sicherheit für Fans und solche die es werden wollen“  Wer immer schon mal wissen wollte, was es mit den ominösen SIL-Leveln auf sich hat…. Wer wissen will, warum sich Informatiker und Sicherheitsexperten manchmal/oft missverstehen…. …hier wird es erklärt! Der MC Test findet dann im Anschluss statt.  https://tu-berlin.zoom.us/j/69519608629?pwd=TFVhaTFaTCtUMXF4TWl1aUE2SXpEdz09  Ich bitte um rege Beteiligung! Birgit Milius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Digital Rail - Prüfung 2024",
+                            "Discussion_Id": "606172",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087461",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-07-08T11:54:07+02:00",
+                                    "Content": "Hallo, ich habe den Kurs  Digital Rail - Prüfung 2024 in isis angelegt. Bitte tragen Sie sich dort ein. Die Prüfung morgen wird dort stattfinden, auch ist die Einwilligungserklärung dort hinterleht. Es gibt einen Probetest, denn Sie jederzeit machen können. Wichtig: Es wird zu jeder Frage nur eine richtige Antwort geben, eine falsche Antwort gibt keinen Punktabzug.  Viele Grüße, Birgit Milius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenstellung, Cheat-Sheet und Termin am 2.7.",
+                            "Discussion_Id": "600823",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079763",
+                                    "Author": "Timo Ramsdorf",
+                                    "DateTime": "2024-06-13T11:46:10+02:00",
+                                    "Content": "Hallo zusammen, bei unserem letzten Treffen kam ja der Wunsch nach einer formalen Aufgabenstellung für das BBI-Projekt und einer Art Cheat-Sheet für die Implementierung auf. Ich habe jetzt ein solches Dokument erstellt und hier auf ISIS hochgeladen. Inhaltlich hat sich nichts im Vergleich zu der bisher kommunizierten Aufgabe geändert, es ist jetzt nur nochmal formal aufgeschrieben.  Im zweiten Teil des Dokuments sind nochmal alle für die Bearbeitung hilfreichen Informationen zum Nachschlagen zusammengefasst (Allgemeine Empfehlungen, Informationen zur Modellbahn-Ansteuerung und ein Java-Cheat-Sheet). Das ist nicht Teil der Aufgabenstellung, sondern soll nur das Arbeiten am Projekt vereinfachen. Der letzte Teil ist noch nicht vollständig. Er wird noch ergänzt, wenn wir die weiteren Aspekte gemeinsam behandelt haben.  Am 2.7. wollen wir dann gemeinsam eure Spezifikationen besprechen. Bitte habt bis dahin die Datenstruktur- und die Schnittstellen-Spezifikation weitgehend fertig, damit wir eine Grundlage dafür haben. Wenn ihr noch weiter machen wollt, könnt ihr auch schon die Datenhaltungsklassen in Java programmieren. Bei Fragen oder Problemen schreibt gerne hier ins Forum oder wendet euch an Stefan oder mich.  Viele Grüße Timo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "IntelliJ einrichten",
+                            "Discussion_Id": "596088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072714",
+                                    "Author": "Timo Ramsdorf",
+                                    "DateTime": "2024-05-22T17:18:30+02:00",
+                                    "Content": "Hallo zusammen, für die Programmierung im BBI-Projekt wird eine Entwicklungsumgebung benötigt. Prinzipiell wird es da keine konkrete Vorgabe geben, sodass für die Projektarbeit beliebige Software benutzt werden kann. In den Vorlesungen und Übungen werden wir jedoch IntelliJ IDEA benutzen. Deshalb empfehle ich, dieses Programm bis zum 11.6. (möglichst auf einem Laptop) lauffähig einzurichten. In der Veranstaltung am 11.6. wird dann die Benutzung der Software erklärt und auch bei den weiteren Einführungen zur Programmierung wird das Programm benutzt werden.  Für Studierende gibt es kostenlose Lizenzen für die IntelliJ-Vollversion. Eine Anleitung für die Installation der Software und die Aktivierung dieser Lizenzen habe ich hier auf ISIS unter Materialen hochgeladen. Sollte es dabei zu Problemen kommen, schreibt gerne ins Forum oder wendet euch an mich.  Viele Grüße Timo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Heute VL um 12.15 Uhr online",
+                            "Discussion_Id": "592813",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067590",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-05-07T09:58:18+02:00",
+                                    "Content": "Bis nachher - Birgit Milius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MC Test",
+                            "Discussion_Id": "590902",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064587",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-04-29T16:07:26+02:00",
+                                    "Content": "Hallo, da es zu einer Überschneidung mit Bahnbetrieb käme, findet der MC Test in Digital Rail am 9. Juli, 12 Uhr statt  Birgit Milius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projekt-Anmeldung und Mail-Liste",
+                            "Discussion_Id": "590327",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063706",
+                                    "Author": "Timo Ramsdorf",
+                                    "DateTime": "2024-04-26T18:14:35+02:00",
+                                    "Content": "Hier nochmal als Erinnerung bzw. zur Info an diejenigen, die am Dienstag nicht da waren: Bitte denkt dran, bis Montag 14 Uhr die folgenden 2 Dinge zu erledigen:   - Sich für ein Projekt entscheiden und der entsprechenden Ansprechperson eine E-Mail schreiben, dass man teilnehmen möchte. Die Vorstellung der Projekte und die Ansprechpersonen können hier eingesehen werden: https://osm.hpi.de/drss/2024/curriculum/Auftakt%20DRSS%202024.pdf   - Sich in die uni-übergreifende Mail-Liste zu Digital Rail eintragen unter https://lists.tu-berlin.de/mailman/listinfo/railways-kursverteiler.dr2024 Achtung: Die Registrierung muss danach noch wie in der dann kommenden Mail erläutert bestätigt werden.  Viele Grüße Timo",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Auftatkttreffen für das bbi_Projket",
+                            "Discussion_Id": "590208",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063534",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-04-26T13:35:27+02:00",
+                                    "Content": "Am kommenden Dienstag, 30.04., ab 12.15 Uhr findet das Auftakttreffen für das Digital Rail bbi Projekt statt. Wir treffen uns online unter  https://tu-berlin.zoom.us/j/95686299640?pwd=QVl0dlVNMzlIaVBCbXZPMjRSZWJwQT09 Birgit Milius",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zum Austausch",
+                    "Forum_id": "1754626",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "MC-Test",
+                            "Discussion_Id": "605549",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086574",
+                                    "Author": "Marco Alexander Gerometta",
+                                    "DateTime": "2024-07-04T14:33:37+02:00",
+                                    "Content": "Hallo, Gibt es schon genauere Informationen zum MC-Test? Wird er online oder in Präsenz stattfinden? Um wie viel Uhr wird er stattfinden? Gibt es eine Altklausur oder Probetest? Danke & LG Marco",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086678",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-07-04T18:41:17+02:00",
+                                    "Content": "Hallo,  der Test besteht aus 42 Fragen, für die Sie 33 Minuten Zeit haben. Die Fragen orientieren sich AUSSCHLIESSLICH an den als verpflichtend festgelegten Screencasts. Der Test läuft in ISIS, Sie können ihn von einem beliebigen Ort durchführen, allerdings dürfen Sie nicht mit einem anderen Prüfling in einem Raum sitzen.  Da im ersten Slot ein Gastvortrag stattfindet, findet der MC Test von 12.00 Uhr bis ca. 12.45 Uhr statt.  Es wird einen Probetest geben mit Dummy-Fragen. Ich lasse gerade nochmal alles prüfen, dann schicke ich Ihnen den Link zu Viele Grüße Birgit Milius",
+                                    "Response to": "p1086574"
+                                },
+                                {
+                                    "Message_id": "p1087442",
+                                    "Author": "Marian Christopher Reinhardt",
+                                    "DateTime": "2024-07-08T11:38:18+02:00",
+                                    "Content": "Hallo, gibt es schon einen Probetest? Ich bin gerade nicht in der Lage diesen auf ISIS zu finden.  Liebe Grüße Christopher",
+                                    "Response to": "p1086678"
+                                },
+                                {
+                                    "Message_id": "p1087463",
+                                    "Author": "Birgit Milius",
+                                    "DateTime": "2024-07-08T11:55:04+02:00",
+                                    "Content": "Ich habe das eben in ISIS verlinkt. Sie müssen nach  Digital Rail - Prüfung 2024  suchen, ich hoffe, das klappt! Birgit Milius",
+                                    "Response to": "p1087442"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenstellung Vorgehen",
+                            "Discussion_Id": "602815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082645",
+                                    "Author": "Henrik Schellin",
+                                    "DateTime": "2024-06-23T14:49:24+02:00",
+                                    "Content": "Moin Timo, in der Aufgabenstellung wird unter Vorgehen 1. Datenstruktur spezifizieren und dann 2. Schnittstellen spezifizieren empfohlen. Das wäre für mich die verkehrte Reihenfolge. Muss ich nicht erst festlegen, dass beispielsweise die Position des Wagens abgefragt werden muss. Und dann kann ich festlegen, in welchem Datenformat diese Position dargestellt wird? Sehe ich das richtig oder verstehe ich hier etwas falsch? Beste Grüße Henrik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082715",
+                                    "Author": "Stefan Dietmar Seibt",
+                                    "DateTime": "2024-06-23T20:36:55+02:00",
+                                    "Content": "Hallo Henrik,  es gibt auf der programmiertechnischen Ebene zwei Ansätze, wie man mit solchen Problemen umgeht und es ist am Anfang nicht ganz so einfach zwischen diesen Ansätzen zu wechseln. Gemeint ist hier der prozuderale Ansatz der einem Stapelverarbeitungs-Prinzip gleicht. Man stellt sich vor, wie der Benutzer arbeiten würde: Also Eingabe machen, diese Bearbeiten und dann der nächste Schritt. Das ist Deine vorgeschlagene Methode.  Dieser Ansatz funktioniert in vielen Skriptsprachen, aber halt nicht in Java, wo man gleich von Beginn an Klassen und Objekte (Entitäten) verwenden muss. Dafür lassen sich auf diese Art und Weise komplexere Dinge abbilden. Aus diesem Grund muss man da manchmal etwas um die Ecke denken oder eine andere Perspektive einnehmen.  Ihr sollt zunächst die Entitäten herausfinden und deren Eigenschaften. Dabei könnt ihr auch selbst festlegen, wie diese Eigenschaften mit welchen Werten gefüllt werden soll bzw. welchen Datentyp sie haben.  Um bei deinem Beispiel zu bleiben: Da kannst Du natürlich auch erst festlegen, in welchem Format die Position des Wagens gespeichert werden soll. Der Einfachheit halber bietet sich hier ein Format an, was die jeweilige Programmiersprache zu bieten hat. Oder aber man definiert sich selbst etwas. Das geht auch. Das ist das was ich mit Datentyp meine.  Die Schnittstelle sorgt anschließend dafür, dass aus einer Benutzereingabe, in welcher Form die auch immer erfolgt (Direkteingabe, Einlesen einer Datei, usw.), das in das richtige Zielformat umgewandelt wird. Also von einem Datentyp (String, Integer, Float, kombinierter Typ) auf den Zieldatentyp.  Ich hoffe das trägt etwas zum Verständnis bei, ansonsten weiter Fragen!  Allerbeste Grüße Stefan",
+                                    "Response to": "p1082645"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raum Präsenzveranstaltung",
+                            "Discussion_Id": "594281",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069907",
+                                    "Author": "Kanta Fabian Pürschel",
+                                    "DateTime": "2024-05-14T11:34:46+02:00",
+                                    "Content": "Moin, vielleicht wurde es schonmal angesagt, ich kann mich daran aber nicht mehr erinnern. Im ISIS Kurs habe ich leider auch nichts gefunden. Wo findet heute die Veranstaltung in Präsenz statt? Danke und LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069920",
+                                    "Author": "Lisa Noelle Grittke",
+                                    "DateTime": "2024-05-14T11:47:06+02:00",
+                                    "Content": "Hallo,  wenn ich es richtig verstanden habe, treffen wir uns im SG12 204.  VG Lisa",
+                                    "Response to": "p1069907"
+                                },
+                                {
+                                    "Message_id": "p1069922",
+                                    "Author": "Bacem Hamdi",
+                                    "DateTime": "2024-05-14T11:48:13+02:00",
+                                    "Content": "Raum 204 im Gebäude SG12",
+                                    "Response to": "p1069907"
+                                },
+                                {
+                                    "Message_id": "p1069925",
+                                    "Author": "Timo Ramsdorf",
+                                    "DateTime": "2024-05-14T11:55:10+02:00",
+                                    "Content": "Genau, SG12 204 ist richtig. Das ist am Salzufer im 2.OG",
+                                    "Response to": "p1069907"
+                                },
+                                {
+                                    "Message_id": "p1069948",
+                                    "Author": "Marian Christopher Reinhardt",
+                                    "DateTime": "2024-05-14T12:20:16+02:00",
+                                    "Content": "Würde jemand nochmal die Tür bitte aufmachen. Wär klasse",
+                                    "Response to": "p1069925"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Benutzername für den Foliendownload",
+                            "Discussion_Id": "588911",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061538",
+                                    "Author": "Marian Christopher Reinhardt",
+                                    "DateTime": "2024-04-23T13:53:34+02:00",
+                                    "Content": "Hallo liebes Team,  die Screencasts kann ich schauen, aber um die Folien (von \"Programmierung\") herunterzuladen, soll ich einen Benutzernamen und ein Passwort eingeben. Wie lautet der Benutzername?  Das Passwort ist sicherlich  \"drss2023\" richtig? Liebe Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061754",
+                                    "Author": "Timo Ramsdorf",
+                                    "DateTime": "2024-04-23T17:03:14+02:00",
+                                    "Content": "Hallo, die Info fehlte bisher tatsächlich noch. Der Benutzername und das Passwort für die Folien und Videos lauten jeweils \"dcl\". Ich habe die Zugangsdaten jetzt auch nochmal hier im ISIS-Kurs unter Materialen eingetragen. Viele Grüße Timo",
+                                    "Response to": "p1061538"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

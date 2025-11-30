@@ -1,0 +1,367 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Theoretische Chemie 1b",
+        "Course_id": "38540",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1794290",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Grppenübungen 11. Juli",
+                            "Discussion_Id": "606864",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088448",
+                                    "Author": "Susanne Fürst",
+                                    "DateTime": "2024-07-10T12:09:08+02:00",
+                                    "Content": "Libe Studierenden,   ich möchte euch daran erinnern, dass die Gruppenübungen morgen wieder gemeinsam im C243 stattfinden.  Viele Grüße Susanne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "zusätzlicher Wissenstest am 17.07. und Infos zu den Abschlussprüfungen und zur Vorlesung",
+                            "Discussion_Id": "606375",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087740",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-07-08T17:43:30+02:00",
+                                    "Content": "Liebe Teilnehmer, hier will ich noch einige Informationen zu den Abschlussklausuren und den Wissenstests geben: Wir planen, ab WS24/25 die Zugangsbedingungen zu den Abschlussklausuren umzugestalten. Damit möglichst viele von Ihnen noch in der Lage sein werden, an den Abschlussklausuren in diesem Jahr teilzunehmen, haben wir uns auch entschlossen, kulanterweise am 17.07.2024 um 10:15 Uhr in C130 anstatt des Seminars einen weiteren Ansatz des Wissenstests für diejenigen anzubieten, welche bislang die insgesamt 25 erforderlichen Punkte für die beiden Tests noch nicht erreicht haben. Ich bitte um zeitnahe Rückmeldung von denjenigen, welche dieses Angebot wahrnehmen wollen. Außerdem ist geplant, zusätzlich zu den beiden Abschlussklausuren im Sommer (31.07.2024) und Herbst (02.10.2024) im Frühjahr eine weitere Abschlussprüfung anzubieten. Diese wird entweder direkt nach dem WS24/25 oder kurz vor dem SS25 stattfinden. Genaueres muss noch abgestimmt werden. Dies ist eine weitere Maßnahme, um mögliche Verzögerungen im Studienablauf zu minimieren. Nächsten Mittwoch, am 10.07., findet die Vorlesung doppelstündig statt, am 17.07. folgt um 11:15 Uhr noch eine abschließende Stunde. In der verbleibenden Zeit will ich nämlich die MO- und VB-Theorien der chemischen Bindung gegenüberstellen, da dies für Chemiker/Innen zentral ist. Beste Grüße, Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse des Wissenstests",
+                            "Discussion_Id": "605642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086696",
+                                    "Author": "Marc Reimann",
+                                    "DateTime": "2024-07-04T20:45:08+02:00",
+                                    "Content": "Liebe Studierende, wie ihr vermutlich schon gesehen habt, haben wir die Ergebnisse des Wissenstests eingetragen. Da ISIS das Ergebnis leider nicht so darstellt, wie ich gehofft hatte, habe ich jetzt nochmal die Einstellungen geändert. Ich hoffe, ihr könnt jetzt separat eure Ergebnisse aus dem ersten und dem zweiten Wissenstest sehen. Wenn ihr weiterhin nur eine Zahl seht, dann müsste dies die Summe aus beiden Tests zusammen sein. Da es in beiden Tests je maximal 25 Punkte zu erreichen gab, sind in Summe 25 Punkte für die Teilnahme an der Klausur notwendig.  Viele Grüße, Marc",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "9. Seminar (3.07.24)",
+                            "Discussion_Id": "605273",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086187",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-07-03T13:50:32+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 9. Seminar als PDF ist online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenübung am 04. Juli",
+                            "Discussion_Id": "604200",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084611",
+                                    "Author": "Marc Reimann",
+                                    "DateTime": "2024-06-28T10:42:32+02:00",
+                                    "Content": "Liebe Studierende, Wie gestern bereits angekündigt, werden wir in der nächsten Woche in der Gruppenübung kein Aufgabenblatt besprechen. Stattdessen werden wir einen kleinen Einblick in die Möglichkeiten eines modernen quantenchemischen Programms (und damit in unseren tatsächlichen Forschungsalltag) geben.  Um das vorgestellte nachzuvollziehen und um selber ein paar Dinge ausprobieren zu können, könnt ihr euch die Demo-Version des Programmes TURBOMOLE/TmoleX auf euren eigenen Geräten installieren. Dies ist natürlich freiwillig. Den Download findet ihr hier (unter TURBOMOLE/Demo Version): https://www.turbomole.org Die Übung wird nächste Woche dann auch wieder gemeinsam im Raum C243 stattfinden. Viele Grüße, Marc",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "9. Übungsblatt",
+                            "Discussion_Id": "604086",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084438",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-27T15:59:29+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 9. Übungsblatt, das wir nächsten Mittwoch (3.07.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Noch eine Info zum Wissenstest",
+                            "Discussion_Id": "603334",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083411",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-06-25T10:37:06+02:00",
+                                    "Content": "Aufgrund einer Nachfrage hier noch folgende Info: Es darf eine Formelsammlung (maximal A4 beidseitig beschrieben) verwendet werden. MfG, Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ablauf Wissenstest und Vorlesung morgen",
+                            "Discussion_Id": "603328",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083403",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-06-25T10:23:41+02:00",
+                                    "Content": "Liebe Teilnehmer, hier nur kurz zur Info: Der Wissenstest startet 10:15 Uhr in C130 (statt des Seminars) und dauert bis 11.00 Uhr. Nachfolgend will ich ab 11:15 Uhr in der Vorlesung das wichtige Kapitel zur Symmetrie weitgehend abschließen und bitte um rege Teilnahme. Beste grüße, Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teilnahme Wissenstest",
+                            "Discussion_Id": "603321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083396",
+                                    "Author": "Susanne Fürst",
+                                    "DateTime": "2024-06-25T10:13:15+02:00",
+                                    "Content": "Liebe Studierenden,  damit wir einen groben Überblick über die Teilnehmerzahl haben, gebt bitte auf ISIS an, ob ihr am morgigen Wissenstest (26. Juni)  teilnehmt. Die Abstimmung findet ihr in der aktuellen Woche.  Viele Grüße Susanne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenübungen",
+                            "Discussion_Id": "603314",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083386",
+                                    "Author": "Susanne Fürst",
+                                    "DateTime": "2024-06-25T10:04:22+02:00",
+                                    "Content": "Liebe Studierenden,  die Gruppenübungen finden diesen Donnerstag (27. Juni) zusammen im Raum C243 statt.  Viele Grüße Susanne",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "8. Seminar (19.06.24)",
+                            "Discussion_Id": "602152",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081661",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-19T15:37:46+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 8. Seminar als PDF ist online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "8. Übungsblatt",
+                            "Discussion_Id": "600944",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079935",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-13T17:17:44+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 8. Übungsblatt, das wir nächsten Mittwoch (19.06.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "7. Seminar (12.06.24)",
+                            "Discussion_Id": "600565",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079370",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-12T11:58:50+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 7. Seminar als PDF ist online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "7. Übungsblatt",
+                            "Discussion_Id": "599641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078006",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-07T13:58:48+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 7. Übungsblatt, das wir nächsten Mittwoch (12.06.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "6. Seminar (05.06.24)",
+                            "Discussion_Id": "599202",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077387",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-06-05T16:44:39+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 6. Seminar (sowie der entsprechende Anhang - über die Berechnung der Matrixelemente der Operatoren \"l_x\" und \"l_y\") als PDF sind online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "6. Übungsblatt",
+                            "Discussion_Id": "597965",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075577",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-30T16:28:16+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 6. Übungsblatt, das wir nächsten Mittwoch (5.06.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "5. Seminar (29.05.24)",
+                            "Discussion_Id": "597697",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075196",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-29T16:14:14+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 5. Seminar als PDF ist online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "5. Übungsblatt &amp; 4. Seminar (22.05.24)",
+                            "Discussion_Id": "596280",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072973",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-23T12:11:16+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 5. Übungsblatt, das wir nächsten Mittwoch (29.05.24) mit Ihnen besprechen werden, sowie das 4. Seminar (22.05.24) als PDF sind ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termin Leistungsnachweis",
+                            "Discussion_Id": "596217",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072880",
+                                    "Author": "Marc Reimann",
+                                    "DateTime": "2024-05-23T10:01:44+02:00",
+                                    "Content": "Liebe Studierende, der Termin für den zweiten Leistungsnachweis (Wissenstest) ist der 26. Juni (Mi) während der Vorlesungszeiten (ab 10:15).  Vielen Grüße, Marc",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "4. Übungsblatt",
+                            "Discussion_Id": "595120",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071204",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-17T11:14:53+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 4. Übungsblatt, das wir nächsten Mittwoch (22.05.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Seminar (8.05.24)",
+                            "Discussion_Id": "593247",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068235",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-08T12:25:08+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 3. Seminar als PDF ist online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenübungen, Zeitplan",
+                            "Discussion_Id": "592862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067660",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-05-07T10:59:51+02:00",
+                                    "Content": "Liebe Teilnehmer, wegen des Feiertages am kommenden Donnerstag wird das zweite Übungsblatt erst in den Gruppenübungen am 16.5. besprochen werden. Das dritte Übungsblatt, welches Dr. Arbuznikov morgen einführen wird, ist dann eben am 23.5. in den Gruppenübungen. Nächste Woche Mittwoch, am 15.5., werde ich eine volle Doppelstunde Vorlesung halten, da wird es dann kein Seminar geben. Dann sollten wir wieder synchron sein. Beste Grüße und hoffentlich ein zahlreiches Wiedersehen morgen in Seminar und Vorlesung! Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "3. Übungsblatt",
+                            "Discussion_Id": "591847",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066027",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-05-02T17:38:22+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, das 3. Übungsblatt, das wir nächsten Mittwoch (8.05.24) mit Ihnen besprechen werden, ist ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. und 2. Seminare (24.04.24)",
+                            "Discussion_Id": "589351",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062249",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-04-24T13:05:20+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, die 1. und 2. Seminare als PDF sind online. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. und 2. Übungsblätter",
+                            "Discussion_Id": "587794",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059736",
+                                    "Author": "Alexey Arbuznikov",
+                                    "DateTime": "2024-04-19T16:44:05+02:00",
+                                    "Content": "Liebe Teilnehmerinnen und Teilnehmer, die 1. sowie 2. Übungsblätter, die wir nächsten Mittwoch (24.04.24) mit Ihnen besprechen werden, sind ab jetzt online verfügbar. Viel Erfolg! Viele Grüße, Alexey Arbuznikov",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Doppelstunde Seminar am 24.04.",
+                            "Discussion_Id": "587753",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059671",
+                                    "Author": "Martin Kaupp",
+                                    "DateTime": "2024-04-19T15:32:21+02:00",
+                                    "Content": "Liebe Teilnehmer, weil am 1. Mai die Veranstaltung wg. des Feiertages ausfällt, wir aber dennoch bereits genügend Material für die Gruppenübungen am 2.5. und am 9.5. brauchen, wird Dr. Arbuznikov nächsten Mittwoch, den 24.4. die komplette Doppelstunde verwenden, um zwei Übungsblätter zu besprechen. Das erste Blatt wird dann Thema der Gruppenübungen am 2.5. sein, das zweite Blatt dann am 9.5. behandelt werden. Beste Grüße und schönes Wochenende, Martin Kaupp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erste Veranstaltungen",
+                            "Discussion_Id": "586487",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057816",
+                                    "Author": "Marc Reimann",
+                                    "DateTime": "2024-04-16T16:09:32+02:00",
+                                    "Content": "Liebe Studierende, der zweite Teil der Veranstaltung ThC1 wird analog zum ersten Teil stattfinden. Die erste Veranstaltung im neuen Semester wird morgen als Doppelstunde Vorlesung stattfinden. Das erste Seminar wird voraussichtlich nächste, die erste Gruppenübung voraussichtlich übernächste Woche stattfinden.  Die Übungsgruppen übernehmen wir auch aus dem letzten Semester. Studierende, die letztes Semester nicht teilgenommen haben, dieses Semester aber teilnehmen wollen, melden sich bitte bei Susanne oder mir. Viele Grüße und einen guten Start in die Vorlesungszeit, Marc ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Strömungsmechanisches Projekt",
+        "Course_id": "38483",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1792884",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall CFD-Übung 10.07.24",
+                            "Discussion_Id": "606723",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088238",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-07-09T19:38:24+02:00",
+                                    "Content": "Hallo zusammen, leider muss die Übung morgen auf Grund von Krankheit ausfallen. Der PC-Pool steht trotzdem zur Verfügung und ich würde dringend empfehlen die Zeit zu nutzen, um weiter an der Aufgabe zu arbeiten. Wenn Bedarf besteht, würde ich am Montag versuchen eine zusätzliche online-Sprechstunde anzubieten, dazu gerne wenn nötig kurzes feedback per Mail, die Details gibt es dann ggf. kurzfristig. Viele Grüße Denes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Feedback Probeprotokolle",
+                            "Discussion_Id": "600155",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078786",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-06-10T22:31:17+02:00",
+                                    "Content": "Hallo zusammen, ihr findet nun kommentierte PDFs als Feedback zu euren Berichten bei euren Abgaben. Geht die Kommentare gemeinsam in der Gruppe durch und versucht meine Anmerkungen zu verstehen und umzusetzen. Meine Kommentare sind in der Regel sehr ausführlich. Versucht Unklarheiten zunächst in der Gruppe zu lösen. Sollten sich trotzdem Fragen stellen, sammelt diese bitte zunächst und stellt sie dann gebündelt. Solltet Ihr nochmals intensiven Redebedarf haben, können wir gerne eine Sprechstunde vor Ort einrichten. Viel Erfolg bei der weiteren Bearbeitung Grüße Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Abschlussbericht",
+                            "Discussion_Id": "599473",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077764",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-06-06T16:26:21+02:00",
+                                    "Content": "Hallo zusammen, die Abgabe der Abschlussberichte wird auf den 20.06.2024 verschoben. Ich versuche euch das Feedback der Probeprotokolle über das Wochenende fertig zu stellen. Grüße, Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " CFD - Vorlesung",
+                            "Discussion_Id": "595609",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072030",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-05-21T11:41:42+02:00",
+                                    "Content": "Hallo zusammen, morgen (22.05.24) 12:00-14:00 c.t. findet die CFD-Einführungs-Vorlesung im H0111 statt. Viele Grüße Denes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "594695",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070552",
+                                    "Author": "Christian Nayeri",
+                                    "DateTime": "2024-05-15T15:41:03+02:00",
+                                    "Content": "Hi Leute, bitte meldet euch für die Prüfung bis zum 31 Mai an: #50592 Strömungsmechanisches Projekt, SS 2024 Danke und viele Grüße, Navid",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SMP MK2",
+                            "Discussion_Id": "593639",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068858",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-05-10T13:09:48+02:00",
+                                    "Content": "Hallo zusammen, die Terminwahl für die zweite Messkampagne (MK 2) wir heute um 16h freigeschaltet. Die Zeiten verstehen sich erneut pünktlich zur angegebenen Zeit, also s.t.. Bringt zur MK erneut euer Skript für den dynamischen Druck mit, sowie Schreibmaterial zur Dokumentation. Weiter stehen im ISIS-Kurs nun die Aufgabenstellung und eine vorgefertigte Tabelle für MK2 zur Verfügung. Grüße Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SMP Messkampagne 1",
+                            "Discussion_Id": "592939",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067771",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-05-07T13:30:40+02:00",
+                                    "Content": "Hallo zusammen, hiermit erinnere ich euch nochmals an die Messkampagne 1 (MK1) am Mittwoch (08.05.). Die Zeitangaben eures Termins sind pünktlich zu verstehen, also sine tempore! Wir benötigen da wirklich die vollen zwei Stunden. Denkt daran, auch euer Skript für die Berechnung des benötigten dynamischen Drucks mitzubringen sowie Materialien zur Dokumentation (Zettel und Stift oder Pad etc.). Ich empfehle euch auch, die Messdaten direkt in die zur Verfügung gestellte Tabelle einzutragen. Grüße und bis Mittwoch Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": " CFD - Anmeldung CFD Teil",
+                            "Discussion_Id": "591691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065802",
+                                    "Author": "Denes Fischer",
+                                    "DateTime": "2024-05-02T12:33:50+02:00",
+                                    "Content": "Hallo zusammen, der CFD-Teil wird im PC-Pool in der VWS (VWS 128) stattfinden. Für den Zugang ist ein Account nötig, bitte meldet euch dazu bis spätestens 23.05.24 an: https://anmeldung.cfd.tu-berlin.de/smp/ Bitte nutzt dafür eure TU-Mailadresse. Die Zugangsdaten werden euch dann ein paar Tage später an diese Adresse zugeschickt. Wenn ihr eure Zugangsdaten habt, bitte bis spätestens 28.05.24 im Pool einloggen und das Passwort ändern (Anleitung hier).  Der CFD-Teil beginnt dann am 22.05.24 mit einer Einführungs-Vorlesung (H0111), ab 29.05.24 finden die Übungen im PC-Pool statt (siehe Terminplan). Vor dem ersten Tutorium ist es hilfreich, sich mit den Grundzügen der Arbeit unter Linux vertraut zu machen. Bei Fragen meldet euch gerne per Mail (d.fischer@tu-berlin.de) oder im Diskussionsforum.  Viele Grüße Denes",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SMP Einführungsveranstaltung",
+                            "Discussion_Id": "586034",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057152",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-04-15T14:59:19+02:00",
+                                    "Content": "Hallo zusammen, die Einführungsveranstaltung am 17.04. wird in Raum M123 um 12:15 Uhr s.t. stattfinden. Bitte tragt euch bis dahin in eine Gruppe ein, um euch zum Projekt anzumelden. Im Semesterverlaufsplan wurden nun die Räume zu den jeweiligen Terminen ergänzt. Viele Grüße und bis Mittwoch Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "SMP Semesterverlaufsplan",
+                            "Discussion_Id": "585114",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055815",
+                                    "Author": "Philip Gloyer",
+                                    "DateTime": "2024-04-09T12:58:02+02:00",
+                                    "Content": "Hallo zusammen, Ihr findet nun unter dem Reiter 1.Organisatorisches, den aktuellen Semesterverlaufsplan. Es werden die Termine mittwochs und donnerstags je von 12:00 -14:00 Uhr als reguläre Veranstaltungstermine festgesetzt. Die Einteilung aus MOSES ist damit nicht mehr gültig. Weiter sind die Modellbearbeitungstermine offene Veranstaltungen, zu denen Ihr nach Belieben erscheinen könnt. Maßgeblich ist dabei, dass ihr mit eurem Modell fertig werdet. Dazu werden i. d. R. 6-8 Stunden benötigt. Die Messkampagnen dauern jeweils 2 volle Zeitstunden, zu denen Ihr Gruppenweise teilnehmt. Jeweils eine Woche vor den Terminen werden die Terminbuchungen freigeschaltet. Es gilt auch hier first come first served, denn je Zeitslot kann nur eine Gruppe teilnehmen! Es handelt sich dabei um Pflichttermine. Bitte nehmt nur an dem Projekt teil, wenn Ihr mit den Angaben hier und dem Semesterverlaufsplan einverstanden seid. Solltet ihr nicht am Projekt teilnehmen wollen, dann meldet euch bitte aus dem ISIS-Kurs ab. Fragen zum Verlaufsplan können gerne bei der Einführungsveranstaltung gestellt werden. Mailanfragen werden vorerst nicht beantwortet. Viele Grüße und einen guten Start ins Semester Philip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

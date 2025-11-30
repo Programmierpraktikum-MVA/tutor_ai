@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Übungen zu Grundlagen der Astronomie und Astrophysik II",
+        "Course_id": "38163",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1782325",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall der Tutorien am 9.5.",
+                            "Discussion_Id": "592085",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066403",
+                                    "Author": "Thomas Garmatter",
+                                    "DateTime": "2024-05-03T13:22:45+02:00",
+                                    "Content": "Leider fallen die Tutorien am Donnerstag den 9.5. aufgrund des Feiertages aus. Bitte teilt euch für diese Woche auf einen der anderen Übungstermine auf!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der Tutorien am 1.5.",
+                            "Discussion_Id": "590220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063554",
+                                    "Author": "Thomas Garmatter",
+                                    "DateTime": "2024-04-26T13:54:22+02:00",
+                                    "Content": "Leider fallen die Tutorien am Mittwoch den 1.5. aufgrund des Feiertages aus. Bitte teilt euch für diese Woche auf einen der anderen Übungstermine auf!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Änderung des Raumplans",
+                            "Discussion_Id": "587691",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059584",
+                                    "Author": "Thomas Garmatter",
+                                    "DateTime": "2024-04-19T13:44:53+02:00",
+                                    "Content": "Das Tutorium am Dienstag (12 - 14 Uhr) wird im Raum EW 226 stattfinden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

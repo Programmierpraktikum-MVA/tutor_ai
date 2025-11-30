@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Physik elektronischer Bauelemente",
+        "Course_id": "37685",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1766582",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "1. Termin",
+                            "Discussion_Id": "588443",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060815",
+                                    "Author": "Anja Sandersfeld",
+                                    "DateTime": "2024-04-22T14:08:30+02:00",
+                                    "Content": "Liebe KursteilnehmerInnen, als Termin für das erste Treffen schlägt Herr Prof. Germer vor: Freitag, 10. Mai 2024, 13:00 bis 18:00 Uhr Ort: Blankenhainer Strasse 9, 12249 Berlin-Lankwitz Da das Treffen draußen stattfinden soll, muss der Termin bei schlechtem Wetter kurzfristig verschoben werden. Bitte geben Sie Prof. Germer Bescheid, ob der Termin passt und Sie kommen werden. Mit freundlichen Grüßen A. Sandersfeld",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorbereitende Lektüre",
+                            "Discussion_Id": "585576",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056455",
+                                    "Author": "Anja Sandersfeld",
+                                    "DateTime": "2024-04-12T10:35:55+02:00",
+                                    "Content": "Liebe Studierende, das Buch zur Vorlesung findet man bei Wikibooks: https://de.wikibooks.org/wiki/Die_abz%C3%A4hlbare_Physik Herr Prof. Germer empfiehlt zur Vorbereitung auf den Kurs die Lektüre bzw. mal in das Buch reinzuschauen. Terminvorschläge werden in Kürze folgen. Beste Grüße Anja Sandersfeld",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "Course_Name": "Rehabilitationstechnik 2",
+        "Course_id": "37524",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1761908",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exkursion zum Sanitätshaus",
+                            "Discussion_Id": "607649",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089593",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-07-13T17:52:08+02:00",
+                                    "Content": "Liebe Studierende, Hier noch ein paar Informationen zu unserer Exkursion am Montag: Uhrzeit: 10:00 Uhr  Ort: Sanitätshaus Hempel Gesundheitspartner GmbH, Prinzenallee 84, 13357 Berlin Bei dem Besuch bekommen Sie einen guten Einblick in den Herstellungs- und Anpassungsprozess von Prothesen und Orthesen.  Für die Exkursion ist es sehr hilfreich bereits Vorwissen zu den prüfungsrelevanten Themen zu haben - diese werden dort noch weiter vertieft und verfestigt. Insofern ist es auch eine gute Prüfungsvorbereitung.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung zu Myoelektrischen Prothesen",
+                            "Discussion_Id": "603708",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083930",
+                                    "Author": "Vivian Waldheim",
+                                    "DateTime": "2024-06-26T11:17:34+02:00",
+                                    "Content": "Liebe Studierende, Am 01.07.2024 um 10 Uhr findet im SG-215 die Übung zu myoelektrischen Prothesen statt. Dafür werden Sie selbst EMG-Signale bei sich ableiten. Daher bereiten Sie sich bitte auch für das Testat mit den Grundlagen der Elektromyographie (Stichworte Aktionspotential, Signalableitung, Verstärkung) vor.  Außerdem ist es hilfreich, wenn mindestens ein Gruppenmitglied einen Laptop mit bereits installierter Arduinosoftware (und ggf. Matlab) mitbringt. Schaut euch gern schon einmal die hochgeladenen Dateien zur Übungsvorbereitung an.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Messung an prothetischen Strukturkomponenten, neuer Termin am Montag, 17.06.24",
+                            "Discussion_Id": "601043",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080092",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-06-14T11:04:48+02:00",
+                                    "Content": "Liebe Studierende, Die Übung findet nun nächsten Montag 17.06.24 im Raum 215 statt.  Viele Grüße Peter Seufert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Messung an prothetischen Strukturkomponenten - Verschiebung!",
+                            "Discussion_Id": "599786",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078237",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-06-09T10:49:50+02:00",
+                                    "Content": "Liebe Studierende, Aufgrund erneuter Erkrankung muss die Übung leider verschoben werden. Morgen, am 10.06.24 findet daher die nächste Vorlesung durch Prof. Kraft statt. Tut mir leid für die Umstände. Viele Grüße Peter Seufert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Messung an prothetischen Strukturkomponenten",
+                            "Discussion_Id": "599566",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077908",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-06-07T09:48:45+02:00",
+                                    "Content": "Liebe Studierende! Die Übung \"Messungen an prothetischen Strukturkomponenten\" findet im Raum 215 statt und startet pünktlich 10 Uhr. Bitte bereitet euch auch folgende Themen vor: Aufbau von (Exo-)Prothesen der unteren Extremität Fähigkeiten von Prothesenträgern (Mobilitätsgrade) und damit verbundene Anforderungen an Prothesen der unteren Extremität. Gangzyklus des gesunden Menschen. Viele Grüße und bis Montag!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Messungen an prothetischen Strukturkomponenten nur am 2. Termin",
+                            "Discussion_Id": "597718",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075226",
+                                    "Author": "Peter Seufert",
+                                    "DateTime": "2024-05-29T17:07:29+02:00",
+                                    "Content": "Liebe Studierende, Krankheitsbedingt muss der erste Termin zur Übung leider ausfallen. Der Termin für die Übung ist damit der 10.06.24. Bitte nutzen Sie die Zeit zum Selbststudium der DIN Normen 10328 und 22675 (erhalten Sie über die Bibliothekswebsite) sowie der Vorlesungsinhalte zum Prothesenaufbau von Prothesen der unteren Extremität.  Tut mir leid und viele Grüße Peter Seufert",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

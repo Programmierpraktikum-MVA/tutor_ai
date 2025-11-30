@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar Atome, Moleküle, Cluster",
+        "Course_id": "38766",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1803626",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Verschiebung Seminartermin",
+                            "Discussion_Id": "598773",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076769",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-06-04T10:20:11+02:00",
+                                    "Content": "liebe TeilnehmerInnen des Seminars aufgrund kurzfristiger Krankheit des Vortragenden wird das Seminar am 5.6. entfallen und auf den 26.6. verlegt. Mit freundlichen Grüßen Otto Dopfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "derzeitiger Zeitplan",
+                            "Discussion_Id": "588335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060641",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-04-22T11:52:53+02:00",
+                                    "Content": "liebe TeilnehmerInnen des Seminars, ich habe den derzeitigen Zeitplan des Seminars aus ISIS freigeschalten. beste Grüße Otto Dopfer PS: Falls noch jemand teilnehmen möchte, es gibt noch freie Slots.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "es gibt noch Themen",
+                            "Discussion_Id": "587259",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058905",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-04-18T12:08:56+02:00",
+                                    "Content": "liebe Studierende, die am AMC Seminar Interesse haben und sich in die ISIS Seite eingeschreiben haben, leider habe ich gestern bei der Vorpsrechung und Einteilung zu spät bemerkt , dass ich die ZOOM links und Themenliste nicht als sichtbar freigeschaltet habe. Sorry für meinen Fehler. Jetzt ist alles freigeschalten und Sie können alles einsehen. Wenn Sie also (immer noch) Interesse an der Teilnahme haben, kontaktieren Sie mich bitte zeitnah, es gibt noch diverse freie slots. beste Grüße Otto Dopfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ZOOM link",
+                            "Discussion_Id": "586992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058494",
+                                    "Author": "Otto Dopfer",
+                                    "DateTime": "2024-04-17T16:06:43+02:00",
+                                    "Content": "liebe Seminarteilnehmer, die ZOOM links wurden gerade auf ISIS freigeschalten. mfG OD",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "Course_Name": "Marktforschung und Datenanalyse Sommersemester 2024",
+        "Course_id": "37462",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1760006",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Schriftlicher Bericht + nächste Woche",
+                            "Discussion_Id": "605725",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086813",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-07-05T10:59:31+02:00",
+                                    "Content": "Liebe Studierende,  nach Rücksprache mit ein paar von Ihnen gestern, habe ich nochmal einen detaillierten Aufbau der schriftlichen Abgabe (unter \"Zusatzmaterial\") hochgeladen.  Nächste Woche findet eine Fragestunde statt KEINE Präsentationen. Sollten Sie spezifische Fragen zu Ihrem Code haben, senden Sie mir diesen bitte am Vortag.  Und um nochmal sicherzustellen: DV ist die Summe der Preiserwartungen der Produkte.  Sollten Sie hierzu Fragen haben, melden Sie sich gerne jederzeit.  Viele Grüße Mona & Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Daten Studie hochgeladen",
+                            "Discussion_Id": "605095",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085937",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-07-02T17:59:44+02:00",
+                                    "Content": "Liebe Studierende, in der Sektion \"04.&11.7. ...\" finden nun das Datenset.  Bitte beachten Sie, das alle negativen Werte, wie z.B. -77 und -66 missing values (NAs) darstellen.  Viele Grüße Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verlängerung Laufzeit Studie",
+                            "Discussion_Id": "604560",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085162",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-07-01T10:07:52+02:00",
+                                    "Content": "Liebe Studierende,  es wurden nur 5 Teilnehmende von Ihnen akquiriert. Auch in Ihrem Interesse, möchte ich Sie nochmal um Ihre Mithilfe bitten. Wir verlängern die Studie bis heute Abend. Bitte fragen Sie die von Ihnen akquirierten Personen, eine \"0\" in die Frage nach der Matrikelnummer einzutragen, damit wir die Beobachtungen auseinanderhalten können, falls sich deutliche Unterschiede abzeichnen. Die Daten erhalten Sie dann voraussichtlich morgen. Lieben Dank für Ihre Mühen! Viele Grüße  Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Bitte um Mithilfe TN Akquise",
+                            "Discussion_Id": "604211",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084635",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-28T11:18:18+02:00",
+                                    "Content": "Liebe Studierende,  leider nehmen deutlich zu wenig Personen an unserer Umfrage teil. Aus diesem Grund werden wir sie bis Sonntag laufen lassen müssen. Zusätzlich möchte ich Sie bitten, Teilnehmende aus Ihrem Freundes- und Bekanntenkreis zu akquirieren (wenn möglich rund 20 Teilnehmer:innen pro Person). Bitte fragen Sie die von Ihnen akquirierten Personen, eine \"0\" in die Frage nach der Matrikelnummer einzutragen, damit wir die Beobachtungen auseinanderhalten können, falls sich deutliche Unterschiede abzeichnen. Die Daten erhalten Sie dann voraussichtlich Anfang der Woche.  Wir gehen dann am Donnerstag die Beschriftung des Datensatzes durch, werten die Lehrevaluation aus und sollten Sie Fragen zum schriftlichen Report oder der Datenauswertung haben, beantworte ich die gerne. (Bei Coding Fragen bitte am Vortag per Mail, damit ich schonmal reinschauen kann :) ) Lieben Dank für Ihre Mühen! Viele Grüße und ein schönes Wochenende Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Bitte um Mithilfe TN-Akquise",
+                            "Discussion_Id": "602976",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082877",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-24T11:20:53+02:00",
+                                    "Content": "Liebe Studierende,  leider nehmen deutlich zu wenig Personen an unserer Umfrage teil. Aus diesem Grund werden wir sie ein paar Tage länger laufen lassen müssen. Zusätzlich möchte ich Sie bitten, Teilnehmende aus Ihrem Freundes- und Bekanntenkreis zu akquirieren (wenn möglich rund 20 Teilnehmer:innen pro Person). Bitte fragen Sie die von Ihnen akquirierten Personen, eine \"0\" in die Frage nach der Matrikelnummer einzutragen, damit wir die Beobachtungen auseinanderhalten können, falls sich deutliche Unterschiede abzeichnen. Lieben Dank für Ihre Mühen! Viele Grüße Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Studie online &amp; Klausur am 27.6. um 12:15",
+                            "Discussion_Id": "601295",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080463",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-16T18:28:29+02:00",
+                                    "Content": "Liebe Studierende,  Die Studie ist nun nach ein paar letzten Anpassungen online, unter folgendem Link erreichbar und kann verbreitet werden:  https://ww3.unipark.de/uc/tu-berlin/productdesign/cd50/ Wir können uns gerne nach der Klausur am Donnerstag über die Änderungen unterhalten, wenn Sie Interesse haben.   Ansonsten drücken wir alle die Daumen, dass es gut funktioniert.  Vielen Dank für Ihren Einsatz!  Die Klausur wird am Donnerstag um 12:15 Uhr in Raum H6124 statt finden.   Liebe Grüße und einen schönen Sonntag  Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Unipark vorbereitet &amp; Stimuli + Hinweise Umfragedesign hochgeladen",
+                            "Discussion_Id": "599667",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078040",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-07T15:22:01+02:00",
+                                    "Content": "Liebe Studierende, im Abschnitt 06.06.2024 finden Sie die finale Stimuli Auswahl und Hinweise zum Umfragedesign.  Außerdem habe ich in Ihrem Unipark Ordner \"MaFo\" die \"Umfrage Hauptstudie_FashionEnsembles\" angelegt, sodass Sie nun darin arbeiten können. Ganz oben unter \"Filter_Outfits2_HipHop_kons\" befindet sich ein Beispiel Aufbau einer Ensemble- und einer Produktseite. Hieraus können Sie Fragen bzw. Abschnitte kopieren und dann die Bilder ersetzen. In der Medienbibliothek sind schon sowohl konsistente Ensembles als auch einzelne Items. D.h. Sie müssen nur Ihre Inkonsistenten Ensembles zur Bibliothek hinzufügen.  Bitte beachten Sie, dass noch keine Trigger gesetzt wurden, das mache ich am Montag. Außerdem befindet sich am Ende der Umfrage eine Seite CVPA - Anna auch dieser Seite werde ich mich annehmen. Sollten Sie Fragen haben, melden Sie sich gern jederzeit bei mir!  Ich freue mich sehr auf Ihre Ergebnisse am Montag. Viele Grüße  Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einzelgruppen-Gespräche 06.06.24",
+                            "Discussion_Id": "598871",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076910",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-04T14:16:53+02:00",
+                                    "Content": "Liebe Studierende,   die Meetings werden wie folgt stattfinden.  Ich würde Ihnen unseren üblichen Raum zur Verfügung stellen, um dort zu arbeiten und die Gespräche in meinem Büro in Raum H7110 abhalten.  Viele Grüße,  Anna   Time Slot Themen 14:10-14:30 Konsistenz Main Effekt Relative Größe 14:35-14:55 Räumliche Abgrenzung 12:50-13:10 Dominanz/ Zentralität 12:25-12:45 Komplexität 13:45-14:05 Persönliche Expertise 13:15-13:35 Designer Expertise 12:00-12:20 Aufmerksamkeitsallokation",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wahl der Time Slots 07.06.2024",
+                            "Discussion_Id": "598193",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075925",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-05-31T17:28:47+02:00",
+                                    "Content": "Liebe Studierende,  ich habe für die angekündigten Einzelgespräche nächste Woche, eine Auswahl von Time-Slots freigeschalten. Bitte sprechen Sie sich so ab, dass sich eine Person pro Gruppe einträgt.  Außerdem finden Sie mein RSkript der Datenauswertung nun online. Viele Grüße und ein schönes Wochenende Anna-Maria Hempel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Schriftliche Abgabe statt Präsentation",
+                            "Discussion_Id": "595935",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072506",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-05-22T11:47:59+02:00",
+                                    "Content": "Liebe Studierende,   leider ist mir ein Fauxpas unterlaufen.  In der Beschreibung der Prüfungsleistung auf Moses wird eine schriftliche Abgabe verlangt, keine Präsentation. Daran müssen wir uns natürlich halten.  Die Abgabefrist für den Bericht wird auf den 31.07.24 angesetzt.  Die 10-Seiten sind all in (also mit Deckblatt & Verzeichnissen). Bitte reichen Sie zusätzlich ihr R (oder Python) Skript ein. Die Aufgabenstellungen habe ich entsprechend angepasst.  Bitten entschuldigen Sie das Durcheinander. Mea culpa! Sollten Sie hierzu Fragen haben, können Sie sich jederzeit bei mir melden.  Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgige Veranstaltung: Aufzüge &amp; Gruppeneinteilung",
+                            "Discussion_Id": "594620",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070442",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-05-15T12:31:38+02:00",
+                                    "Content": "Liebe Studierende,  leider funktionieren morgen die Aufzüge im Hauptgebäude voraussichtlich  nicht. Sollten Sie eigentlich am Seminar teilnehmen wollen, aber aus gesundheitlichen Gründen keine Treppen steigen können, melden Sie sich bitte vor Beginn der Veranstaltung bei uns. Wir haben die finale Gruppeneinteilung nun unter der Sektion \"Orga\" veröffentlicht. Wir haben versucht Ihre Wünsche best möglich zu beachten. So wurde nur eine Umverteilung vorgenommen, wenn mehr als eine Person im Bachelor oder nur Masterstudierende in einer Gruppe waren. Bitte haben Sie dafür Verständnis. Sollten Sie Fragen haben, melden Sie sich gerne jederzeit. Viele Grüße und ansonsten bis morgen  Mona & Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Moses-Anmeldung bis morgen (15.05.) 23:59 möglich",
+                            "Discussion_Id": "594286",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069917",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-05-14T11:44:29+02:00",
+                                    "Content": "Liebe Studierende, falls Sie sich noch nicht für die Portfolioprüfung registriert haben, holen Sie dies bitte bis morgen, den 15.05., um 23:59 Uhr über Moses nach (#70053 \"Marktforschung und Datenanalyse\"). Viele Grüße Mona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Seminarsitzungen starten um 12:15 ",
+                            "Discussion_Id": "591619",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065702",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-05-02T11:00:03+02:00",
+                                    "Content": "Liebe Studierende, die heutige Einheit und alle folgenden (sofern nicht anders kommuniziert) beginnen um 12:15 Uhr, nicht um 12 Uhr. Viele Grüße und bis gleich! Mona & Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themen ab jetzt verfügbar",
+                            "Discussion_Id": "590248",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063593",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-26T15:00:13+02:00",
+                                    "Content": "Liebe Studierende, bitte tragen Sie sich hier für ein Thema ein. Sie haben hierfür bis spätestens zum 05.05., 23:59 Zeit. Viele Grüße Mona & Anna",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063679",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-26T17:12:00+02:00",
+                                    "Content": "Entschuldigung, kleiner Nachtrag: Die Option, sich für ein Thema einzutragen, schließt am 05.05.  Liebe Grüße Mona",
+                                    "Response to": "p1063593"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Morgige Einführungsveranstaltung",
+                            "Discussion_Id": "589289",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062157",
+                                    "Author": "Mona Frermann",
+                                    "DateTime": "2024-04-24T11:27:52+02:00",
+                                    "Content": "Liebe Studierende,  vielen Dank für Ihr Interesse am Kurs. Leider funktionieren morgen die Aufzüge im Hauptgebäude nicht. Sollten Sie eigentlich am Seminar teilnehmen wollen, aber aus gesundheitlichen Gründen keine Treppen steigen können, melden Sie sich bitte vor Beginn der Einführungsveranstaltung bei uns.  Viele Grüße und ansonsten bis morgen  Mona & Anna",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Vorregistrierung",
+                            "Discussion_Id": "585817",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056830",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-04-15T09:10:55+02:00",
+                                    "Content": "Liebe Studierende,  wir möchten Sie gerne daran erinnern, dass die Vorregistrierungsfrist für diesen Kurs am Freitag, den 19.04.24 endet. Da der Kurs eine begrenzte Anzahl von Plätzen hat, können wir leider keine Anmeldungen berücksichtigen, die nach Ablauf dieser Frist eingehen. Die Zusagen für die Kursplätze werden Anfang kommender Woche verschickt.  Viele Grüße Anna-Maria Hempel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1760007",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ordner Unipark Umfrage",
+                            "Discussion_Id": "599760",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078179",
+                                    "Author": "Ela Özdemircelik",
+                                    "DateTime": "2024-06-08T15:02:56+02:00",
+                                    "Content": "Hey,  wo finden wir den MAFO Ordner in Unipark, in der die Umfrage ist?  LG  Ela",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1078192",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-08T16:27:07+02:00",
+                                    "Content": "Das tut mir wahnsinnig leid, da habe ich vergessen einen hacken zu setzen! Könnten Sie es bitte nochmal versuchen und mir feedbacken ob es jetzt funktioniert?  Viele Grüße  Anna",
+                                    "Response to": "p1078179"
+                                },
+                                {
+                                    "Message_id": "p1078205",
+                                    "Author": "Sarah Ganee",
+                                    "DateTime": "2024-06-08T18:08:31+02:00",
+                                    "Content": "Ja, man kann jetzt darauf zugreifen. Aber bei mir steht \"Die Teilnehmer können nicht teilnehmen.\" und die Schaltflächen \"Seiten\", \"Filter\" etc. sind bei mir grau unterlegt. Soll das so sein oder habe ich da was missverstanden. Ich dachte wir können das Projekt jetzt direkt bearbeiten.  LG  Sarah",
+                                    "Response to": "p1078192"
+                                },
+                                {
+                                    "Message_id": "p1078206",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-08T18:36:18+02:00",
+                                    "Content": "Liebe Frau Ganee,  \"Die Teilnehmerinnen können nicht teilnehmen\" heißt nur, das die Studie noch nicht beantwortet werden kann. Das die Filter in der Studie grau unterlegt sind ist bei mir auch so, können Sie denn unter Ihren Seiten anlegen bzw. Fragen dorthin kopieren?  Viele Grüße  Anna",
+                                    "Response to": "p1078205"
+                                },
+                                {
+                                    "Message_id": "p1078207",
+                                    "Author": "Sarah Ganee",
+                                    "DateTime": "2024-06-08T18:53:31+02:00",
+                                    "Content": "Ah ok, danke! Sah einfach nur ein wenig komisch aus, sorry Das mit den Seiten anlegen klappt auch, habe es gerade ausprobiert.    LG  Sarah",
+                                    "Response to": "p1078206"
+                                },
+                                {
+                                    "Message_id": "p1078211",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-08T19:11:11+02:00",
+                                    "Content": "Ach super das freut mich! Danke :)  Viele Grüße Anna",
+                                    "Response to": "p1078207"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "R code Abgabe",
+                            "Discussion_Id": "598991",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077084",
+                                    "Author": "Björn Tarik Richter",
+                                    "DateTime": "2024-06-04T21:21:30+02:00",
+                                    "Content": "Hallo, Wir sollen ja heute unseren Pretest-R-Code abgeben. Wohin sollen wir den denn schicken bzw. wo soll der Code hochgeladen werden? Grüße Björn",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077094",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-06-04T22:47:59+02:00",
+                                    "Content": "Lieber Herr Richter,  Schicken sie das Skript gerne direkt per Mail: anna-maria.hempel@tu-berlin.de  Viele Grüße und einen schönen Abend  Anna",
+                                    "Response to": "p1077084"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themen der Prüfung",
+                            "Discussion_Id": "597252",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074570",
+                                    "Author": "Konstantin Pissarsky",
+                                    "DateTime": "2024-05-28T10:33:48+02:00",
+                                    "Content": "Hallo Mafo-Team,   mir ist nicht ganz klar wie der Aufbau der Prüfung sein wird:   - Ist alles relevant was nicht Teil des praktischen Projektes ist oder können Sie Inhahlte abgrenzen? - Wird es Aufgaben zum Programmieren geben und wenn ja in welcher Sprache/ als Pseudocode?  - Wie ist generell das Format der Prüfung?   Vielen Dank und liebe Grüße!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074692",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-05-28T13:36:50+02:00",
+                                    "Content": "Lieber Herr Pissarsky,  die Klausur besteht aus Freitextfragen und hat einen Fokus auf die Marktforschungsinhalte. Es wird keine Aufgaben zum Programmieren geben.  Viele Grüße  Anna-Maria Hempel",
+                                    "Response to": "p1074570"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsApp Gruppe ",
+                            "Discussion_Id": "594319",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069963",
+                                    "Author": "Kira Charlotte Thomzig",
+                                    "DateTime": "2024-05-14T12:39:09+02:00",
+                                    "Content": "Gibt es schon eine WhatsApp Gruppe ?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppe für das Projekt",
+                            "Discussion_Id": "590339",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063723",
+                                    "Author": "Björn Tarik Richter",
+                                    "DateTime": "2024-04-26T18:40:53+02:00",
+                                    "Content": "Hi, ich habe leider gestern vergessen mir eine Gruppe zu suchen. Wer hat denn noch keine Gruppe? Bzw. möchte mich vielleicht eine 2er Gruppe aufnehmen? LG Björn",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065964",
+                                    "Author": "Ela Özdemircelik",
+                                    "DateTime": "2024-05-02T16:03:45+02:00",
+                                    "Content": "Hallo Björn,  wenn du Interesse an dem ersten Thema hast, kannst du gerne in die Gruppe Räumliche Abgrenzung kommen. Bin bisher alleine drin.  LG  Ela",
+                                    "Response to": "p1063723"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppensuche",
+                            "Discussion_Id": "591739",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065863",
+                                    "Author": "Fabian Jordan",
+                                    "DateTime": "2024-05-02T13:59:29+02:00",
+                                    "Content": "Hey, ich suche noch nach einer Gruppe, bin im Bachelor und auch eigentlich für alle Themen offen. LG Fabian Jordan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Thema: Raumdesign und Kreativität",
+                            "Discussion_Id": "590326",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063705",
+                                    "Author": "Lucas Frederic Stuve",
+                                    "DateTime": "2024-04-26T18:13:22+02:00",
+                                    "Content": "Hallo Zusammen,  gestern habe ich mich mit einer Gruppe aus Kommilitonen zusammengefunden und wir würden gerne das Semesterthema \"Raumdesign und Kreativität\" machen. Zwei der Kommilitonen sind in der Gruppe.  Nun die Frage an die Unbekannte Person, ob diese tauschen oder austreten würde. Wir würden uns sehr freuen dieses Projekt als Gruppe machen zu können.  Es wäre wirklich lieb, wenn wir das Thema machen könnten. Herzlichen Dank.  Beste Grüße und ein schönes WE,  Lucas ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anrechnung als Projekt",
+                            "Discussion_Id": "584230",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054493",
+                                    "Author": "Linus Maximilian Pfoch",
+                                    "DateTime": "2024-03-28T15:51:47+01:00",
+                                    "Content": "Ist es möglich sich das Modul als Projekt anrechnen zu lassen? Liebe Grüße!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054498",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-03-28T16:29:58+01:00",
+                                    "Content": "Lieber Herr Pfoch,  leider können wir keine verlässliche Auskunft zu Anrechnungsfragen geben. Bitte befragen Sie hierzu Ihr zuständiges Prüfungsamt.  Viele Grüße und frohe Ostern",
+                                    "Response to": "p1054493"
+                                },
+                                {
+                                    "Message_id": "p1055060",
+                                    "Author": "Linus Maximilian Pfoch",
+                                    "DateTime": "2024-04-04T11:11:33+02:00",
+                                    "Content": "Vielen Dank für die schnelle Antwort!  Nach der StuPo meines Masterstudiengangs benötige ich für den Abschluss eine Mindestanzahl von ECTS, die ein Projekt enthalten.  Damit das Prüfungsamt ein Modul als Projekt anerkennt, muss es entweder in der StuPo des Studiengangs oder auf MOSES als Projekt (PJ) gekennzeichnet sein. Alternativ reicht eine formlose, schriftliche Bestätigung der Modulverantwortlichen Person, dass der Inhalt des Moduls die Anforderungen an ein Projekt erfüllt.   Genau diese formlose Bestätigung bräuchte ich.  Die allgemeine StuPo der TU definiert dabei ein Projekt wie folgt: Projekte beinhalten fachübergreifende oder einzelfachbezogene Planungs- und/oder Realisierungsprozesse, die in kooperativen Arbeitsformen unter Anleitung der Lehrenden bearbeitet und in der Regel im Rahmen eines Referats mit anschließender wissenschaftlicher Diskussion dargestellt werden. Charakteristisch ist die weitgehend selbständige und selbstorganisierte (Gruppen-) Arbeit der Studierenden. (§47 Absatz 1 Nr. 8. Allg StuPo)  Vielen Dank und liebe Grüße!",
+                                    "Response to": "p1054498"
+                                },
+                                {
+                                    "Message_id": "p1055075",
+                                    "Author": "Ela Özdemircelik",
+                                    "DateTime": "2024-04-04T12:06:25+02:00",
+                                    "Content": "Danke für die Nachfrage. In welchem Studiengang bist du? Ich würde es mir auch gerne als Projekt anrechnen lassen LG",
+                                    "Response to": "p1055060"
+                                },
+                                {
+                                    "Message_id": "p1055091",
+                                    "Author": "Linus Maximilian Pfoch",
+                                    "DateTime": "2024-04-04T13:06:15+02:00",
+                                    "Content": "Ich studiere Information Systems Management. LG",
+                                    "Response to": "p1055075"
+                                },
+                                {
+                                    "Message_id": "p1055137",
+                                    "Author": "Anna-Maria Hempel",
+                                    "DateTime": "2024-04-04T15:38:11+02:00",
+                                    "Content": "Dann kann ich Ihnen das gerne bestätigen. Bitte senden Sie mir nachdem sie die Platzzusage bekommen haben, eine Email mit der Vorlage oder bringen Sie den ausgedruckten Zettel in die Veranstaltung mit. Viele Grüße",
+                                    "Response to": "p1055060"
+                                },
+                                {
+                                    "Message_id": "p1055180",
+                                    "Author": "Linus Maximilian Pfoch",
+                                    "DateTime": "2024-04-04T17:18:37+02:00",
+                                    "Content": "Super, vielen Dank!",
+                                    "Response to": "p1055137"
+                                },
+                                {
+                                    "Message_id": "p1054505",
+                                    "Author": "Raoul Aurel Dörfer",
+                                    "DateTime": "2024-03-28T18:00:58+01:00",
+                                    "Content": "Hey, das würde mich auch sehr interessieren. Könntest du hier bitte mitteilen, was das Prüfungsamt gesagt hat? Und am besten auch gleich, für welchen Studiengang du gefragt hast :)  Vielen Dank!",
+                                    "Response to": "p1054493"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

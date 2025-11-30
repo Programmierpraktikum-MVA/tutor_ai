@@ -1,0 +1,107 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Algebra II 2024",
+        "Course_id": "38695",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1800909",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Supplement on definition of associates primes",
+                            "Discussion_Id": "606532",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087973",
+                                    "Author": "Peter Bürgisser",
+                                    "DateTime": "2024-07-09T11:09:51+02:00",
+                                    "Content": "I uploaded a document showing that the definition of associates primes given in the lecture is equivalent to one usually given in the literature.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lasker vs Steinitz",
+                            "Discussion_Id": "605572",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086603",
+                                    "Author": "Peter Bürgisser",
+                                    "DateTime": "2024-07-04T15:27:40+02:00",
+                                    "Content": "In the lecture today, I mentioned that for polynomial rings over fields, the existence of the primary decomposition was shown by Steinitz, a chess world champion. However, I confused Steinitz with Emanuel Lasker, who also was a chess world champion. In fact, I confused Wilhelm Steinitz (the chess champion) with Ernst Steinitz, a mathematician who made important contributions to abstract algebra.  Emmy Noether generalized Lasker's theorem to any noetherian rings.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Oral exams",
+                            "Discussion_Id": "604624",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085255",
+                                    "Author": "Peter Bürgisser",
+                                    "DateTime": "2024-07-01T12:17:17+02:00",
+                                    "Content": "We will have a first round of oral exams in late August 2024. A second round is planned for the second week of October. First round: August 26 - 27. Please send me an email to      pbuerg@math.tu-berlin.de with your name and matrikel number if you want to take the exam. I will then prepare a schedule and make it available via ISIS.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation of lecture",
+                            "Discussion_Id": "600387",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079125",
+                                    "Author": "Peter Bürgisser",
+                                    "DateTime": "2024-06-11T17:16:31+02:00",
+                                    "Content": "Please fill out the online evaluation for Algebra II (lecture=  https://befragung.tu-berlin.de/evasys/online.php?pswd=CKFJS This should be done until June 29. Thank you!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation for the Übung",
+                            "Discussion_Id": "600368",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079098",
+                                    "Author": "Dominic Oliver Brooks Bunnett",
+                                    "DateTime": "2024-06-11T16:25:49+02:00",
+                                    "Content": "Dear Students, If you attended the Übung session and have time, please can you fill out the evaluation form for the Übung: https://befragung.tu-berlin.de/evasys/online.php?pswd=RW3ZR Thanks, Dominic",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Free, Projective, Flat modules",
+                            "Discussion_Id": "598663",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076619",
+                                    "Author": "Dominic Oliver Brooks Bunnett",
+                                    "DateTime": "2024-06-03T18:23:25+02:00",
+                                    "Content": "Dear Students, I have uploaded notes on the topic of today's Übung to the website. In particular, the categorical content is in an appendix at the end. I will add a few more counterexamples of interest over the coming week. Thanks, Dominic",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Thursday lectures start at 10:15.",
+                            "Discussion_Id": "587526",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059321",
+                                    "Author": "Peter Bürgisser",
+                                    "DateTime": "2024-04-19T07:34:52+02:00",
+                                    "Content": "We decided to start Thursday lectures at 10:15 (in EMH 225).",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

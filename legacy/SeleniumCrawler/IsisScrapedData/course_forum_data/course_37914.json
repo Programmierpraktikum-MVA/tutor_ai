@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Micro-Credential Sustainable Entrepreneurship",
+        "Course_id": "37914",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1773141",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "First Meeting 03.04.2024",
+                            "Discussion_Id": "583635",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1053536",
+                                    "Author": "Philipp Isbrücker",
+                                    "DateTime": "2024-03-20T13:59:52+01:00",
+                                    "Content": "Dear students, we will have an information event as you can find in the flyer attached. The meeting will be held on the 3.04.2024 11 am via Zoom. See you there!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

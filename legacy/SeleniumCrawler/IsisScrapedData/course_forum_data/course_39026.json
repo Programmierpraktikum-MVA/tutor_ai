@@ -1,0 +1,267 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Werkstoffkunde I-Praktikum",
+        "Course_id": "39026",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1813278",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation der Veranstaltung",
+                            "Discussion_Id": "607263",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088998",
+                                    "Author": "Claudia Fleck",
+                                    "DateTime": "2024-07-11T16:32:09+02:00",
+                                    "Content": "Liebe Studierende, auf ISIS finden Sie nun den Link bzw. QR-Code zur Veranstaltungsevaluation. Wir bitten Sie um rege Teilnahme und freuen uns auf Ihr Feedback. Beste Grüße Claudia Fleck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erklärung zur Bewertung der Hausaufgabe",
+                            "Discussion_Id": "604140",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084511",
+                                    "Author": "Thomas Tobias Käppel",
+                                    "DateTime": "2024-06-27T20:19:13+02:00",
+                                    "Content": "Liebe Studierende, da es vermehrt zu Nachfragen gekommen ist, möchten wir euch hiermit das System hinter der Hausaufgabenkorrektur kurz erklären.  Die Hausaufgabe wird aufgabenweise von einem Tutor pro (Teil-)Aufgabe korrigiert, die dabei erlangten Punkte findet ihr dann als Kommentar. Da die Aufgaben somit von verschiedenen Tutoren zu verschiedenen Zeiten korrigiert werden, erscheinen die Bewertungen der Teilaufgaben erst nach und nach. Ebenso können sich die Punkte in den Kommentaren während der laufenden Korrektur noch ändern, die finale Gesamtpunktzahl ist nach der entsprechenden Ankündigung direkt bei der HA einsehbar. Sollte es Rückfragen zur Bewertung einzelner Teilaufgaben geben, meldet euch nach der Ankündiung, dass die Korrektur beendet ist, an den Tutor, dessen Kürzel ihr neben der Teilaufgabe findet.  Viele Grüße Euer WK-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabe Aufgabe 1",
+                            "Discussion_Id": "600755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079670",
+                                    "Author": "Lennart Ole Neuber",
+                                    "DateTime": "2024-06-13T08:43:26+02:00",
+                                    "Content": "Liebe Studierende, da es in Aufgabe 1 der Hausaufgabe zu einigen Missverständnissen bezüglich der Vektoren a, b und c kam, möchten wir diese gern aus dem Weg räumen. Bitte beachtet, dass die gegebenen Vektoren als Richtungen verstanden werden sollen und nicht als Einheitsvektoren. Das bedeutet, dass ihre Längen nicht notwendigerweise 1 betragen. Das ist wichtig für die korrekte Bearbeitung der Aufgabe und wir bitten Euch, dies bei Eurer Lösung zu berücksichtigen. Solltet Ihr weitere Fragen oder Unklarheiten haben, zögert nicht uns zu kontaktieren, oder kommt in die online Sprechstunde am Montag. Viel Erfolg weiterhin bei der Bearbeitung der Hausaufgabe. Euer WK-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunden zur Hausaufgabe",
+                            "Discussion_Id": "599743",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078157",
+                                    "Author": "Thomas Tobias Käppel",
+                                    "DateTime": "2024-06-08T11:19:38+02:00",
+                                    "Content": "Liebe Studierende, alle eure Fragen zur Hausaufgabe könnt ihr in den folgenden beiden Sprechstunden loswerden: Dienstag 11.06 10-11 Uhr in Präsenz -Die Sprechstunde wird im Labor (EB 126) stattfinden Montag 17.06 18-19 Uhr online - Unter folgendem Link könnt ihr euch über Zoom einwählen LINK Kommt vorbei, wenn ihr Fragen habt. Euer WK-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ersatzpraktika für Feiertag 20.05.24",
+                            "Discussion_Id": "594121",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069627",
+                                    "Author": "Julian Paul Neumüller",
+                                    "DateTime": "2024-05-13T16:23:54+02:00",
+                                    "Content": "Liebe Studierende, diese Mitteilung betrifft diejenigen Studenten, die standardmäßig nächste Woche Montag (20.05.) ein Praktikum haben. Da aufgrund von Pfingsten sämtliche Termine für diesen Tag ausfallen, muss das Praktikum an einem anderen Termin besucht werden. Wir haben dafür eine Umfrage gestartet, an der bisher noch nicht alle Betroffenen teilgenommen haben. Wir bitten euch deshalb noch einmal, einen Ersatztermin zu wählen, damit ihr das Praktikum 2 trotzdem normal besuchen könnt.  Danke für das Verständnis! Euer WK-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frist für Prüfungsanmeldung (28.04.)",
+                            "Discussion_Id": "590145",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063440",
+                                    "Author": "Lukas Wedenig",
+                                    "DateTime": "2024-04-26T11:40:04+02:00",
+                                    "Content": "Liebe Studierende, nächste Woche beginnen wir mit der A-Woche der Praktika. Da ihr mit der Praktikumsanwesenheit die Möglichkeit habt, euch die ersten 10 Punkte eurer Portfolioleistung zu verdienen, müsst ihr euch vorher zur Portfolioprüfung anzumelden. Die Frist dafür ist Sonntag, der 28.04. um 23:59 Uhr. Verwendet hierfür das MTS auf Moses (Link). Überprüft eure Anmeldung gerne ein zweites Mal, da ihr ansonsten weder am Praktikum noch der Prüfung teilnehmen könnt. Achtet auch nochmal darauf, ob ihr auf Moses für Praktika in der 3. Vorlesungswoche (A-Woche) oder 4. Vorlesungswoche (B-Woche) eingetragen seid, damit ihr nicht zu einem falschen Termin erscheint. Die B-Woche beginnt erst am 06.05. und euer persönlicher Termin findet alle zwei Wochen statt. Viel Erfolg und beste Grüße Euer Werkstoffkunde Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ersatzpraktika für Feiertag 01.05.24",
+                            "Discussion_Id": "589187",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061980",
+                                    "Author": "Lennart Ole Neuber",
+                                    "DateTime": "2024-04-24T09:01:45+02:00",
+                                    "Content": "Liebe Studierende, aufgrund des Feiertags nächste Woche (01.05.2024) entfallen alle Praktikumstermine am Mittwoch der A-Woche. Betroffen sind also die Termine A32, A33, A34 und A35. Sollte Ihr Praktikum 1 davon betroffen sein, müssen Sie sich selbst einmalig in ein anderes Praktikum überweisen. Es ist nicht möglich unangemeldet zu einem anderen Praktikum zu erscheinen, da es eine sicherheitsbedingte Obergrenze an Personen, die sich gleichzeitig im Labor aufhalten dürfen, gibt. Nutzen Sie dazu das Wahltool \"Feiertagsgruppenwahl\", welches Sie unter dem Kursabschnitt \"Wichtige Hinweise zum PR 1\" finden. Dort können Sie einen einmaligen Ersatztermin wählen. Einen Überblick über die Termine finden Sie hier. (Tipp von uns: Teilnehmende von A32 können sich einfach für Termin B32 eintragen.) Die Bildung der Hausaufgabengruppen findet bei den betroffenen Praktika zum zweiten Praktikumstermin statt!  Da es bei der Bearbeitung des Sicherheitskurses zu Missverständnissen kam, achtet darauf, diesen vollständig (Punkt 8 „Eigenständigkeitserklärung“) bis zum Start des Praktikums zu bearbeiten. Denkt außerdem an die Prüfungsanmeldung bis zum 28.04.24. Viele Grüße euer WK-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tauschtermin und Übersicht Praktikumstermine",
+                            "Discussion_Id": "587862",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059850",
+                                    "Author": "Till Johannes Fritz Isermeyer",
+                                    "DateTime": "2024-04-19T19:12:10+02:00",
+                                    "Content": "Liebe Studierende,  wie jedes Semester, möchten wir Euch auch dieses Jahr die Möglichkeit geben, die von Moses vergebenen Praktika bei Terminkollision zu tauschen. Wir möchten dabei darauf hinweisen, dass Ihr in den meisten anderen Modulen keine Punkte für Anwesenheit bekommt und daher (im Gegensatz zu unserem Modul) keine feste Bindung an den Euch zugewiesenen Mosestermin besteht. Es ist also oft einfacher, bei Terminkollision ein anderes Tutorium des anderen Moduls zu besuchen.  Zum Tauschtermin könnt ihr ebenfalls erscheinen, wenn ihr die Anmeldung komplett versäumt habt.  Um allen die Möglichkeit des Teilnehmens zu geben, wird der Tauschtermin per Zoom stattfinden. Außerdem haben wir den Termin nach Ende aller Veranstaltungen: Montag, den 22.04.2024 von 20 bis 20:30 gelegt. Genauere Informationen findet ihr im Kurs bei Aktuelles.  Für eine bessere Übersicht findet ihr unter Kontakt und Sprechstunde die finale Übersicht aller Praktikumstermine.  Bitte beachtet, dass nach diesem Termin kein Tausch/ Erhalten eines Praktikumsplatzes mehr möglich ist.  Beste Grüße und ein entspanntes Wochenende Euer Werkstoffkunde Team  ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061153",
+                                    "Author": "Thomas Tobias Käppel",
+                                    "DateTime": "2024-04-22T20:29:21+02:00",
+                                    "Content": "Für alle, bei denen der Link zum Meeting nicht funktioniert: https://tu-berlin.zoom.us/j/61939987907?pwd=bERlN25LaUNCWlgwVTV5VFFVelViZz09",
+                                    "Response to": "p1059850"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Praktikumsstart und Vorbereitungstests",
+                            "Discussion_Id": "588366",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060689",
+                                    "Author": "Lennart Ole Neuber",
+                                    "DateTime": "2024-04-22T12:31:30+02:00",
+                                    "Content": "Liebe Studierende, ab der nächsten Woche (29.04) beginnt das erste Praktikum im Raum EB 126. Zur Teilnahme am Praktikum ist neben dem Bestehen der Sicherheitsunterweisung die Durchführung des jeweiligen Vorbereitungstests vor eurem individuell zugewiesenen Termin notwendig, ohne abgeschlossenen Vorbereitungstest (und Sicherheitsunterweisung) könnt ihr nicht am Praktikum teilnehmen und verliert potenziell 10 Portfoliopunkte! Der Vorbereitungstest zu Praktikum 1 ist ab sofort hier im Kurs verfügbar und wird auch in Zukunft immer ab einer Woche vor Start des jeweiligen Praktikums Montags verfügbar sein. Viel Erfolg und bis nächste Woche vor Ort! Euer WK-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Frist für die Anmeldung zum Praktikum",
+                            "Discussion_Id": "586411",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057702",
+                                    "Author": "Julian Paul Neumüller",
+                                    "DateTime": "2024-04-16T14:22:29+02:00",
+                                    "Content": "Liebe Studierende, wir begrüßen euch herzlich zum Sommersemester 2024. Eine Teilnahme an den Praktika vermittelt und vertieft Wissen aus der Vorlesung und bietet euch die Chance auf 10 Portfoliopunkte (siehe Informationen und Voraussetzungen im ISIS-Kurs der Vorlesung). Für die Teilnahme ist eine Anmeldung notwendig, welche einer Frist unterliegt. Deshalb möchten wir euch noch einmal daran erinnern, dass ihr euch bis spätestens zum 17.04.2024 um 18:00 Uhr für das Werkstoffkunde I (Praktikum) über Moses (unter Tutorienplanung) anmeldet. Bitte beachtet, dass dies eine allgemeine TU-Frist ist und wir diese nicht beeinflussen/verlängern können.  Ein bloßes Einschreiben in diesem ISIS-Kurs ist keine Anmeldung für das Praktikum, diese muss über Moses erfolgen. Viel Erfolg für das kommende Semester und beste Grüße Euer Werkstoffkunde Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum zum PR 01",
+                    "Forum_id": "1813294",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Praktikum 1.Mai",
+                            "Discussion_Id": "588599",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061084",
+                                    "Author": "Paul Heiner Günter Richartz",
+                                    "DateTime": "2024-04-22T18:17:29+02:00",
+                                    "Content": "Sehr geehrtes Team der Werkstoffkunde, da mein Praktikum in der 3 Vorlesungswoche am Mittwoch zwischen 12-14 Uhr stattfindet, dieser aber ein Feiertag ist, einerseits die Frage, wann man den Termin nachholt und wenn man diesen Nachholt, ob ich einmalig in der 4 Woche an einem Termin mitmachen könnte, da ich in der dritten Woche in Fernost bin. Vielen Dank für die Info und freundliche Grüße Paul Richartz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063334",
+                                    "Author": "Till Johannes Fritz Isermeyer",
+                                    "DateTime": "2024-04-26T09:39:37+02:00",
+                                    "Content": "Hallo Paul,  konntest du in dem von uns angebotenen Überweisungstool einen passenden Termin finden? Sonst melde dich gerne nochmal.  Viel Erfolg und bis dahin",
+                                    "Response to": "p1061084"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung",
+                            "Discussion_Id": "589695",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062779",
+                                    "Author": "Alexander Buluschew",
+                                    "DateTime": "2024-04-25T10:34:34+02:00",
+                                    "Content": "Hey, ich wollte ebenfalls fragen wo ich einsehen kann in welcher Gruppe des Praktikums ich eingeteilt wurde, da bei moses nur drin steht, dass ich einen Platz habe aber nicht in welcher Termingruppe. Lg",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063326",
+                                    "Author": "Till Johannes Fritz Isermeyer",
+                                    "DateTime": "2024-04-26T09:32:15+02:00",
+                                    "Content": "Hallo Alexander,  hilft dir die Antwort auf den Beitrag darunter? Start 3. Vorlesungswoche = A Gruppe Start 4. Vorlesungswoche = B Gruppe  Viel Erfolg und bis dahin",
+                                    "Response to": "p1062779"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenteinteilung",
+                            "Discussion_Id": "588654",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061160",
+                                    "Author": "Yousuf Khan",
+                                    "DateTime": "2024-04-22T20:58:48+02:00",
+                                    "Content": "Guten Tag  Und zwar wollte ich fragen wo genau ich sehen kann zu welcher Gruppe ich gehöre, ich habe zwar eine Einteilung per Moses erhalten jedoch steht da nicht on ich in der A oder B Gruppe bin. MfG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063325",
+                                    "Author": "Till Johannes Fritz Isermeyer",
+                                    "DateTime": "2024-04-26T09:30:24+02:00",
+                                    "Content": "Hallo Yousuf,  unter Aktuelles steht eine Erklärung dafür. Ich fassse es dir nochmal kurz zusammen :) Start 3. Vorlesungswoche = A Gruppe Start 4. Vorlesungswoche = B Gruppe  Viel Erfolg und bis dann",
+                                    "Response to": "p1061160"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            null,
+            null,
+            null,
+            [
+                {
+                    "Forum_name": "Forum zum PR 06",
+                    "Forum_id": "1813369",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Pratikumsunterlagen",
+                            "Discussion_Id": "605703",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086784",
+                                    "Author": "Lama Abboud",
+                                    "DateTime": "2024-07-05T10:16:46+02:00",
+                                    "Content": "Liebes WK-Team, Besteht die Möglichkeit, dass die Lösungen aller Praktikums-Aufgabenblätter hochgeladen werden, da es manchmal schwierig war alles wichtige zu notieren?  Dies wäre auf jeden Fall sehr hilfreich in Bezug auf die Klausurvorbereitung. Vielen Dank im Voraus und liebe grüße!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freischalten des Vorbereitungstest",
+                            "Discussion_Id": "605200",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086088",
+                                    "Author": "Sebastian Simon Stark",
+                                    "DateTime": "2024-07-03T10:42:25+02:00",
+                                    "Content": "Liebes WK-Praktikumsteam, der Vorbereitungstest für PR 06 ist für den 03.07.2023 bis 19.07.2023 freigeschalten. Könnten Sie da bitte korrigieren? Vielen Dank und herzliche Grüße",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086110",
+                                    "Author": "Lukas Wedenig",
+                                    "DateTime": "2024-07-03T11:21:51+02:00",
+                                    "Content": "Lieber Sebastian Simon Stark,  vielen Dank für den Hinweis. Es sollte nun korrigiert sein.  Viel Erfolg!",
+                                    "Response to": "p1086088"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

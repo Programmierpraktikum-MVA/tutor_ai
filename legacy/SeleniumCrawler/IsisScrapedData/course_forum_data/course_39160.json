@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Seminar Stochastische Prozesse",
+        "Course_id": "39160",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1820416",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Next meeting",
+                            "Discussion_Id": "587050",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058584",
+                                    "Author": "Jean-Dominique Deuschel",
+                                    "DateTime": "2024-04-17T17:58:33+02:00",
+                                    "Content": "Next meeting April 24",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

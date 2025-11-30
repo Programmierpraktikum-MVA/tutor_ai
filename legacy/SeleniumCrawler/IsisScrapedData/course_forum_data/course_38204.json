@@ -1,0 +1,110 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Hybrid Systems",
+        "Course_id": "38204",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1783914",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Instructions and topics of the exam",
+                            "Discussion_Id": "607579",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089473",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-07-12T18:41:05+02:00",
+                                    "Content": "Dear participants, the first written examination date for our course is on Friday, August 2. Below are some instructions regarding the exam: the exam will be held in room MA 001. Please be there no later than 17:20; exam sheets will be handed out at 17:30; it is not necessary to bring blank sheets for the solution, they will be provided by us; the duration of the exam is 90 minutes, extra 10 minutes will be provided at the beginning to read the tasks and ask questions; the exam is open-book, i.e., you are allowed to consult any written material during the exam; the use of electronic devices is not allowed (not even calculators or tablets); remember to bring your student card. Regarding the type of questions you should expect in the exam: the exam will cover all the topics seen in the course; the tasks of the exam will mostly consist in exercises; however, small theoretical questions may be asked; computer exercises will not be part of the exam; in preparation for the exam, we recommend that you practice solving the exercises of the course, and review the topics covered in class. Ideally, you should be able to do the calculations fast enough so that you will have time for solving tasks that require more reasoning. Best, Davide",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching evaluation",
+                            "Discussion_Id": "602063",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081548",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-06-19T12:09:18+02:00",
+                                    "Content": "Dear participants,  we would like to invite you to participate in the evaluation of our Hybrid Systems course. Please follow this link before June 28 to take the survey (available in German and English, duration between 5 and 10 minutes). Note that each student should take part in the survey not more than once per course.  Please make an effort to participate, as your opinion can greatly help us improve the quality of the course.  Best, Davide",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1083687",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-06-25T17:34:32+02:00",
+                                    "Content": "Dear participant,  we would like to remind you to take part in the survey for the teaching evaluation of our Hybrid Systems course. Although participation is not mandatory, it is greatly appreciated. The deadline is this Friday.  Best, Davide",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1088368",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-07-10T10:19:08+02:00",
+                                    "Content": "Dear participants,  thank you for taking the time to participate in the evaluation of our course. You can find the results of the evaluation attached to this announcement.  Best regards, Davide",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Exam registration",
+                            "Discussion_Id": "596321",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073050",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-05-23T14:42:33+02:00",
+                                    "Content": "Dear participants, on the ISIS page Introduction and organization, you can find the instructions to register for the Hybrid Systems exam. Two exam dates are offered this semester: first exam date: August 2 at 17:30 in room MA 001; second exam date: October 4 at 08:30 in room PTZ S001. Note that, during the registration process, you must indicate which exam date you wish to register for.  Best, Davide",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Thermostat Simulink model",
+                            "Discussion_Id": "586390",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057671",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-04-16T13:47:18+02:00",
+                                    "Content": "Dear participants, On ISIS you can find a Simulink model of the thermostat seen in Lecture 1. All Simulink models that will be shared during the semester are to be considered as additional material that may be useful to bridge the gap between theory and applications. Feel free to download, edit, and \"play\" with them. If you find any problem with the Simulink models, you can either contact me before/after every exercise session or via email, or create a post in the Participant's forum. Also some of the exercises will deal with modeling and simulation of hybrid systems using Simulink; nevertheless, knowledge of Simulink will not be required for the exam.  Have fun!  Best, Davide",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Participants' forum",
+                    "Forum_id": "1783915",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Exercise Session 3 video",
+                            "Discussion_Id": "595333",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071555",
+                                    "Author": "James Reynaldo",
+                                    "DateTime": "2024-05-18T18:22:37+02:00",
+                                    "Content": "Hello everyone,  the video for the 3rd exercise cannot be opened. It always says \"can't find this video\". Does anyone else have this problem? Thanks.  Sincerely, James",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1071572",
+                                    "Author": "Davide Zorzenon",
+                                    "DateTime": "2024-05-18T21:07:08+02:00",
+                                    "Content": "Hello James,  videos are made available only after the corresponding exercise sessions. The third exercise session is scheduled for the next week. That's why you cannot access the video yet.  Best, Davide",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

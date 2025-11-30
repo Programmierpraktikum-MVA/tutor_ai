@@ -1,0 +1,246 @@
+[
+    {
+        "Course_Name": "Praktikum Lebensmittelprozesstechnik",
+        "Course_id": "36908",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1727666",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Wirbelschicht-Protokoll",
+                            "Discussion_Id": "600936",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079927",
+                                    "Author": "Julia Seilert",
+                                    "DateTime": "2024-06-13T16:42:30+02:00",
+                                    "Content": "Liebe Studierende,  solltet ihr noch Fragen zum Wirbelschicht Protokoll haben, dann bitte an Marie Schütt (m.schuett@tu-berlin.de).  Viele Grüße Julia ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hinweis zum Protokoll: Trocknen &amp; Gefrieren",
+                            "Discussion_Id": "600567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079372",
+                                    "Author": "Felix Geisendörfer",
+                                    "DateTime": "2024-06-12T12:05:05+02:00",
+                                    "Content": "Hallo Studierende, auf Grund einer Nachfrage ist mir aufgefallen, dass Formel (9) aus dem Skript fehlerhaft ist. Die korrigierte Formel findet ihr in einer neben neu hochgeladenen Version des Skripts. Viele Grüße, Felix Geisendörfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "2. Sprechstunde \"Gefrieren &amp; Trocknen\"/\"Wirbelschicht\"",
+                            "Discussion_Id": "599926",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078447",
+                                    "Author": "Felix Geisendörfer",
+                                    "DateTime": "2024-06-10T10:46:19+02:00",
+                                    "Content": "Hallo Studierende, wir werden die Sprechstunden für die Versuche \"Gefrieren & Trocknen\" und \"Wirbelschicht\" kommenden Donnerstag (13.06.) zusammenlegen. Um Überschneidungen mit etwaigen Vorlesungen zu vermeiden, starten wir um 16 Uhr (statt wie bisher um 15 Uhr). Treffpunkt ist der Eingangsbereich vor unseren Räumlichkeiten am Hauptcampus (TK1). Auf Grund der geringen Nachfrage sollte es möglich sein, dass wir uns den Seminarraum für die Zeit teilen. Viele Grüße, Felix Geisendörfer",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldungen mündliche Rücksprache",
+                            "Discussion_Id": "598585",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076513",
+                                    "Author": "Karl Schlumbach",
+                                    "DateTime": "2024-06-03T15:17:07+02:00",
+                                    "Content": "Liebe Studierende, bitte tragt euch bis 16. Juni für einen der beiden Termine (16.7. oder 24.9.) für die mündliche Rücksprache ein. Wir werden dann entsprechend der Anmeldungen die Prüfungsgruppen und die Prüfer festlegen. Die Prüfungen werden an den Tagen von 9:00 - 16 Uhr stattfinden. Jeder Studierende wird 15 min geprüft. Bei Gruppen mit 3 Studierenden dauert die Prüfung dann also 45 min.  Die genauen Zeiten der Rücksprache werden nach Abschluss der Anmeldung bis 21.6. veröffentlicht.  Viele Grüße Karl Schlumbach PS: Die folgenden Protokolle werden nicht mehr ad-hoc korrigiert. Die Ergebnisse der einzelnen Protokolle werden dann mit dem Gesamtergebnis inkl. mündlicher Rücksprache veröffentlicht.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Protokoll_Zerkleinern_Feedback",
+                            "Discussion_Id": "590934",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064641",
+                                    "Author": "Tim Terstegen",
+                                    "DateTime": "2024-04-29T17:08:54+02:00",
+                                    "Content": "Liebe Studierende,   Wir sind mit den Korrekturen der Protokolle durch. Leider ist die erste Runde der Protokolle etwas enttäuschend ausgefallen. Es gab zwar ein paar von euch, die ein (sehr) gutes Protokoll abgegeben haben, aber der Durchschnitt ist doch ernüchternder als erwartet. Schaut euch daher das individuelle Feedback genau an. Die Noten für das Zerkleinern-Protokoll findet ihr in dem ISIS Kurs beim Abschnitt Zerkleinern.    Hier sind aber noch ein paar allgemeine Hinweise:  Im Methodenteil müsst ihr darstellen, wie die einzelnen Prozesse abgelaufen sind. Viele haben z.B. zwar geschrieben, dass das Programm ImageJ verwendet wurde, um die Partikelgröße der Körner zu ermitteln, aber hier müsstet ihr konkret nochmal aufführen, welche Schritte ihr unternommen habt, um die diese zu bestimmen. Es gab hier keine allgemeingültige Vorlage, die jede Gruppe genau so umgesetzt hat. Generell wurden Annahmen die getroffen wurden, selten beschrieben oder diskutiert. Ihr müsst wirklich klarstellen, was eine Annahme ist und warum ihr diese getroffen habt. Mit welchem Durchmesser wurde z.B. die Sinkgeschwindigkeit der Weizenkörner bestimmt? Habt ihr angenommen, dass das Korn sich in der Strömung ausrichtet und habt daher mit dem Minor gerechnet? Oder habt ihr einen volumengleichen Äquivalentdurchmesser genutzt? Oder habt ihr mit dem Major gerechnet? Gleiches gilt z.B. auch für die Siebanalyse. Die meisten haben mit einem maximalen Partikeldurchmesser von 3.5 bis 4 mm gearbeitet, aber woher kommt dieser Wert, wenn das größte Sieb nur einen 2 mm Maschenweite hatte? Bei der Fehlerdiskussion war es nicht ausreichend nur mögliche Einflussfaktoren zu benennen, sondern eine konkrete Erklärung, wie die Einflussfaktoren sich genau auf das Ergebnis auswirken, war nötig. Teilweise wurden auch sich wiedersprechende Angaben gemacht. Wenn z.B. angenommen wurde, dass die Körner im Steigsichter nicht als Einzelpartikel sedimentieren, sondern als Partikelschwarm, würde das bedeutet, dass die Sinkgeschwindigkeit niedriger sein muss (Sinkgeschwindigkeit Einzelpartikel > Sinkgeschwindigkeit Schwarm), was wiederum bedeuten würde, dass euer berechneter Volumenstrom zu hoch anstelle von zu niedrig ist. Außerdem gibt es klare Kriterien, ab wann ein Partikelschwarm vorliegt. Diese wurden aber in den seltensten Fällen angegeben. Auch der Ausdruck war stellenweise sehr schwammig/falsch. Bei dem Klassieren im Steigsichter werden die Partikel nicht anhand ihrer Dichte getrennt, sondern anhand ihrer unterschiedlichen Sinkgeschwindigkeiten. Die Dichte, aber auch weitere Parameter wie die Größe, geht dabei in die Berechnung der Sinkgeschwindigkeit ein. Ich würde euch für die anderen Protokolle dringend empfehlen in die Vorlage bzw. in das Skript reinzuschauen, was alles im Praktikum gemacht wurde. Einige von euch haben ganze Abschnitte leider komplett vergessen zu bearbeiten (Auswertung vom RRSB-Netz und die damit verbundenen Feinheitsparameter oder der Vergleich von Modal, Median oder Zerkleinerungsgrad etc.). Auch waren teilweise die Rechtschreibung und Grammatik sehr schlecht. Dies führte dazu, dass auch nach mehrmaligen lesen der Sätze nicht immer klar war, was damit gemeint ist. Die Korrektur der Protokolle erfolgte durch das Team, welches das LPT-Praktikum durchgeführt hat anhand eines sehr detaillierten Kataloges von Hanna und mir. Es kann aber sein, dass die Computer, die meine Kollegen verwendeten, noch von deren Vorgängern stammen, weshalb der Name, der bei den Kommentaren steht, nicht immer richtig ist. Bei allen Fragen meldet euch aber bei mir.  Es kann auch sein, dass ihr die individuellen Kommentare nicht sehen könnt. Versucht dann euer PDF mit einem anderen Programm zu öffnen. Solltet ihr bei den nächsten Protokollen Fragen haben, nutzt auch die Sprechstunden.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe_Protokolle_Zerkleinern",
+                            "Discussion_Id": "589116",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061868",
+                                    "Author": "Tim Terstegen",
+                                    "DateTime": "2024-04-23T20:21:42+02:00",
+                                    "Content": "Liebe Studierende,   morgen muss das Zerkleinern Protokoll abgegeben werden. Bitte sendet mir dieses per E-Mail zu (t.terstegen@tu-berlin.de).   Bitte sendet das Protokoll von eurer TU-E-Mail-Adresse aus. Bitte fügt auch einen Betreff und einen kurze Nachricht hinzu.    Protokolle die ich über private E-Mails oder Protokolle in einer E-Mail ohne alles erhalte, kann ich so nicht annehmen.  Viele Grüße Tim ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061872",
+                                    "Author": "Tim Terstegen",
+                                    "DateTime": "2024-04-23T20:37:43+02:00",
+                                    "Content": "Die Abgabe kann morgen bis 23:59 Uhr geschehen.",
+                                    "Response to": "p1061868"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "(I)Pad Stift in Ackerstrasse gefunden ",
+                            "Discussion_Id": "585639",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056543",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-04-12T15:27:40+02:00",
+                                    "Content": "Hallo zusammen, in der Ackerstrasse wurde heute ein (I)PAd Stift gefunden. Vivien nimmt die Stift mit, so dass er ab MOntag im TK abgeholt werden könnte. Ich wünsche ein schönes Wochenende. VG; Susanne Rudolph",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Skript \"Wirbelschicht\" und Excelvorlage geändert",
+                            "Discussion_Id": "584622",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055097",
+                                    "Author": "Julia Seilert",
+                                    "DateTime": "2024-04-04T13:35:06+02:00",
+                                    "Content": "Liebe Studierende,  ich habe eben auf Seite 7 des Skripts zur Wirbelschicht den Parameter \"Zirkularität\" in Tabelle 1 ergänzt. Das Skript ist jetzt als Version 2 abgespeichert. Die Änderung könnt ihr auch handschiftlich selbst vornehmen, solltet ihr das Skript ausgedruckt haben.  Außerdem haben wir einen Teil des Versuchs getestet und anhand dessen die Excelvorlage angepasst. Die braucht ihr in der 2. Version ab Montag. Bitte denkt daran, dass pro Gruppe ein Laptop/Tablett mit Excel zur Verfügung stehen soll.  Viele Grüße Julia ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung ver6",
+                            "Discussion_Id": "584467",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054874",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-04-03T08:53:49+02:00",
+                                    "Content": "Beste Studierende, ich habe heute die sechste Änderung der Gruppeneinteilung aufgrund von Änderungswünschen von Studierenden vorgenommen. Bitte beachten Sie die neue Gruppeneinteilung und stellen Sie sicher, dass Sie am Montag am richtigen Ort sind. Ich danke Ihnen. Mit freundlichen Grüßen, Susanne Rudolph",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Skript \"Trennen\" aktualisiert",
+                            "Discussion_Id": "584434",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054827",
+                                    "Author": "Henriette Brykczynski",
+                                    "DateTime": "2024-04-02T17:58:09+02:00",
+                                    "Content": "Liebe Studierende,   Wir haben im Skript für den Teilversuch \"Trennen\" Änderungen vorgenommen: Es gibt einen Versuchsteil 0 b). - dieser beschreibt die Erstellung von Kalibriergeraden Die eingesetzte Carrez-Konzentration variiert für die verschiedenen Gruppen. Bitte hier auf die entsprechende Tabelle (S. 5) achten, um die Konzentration für den jeweiligen Versuchstag zu kennen.  Wir bitten daher alle, sich die Änderungen (rot markiert) anzusehen und auch zum Versuchstag das aktuelle Skript mitzubringen.   Liebe Grüße Henriette",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Information zum LPT Praktikum",
+                            "Discussion_Id": "581944",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1050884",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-02-29T10:53:22+01:00",
+                                    "Content": "Liebe Studierende, hier einige Informationen zum LPT-Praktikum. Allgemeines: 1)     Die Vorlesung LPT und das Praktikum LPT sind zwei selbständige Module. 2)     Sie bekommen jeweils eine Prüfung zur Vorlesung und eine Prüfung zum Praktikum. 3)     Falls Sie noch in der alten StuPO studieren, bitte melden Sie sich bei mir (s.rudolph[at]tu-berlin.de).   Abmeldung: Eine Abmeldung ist eigentlich nicht mehr möglich. Falls Sie sich nun doch abmelden müssen, so geht dies nur per E-Mail an mich (s.rudolph[at]tu-berlin.de) bis spätestens 12.03.2024. Wer sich nicht bis dahin abgemeldet hat, ist verbindlich angemeldet. Dies bedeutet, dass bei unentschuldigtem Fehlen der erste Prüfungsversuch für das LPT Praktikum eine 5,0 ist.   Weitere Informationen zum Praktikum: Antestate: Es wird zu jedem Versuch ein Antestat geben. Ob wir sie am Versuchstag oder am Anfang jeder Woche gebündelt prüfen, haben wir noch nicht entschieden. Sie bekommen hierfür in den Skripten Vorbereitungsfragen. Wer das Antestat nicht besteht, kann am Versuchstag zunächst trotzdem teilnehmen, wird aber am Folgetag erneut dazu geprüft. Wer 2x durch das Antestat fällt, muss das Praktikum im nächsten Jahr leider wiederholen. Insgesamt darf man maximal 2x den ersten Versuch bei einem Antestat nicht bestehen. Beim dritten nicht bestandenen Erstversuch ist das Praktikum ebenfalls zu wiederholen. Protokolle: Zu den Versuchen müssen Protokolle erstellt werden. Hierfür haben wir auch eine Vorlage, sowie einen Leitfaden erstellt, die Ihnen das Schreiben erleichtern sollen. Wir werden Ihnen konkret vorgeben, was wir in den einzelnen Abschnitten erwarten. Vor allem möchten wir, dass Sie den Fokus auf den Inhalt und das Fachliche legen (Ergebnisse und Diskussion). Die Protokolle werden von uns nach einem festen Kriterienkatalog bewertet. Sofern sie den Qualitätsstandards genügen, werden Sie zur ‚LPT Praktikum‘ Prüfung zugelassen.   Ablauf: Es wird 5 Versuchstage geben. Planen Sie für jeden Versuchstag den ganzen Tag ein! Seien Sie sich bitte über den hohen Arbeitsaufwand dieses Praktikums bewusst und überlegen Sie sich bitte bis zum 12.03.2024, ob Sie daran teilnehmen möchten, damit wir entsprechend planen können! Sollten Sie Fragen zum Praktikum haben, melden Sie sich bei mir: s.rudolph[at]tu-berlin.de Mit besten Grüßen, Susanne Rudolph",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1054806",
+                                    "Author": "Karl Schlumbach",
+                                    "DateTime": "2024-04-02T15:44:28+02:00",
+                                    "Content": "Liebe Studierende, ich habe den Praktikumsplan (Termine und Fristen) aktualisiert. Geändert wurde die Startzeit für Gruppe 3 beim Versuch Kristallisation am Donnerstag, den 11.4.24, da hier mehrere Studierende im Vorfeld eine Klausur schreiben. VG Karl Schlumbach",
+                                    "Response to": "p1050884"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung ver 2",
+                            "Discussion_Id": "584370",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054730",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-04-02T11:49:20+02:00",
+                                    "Content": "Natürlich hatte ich einen Fehler gemacht...ich habe gerade die neue Version hochgeladen.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppeneinteilung",
+                            "Discussion_Id": "584328",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1054676",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-04-02T09:06:11+02:00",
+                                    "Content": "Beste Studierende, auf dem ISIS Kurs LPT-Praktikum finden Sie die Eineteilung für das LPT Praktikum, das nächste Woche beginnt. Falls Sie Fragen hierzu haben sollten, melden Sie sich bei mir: s.rudolph[at]tu-berlin.de Mit besten Grüßen, Susanne Rudolph",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung - LPT Praktikum Abstimmung ",
+                            "Discussion_Id": "571805",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1035502",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-01-12T15:30:32+01:00",
+                                    "Content": "Beste Studierende, bitte vergessen Sie nicht, auch an der Abstimmung teilzunehmen. Erst wenn Sie bei der Abstimmung teilgenommen haben, werden wir Sie auch für das Praktikum einteilen. Es reicht also nicht, sich nur in den Kurs einzutragen. Vielen Dank und ein schönes Wochenende. Mit besten Grüßen, Susanne Rudolph",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abstimmung zur Teilnahme am LPT Praktikum",
+                            "Discussion_Id": "570444",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1033503",
+                                    "Author": "Susanne Rudolph-Flöter",
+                                    "DateTime": "2024-01-08T14:44:39+01:00",
+                                    "Content": "Beste Studierende, ich wünsche Ihnen ein gutes und erfolgreiches 2024. Für die Planung des LPT Praktikums, das vom 8.4. bis zum 12.4. 2024 stattfinden soll, bitten wir Sie an der Abstimmung auf der Seite 'Allgemeines' des ISIS Kurses 'PR LPT'  teilzunehmen. Wenn Sie bis zum 21. Januar 2024 nicht an der Abstimmung teilgenommen haben, gehen wir davon aus, dass Sie nicht am LPT Praktikum teilnehmen wollen und tragen Sie aus dem Kurs. Wir danken Ihnen für Ihre Unterstützung. Mit besten Grüßen, Susanne Rudolph",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum für Studierende",
+                    "Forum_id": "1769015",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hinweise Protokoll Kristallisation",
+                            "Discussion_Id": "598778",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076777",
+                                    "Author": "Karl Schlumbach",
+                                    "DateTime": "2024-06-04T10:27:13+02:00",
+                                    "Content": "Liebe Studierende, kurze Hinweise zum Kristallisationsprotokoll aufgrund der Fragen aus der heutigen Sprechstunde. In der Datei der Kristallisationsanlage gibt es immer wieder Minuswerte. Die Ursache hierfür sind fehlerhafte Werte des Refraktometers, die sich dann auf die anderen Werte auswirkt. Das seht ihr in einzelnen Spitzen und extremen Minuswerten in einigen Parametern. Ihr könnt diese Extreme löschen. Es bietet sich an, gleich die ganze Zeile zu löschen, da der Fehler oft mehrere Parameter betrifft.  ABER, beim Kristallgehalt findet ihr insbesondere im Anfangsbereich des Prozesses, also der Verdampfung, auch manchmal negative Werte. Bedenkt, dass vor dem Impfpunkt der Kristallgehalt null sein müsste. Ihr dürft mit der Darstellung des Kristallgehaltes auch erst ab dem Impfpunkt beginnen. Stellt den Prozess auch nur zwischen Einfüllen des Sirups bis zum Kristallisationsende dar. Das Aufheizen und die Reinigung der Anlage sind für das Protokoll nicht interessant.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

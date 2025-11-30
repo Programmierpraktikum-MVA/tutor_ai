@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Altlasten",
+        "Course_id": "38914",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1809632",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Klausur",
+                            "Discussion_Id": "606093",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087348",
+                                    "Author": "Ferry Schiperski",
+                                    "DateTime": "2024-07-08T10:17:56+02:00",
+                                    "Content": "Wie besprochen: Termin 1: 16.07 10:00 Termin 2: 22.07 10:00  Grüße",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung 30.04--&gt;verschieben",
+                            "Discussion_Id": "590057",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063316",
+                                    "Author": "Ferry Schiperski",
+                                    "DateTime": "2024-04-26T09:14:49+02:00",
+                                    "Content": "Müssen aufgrund einer Dienstreise kurzfristig den nächsten Termin verschieben auf den 7.05. Würde daher auch gern in der Woche nach Himmelfahrt 2 Vorlesungen anbieten!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisatorisches zur Lagerstättenkunde",
+                            "Discussion_Id": "587021",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058544",
+                                    "Author": "Thomas Neumann",
+                                    "DateTime": "2024-04-17T17:08:04+02:00",
+                                    "Content": "Liebe Studierende der Lehrveranstaltung Lagerstättenkunde, aufgrund der Erkrankung des Dozenten wird die Vorlesung \"Lagerstättenkunde\" nicht wie gewohnt stattfinden können. Ich rechne damit, dass wir eine baldige Lösung für das laufende Sommersemester finden werden und werde mich dann sofort bei Ihnen melden. Mit besten Grüßen Thomas Neumann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Fachdidaktische Forschung (Hauptseminar)",
+        "Course_id": "38244",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1785005",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Zeitfenster für GPTPro am 27.06 reservieren ",
+                            "Discussion_Id": "600892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079867",
+                                    "Author": "Marco Wedel",
+                                    "DateTime": "2024-06-13T14:43:03+02:00",
+                                    "Content": "Liebe Studierende, am 27.06 wird Herr Rothämel Ihnen während der Seminarzeiten zur Verfügung stehen, um Zugriff auf die von Ihnen erstelle Experten-KI (ChatGPTPro) zu ermöglichen. In ISIS können Sie sich jetzt unter „Allgemeines“ im Etherpad „Slots 27.06 (Test GPTPro)“ ein Zeitfenster reservieren. Mit freundlichen Grüßen Marco Wedel ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungen ALMA FD3 // Bitte Eintragen im Etherpad auf ISIS ",
+                            "Discussion_Id": "600886",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079858",
+                                    "Author": "Marco Wedel",
+                                    "DateTime": "2024-06-13T14:21:10+02:00",
+                                    "Content": "Liebe Studierende, bitte tragen Sie sich bis nächste Woche im Etherpad ein, wenn (und wann) Sie eine Prüfung machen wollen (die Zeiträume sind entsprechend vorgegeben). Es sind nur (!) Dreiergruppen möglich! Bitte also entsprechend umverteilen. Tragen Sie ferner ein, ob sie eine Prüfung für 2 LP (FD3 alt) oder 4 LP (FD3 neu) ablegen möchsten. Danke und beste Grüße Marco Wedel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Insta-Posts werden ab Ende Juni zum KI-Training genutzt",
+                            "Discussion_Id": "600456",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079228",
+                                    "Author": "Tino Rothämel",
+                                    "DateTime": "2024-06-11T22:55:58+02:00",
+                                    "Content": "Meta (Facebook, Insta) wird ab dem 26. Juni eure Posts für das KI-Training nutzen.  Dies kann man nur verhindern, indem man aktiv widerspricht (opt-out).  Eine kleine Anleitung gibt es hier: https://www.instagram.com/reel/C74gTIACXQu/?igsh=dmoyZm5oZjN2emE2",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "KI ohne Anmeldung nutzen",
+                            "Discussion_Id": "600455",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079227",
+                                    "Author": "Tino Rothämel",
+                                    "DateTime": "2024-06-11T22:51:32+02:00",
+                                    "Content": "Die Suchmaschine DuckDuckGo ist als datenschutzsichere Alternative bekannt und bietet seit wenigen Tagen die Möglichkeit ohne Anmeldung KI-System zu nutzen. Darunter ChatGPT 3.5 und andere.  https://duckduckgo.com/?q=DuckDuckGo&ia=chat",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

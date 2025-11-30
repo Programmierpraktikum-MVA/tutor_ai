@@ -1,0 +1,102 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Lebensmittelbiotechnologie (Master)",
+        "Course_id": "38804",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1805544",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Auswahl Prüfungstermin ist online",
+                            "Discussion_Id": "597574",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075016",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-29T10:56:02+02:00",
+                                    "Content": "Hallo zusammen, die Auswahl der Termine für die mündliche Rücksprache ist nun online. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075107",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-29T13:29:02+02:00",
+                                    "Content": "...es gibt jetzt auch noch einen weiteren Termin am 18.7. und einen weiteren Prüfungstam am 19.7. Gerne bitte melden falls ein weiterer Prüfungstag benötigt wird.",
+                                    "Response to": "p1075016"
+                                },
+                                {
+                                    "Message_id": "p1077323",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-06-05T14:34:13+02:00",
+                                    "Content": "... es gibt jetzt noch einen Prüfungstermin am 29.8.",
+                                    "Response to": "p1075107"
+                                },
+                                {
+                                    "Message_id": "p1078669",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-06-10T15:56:55+02:00",
+                                    "Content": "... es gibt noch einen Termin am 19.9.",
+                                    "Response to": "p1077323"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gesucht: Studentische Hilfskraft",
+                            "Discussion_Id": "598119",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075813",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-31T13:34:01+02:00",
+                                    "Content": "Hallo zusammen, wir suchen derzeit dringend studentische Hilfskräfte. Bei Interesse bitte bei mir melden oder auch gerne direkt bewerben: https://www.jobs.tu-berlin.de/stellenausschreibungen/180453 Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Projektpräsentationen online",
+                            "Discussion_Id": "596257",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072942",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-23T11:33:49+02:00",
+                                    "Content": "Hallo zusammen, auf Rückfrage einiger Teilnehmer, habe ich die Präsentationen nun auf online umgestellt. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "LMBT: Gruppenpräsentationen eingeteilt",
+                            "Discussion_Id": "595117",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071198",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-05-17T11:01:50+02:00",
+                                    "Content": "Hallo zusammen, aufgrund der Gruppenwahl sind die Gruppenpräsentationen nun eingeteilt. Die Vorträge finden in Präsenz statt. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Gruppenwahl LMBT nun online",
+                            "Discussion_Id": "586861",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058315",
+                                    "Author": "Cornelia Rauh",
+                                    "DateTime": "2024-04-17T13:18:04+02:00",
+                                    "Content": "Hallo zusammen, die Gruppenwahl für LMBT ist nun online. Viele Grüße, Cornelia Rauh",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

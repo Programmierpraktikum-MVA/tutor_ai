@@ -1,0 +1,30 @@
+[
+    {
+        "Course_Name": "SoSe 2024: Anleitung zum wissenschaftlichen Arbeiten",
+        "Course_id": "37082",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1751777",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Folien von heute online",
+                            "Discussion_Id": "589941",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063149",
+                                    "Author": "Christian Hoffmann",
+                                    "DateTime": "2024-04-25T17:20:26+02:00",
+                                    "Content": "Liebe Studierende, die Folien von heute sind nun hinsichtlich der kleinen Fehler korrigiert und neu hochgeladen. Außerdem sind unsere Mindmaps eingefügt. Wie angekündigt werden wir uns kommende Woche mit den Formen und Konsequenzen von wissenschaftlichem Fehlerverhalten beschäftigen und dann zum Thema Daten und Datenmanagement übergehen. VG Christian",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

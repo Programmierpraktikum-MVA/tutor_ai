@@ -1,0 +1,365 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Usability Engineering",
+        "Course_id": "38274",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1786044",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "2. Homework and Experiment Homework - Available ",
+                            "Discussion_Id": "603198",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083222",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-24T18:47:33+02:00",
+                                    "Content": "Dear students,  please note that second homework is now available on ISIS and it will stay opened until deadline on 28th of July 2024. Also, experiment homework is now available on ISIS and will stay opened until 14th of July 2024. Please note that those two homeworks they have different closing dates.  In case you are facing any technical difficulites with it, please report it on time.  Best regards,  Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Teaching Evaluation",
+                            "Discussion_Id": "601889",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081293",
+                                    "Author": "Stefan Hillmann",
+                                    "DateTime": "2024-06-18T16:08:50+02:00",
+                                    "Content": "Dear participants of the course on Usability Engineering, We kindly request your participation in a brief teaching evaluation questionnaire for our course. This exercise aims to identify areas of success and opportunities for improvement in our teaching methods and course content. Your valuable feedback will remain anonymous and contribute significantly to enhancing the quality of our education. The questionnaire will only require approximately 10 minutes of your time. Thank you for your assistance and dedication to the advancement of our academic community. Access the questionnaire here: https://isis.tu-berlin.de/mod/questionnaire/view.php?id=1844949 (You find the link on the top of the course page too.) Best regards, Stefan Hillmann ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First test - Points available",
+                            "Discussion_Id": "601223",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080338",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-15T15:05:10+02:00",
+                                    "Content": "Dear students,  Points from your first test are now available for you to see under your grades.  A review of both tests will be possible after the second one together, and repetition for those with valid excuses will be possible after the second test.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "No lectures - next 2 weeks ",
+                            "Discussion_Id": "599993",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078555",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-10T13:12:35+02:00",
+                                    "Content": "Dear students,  this announcement is a reminder that in the next two weeks, there will not be lectures on Monday, and the next one will be as per schedule on the 1st of July.   Best,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "First written test - 7th of June",
+                            "Discussion_Id": "597411",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074778",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-28T15:57:25+02:00",
+                                    "Content": "Dear students,  This is a reminder and confirmation that your first written test will be on this Friday at 7th of June, at 08:00 in UnixPool (MA 241).  As it was mentioned, the test will include Chapters 1-5 which have been covered by the professor in lectures, and the concepts of user test design introduced by the exercise group. The test itself is in English, but you will be allowed to write answers in German or English.  In case you are sick or have another official exam on the 7th of June, you will need to send us proof of documentation from a doctor or registration from another test. Only those circumstances can be taken into consideration for repetition of the test.  For the test, you don't need any additional material, and no \"cheat-sheets\" will be allowed.  Best regards, Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Homework - Available ",
+                            "Discussion_Id": "595426",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071722",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-20T12:17:23+02:00",
+                                    "Content": "Dear students,  please note that first homework is now available on ISIS and it will stay opened until deadline on 18th of June 2024.  In case you are facing any technical difficulites with it, please report it on time.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Room change for next week ",
+                            "Discussion_Id": "590783",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064416",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-29T13:56:49+02:00",
+                                    "Content": "Dear all,  Please note that next week's lecture will be held in a different room (not MAR 0.009)!  These are planned room exceptions:  06.05.2024 in BH-N 243  13.05.2024 in HFT-TA 131 17.06.2024 in TBD  Zoom option stays the same for hybrid participation.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Reminder: Registration on MOSES (by midnight)",
+                            "Discussion_Id": "590368",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063765",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-26T20:51:21+02:00",
+                                    "Content": "Dear students,  This is a kind reminder that registration for the course is until 23:59 today. This includes those of you who are swapping places. I have replied to and swapped all of those that I have received emails.  I can see that around 10 people have not correctly registered yet! Please do so because the deadline will not be prolonged. In case you are facing any technical issues with registration, you need to send me an email with proof of it by midnight.  Also, all of the swapped and accepted students are placed under a group in ISIS called \"Enrollment list (based on a survey).\" It is important that you are correctly placed in this group in ISIS so that you can select your group for exercises.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Swaping places - ALLOWED",
+                            "Discussion_Id": "588986",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061654",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-23T15:37:30+02:00",
+                                    "Content": "Dear students,  After talking to you today, we have decided to allow swapping places for registration. This will act instead of a waiting list this year, and those of you who have already agreed on swapping will be able to do it. The others who are still looking for a place or will deregister can post it under the newly created Swapping Forum.   Once when you agree with somebody, you will need to send me an email with the subject [UE2024-SWAP], and in the email, tell me your name and the name of the person you are swapping with (including the second person in cc would be perfect if you can).  All correctly communicated swaps will be allowed, and you don't need to wait for confirmation from me, but you can register for MOSES.  All deadlines remain the same. Registrations and swapping will only be possible in the deadlines that have been stated from the beginning.  Hint: I will publish the placement list of MMI a day earlier (on the 25th) so that those deciding between those two courses can have a day overlapping. So, I assume the last day of the registration in the forum could be the most active.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Today Exercise Intro &amp; Swaping places ",
+                            "Discussion_Id": "588863",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061470",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-23T12:37:01+02:00",
+                                    "Content": "Dear students,  As you know, the first intro session for exercises will be today at 14:00h on Zoom. As the name says, this session will explain how exercises will be organized.  However, as I have received so many emails about the placement list and wish to swap places, please, all of you in this position, join this session, and at the end, I will also address this point.  Best regards,  Tanja ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Enrolment list (based on Survey) - Available ",
+                            "Discussion_Id": "588364",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060687",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-22T12:28:30+02:00",
+                                    "Content": "Dear Students,  An enrolment priority list was created based on the information in your survey.  Rules for the allocation you can find on (Pages 196-197,§ 48): https://www.tu.berlin/pruefungen/pruefungen/studien-und-pruefungsordnung  Also, you can notice that we have increased the number of places from 80 to 110 accepted students, which means that this year, it is highly unlikely that more than 30 students drop out for places to be available again - so please consider this list final.  We are very sorry that we are not able to accept the other students. You will find the final allocation to the course in the provided lists. Best regards,  Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Important message to all students of the course \"Usability Engineering\"",
+                            "Discussion_Id": "585731",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056699",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-14T12:29:14+02:00",
+                                    "Content": "Dear students,  due to a water dammage, the TEL building might be closed on Monday April 15. As a replacement, the first lecture will be held 10h00-12h00 in MAR 0.009. As the replacement room is rather small, we will also offer a zoom option: https://tu-berlin.zoom.us/j/66951105985?pwd=SENscW5qNTg5RzhVMmc4eEttYnBPUT09  Further announcements on rooms for the upcoming lectures and exercises will be given in ISIS, and announced in the lectures.  We are sorry for the inconveniences.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1060333",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-21T23:13:57+02:00",
+                                    "Content": "Dear students, as TEL bulding is still closed, second lecture will be organised with the same replacement options - second lecture will be held 10h00-12h00 in MAR 0.009. As the replacement room is rather small, we will also offer a zoom option: https://tu-berlin.zoom.us/j/66951105985?pwd=SENscW5qNTg5RzhVMmc4eEttYnBPUT09  Thank you for understanding.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion Forum",
+                    "Forum_id": "1786883",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Experiment Homework",
+                            "Discussion_Id": "604255",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084698",
+                                    "Author": "Wensheng Cai",
+                                    "DateTime": "2024-06-28T13:02:34+02:00",
+                                    "Content": "Hi,  Could this Experiment Homework still be saved temporarily before the deadline? Or we are only allowed to attempt it once?  Best regards, Wensheng",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1084908",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-06-29T15:55:38+02:00",
+                                    "Content": "The attempt stays in progress as long as you don't click finish (before the deadline). After you click finish, it is saved, so you can't have a second attempt. ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausuranmeldung verpasst",
+                            "Discussion_Id": "596779",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073786",
+                                    "Author": "Si-Yuan Anna Cao",
+                                    "DateTime": "2024-05-26T18:53:50+02:00",
+                                    "Content": "Gibt es noch eine Möglichkeit sich anzumelden? LG",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1074830",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-28T16:47:49+02:00",
+                                    "Content": "Hi, please send me an email with your situation. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework not found",
+                            "Discussion_Id": "593985",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069433",
+                                    "Author": "Ji Woo Park",
+                                    "DateTime": "2024-05-13T11:53:33+02:00",
+                                    "Content": "Hello,  I saw the homework should be accessible starting 11.05, but I cannot find it on ISIS and was wondering if the information is not updated.  Best regards, Ji Woo Park",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070484",
+                                    "Author": "Emirhan Mutlu",
+                                    "DateTime": "2024-05-15T13:31:49+02:00",
+                                    "Content": "I was wondering about the same topic as well.. Any updates about that ?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1070969",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-05-16T15:06:56+02:00",
+                                    "Content": "Hi, homework is moved for a week due to technical problems. Same time for solving homework remains, just starts a week later and it is indicated on first page. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Time – Exercise Group 4",
+                            "Discussion_Id": "591612",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065694",
+                                    "Author": "Tobias Donald Westphal",
+                                    "DateTime": "2024-05-02T10:44:21+02:00",
+                                    "Content": "Hi there, the information provided in the section \"Exercise - Overview and Groups Selection 2024\" states that the groups 3 and 4 meet each Friday. However, the section \"Exercises Group 4\" sais that we're supposed to join the Zoom call \"every Tuesday at 11:00\". I hope that's an error and the exercise is on Friday, as I have another lecture on Tuesday at that time and relied on the information in the overview section before choosing a group.  Thank you for having a look at this.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065831",
+                                    "Author": "Philipp Lars Harnisch",
+                                    "DateTime": "2024-05-02T13:14:11+02:00",
+                                    "Content": "Hey Tobias,  thanks for pointing this out, it is indeed an error and the exercise is on Friday. From 11:00 on, you'll have 10 minutes to join the meeting and then I will start with questions and discussion. Most likely, we will also not need the full hour and end earlier than 12, if there are not a lot of questions from the students.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1065909",
+                                    "Author": "Tobias Donald Westphal",
+                                    "DateTime": "2024-05-02T14:50:29+02:00",
+                                    "Content": "All right. See you tomorrow and thanks for the reply :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 3 held live or live + zoom ?",
+                            "Discussion_Id": "590597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064131",
+                                    "Author": "Delal Celebi",
+                                    "DateTime": "2024-04-29T09:02:12+02:00",
+                                    "Content": "Hello all,  I was wondering if lecture 3 (today) will be held live or hybrid (zoom and live) again? Kind regards,  Delal",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064146",
+                                    "Author": "Jan Christoph Bykow",
+                                    "DateTime": "2024-04-29T09:19:17+02:00",
+                                    "Content": "to add onto this, if live, is it in MAR or in TEL?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1064216",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-29T10:21:29+02:00",
+                                    "Content": "Lecture 3 and all others will be held in MAR + Zoom until further notice (as TEL building is still closed). ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture 2 ",
+                            "Discussion_Id": "588786",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061355",
+                                    "Author": "Ezzeddine Jardak",
+                                    "DateTime": "2024-04-23T10:57:48+02:00",
+                                    "Content": "Will the second lecture be uploaded to ISIS ?",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1062402",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-24T15:39:17+02:00",
+                                    "Content": "Hi, as the professor has stated, Zoom sessions will not be recorded, so we have provided you with an old lecture from the previous year as help. However, this is the first time this course is in English, so we encourage you to join sessions in live timing. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Missed Today's Übung",
+                            "Discussion_Id": "589041",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061742",
+                                    "Author": "Josephine Natasha Setiawan",
+                                    "DateTime": "2024-04-23T16:51:26+02:00",
+                                    "Content": "Hi all,  Unfortunately I missed today's exercise class and would like to watch the recording if it's available. Were there plans to record and upload it on ISIS in addition to the lectures?  Thank you.",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1061758",
+                                    "Author": "Tanja Kojic",
+                                    "DateTime": "2024-04-23T17:07:36+02:00",
+                                    "Content": "Hi, There won't be recordings of Zoom sessions for exercises, as they are planned as Q&A and discussion sessions. Please follow all important dates and deadlines next, as stated in the ISIS course. First registration, and next group selection. Best, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dear accepted students,",
+                            "Discussion_Id": "588396",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060737",
+                                    "Author": "Ji Woo Park",
+                                    "DateTime": "2024-04-22T13:05:38+02:00",
+                                    "Content": "Dear accepted students,  I am currently at the end of my bachelor studies and cannot study longer in my bachlors due to my visa issues. I would love to join this course and would really really appreciate it, if someone else, who does not have to attend this course in this particular semester, would let me take their spot.  Best regards,  Ji",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1061175",
+                                    "Author": "Aron Noah Aziz Al-Rubaie",
+                                    "DateTime": "2024-04-22T21:38:24+02:00",
+                                    "Content": "Hi Ji, I'd be happy to offer up my Slot, as I'll be very busy this semester already anyway.  Best, Aron",
+                                    "Response to": "Response to nothing"
+                                },
+                                {
+                                    "Message_id": "p1061188",
+                                    "Author": "Ji Woo Park",
+                                    "DateTime": "2024-04-22T22:36:25+02:00",
+                                    "Content": 

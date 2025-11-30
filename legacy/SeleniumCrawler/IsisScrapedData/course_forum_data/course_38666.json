@@ -1,0 +1,148 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Experimentelle Flugmechanik",
+        "Course_id": "38666",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1799723",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ergebnisse der 1. HA",
+                            "Discussion_Id": "607530",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089399",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-07-12T15:24:53+02:00",
+                                    "Content": "Hallo zusammen, die Ergebnisse der 1. HA sind jetzt im MTS hinterlegt. Insgesamt sehr gute Leistungen. Dies war zudem meine letzte Amtshandlung für dieses Modul. Von nun an wird Pedro das Ruder übernehmen. Ich wünsche euch daher viel Erfolg für den Rest des Kurses und eures Studiums. Viele Grüße Phillip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall der mündlichen Prüfung!",
+                            "Discussion_Id": "606962",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088586",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-07-10T16:31:13+02:00",
+                                    "Content": "Hallo liebe Teilnehmer, Ina ist leider Krank geworden. Daher fällt die Prüfung am Freitag krankheitsbedingt aus. Pedro wird die Tage mit Ina einen neuen Termin ausmachen und bescheid geben, sobald es einen Ersatztermin gibt. Ich werde also in der Prüfung nicht mehr dabei sein und wünsche euch daher schonmal viel Erfolg. Viele Grüße Phillip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungstermine",
+                            "Discussion_Id": "605792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086896",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-07-05T13:32:00+02:00",
+                                    "Content": "Hallo zusammen, ihr könnt euch nun einen Slot für die Mündliche Prüfung am 12.07.24 sichern! Außerdem findet ihr jetzt die Ergebnisse aus dem Test von heute bei MTS. Viele Grüße Phillip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Automatisches Fliegen",
+                            "Discussion_Id": "602582",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082286",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-06-21T11:45:55+02:00",
+                                    "Content": "Hallo zusammen, ich habe eine kleine Umfrage zu den Simulatorterminen in Schönefeld gestartet. Außerdem habe ich den FMGStrainer und ein Tutorial dazu bereitgestellt. Es lohnt sich schonmal einen Blick darauf zu werfen.  Viele Grüße und bis nächste Woche Phillip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "1. Hausaufgabe",
+                            "Discussion_Id": "592559",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067206",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-05-06T13:31:04+02:00",
+                                    "Content": "Hallo zusammen, die 1. Hausaufgabe ist online und außerdem könnt ihr euch jetzt in eine Hausaufgabengruppe eintragen. Viele Grüße Phillip",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079094",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-06-11T16:17:31+02:00",
+                                    "Content": "Hallo zusammen, ich habe gerade den Hinweis bekommen, dass es unterschiedliche Abgabetermine gibt. Abgabetermin ist daher jetzt der 21.06.24. Das ist 1 Woche nach dem Termin wie er in der Hausaufgabe steht. Ich bitte die Verwirrung zu entschuldigen. Grüße Phillip",
+                                    "Response to": "p1067206"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine zum automatischen Fliegen",
+                            "Discussion_Id": "591268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065140",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-04-30T15:00:21+02:00",
+                                    "Content": "Hallo zusammen, ich habe mit Mildenberger die Termine zum automatischen Fliegen vereinbart. Diese werden am 27./28.06.24 (Do+Fr) stattfinden. Eine endgültige Bestätigung gibt es, sobald ich von Lufthansa Technik die Simulatoslots in Schönefeld erhalten habe. Diese werden Freitag am späten abend/nachts stattfinden. Bitte haltet euch für diesen Bereich die Tage frei. Der Test zum manuellen und automatischen Fliegen wird in der vorletzten Vorlesungswoche am Fr., 12.07. um 10:15 Uhr stattfinden. Viele Grüße und bis Donnerstag Phillip",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsfolien &amp; Termine zum manuellen Fliegen mit Cpt. Claus Cordes",
+                            "Discussion_Id": "590252",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063602",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-04-26T15:14:51+02:00",
+                                    "Content": "Hallo zusammen,  ich habe die ersten VL-Folien von Ina und die Folien zum Experiment hochgeladen. Bitte denkt daran, eure Auswertung nächste Woche kurz vorzustellen (ca. 2-3 Folien mit Ergebnissen). Außerdem könnt ihr euch für die Übungstermine im Sephir eintragen. Diese finden am Fr 10.05., Mi 15.05. & Do 16.05. statt. Ihr werdet jeweils zu dritt im Simulator sein. Jede der 4 Übungen und die Einführung am Freitag um 9:15 müssen besucht werden! Wenn ihr üben wollt (\"freies Fliegen\"), meldet euch bei mir und ich lasse euch in den Simulator.  Viele Grüße und ein schönes Wochenende  Philipp",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abschlussarbeiten",
+                            "Discussion_Id": "587600",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059433",
+                                    "Author": "Phillip Nagel",
+                                    "DateTime": "2024-04-19T10:59:35+02:00",
+                                    "Content": "Liebe Studierende, das Fachgebiet für Flugmechanik, Flugreglung & Aeroelastizität möchte den Start des neuen Semesters als Anlass nehmen, um interessierte Studierenden, die aktuell auf der Suche nach einem Thema für eine Abschlussarbeit sind, über mögliche Arbeiten an unserem Fachgebiet zu informieren. Dazu bieten wir folgende Veranstaltung an:   Informationsveranstaltung für Abschlussarbeiten am Fachgebiet Flugmechanik, Flugreglung & Aeroelastizität  Montag, 22.04.2024 12 – 14 Uhr F224   Es handelt sich um eine Präsenzveranstaltung. Die wissenschaftlichen Mitarbeiter werden die angebotenen Themen kurz vorstellen. Im Anschluss habt ihr die Möglichkeit, mit den potentiellen Betreuern ins persönliche Gespräch zu kommen und dabei Fragen zu klären oder Anregungen einzuholen.   Solltet Ihr bis dahin bereits Fragen haben, so könnt ihr gerne Hannes Wilke (h.wilke[at]tu-berlin.de) kontaktieren.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1799724",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Abgabedatum 1.HA",
+                            "Discussion_Id": "600144",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078765",
+                                    "Author": "Leon Döhler",
+                                    "DateTime": "2024-06-10T20:37:30+02:00",
+                                    "Content": "Hi Phillip, Kannst du bitte nochmal offiziell schreiben, was jetzt der Abgabetermin für die 1.HA ist? 14.06. siehe HA-Aufgabenstellung oder 30.06. siehe ISIS? LG Leon",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

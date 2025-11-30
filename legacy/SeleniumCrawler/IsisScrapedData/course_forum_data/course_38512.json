@@ -1,0 +1,133 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] EARS - Education & Applied Soundscape Research",
+        "Course_id": "38512",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1793300",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Reaper Ambisonic Source Positioning Template",
+                            "Discussion_Id": "605844",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086972",
+                                    "Author": "Moritz Schuck",
+                                    "DateTime": "2024-07-05T15:52:37+02:00",
+                                    "Content": "Hello dear course participants,  I would like to provide you with a template with which you can distribute sound sources in the room (mono sources) and add them to your Ambisonic Recordings (please make sure that your files fulfil the ACN convention an SN3D normalization, the order doesn't matter).  The template is stored under this cloud Link. To be able to use the template, you must first install the free DAW Reaper (Link to the software) and also the IEM Plugin Suite (Link to the software). In the project you can see three colour-coded tracks: Binaural: This is where your encoded audio streams are sent so that you can listen to the content via headphone Loudspeaker: This is the transmitter track that decodes the signal and distributes it to the speakers (you don't have to change anything here) Ambisonics Bus:  Here you can store your AmbiX (Ambisonics file). The positioned/added sound sources also arrive on this bus. Source Quellen: You can store mono/stereo sources here, which can then be distributed anywhere in the sphere. To do this, click on the green FX button and position them freely in the IEM stereo encoder. Sources 1-4 are \"fixed\" sources (test the signals that are in there and sound in the right place), and source 5 is not fixed. If you have any questions, you can contact us at any time and we will have the opportunity to make changes again on Friday.  Best regards  Moritz Schuck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "EARS - Some information !!",
+                            "Discussion_Id": "605220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086114",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-07-03T11:28:56+02:00",
+                                    "Content": "Dear EARS participants, I announced verbally last week that we would meet again at the BOL on 5 July, although the previous plan was to have a bye-week. Unfortunately, it turned out that not everyone will be able to attend the BOL session (e.g., all of Group 1). As we are now planning to hold our final session at the Berlin Open Lab (July 19) using the technology there, we would like to provide you with another date where you can prepare your audio recordings. if you are interested in. Ideally next week on the July 12 after Pamela Jordan's visit and her guest lecture. However, we would like to mention that we are currently conducting a small study in the BOL on the perception of traffic noise and that it would be great if some of you could show up this Friday (12.00) to take part in the experiment (and also receive a small compensation). We could then also use the time to talk about your project work, if desired. Best regards, André Fiebig, Moritz Schuck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next meeting reminder",
+                            "Discussion_Id": "600643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079478",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-06-12T15:30:49+02:00",
+                                    "Content": "Dear EARS participants, We want to meet again next Friday (June 14) to talk about your reports and to introduce the concept of soundscape design. It would be great if you could attend again the next meeting.  Best regards, André Fiebig  Ps. Please remember that next week (June 21) we will have an exciting lecture by Thomas Kusitzky on Soundscape Design in Practice.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "EARS - Report submission",
+                            "Discussion_Id": "600157",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078789",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-06-10T22:51:32+02:00",
+                                    "Content": "Dear EARS participants, Please submit your first report on the current (sound) status of your study area by 10.06.2024 (23:59). If the submission of the report does not work as desired via the ISIS course, you are also welcome to send the report by e-mail. Thank you very much! I am looking forward to reading your reports! Best regards, André Fiebig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration for exam ",
+                            "Discussion_Id": "598163",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075871",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-05-31T15:25:32+02:00",
+                                    "Content": "Dear EARS students, The official registration via MTS for the EARS module is necessary soon. Please register for exam (portfolio) for this module until June, 9 (Modulverzeichnis MTS, module examinations). As it is a portfolio exam, the exam registration is unfortunately time critical. Thank you for your exam registration. If you have any questions or remarks, please do not hesitate to contact me. Best regards, André Fiebig",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next Fridays Session",
+                            "Discussion_Id": "597820",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075367",
+                                    "Author": "Moritz Schuck",
+                                    "DateTime": "2024-05-30T09:20:03+02:00",
+                                    "Content": "Dear students,  on friday we will have a workshop on visualisation possibilities of soundscape data in python. I would like to ask you to create a google collab account so that we can work together in code (alternativily you can also work with jupyter notebooks or your prefered notebook environment). It would be also nice, if your can bring the acoustic and/or subjective date that you've collected so far to be able to analyse and discuss the results together. Furthermore you are welcome to familiarise yourself with pandas (a data management tool) using this tutorial: (https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb). See you tomorrow! Best regards Moritz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Consultation Opportunity",
+                            "Discussion_Id": "594831",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070765",
+                                    "Author": "Moritz Schuck",
+                                    "DateTime": "2024-05-16T09:58:52+02:00",
+                                    "Content": "Dear participants,  this week the consultation hour will be advanced (sorry for the short notice) and held by me (Moritz). I will be available online this afternoon between 1 and 2 pm. I have posted the link to the Zoom room in the ISIS course. See you later!  Moritz Schuck",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hörerzahlerfassung",
+                            "Discussion_Id": "591729",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065850",
+                                    "Author": "Cleopatra Christina Moshona",
+                                    "DateTime": "2024-05-02T13:41:56+02:00",
+                                    "Content": "Liebe Studierende,  im Rahmen der allgemeinen Statistik zur turnusmäßigen Hörerzahlerfassung, sind wir verpflichtet die Anzahl der aktiv im ISIS-Kurs eingeschriebenen Personen an die zuständigen Stellen zu übermitteln. Sollten Sie an dem Kurs NICHT aktiv teilnehmen wollen, oder mit diesem Vorgehen NICHT einverstanden sein, tragen Sie sich bitte bis zum 10.05.2024 aus der Gruppe \"Hörerzahlerfassung\" aus.  Mit der Auflistung in der Hörerzahlerfassung geht für Sie keine Prüfungsverbindlichkeit einher.  Besten Dank, Cleopatra Moshona",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Next EARS meeting (May 3) ",
+                            "Discussion_Id": "591067",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064853",
+                                    "Author": "Andre Fiebig",
+                                    "DateTime": "2024-04-30T09:18:53+02:00",
+                                    "Content": "Dear EARS participants, After testing on-site assessment tools for Ernst-Reuter-Platz and the inner courtyard of the TU campus (the results we want shortly discuss on Friday), we want to decide on areas to be investigated in our small-scale projects at the next meeting. In order to collect ideas on interesting areas for the assessment and intervention planning, you will find a link to a brainstorming pad where you can already jot down some ideas before our meeting on Friday. Also, I would like to remind you that Moritz will give a demo on virtual soundscape interventions at the Berlin Open Lab in the second part of our meeting on Friday. So, don't miss this nice demo.  See you on Friday!   Best regards,  André Fiebig ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

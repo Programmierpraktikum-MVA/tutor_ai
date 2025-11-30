@@ -1,0 +1,50 @@
+[
+    {
+        "Course_Name": "[INET] Network Architecture Projects [SoSe 24]",
+        "Course_id": "37630",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1764556",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Projects assigned and exam registration open",
+                            "Discussion_Id": "591719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065840",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-05-02T13:35:59+02:00",
+                                    "Content": "Dear all, the projects have now been assigned and the exam registration is now open on Moses. It will stay open until may 15th 23:59.  If you have any questions let me know. Best, Max ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kick-Off Meeting and further information",
+                            "Discussion_Id": "585952",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057034",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-04-15T13:03:14+02:00",
+                                    "Content": "Dear all,  the Kick-Off meeting will take place next Wednesday (24th of April) at 2pm on Zoom: https://tu-berlin.zoom.us/j/62972316984?pwd=dHZIem9Ha25lYlB1Y2NzRUg3Mk8wUT09 In it, the organization for the course will be laid out and the individual projects will be introduced. Attendance is not mandatory to take part in the course but it is recommended. If you have your own project ideas please let me know in advance by then.  After the Kick-Off, we will unlock a survey where you can enter your preferences and select a project from the available ones. Usually there are enough projects available for everyone to participate. Registration for the module will open some weeks later.  Best, Max ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062337",
+                                    "Author": "Maximilian Julian Shawn Franke",
+                                    "DateTime": "2024-04-24T14:43:11+02:00",
+                                    "Content": "Dear all,  the kick-off slides and project selection surveys are now available.  Best,  Max",
+                                    "Response to": "p1057034"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "Course_Name": "Grundlagen der Metalle SoSe2024",
+        "Course_id": "37779",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1768998",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Ausfall heutige Veranstaltung Grundlagen der Metalle",
+                            "Discussion_Id": "603633",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083823",
+                                    "Author": "Nina Maria Liebs",
+                                    "DateTime": "2024-06-26T07:45:12+02:00",
+                                    "Content": "Liebe Studierende, Leider muss die Vorlesung heute verschoben werden. Ich bitte um Verzeihung um die späte Bekanntgabe.  Mit freundlichen Grüßen  Nina Liebs",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Möglichkeit der Partnerfindung",
+                    "Forum_id": "1839082",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Partner für Vortrag",
+                            "Discussion_Id": "599136",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077281",
+                                    "Author": "Zahra Sherazi",
+                                    "DateTime": "2024-06-05T13:13:37+02:00",
+                                    "Content": "Hallo,  Ich habe noch keinen Partner fürs Vortrag und würde mich freuen, wenn sich jemand mit mir anschließen möchte.   LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077343",
+                                    "Author": "Constantin Seegert",
+                                    "DateTime": "2024-06-05T15:08:29+02:00",
+                                    "Content": "Hey, ich habe auch noch keinen Partner. Lass das zusammen machen :)",
+                                    "Response to": "p1077281"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

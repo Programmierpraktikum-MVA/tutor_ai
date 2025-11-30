@@ -1,0 +1,961 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Image Processing for Remote Sensing",
+        "Course_id": "38410",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1790516",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Student Assistant Call ",
+                            "Discussion_Id": "607210",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088917",
+                                    "Author": "Behnood Rasti",
+                                    "DateTime": "2024-07-11T14:22:43+02:00",
+                                    "Content": "Dear students, I would like to draw your attention to our new job offer at RSiM: https://www.jobs.tu-berlin.de/stellenausschreibungen/185072  If you are interested, feel free to apply.  Best wishes, Behnood ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Information on visit to Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+                            "Discussion_Id": "606685",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088185",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-07-09T16:58:57+02:00",
+                                    "Content": "Dear students, As you know, an excursion to DLR will be organized for next Monday, 15.07.2024. Please see the preliminary program below. Lunch will be provided by DLR during the excursion. To participate, you have to bring your ID or your passport. Today is the last day that you can register for the excursion. To do so, please write an email with your name to Prof. Demir (demir@tu-berlin.de). This is a unique opportunity, so we highly recommend that you take advantage of it. You may leave early if you have other courses; however, it is important that you are there at the beginning. Please be at least 15 minutes before the event starts at the following address: Rutherfordstraße 2 | 12489 Berlin   Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088193",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-07-09T17:02:06+02:00",
+                                    "Content": "Follow-Up: Unfortunately, the schedule is not rendered in the automatic notification emails from ISIS. To see the schedule, please visit the post in the announcement forum on ISIS.",
+                                    "Response to": "p1088185"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Practical Lecture on 08.07.2024 - Please bring your laptop",
+                            "Discussion_Id": "605668",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086742",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-07-05T08:36:38+02:00",
+                                    "Content": "Dear students, The lecture on Monday, 08.07.2024, will include a practical (coding) part. Please bring your own laptop to make the most of it. It will not be a Lab but the final part of the theoretical lecture on hyperspectral image processing. Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "QA-Session on 11.07.2024",
+                            "Discussion_Id": "605667",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086741",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-07-05T08:33:30+02:00",
+                                    "Content": "Dear students,  As shown in the timetable, a Q&A session is planned for Thursday (11.07.2024). To make the most of the session, please think of the questions before the lecture and post them as a reply to the post in the Discussion on Theoretical Lectures. This is the only way that we can prepare additional materials if needed to clarify your issues. Please post your question before Wednesday 12:00 so we have sufficient time to prepare. Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Visit to German Aerospace Center (DLR) ",
+                            "Discussion_Id": "604734",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085424",
+                                    "Author": "Begüm Demir",
+                                    "DateTime": "2024-07-01T15:35:36+02:00",
+                                    "Content": "Dear students,  In the context of our course, we organize a visit to German Aerospace Center (DLR). The visit will take place at the DLR Labs in Adlershof (https://www.dlr.de/de/das-dlr/standorte-und-bueros/berlin) on July 15th. For security reasons, DLR would like to get a list of participants (first and last name together with nationality information). If you will join, please send me your information until July 5th via email (demir@tu-berlin.de). Best regards, Begüm Demir",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab \"solutions\" for Labs 1-7 now online",
+                            "Discussion_Id": "602358",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081943",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-20T12:15:25+02:00",
+                                    "Content": "Dear students, As requested, the \"solutions\" for labs 1-7 are now online. The only difference between these versions and the ones you used during the lab is that they have the in-course practice filled in. You can find them in \"Lecture Notes (Practical Part & Homework)/Lab Solutions\" Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 2 released",
+                            "Discussion_Id": "602357",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081941",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-20T12:13:46+02:00",
+                                    "Content": "Dear students, homework 2 is now released and the submission is open.  Submission of the homework is open until 14.07.2024 at 23.55. You can always update your submission until the deadline, so don't upload for the first time at the last minute. There can always be a technical problem! Best, Leonard Hackel - IP4RS team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Office Hours for HW1",
+                            "Discussion_Id": "601385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080582",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-17T10:09:14+02:00",
+                                    "Content": "Dear students, If you would like to discuss the solution or the feedback of HW1 in detail, I will offer an office hour on Thursday, 20.6., from 15:00 - 16:00, and on Wednesday, 26.6., from 9:30-10:30. If you would like to discuss this, please come to office EN 606 during these times. Please send me an email to l.hackel@tu-berlin.de shortly stating what you would like to discuss before coming to the office hour. This way, all our time can be used most efficiently.  Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Grades for HW 1 online",
+                            "Discussion_Id": "600788",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079710",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-13T09:59:19+02:00",
+                                    "Content": "Dear students, the grades and feedback for HW1 are now online. You can find them in your grading tab on the IP4RS ISIS page. Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Issue of Normalized Difference Snow Index (NDSI) from Lab05",
+                            "Discussion_Id": "598225",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075970",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-05-31T19:54:10+02:00",
+                                    "Content": "Dear students,  After a student accidently used the river patch instead of the snow patch for the compuation of the Normalized Difference Snow Index (NDSI) and realized that also parts of the river where indicated as potential snow by the NDSI, I did some further research to contextualize this phenomon (extracts from scientific papers):  The use of NDSI has been widely used in mapping snow, however the reliability of such maps is often compromised by its reflectance similarity with other cover types like water, shiny rock surfaces and even vegetation covers. [...].  To address this issue, a near-infrared reflectance value greater than 0.11 can be used to mask out water pixels so as to improve NDSI classification accuracy.  So in short, the intuition that we have developed during the class was quite correct, bright reflectance values can be confused with snow by the NDSI.  I hope this clarification can help in your understanding of vegetation indices.  Best, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lab \"solutions\" for Labs 1-4 now online",
+                            "Discussion_Id": "596275",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072968",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-23T12:06:02+02:00",
+                                    "Content": "Dear students, As requested, the \"solutions\" for labs 1-4 are now online. The only difference between these versions and the ones you used during the lab is that they have the in-course practice filled in. Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 1 released",
+                            "Discussion_Id": "596018",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072613",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-22T14:44:49+02:00",
+                                    "Content": "Dear students, due to your request, we are publishing homework 1 earlier. It is now available on the course website. Please follow the instructions in the notebook for submission. Please also remember to register (if possible, always use MOSES) if you have not yet. The deadline for registration is unchanged (28.05.2024). Submission of the homework stays as announced on 02.06.2024 at 23.55. You can always update your submission until the deadline, so don't upload for the first time at the last minute. There can always be a technical problem! Best, Leonard Hackel - IP4RS team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Registration now open",
+                            "Discussion_Id": "586878",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058340",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-04-17T13:50:13+02:00",
+                                    "Content": "Dear students, Registration for IP4RS for the summer semester 2024 is now open, and both dates are available on Moses. If you registered before the dates were available, you were automatically assigned to the earlier date (01.08.2024). If this is not what you wanted, please deregister and register again. There is still enough time to do this if you do it right away. Registration will be open until one day before the submission of the first homework. Please register before 28.05.2024, 23:55. Otherwise we cannot accept you anymore for this semester. Please remember that you can only select one of the two dates. If you fail the first date, the second exam will not be your retake date. Instead, there will be a third exam date for retakes if someone fails. If you have questions or issues that are relevant to everyone, please write them in the forum. For personal issues please contact me directly. We will do our best to help you resolve the issues. Sincerely, Leonard Hackel - IP4RS Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1069325",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-13T09:52:36+02:00",
+                                    "Content": "Dear students,  Reminder: Due to a time shift in our schedule, the registration deadline is no longer the same as the submission of the first homework (see updated schedule). Please register before 28.05.2024, 23:55. Otherwise, we cannot accept you anymore for this semester.  If you have questions or issues that are relevant to everyone, please write them in the forum. For personal issues, please contact me directly. We will do our best to help you resolve the issues.  Sincerely, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1058340"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Lecture on May 13th is cancelled",
+                            "Discussion_Id": "593439",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068543",
+                                    "Author": "Begüm Demir",
+                                    "DateTime": "2024-05-09T07:30:26+02:00",
+                                    "Content": "Dear students, Due to some unexpected reasons, there will be no IP4RS lecture on May 13th. We will have our next lecture on May 16th. For details, please see the updated timetable. Best wishes, Begüm Demir",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Starting time for lecture tomorrow (18.04.2024)",
+                            "Discussion_Id": "587027",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058551",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-04-17T17:13:25+02:00",
+                                    "Content": "Dear students, Reminder: As announced earlier, we will start the lecture tomorrow, 18.04.2024, a little later at 10:30. Sincerely, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussion on Theoretical Lectures",
+                    "Forum_id": "1790517",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "QA-Session on 11.07.2024",
+                            "Discussion_Id": "605665",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086739",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-07-05T08:31:46+02:00",
+                                    "Content": "Dear students, As shown in the timetable, a Q&A session is planned for Thursday (11.07.2024). To make the most of the session, please think of the questions before the lecture and post them as a reply to this post. This is the only way that we can prepare additional materials if needed to clarify your issues. Please post your question before Wednesday 12:00 so we have sufficient time to prepare. Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088405",
+                                    "Author": "Felix Kleinsteuber",
+                                    "DateTime": "2024-07-10T11:09:26+02:00",
+                                    "Content": "Hi, I have come up with the following questions:  Regarding lecture 11 (unmixing): - Which or how many of these models are we expected to know during the exam? - Regarding NMF-QMV (slide 14): Could you please repeat in what way the terms written in the table correspond to the minimization goal above? Do we just substitute B and O with the terms in the table? If so, do we always select a single penalty (center, TV or boundary)? What do we substitute for \"Extremes\"? - Regarding tensor models (slide 17-18):     - Could you please repeat the idea. Is the advantage just interpretability (if yes, how so), performance or something different entirely?     - What do we call K?     - I don't know anything about CPD and Tucker decomposition. Is this relevant? - Regarding notation: Is there a meaningful difference between A and X? A seems to be used more for supervised and blind unmixing and X for sparse unmixing, however, in SUnSAL, SUnAA, and FASUN, A is used again. - Regarding SUnSAL (slide 19): What are D_h, D_v?  Generally, I would like to know which type of tasks we can expect (multiple choice, short answers, explanations, calculations, drawing, etc.) and if you have any example tasks for us. Thank you.",
+                                    "Response to": "p1086739"
+                                },
+                                {
+                                    "Message_id": "p1088820",
+                                    "Author": "Behnood Rasti",
+                                    "DateTime": "2024-07-11T11:22:50+02:00",
+                                    "Content": "Hi, 1- You don't have to memorize the formulas for unmixing models. You need to know the difference between three main categories, semisupervised, blind (unsupervised), and supervised. If you see a model you should be able to recognize if it is semisupervised, Blind, or supervised and why. For the NN models you should know the main concepts such as how to enforce the ASC and ANC what are the abundances and endmemebers. 2-B and O are given in the table should be substituted with in the LS-based optimization. It does not make sense to apply all Geometrical-based penalty at the same time. So one geometrical penalty is enough but you may apply penalties on abundances as well. Geometrical endmember based extraction/estimation techniques such as VCA and SiVM can be used for extracting extremes or boundary points. 3- Tensor models do not ignore the spatial correlation. Linear Mixing Model (LMM) works with vectorized data while Tensor Models assume HSI is a third order tensor. 4-CPD and Tucker decompositions are not interpretable for unmixing. You will not be asked about these two models. Because they are not explained in the slides. 5- X is a redundant matrix containing the abundances and often used for sparse unmixing but A is a low-rank matrix and can be used for all types of unmixing. 6-D_h and D_v are horizontal and vertical difference operators, respectively, for a vectorized image. But You do not have to know the details about them since they are not mentioned in the slides. For the exam please see the sample.",
+                                    "Response to": "p1088405"
+                                },
+                                {
+                                    "Message_id": "p1088438",
+                                    "Author": "Andrew Li",
+                                    "DateTime": "2024-07-10T11:52:42+02:00",
+                                    "Content": "Hello, can we please cover some of the following points: - Which equations/mathematical concepts should we have memorized for the exam? - The different structures of CNNs and their layers (also how to calculate the number of parameters for each filter from lecture 6 slide 33). - An overall review of hyperspectral unmixing and its different techniques.  Also, what is the format/time limit of the exam? Thank you for your time!",
+                                    "Response to": "p1086739"
+                                },
+                                {
+                                    "Message_id": "p1088822",
+                                    "Author": "Behnood Rasti",
+                                    "DateTime": "2024-07-11T11:27:53+02:00",
+                                    "Content": "Hi, You do not have to memorize the equations for the unmixing part but you should be able to recognize the types of unmixing (supervised, unsupervised (blind), semisupervised) when you see them. the rest we explained in the Q&A session. The exam is 90min.",
+                                    "Response to": "p1088438"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Discussions on Practical Lectures & Homeworks",
+                    "Forum_id": "1790518",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Classification Report",
+                            "Discussion_Id": "607654",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089601",
+                                    "Author": "Erik Rygiel",
+                                    "DateTime": "2024-07-13T20:28:25+02:00",
+                                    "Content": "Hey, Chapter 5 of the HW2.pdf says that the mAP micro and macro must be done manually. However, the classification report prints precision, recall, and f1-score for micro and macro averages. Is this average precision different than the precision of the average_precision_score function? Thanks in advance! Kind regards Erik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Early stopping",
+                            "Discussion_Id": "607641",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089582",
+                                    "Author": "Erik Rygiel",
+                                    "DateTime": "2024-07-13T16:09:47+02:00",
+                                    "Content": "Hey If we want to use early stopping in the training step, should one use the micro computation over the predicted classes? Or can we select one of them (micro, macro, weighted) and state why we chose this approach? Regards Erik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "hw2 statistical analysis of label distribution ",
+                            "Discussion_Id": "607555",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089442",
+                                    "Author": "Tilman Friedrich Burghoff",
+                                    "DateTime": "2024-07-12T16:57:05+02:00",
+                                    "Content": "How much is expected of us for the statistical analysis of the label distribution? Would it be enough to create a plot of the occurrence of each label?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1089474",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-12T18:46:13+02:00",
+                                    "Content": "Hi Tilman,  This should be always part of a statisical analysis. If you find other interesting things about the dataset that is worth reporting, please feel free do it. There is not a single right way.  Best, Tom",
+                                    "Response to": "p1089442"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Report length",
+                            "Discussion_Id": "606485",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087901",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-09T09:24:22+02:00",
+                                    "Content": "Greetings, is the mentioned report length of 3-4 pages the maximum that should not be exceeded, or can we extend the length of the HW2 report beyond this (if it seems reasonable to us in order to incorporate more information/reasoning) without points being subtracted? Best Samuel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087927",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-09T09:55:00+02:00",
+                                    "Content": "Hi Samuel,  If its reasonable we will also accept longer reports!  Best, Tom",
+                                    "Response to": "p1087901"
+                                },
+                                {
+                                    "Message_id": "p1087979",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-09T11:13:56+02:00",
+                                    "Content": "Ok, thanks!",
+                                    "Response to": "p1087927"
+                                },
+                                {
+                                    "Message_id": "p1089117",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-11T22:26:31+02:00",
+                                    "Content": "My current report is four pages long, with a fifth one for citations. Would you consider this to be reasonable, or are citations included in the 4p max range?  Best Samuel",
+                                    "Response to": "p1087927"
+                                },
+                                {
+                                    "Message_id": "p1089246",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-12T11:13:03+02:00",
+                                    "Content": "This is completely reasonable. Citations are excluded from the range.  Best, Tom",
+                                    "Response to": "p1089117"
+                                },
+                                {
+                                    "Message_id": "p1089270",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-12T11:37:39+02:00",
+                                    "Content": "Thanks!",
+                                    "Response to": "p1089246"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW2 - Do the example images of augmentations require predictions?",
+                            "Discussion_Id": "606147",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087423",
+                                    "Author": "Oliver Vincent Leon Stoll",
+                                    "DateTime": "2024-07-08T11:25:13+02:00",
+                                    "Content": "Hi,  It wasn't clear to me from the requirements for the report if the example images (i assumed displaying the various data augmentations) need to be combined with the predictions of the models on said images (and if yes, how so?), or if the predictions are part of the comparison obtained through validation and test sets.  Sentence in question: \"Basically, the report should include [...], the results including example images with its prediction and tabular metric comparison obtained on the test and validation sets.\"",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087432",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-08T11:31:17+02:00",
+                                    "Content": "Hi Oliver,  Please porvide at least one example image image per transformation pipeline. However, it is up to you whether you want to include the prediction of a model alongside the images. I agree that the sentence might be a little misleading. Important is that you provide your results thoroughly (but this is not directly connected to the example images).  Best, Tom",
+                                    "Response to": "p1087423"
+                                },
+                                {
+                                    "Message_id": "p1088635",
+                                    "Author": "Felix Kleinsteuber",
+                                    "DateTime": "2024-07-10T18:01:48+02:00",
+                                    "Content": "Hi Tom,  I'd like to ask two more questions regarding this sentence:  - Are we in fact supposed to determine the metrics not only on the test set but also on the validation set? Usually, I would use only the test set for evaluation and the validation set for hyperparameter selection, early stopping, etc. - Are we generally required to use the validation set? Personally, I have used it to compare training vs validation loss to detect overfitting. However, it is never mentioned in the exercise description except in this sentence.  Best, Felix",
+                                    "Response to": "p1087432"
+                                },
+                                {
+                                    "Message_id": "p1089250",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-12T11:15:25+02:00",
+                                    "Content": "Hi Felix,  the final reporting of performance should happen on the test set. However, it is very common to use the validation set for early stopping, and thus, also oberserve the validation scores to evaluate the potential best model (but the exact score does not need to be part of the report).  Best, Tom",
+                                    "Response to": "p1088635"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW2 - Confusions Matrix",
+                            "Discussion_Id": "606915",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088526",
+                                    "Author": "Lorenz Julius Kautzsch",
+                                    "DateTime": "2024-07-10T14:41:43+02:00",
+                                    "Content": "Hi, I was wondering if, in the report, we should include the confusions matrix for each augmentation strategy for all 17 classes (so 68 in total), or if there's a different method to aggregate the confusions matrix for multilabel classification for one strategy. Best,  Lorenz",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1088529",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-10T14:47:41+02:00",
+                                    "Content": "Hi Lorenz,  One exemplary is good enough.  Best, Tom",
+                                    "Response to": "p1088526"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Baseline ",
+                            "Discussion_Id": "606016",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087235",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-07T22:36:04+02:00",
+                                    "Content": "Greetings, can this transformation from the lab be used as a baseline transformation? tr_transform = transforms.Compose( [ transforms.Resize((64, 64)), transforms.ToTensor(), transforms.Normalize(mean=ucm_mean, std=ucm_std), ] )  te_transform = transforms.Compose( [ transforms.Resize((64, 64)), transforms.ToTensor(), transforms.Normalize(mean=ucm_mean, std=ucm_std), ] )  I am asking, because we are of course normalizing and centering the data, but I understand this to be a standard data processing step when training on image data, and I would include this in other transformations that go beyond this, as well.  Best Samuel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087428",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-08T11:27:59+02:00",
+                                    "Content": "Hi Samuel,  You are all correct about the assumption. ToTensor and Normalization are standard steps and should always be included into a transformation pipeline. The Resize to (64,64) is only made to increase your training speed. So its actually fine to keep the transformation you posted as the standard baseline.  Best, Tom",
+                                    "Response to": "p1087235"
+                                },
+                                {
+                                    "Message_id": "p1087804",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-08T20:47:49+02:00",
+                                    "Content": "Thanks for the confirmation",
+                                    "Response to": "p1087428"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Code in the Report? ",
+                            "Discussion_Id": "606202",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087499",
+                                    "Author": "Konrad Joachim Kloska",
+                                    "DateTime": "2024-07-08T12:30:51+02:00",
+                                    "Content": "As the task is stated as follows: “the report should contain a comprehensive description of all the steps and parameters that you have selected for training”, should we include the lines of code we are explaining in the report? This would be somewhat redundant, given that we are also submitting the Jupyter Notebook. However, it would enhance the readability beyond just referencing the code cell numbers.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1087522",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-08T12:54:49+02:00",
+                                    "Content": "Hi Konrad,  To use Code snippets is not necessary, but mentioning all used hyperparamters in the report is required.  Best, Tom",
+                                    "Response to": "p1087499"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW2 - Template",
+                            "Discussion_Id": "604382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084877",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-06-29T10:49:48+02:00",
+                                    "Content": "Greetings, for the written part of HW2, would you like us to use a specific latex template? Otherwise I would just go with a generic article one. Best Samuel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085171",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-01T10:26:24+02:00",
+                                    "Content": "Hi Samuel,  There is no specific template. Please go ahead with your prefered design.  Best, Tom",
+                                    "Response to": "p1084877"
+                                },
+                                {
+                                    "Message_id": "p1087239",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-07-07T22:46:09+02:00",
+                                    "Content": "Alright, thanks!",
+                                    "Response to": "p1085171"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW2: Data Augmentation methods and Evaluation Metrics",
+                            "Discussion_Id": "605102",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085947",
+                                    "Author": "Daniel Sequerra Gagliardi",
+                                    "DateTime": "2024-07-02T18:09:01+02:00",
+                                    "Content": "I would like to clarify two things. 1st, are we supposed to implement all the four methods of data augmentation mentioned in the script (baseline, random affine transformation, two or three that I select on my own and RandAugment), or we should pick some of these options? 2nd, in the pdf, many evaluation metrics are mentioned. Should I use all of them in my discussions? Also, when you say that the mAP should be added manually, does this mean we can not use sklearn or other libraries for this metric? thank you",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086260",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-03T17:10:37+02:00",
+                                    "Content": "Hi Daniel,  1) I want to clarify that you are not supposed to implement the data augmentation techniques yourself, but you can pick them from the torchvision library. Nonetheless, you are required to train your model with all 4 methods.  2) Yes, please use at least the four metrics f1-score micro, f1-macro, mAP micro and mAP-macro that are inlcuded in the homework sheet. Briefly mentioning them and including them into a discussion in the report is then straightforward, I suppose. You can use the provided metrics from sklearn or any other preferred library.  I hope this answers your questions.  Best, Tom",
+                                    "Response to": "p1085947"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW2 Resetting the model &amp; optimizer",
+                            "Discussion_Id": "605308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086231",
+                                    "Author": "Andrew Li",
+                                    "DateTime": "2024-07-03T16:05:35+02:00",
+                                    "Content": "Hello, I had a question for HW2 that I was hoping to get some advice on. When resetting a trained model, such as after the first experiment with no data augmentation, is using this style of code correct before also reinitializing the optimizer? for layer in model.children():    if hasattr(layer, 'reset_parameters'):        layer.reset_parameters() I got this idea from this link, but I am not sure what this does exactly or if this is correct:  https://stackoverflow.com/questions/63627997/reset-parameters-of-a-neural-network-in-pytorch Please let me know if you have any advice, and thank you so much for your time!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1086257",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-07-03T16:47:58+02:00",
+                                    "Content": "Hello, I'm not a tutor, but in my opionion that is not the right approach. As you're (hopefully) training on a pre-trained resNet18, which means that you train on pre-trained weights, all you need to do if you want to \"fine-tune from scratch\": resnet_pretrained = models.resnet18(weights=ResNet18_Weights.DEFAULT).  ResNet18_Weights.DEFAULT imports the pre-trained weights into your model. If you do a hard reset as you proposed, the model is not pre-trained anymore and is basically empty.  And of course, don't forget to re-initialise the optimiser as well!",
+                                    "Response to": "p1086231"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW2 Multilabel Storage",
+                            "Discussion_Id": "604077",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084425",
+                                    "Author": "Andrew Li",
+                                    "DateTime": "2024-06-27T15:31:17+02:00",
+                                    "Content": "Hello, I have a question about homework #2 and how to store the labels of each image. From the Excel file, we can see that there are 17 possible labels for each image, and currently, I decided to store the target data as an array corresponding to each image path. For example, self.targets[0] looks like this corresponding to image agricultural00: [0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 1. 0.] However, I get this error when I try to train: Classification metrics can't handle a mix of multiclass-multioutput and binary targets I figured it was due to the way I was storing the data, but maybe it ; does anyone have any advice for me? Thank you for your time!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085175",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-01T10:32:36+02:00",
+                                    "Content": "Hi Andrew,  Please carefully read the homework sheet again. I cannot give you more advice on this specific issue as it would make the solution too easy. I can only say that I doubt that your chosen data format will be an issue for solving the task if you do everything that is wanted in the homework sheet.  Best, Tom",
+                                    "Response to": "p1084425"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Precomputed Values for mean+std",
+                            "Discussion_Id": "604457",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085010",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-06-30T14:51:32+02:00",
+                                    "Content": "Hello, are we allowed to use the pre computed values mean and std for the UCMerced dataset # mean+std precomputed on whole dataset ucm_mean = [0.595425, 0.3518577, 0.3225522] ucm_std = [0.19303136, 0.12492529, 0.10577361]  Or should we rather calculate them ourselves?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085173",
+                                    "Author": "Tom Oswald Burgert",
+                                    "DateTime": "2024-07-01T10:27:25+02:00",
+                                    "Content": "Hi Aleksandar,  Please feel free to use the pre-computed mean and std values. Further, re-using anything from the Labs is explicitly allowed if that helps you solving the task.  Best, Tom",
+                                    "Response to": "p1085010"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Homework 1 Solution",
+                            "Discussion_Id": "601361",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080549",
+                                    "Author": "Seungcheon Lee",
+                                    "DateTime": "2024-06-17T09:07:31+02:00",
+                                    "Content": "Good Morning,  Would it be possible to upload the solution for the HW1, so that we can prepare better for the homework2? Thank you,",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080560",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-17T09:28:04+02:00",
+                                    "Content": "Dear student,  We won't upload the solution to HW1, but you also won't need details of HW1 for the completion of HW2.  Sincerely, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1080549"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW1: Nothing visible in „Grading Tab“",
+                            "Discussion_Id": "600806",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079740",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-06-13T10:52:39+02:00",
+                                    "Content": "The Grades from HW1 are not visible in the Grading Tab for me.  Best, Aleksandar",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079781",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-13T12:11:09+02:00",
+                                    "Content": "There are two things called \"Grades\" on ISIS: a section on the main page and a tab at the very top. Please select the one at the very top between \"Participants\" and \"More.\" Here you should see your HW grade.",
+                                    "Response to": "p1079740"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kernels",
+                            "Discussion_Id": "598327",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076125",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-06-02T14:21:25+02:00",
+                                    "Content": "Greetings, for 5-6, are we allowed to not just showcase one, but 1-n of our own kernels? So far, I have not found a kernel that solves the problem perfectly, but some that almost do - while all showcase different strenghts and weaknesses. Is it welcome for us to eloborate on encounters like this (assuming I do not make further progress here), or should we strictly stick to each given task and not extend them? Best Samuel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076266",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-03T09:21:00+02:00",
+                                    "Content": "Hello,  You should have just selected one kernel. Of course, this kernel might have limitations—this is fine, as long as you discuss them. We did not expect you to discover the perfect edge detection kernels that had never been seen before.  Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1076125"
+                                },
+                                {
+                                    "Message_id": "p1076821",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-06-04T11:30:54+02:00",
+                                    "Content": "Alright, then I understood the assignment correctly. Still, thanks for clarifying.",
+                                    "Response to": "p1076266"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Libraries",
+                            "Discussion_Id": "598329",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076128",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-06-02T14:30:00+02:00",
+                                    "Content": "Greetings, just to double check: Since it is mentioned in the submission folder, that we are not allowed to install any additional dependencies, yet no imports exist in the provided notebook - what are all the dependencies we are allowed to use? Do you mean all dependencies that can be found in the conda.yml files? Best Samuel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076261",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-03T09:16:10+02:00",
+                                    "Content": "Hello,  This question has been asked before: https://isis.tu-berlin.de/mod/forum/discuss.php?d=596938#p1074025 You were allowed to use anything that is installed.  Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1076128"
+                                },
+                                {
+                                    "Message_id": "p1076819",
+                                    "Author": "Samuel Joshua Finn Gabriel Domdey",
+                                    "DateTime": "2024-06-04T11:29:59+02:00",
+                                    "Content": "Thanks,  missed that thread, but went ahead assuming the mentioned points anyway",
+                                    "Response to": "p1076261"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Automatic hand-in at deadline?",
+                            "Discussion_Id": "598308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076099",
+                                    "Author": "Rebecca Corinna Pampu",
+                                    "DateTime": "2024-06-02T12:48:35+02:00",
+                                    "Content": "Hello, if I upload a draft (as zip) but do not yet click \"submit\" as it tells me then I can't do any changes anymore, will it be automatically submitted when the deadline runs out? I would like to keep the option to change my submission in case I still have time later or have a new idea how to differently solve the homework, but I also know I can be forgetful or might not have time later on and might miss the submission deadline, even though I have uploaded something as a so-called-by-ISIS \"draft\". So... do you know or can adjust the settings for the hand-ins accordingly, please? Thank you in advance!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1076273",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-06-03T09:29:16+02:00",
+                                    "Content": "Hello,  Unfortunately there is no setting for auto-submission of drafts to ISIS - you have to submit it manually. However, the submission was set to unlimited attempts.  Sincerely, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1076099"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Own Kernel Implementation ",
+                            "Discussion_Id": "598174",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075890",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-05-31T16:10:06+02:00",
+                                    "Content": "In the Homework, we should implement our own Edge Detection Filter. I don’t fully get it: Are we asked to innovate and create a new method, or can we implement a less known filter from an e.g. scientific paper?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075933",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-31T17:52:37+02:00",
+                                    "Content": "You should implement a kernel, that is not one of the usual ones - basically create your own and argument why it works / it's limitations",
+                                    "Response to": "p1075890"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Allowed to use band 8A?",
+                            "Discussion_Id": "598141",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075841",
+                                    "Author": "Rebecca Corinna Pampu",
+                                    "DateTime": "2024-05-31T14:27:32+02:00",
+                                    "Content": "Hello, in the classification task we are not allowed to use band 8. Does this restriction include 8A? Thank you.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075847",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-31T14:47:44+02:00",
+                                    "Content": "Hello,  If you really want to, you can use band 8 as well. However, if you inspect the files, you will find that the bands are always present for their respective resolution as well as the lower resolution versions —except for band 8. This is because for most applications, it is fine to use band 8a instead for lower resolution applications as the bands considerably overlap, and band 8a is natively 20m vs. band 8 10m, meaning less resampling has to be done.  So, for your case: You don't have to use band 8, but you can if you want. You should use band 8a in any case.  I hope this helps.",
+                                    "Response to": "p1075841"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question regarding the Homework: Classify as \"Other\"",
+                            "Discussion_Id": "597865",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075431",
+                                    "Author": "Eike Christoph Ullrich",
+                                    "DateTime": "2024-05-30T11:33:17+02:00",
+                                    "Content": "Hello, I have a question regarding the tasks 4,6, and 7 from the homework. In task 4 it says: 'If any of the pixels in the image are not classified, assign them to the class \"Other\".'  I'm unsure about what \"not classified\" means. For each pixel we calculate the distance to each reference point and classify it as the class it is nearest to, right? The closest distance might be still really large, but we can classify all pixels nonetheless. Should we assign the class \"Other\", if the pixel isn't close to any reference point?  Thanks for your answer!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075446",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-30T11:58:54+02:00",
+                                    "Content": "Hello,  You are right; you can use \"lowest distance\" as your metric. However, if you think a pixel does not belong to any classes, you should put them into the \"other\" class. At least one type of pixel should be in your mind for this.  Hint: visualize the TCI (true colour image) of the (clipped) region you should classify. This will give you a starting point.",
+                                    "Response to": "p1075431"
+                                },
+                                {
+                                    "Message_id": "p1075630",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-05-30T18:04:21+02:00",
+                                    "Content": "So does this mean, that we are allowed to introduce a 4th representative point, which hopefully summarizes the characteristics of all other classes? Regarding the type of pixel: Could you provide maybe a further hint, as in the visualized true color image, nothing odd can be seen visually.",
+                                    "Response to": "p1075446"
+                                },
+                                {
+                                    "Message_id": "p1075706",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-31T09:26:15+02:00",
+                                    "Content": "You should not need another representative point to see/recognize this special pixel—we have already discussed this type of pixel multiple times in the lab.  Regarding the visualisation and in general: All of this is not necessary if you operate on the envelope of the area of interest instead of the reprojected area, as the geoseries.envelope operation removes* the special pixels. However, in your code, you should still make sure to handle such pixels and be aware of them, even if they don't occur in your example. To test your code, I would recommend applying your functions on the pure shape once without using the envelope, e.g., load the data without using the shape's envelope.  *technically, it does not remove but adds something",
+                                    "Response to": "p1075630"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Interpolate data to 60 m",
+                            "Discussion_Id": "597268",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074592",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-05-28T11:02:39+02:00",
+                                    "Content": "*Hint: You may interpolate the data to 60m resolution to speed up the classification process and ease the process. You only need to interpolate the data if the respective band is not already in the desired resolution.*You only need to interpolate the data if the respective band is not already in the desired resolution.*  Do I even need to interpolate, if Bands 1-12 (except 8 and 10) are already available in 60m resolution? Just to clarify, as I'm a bit confused.  Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074605",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-28T11:18:08+02:00",
+                                    "Content": "You only need to interpolate the data if the respective band is not already in the desired resolution.",
+                                    "Response to": "p1074592"
+                                },
+                                {
+                                    "Message_id": "p1074612",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-05-28T11:24:53+02:00",
+                                    "Content": "So by desired solution, you mean the 60m, right? It's just linguistically confusing. :)",
+                                    "Response to": "p1074605"
+                                },
+                                {
+                                    "Message_id": "p1074989",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-29T10:01:16+02:00",
+                                    "Content": "If you want to use 60m resolution, then yes. You could also use bands with higher resolution (after interpolating* the ones that are not available in the higher resolution).  *we use interpolation for up- and downsampling in this homework, although it is technically not correct. Only upsampling is the correct linguistic equivalent of interpolation, but up- and downsampling are both called interpolation in software libraries such as pytorch. This is done for practical reasons, as from an implementation perspective, there is only a minor difference in downsampling (resampling with, e.g. scale 0.5, going from 120x120 to 60x60 pixels / going from 10m to 20m) and upsampling (resampling with, e.g. scale 0.5, going from 120x120 to 240x240 pixels / going from 10m to 5m). This is also the reason why there sometimes is no distinction, e.g. at https://www.sentinel-hub.com/faq/what-downsampling-and-upsampling/.",
+                                    "Response to": "p1074612"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW1 Submission Guidelines",
+                            "Discussion_Id": "596938",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074025",
+                                    "Author": "Andrew Li",
+                                    "DateTime": "2024-05-27T11:39:09+02:00",
+                                    "Content": "Hello, When submitting homework #1, should we comment out the Copernicus file downloading code, or should we leave it in? Also, for the guideline to not install other libraries, does this include the imports used in the labs? For example, can we use \"import zipfile\" from the labs used to automatically unzip the downloaded file? Thank you for your time!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074077",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-27T12:34:37+02:00",
+                                    "Content": "Please submit the code as you used it (including the download part etc.).  You may include anything that is part of the official IP4RS environment, including but not limited to anything used in the labs until now. You can also use anything that is also standard Python libs (e.g., itertools) if you like. Make sure the code is fully automatic. So, if you download a zip file, you should also unzip it if you want to use its content.  Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1074025"
+                                },
+                                {
+                                    "Message_id": "p1074080",
+                                    "Author": "Aleksandar Maksimovic",
+                                    "DateTime": "2024-05-27T12:40:44+02:00",
+                                    "Content": "Are we also allowed to insert further cells in the Jupyter Notenook to make the code more readable, or are we limited to the cells you provided (with the instructions as comments)?",
+                                    "Response to": "p1074077"
+                                },
+                                {
+                                    "Message_id": "p1074091",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-27T12:53:02+02:00",
+                                    "Content": "You may insert as many cells as you like (code and/or text cells).",
+                                    "Response to": "p1074080"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HW1 - Selecting the right tile",
+                            "Discussion_Id": "596812",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073827",
+                                    "Author": "Erik Rygiel",
+                                    "DateTime": "2024-05-26T23:57:26+02:00",
+                                    "Content": "Hey, in the notebook for homework 1, is a link for a tile if we can not download it ourselves. This one has the date of July in the name instead of June as described in the task. Just wanted to ask if this is intended or if the task description is outdated. Kind Regards Erik",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073850",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-27T08:18:39+02:00",
+                                    "Content": "Hello,  It is correct. This is a different tile than you would download if you do it via Copernicus Dataspace. This is done to make it easier to see which approach you used.  Sincerely, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1073827"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Question about HW 1.5",
+                            "Discussion_Id": "596440",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073225",
+                                    "Author": "Andrew Li",
+                                    "DateTime": "2024-05-23T23:57:16+02:00",
+                                    "Content": "Hello, I have a question about homework #1 part 5. When applying a smoothing filter, should it be applied to all used bands as in part 4? Or should it be applied to only some bands and not others? Also, should the same classification from part 4 be used in part 5, or should there be a new classification after smoothing? Any help is appreciated; thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073254",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-24T09:17:19+02:00",
+                                    "Content": "Hello,  smoothing should be applied to each band, and you should reuse the classification function that you created for the first classification. If you change the classification function, you would not be able to compare the results, right?  Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1073225"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "How to request copernicus images without tubcloud?",
+                            "Discussion_Id": "592748",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067495",
+                                    "Author": "Daniel Sequerra Gagliardi",
+                                    "DateTime": "2024-05-06T22:04:04+02:00",
+                                    "Content": "I was trying to use the lab02 classes to see images from other cities, and I couldn't, probably because the files come from the zip downloaded from tubcloud, which I suppose does not contain the cities I tried. Is there a way to request the imagery directly from the copernicus system, via API? Have I missed it somewhere in the notebook? Thank you for your attention",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1067548",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-07T08:18:29+02:00",
+                                    "Content": "Hi Daniel,  yes, the tile downloaded from tubcloud does not contain other cities - only some areas around Berlin. If you want to download other sentinel images, use the provided dataspace_dataframe_from_attributes function from one of the earlier cells in the notebook. This function accepts an area of interest in the AOI parameter in WKT format. You can see how to use this format later in the notebook in an example with TU Berlin coordinates.  I hope this helps.  Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1067495"
+                                },
+                                {
+                                    "Message_id": "p1067692",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-07T11:36:24+02:00",
+                                    "Content": "Hi again,  After checking, I noticed that this part may not have been clear - you have to extract the ID from the data frame and put it into a specific URL to download the images. I created a Github Gist to showcase the download process. This code assumes your products are saved in the products variable and your access token in the access_token variable (both retrieved as shown in Lab02). The result will be in ./data/product.SAFE.zip.  Note: The download function has to be slightly modified to contain the authorization and non-standard redirection process of Copernicus Dataspace.  I hope this helps you to download the tiles you want to explore.  Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1067548"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Solution to Lab03 In-course Practice",
+                            "Discussion_Id": "591676",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065780",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-05-02T12:14:02+02:00",
+                                    "Content": "Dear students, as promised, here the solution to the in-course practice from today: # already present in notebook threshold = 120 img_B_eq_thres = np.where(img_B_eq < threshold, 0, 255) # convert threshold to binary True/False mask keep_indicator = img_B_eq_thres > 0 # !! This does not work, as keep_indicator is (600, 600), but adj_img is (600, 600, 3) adj_img_masked = np.where(keep_indicator, adj_img, 0) # we need to add an axis to the keep_indicator, so that automatic broadcasting in numpy works adj_img_masked = np.where(keep_indicator[..., np.newaxis], adj_img, 0) # we could also use something like \"np.expand_dims(keep_indicator, axis=-1)\" to add the channel axis # now it works and we ca display the result # use previously adjusted histogram image to display the values imshow(adj_img_masked)   If you want to copy, there is also a Github Gist available. Best, Leonard Hackel - IP4RS Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Downloading .ipynb in Ubuntu",
+                            "Discussion_Id": "589462",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062420",
+                                    "Author": "Shakila Khalifeh",
+                                    "DateTime": "2024-04-24T15:52:14+02:00",
+                                    "Content": "Hello everyone,  I have a very stupid question, I would appreciate it if anyone could help though.  When I try to download the .ipynb file in Linux terminal, it downloads.PHP file instead. How can I fix this problem?  Thank you!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062451",
+                                    "Author": "Leonard Wayne Hackel",
+                                    "DateTime": "2024-04-24T16:11:57+02:00",
+                                    "Content": "Hi, You are not trying to download the .ipynb file; you are trying to download the course page. The easiest way I would also recommend is downloading manually — not using the terminal.  Kind regards, Leonard Hackel - IP4RS Team",
+                                    "Response to": "p1062420"
+                                },
+                                {
+                                    "Message_id": "p1062532",
+                                    "Author": "Shakila Khalifeh",
+                                    "DateTime": "2024-04-24T17:41:32+02:00",
+                                    "Content": "ok, Thanks.",
+                                    "Response to": "p1062451"
+                                },
+                                {
+                                    "Message_id": "p1062457",
+                                    "Author": "Aleksander Maksymilian Krasowski",
+                                    "DateTime": "2024-04-24T16:19:49+02:00",
+                                    "Content": "Hey, I would say that the easiest way would be to simply download it via your Browser. I suppose the problem is that ISIS needs you to be logged in, in order to access the file (note that you are being forwarded to /login/index.php).  If you really want to download it via your shell you can also open up the Web Developer Tools inside your Browser, switch to the Network Tab. Once this is open click on the Download link to Lab01.ipynb on the ISIS page. You should be now able to see a GET request in the Network tab with status 200 (OK) for the file. Now you can go hit right-click -> Copy Value -> Copy cURL.  This will include the session-cookie (i.e. your login). Copying this into your shell and appending \"-o Lab01.ipynb\" (i.e., \"please output this into a file named Lab01.ipynb\") should download the notebook in a more hacky manner.  Hope this can help",
+                                    "Response to": "p1062420"
+                                },
+                                {
+                                    "Message_id": "p1062534",
+                                    "Author": "Shakila Khalifeh",
+                                    "DateTime": "2024-04-24T17:42:23+02:00",
+                                    "Content": "That's very good to know; thank you so much.",
+                                    "Response to": "p1062457"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

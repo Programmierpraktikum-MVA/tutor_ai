@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Stadtteilentwicklung: Segregation und Integration",
+        "Course_id": "38545",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1794296",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Kurskommentar extra",
+                            "Discussion_Id": "585051",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055733",
+                                    "Author": "Gabriela Christmann",
+                                    "DateTime": "2024-04-09T08:57:10+02:00",
+                                    "Content": "Liebe Seminarteilnehmer*innen, das System hat mir nicht erlaubt, zwei Dateien gleichzeitig hochzuladen. Daher kommt nun der Kurskommentar in einer extra Ankündigung. Gabriela Christmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Kursprogramm und Kommentar",
+                            "Discussion_Id": "585049",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1055731",
+                                    "Author": "Gabriela Christmann",
+                                    "DateTime": "2024-04-09T08:55:36+02:00",
+                                    "Content": "Liebe Seminarteilnehmer*innen, schon auf diesem Wege ein herzliches Willkommen zu dieser Veranstaltung! Wie Sie den allgemeinen Kursinformationen entnehmen können, starten wir am Donnerstag, dem 18. April. Die Veranstaltung findet donnerstags von 10-12 Uhr im Raum H7112 statt. Ich habe Ihnen zwei Dateien angehängt. Bei der ersten handelt es sich um den Kurskommentar mit der Kurzbeschreibung, beim zweiten um das Kursprogramm mit den potenziellen Referatsthemen. Dort ist auch schon eine Literaturliste für die jeweiligen Themen angehängt. An unserem ersten Termin werde ich alles im Detail erläutern. Bis dahin! Mit besten Grüßen, Gabriela Christmann",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

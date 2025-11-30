@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Management von Presswerken",
+        "Course_id": "37606",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1764153",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Sprechstunden / Prüfungstermine",
+                            "Discussion_Id": "599892",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078395",
+                                    "Author": "Nils Bergström",
+                                    "DateTime": "2024-06-10T09:43:32+02:00",
+                                    "Content": "Hallo liebe Studierende, um euch die Möglichkeit zu geben Prof. Viehweger mögliche Fragen zum Inhalt der Vorlesungen zu stellen, bieten wir 2 Sprechstundentermine an. Diese werden via Zoom an den folgenden Terminen stattfinden: 1. Sprechstunde  04.07.2024 von 10-12 Uhr, Zoom-Link 2. Sprechstunde 11.07.2024 von 10-12 Uhr, Zoom-Link Die Prüfungen werden am 08./09.08.2024 ebenfalls online via Zoom stattfinden. Falls ihr an der Prüfung teilnehmen möchtet, möchte ich euch bitten mir den \"gelben Zettel\" des Prüfungsamts als Anmeldung zuzuschicken. Je nachdem wie viele Studenten sich für die Prüfung anmelden, werden die Prüfungen eventuell auf einen Tag gelegt. Die genauen Prüfungstermine werden nach erfolgreicher Anmeldung per Mail bekannt gegeben. Bei Rückfragen könnt ihr euch gerne an mich wenden (bergstroem@iwf.tu-berlin.de). Viele Grüße Nils ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungsunterlagen",
+                            "Discussion_Id": "590125",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063412",
+                                    "Author": "Nils Bergström",
+                                    "DateTime": "2024-04-26T11:07:10+02:00",
+                                    "Content": "Hallo liebe Studierende, ich habe die Vorlesungsunterlagen als vertonte PowerPoint-Präsentation und pdf hochgeladen. Bei Fragen zu dem Material könnt ihr euch gerne an mich (bergstroem@iwf.tu-berlin.de) wenden. Viele Grüße Nils",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

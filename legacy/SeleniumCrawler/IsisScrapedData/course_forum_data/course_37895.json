@@ -1,0 +1,354 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Research Seminar: Operations Management using Python and Gurobi",
+        "Course_id": "37895",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Announcements",
+                    "Forum_id": "1772449",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Reminder guest lecture Dr.-Ing Jochen Kemper (Head of Production Master Production Scheduling Volkswagen Cars) 4th of July",
+                            "Discussion_Id": "604801",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085530",
+                                    "Author": "Grace Tia Kathleen Wojatzki",
+                                    "DateTime": "2024-07-01T18:38:53+02:00",
+                                    "Content": "Dear Students, we would like to remind you of the upcoming guest lecture held by Dr.-Ing Jochen Kemper this Thursday in H3007 from 10am to 12pm.  Join us for an unique opportunity to gain insides to the production in the automotive industry at a large car manufacturer. If you plan to attend kindly register via this link. We hope to see a lot of you there. Best Regards,  Team POM",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest lecture by Dr.-Ing Jochen Kemper (Head of Production Master Production Scheduling Volkswagen Cars)",
+                            "Discussion_Id": "602027",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081504",
+                                    "Author": "Grace Tia Kathleen Wojatzki",
+                                    "DateTime": "2024-06-19T10:57:22+02:00",
+                                    "Content": "Dear Students, We are very delighted to announce an upcoming guest lecture by Dr.-Ing Jochen Kemper, head of production master production scheduling at Volkswagen, scheduled for june 24 at 10:15 am in room H 3007. Mr Kemper will give us an insight into his experiences with production scheduling at one of the world's leading car manufacturers, Volkswagen. As the current head of production master production scheduling, Dr. Kemper has been instrumental in shaping the efficiency and effectiveness of Volkswagen's production processes. His leadership in the innovative \"Digitaler Blick\" project earned his team a special prize at the German Award for Supply Chain Management in 2020, highlighting his profound understanding of contemporary industry challenges. After graduating at the Technical University Braunschweig (industrial engineering) and Technical University Dortmund (mechanical engineering), he was a lecturer at the Ostfalia University of Applied Sciences for supply-chain-management and logistics management. Mr Kemper has been working at Volkswagen since 2016, initially as Head of Strategy, Communication and the Logistics Campus, making him one of the youngest heads ever at Volkswagen. His commitment to advancing the field extends beyond his professional role, as he actively contributes to the research council of the BVL, an almost 10.000 members strong network promoting ideas in supply chain management and logistics. Attendance for this unique opportunity is highly recommended and we are looking forward to seeing you all there! If you would like to join us please register here. All the best, your POM-Team",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1082001",
+                                    "Author": "Grace Tia Kathleen Wojatzki",
+                                    "DateTime": "2024-06-20T14:10:47+02:00",
+                                    "Content": "Dear Students,  a small correction. The guest lecture will take place on the 4th of July. We apologize for any inconvenience.  Best regards, your POM-Team",
+                                    "Response to": "p1081504"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation ALB Quiz",
+                            "Discussion_Id": "601414",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080620",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-17T11:02:50+02:00",
+                                    "Content": "Dear POMcoding#lab group, the evaluation for the quiz on assembly line balancing has been completed. Best regards, Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Guest lecture by Luc van Nerom/PSI Metals",
+                            "Discussion_Id": "600976",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079982",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-13T18:49:54+02:00",
+                                    "Content": "Dear Students, as part of the PSiP module, an English-language guest lecture by Luc van Nerom will take place on Monday, June 24th, from 2:15 PM to 3:45 PM in H 0112, to which we would like to invite you. Luc van Nerom, Managing Director at PSI Metals, is a pioneer in production planning and has significantly influenced the metal industry with Line Scheduling. He currently leads Product Innovation Management at PSI Metals and brings decades of experience in the development and implementation of artificial intelligence. As early as 1986, he founded the company \"Artificial Intelligence Systems\" to integrate AI and optimization technologies into the metal industry. After the merger with PSI Metals, his work became a central component of their production planning software. With nearly 38 years at the company, van Nerom's dedication and innovative spirit have been crucial to the company's success. Today, PSI Metals is the world’s largest provider of software solutions for production management in the metal industry. Best regards, Your POM Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "What happens next?",
+                            "Discussion_Id": "600815",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079752",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-13T11:19:50+02:00",
+                                    "Content": "Dear POMcoding#lab group, here's a brief update on the further course of the seminar: After the second quiz on ALB ends on sunday at 11:59 pm, the second phase of the seminar will begin. On Monday, June 17, the group/topic selection will be unlocked here on ISIS until Wednesday, June 19 at 11:59 pm. In groups of three or four, choose one of the two quiz topics (MPP or ALB). Based on this decision, you will compose your paper. Also on Monday, June 17, there will be an online session by Professor Volling on the introduction to scientific work. One week later on June 24, we will meet again in room H6126 to discuss your idea for model expansion, the potential title of your paper, and your initial reference papers. I highly recommend to prepare yourselves and your project idea as well as possible (slides or similar) so that you can receive constructive feedback. You can also find all the information in the schedule and the first slides for introduction. Until then, best of luck with the quiz, and greetings, Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluation MPP Quiz",
+                            "Discussion_Id": "599126",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077270",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-05T12:46:45+02:00",
+                                    "Content": "Dear POMcoding group, the evaluation for the quiz on Master Production Planning has been completed. All the best, Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Field trip to tesla",
+                            "Discussion_Id": "595046",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071083",
+                                    "Author": "Henri Decker",
+                                    "DateTime": "2024-05-16T19:25:12+02:00",
+                                    "Content": "Dear students, If you registered for the field trip to Tesla, you should have received an invitation email from Tesla today. Please sign up using the link in the email and bring the generated QR code with you to Tesla. If you did not receive an email, please contact us immediately. Best regards Henri",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Correction: in-person lecture today",
+                            "Discussion_Id": "593924",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069321",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-05-13T09:47:09+02:00",
+                                    "Content": "Dear students, unfortunately, there was a small error in the schedule. Contrary to the initial announcement, there will be no video recording today. Instead, the lecture will be held in person. We apologize for the short notice and any inconvenience this may cause. We look forward to welcoming you to the in-person lecture today (May 13) at 4 pm. Best regards, Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Field trip to Tesla's Gigafactory - Parking Spots",
+                            "Discussion_Id": "593224",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068198",
+                                    "Author": "Juri Zahn",
+                                    "DateTime": "2024-05-08T11:38:11+02:00",
+                                    "Content": "Dear students, in response to several requests, we are providing some information regarding the parking situation for our upcoming field trip to Tesla's Gigafactory on May 23rd between 2:30 and 4:30 pm. There are two options you may want to consider. Firstly, you can park your car at the S-Bahn Station Erkner. Next to the station is a limited number of parking spaces available. These spaces are free of charge, however, please note that they are frequently used by commuters traveling to Berlin, so availability is not guaranteed. If you manage to find a parking spot, you can then catch the TES-Shuttle at 2:05 pm or any earlier shuttle. Alternatively, your second option is to drive directly to the Gigafactory. There are approximately 100 parking spots reserved for visitors, located in front of the Visitor Centre. As far as I am aware, these spots are currently free of charge. Until then we wish you a great time. Best regards your POM Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Field trip to Tesla's Gigafactory",
+                            "Discussion_Id": "590956",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064687",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-04-29T17:38:41+02:00",
+                                    "Content": "Dear students, we are looking forward to offering you a field trip to the Tesla Gigafactory on May 23rd between 2:30 and 4:30 pm. The excursion will take place together with the AutoPOM course. To ensure that everyone has an equal chance to register, registration for the limited number of places will start tomorrow at 2pm via the link provided here in the ISIS course. If you successfully register for the excursion, we ask you to hand over a deposit of 5 euros to me next Monday(05/06) after the session. Please bring exactly 5 euros, as we will not be able to give change. The money will of course be returned to you when you arrive for the excursion. IMPORTANT! By signing up for the excursion, you consent to register as a guest in the Tesla portal with your full name, e-mail, and photo. Recommended arrival: Depart from Zoologischer Garten at 1:08 pm on the RE 1, arriving in Erkner at 1:46 pm. Then, catch the TES-Shuttle at 2:05 pm, which will get you to the factory by 2:16 pm. From the arrival point, proceed to the lobby, which should take approximately 10 minutes at a releaxed pace. We look forward to seeing you there and wish you a successful week! All the best, Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Course registration",
+                            "Discussion_Id": "586144",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057306",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-04-15T20:05:00+02:00",
+                                    "Content": "Dear students, please remember that course registration starts tonight at 8pm on Moses. Deadline for registration is April 22nd also at 8pm. If registrations exceed capacity, the \"first come, first served\" principle applies together with the prioritization rules of the university (mandatory, elective, free choice, erasmus, etc.). There will also be a waiting list. Thank you for your understanding and we wish you all a great start to the new semester. All the best, Nico",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Student Question Forum",
+                    "Forum_id": "1772451",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Group Selection",
+                            "Discussion_Id": "602589",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082302",
+                                    "Author": "Paul Heiner Darius",
+                                    "DateTime": "2024-06-21T12:30:18+02:00",
+                                    "Content": "Hello fellow students,  I signed up for group Master-ALB-5. ALB-1 to 3 are full, but it looks like there are no more active students in the course that could join me. So I seem to be alone - I know that sounds pathetic :) Is there somebody from group 1 to 3 who can imagine joining me?  I would much more prefer to work in a group than alone!   Have a great start into the weekend, Paul",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Assembly Line Balancing - Homework",
+                            "Discussion_Id": "601220",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080334",
+                                    "Author": "Ron Tschiggfrei",
+                                    "DateTime": "2024-06-15T15:00:57+02:00",
+                                    "Content": "Hello, I have a question regarding the last 2 tasks in the ALB Homework: It says: \"which possible extensions should we implement in the model to make it more applicable in our real life setting? Please give us a suggestion and explanation why we should implement your suggestion. If it is possible, would you also be so kind to give us a code snipplet which helps us illustrate the results of the last run?\" This is formulated a bit vague and most of us are not 100% sure what is meant with a \"real life setting\". Is it the consideration of different variants that are produced on our assembly line in the model? Or are there other things to consider? Thank you very much",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Quiz 2 symmetry break",
+                            "Discussion_Id": "601012",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080041",
+                                    "Author": "Marcel Endres",
+                                    "DateTime": "2024-06-14T08:46:49+02:00",
+                                    "Content": "Hello, during the adaptions in the provided notebook for the questions from the quiz I noticed that the symmetry break does not work as expected, as sometimes a lower station number is not preferred in the optimal solution. When I change the penalty in the symbreak constraint from 0.1 to 0.2 I get the expected behaviour and even a lower objective value.  How should I go one from there? Best, Marcel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1080049",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-14T09:19:15+02:00",
+                                    "Content": "Hi Marcel,  as we want to minimize the cycle time, the number of stations should only change if manual adjustments are made.  Apart from that, your OV should actually always be as low as possible. Are you sure that your gap is always 0? If not, try the following: m.setParam(\"MIPgap\", 0)  Best regards, Nico",
+                                    "Response to": "p1080041"
+                                },
+                                {
+                                    "Message_id": "p1080120",
+                                    "Author": "Marcel Endres",
+                                    "DateTime": "2024-06-14T12:04:22+02:00",
+                                    "Content": "Hi Nico, thank you! Setting the gap to 0 yielded the same behaviour and now I have the expected assignment. With the lower station number I meant that e.g. task 1 is assigned to station 2 and task 2 to station 1, where I assumed to have t1->s1 and t2->s2 with the symmetry break (hypothetical problem and not from my results :D). The actual number of stations stayed the same. Best Marcel",
+                                    "Response to": "p1080049"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "precedence relation in home work assignment 2",
+                            "Discussion_Id": "600703",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079588",
+                                    "Author": "Paul Heiner Darius",
+                                    "DateTime": "2024-06-12T19:49:43+02:00",
+                                    "Content": "hi everybody,  i have a question concerning the homework assignment 2.  There is no precendence order written in the text to having the lights installed before the bike is packed, adressed and franked. in my view this is necessary, but the text says only \"When all THESE steps were carried out the scooter is ready to be packaged\", which refers to the specific contraints given in the text.  Since it changes the allocation order, i wanted to kindly ask for clearification.  also, do i assume right that the changes made for task i are also valid for task i+1, ... etc?   thank you in advance, paul",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1079724",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-06-13T10:16:12+02:00",
+                                    "Content": "Hi Paul,  read the e-mail again more closely, there is a clear precedence relation given.  Unless otherwise stated, changes remain valid.  Best regards, Nico",
+                                    "Response to": "p1079588"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Telegram Group",
+                            "Discussion_Id": "598121",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075815",
+                                    "Author": "Rafael Dobler",
+                                    "DateTime": "2024-05-31T13:34:51+02:00",
+                                    "Content": "Hi guys, we've opened a telegram group for the course. Feel free to join :) https://t.me/+Ag26HnENLXcyM2My",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "MPP assignment",
+                            "Discussion_Id": "596349",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073088",
+                                    "Author": "Paul Heiner Darius",
+                                    "DateTime": "2024-05-23T15:30:19+02:00",
+                                    "Content": "Hello,  I have a question regarding the programming task. In the 3rd constraint defining the LTA balance, we are asked to subtract the regular production capacity c_0. What is the regular production capacity?  We have capacities for each level. Is it just the average of all capacity levels? maybe i am just confused rn. i would be grateful for clearification -  Thank you in advance!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073271",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-05-24T10:19:28+02:00",
+                                    "Content": "Hello Paul,  the first capacity level is meant by the regular production capacity.  Best regards, Nico",
+                                    "Response to": "p1073088"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "[Field trip]Anyone else leaving from TU to Tesla's Gigafactory",
+                            "Discussion_Id": "596224",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072889",
+                                    "Author": "Jiaao Li",
+                                    "DateTime": "2024-05-23T10:19:42+02:00",
+                                    "Content": "Hi, if you are going from TU to Tesla, we can go together. Let me know if you are interested. I would just use the arrival plan recommended by Nico. Recommended arrival: Depart from Zoologischer Garten at 1:08 pm on the RE 1, arriving in Erkner at 1:46 pm. Then, catch the TES-Shuttle at 2:05 pm, which will get you to the factory by 2:16 pm. From the arrival point, proceed to the lobby, which should take approximately 10 minutes at a releaxed pace.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prerequisites/Recommended knowledge for visiting this course",
+                            "Discussion_Id": "586424",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057718",
+                                    "Author": "Arthur Kraft",
+                                    "DateTime": "2024-04-16T14:35:50+02:00",
+                                    "Content": "Hello teaching team, I just have a short question about the prerequisites and recommended knowledge for this course. I don't have any knowledge from basic production and operations management as it is recommended at Moses, but strong programming skills. I study M. Sc. Information Systems Management and would be interested to take this course in this or the next semester. That is why I would ask for a recommendation from your side - do you think it is manageable to follow this course and fill knowledge gaps on my own during the semester? Is this course self-contained or does it explicitly depend on other courses with lots of referrals to content that was already discussed in other lectures? Thank you very much! Best regards, Arthur",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057765",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-04-16T15:12:27+02:00",
+                                    "Content": "Dear Arthur,  of course, we also discuss topics in the seminar that are covered in other modules. Nevertheless, the course is self-contained and can be successfully completed without any prior knowledge.  All the best, Nico",
+                                    "Response to": "p1057718"
+                                },
+                                {
+                                    "Message_id": "p1057801",
+                                    "Author": "Arthur Kraft",
+                                    "DateTime": "2024-04-16T15:53:16+02:00",
+                                    "Content": "Dear Nico,  all right, thanks for the quick answer!  Best wishes, Arthur",
+                                    "Response to": "p1057765"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "About online availability of the course",
+                            "Discussion_Id": "586160",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057325",
+                                    "Author": "Raiyan Mahmud Tanim",
+                                    "DateTime": "2024-04-15T18:48:32+02:00",
+                                    "Content": "Dear Professor, I am a first-semester student of the program Msc Information Systems Management. Can this course be taken online? Due to the visa issues, I won't be able to attend in-person lectures until June. So if lectures can be taken online up until June, I will continue the course. Or else I'll need to unenroll. Can you confirm if the course can be attended remotely? Thank you.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057472",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-04-16T09:16:42+02:00",
+                                    "Content": "Dear Raiyan,  there is no compulsory attendance until June 24.  The notebooks and solutions uploaded by us should contain everything you need for the self-study.  However, it is important that you do not miss the deadlines for registration, quizzes and group finding.  Best regards, Nico",
+                                    "Response to": "p1057325"
+                                },
+                                {
+                                    "Message_id": "p1057647",
+                                    "Author": "Raiyan Mahmud Tanim",
+                                    "DateTime": "2024-04-16T13:13:24+02:00",
+                                    "Content": "Thank you sir for the clarification. I have one more doubt. Since I'll be following the lectures online and if for some reason I can't really cope up with the course since I won't be able to do the lectures in person at least until June, in that case, will I be able to unenroll/de-register from the course? I mean if I find it hard to self study, can I deregister in the middle? Thank you sir.",
+                                    "Response to": "p1057472"
+                                },
+                                {
+                                    "Message_id": "p1057681",
+                                    "Author": "Nico Gärtner",
+                                    "DateTime": "2024-04-16T13:55:18+02:00",
+                                    "Content": "Dear Raiyan,  should there indeed be more registrations than our capacities allow, it would be very unfortunate if the slot were to be blocked.  Deregistration is only possible until the first graded part (Quiz 1).  Best regards, Nico",
+                                    "Response to": "p1057647"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

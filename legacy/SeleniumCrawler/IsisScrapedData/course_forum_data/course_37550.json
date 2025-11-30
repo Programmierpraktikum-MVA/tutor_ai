@@ -1,0 +1,92 @@
+[
+    {
+        "Course_Name": "Grundlagen der Technischen Chemie (Verfahrenstechnik) SS 2024",
+        "Course_id": "37550",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1762757",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Vorlesung am Mi 22.5.2024  8.45 entfällt",
+                            "Discussion_Id": "595548",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071933",
+                                    "Author": "Peter Strasser",
+                                    "DateTime": "2024-05-21T09:41:52+02:00",
+                                    "Content": "Liebe Studierende, die Vorlesung am 22.5.2024 entfällt. Bitte schauen Sie sich die Vorlesungseinheiten 7 und 8 in den Videos an und wir reden darüber das nächste Mal.  Gruss Peter Strasser",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null,
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1762759",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Anmeldung zur Semesterklausur am 23.07.2024",
+                            "Discussion_Id": "604278",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084729",
+                                    "Author": "Christian Daniel Franceschi",
+                                    "DateTime": "2024-06-28T13:56:50+02:00",
+                                    "Content": "Guten Tag, ist die Anmeldung für die Semesterklausur am 23.07.24 auf Moses für \"Technische Chemie II\" möglich? Denn es wird bei der Anmeldung über MTS,  \"Für dieses Modul sind im gewählten Semester keine Prüfungen verfügbar.\" angezeigt. Beziehungsweise, in welcher Form soll die Anmeldung erfolgen? Vielen Dank  Christian Franceschi",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1085819",
+                                    "Author": "Frank Beuster",
+                                    "DateTime": "2024-07-02T14:49:30+02:00",
+                                    "Content": "Lieber Herr Franceschi, Sie können sich ab sofort bei MOSES anmelden. Mit freundlichen Grüßen, Frank Beuster",
+                                    "Response to": "p1084729"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung 10 Video",
+                            "Discussion_Id": "598832",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076862",
+                                    "Author": "Constantin Würtz",
+                                    "DateTime": "2024-06-04T13:06:05+02:00",
+                                    "Content": "Guten Tag,  könnte noch das Vorlesungsvideo für diese Woche freigeschaltet werden? Vielen Dank im Voraus!  Mit freundlichen Grüßen  Constantin Würtz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung Klausur 31.05.2024",
+                            "Discussion_Id": "596969",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074076",
+                                    "Author": "Christian Daniel Franceschi",
+                                    "DateTime": "2024-05-27T12:31:33+02:00",
+                                    "Content": "Guten Tag, wie kann man sich als WiIng zur Zwischenklausur anmelden, die am 31.5.2024 stattfindet? Vielen Dank im Voraus!",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074399",
+                                    "Author": "Frank Beuster",
+                                    "DateTime": "2024-05-27T20:01:06+02:00",
+                                    "Content": "Guten Tagt, bitte nutzen Sie die Umfrage auf der ISIS-Seite. Mit freundlichen Grüßen, Frank Beuster",
+                                    "Response to": "p1074076"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Energetische Bilanzierung",
+        "Course_id": "38327",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1787869",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Hinweise schriftlicher Test",
+                            "Discussion_Id": "606906",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088510",
+                                    "Author": "Tanja Broszies",
+                                    "DateTime": "2024-07-10T14:06:58+02:00",
+                                    "Content": "Hallo zusammen,  ihr findet unten im ISIS Kurs ab sofort Hinweise zum schriftlichen Test, eine Themeneinschränkung für die Prüfungsvorbereitung sowie eine Probeklausur um euch mit dem digitalen Prüfungsformat und den Fragetypen vertraut zu machen. Die Probeklausur enthält keine inhaltlichen Fragen. Wenn ihr alle Themen und Fragen aus der gegebenen Einschränkung beherrscht, seid ihr bestens vorbereitet. Hinweis für die Hausaufgabe: Bitte nutzt in eurem eigenen Interesse die Sprechstundenangebote bei Fragen und stellt sicher, dass ihr die Aufgabenstellung richtig verstanden habt, teilt mir mit wo vielleicht etwas uneindeutig formuliert ist oder welche Annahmen ihr getroffen habt und klärt wie ihr diese richtig kenntlich macht. Solche Dinge lassen sich in einer Einsicht viel schlechter klären als in einer Sprechstunde.  Falls ihr irgendwelche Fragen habt, zögert bitte nicht auf mich zu zukommen! Viele Grüße, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde 25.6 nur online",
+                            "Discussion_Id": "602653",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082398",
+                                    "Author": "Tanja Broszies",
+                                    "DateTime": "2024-06-21T16:26:12+02:00",
+                                    "Content": "Die Sprechstunde am 25.6.24, 10:15 Uhr findet ausnahmsweise ausschließlich online über den VL Link statt. Viele Grüße, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Off Topic - Masterarbeitsthemen am FG Bauphysik",
+                            "Discussion_Id": "602125",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081627",
+                                    "Author": "Tanja Broszies",
+                                    "DateTime": "2024-06-19T14:51:33+02:00",
+                                    "Content": "Es gibt 3 neue Masterarbeitsthemen (anbei), die ca. ab Mitte Juli am FG Bauphysik und am FG Baustoffe bearbeitet werden sollen. Die Aufgabenstellung ist die gleiche für 3 verschiedene Störstoffgruppen. Ein Austausch unter den Studierenden zu Literatur und Methoden ist daher erwünscht, die Themen bleiben dennoch ausdrücklich Einzelarbeiten. Die Bearbeitung erfolgt für meine Promotion und wird daher eng durch mich begleitet werden. Wir bitten um Rückmeldung, wenn grundsätzlich Interesse daran besteht über eines der Themen zu schreiben. Bitte gebt an, ob ihr alle notwendigen Voraussetzungen zur Anmeldung erfüllt, ob ihr bereits Laborerfahrung habt und wann ihr beginnen wollt. Wir würden uns dann mit euch zu einem kurzen, persönlichen Gespräch zusammensetzen.  Viele Grüße Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Aufgabenstellung HA und DW-Einführung",
+                            "Discussion_Id": "599895",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078402",
+                                    "Author": "Tanja Broszies",
+                                    "DateTime": "2024-06-10T09:53:01+02:00",
+                                    "Content": "Hallo zusammen, ihr findet die Aufgabenstellung zur Hausaufgabe ab sofort im ISIS Kurs. Die Bearbeitung der Hausaufgabe muss mit Dämmwerk erfolgen. Eine Einführung in das Programm findet am Mittwoch, 12.06 von 8:30-11:45 im PC Pool in der 5. Etage statt und wird wie gewohnt gestreamt. Wer online teilnehmen will installiert bitte vorab die Software auf dem privaten Rechner (nur mit Windows kompatibel). Ohne installiertes Programm ist eine Teilnahme weniger effektiv. Kümmert euch bitte rechtzeitig. Installationslink und Tutorials findet ihr ebenfalls im ISIS Kurs. Morgen findet die letzte Vorlesung statt. Künftig liegen dann immer Dienstags zur VL-Zeit die Sprechstunden für die Hausaufgabe in Raum 418 oder online über den VL-Link. Falls in den ersten 15 Minuten der Sprechstunde niemand erscheint, wird die Sprechstunde beendet.  Denkt auch an die entsprechenden Anmeldefristen zum Modul!  Viele Grüße, Tanja",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Studierendenforum",
+                    "Forum_id": "1791947",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Übungsaufgabe 8.1 und 8.2",
+                            "Discussion_Id": "600274",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078955",
+                                    "Author": "Eva Böwing",
+                                    "DateTime": "2024-06-11T12:49:35+02:00",
+                                    "Content": "Hallo zusammen, ich konnte leider nicht an der Übung zu Aufgabe 8 teilnehmen und habe nach Durchsicht der Musterlösung einige Fragen. Frage 1: Überlappung der tageslichtversorgten Flächen In der Vorlesung wurde erwähnt, dass sich die tageslichtversorgten Bereiche nicht überlappen dürfen, jedoch eine Überlagerung der Tageslichtbereiche mit zwei verschiedenen Vorgehensweisen gemäß DIN V 18599-4:2018-04 durchgeführt werden können. Bedeutet das, dass eine Überlappung der Tageslichtbereiche, wie in Aufgabe 8.2 durch Vorgehensweise 1 (Überlagerung der Tageslichtquotienten in den Überschneidungsbereichen), dann somit erlaubt ist? Frage 2: Berechnung von b_TL,max im Einzelbüro (fiktives Beispiel, da nicht Teil der Aufgabe) Bei der Berechnung von b_TL,max im Einzelbüro habe ich eine Frage zur Berücksichtigung des Abstands zwischen zwei Fenstern. Gemäß der Formel würde der Abstand zwischen den beiden Fenstern mit a_TL/4 berücksichtigt werden. Da wir zwei Fenster haben, würde dies a_TL/2 ergeben. Wenn jedoch der reale Abstand zwischen den Fenstern laut Maßkette 1,00 m beträgt, aber 2 * a_TL/4 = 2 * 0,868 = 1,736 m > 1,00 m ist, welchen Wert bzw. welche Länge würden wir dann ansetzen und warum? Ich hoffe, die Fragen sind klar formuliert. Ich würde mich sehr über Antworten und Vorschläge freuen! Liebe Grüße  Eva  Vielen Dank und viele Grüße!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

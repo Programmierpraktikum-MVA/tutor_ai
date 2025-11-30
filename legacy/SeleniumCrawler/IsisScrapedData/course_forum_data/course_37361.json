@@ -1,0 +1,29 @@
+[
+    {
+        "Course_Name": "Schwerpunktprojekt Hochspannungstechnik SS24",
+        "Course_id": "37361",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1757235",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Bestellung MCUs",
+                            "Discussion_Id": "594514",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070261",
+                                    "Author": "Moritz Benedikt Greinacher",
+                                    "DateTime": "2024-05-15T07:49:02+02:00",
+                                    "Content": "Guten Morgen zusammen, Eure Bestellung von ATTinys etc. ist gestern abend angekommen und liegt bei Euch in der Kiste. LG Moritz",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Optimierung in der Energietechnik",
+        "Course_id": "38908",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1809210",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Blockkurs, da wenig Teilnehmende",
+                            "Discussion_Id": "589273",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062138",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-04-24T11:05:35+02:00",
+                                    "Content": "Liebe Studierende, leider hat sich die Zahl der Teilnehmenden nicht erhöht. Es waren heute nur 3 Studierende im PC-Pool. Der Kurs kann bei steigendem Interesse als Blockkurs in den Sommersemesterferien angeboten werden. Termin: 9. bis 13.9.2024, jeweils 9 bis 17 Uhr. Ich bitte um verbindliche Zusagen bis zum Ende der Vorlesungszeit. Ich werde Euch noch einmal rechtzeitig daran erinnern. VG MH",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070003",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-05-14T13:50:49+02:00",
+                                    "Content": "Der Kurs fällt ersatzlos aus. Ich werde die TU Berlin zeitnah verlassen und kann den Kurs folglich nicht mehr anbieten. Ein erneutes oder ähnliches Angebot wird frühstens im WiSe 2024/2025 stattfinden. Informieren Sie sich über die Webseite des Fachgebietes.",
+                                    "Response to": "p1062138"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächster Termin: 24.4.2024, 10 Uhr",
+                            "Discussion_Id": "586779",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058209",
+                                    "Author": "Mathias Hofmann",
+                                    "DateTime": "2024-04-17T11:30:10+02:00",
+                                    "Content": "Liebe Studierende, in der heutigen Auftaktveranstaltung zum Modul \"Optimierung in der Energietechnik\" waren drei Studierende. Der Kurs kann ab fünf Studierenden stattfinden. Ich hoffe bis zum nächsten Termin findet sich noch eine ausreichende Anzahl an Interessierten. Zur Vorbereitung des Kurses habe ich Euch diverse Installationsanleitungen und Links zu Tools zur Verfügung gestellt. Schaut Euch das gerne schon einmal in Vorbereitung an. Für den Kurs empfiehlt sich die Arbeit mit einem eigenen Laptop, um Aufgaben auch unkompliziert von zu Hause aus zu bearbeiten. VG MH",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            null
+        ]
+    }
+]

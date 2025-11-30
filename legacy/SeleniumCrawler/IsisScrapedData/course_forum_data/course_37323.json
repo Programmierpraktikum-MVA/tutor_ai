@@ -1,0 +1,351 @@
+[
+    {
+        "Course_Name": "IIT - Technologien der Virtuellen Produktentstehung II - SS24",
+        "Course_id": "37323",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1755986",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Online Link für die Lehrevaluation des Kurses TViPro II",
+                            "Discussion_Id": "606792",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088343",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-07-10T09:51:20+02:00",
+                                    "Content": "Hallo liebe Studierenden, das Semester neigt sich so langsam dem Ende zu und ihr seid vermutlich schon fleißig am lernen für eure letzten Prüfungsleistungen. Ich würde euch hiermit herzlich bitten an der folgenden Umfrage zur Lehrevaluation des Kurses TViPro II teilzunehmen. Wir sind stets daran interessiert unsere Lehrveranstaltungen zu optimieren und den Studierenden unsere Lehrinhalte verständlich zu vermitteln. Damit dies noch besser voran schreiten kann, sind wir auf euer Feedback angewiesen. Seid bitte so nett und füllt die Online-Umfrage aus, die ihr unter dem folgenden Link erreichen könnt:  https://befragung.tu-berlin.de/evasys/online.php?pswd=15J7V Die Umfrage dauert nur 10 Minuten und mit der Teilnahme leistet ihr einen wichtigen Beitrag dazu, die Lehrveranstaltungen für eure Kommilitonen aus den unteren Semestern, noch besser zu gestalten.  Vielen Dank und viele Grüße Kaan ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abfrage Übungsbesuch (Pflicht)",
+                            "Discussion_Id": "592139",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066492",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-05-03T15:25:08+02:00",
+                                    "Content": "Hallo liebe Studierenden,  bitte füllt Teilnehmererfassung für die Teilnahme an den Übungen aus. Die Eingabe ist verpflichtend für alle die an der Übung teilnehmen und benotet werden wollen. Ihr findet die Abfrage unter dem Reiter Allgemeines.  Viele Grüße Kaan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Testvorbereitung - Uhrzeitänderung und online Link",
+                            "Discussion_Id": "606464",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087864",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-07-09T07:42:29+02:00",
+                                    "Content": "Hallo liebe Studierenden,   aufgrund der heutigen Veranstaltung bei uns am Fachgebiet (MATLAB DAY) wird die Testvorbereitung auf 16 Uhr verschoben. Die Vorbereitung findet zudem Online statt, da einige von euch gemeldet haben, dass sie nicht vor Ort sein können. Anbei der Link zum Termin:  https://tu-berlin.zoom.us/j/68382812781?pwd=sDPZ602WkbYbMwozO4vWQMkkRwVOAY.1  Viele Grüße Kaan Cintuglu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freitag 05.07. - Sprechstunde Online",
+                            "Discussion_Id": "605633",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086684",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-07-04T19:41:33+02:00",
+                                    "Content": "Liebe Studierende,   die morgige Sprechstunde findet online via Zoom von 10 bis 12 Uhr statt. Link: https://tu-berlin.zoom.us/j/68626129782?pwd=Z25NOWYyWXllaXM0elViNllIYzRLZz09  Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Termine MatLab Day und Testvorbereitung",
+                            "Discussion_Id": "604992",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085791",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-07-02T14:09:47+02:00",
+                                    "Content": "Hallo liebe Studierenden,  hiermit erinnere ich euch gerne noch einmal an den bevorstehenden MATLAB Day am 09.07.2024. Die Veranstaltung findet hybrid statt, sodass ihr auch von Zuhause oder Unterwegs daran teilnehmen könnt. Falls ihr Interesse habt, so registriert euch bitter unter folgendem Link. Dort findet ihr zudem eine Agenda über die vorgestellten Themen sowie einen Zeitplan.  https://de.mathworks.com/company/events/seminars/matlab-day-berlin-2024-4484675.html  Die Testvorbereitung wird eine Woche nach dem MATLAB Day am 16.07.2024 um 14 Uhr im PTZ001 stattfinden.  Viele Grüße und bis demnächst Kaan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung heute fällt aus",
+                            "Discussion_Id": "600235",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078897",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-06-11T11:19:34+02:00",
+                                    "Content": "Hallo liebe Studierenden,   die Vorlesung heute fällt aus da fälschlicherweise noch ein Gastvortrag aus dem letzten Semester im Plan stand. Die nächste Vorlesung findet somit wie gewohnt nächsten Dienstag statt und wird das Thema MBSE I thematisieren.   Viele Grüße Kaan",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freitag 07.06. - Sprechstunde Online",
+                            "Discussion_Id": "599325",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077561",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-06-06T09:57:46+02:00",
+                                    "Content": "Liebe Studierende,   die morgige Sprechstunde findet online via Zoom von 10 bis 12 Uhr statt.  Viele Grüße Elion ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Freitag 31.05. - Sprechstunde Online",
+                            "Discussion_Id": "597836",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075391",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-05-30T10:17:11+02:00",
+                                    "Content": "Liebe Studierende,  die morgige Sprechstunde findet online via Zoom von 10 bis 12 Uhr statt. Wenn ihr Fragen/Unklarheiten habt, kommt bitte zur Sprechstunde und wir klären sie gemeinsam. Link für Zoom: https://tu-berlin.zoom.us/j/68626129782?pwd=Z25NOWYyWXllaXM0elViNllIYzRLZz09 Viele Grüße Elion ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Beginn der 2.Hausaufgabe",
+                            "Discussion_Id": "595305",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071498",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-05-18T10:15:16+02:00",
+                                    "Content": "Liebe Studierende,   zur Erinnerung: die 2. Hausaufgabe ist freigeschaltet und ihr könnt mit der Bearbeitung beginnen. Die Abgabefrist ist der 07.06. um 23:59 Uhr. Die Aufgabenstellung und die Formatvorlage für die Hausaufgaben findet man unter der Rubrik \"Hausaufgaben\".   Ich wünsche euch allen viel Erfolg!  Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Anmeldung über Moses jetzt freigeschaltet",
+                            "Discussion_Id": "594123",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069633",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-05-13T16:26:47+02:00",
+                                    "Content": "Hallo liebe Studierenden,   die Anmeldung über das MTS für das Modul TViPro II ist nun freigeschalten worden. Meldet euch bitte spätestens zum 17.05.2024 an.   Viele Grüße Kaan Cintuglu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Online-Sprechstunde am Mittwoch: 10-12 Uhr",
+                            "Discussion_Id": "593922",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069316",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-05-13T09:35:15+02:00",
+                                    "Content": "Liebe Studierende,  aufgrund der Nachfrage nach einer Sprechstunde zur 1. Hausaufgabe, werde ich am Mittwoch, dem 15.05. eine Sprechstunde von 10 bis 12 Uhr über Zoom anbieten. Zoom-Link: https://tu-berlin.zoom.us/j/68626129782?pwd=Z25NOWYyWXllaXM0elViNllIYzRLZz09  Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Beginn der 1. Hausaufgabe",
+                            "Discussion_Id": "592209",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066603",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-05-03T19:56:12+02:00",
+                                    "Content": "Liebe Studierende,   zur Erinnerung: Ab heute, dem 3.05., kann an der 1. Hausaufgabe gearbeitet werden. Die Abgabefrist ist der 17.05. um 23:59 Uhr. Die Aufgabenstellung und die Formatvorlage für die Hausaufgaben findet man unter der Rubrik \"Hausaufgaben\".   Ich wünsche euch allen viel Erfolg!  Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einmalige Verschiebung der 3. Übung",
+                            "Discussion_Id": "592024",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066307",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-05-03T11:15:14+02:00",
+                                    "Content": "Liebe Studierende,   nächste Woche wird die Übung einmalig von Freitag, 10.05. von 10 bis 12 Uhr auf Mittwoch, 08.05. von 10 bis 12 Uhr verschoben.  Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Wichtig: ÜbungsteilnehmerInnen",
+                            "Discussion_Id": "590131",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063421",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-04-26T11:17:39+02:00",
+                                    "Content": "Liebe Studierende,   heute hat die erste Übung in TViPro2 stattgefunden, bei der die Teilnehmenden ihre Namen in eine Liste eingetragen haben. Weil vor Ort weniger Studierende gab, als im Kurs eingeschrieben sind, würde ich diejenigen, die die Übung als Teil ihrer Leistung absolvieren wollen, bitten, einmal vor Ort zu kommen und ihre Namen in die Liste einzutragen. Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung für die 1.Übung",
+                            "Discussion_Id": "589981",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063210",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-04-25T19:12:55+02:00",
+                                    "Content": "Liebe Studierende,  eine kleine Erinnerung: morgen, den 26.04. von 10 bis 12 Uhr findet die erste Übung im PTZ 511-514 (VELC Raum, 5. Etage) statt. Ich freue mich auf eure Teilnahme.  Viele Grüße Elion",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Heutige Vorlesung im PTZ 507",
+                            "Discussion_Id": "588744",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061297",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-04-23T09:56:32+02:00",
+                                    "Content": "Hallo liebe Studierenden,  wie bereits letzte Woche in der Einführungsveranstaltung erwähnt wurde, kommt nochmal die Erinnerung, dass die heutige Vorlesung ausnahmsweise im Raum PTZ 507 stattfindet.   Viele Grüße und bis später Kaan Cintuglu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Forum für Fragen",
+                    "Forum_id": "1755989",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Übung 05.07.24",
+                            "Discussion_Id": "605365",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086304",
+                                    "Author": "Maximilian Teske",
+                                    "DateTime": "2024-07-03T19:20:39+02:00",
+                                    "Content": "Moin, findet am Freitag wieder eine Übung/Sprechstunde statt und wenn ja, zu welcher Uhrzeit?  Vielen Dank im Voraus",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung 21.06.2024",
+                            "Discussion_Id": "602293",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081857",
+                                    "Author": "Juan Jose De Freitas Varela",
+                                    "DateTime": "2024-06-20T10:00:39+02:00",
+                                    "Content": "Guten Morgen,  Findet sich die Übung morgen statt? oder wird eine Sprechstunden für die Hausaufgabe angeboten?  Viele danke und Grüße Juan.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1081894",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-06-20T11:02:31+02:00",
+                                    "Content": "Hallo Juan,  ja, die Sprechstunde findet morgen wie gewohnt von 10.00-12.00 Uhr im VELC statt.  Viele Grüße Elion",
+                                    "Response to": "p1081857"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "WhatsApp Gruppe",
+                            "Discussion_Id": "598210",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075950",
+                                    "Author": "Alain Joseph Humarang",
+                                    "DateTime": "2024-05-31T18:46:06+02:00",
+                                    "Content": "Falls ihr Lust habt, euch über TViPro II auszutauschen, joint gerne der WhatsApp-Gruppe: https://chat.whatsapp.com/KsWAMqxLhiBC1AzJrwUJ6W",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Über Prüfung abmelden",
+                            "Discussion_Id": "598021",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075670",
+                                    "Author": "Shian Kou",
+                                    "DateTime": "2024-05-30T22:59:49+02:00",
+                                    "Content": "Hallo,   Aufgrund zeitlicher Umstände musste ich meine Prüfung absagen, jedoch habe ich den Abmeldezeitpunkt (24. Mai) verpasst.  Ich habe versucht, eine E-Mail zu senden, aber habe keine Antwort erhalten. Können Sie mir bitte helfen?  Shian Kou",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Siemens Academic",
+                            "Discussion_Id": "597350",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074699",
+                                    "Author": "I Wayan Agus Sumajaya",
+                                    "DateTime": "2024-05-28T13:40:53+02:00",
+                                    "Content": "Hallo, kann jemand mir sagen, wo die Kurse von Siemens finden sind. Ich habe der Einleitung gefolgt aber die Kurse, wie in der PDF zu sehen sind, konnte ich nicht finden. Danke.. LG",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1075250",
+                                    "Author": "Rajwinder Garha",
+                                    "DateTime": "2024-05-29T17:47:33+02:00",
+                                    "Content": "ich bin auch sehr verwirrt von der Struktur, wie man die Sachen finden soll",
+                                    "Response to": "p1074699"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung ",
+                            "Discussion_Id": "593307",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068325",
+                                    "Author": "Elda Kuka",
+                                    "DateTime": "2024-05-08T15:06:04+02:00",
+                                    "Content": "Hallo zusammen, ich wollte mich für die Prüfung anmelden, erhalte jedoch eine Fehlermeldung:  \"Für dieses Modul sind im gewählten Semester keine Prüfungen verfügbar. Bitte wenden Sie sich an die Modulverantwortlichen und erfragen, wo und in welcher Form eine Prüfungsanmeldung erfolgen soll.\" Erhaltet ihr die gleiche Meldung? LG, Elda :)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1068328",
+                                    "Author": "Burak Kaan Cintuglu",
+                                    "DateTime": "2024-05-08T15:18:52+02:00",
+                                    "Content": "Hallo Elda,  das Problem ist bereits bekannt und wir sind mit dem Moses Team in Klärung, dass es schnell behoben wird. Sobald ihr euch zur Prüfung anmelden könnt, gebe ich euch Bescheid.  LG Kaan",
+                                    "Response to": "p1068325"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Video für Übung 1",
+                            "Discussion_Id": "588374",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060709",
+                                    "Author": "Rajwinder Garha",
+                                    "DateTime": "2024-04-22T12:48:46+02:00",
+                                    "Content": "Hallo Team von TViPro2, ich wollte fragen, ob es möglich ist, die erste UE dieses Semesters aufzuzeichnen oder die UE aus dem letzten Semester hochzuladen. Am Freitag, den 26.04.2024, schreibe ich (sicherlich viele andere auch) um 12 Uhr die Nachschreibeprüfung in TViPro 1. VG Raj",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061740",
+                                    "Author": "Elion Zhupa",
+                                    "DateTime": "2024-04-23T16:50:42+02:00",
+                                    "Content": "Hallo Rajwinder,  die Übung in TViPro2 findet am Freitag von 10 bis 12 Uhr statt und die Prüfung in TViPro1 wurde auf 12:30 Uhr verschoben [siehe hier], sodass eine Teilnahme an der Übung in TViPro2 am Freitag, dem 26. April möglich ist.  Viele Grüße Elion",
+                                    "Response to": "p1060709"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

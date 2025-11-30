@@ -1,0 +1,263 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Nichtlineare Plasmaphysik II",
+        "Course_id": "38225",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1784544",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Whiteboard Notizen",
+                            "Discussion_Id": "607600",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089508",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-07-12T22:58:27+02:00",
+                                    "Content": "Liebe Studierende,  Die Whiteboard-Notizen von letzten Dienstag sind da. Schaut bitte ganz unten auf der ISIS Seite.  Viele Grüße, und wunderschönes Wochenende Euch! Jean-Mathieu Teissier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Letzte Übung",
+                            "Discussion_Id": "607308",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089052",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-07-11T17:47:20+02:00",
+                                    "Content": "Liebe Studierende, ich habe gerade den letzten Übungszettel hochgeladen, den wir nächste Woche besprechen. Thematisch geht es um die diskrete Fouriertransformation, und wir wenden diese auf zwei Frames aus einer unserer Turbulenzsimulationen an (die findet ihr hier: NonLin_Plasma_II_Ex_12_Frames.zip). Da ihr auch erst nächste Woche in der Vorlesung über das Thema sprechen werdet, ist die Bearbeitung diesmal wahrscheinlich etwas schwieriger - probiert einfach wie weit ihr kommt und den Rest besprechen wir dann gemeinsam. Wie heute auch kurz besprochen, können wir im Anschluss an die letzte Übung zum Abschluss des Semesters noch ein lustiges kooperatives Brettspiel spielen, das Jean-Mathieu mitbringt. Also wer Lust hat, kann gerne mitmachen. Viele Grüße Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dienstag: BigBlueButton",
+                            "Discussion_Id": "606022",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1087246",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-07-07T23:56:13+02:00",
+                                    "Content": "Liebe Studierende,  die Vorlesung Dienstag findet 12:15 Online statt, durch BigBlueButton. Falls es Fragen/Anregungen gibt, bitte dies heute (Montag) schicken.  Vielen Dank, bis bald! Jean-Mathieu Teissier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung nächste Woche",
+                            "Discussion_Id": "605613",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086656",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-07-04T17:22:33+02:00",
+                                    "Content": "Liebe Studierende, kurz zur Erinnerung: nächste Woche findet am Dienstag die Vorlesung online statt. Am Donnerstag ist dann die Übung wie immer, den 11. Übungszettel habe ich heute hochgeladen. Wie eben in der Übung besprochen, ist dieser Zettel wieder etwas umfangreicher. Bitte versucht bis einschließlich Burgers equation zu kommen, alles darüber hinaus (also 1D und 2D shallow water equations) ist Bonus.  Viele Grüße Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungstermine nächste Woche",
+                            "Discussion_Id": "604112",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084475",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-06-27T17:25:56+02:00",
+                                    "Content": "Liebe Studierende, wie eben in der Übung besprochen, haben wir folgende Termine für nächste Woche: Di, 02.07: Besprechung Zettel 9 - online um 12:30 - Big Blue Button Meetingraum auf ISIS Startseite Do, 04.07: Besprechung Zettel 10 (Uhrzeit und Raum wie immer) Viele Grüße Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Übungszettel",
+                            "Discussion_Id": "603484",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083602",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-06-25T15:46:34+02:00",
+                                    "Content": "Liebe Studierende, hier nur eine kurze Erinnerung, dass wir diesen Donnerstag den 6. und 8. Übungszettel besprechen, wie immer im ER 164 von 16-18 Uhr. In der darauffolgenden Woche findet dann zweimal Übung statt: Dienstag von 12-14 Uhr im MA 645, und Donnerstag wie immer. Viele Grüße Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungszettel",
+                            "Discussion_Id": "602587",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1082296",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-06-21T12:16:20+02:00",
+                                    "Content": "Liebe Studierende, da die nächsten Woche die Übungs- und Vorlesungstermine etwas durcheinander sind, kommt hier ein Überblick über die nächsten Übungstermine. Nächste Woche findet regulär die Vorlesung am Dienstag und die Übung am Donnerstag statt. Wir werden wie geplant sowohl den 6. Übungszettel (eindimensionales Gleichungslösen) und den 8. Übungszettel (Streuquerschnitt) besprechen. Bitte schaut also vorher nochmal kurz über die Zettel bzw. eure Lösungen. In der darauffolgenden Woche findet die Übung dann zweimal statt, d.h. wir haben drei aufeinander folgende Übungstermine. Ich lade jetzt schonmal den 9. Übungszettel und nächsten Donnerstag den 10. Übungszettel hoch. Damit habt ihr theoretisch für jeden Zettel immer noch eine Woche Zeit, auch wenn die Besprechung dann etwas verzögert ist. Wie ihr euch das praktisch aufteilt, ist natürlich euch überlassen. Hier nochmal im Überblick, wann welcher Zettel jeweils besprochen wird: Do, 27.06: Besprechung Zettel 6 und Zettel 8 Di, 02.07: Besprechung Zettel 9 (heute hochgeladen) Do, 04.07: Besprechung Zettel 10 (wird nächsten Donnerstag hochgeladen) Falls noch etwas unklar sein sollte, meldet euch bitte. Danke für euer Verständnis, und bis nächste Woche Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "EILIG: Änderungen schon diese Woche!",
+                            "Discussion_Id": "601847",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081238",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-06-18T14:49:50+02:00",
+                                    "Content": "Liebe Studierende,  Wie gesagt in der Vorlesung heute: ich habe die Zeiten nicht gut eingeplant! Bitte vergisst die vorige Ankündigung. Die richtigen Änderungen aufgrund des Aufenthaltes in Frankreich sind hier:  diese Woche (17->21.06): zweimal Vorlesung. Also, diesen Donnerstag ist Vorlesung statt Übung  nächste Woche (24->28.06): normal: Vorlesung Dienstag, Übung Donnerstag  übernächste Woche (01->05.07): zweimal Übung, keine Vorlesung  die Woche danach (08->12.07): Vorlesung Dienstag ONLINE, Übung Donnerstag  Entschuldigung für die Verwirrung! Bitte fragt falls etwas unklar ist! Wir treffen uns also wieder diesen Donnerstag schon!  Viele Grüße! Jean-Mathieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Besonderheiten nächsten Wochen",
+                            "Discussion_Id": "601655",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080989",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-06-17T21:47:34+02:00",
+                                    "Content": "Liebe Studierende,  Ich bin von 01.07 bis 05.07 in einer Tagung in Frankreich. Ich besuche dann meine Familie kurz und bin Donnerstag 11.07 zurück. Deswegen gibt es folgende Änderungen:  diese Woche (17->21.06): keine Änderung nächste Woche (24->28.06): zweimal Vorlesung, keine Übung übernächste Woche (01->05.07): zweimal Übung, keine Vorlesung die Woche danach (08->12.07): Übung und Vorlesung sind getauscht.  Vielen Dank im Voraus für Euer Verständnis! Bis morgen! Jean-Mathieu Teissier",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Update: Online-Übung",
+                            "Discussion_Id": "597719",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1075228",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-05-29T17:10:34+02:00",
+                                    "Content": "Liebe Studierende, danke für die Rückmeldungen. Hier ein kurzes Update zur Online-Übung morgen: Wir beginnen um 16:30 Uhr und werden BigBlueButton statt Zoom verwenden, den Meetingraum findet ihr auch auf der ISIS Seite. Da kann jeder über den Webbrowser teilnehmen. Falls es dabei technische Schwierigkeiten geben sollte und ihr z.B. nicht beitreten könnt, schreibt ihr mir schnell eine Email und notfalls würden wir dann wieder auf Zoom umsteigen. Viele Grüße und bis morgen Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung diese Woche online",
+                            "Discussion_Id": "597382",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074742",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-05-28T15:04:37+02:00",
+                                    "Content": "Liebe Studierende, diesen Donnerstag findet die Übung ausnahmsweise einmal online statt mit dem Zoomlink, den ihr auf der ISIS Startseite findet. Bitte lasst mich wissen, falls es dabei Schwierigkeiten gibt. Gerne können wir z.B. erst um 16:30 Uhr anfangen, oder ich kann versuchen zu organisieren, dass der Raum falls nötig trotzdem für euch aufgeschlossen wird. Viele Grüße Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dienstag 21.05 um 12:30",
+                            "Discussion_Id": "595185",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071312",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-05-17T14:18:40+02:00",
+                                    "Content": "Liebe Studierende,  wie letzten Dienstag angekündigt: aufgrund eines Arzttermines beginnt die Vorlesung nächsten Dienstag um 12:30. Wunderschönes Wochenende Euch!  Jean-Mathieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Raum MA645 bestätigt",
+                            "Discussion_Id": "592505",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067122",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-05-06T11:58:46+02:00",
+                                    "Content": "Liebe Studierende,  Es ist bestätigt: wir dürfen den Raum MA 645 für den Rest der Veranstaltung benutzen.   Ich freue mich.  Danke Raquel für die Unterstützung!  Bis morgen, viele Grüße! Jean-Mathieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Nächste Woche keine Übung",
+                            "Discussion_Id": "592003",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066278",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-05-03T10:40:00+02:00",
+                                    "Content": "Liebe Studierende, wie gestern bereits besprochen wird es nächste Woche aufgrund des Feiertags keine Übung geben. Ich wollte auch kurz Bescheid geben, dass der ISIS Kurs jetzt nicht mehr als \"vergangener\" Kurs angezeigt werden sollte. Falls es da doch noch Probleme gibt, dann sagt bitte Bescheid. Viele Grüße und ein schönes Wochenende, Raquel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: keine Vorlesung heute",
+                            "Discussion_Id": "591125",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064933",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-04-30T11:05:38+02:00",
+                                    "Content": "Liebe Studierende,   Heute findet keine Vorlesung statt. Es tut mir leid dass ich dies so spät schreibe, für diejenigen die das letzte Woche nicht gehört haben.  Ich hoffe das bringt Eure Planung nicht durcheinander.   Viele Grüße und wunderschönen Tag Euch! Bis nächste Woche Jean-Mathieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "neuen Raum MA645",
+                            "Discussion_Id": "588385",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060723",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-04-22T12:56:23+02:00",
+                                    "Content": "Liebe Studierende,  wir haben einen neuen Raum für NLP2. Der Raum MA645. Bitte leitet diese Info aneinander, falls Ihr euch trefft.  Achtung: das ist erstmal nur für morgen, Dienstag. Ich bestätige demnächst, ob das für alle Termine klappen wird!  Viele Grüße, bis morgen! Jean-Mathieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: morgen Vorlesung",
+                            "Discussion_Id": "587129",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058704",
+                                    "Author": "Jean-Mathieu Teissier",
+                                    "DateTime": "2024-04-17T23:03:19+02:00",
+                                    "Content": "Liebe Studierende,  Als Erinnerung: Ausnahmsweise haben wir morgen eine Vorlesung, und keine Übung. In zwei Wochen, also Dienstag den 30.04, fällt die Vorlesung aus, deshalb machen wir eine extra diese Woche im Vorfeld. Wie versprochen, hier zwei Links zu den \"Human Computers\":  https://education.nationalgeographic.org/resource/women-nasa/  https://www.history.com/news/human-computers-women-at-nasa  Bis morgen 16:15 ! Viele Grüße, und wunderschönen Tag Euch! Jean-Mathieu",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungstermin bleibt Do 16 -18 ",
+                            "Discussion_Id": "586703",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058115",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-04-17T10:18:24+02:00",
+                                    "Content": "Liebe Studierende, vielen Dank dass ihr alle so schnell auf die Umfrage geantwortet habt. Leider gibt es keinen Termin an dem alle teilnehmen können, daher bleibt es bei dem ursprünglichen Termin am Donnerstag von 16-18 Uhr. Viele Grüße Raquel Mäusle",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übungstermin",
+                            "Discussion_Id": "586450",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057760",
+                                    "Author": "Raquel Maya Mäusle",
+                                    "DateTime": "2024-04-16T15:07:39+02:00",
+                                    "Content": "Liebe Studierende, wie besprochen habe ich gerade eine Umfrage für den Übungstermin erstellt, die ihr auf der ISIS Seite findet. Bitte nehmt wenn möglich noch heute daran teil! Ich werde euch dann morgen eine Ankündigung mit den Ergebnissen schicken. Wenn wir keinen Termin finden, der allen passt, dann bleibt es bei Donnerstag 16-18 Uhr. An diesem Donnerstag findet keine Übung sondern eine weitere Vorlesung statt. Hier noch kurz ein paar Infos zur Übung: Es wird jede Woche ein Übungszettel hochgeladen (der erste kommt morgen), den ihr zu Hause bearbeitet und den wir dann am nächsten Übungstermin gemeinsam besprechen. Die Lösungen werden nicht abgegeben und korrigiert, aber es wäre schön wenn sich trotzdem alle beteiligen und jeder seine Lösung mal vorstellt. Es sind in der Regel Programmieraufgaben, die typischerweise in python programmiert werden. Wenn es noch Fragen gibt, meldet euch gerne per Email. Viele Grüße und bis nächste Woche! Raquel Mäusle",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

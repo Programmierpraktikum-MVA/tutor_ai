@@ -1,0 +1,155 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Rechnergestützte Methoden der Umweltforschung",
+        "Course_id": "38439",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1791829",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "1. Woche",
+                            "Discussion_Id": "587076",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058621",
+                                    "Author": "Lysander Lancelot Johannes Rohringer",
+                                    "DateTime": "2024-04-17T19:16:39+02:00",
+                                    "Content": "Hallo liebe Studierende,  heute im Kurs haben wir mit dem Einstig, der Installation und Nutzung von git begonnen. In dem Wiki auf gitlab findet ihr die Anleitungen dazu.  Wenn heute noch nicht alles geklappt hat oder ihr nicht anwesend sein konntet, geht die Schritte nochmals durch! Also richtet euch bis zum nächsten Kurs eine passende bash zu eurem Betriebssystem ein, installiert git, R und Rstudio. Tauscht euch unbedingt untereinander aus.  Nächste Woche werden wir detaillierter Arbeiten mit Bash und Git üben. Es ist hilfreich, wenn ihr euch einzelne Schritte schon einmal anschaut.  Bei Fragen und Problemen mit gitlab, R etc. könnt ihr mich gerne kontaktieren, dann versuche ich schnellstmöglich zu helfen. Wenn ihr mich vorab anschreibt, kann ich auch 30 Min vor dem Kurs mittwochs kommen und euch gerne individuell helfen.  Beste Grüße, Lysander",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1791832",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Debugging Bug in RSTudio mit R 4.4.0",
+                            "Discussion_Id": "602206",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081730",
+                                    "Author": "Marco Otto",
+                                    "DateTime": "2024-06-19T17:34:23+02:00",
+                                    "Content": "Hallo zusammen, für den Fall, dass es jemanden von euch betrifft. Das Problem mit dem Debugging heute bei mir hat sich nach einem Update von R und RStudio auf die aktuellsten Versionen gelöst. Außerdem: SEHR zu empfehlende Lektüre zu den Aufgaben von heute (week08 Task1 Task2)  https://docs.qgis.org/3.34/en/docs/gentle_gis_introduction/coordinate_reference_systems.html Kurzzusammenfassung für \"Augentiere\" ;-) https://www.youtube.com/watch?v=kIID5FDi2JQ Grüße Marco  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "RMU-Bergfest",
+                            "Discussion_Id": "599768",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078195",
+                                    "Author": "Marco Otto",
+                                    "DateTime": "2024-06-08T17:04:43+02:00",
+                                    "Content": "Hallo, da in der nächsten Woche ja keine LV stattfindet (Exkursionswoche), wir aber die Hälfte des Moduls (Wissenschaftliches Programmieren) nun hinter uns lassen, schlage ich vor, dass wir in der nächsten Veranstaltung uns etwas Zeit für eine Reflexion geben. Dazu würde ich die ersten 60 min nutzen. Wir können also nochmal Fragen und Konzepte klären, die evtl. unklar geblieben sind. Dazu können hier in diesem Thread auch schon Fragen gesammelt werden. Grüße Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Landsat",
+                            "Discussion_Id": "599151",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077303",
+                                    "Author": "Yannik Sebastian Dörnte",
+                                    "DateTime": "2024-06-05T13:53:49+02:00",
+                                    "Content": "Landsat Upload",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sentinel",
+                            "Discussion_Id": "599144",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077292",
+                                    "Author": "Nils Beier",
+                                    "DateTime": "2024-06-05T13:36:53+02:00",
+                                    "Content": "Satellitrecherche",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1077298",
+                                    "Author": "Robin Alexander Bronner",
+                                    "DateTime": "2024-06-05T13:46:46+02:00",
+                                    "Content": "MODIS",
+                                    "Response to": "p1077292"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Klausur am 29.05. RMU Teil WiPro",
+                            "Discussion_Id": "596597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073447",
+                                    "Author": "Marco Otto",
+                                    "DateTime": "2024-05-24T16:32:36+02:00",
+                                    "Content": "Liebe Studierende, wie zu Beginn des Kurses sowie in der letzten Woche vor Ort besprochen, wird für den Teile \"Wissenschaftliches Programmieren\" (WiPro) eine Klausur durchgeführt. Genstand der Klausur sind die im Kurs vor Ort behandelten Inhalte (siehe README.md auf GitLab). Die Klausur findet statt vor Ort am kommenden Mittwoch (29.05.) um 10.00 Uhr c.t. und wird digital mittels ISIS-Test durchgeführt. Es gibt 10 Fragen (30 Bewertungspunkte), die in 60 Minuten beantwortet werden sollen. Während der Klausur darf R (RStudio) sowie das \"RMU\" git-Repositorium verwendet werden. Sie brauchen ein funktionierendes Laptop mit Internetverbindung. Mit freundlichen Grüßen Marco Otto",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Woche 4",
+                            "Discussion_Id": "594726",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070598",
+                                    "Author": "Marco Otto",
+                                    "DateTime": "2024-05-15T16:35:15+02:00",
+                                    "Content": "Hallo zusammen, David hatte mich heute noch darauf hingewiesen, dass die Aufgabenstellung zur benutzerdefinierten Funktion etwas \"kryptisch\" beschrieben wurde, daher hier mal der erneute Versuch. Also, Aufgabe ist es, eine beliebige Anzahl (in unserem Beispiel sind es zwei) tabellarisch gleich strukturierte Textdateien (gleiche Anzahl Reihen und Spalten) mittels einer benutzerdefinierten Funktion in einem Datenframe mit entsprechenden Spalten (Zeit, Station1,Station2) die Lufttemperaturen auszulesen. Wie gehe ich vor: Schaut euch den Input (Eingangsdaten sind die txt-Dateien im Ordner \"daten\" in \"week04\") in der Rohform in einem Editor an. Wie sind die Dateien strukturiert? Was ist Inhalt und in welcher Form (Variablentyp) sollen diese in R dann weiterverarbeitet werden (z.B. Zeitinformationen)? testet es am besten erstmal an einer txt-Datei (siehe heute \"read.table\") am besten in einem Skript (nicht dort, wo die Funktion geschrieben wird) - bekommt ihr eine Datei richtig eingelesen (Variablentypen? Dataframe mit drei Spalten etc.?)? dann überlegt, wie ihr die Information zu den Dateipfaden gelesen bekommt (list.files()) dann überlegt euch, wie ihr mittels einer For-Schleife das Einlesen \"automatisieren\" könnt Wie könnt ihr Spaltennamen in Dataframes ändern? Testet alles erstmal als Skript (noch nicht als Funktion) - Output = Datenframe mit drei Spalten (z.B. \"Zeit\", \"LuftTemp1, LufTemp2\") Wenn ihr das habt, dann die Funktion schreiben (mit nur einem Argument, dem Pfad zum Verzeichnis data in week04, mehr nicht!) return() am Ende der Funktion nicht vergessen! Debugg modus zum Testen der Funktion verwenden (siehe Link zur Anleitung unten) Wer Extras mag, kann noch Folgendes in die Funktion implementieren: Imput auf default auf NULL setzen und testen, abbrechen wenn NULL (if-statement) verboser Modus (z.B. wenn verbose = TRUE dann print infos zu z.B. Erfolgsmeldung, str() etc.) Hilfreiche Links: https://support.posit.co/hc/en-us/articles/200713843-Debugging-R-code-with-the-RStudio-IDE https://de.wikibooks.org/wiki/GNU_R:_read.table https://www.r-bloggers.com/2023/05/mastering-file-manipulation-with-rs-list-files-function/ https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/  Tipps zum Datenframe (siehe Link dazu oben): Zwei gleichgroße Datenframes (zweiten nur eine Spalte) verbinden mit cbind() stations <- cbind(stations,next_station$lufttemperatur) names() für Spaltennamen in Dataframes verwenden (sieh Link oben) Wer möchte, kann seine Lösung via Merge-Request auf GitLab hochladen. Länge eines vectors bestimmen (z.B. Ergebnis von list.files()): length(flist) Gruß Marco",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Woche 3",
+                            "Discussion_Id": "593407",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068475",
+                                    "Author": "Marco Otto",
+                                    "DateTime": "2024-05-08T18:52:22+02:00",
+                                    "Content": "Hallo zusammen, wir haben im Nachgang jetzt \"week03\" in RMU aufgeräumt und die Inhalte von heute in der README.md (für das Lesen im Browser) dort ergänzt sowie ein Beispiel-Skript erstellt. Diese Inhalte bitte bei der Nachbearbeitung durchgehen. Wir gehen davon aus, dass diese dann in der kommenden Woche bekannt sind. Bei Fragen bitte hier über das Forum. Auf Inhalte aus vergangenen Wochen können wir immer nur sehr kurz eingehen, da wir sonst nicht vorankommen (und andere, die nachbearbeitet haben, sich dann auch langweilen)! Happy Coding :-) Marco & Lysander PS: Falls ihr Verbesserungsvorschläge an den Skripten/Markdowns habt, einfach machen, pushen und \"Merge Request\" stellen (hat ja gut geklappt heute)!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "ssh-key und Nachbearbeitung",
+                            "Discussion_Id": "589597",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062624",
+                                    "Author": "Marco Otto",
+                                    "DateTime": "2024-04-24T20:33:48+02:00",
+                                    "Content": "Hallo zusammen, zum Schluss war heute ja die Zeit etwas knapp und einige mussten auch schon los. Wir haben auf dem Gitlab-Server der TU Berlin jetzt noch die Anleitung für das Einrichten der SSH-Verbindung angepasst (oberste Teil: Erzeugen eines SSH-Schlüsselpaars bis Testen der ssh-Verbindung im Terminal auf deinem Computer). Wikiseite unter: https://git.tu-berlin.de/klimatologie/rmu/-/wikis/Einstieg/Git/Einrichten-des-Gitlab-Repository Falls es heute nicht geklappt hat, dann einfach wiederholen, bis es klappt :-) Da wir in der nächsten Woche keine Veranstaltung haben (1. Mai), hier meine Empfehlung für die nächsten zwei Wochen: Bitte die Git-Übung in Woche zwei hier auf ISIS üben und üben und üben - dazu die angegebenen Links berücksichtigen und die GitLab-bezogenen FAQs im Wiki durcharbeiten (inkl. Verlinkungen unter: https://git.tu-berlin.de/klimatologie/rmu/-/wikis/faq). Was ihr zum 8.5 können müsst*: Antwort auf die Frage, was ist ein Verzeichnis kennen! Wissen, wie mit der bash in euer Benutzerverzeichnis wechselt. Mit der bash grundlegende Befehle ausführen wie 'cd', 'rm' (Vorsicht!), mv, mkdir, cat, la -a und die Hilfe aufruft (z.B. ls --help) Mit git lokal arbeiten (git-repository einrichten, Änderungen verwalten mit git, einen branch erstellen und mergen, Commits auflisten und wieder herstellen) ssh-Verbindung einrichten Fragen und Probleme dann via Forum hier auf dem ISIS-Kurs.  Gruß Marco *wird in Teilen nur noch in der Klausur wiederholt :-)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063192",
+                                    "Author": "Johanna Maria Jakob",
+                                    "DateTime": "2024-04-25T18:34:27+02:00",
+                                    "Content": "Hallo, ich hatte auch das Problem mit dem ssh-Schlüssel und konnte es durch erneutes Umbenennen der Dateien beheben. Also wieder in die ursprünglichen Dateinamen id_ed25519.pub und id_ed25519 umbenennen und dann funktioniert auch $ ssh -T git@git.tu-berlin.de. Vielleicht klappt das ja auch bei den anderen :)",
+                                    "Response to": "p1062624"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

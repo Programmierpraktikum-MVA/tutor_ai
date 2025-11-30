@@ -1,0 +1,133 @@
+[
+    {
+        "Course_Name": "Einführung in das Maschinenwesen SoSe-2024",
+        "Course_id": "37336",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1756257",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Evaluation",
+                            "Discussion_Id": "605716",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086803",
+                                    "Author": "Tobias Richard Rosenthal",
+                                    "DateTime": "2024-07-05T10:43:58+02:00",
+                                    "Content": "Liebe Studierende, die Evaluation des Moduls \"Einführung in das Maschinenwesen\" hat begonnen und ist bis zum 15.07.2024 möglich. Die Evaluation ist wichtig für uns, da sie uns hilft zu sehen, welche Schwächen und welche Stärken das Modul mit sich bringt, sodass wir es stetig optimieren können. Daher bitte ich Sie um eine rege Teilnahme. Die Evalutation sollte nicht länger als 10 min dauern und den dafür notwendigen Link findet Sie auf der ISIS-Seite des Kurses unter \"Organisatorisches\". Liebe Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zusammenlegung der Labore aus Woche A und Woche B",
+                            "Discussion_Id": "604182",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084583",
+                                    "Author": "Mohamad Khalil",
+                                    "DateTime": "2024-06-28T09:43:42+02:00",
+                                    "Content": "Liebe Studierende meines Labors, da die Labore bei mir nicht so stark besucht sind, werde ich für Labor 6 die beiden Termine zu einem Termin zusammenlegen. Das bedeutet, dass das Labor in Woche B entfällt. Ich bitte euch daher alle, am Labor in Woche A teilzunehmen. Wichtiger Hinweis: Studierende, die ihre Präsentation in Woche B halten sollten, müssen diese nun in Woche A präsentieren. Mit freundlichen Grüßen Mohamad Khalil",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Beispielhausaufgabe und formale Hinweise",
+                            "Discussion_Id": "603533",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083663",
+                                    "Author": "Georg Friedrich Kellner",
+                                    "DateTime": "2024-06-25T17:04:19+02:00",
+                                    "Content": "Liebe Studierende,  hiermit möchten wir als Hilfe für die Bearbeitung der Hausaufgabe eine Beispielhausaufgabe zur Verfügung stellen. Diese handelt von einer alternativen Baugruppe und zeigt eine mögliche Herangehensweisen sowie formale Gestaltungsmöglichkeiten. Die Abgabe würde so zu einer guten, aber nicht perfekten Bewertung führen. Weitere formale Hinweise sind zudem in der PDF \"Hinweise_zur_Erstellung_von_Abschlussarbeiten\" auf der Fachgebietswebsite verfügbar. Diese sind für Abschlussarbeiten am Fachgebiet vorgeschrieben und können auch für Hausaufgaben eine gute Basis bilden. Beste Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Laptopbedarf Labor 5/6",
+                            "Discussion_Id": "601598",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080890",
+                                    "Author": "Tobias Richard Rosenthal",
+                                    "DateTime": "2024-06-17T17:23:04+02:00",
+                                    "Content": "Liebe Studierende, in den kommendem Laboren 5 und 6 werden Laptops benötigt. Sofern Sie einen Laptop besitzen, wäre es schön, wenn Sie diesen mitbringen könnten. Beste Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung Lab. 4 Felix",
+                            "Discussion_Id": "597174",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074456",
+                                    "Author": "Felix Schoetzau",
+                                    "DateTime": "2024-05-27T22:19:58+02:00",
+                                    "Content": "Liebe Studierende meines Labors, Wie heute im Labor angekündigt, wird das 4. Labor (Fahrzeuggetriebe) bei mir auf den kommenden Montag (03. Juni) vorverlegt.  LG Felix",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Labor 09.05.",
+                            "Discussion_Id": "592617",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067294",
+                                    "Author": "Tobias Richard Rosenthal",
+                                    "DateTime": "2024-05-06T15:13:09+02:00",
+                                    "Content": "Liebe Studierende, das Labor von Mohamad Khalil am 09.05. entfällt aufgrund Christi Himmelfahrts. Studierende die davon betroffen sind, suchen sich bitte eigenständig einen Ersatztermin. Bitte erfragen Sie vorher bei der zuständigen Tutor:in, ob in dem angestrebten Ersatzlabor ausreichend Kapazität vorhanden ist. Beste Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Laborprotokolle",
+                            "Discussion_Id": "592507",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067125",
+                                    "Author": "Tobias Richard Rosenthal",
+                                    "DateTime": "2024-05-06T11:59:41+02:00",
+                                    "Content": "Liebe Studierende, die Abgabeslots für die Laborprotokolle sind nun für alle online. Bitte beachten Sie, dass Sie Ihr Protkoll nur bei der dafür vorgesehenen Tutor:in abgeben können und das Sie für die Abgabe jeweils zwei Wochen Zeit haben. Aus diesem Grund schließt der Abgabeslot zu Beginn Ihres nächsten Labors. Beste Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verschiebung 2. Vorlesung",
+                            "Discussion_Id": "592088",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066407",
+                                    "Author": "Tobias Richard Rosenthal",
+                                    "DateTime": "2024-05-03T13:25:52+02:00",
+                                    "Content": "Liebe Studierende, die 2. Vorlesung muss um eine Woche auf den 13.05.2024 verschoben werden. Wir bitten dies zu entschuldigen. Studierende die regulär am Labor von Felix Schoetzau teilgenommen hätten, suchen sich bitte eigenständig einen Ersatztermin. Bitte erfragen Sie vorher beim zuständigen Tutor, ob ausreichend Kapazität vorhanden ist. Beste Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verteilung Labortermine",
+                            "Discussion_Id": "587755",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059673",
+                                    "Author": "Tobias Richard Rosenthal",
+                                    "DateTime": "2024-04-19T15:35:05+02:00",
+                                    "Content": "Liebe Studierende, die Verteilung der Labortermine ist nun abgeschlossen. Sie finden Ihren zugewiesenen Labortermin auf Moses oder auf der ISIS-Seite des Kurses. Damit Sie Ihren Labortermin behalten, ist eine Teilnahme am ersten Labor verpflichtend. Die Labore starten in der 2. Vorlesungswoche (22.04.-28.04.) bzw. 3. Vorlesungswoche (29.04.-05.05.) und besitzen einen 2-Wochen-Rhythmus. Um erfolgreich an EiMa teilzunehmen ist zusätzlich eine Prüfungsanmeldung über Moses MTS notwendig. Eine Anleitung zur Anmeldung finden Sie ebenfalls auf der ISIS-Seite des Kurses. Liebe Grüße EiMa-Team",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Course_Name": "Literaturseminar Lebensmittelchemie 2024",
+        "Course_id": "36913",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1729425",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Themenvergabe abgeschlosen",
+                            "Discussion_Id": "577000",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1043160",
+                                    "Author": "Hajo Haase",
+                                    "DateTime": "2024-02-02T11:44:30+01:00",
+                                    "Content": "Liebe Alle,  die Themenvergabe ist nahezu abgeschlossen, den meisten Teilnehmenden konnte in der ersten Runde ein Thema zugeordnet werden. Ihre Themen und die Kontaktdaten Ihrer Betreuerinnen und Betreuer entnehmen Sie bitte dem PDF im Anhang oder auf ISIS. Bitte nehmen Sie zeitnah Kontakt auf. Ich wünsche viel Erfolg bei der Bearbeitung!  Beste Grüße Hajo Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Themenvergabe endet morgen",
+                            "Discussion_Id": "576212",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1042047",
+                                    "Author": "Hajo Haase",
+                                    "DateTime": "2024-01-31T07:06:27+01:00",
+                                    "Content": "Liebe Alle, bitte beachten Sie, dass die Eintragung für Themen nur noch bis morgen um Mitternacht möglich ist. Beste Grüße Hajo Haase",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] DV-gestützter Betrieb von SVA",
+        "Course_id": "37844",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1770476",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "mündliche Rücksprache",
+                            "Discussion_Id": "605528",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1086549",
+                                    "Author": "Matthias Schwarz",
+                                    "DateTime": "2024-07-04T13:41:46+02:00",
+                                    "Content": "Liebe Studierende,  im Kurs könnt Ihr nun aus drei Euch zur Verfügung stehenden Zeiträumen Euren Präsentationszeitraum für den 17.07.2024 wählen.  Grüße  Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Rechnerarbeitsplätze am Fachgebiet",
+                            "Discussion_Id": "590835",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064502",
+                                    "Author": "Matthias Schwarz",
+                                    "DateTime": "2024-04-29T14:55:58+02:00",
+                                    "Content": "Liebe Studierende,  wir haben heute die Rechnerarbeitsplätze am Fachgebiet eingerichtet. Ihr könnt diese während der Sprechzeiten gerne nutzen. Es laufen alle Rechnerarbeitsplätze bis auf die am Tisch rechts vom Eingang beim hineingehen in den Raum.  Bitte beachtet den Hinweis zur Nutzung von LISA 7 zu Eurer Projektarbeit.  Grüße  Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einführungsveranstaltung",
+                            "Discussion_Id": "585875",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056918",
+                                    "Author": "Matthias Schwarz",
+                                    "DateTime": "2024-04-15T10:55:46+02:00",
+                                    "Content": "Liebe Studierende,  bitte beachtet, dass die Einführungsveranstaltung diesen Mittwoch, den 17.04.2024 um 12:45 Uhr am FG stattfindet.  Grüße  Matthias",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

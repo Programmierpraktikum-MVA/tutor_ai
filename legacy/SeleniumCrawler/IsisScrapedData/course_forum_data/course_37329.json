@@ -1,0 +1,510 @@
+[
+    {
+        "Course_Name": "Analysis II für Mathematiker*innen",
+        "Course_id": "37329",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1756140",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Infoveranstaltung zu den Vertiefungsrichtungen",
+                            "Discussion_Id": "607441",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089258",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-07-12T11:28:40+02:00",
+                                    "Content": "Liebe Studierende,  einige von euch werden demnächst erstmals eine vertiefende mathematische Vorlesung besuchen. Damit ihr einen Überblick über die im nächsten Semester angebotenen \"grundlegenden Lehrveranstaltungen in den Vertiefungsrichtungen\" habt, bietet die Studienfachberatung Mathematik auch in diesem Semester eine \"Informationsveranstaltung zu den Vertiefungsrichtungen\" an.  Dabei stellen sich folgende Veranstaltungen vor:  Differentialgleichungen I, Geometrie I, Mathematische Physik I, Einführung in die Lineare und Kombinatorische Optimierung (ADM I), Algebra I.  Die Informationsveranstaltung findet am  *17.07. von 14:15 bis 16:45 Uhr im MA 043*  statt.  Selbstverständlich habt ihr auch die Möglichkeit Fragen zu stellen. Im Anschluss stehen euch außerdem die Studienfachberater*innen für weitere Fragen zum Studienablauf oder Ähnlichem zur Verfügung.  Wir freuen uns auf euch!  Eure Studienfachberatung Mathematik, Technomathematik und Wirtschaftsmathematik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Umtrunk",
+                            "Discussion_Id": "606787",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1088336",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-07-10T09:37:28+02:00",
+                                    "Content": "Liebe Studierende, der Analysis-II-Umtrunk findet am nächsten Donnerstag, 18.07.2024, um 18 Uhr im Café A (im Architekturgebäude) statt. Viele Grüße, Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Tom",
+                            "Discussion_Id": "604630",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1085263",
+                                    "Author": "Maximilian Pschigode",
+                                    "DateTime": "2024-07-01T12:22:50+02:00",
+                                    "Content": "Liebe Studierende, diese Woche vertrete ich Toms Sprechstunde am Mittwoch im MA848/849.  Beste Gruesse Max",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Informationen zum Nachschreibetermin vom Zwischentest",
+                            "Discussion_Id": "604197",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1084606",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-06-28T10:29:14+02:00",
+                                    "Content": "Liebe Studierende, hier einige Informationen für den Nachschreibetermin vom Zwischentest: Der zweite Zwischentest findet am 19.07.24 im Raum MA 650 statt. Testbeginn ist um 10:15h. Bitte seien Sie ein paar Minuten früher da. Die Bearbeitungszeit beträgt 90 Minuten. Bitte bringen Sie für die Lösungen der Testaufgaben eigenes Papier mit. Auf jedem Blatt muss Ihr Name und Ihre Matrikelnummer stehen. Es ergibt Sinn, diese Informationen schon vorher auf die Zettel zu schreiben. Die Lösungen dürfen nicht mit Rotstift oder Bleistift geschrieben werden. Bitte lassen Sie auch einen Rand für die Korrektur. Bitte verwenden Sie für jede Aufgabe ein neues Blatt (d.h. keine zwei Aufgaben auf dem gleichen Blatt). Falls es noch organisatorische Fragen gibt, können Sie mich gerne per Email kontaktieren.  Viele Grüße Tom Baumbach",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde",
+                            "Discussion_Id": "603643",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1083837",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-06-26T08:56:17+02:00",
+                                    "Content": "Liebe Studierende, meine Sprechstunde wird heute online unter folgendem Zoomlink stattfinden: https://tu-berlin.zoom.us/j/63873730191?pwd=tVG3hooVpbajSk6rr2F3UKBrgjFZ1J.1 Viele Grüße Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Einsicht Test",
+                            "Discussion_Id": "601911",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081330",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-06-18T17:05:04+02:00",
+                                    "Content": "Liebe Studierende, die Einsicht für den Test findet morgen, dem 19.06., während meiner Sprechstunde von 12 bis 13 Uhr statt. Viele Grüße Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Evaluierung ",
+                            "Discussion_Id": "601873",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081272",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-06-18T15:45:20+02:00",
+                                    "Content": "Guten Tag,  bitte nehmen Sie bis zum 29.06 an der Evaluierung der Veranstaltung teil, und zwar hier https://befragung.tu-berlin.de/evasys/online.php?pswd=M767S Vielen Dank    Martin Henk ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesungen",
+                            "Discussion_Id": "601868",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1081265",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-06-18T15:40:49+02:00",
+                                    "Content": "Guten Tag,  die Vorlesungen am Do, 20.06 und Di, 02.07 fallen aus; dafür gibt es am Do, 04.07 eine Verlängerung und zwar von  14:00-18:00, wobei wir in der Halbzeit in den MA 005 wechseln.  Viele Grüße  Martin Henk ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ergebnisse vom Zwischentest",
+                            "Discussion_Id": "601593",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1080883",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-06-17T17:09:01+02:00",
+                                    "Content": "Liebe Studierende, die Ergebnisse von dem Zwischentest sind nun bei Moses eingetragen. Viele Grüße Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Inhalt vom Zwischentest",
+                            "Discussion_Id": "600518",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1079310",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-06-12T10:09:25+02:00",
+                                    "Content": "Liebere Studierende, in dem Zwischentest werden folgende Inhalte der Vorlesung abgefragt: Eigenschaften metrischer und normierter Räume partielles und totales Differenzieren Bestimmung der Minima bzw. Maxima einer Funktion Länge von Kurven Der Test wird eine Multiple-Choice-Aufgabe beinhalten. Die restlichen Aufgaben des Tests sind Rechenaufgaben.  Viele Grüße Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Zwischentest",
+                            "Discussion_Id": "598545",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1076455",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-06-03T13:39:20+02:00",
+                                    "Content": "Liebe Studierende, hier einige Informationen für den Zwischentest am 17.06.: Der Zwischentest findet im Raum MA 004 statt. Testbeginn ist um 10:15h. Bitte seien Sie ein paar Minuten früher da. Die Bearbeitungszeit beträgt 90 Minuten. Bitte bringen Sie für die Lösungen der Testaufgaben eigenes Papier mit. Auf jedem Blatt muss Ihr Name und Ihre Matrikelnummer stehen. Es ergibt Sinn, diese Informationen schon vorher auf die Zettel zu schreiben. Die Lösungen dürfen nicht mit Rotstift oder Bleistift geschrieben werden. Bitte lassen Sie auch einen Rand für die Korrektur. Bitte verwenden Sie für jede Aufgabe ein neues Blatt (d.h. keine zwei Aufgaben auf dem gleichen Blatt). Falls es noch organisatorische Fragen gibt, können Sie mich gerne per Email kontaktieren.  Viele Grüße Tom Baumbach",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Joel 29. Mai",
+                            "Discussion_Id": "597478",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074870",
+                                    "Author": "Joel Junior Chi Zama",
+                                    "DateTime": "2024-05-28T18:15:42+02:00",
+                                    "Content": "Liebe Studierende, meine Sprechstunde morgen geht von 16 - 18 Uhr statt 8 - 10 Uhr. Viele Grüße,  Joel",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Sprechstunde Joel",
+                            "Discussion_Id": "595859",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1072388",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-05-22T08:23:56+02:00",
+                                    "Content": "Liebe Studierende, die Sprechstunde von Joel wird heute von mir vertreten und findet im E216 statt.  Viele Grüße  Tom ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Euler in Potsdam",
+                            "Discussion_Id": "595470",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1071805",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-05-20T18:14:00+02:00",
+                                    "Content": " zur Info:  Liebe Mathematik-Interessierte,  wir erinnern an die Euler-Vorlesung 2024 in Potsdam-Sanssouci in der nächsten Woche:  31. Euler-Vorlesung 2024    Freitag, 24. Mai 2024 um 14:30 Uhr    Am Neuen Palais, Universität Potsdam    Auditorium Maximum im Haus 8  Die Euler-Vorlesung wird gehalten von:   Professor Alessio Figalli (ETH Zürich)   „Exploring Stability in Geometric and Functional Inequalities”  Der traditionelle historische Vortrag wird gehalten von:   Professorin Clara Silvia Roero (Universität Turin)   „ Gottfried Wilhelm Leibniz and his Influence on Giuseppe Peano”  Weitere Informationen finden sich unter    www.euler-lecture.berlin  Alle Interessierte sind herzlich eingeladen, insbesondere die Studierenden.  Mit besten Grüßen Konrad Polthier  -------------  Über die Euler-Vorlesung:  Die Euler-Vorlesung ist eine Mathematik-Vorlesung in festlichem Rahmen, die von den Berliner und Potsdamer Mathematischen Instituten, Großprojekten und Organisationen gemeinsam getragen wird und einmal jährlich stattfindet. Die Veranstaltung ist nach Leonhard Euler (1707–1783) benannt. Euler war mit der Berliner Mathematik besonders verbunden, unter anderem durch seine langjährige Tätigkeit als Direktor der Mathematischen Klasse der Berliner Akademie und am Hof Friedrichs des Großen in Potsdam.  Der/die Vortragende wird von einer unabhängigen Jury gewählt, die gegenwärtig aus Professor Christian Bär, Professor Gavril Farkas und Professor Felix Otto besteht.  ------------- https://isis.tu-berlin.de/pluginfile.php/3122337/mod_forum/post/1071805/2024-05-24_Euler-Vorlesung_flyer.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Abgabe Hausaufgabenblatt 4",
+                            "Discussion_Id": "594346",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070006",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-05-14T13:57:00+02:00",
+                                    "Content": "Liebe Studierende, die Abgabe für das vierte Hausaufgabenblatt erfolgt am 21.05.24 im Raum MA 005 von 15:45-16:00. Viele Grüße Tom",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Karriereseminar 2024",
+                            "Discussion_Id": "592989",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067838",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-05-07T14:48:19+02:00",
+                                    "Content": "Zur Information: https://isis.tu-berlin.de/pluginfile.php/3122337/mod_forum/post/1067838/Programmheft_Karriereseminar_SS24.pdf",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Übung",
+                            "Discussion_Id": "590575",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1064098",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-04-29T08:15:13+02:00",
+                                    "Content": "Liebe Studierende, leider wird die Übung heute krankheitsbedingt entfallen. Die Hausaufgaben werden von 10-10.15 Uhr im Raum MA 004 von Max eingesammelt. Meine Notizen zur Übung habe ich euch auch schon hochgeladen. Viele Grüße Tom  ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "TdM",
+                            "Discussion_Id": "588514",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1060933",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-04-22T15:38:03+02:00",
+                                    "Content": "Anbei ein Aufruf zum Mitmachen/Mithelfen bei dem diesjährigen Tag der Mathematik an der TU Berlin am 04.05.2024 von Prof. Dr. Wolfgang König:  für den Tag der Mathematik am 4. Mai muss ich noch unbedingt mehr Helfer(innen) haben! Hauptsächlich brauche ich Aufsichtspersonen, die den Wettbewerb durchzuführen helfen. Es haben sich schon 330 Schüler(innen) zum Wettbewerb angemeldet, und ich rechne mit etwa tausend am Ende.  Jede(r) Hilfswillige muss einfach nur zu  https://www3.math.tu-berlin.de/TDM/tdm-2024/  gehen und  sich links unten eintragen unter  Intern -> Unterstützung vor Ort  Bitte sagt dies in den Lehrveranstaltungen an und setzt einen Hinweis auf die ISIS-Homepage!   Herzlichen Dank und beste Grüße, Wolfgang König (für das TdM-Orgateam)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Dienstagsvorlesung",
+                            "Discussion_Id": "587302",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058984",
+                                    "Author": "Martin Henk",
+                                    "DateTime": "2024-04-18T13:16:43+02:00",
+                                    "Content": "Die Vorlesung am Dienstag beginnt um 16:00 s.t. (also 16:00-17:30).   Viele Grüße, Martin Henk",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1816417",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Max Tutorium heute ",
+                            "Discussion_Id": "607462",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1089301",
+                                    "Author": "Jess Kennedy",
+                                    "DateTime": "2024-07-12T12:37:54+02:00",
+                                    "Content": "Hallo wo ist Max Tutorium heute? Da ist niemand in EN 181. Fällt es heute aus?",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Spieleabend",
+                            "Discussion_Id": "592051",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066349",
+                                    "Author": "Sebastian Marko Weißer",
+                                    "DateTime": "2024-05-03T12:13:15+02:00",
+                                    "Content": "Liebe Mathematik Studierende, wir die Mathe-Ini veranstalten einen Spieleabend um vom Lernstress Abstand zu gewinnen und neue um Lerngruppen zu bilden oder einfach Ansprechpartner zu finden. Vor allem geht es aber Spiel, Spaß und Freude.  Die Mathe-Ini wird für eine Grundversorgung an Snacks und Getranken sorgen.  Wann: Dienstag den 07.05.2024 Uhrzeit: 16Uhr Wo: M-Space direkt über dem Café-Shila  Wir freuen uns auf euch! Eure Mathe-Ini",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgabenblatt 1?",
+                            "Discussion_Id": "590283",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1063644",
+                                    "Author": "Lukka Namakando Mayer",
+                                    "DateTime": "2024-04-26T16:24:51+02:00",
+                                    "Content": "Warum gibt es zwei mal Hausaufgabenblatt 1?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1063656",
+                                    "Author": "Tom Baumbach",
+                                    "DateTime": "2024-04-26T16:45:57+02:00",
+                                    "Content": "Hallo Lukka,  das erste Hausaufgabenblatt sollte eigentlich Blatt 0 sein. Das Hausaufgabenblatt, welches ihr diese Woche bearbeiten sollt, ist nun das richtige Hausaufgabenblatt 1.  Viele Grüße Tom",
+                                    "Response to": "p1063644"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Hausaufgabenpartnersuche",
+                    "Forum_id": "1816416",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "HA Partner Suche ",
+                            "Discussion_Id": "592556",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1067201",
+                                    "Author": "Roman Elias Schakel",
+                                    "DateTime": "2024-05-06T13:27:29+02:00",
+                                    "Content": "Hey, leider hat mein alter Hausaufgabenpartner aufgehört und deshalb suche ich jetzt ein neues Gruppenmitglied. Bei Interesse gerne über WhatsApp melden: +49 1575 1619002 ",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Partner*in gesucht",
+                            "Discussion_Id": "591748",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065879",
+                                    "Author": "Maximilian Patzsch",
+                                    "DateTime": "2024-05-02T14:13:03+02:00",
+                                    "Content": "Hey, ich bin aktuell noch auf der Suche nach jemandem mit dem ich die Hausaufgaben zusammen machen kann. Bei Interesse schreibt mir gerne hier oder auf WhatsApp: +49 176 61121235",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Suche HA Partner*in",
+                            "Discussion_Id": "588976",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061641",
+                                    "Author": "Lennart Bartz",
+                                    "DateTime": "2024-04-23T15:26:14+02:00",
+                                    "Content": "Hey, ich bin noch auf der Suche nach einem Gruppenmitglied. Gern per Whatsapp oder Telegram: 0160 2578 003 Beste Grüße Lennart",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA PARTNER SUCHE",
+                            "Discussion_Id": "587642",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059510",
+                                    "Author": "Danila Kluiko",
+                                    "DateTime": "2024-04-19T12:19:11+02:00",
+                                    "Content": "Freunde, ich brauche dringend einen Partner für die Hausarbeit, im Gegenzug bin ich bereit, meine Ehre und Loyalität anzubieten. Ich glaube, dass wir zusammen die Extreme des mathematischen Wissens erreichen können, das Niveau der mathematischen Diskussion in Westberlin erhöhen und noch mehr, vielleicht werden wir uns durch die Bande der aufrichtigen Freundschaft verbinden, vielleicht nicht in jedem Fall, schreiben Sie mir. +4915123181454 (lieber per Telegramm oder Watsapp)",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1061193",
+                                    "Author": "Danila Kluiko",
+                                    "DateTime": "2024-04-22T22:47:06+02:00",
+                                    "Content": "hab schon gefunden",
+                                    "Response to": "p1059510"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe gesucht",
+                            "Discussion_Id": "588669",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061187",
+                                    "Author": "Yupeng Yu",
+                                    "DateTime": "2024-04-22T22:23:50+02:00",
+                                    "Content": "Da mein Hausaufgaben-Partner aus dem Kurs ausgestiegen ist, suche ich jetzt eine neue Gruppe. Ich bin vor kurzem von Physik auf Wirtschaftsmathematik umgestiegen und habe bereits Kenntnisse für Analysis 2. Bei Interesse könnt ihr mir unter +49 015204012961 schreiben :)",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Partner",
+                            "Discussion_Id": "587508",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1059287",
+                                    "Author": "Viktor Konstantin Pohla",
+                                    "DateTime": "2024-04-18T21:47:28+02:00",
+                                    "Content": "Ich suche auch noch einen Hausaufgaben-Partner. Schreibt mir einfach, falls ihr auch nich jemanden sucht: 015223093434",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Hausaufgaben Gruppe",
+                            "Discussion_Id": "587296",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058969",
+                                    "Author": "Jonathan Kolja Reinhardt",
+                                    "DateTime": "2024-04-18T13:03:09+02:00",
+                                    "Content": "Hi, ich suche noch eine Hausaufgaben Partnerin oder eine Hausaufgaben Partner. Normalerweise arbeite ich in Overleaf mit Latex, falls du also auch Lust auf Latex hast umso besser, falls nicht aber auch kein Problem. LG Joanthan",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1059275",
+                                    "Author": "Jonathan Kolja Reinhardt",
+                                    "DateTime": "2024-04-18T20:59:04+02:00",
+                                    "Content": "Ich habe inzwischen ein Person gefunden.",
+                                    "Response to": "p1058969"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Gruppe",
+                            "Discussion_Id": "586784",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1058214",
+                                    "Author": "Leon Noel Ackermann",
+                                    "DateTime": "2024-04-17T11:35:07+02:00",
+                                    "Content": "Hallo, ich suche eine HA Gruppe.  Bin am Ende meines Physikbachelors. Vorteil: Habe dadurch die meisten Themen schon mal gelernt, aber beim mathematischen Beweisen wird es natürlich eine neue Herausforderung werden.  LG Leon",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1058438",
+                                    "Author": "Marcos Herranz Sanchez Camacho",
+                                    "DateTime": "2024-04-17T15:27:32+02:00",
+                                    "Content": "Hallo, bin Interessiert, schreib an +34 628 127 006, ich studiere Wirtschaftsmathe",
+                                    "Response to": "p1058214"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Partner*in suchen",
+                            "Discussion_Id": "586567",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057927",
+                                    "Author": "Shicheng Yang",
+                                    "DateTime": "2024-04-16T18:29:37+02:00",
+                                    "Content": "Hi, ich suche noch einen Partner für die Hausaufgabenabgabe.  Whatsapp: +49 15201306220 Liebe Grüße, Shicheng, Yang",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057946",
+                                    "Author": "Shicheng Yang",
+                                    "DateTime": "2024-04-16T19:12:05+02:00",
+                                    "Content": "schon gefunden",
+                                    "Response to": "p1057927"
+                                },
+                                {
+                                    "Message_id": "p1058103",
+                                    "Author": "Duonian Cao",
+                                    "DateTime": "2024-04-17T09:58:57+02:00",
+                                    "Content": "Hallo, Ich könnte auch noch. Grüße",
+                                    "Response to": "p1057946"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA-Partner*in gesucht ",
+                            "Discussion_Id": "586115",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057260",
+                                    "Author": "Vsevolod Bordachev",
+                                    "DateTime": "2024-04-15T17:20:41+02:00",
+                                    "Content": "Hey, Ich bin gerade auf der Suche nach einem HA-Partner*in.Bei Interesse schreibt mir gerne über Whatsapp +4915228025203.",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "HA Partner gesucht",
+                            "Discussion_Id": "586039",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057157",
+                                    "Author": "Tim Widmoser",
+                                    "DateTime": "2024-04-15T15:07:23+02:00",
+                                    "Content": "Hi, ich suche noch einen Partner für die Hausaufgabenabgabe. Liebe Grüße, Tim.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057169",
+                                    "Author": "Viktor Konstantin Pohla",
+                                    "DateTime": "2024-04-15T15:22:19+02:00",
+                                    "Content": "Hi, ich brauche auch noch einen Partner, du kannst mir gerne schreiben 015223093434",
+                                    "Response to": "p1057157"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]
