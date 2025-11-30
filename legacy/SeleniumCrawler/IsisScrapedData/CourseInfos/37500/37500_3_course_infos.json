@@ -1,0 +1,17 @@
+[
+    "1.",
+    "Kareem Rahman",
+    ", \"Homogeneous Community Detection On Heterogeneous Information Networks: A Node Embedding Approach\" (Defense,",
+    "Advisor",
+    ":",
+    "Serafeim Papadias",
+    ")",
+    "Abstract",
+    ". This thesis proposes an end-to-end pipeline to tackle the challenge of community detection (CD) on static heterogeneous information networks (HINs) using node embedding (NE) in conjunction with homogeneous modularity-based CD algorithms. It leverages NE techniques (i.e., JUST, Metapath2Vec) to transform an HIN into a weighted homogeneous network by calculating vector similarity distances in the latent low-dimensional embedding space for each node, and then projecting them as edge weights onto a topologically identical homogeneous counterpart of the HIN. A homogeneous modularity-based CD algorithm (i.e., Louvain, Leiden) can then run on the weighted homogeneous graph to identify community structures. This method attempts to both preserve the high-order semantic meaning and topological structure of the original HIN whilst circumventing the necessity for specialized heterogeneous CD algorithms.  Experimental analysis highlights this approach’s efficacy in identifying significant and nuanced community structures across 3 large datasets and 4 pipeline NE-CD variations; nevertheless, there was no best-performing variation overall, underscoring that the success of our pipeline is heavily context-dependent. Despite a computational bottleneck encountered during the NE phase due to the intensive skip-gram model computations, overall runtime of the pipeline remained within practical ranges. This robustness extends to the qualitative analysis of community outputs for a specific music dataset, validating the effectiveness of both JUST and Metapath2Vec in forming coherent communities. This adaptability suggests the pipeline’s capacity to accommodate diverse NE techniques without compromising community integrity or being dependent on metapaths. Importantly, this work demonstrates the feasibility of conducting CD on HINs using well-established homogeneous algorithms, simplifying the approach without the need for specialized heterogeneous algorithms. This thesis’ findings underscore the potential of this framework for real-world applications, opening avenues for future improvements in scalability and hyper-parameter sensitivity across the pipeline.",
+    "2.",
+    "Magnus Erk Kroner Mat",
+    ", \"Using Metamorphic Testing to Find Logic Bugs in Stream Processing Engines\" (Proposal,",
+    "Advisor",
+    ": Ankit Chaudhary",
+    ")"
+]

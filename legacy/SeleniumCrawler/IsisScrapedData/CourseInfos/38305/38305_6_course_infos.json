@@ -1,0 +1,15 @@
+[
+    "Select activity Actran examples",
+    "Actran examples",
+    "Folder",
+    "Select activity .edat files for some examples",
+    ".edat files for some examples",
+    "Folder",
+    "These are meant to check and compare with your own in case something does not work as expected.",
+    "Select activity input files for the silencer example",
+    "input files for the silencer example",
+    "Folder",
+    "if you want to reproduce everything, set the max element size in the Gmsh options->mesh->general to 0.1",
+    "silencer1: boolean approach for modelling",
+    "silencer2: extrusion approach for modelling"
+]

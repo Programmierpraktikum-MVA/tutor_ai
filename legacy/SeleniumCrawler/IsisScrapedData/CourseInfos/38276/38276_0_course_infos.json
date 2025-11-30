@@ -1,0 +1,9 @@
+[
+    "This course will introduce the idea of Computer Numerical Control (CNC) of machine tools and machining robots to the students. It will cover the structure of the Numerical Control Kernel (NCK), the main building unit of a CNC system. The course handles in-depth the geometry preparation module of a real NCK, the static transformations and their usage in industrial applications, the trajectory generation and the different types of motion profiles, the kinematics of machine tools and the calculation of forward and inverse kinematic, dynamic analysis and preparation, the main control loops of a real industrial feed drive.\nThroughout the lecture, there will be examples, tutorials, and exercises.\nThe course focuses on the Numerical Control Kernel (NCK) of a Computer Numerical Control (CNC) system. The other elements of the CNC system such as the Programmable Logic Controller (PLC), the drives and their control loops, and the technology aspects of the process are handled in other courses.",
+    "Further Informations regarding the dates of the lectures etc. will be published soon.",
+    "Allgemeines",
+    "Die 1. Vorlesung findet am 15.04.2024 um 14 Uhr im PTZ 507 statt.",
+    "Aktivität Ankündigungen auswählen",
+    "Ankündigungen",
+    "Forum"
+]

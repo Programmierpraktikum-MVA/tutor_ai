@@ -1,0 +1,9 @@
+[
+    "Recent advances in satellite technology have led to a regular, frequent, and high-resolution monitoring of Earth at the global scale, providing an unprecedented amount of Earth observation (EO) data. To efficiently process and analyze the large-amount EO data, remote sensing has evolved into a multidisciplinary field, where machine learning and computer vision algorithms play an important role nowadays. At the start of this project course, students receive project topics as well as some information material in the field of computer vision for remote sensing. After setting the project teams and topics, a project environment is decided (with the suitable tools for a team work) with the assistance of the lecturer. Then, project planning, coordination and development start. During the weekly project meetings, each project team presents progress and then further steps are decided in consultation with the lecturer.",
+    "The project is concluded with final reports as well as a final presentation. The general topics include but are not limited to:",
+    "i) feature extraction and learning;",
+    "ii) classification and retrieval of satellite images;",
+    "iii) change detection and analysis of image time series;",
+    "iv) object detection;",
+    "v) multi-sensor and multi-source data fusion."
+]

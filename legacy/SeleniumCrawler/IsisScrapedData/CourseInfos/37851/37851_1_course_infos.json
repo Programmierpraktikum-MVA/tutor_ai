@@ -1,0 +1,10 @@
+[
+    "Aktivität Themenblock I erarbeitet professions- und organisa... auswählen",
+    "[if !supportLists]",
+    "Themenblock I",
+    "erarbeitet",
+    "professions- und organisationstheoretische",
+    "Perspektiven, unter denen\nHandlungsfelder der Bildungsarbeit in Themenblock II analytisch diskutiert werden.",
+    "[endif]",
+    "[if !supportLists]"
+]

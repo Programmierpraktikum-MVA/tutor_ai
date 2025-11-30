@@ -1,0 +1,16 @@
+[
+    "Es geht in 4 Abschnitten um folgende Themen:",
+    "●  History/\nIntroduction/ Definition/ Crystal Structure/ Overview",
+    "[if ppt]",
+    "[endif]",
+    "[if ppt]",
+    "●  Device\nEvolution (from DSSC to planar Perovskite solar cells)",
+    "[endif]",
+    "[if ppt]",
+    "●  Material Properties\nof Inorganic-Organic (Metal-Halide) Perovskites",
+    "[endif]",
+    "[if ppt]",
+    "●  Device\nProcessing / Applications (Flex and Tandems)",
+    "Video: 1",
+    "Datei: 1"
+]

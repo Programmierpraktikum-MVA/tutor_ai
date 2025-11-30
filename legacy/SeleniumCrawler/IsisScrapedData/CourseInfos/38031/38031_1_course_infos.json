@@ -1,0 +1,14 @@
+[
+    "You need to install Python using the Anaconda distribution. Then you will setup a Python environment at your computer with the usage of the provided yml file (env_sust_energy.yml) here on Isis. This environment holds then all relevant packages (as oemof and others) , which we will need for the energy system modeling during the on-grid part of the module. Finally you need to install the CBC solver, which is needed for the usage of oemof.",
+    "The provided video guides you through the installation process on Windows. Further I uploaded a short installation summary, which holds also information for other operating systems as Mac or Linux.",
+    "Finally I uploaded as well two cheat sheets, which hold most relevant commands for the usage of the IDE Jupyter and the most important Python libaries numpy, pandas and matplotlib.",
+    "Aktivität Python installation auswählen",
+    "Python installation",
+    "Video",
+    "Aktivität Python information auswählen",
+    "Python information",
+    "Verzeichnis",
+    "Aktivität Python/Oemof Consultation Hour auswählen",
+    "Python/Oemof Consultation Hour",
+    "Link/URL"
+]

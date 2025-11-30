@@ -1,0 +1,17 @@
+[
+    "Projekt",
+    "Beschreibung",
+    "Ansprechpartner",
+    "vergeben?",
+    "Brick-Schema",
+    "In diesem Projekt geht es um die Einarbeitung in Brick Schema. Brick Schema ist ein neues Konzept. Es ermöglicht eine einheitliche Metadatenbeschreibung für Gebäude. Eine solche einheitliche Darstellung von Gebäudedaten ist wichtig für Data Science Anwendungen. In diesem Projekt sollst du dich dem Brick Schema auseinandersetzen, um ein Verständnis für die Modellierung und Verwaltung von Gebäudedaten zu entwickeln. Du wirst eine bestehende raumlufttechnische Anlage detailliert in Brick Schema erfassen und digital abbilden. Du recherchierst und bewertest dafür selbst Tools und identifizierst die effektivsten Werkzeugzeuge und Herangehensweisen. Du dokumentierst dabei dein Vorgehen. Deine gesammelten Erfahrungen werden geteilt, um zukünftige Projektarbeiten zu verbessern. Eine gute Voraussetzung für dieses Projekt ist ein Interesse and Gebäudedaten und Anlagen. Bei Interesse kannst du mich direkt unter meiner Email Adresse erreichen. Bitte schreibe mir dann auch einen kurzen Text von maximal 250 Wörtern zu deinem Background und warum du dich für genau dieses Thema interessierst.",
+    "karsten.tawackolian@tu-berlin.de",
+    "Ja",
+    "Python - Luka",
+    "In diesem Projekt geht es um eine Software für die Berechnung von Druckverlusten in Luftkanalnetzen. Das Programm ist in einem Forschungsprojekt am HRI entstanden und wurde von mehreren Studierenden programmiert. Die Druckverlustberechnung ist ein wichtiger Teil bei der Auslegung und Optimierung von raumlufttechnischen Anlagen. Das Programm verfügt über ein grafisches Benutzerinterface um Luftkanalnetze einfach zu definieren. In diesem Projekt hast du die Möglichkeit dieses Projekt weiterzuentwickeln und zu verbessern. Du kannst entweder selbst neue Ideen einbringen oder einige der Ideen umsetzen die wir noch auf unserer Wunschliste haben.",
+    "Wenn du über gute Python-Kenntnisse verfügst und Spaß am Programmieren hast könnte dies das richtige Projekt für dich sein. Unter dem hier abgebildetem Link (",
+    "https://git.tu-berlin.de/ktawacko/luka",
+    ") kannst du dir das Programm einmal herunterladen und anschauen. Wenn du dieses Projekt gerne bearbeiten möchtest, schreibe mir eine Mail mit einem kurzen Text von maximal 250 Wörtern zu deinem Background und deiner Programmiererfahrung.",
+    "karsten.tawackolian@tu-berlin.de",
+    "Ja"
+]
