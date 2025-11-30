@@ -1,0 +1,5 @@
+[
+    "Supervisor/Contact:",
+    "Simon Torka",
+    "This task centers on optimizing AI models for cybersecurity on microcontrollers and analyzing their impact on detection accuracy. Sparsification and quantization techniques such as weight pruning and dynamic pruning, along with specific methods like PeakRNN and StatsRNN, will be investigated."
+]

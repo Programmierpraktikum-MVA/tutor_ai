@@ -1,0 +1,13 @@
+[
+    "Supervisor/Contact:",
+    "Bianca Scheibel",
+    "With time attacks on IT infrastructures are getting more complex. Therefore security systems need to be developed in realistic environments, so they can detect attacks reliably and not raise too many false alarms. To do that, it is not feasible to test or evaluate them in real environments with a real launched attack. For this, emulations are needed to emulate the environments and attacks on them and test/evaluate the security system on them. But a simple emulation is not enough when the normal behavior besides the attacks in it is not realistic otherwise the test/evaluation results do not correlate much with the use in a real environment.",
+    "The topic requests to investigate how normal network/human behavior in emulation can be generated so security systems can be tested/evaluated in it. The focus should be on the used methods/algorithms, how they work, and how they perform compared to each other. The comparison only needs to be done theoretically based on the found information and must be done according to the selected research question for the seminar paper. It is not needed to describe the methods/algorithms in every detail, but it should be clear how they work.",
+    "The report should follow general good practices of scientific work and should take",
+    "B. Kitchenham",
+    "(2004) into account when conducting a literature survey. The final report should cover at least 15 papers on this topic. Furthermore, this review",
+    "MUST NOT",
+    "be a simple summary of those papers. Especially, it",
+    "MUST NOT",
+    "chain one summary paragraph/section after the other. The report must have a clearly defined research question that is used to select and analyze the papers for the report."
+]

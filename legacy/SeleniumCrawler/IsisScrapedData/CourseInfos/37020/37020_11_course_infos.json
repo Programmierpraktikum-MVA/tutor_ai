@@ -1,0 +1,6 @@
+[
+    "Supervisor/Contact:",
+    "Fabian Hofmann",
+    "With the rapid development of 5G, the Internet of Things (IoT), and the increasing number of sensors and data sources that feed data back to the information networks like the internet, new challenges in the field of data analytics and cyber security can be observed, such as the absence of many security features in the edge-based devices and the sheer number of devices that generate monitoring data. In addition, the disconnect between edge and cloud due to high latencies and bandwidth limitations between the different locations poses a need to not perform the detection of cyber threats centrally in the cloud alone, but utilize resources offered by the edge devices themselves to construct efficient intrusion detection systems (IDS) for edge-based scenarios.",
+    "The focus of this topic is to give an introduction to fog and edge architectures, the challenges they bring with them in terms of security and privacy, and how IDS can be implemented in such systems. For this, an overview of existing approaches for intrusion detection is provided and they are discussed with regard to their techniques and properties, the evaluation methods used, and their results."
+]

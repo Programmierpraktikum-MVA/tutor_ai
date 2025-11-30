@@ -1,0 +1,567 @@
+[
+    {
+        "Course_Name": "[SoSe 2024] Einführung in die IT-Sicherheit",
+        "Course_id": "38283",
+        "Forums": [
+            [
+                {
+                    "Forum_name": "Ankündigungen",
+                    "Forum_id": "1786384",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "no lecture today",
+                            "Discussion_Id": "600202",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1078855",
+                                    "Author": "Jean-Pierre Seifert",
+                                    "DateTime": "2024-06-11T10:05:05+02:00",
+                                    "Content": "Liebe Studenten, wegen des Selensky Verkehr Chaos in Berlin stecke im Zug Richtung Berlin fest. Ich werde es daher nicht zur VL schaffen, bzw. weiß nicht, wann ich da sein werde. Daher heute keine VL. Sorry, Your Professor",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Der dritte Test",
+                            "Discussion_Id": "599532",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077860",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-06-07T07:00:00+02:00",
+                                    "Content": "Liebe Studierende,  der dritte Test ist ab jetzt verfügbar. Ihr habt Zeit bis Freitag, den 14. Juni, 23:59 Uhr.  Viel Erfolg! Yassin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Weniger Sprechstunden",
+                            "Discussion_Id": "599078",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1077212",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-06-05T10:53:30+02:00",
+                                    "Content": "Liebe Studierende,  da bisher leider niemand in die Sprechstunden gekommen ist, werden wir ab heute das Sprechstundenangebot reduzieren, da diese nicht von eurer Seite aus benötigt werden.  Die Sprechstunde am Mittwoch wird ab heute nicht mehr angeboten werden.  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Der zweite Test",
+                            "Discussion_Id": "596445",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073234",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-05-24T07:00:00+02:00",
+                                    "Content": "Liebe Studierende,  der zweite Test ist ab jetzt verfügbar. Ihr habt Zeit bis Freitag, den 31. Mai, 23:59 Uhr.  Viel Erfolg! Yassin",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Ausfall Sprechstunde",
+                            "Discussion_Id": "594510",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070254",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-15T06:52:16+02:00",
+                                    "Content": "Liebe Studierende,  heute fällt die Sprechstunde aufgrund einer Terminkollision leider aus. Stellt dementsprechend eure Fragen bitte im Diskussionsforum oder besucht die Sprechstunde am Donnerstag.  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erinnerung: Prüfungsanmeldung",
+                            "Discussion_Id": "594186",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1069739",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-13T20:02:06+02:00",
+                                    "Content": "Liebe Studierende,  wie in der vorherigen Ankündigung geschrieben, denkt bitte daran, euch über Moses für EITS anzumelden.  Die Prüfungsanmeldung ist nurnoch bis morgen offen.  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Prüfungsanmeldung",
+                            "Discussion_Id": "593110",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1068008",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-07T20:42:07+02:00",
+                                    "Content": "Liebe Studierende,  die Prüfungsanmeldung für EITS ist offen bis zum 14.05. auf Moses.  Bitte denkt daran, euch rechtzeitig anzumelden :)  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Der erste Test",
+                            "Discussion_Id": "591942",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1066183",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-05-03T07:16:30+02:00",
+                                    "Content": "Liebe Studierende,  der erste Test ist ab jetzt verfügbar. Ihr habt Zeit bis Freitag, den 10. Mai, 23:59 Uhr. Bitte beachtet, dass ihr in dem Test nicht zwischen den Fragen springen könnt. Sobald ihr auf \"Nächste Seite\" klickt, wird die Frage abgeschickt und kann nicht mehr bearbeitet werden, auch wenn ihr keine Antwort eingetragen habt.  Viel Erfolg wünschen wir euch!",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Organisation",
+                            "Discussion_Id": "589317",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062195",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-04-24T12:08:12+02:00",
+                                    "Content": "Liebe Studierende,  wie schon in der VL angekündigt fasse ich hier nochmal die Organisation für dieses Semester zusammen:  1) Es handelt sich bei dieser VL um eine Portfolioleistung, d.h. es wird keine Klausur geben, sondern nur ISIS Quizzes. 2) Wir planen für jedes Thema ein ISIS Quiz bereitzustellen. Wir zielen auf etwa 7 Themenbereiche dieses Semester ab. (Je nachdem, wie wir vorankommen, können es auch weniger sein.) 3) Das Quiz für ein Thema werden wir erst nachdem das Thema fertig behandelt wurde am Freitag hochladen. Zu jedem Quiz schreiben wir auch eine Ankündigung, damit ihr das Freischalten nicht verpasst. 4) Ein Quiz wird Ihnen etwa 10 Punkte bringen. 5) Zum Bestehen benötigen Sie 50% der möglichen Gesamtpunktzahl. Hierbei werden alle Punkte aus den Quizzes aufsummiert. D.h., es ist auch möglich, dass Sie in einem Quiz weniger als 50% der Punkte haben und trotzdem bestehen können. 6) Wir bieten 2 Sprechstunden pro Woche an, die genauen Termine und Räume stehen im ISIS Kurs. 7) Bitte stellen Sie inhaltliche Fragen hier im Diskussionsforum oder in den Sprechstunden. 8) Sollte es abweichende organisatorische Informationen auf den Folien und ISIS geben, gelten die Informationen in ISIS.  Viel Erfolg und Spaß euch noch beim Modul!  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Keine Vorlesung nächste Woche",
+                            "Discussion_Id": "585761",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1056750",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-04-14T18:53:15+02:00",
+                                    "Content": "Liebe Studierende,  die Vorlesung wird diese Woche noch nicht stattfinden. Der erste Vorlesungstermin wird der 23.04. in Präsenz sein.  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "Response to nothing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "Forum_name": "Diskussionsforum",
+                    "Forum_id": "1786386",
+                    "Discussions": [
+                        {
+                            "Discussion_Name": "Fehler im zweiten Test in Frage 6 ",
+                            "Discussion_Id": "596948",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1074041",
+                                    "Author": "Leonard Heinrich Geißler",
+                                    "DateTime": "2024-05-27T11:51:54+02:00",
+                                    "Content": "Hallo,  in Frage 6 sind bei mir p, q, d und m gegeben und ich soll c berrechnen. (nach der RSA Notation aus der VL) Das scheint mir nicht möglich. Liege ich da falsch? ",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1074066",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-27T12:20:07+02:00",
+                                    "Content": "Hallo,  die Berechnung sollte gehen, wenn ihr auf einen kleinen Trick kommt. Schau dir nochmal an, wie e und d berechnet werden.  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "p1074041"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Verwirrende Bezeichnung",
+                            "Discussion_Id": "596581",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1073427",
+                                    "Author": "Alexander Leis",
+                                    "DateTime": "2024-05-24T15:39:16+02:00",
+                                    "Content": "In der Folie 02 auf Seite 91 zu Kryptographie bzw. RSA wird \"d\" als geheimer Exponent bezeichnet. Weiter unten heißt es dann \"Entschlüsselungsoperation:       d = c^d mod n\" Auf der nächsten Seite heißt es dann d = 123. Man sollte vielleicht die Entschlüsselungsoperation nicht \"d\", sondern \"m\" nennen, da das ja schon der geheime Exponent ist. Das ist etwas verwirrend.",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1073443",
+                                    "Author": "Carsten Gregor Michael Schubert",
+                                    "DateTime": "2024-05-24T16:15:36+02:00",
+                                    "Content": "Hallo Alexander,  ja, du hast absolut recht, dort sollte besser m (für \"Klartext\") stehen. Das hatte mich während der VL auch kurz verwirrt. Auf der vorherigen Folie (die ja die allgemeine Vorschrift beinhaltet) sieht es aber zum Glück besser aus.  Liebe Grüße Carsten",
+                                    "Response to": "p1073427"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Tests",
+                            "Discussion_Id": "589038",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1061732",
+                                    "Author": "Anna Sergeeva",
+                                    "DateTime": "2024-04-23T16:47:23+02:00",
+                                    "Content": "Ab wann sind Online Tests verfügbar?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062116",
+                                    "Author": "Elias Podlubny",
+                                    "DateTime": "2024-04-24T10:52:10+02:00",
+                                    "Content": "Wunder mich auch schon, wann sie verfügbar sein werden",
+                                    "Response to": "p1061732"
+                                },
+                                {
+                                    "Message_id": "p1062144",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-04-24T11:12:03+02:00",
+                                    "Content": "Hallo Anna,  für jedes Thema gibt es einen Test. Wenn wir mit einem Thema in der Vorlesung fertig sind, schalten wir den entsprechenden Test ein. Wir werden auch immer eine Ankündigung schreiben, wenn ein Test verfügbar ist.  Viele Grüße Yassin",
+                                    "Response to": "p1061732"
+                                },
+                                {
+                                    "Message_id": "p1066160",
+                                    "Author": "Felix Nolte",
+                                    "DateTime": "2024-05-02T23:00:30+02:00",
+                                    "Content": "Wird es bei der Bearbeitung der Tests eine Zeitbegrenzung geben? Und kann man die Tests ggf. wiederholen?",
+                                    "Response to": "p1062144"
+                                },
+                                {
+                                    "Message_id": "p1066184",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-05-03T07:33:25+02:00",
+                                    "Content": "Hallo Felix,  ihr habt eine Woche Zeit, um einen Test zu absolvieren. Und nur ein Versuch ist erlaubt.  Viele Grüße Yassin",
+                                    "Response to": "p1066160"
+                                },
+                                {
+                                    "Message_id": "p1066197",
+                                    "Author": "Leonard Luc Vaupel",
+                                    "DateTime": "2024-05-03T08:25:40+02:00",
+                                    "Content": "Hallo Yassin,  könntest du bitte für mein Verständnis bitte nochmal folgendes klarstellen: Kann man den Test anfangen, unterbrechen und zu einem späteren Zeitpunkt fortsetzen?  Danke im Voraus Leo",
+                                    "Response to": "p1066184"
+                                },
+                                {
+                                    "Message_id": "p1066205",
+                                    "Author": "Leonard Luc Vaupel",
+                                    "DateTime": "2024-05-03T08:43:05+02:00",
+                                    "Content": "Ah, ich sehe gerade, dass man im Test unterbrechen kann.",
+                                    "Response to": "p1066197"
+                                },
+                                {
+                                    "Message_id": "p1069894",
+                                    "Author": "Jiawei Zhang",
+                                    "DateTime": "2024-05-14T11:11:52+02:00",
+                                    "Content": "Hi Yassin,  Ich dachte, dass jeder Freitag ein Test geben wird. Ist anscheinend nicht so, und der Test kommt „unregelmäßig“, richtig?  Gruß",
+                                    "Response to": "p1062144"
+                                },
+                                {
+                                    "Message_id": "p1069910",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-14T11:38:54+02:00",
+                                    "Content": "Hallo Jiawei,  in unserer Organisations-Ankündigung steht: \" 2) Wir planen für jedes Thema ein ISIS Quiz bereitzustellen. Wir zielen auf etwa 7 Themenbereiche dieses Semester ab. (Je nachdem, wie wir vorankommen, können es auch weniger sein.) 3) Das Quiz für ein Thema werden wir erst nachdem das Thema fertig behandelt wurde am Freitag hochladen. Zu jedem Quiz schreiben wir auch eine Ankündigung, damit ihr das Freischalten nicht verpasst. \"  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "p1069894"
+                                },
+                                {
+                                    "Message_id": "p1072878",
+                                    "Author": "Shin-Young Hur",
+                                    "DateTime": "2024-05-23T09:59:36+02:00",
+                                    "Content": "Hallo, wann wird der 2. Test freigeschaltet? Grüße",
+                                    "Response to": "p1069910"
+                                },
+                                {
+                                    "Message_id": "p1072900",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-23T10:34:50+02:00",
+                                    "Content": "Es steht doch in meiner vorherigen Antwort: \"3) Das Quiz für ein Thema werden wir erst nachdem das Thema fertig behandelt wurde am Freitag hochladen. Zu jedem Quiz schreiben wir auch eine Ankündigung, damit ihr das Freischalten nicht verpasst.\"",
+                                    "Response to": "p1072878"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Erster Test, Supply Chain Angriffe",
+                            "Discussion_Id": "594655",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1070499",
+                                    "Author": "Gabriel Behrendt",
+                                    "DateTime": "2024-05-15T14:02:35+02:00",
+                                    "Content": "Moin, ich kann nicht wirklich nachvollziehen, wieso bei der Frage Welche Technik wird z.B. bei kommerziellen Betriebssystemen eingesetzt, damit deren Anwender möglichst gut vor Supply-Chain-Angriffen geschützt sind? das die richtige Antwort ist: Digitale Signaturen zur Verifikation der Updatedateien auf Seite der Anwender. Nach meinem Verständnis, lösen Signaturen das Problem eines Supply Chain Angriffs nicht. Der Grund, wieso der Angreifer diesen Angriffsvektor nutzt ist ja eben, weil der Anwender allem blind vertraut, was vom Supplier kommt. Das Update ist authentisch, es kommt ja direkt vom Supplier, nur wurde der Supplier komprimittiert. Ich finde, dass der erste Punkt von Folie 51, Vorlesung 1 eben dies thematisiert und dementsprechen die richtige Antwort den Folien widerspricht. Habe ich da was falsch verstanden? Vielen Dank im Voraus. VG, Gabriel",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1070584",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-05-15T16:22:02+02:00",
+                                    "Content": "Hallo Gabriel,  ein Supply-Chain-Angriff kann an jedem Punkt in der Kette passieren, auch zwischen dem Anwender und dem Supplier. Wenn zum Beispiel der Router oder der Internetanbieter kompromittiert ist, können die Updatedateien geändert werden, bevor sie beim Anwender ankommen. Digitale Signaturen können nachweisen, ob der Supplier die letzte Stelle ist, an der die Daten geändert wurden.  Viele Grüße, Yassin",
+                                    "Response to": "p1070499"
+                                },
+                                {
+                                    "Message_id": "p1070729",
+                                    "Author": "Tarek Al Mashlab",
+                                    "DateTime": "2024-05-16T08:00:47+02:00",
+                                    "Content": "Aber hilft eine digitale Signatur auch dann, wenn der Supplier selbst kompromittiert ist? In den Folien steht Folgendes: \"Nur so lässt sich sicherstellen, dass das manipulierte Software-Update offiziell als Hersteller-Update digital signiert und somit als autorisierter Code vom Kunden akzeptiert und eingespielt wird.\" Das vermittelt den Eindruck, dass eine digitale Signatur nicht hilfreich ist, wenn der Supplier bereits gehackt wurde.  Viele Grüße",
+                                    "Response to": "p1070584"
+                                },
+                                {
+                                    "Message_id": "p1070763",
+                                    "Author": "Cataldo Pasquale Hermann De Simone",
+                                    "DateTime": "2024-05-16T09:52:44+02:00",
+                                    "Content": "Sehe ich genauso",
+                                    "Response to": "p1070729"
+                                },
+                                {
+                                    "Message_id": "p1071014",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-05-16T16:31:14+02:00",
+                                    "Content": "Hallo Tarek, ja genau das ist richtig, wenn der Supplier selbst kompromittiert ist, helfen die digitale Singnaturen hier nicht, weil sie in diesem Beispiel nur die Integrität der Dateien auf dem Weg zum Nutzer versichern.  Um digitale Signaturen zu verdeutlichen, können wir das Beispiel aus den Folien erweitern: Nehmen wir an, es gibt jetzt auch eine dritte Stelle, die Updates vollständig testet. Sie stellt eine zweite digitale Signatur nur dann zur Verfügung, wenn das Update sicher ist und keine Malware enthält. Der Nutzer erhält nun zwei Signaturen: Eine Signatur von dem Supplier, mit der man beweisen kann, dass das Update tatsächlich von dem Supplier kommt Eine zweite Signatur von der Prüfstelle, mit der man beweisen kann, dass das Update von der Prüfstelle überprüft wurde und frei von Malware ist. (die Signatur wird erstellt, nur wenn das stimmt) Wenn der Supplier jetzt kompromittiert ist, kann das Update automatisch abgelehnt werden, da die Prüfstelle festgestellt hat, dass das Update Malware enthält, und daher die zweite Signatur nicht erstellt und veröffentlicht hat. In diesem Szenario hat eigentlich die Prüfstelle uns geholfen, das Update auf Malware zu überprüfen. Und die ganze Zeit waren digitale Signaturen das Werkzeug, um unsere Annahmen (Der Supplier hat das Update erstellt, Die Prüfstelle hat das Update überprüft) zu bestätigen.  Ich kann dieses Video empfehlen, um die Einzelheiten der digitalen Signaturen besser zu verstehen: What are Digital Signatures? - Computerphile Viele Grüße Yassin",
+                                    "Response to": "p1070729"
+                                },
+                                {
+                                    "Message_id": "p1071109",
+                                    "Author": "Tarek Al Mashlab",
+                                    "DateTime": "2024-05-16T22:27:00+02:00",
+                                    "Content": "Jetzt ergibt das mehr Sinn. Die Verwirrung kam davon, dass in den Folien nichts über eine Prüfstelle erzählt wurde. Viele Grüße",
+                                    "Response to": "p1071014"
+                                },
+                                {
+                                    "Message_id": "p1071231",
+                                    "Author": "Erik Luger",
+                                    "DateTime": "2024-05-17T11:56:14+02:00",
+                                    "Content": "Inwiefern haette man dann auf diese Antwort im Test kommen sollen, wenn in den Folien nie von einer Pruefstelle gesprochen wurde ? Auch in der Frage, bzw der Antwort wird eine Pruefstelle nicht erwaehnt. Unter \"möglichst gut geschützt\" verstehe ich persoehnlich nicht, dass es scheinbar nur in bestimmten Faellen anwendbar ist.",
+                                    "Response to": "p1071014"
+                                },
+                                {
+                                    "Message_id": "p1071247",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-17T12:27:04+02:00",
+                                    "Content": "Hallo,  1) In den Folien: \"Die Nutzung von Signaturverfahren schaffen die Möglichkeit das Leugnen von digitalen Handlungen zu verhindern.\" Das bedeutet also, dass Signaturen belegen, dass eine digitale Handlung von einer bestimmten Person durchgeführt wurde. Z.B. kann man in diesem Kontext sagen: \"Die Signatur belegt, dass das Update vom Hersteller kommt und unkomprimittiert ist.\" Hier wäre kein Wissen von einer Prüfstelle notwendig gewesen und die Erklärung von Yassin dient nur zum weiteren Verständnis.  Falls während des Quizzes Verständnisprobleme herrschen, kannst du auch im Diskussionsforum fragen, was eine digitale Signatur genau bedeutet.  2) \"möglichst gut geschützt\" = \"So gut wie es eben geht\", d.h. dass es eventuell Fälle geben kann, in denen es nicht schützt, aber nichtsdestotrotz einen Schutz bieten kann.  Viele Grüße Frederik Pustelnik",
+                                    "Response to": "p1071231"
+                                },
+                                {
+                                    "Message_id": "p1071416",
+                                    "Author": "Minh Quân Tran",
+                                    "DateTime": "2024-05-17T17:18:06+02:00",
+                                    "Content": "Hallo, 1) Wird vorausgesetzt, dass der Hersteller, welcher die Updates zur Verfügung stellt, das Update natürlich auch prüft und gegebenfalls eingeschleuste Malware findet/entfernt bevor das Update mit einer Signatur ausgestellt wird? Und wäre ansonsten eine nachlässige Überprüfung die einzige Schwachstelle, daher eine Signatur der best \"mögliche\" Schutz gegen Supply Chain Angriffe?  2) Ich hab noch eine weitere kurze Frage zur anderen Aufgabe: Das Protokoll (eine PDF-Datei) einer Vereinsversammlung vor einigen Jahren ist nicht mehr zu finden, und jetzt streiten sich zwei Vereinsmitglieder darüber, was genau damals beschlossen wurde. Antwort für hauptsächlich verletztes Cyber-Sicherheitsziele ist die Nichtabstreitbarkeit. Wäre hier auch die Integrität verletzt, da gespeicherte Informationen/Dateien (PDF) unerlaubt geändert bzw gelöscht wurden?  (Und ja ich weiß dass die Frage \"hauptsächlich\" sagt, Frage dient nur des allgemeinen Verständnisses).  Grüße Minh",
+                                    "Response to": "p1071247"
+                                },
+                                {
+                                    "Message_id": "p1072001",
+                                    "Author": "Mhd Yassin Suliman",
+                                    "DateTime": "2024-05-21T11:07:52+02:00",
+                                    "Content": "Hallo Minh, 1.1) Man kann davon ausgehen, dass der Hersteller alles in seiner Macht tut, um die Sicherheit eines Updates zu gewährleisten. Dabei gibt es aber ein breites Spektrum. Handelt es sich beispielsweise um einen großen Hersteller wie Microsoft, kann man erwarten, dass die Updates sicher bei den Nutzern ankommen. Auf der anderen Seite kann bei einem einzelnen Entwickler, der in seiner Freizeit eine Open-Source-Bibliothek pflegt (siehe xz-Backdoor), aufgrund begrenzter Ressourcen wie Zeit und Geld die Sicherheit nicht so einfach gewährleistet werden. 1.2) Eine Signatur ist der bestmögliche Schutz gegen Supply-Chain-Angriffe, die auftreten können, nachdem der Hersteller auf den \"Update an Nutzer senden\" Knopf gedrückt hat. 2) Hier würde auch die Integrität verletzt, aber es geht mehr um die Bedeutung dieser verlorenen Informationen, also das, was beschlossen wurde. Viele Grüße. Yassin",
+                                    "Response to": "p1071416"
+                                },
+                                {
+                                    "Message_id": "p1071501",
+                                    "Author": "Erik Luger",
+                                    "DateTime": "2024-05-18T10:47:13+02:00",
+                                    "Content": "Aber heisst es nicht in der Vorlesung, dass es genau das eben nicht bedeutet? Man kann zwar mit der Signatur nachvollziehen, dass das Update tatsaechlich von dem gewuenschten Hersteller kommt, ob der Hersteller und damit das Update komprimittiert ist kann man ohne Pruefstelle aber nicht feststellen.",
+                                    "Response to": "p1071247"
+                                },
+                                {
+                                    "Message_id": "p1072037",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-05-21T11:51:52+02:00",
+                                    "Content": "Die Frage zielt nicht darauf ab, dass wir jedes einzelne mögliche Szenario betrachten. Wenn natürlich alle externen Prüfstellen (das kann auch User inkludieren) und die Sicherheit des Herstellers versagen, kann ein Supply-Chain Angriff unter Umständen nicht erkannt werden. Allerdings fragen wir ja nach \"möglichst gut geschützt\".",
+                                    "Response to": "p1071501"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Whatsappgruppe",
+                            "Discussion_Id": "591750",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1065882",
+                                    "Author": "Francisco Maria Maasberg",
+                                    "DateTime": "2024-05-02T14:17:31+02:00",
+                                    "Content": "Hallo, gibt es bereits eine Whatsappgruppe bzw. hätte jemand Interesse daran?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1065973",
+                                    "Author": "Leonard Luc Vaupel",
+                                    "DateTime": "2024-05-02T16:22:01+02:00",
+                                    "Content": "Ja, gibt es, check DM",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066023",
+                                    "Author": "Nour Alislam Hamidi",
+                                    "DateTime": "2024-05-02T17:35:32+02:00",
+                                    "Content": "Würde mich auch interessieren",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066043",
+                                    "Author": "Thomas Doan",
+                                    "DateTime": "2024-05-02T18:02:29+02:00",
+                                    "Content": "+1 mich bitte auch hinzufügen bzw. mir bitte den Einladungslink schicken",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066078",
+                                    "Author": "Rafael Diego Wilhelmi",
+                                    "DateTime": "2024-05-02T19:16:26+02:00",
+                                    "Content": "Ich pls auch",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066090",
+                                    "Author": "Anton Daniel Wolter",
+                                    "DateTime": "2024-05-02T19:39:20+02:00",
+                                    "Content": "Mich auch bitte",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066155",
+                                    "Author": "Felix Nolte",
+                                    "DateTime": "2024-05-02T22:57:19+02:00",
+                                    "Content": "Mich gerne auch",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066162",
+                                    "Author": "Evelyn Luise Brinkmann",
+                                    "DateTime": "2024-05-02T23:09:34+02:00",
+                                    "Content": "Kannst du mir den link pls auch schicken",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066173",
+                                    "Author": "Mohamed Hedi Ben Brahim",
+                                    "DateTime": "2024-05-03T01:16:06+02:00",
+                                    "Content": "Mich bitte auch",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066193",
+                                    "Author": "Maria Omotayo Mamie Cole",
+                                    "DateTime": "2024-05-03T08:19:42+02:00",
+                                    "Content": "Könnte mir bitte jemand auch den link zuschicken?",
+                                    "Response to": "p1065973"
+                                },
+                                {
+                                    "Message_id": "p1066045",
+                                    "Author": "Tarek Al Mashlab",
+                                    "DateTime": "2024-05-02T18:05:39+02:00",
+                                    "Content": "Mich auch",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066066",
+                                    "Author": "David Karic",
+                                    "DateTime": "2024-05-02T18:46:11+02:00",
+                                    "Content": "i will auch",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066169",
+                                    "Author": "Egemen Kamis",
+                                    "DateTime": "2024-05-03T00:07:13+02:00",
+                                    "Content": "Mich bitte auch",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066324",
+                                    "Author": "Raphael Paolino Niebuhr",
+                                    "DateTime": "2024-05-03T11:43:27+02:00",
+                                    "Content": "Mich bitte auch. Oder den Link in einem neuen Post teilen.",
+                                    "Response to": "p1066169"
+                                },
+                                {
+                                    "Message_id": "p1066365",
+                                    "Author": "Vanessa Larisa Szostak",
+                                    "DateTime": "2024-05-03T12:23:38+02:00",
+                                    "Content": "Mir bitte auch",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066379",
+                                    "Author": "Tom Louis Klein",
+                                    "DateTime": "2024-05-03T12:38:11+02:00",
+                                    "Content": "Würde mich auch sehr interessieren!",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066418",
+                                    "Author": "Nadjiballah Boumaza",
+                                    "DateTime": "2024-05-03T13:36:09+02:00",
+                                    "Content": "ja wäre gut wenn jemand hier den link reinschicken kann",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066425",
+                                    "Author": "Selina Herschlein",
+                                    "DateTime": "2024-05-03T13:47:15+02:00",
+                                    "Content": "Könntet ihr mich auch hinzufügen ? Danke schonmal!",
+                                    "Response to": "p1065882"
+                                },
+                                {
+                                    "Message_id": "p1066433",
+                                    "Author": "Mehrnaz Asad Pour",
+                                    "DateTime": "2024-05-03T14:01:36+02:00",
+                                    "Content": "https://chat.whatsapp.com/Iyivq6qsj0G5jZ3u4f077d",
+                                    "Response to": "p1066425"
+                                },
+                                {
+                                    "Message_id": "p1066824",
+                                    "Author": "Tursun Tiliwaldi",
+                                    "DateTime": "2024-05-05T14:36:58+02:00",
+                                    "Content": "Könnte jemand mich auch hinzufügen ? Vielen Danke!",
+                                    "Response to": "p1066433"
+                                },
+                                {
+                                    "Message_id": "p1067177",
+                                    "Author": "Martin Christoph Kühner",
+                                    "DateTime": "2024-05-06T13:05:37+02:00",
+                                    "Content": "Same here please :D",
+                                    "Response to": "p1066824"
+                                },
+                                {
+                                    "Message_id": "p1067438",
+                                    "Author": "Bassel Hossam Sewesy",
+                                    "DateTime": "2024-05-06T18:59:21+02:00",
+                                    "Content": "https://chat.whatsapp.com/Iyivq6qsj0G5jZ3u4f077d",
+                                    "Response to": "p1066824"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Vorlesung",
+                            "Discussion_Id": "589335",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1062218",
+                                    "Author": "Hakan Tutulmaz",
+                                    "DateTime": "2024-04-24T12:37:51+02:00",
+                                    "Content": "Ich habe eine andere Vorlesung zu selben Zeit wie dieses Modul, deswegen wollte ich fragen, ob es empfohlen wird, die VL beizuwohnen oder es einfach möglich ist, die Folien zu lesen ohne einen Nachteil.  Kann es sein, dass Sachen vermittelt werden, die nicht in den Folien stehen?",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1062299",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-04-24T14:00:18+02:00",
+                                    "Content": "Hallo Hakan,  generell empfehlen wir euch natürlich dringend, die VL zu hören. Oftmals gibt Prof. Seifert zu einigen Dingen Beispiele, die nicht auf den Folien stehen, aber einem deutlich besseren Verständnis dienen. Hierbei kann es sein, dass also stellenweise Inhalte vermittelt werden, die nicht in den Foliensätzen zu finden sind.",
+                                    "Response to": "p1062218"
+                                }
+                            ]
+                        },
+                        {
+                            "Discussion_Name": "Upload Vorlesungsunterlagen",
+                            "Discussion_Id": "586332",
+                            "Messages": [
+                                {
+                                    "Message_id": "p1057579",
+                                    "Author": "Felix Nolte",
+                                    "DateTime": "2024-04-16T11:36:22+02:00",
+                                    "Content": "Hallo, Werden die Vorlesungsunterlagen insbesondere die Infos zur Organistion, Anmeldung und Tests auch hier auf Isis hochgeladen? Ich kann leider nächste Woche nicht zum Präsenz Termin erscheinen. VG Felix",
+                                    "Response to": "This is the original post"
+                                },
+                                {
+                                    "Message_id": "p1057611",
+                                    "Author": "Frederik Pustelnik",
+                                    "DateTime": "2024-04-16T12:12:25+02:00",
+                                    "Content": "Ja, die Unterlagen werden selbstverstaendlich noch hochgeladen. Es kann aber sein, dass dies erst nach der eigentlichen VL passiert.  Zusaetzlich werde ich dann auch noch einen Ankuendigungspost machen, in dem diese Informationen nochmals zusammengefasst werden.",
+                                    "Response to": "p1057579"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

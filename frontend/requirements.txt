@@ -1,8 +1,0 @@
-llama-index-llms-ollama
-llama-index-embeddings-ollama
-llama-index-readers-file
-ratings
-flask
-pymongo
-#ollama pull nomic-embed-text
-#ollama run llama3
