@@ -1,52 +1,81 @@
 import asyncio
 import aiohttp
-from nio import AsyncClient, LoginResponse, RoomMessageText
+from nio import AsyncClient, LoginResponse, RoomMessageText, InviteEvent
 from config import Config
 
 class MatrixBot:
     def __init__(self, config_path):
         self.config = Config(config_path)
-        self.client = AsyncClient(self.config.homeserver_url, self.config.user_id)
+
+        # Init Matrix client WITHOUT password login
+        self.client = AsyncClient(
+            self.config.homeserver_url,
+            self.config.user_id,
+            device_id="BOTDEVICE",
+            store_path="./store"  # needed for sync token
+        )
+
+        # Use access token instead of login()
+        self.client.access_token = self.config.access_token
+        self.client.user_id = self.config.user_id
+
         self.first_sync = True  # Flag to mark the first sync
 
     async def login(self):
-        response = await self.client.login(self.config.user_password)
-        if isinstance(response, LoginResponse):
-            print("Login successful")
-            return True
-        else:
-            print(f"Failed to log in: {response}")
-            return False
+
+        # With access token we do not login again
+        print("Using access token authentication")
+        return True
 
     async def start_listening(self):
-        # Use sync_forever with a custom loop to handle the first sync token
-        async def sync_callback():
-            await self.client.sync(timeout=30000, full_state=True)  # Perform a full state sync initially
-            self.first_sync = False  # After the first sync, unset the flag
-            await self.client.sync_forever(timeout=30000)
-
+        # Register callback for new messages
         self.client.add_event_callback(self.message_callback, RoomMessageText)
-        await sync_callback()
+
+        # Auto-join rooms when invited
+        self.client.add_event_callback(self.invite_callback, InviteEvent)
+
+
+        print("Starting sync loop...")
+        await self.client.sync_forever(timeout=30000, full_state=True)
+
+    async def invite_callback(self, room, event):
+        print(f"Got invite to room {room.room_id}, joining...")
+        await self.client.join(room.room_id)
+
 
     async def message_callback(self, room, event):
+        # Ignore first full sync events
         if self.first_sync:
+            self.first_sync = False
             return
 
-        if room.encrypted:
-            try:
-                decryption_result = await self.client.decrypt_event(event)
-                event = decryption_result.plaintext_event
-            except Exception as e:
-                print(f"Error decrypting event: {e}")
-                return
+        # Ignore our own messages
+        if event.sender == self.client.user_id:
+            return
 
-        if event.sender != self.client.user_id and event.body.startswith("@TutorAI"):
-                response = await self.query_backend(event.body)
-                await self.client.room_send(
-                    room_id=room.room_id,
-                    message_type="m.room.message",
-                    content={"msgtype": "m.text", "body": response["answer"]}
-                )
+        # Ignore encrypted rooms (we do not support E2E)
+        if room.encrypted:
+            print("Skipping encrypted message (bot cannot decrypt).")
+            return
+
+        print("Received message:", repr(event.body))
+
+        # Only respond to messages starting with #TutorAI
+        if event.body.startswith("#TutorAI"):
+            print(f"Received question: {event.body}")
+
+            response = await self.query_backend(event.body)
+
+            answer = response.get("answer", "Kein Backend verfügbar.")
+
+            await self.client.room_send(
+                room_id=room.room_id,
+                message_type="m.room.message",
+                content={
+                    "msgtype": "m.text",
+                    "body": answer
+                }
+            )
 
     async def query_backend(self, question):
         url = 'http://localhost:5000/ask'
