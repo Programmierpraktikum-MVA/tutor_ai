@@ -1,6 +1,6 @@
 import logging
 from pathlib import Path
-from typing import Awaitable, Callable, Optional
+from typing import Awaitable, Callable, Optional, Set
 from nio import AsyncClient, InviteEvent, RoomMessageText  # type: ignore[import]
 
 from config import MatrixConfig
@@ -15,9 +15,11 @@ class MatrixBot:
         self,
         config: MatrixConfig,
         on_text_message: Callable[[str, str, str], Awaitable[Optional[str]]],
+        allowed_rooms: Optional[Set[str]] = None,
     ):
         self.config = config
         self.on_text_message = on_text_message
+        self.allowed_rooms = allowed_rooms
         Path(self.config.store_path).mkdir(parents=True, exist_ok=True)
 
         self.client = AsyncClient(
@@ -40,6 +42,14 @@ class MatrixBot:
         await self.client.sync_forever(timeout=30000, full_state=True)
 
     async def _invite_callback(self, room, event) -> None:
+        if self.allowed_rooms and room.room_id not in self.allowed_rooms:
+            logger.info(
+                "Ignoring invite to room %s by %s (not in allowed list)",
+                room.room_id,
+                event.sender,
+            )
+            return
+
         logger.info("Invited to room %s by %s; joining", room.room_id, event.sender)
         await self.client.join(room.room_id)
 
@@ -70,6 +80,12 @@ class MatrixBot:
 
         if room.encrypted:
             logger.warning("Skipping encrypted message in %s (unsupported)", room.room_id)
+            return False
+
+        if self.allowed_rooms and room.room_id not in self.allowed_rooms:
+            logger.info(
+                "Skipping message in room %s (not in allowed list)", room.room_id
+            )
             return False
 
         return True

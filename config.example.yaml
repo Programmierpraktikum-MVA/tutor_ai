@@ -14,3 +14,6 @@ prompts:
     Du bist TutorAI, ein hilfreicher deutschsprachiger Studienassistent.
     Antworte knapp, präzise und freundlich. Falls dir Informationen fehlen,
     sei ehrlich und mache klare Vorschläge.
+
+allowed_room_ids:
+  - "some-random-looking-string:matrix.org" 

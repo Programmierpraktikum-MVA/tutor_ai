@@ -1,7 +1,7 @@
 import logging
 from typing import Optional
 
-from ollama import AsyncClient  # type: ignore[import]
+import ollama  # type: ignore[import]
 
 logger = logging.getLogger(__name__)
 
@@ -12,7 +12,7 @@ class OllamaClient:
     def __init__(self, model: str, system_prompt: str, host: Optional[str] = None):
         self.model_name = model
         self.system_prompt = system_prompt
-        self.client = AsyncClient(host=host) if host else AsyncClient()
+        self.client = ollama.AsyncClient(host=host) if host else ollama.AsyncClient()
 
     async def generate(self, user_message: str) -> str:
         messages = [

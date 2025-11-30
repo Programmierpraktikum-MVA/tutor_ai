@@ -3,48 +3,42 @@
 
 Tutor AI is an innovative project designed to harness the power of advanced language models to provide educational assistance. Built on the LLaMa3 model, Tutor AI offers users personalized learning experiences and intelligent tutoring, that includes Q&A, inspiring brainstorming and up-to-date information.
 
-## Features
+## Features (current)
 
-- **Personalized Tutoring:** Customized learning paths for each user based on User Specific knowledge.
-- **Question Answering:** Instant responses to academic queries.
-- **Rubber Ducking Partner:** Bounce your Ideas off of Tutor AI and get feedback like a real life conversation 
+- Matrix chatbot (no RAG): Matrix text → local Ollama (llama3.1) → reply back to the room
+- Commands: `!help`, `!status`
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-- Python > 3.8 and < 3.12
-- Pip and virtualenv installed on your machine
-- cuda 11 or 12, change faiss version in backend/requirements.txt accordingly (e.g. faiss-gpu-cu12)
+- Python 3.8–3.11, pip, virtualenv
+- Local Ollama with model `llama3.1` (or set your model in `config.yaml`)
+- Matrix account + access token
 
-## Installation
+## Setup
 
-Follow these steps to get your Tutor AI up and running:
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/Programmierpraktikum-MVA/tutor_ai.git
-   cd tutorai
-   ```
-
-2. **Set up a LLaMa3**
-
-    Follow Instructions given in LLaMa3 `README.md`
-
-
-3. **Install dependencies**
-
-    None existing yet...
-
+1) Clone the repo and activate your virtual environment.  
+2) Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
+3) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials, allowed rooms ids; adjust Ollama host/model if needed.  
+4) Prepare the Ollama model:
+   ```bash
+   ollama pull llama3.1
+   ollama serve
+   ```
+
+## Start
+
+From the repo root:
+```bash
+CONFIG_PATH=config.yaml python -m bot.main
+```
 
 ## Usage
 
-Run the Tutor AI application using:
-
-//TODO
+- Invite the bot to a **non-E2E** room (it auto-joins if the room is allowed).
+- Any new message in an allowed room triggers a reply; commands via `!help` and `!status`.
 
 ## License
 

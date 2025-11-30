@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Dict, Optional, Set
 
 import yaml
 
@@ -11,6 +11,8 @@ DEFAULT_SYSTEM_PROMPT = (
     "Falls dir Informationen fehlen, sei ehrlich und mache klare Vorschläge, "
     "wie der Nutzer weiter vorgehen kann."
 )
+
+DEFAULT_ALLOWED_ROOMS = {"!JSFGmEgwCdNkLZEhuY:matrix.org"}
 
 
 @dataclass
@@ -36,6 +38,7 @@ class Config:
         self.raw = raw
         self.matrix = self._load_matrix(raw.get("matrix", {}))
         self.ollama = self._load_ollama(raw.get("ollama", {}), raw.get("prompts", {}))
+        self.allowed_rooms = self._load_allowed_rooms(raw)
 
     @classmethod
     def load(cls, path: str | Path) -> "Config":
@@ -63,3 +66,21 @@ class Config:
             host=data.get("host"),
             system_prompt=system_prompt,
         )
+
+    def _load_allowed_rooms(self, raw: Dict[str, Any]) -> Set[str]:
+        # Support both spellings in case of typos in existing files.
+        value = raw.get("allowed_room_ids")
+        if value is None:
+            value = raw.get("allowed_rooms_ids")
+
+        if value is None:
+            return set(DEFAULT_ALLOWED_ROOMS)
+
+        if isinstance(value, str):
+            rooms = {room.strip() for room in value.split(",") if room.strip()}
+        elif isinstance(value, list):
+            rooms = {str(room).strip() for room in value if str(room).strip()}
+        else:
+            raise ValueError("allowed_room_ids must be a string or list")
+
+        return rooms or set(DEFAULT_ALLOWED_ROOMS)
