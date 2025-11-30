@@ -34,7 +34,7 @@ Folgen Sie diesen Schritten, um LLama3 auf Ihrem System zu installieren:
    Installieren Sie die notwendigen Pakete mit pip:
 
    ```bash
-   pip install accelerate==0.29.3 bitsandbytes==0.43.1 transformers==4.40.0
+   pip install accelerate==0.29.3 bitsandbytes==0.48.1 transformers==4.57.1
    ```
 
 4. **Hugging Face Token konfigurieren**

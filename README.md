@@ -12,8 +12,9 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- Python 3.8 or newer
+- Python > 3.8 and < 3.12
 - Pip and virtualenv installed on your machine
+- cuda 11 or 12, change faiss version in backend/requirements.txt accordingly (e.g. faiss-gpu-cu12)
 
 ## Installation
 

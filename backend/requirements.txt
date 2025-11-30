@@ -14,7 +14,7 @@ spaces
 torch==2.2.0
 transformers
 sentence-transformers
-faiss-gpu
+faiss-cpu
 datasets
 accelerate
 bitsandbytes
