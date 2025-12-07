@@ -6,8 +6,7 @@ matrix:
   store_path: "./store"
 
 ollama:
-  model: "gemma3:12b"
-  # host: "http://localhost:11434"  # Optional, defaults to local socket
+  model: "gemma3:12b" #fits nicely into 16GB VRAM and is decent model
 
 prompts:
   system_prompt: |
@@ -16,5 +15,5 @@ prompts:
     sei ehrlich und mache klare Vorschläge.
 
 allowed_room_ids:
-  - "some-random-looking-string:matrix.org" 
+  - "some-random-looking-string:matrix.org"  #our test room
 n
