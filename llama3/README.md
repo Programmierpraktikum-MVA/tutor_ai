@@ -49,7 +49,7 @@ Folgen Sie diesen Schritten, um LLama3 auf Ihrem System zu installieren:
 
 5. **Anwendung starten**
 
-   Starten Sie die Anwendung durch Ausführen der `startup.py` Datei:
+   Starten Sie die Anwendung durch Ausführen der `setup.py` Datei:
 
    ```bash
    python setup.py
