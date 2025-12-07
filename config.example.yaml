@@ -6,7 +6,7 @@ matrix:
   store_path: "./store"
 
 ollama:
-  model: "llama3.1"
+  model: "gemma3:12b"
   # host: "http://localhost:11434"  # Optional, defaults to local socket
 
 prompts:

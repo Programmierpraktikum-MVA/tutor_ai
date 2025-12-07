@@ -1,17 +1,17 @@
 
 # Tutor AI
 
-Tutor AI is an innovative project designed to harness the power of advanced language models to provide educational assistance. Built on the LLaMa3 model, Tutor AI offers users personalized learning experiences and intelligent tutoring, that includes Q&A, inspiring brainstorming and up-to-date information.
+ Tutor AI is an innovative project designed to harness the power of advanced language models to provide educational assistance. Built on locally hosted LLMs via Ollama, Tutor AI offers users personalized learning experiences and intelligent tutoring, that includes Q&A, inspiring brainstorming and up-to-date information.
 
 ## Features (current)
 
-- Matrix chatbot (no RAG): Matrix text → local Ollama (llama3.1) → reply back to the room
-- Commands: `!help`, `!status`
+ - Matrix chatbot (no RAG): Matrix text → local Ollama (`gemma3:12b` by default) → reply back to the room
+  - Commands: `!help`, `!status`
 
 ## Prerequisites
 
 - Python 3.8–3.11, pip, virtualenv
-- Local Ollama with model `llama3.1` (or set your model in `config.yaml`)
+- Local Ollama with model `gemma3:12b` (or set your model in `config.yaml`)
 - Matrix account + access token
 
 ## Setup
@@ -25,11 +25,17 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
    ```bash
    pip install -r requirements.txt
    ```
-3) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials, allowed rooms ids; adjust Ollama host/model if needed.  
+3) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials, allowed rooms ids; adjust Ollama host/model if needed.
+
+4) Start Ollama and pull the Ollama model (e.g. `gemma3:12b`):
+   ```bash
+   ollama serve
+   ollama pull gemma3:12b
+   ```
 
 ## Start
 
-From the repo root:
+From the repo root (Ollama server running in another shell):
 ```bash
 CONFIG_PATH=config.yaml python3 -m bot.main
 ```
