@@ -16,23 +16,22 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
 
 ## Setup
 
-1) Clone the repo and activate your virtual environment.  
+1) Clone the repo and activate your virtual environment. For example with
+   ```bash
+   python3 -m venv .venv
+   . .venv/bin/activate
+   ```
 2) Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 3) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials, allowed rooms ids; adjust Ollama host/model if needed.  
-4) Prepare the Ollama model:
-   ```bash
-   ollama pull llama3.1
-   ollama serve
-   ```
 
 ## Start
 
 From the repo root:
 ```bash
-CONFIG_PATH=config.yaml python -m bot.main
+CONFIG_PATH=config.yaml python3 -m bot.main
 ```
 
 ## Usage
