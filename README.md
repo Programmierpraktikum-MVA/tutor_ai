@@ -34,14 +34,14 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
 
 ## How to use
 
-1) Activate your virtual environment (if not already active):
+1) Start Ollama: `ollama serve`
+2) Activate your virtual environment (if not already active):
    ```bash
    . .venv/bin/activate
    ```
-2) Ensure Ollama is running (`ollama serve` in another shell).
 3) From the repo root, start the bot:
    ```bash
-   CONFIG_PATH=config.yaml python3 -m bot.main
+   python3 -m bot.main
    ```
 4) Invite the bot to a **non-E2E** room listed in `allowed_room_ids`. Any message in an allowed room triggers a reply; commands: `!help`, `!status`.
 
