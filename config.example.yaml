@@ -1,6 +1,6 @@
 matrix:
-  homeserver_url: "https://matrix.tu-berlin.de"
-  user_id: "@tutorai:matrix.tu-berlin.de"
+  homeserver_url: "https://matrix-client.matrix.org" #"https://matrix.tu-berlin.de" 
+  user_id: "@tutor_ai:matrix.org"       #"@tutorai:matrix.tu-berlin.de" 
   access_token: "REPLACE_ME_WITH_ACCESS_TOKEN"
   device_id: "BOTDEVICE"
   store_path: "./store"
@@ -17,3 +17,4 @@ prompts:
 
 allowed_room_ids:
   - "some-random-looking-string:matrix.org" 
+n
