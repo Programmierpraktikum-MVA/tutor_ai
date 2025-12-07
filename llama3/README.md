@@ -59,7 +59,7 @@ Folgen Sie diesen Schritten, um LLama3 auf Ihrem System zu installieren:
 
 ## Nutzung
 
-Nachdem Sie LLama3 installiert und die `startup.py` ausgeführt haben, sollte die Anwendung laufen und bereit für die Nutzung sein.
+Nachdem Sie LLama3 installiert und die `setup.py` ausgeführt haben, sollte die Anwendung laufen und bereit für die Nutzung sein.
 
 Dazu kann die Datei `prompting.py` genutzt werden und Dient als Schnittstellen zwischen der LLM und einem UI. Die hier eingegebenen Prompts werden an die LLM weitergeleiten.
    ```bash
