@@ -14,7 +14,7 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
 - Local Ollama with model `gemma3:12b` (or set your model in `config.yaml`)
 - Matrix account + access token
 
-## Setup (first time)
+## Setup (first time) 
 
 1) Clone the repo and create/activate a virtual environment:
    ```bash
@@ -25,6 +25,18 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
    ```bash
    pip install -r requirements.txt
    ```
+   Für CPU-Only zusätzlich:
+   ```bash
+   pip install --index-url https://download.pytorch.org/whl/cpu \ 
+   -r requirements-cpu.txt
+   ```
+   Für GPU-Server:
+   ```bash
+   pip install --index-url https://download.pytorch.org/whl/cu121 \ 
+   -r requirements-cu121.txt
+   ```
+   
+
 3) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials, allowed room IDs; adjust Ollama host/model if needed.
 4) Start Ollama once and pull the model:
    ```bash

@@ -1,4 +1,28 @@
-matrix-nio[e2e]>=0.24.0,<0.25
+# Web / API
+fastapi
+uvicorn
+pydantic
 aiohttp>=3.9.5,<4.0
+
+# Core / Utils
+numpy
+scipy
+pandas
+tqdm
+requests
+python-dotenv
 PyYAML>=6.0.1,<7.0
+
+# NLP / LLM
+transformers
+sentence-transformers
+tokenizers
 ollama>=0.2.0,<0.3
+
+# Retrieval / Vector DB
+qdrant-client
+
+# Knowledge Graph / Math
+neo4j
+networkx
+matrix-nio[e2e]>=0.24.0,<0.25
