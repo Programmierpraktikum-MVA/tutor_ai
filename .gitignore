@@ -22,3 +22,6 @@
 config.yaml
 .venv/
 __pycache__/
+rag/crawler/selenium/SelEnv/
+*.mp4
+legacy/
