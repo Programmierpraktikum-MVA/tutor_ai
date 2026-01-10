@@ -1,7 +1,7 @@
 import logging
 from pathlib import Path
 from typing import Awaitable, Callable, Optional, Set
-from nio import AsyncClient, InviteEvent, RoomMessageText  # type: ignore[import]
+from nio import AsyncClient, InviteEvent, RoomMessageText
 
 from config import MatrixConfig
 
