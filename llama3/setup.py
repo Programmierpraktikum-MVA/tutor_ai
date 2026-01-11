@@ -6,7 +6,7 @@ from transformers import (AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfi
 config_data = json.load(open("config.json"))
 HF_TOKEN = config_data["HF_TOKEN"]
 
-model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
+model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
 #Quantization Configuration
 

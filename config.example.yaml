@@ -1,0 +1,29 @@
+matrix:
+  homeserver_url: "https://matrix-client.matrix.org" #"https://matrix.tu-berlin.de" 
+  user_id: "@tutor_ai:matrix.org"       #"@tutorai:matrix.tu-berlin.de" 
+  access_token: "REPLACE_ME_WITH_ACCESS_TOKEN"
+  device_id: "BOTDEVICE"
+  store_path: "./store"
+
+ollama:
+  model: "gemma3:12b" #fits nicely into 16GB VRAM and is decent model
+  host: "http://localhost:11434"
+
+embeddings:
+  model: "nomic-embed-text:v1.5"
+  host: "http://localhost:11434"
+
+qdrant:
+  url: "http://localhost:6333"
+  api_key: "REPLACE_ME"
+  collection: "tutor_ai"
+  prefer_grpc: false
+
+prompts:
+  system_prompt: |
+    Du bist TutorAI, ein hilfreicher deutschsprachiger Studienassistent.
+    Antworte knapp, präzise und freundlich. Falls dir Informationen fehlen,
+    sei ehrlich und mache klare Vorschläge.
+
+allowed_room_ids:
+  - "some-random-looking-string:matrix.org"  #our test room
