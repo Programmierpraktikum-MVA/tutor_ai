@@ -14,7 +14,7 @@ embeddings:
   host: "http://localhost:11434"
 
 qdrant:
-  url: "http://localhost:6333"
+  url: "http://qdrant-url"
   api_key: "REPLACE_ME"
   collection: "tutor_ai"
   prefer_grpc: false
