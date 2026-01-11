@@ -1,2 +1,0 @@
-import scrape_course
-
