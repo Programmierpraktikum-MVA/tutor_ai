@@ -8,13 +8,15 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
 - Matrix chatbot (no RAG): Matrix text → local Ollama (`gemma3:12b` by default) → reply back to the room
 - Commands: `!help`, `!status`
 - RAG ingestion pipeline (ISIS): parse → chunk → embed (Ollama) → upsert to Qdrant
+- Selenium crawler for ISIS/MOSES data (writes JSON to `rag/crawler/data`)
 
 ## Prerequisites
 
 - Python 3.8–3.11, pip, virtualenv
 - Local Ollama with model `gemma3:12b` (or set your model in `config.yaml`)
-- Matrix account + access token
-- Qdrant instance reachable from this machine
+- Matrix account + access token (for the bot)
+- Qdrant instance reachable from this machine (for ingestion)
+- ffmpeg (only required for the crawler)
 
 ## Setup (first time) 
 
@@ -29,13 +31,13 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
    ```
    Für CPU-Only zusätzlich:
    ```bash
-   pip install --index-url https://download.pytorch.org/whl/cpu \ 
-   -r requirements-cpu.txt
+   pip install --index-url https://download.pytorch.org/whl/cpu \
+     -r requirements-cpu.txt
    ```
    Für GPU-Server:
    ```bash
-   pip install --index-url https://download.pytorch.org/whl/cu121 \ 
-   -r requirements-cu121.txt
+   pip install --index-url https://download.pytorch.org/whl/cu121 \
+     -r requirements-cu121.txt
    ```
    
 
@@ -45,6 +47,29 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
    ollama serve
    ollama pull gemma3:12b
    ```
+
+## Crawler setup (ISIS/MOSES)
+
+The crawler lives in `rag/crawler/selenium` and has its own README with full
+details: `rag/crawler/selenium/README.md`.
+
+Minimal setup:
+
+```bash
+python3 -m venv SelEnv
+. SelEnv/bin/activate
+pip install -r rag/crawler/selenium/requirements.txt
+sudo apt install ffmpeg
+```
+
+Run the crawler from repo root:
+
+```bash
+python3 rag/crawler/selenium/main.py <username> <password>
+```
+
+Optional environment variables: `CRAWLER_DATA_DIR`, `ISIS_COURSE_ID`,
+`WHISPER_DEVICE`.
 
 ## Configuration (embeddings + Qdrant)
 
@@ -85,10 +110,7 @@ You can also override Qdrant settings via environment variables:
    ollama pull nomic-embed-text:v1.5
    ```
 2) Fill in Qdrant settings in `config.yaml` (see `config.example.yaml` for keys).
-3) Run the crawler to refresh `rag/crawler/data`:
-   ```bash
-   python3 rag/crawler/selenium/main.py <username> <password>
-   ```
+3) Run the crawler to refresh `rag/crawler/data` (see crawler section above).
 4) Ingest into Qdrant:
    ```bash
    python3 -m rag.ingest --data-root rag/crawler/data --config config.yaml

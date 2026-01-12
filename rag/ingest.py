@@ -6,9 +6,9 @@ import logging
 import os
 import re
 from dataclasses import dataclass
-from hashlib import sha1
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional
+from uuid import NAMESPACE_URL, uuid5
 
 from qdrant_client.http.models import PointStruct
 
@@ -174,18 +174,33 @@ def _aggregate_transcript(
     if not 0 <= overlap_ratio < 1:
         raise ValueError("overlap_ratio must be in [0, 1).")
 
+    cleaned: List[Dict[str, object]] = []
+    for entry in timestamps:
+        if not isinstance(entry, dict):
+            continue
+        start = entry.get("start")
+        try:
+            start_val = float(start)
+        except (TypeError, ValueError):
+            continue
+        text = str(entry.get("text", "")).strip()
+        cleaned.append({"start": start_val, "text": text})
+
+    if not cleaned:
+        return []
+
     aggregated: List[Dict[str, object]] = []
     idx = 0
-    total = len(timestamps)
+    total = len(cleaned)
     step = window_seconds * (1 - overlap_ratio)
 
     while idx < total:
-        start_time = float(timestamps[idx].get("start", 0.0))
+        start_time = float(cleaned[idx]["start"])
         end_time = start_time + window_seconds
         text_parts: List[str] = []
         scan = idx
-        while scan < total and float(timestamps[scan].get("start", 0.0)) < end_time:
-            text = str(timestamps[scan].get("text", "")).strip()
+        while scan < total and float(cleaned[scan]["start"]) < end_time:
+            text = str(cleaned[scan].get("text", "")).strip()
             if text:
                 text_parts.append(text)
             scan += 1
@@ -198,7 +213,7 @@ def _aggregate_transcript(
         )
 
         next_start = start_time + step
-        while idx < total and float(timestamps[idx].get("start", 0.0)) < next_start:
+        while idx < total and float(cleaned[idx]["start"]) < next_start:
             idx += 1
 
     return aggregated
@@ -267,10 +282,12 @@ def _format_embedding_text(chunk: ParsedChunk) -> str:
 
 
 def _make_point_id(chunk: ParsedChunk) -> str:
-    base = f"{chunk.source_type}|{chunk.file_origin}|{chunk.chunk_index}"
+    base = (
+        f"{chunk.source_type}|{chunk.course_id}|{chunk.file_origin}|{chunk.chunk_index}"
+    )
     if chunk.timestamp is not None:
         base = f"{base}|{chunk.timestamp}"
-    return sha1(base.encode("utf-8")).hexdigest()
+    return str(uuid5(NAMESPACE_URL, base))
 
 
 def _payload_from_chunk(chunk: ParsedChunk) -> Dict[str, object]:
