@@ -16,6 +16,7 @@ from bot.handlers import Handlers
 from bot.matrix_io import MatrixBot
 from bot.router import Router
 from llm.ollama import OllamaClient
+from rag.retrieve import QdrantRetriever
 
 
 async def main() -> None:
@@ -36,7 +37,17 @@ async def main() -> None:
         system_prompt=cfg.ollama.system_prompt,
         host=cfg.ollama.host,
     )
-    handlers = Handlers(llm_client)
+
+    # Optional RAG: only enabled when qdrant config is present.
+    retriever = None
+    if cfg.qdrant:
+        retriever = QdrantRetriever(
+            qdrant_cfg=cfg.qdrant,
+            embeddings_cfg=cfg.embeddings,
+            top_k=5,
+        )
+
+    handlers = Handlers(llm_client, retriever=retriever)
     router = Router(handlers)
     bot = MatrixBot(cfg.matrix, router.route, allowed_rooms=cfg.allowed_rooms)
 
