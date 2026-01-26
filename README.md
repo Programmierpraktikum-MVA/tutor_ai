@@ -1,11 +1,13 @@
 
 # Tutor AI
 
-Tutor AI is an innovative project designed to harness the power of advanced language models to provide educational assistance. Built on locally hosted LLMs via Ollama, Tutor AI offers users personalized learning experiences and intelligent tutoring, including Q&A, brainstorming, and up-to-date information.
+Tutor AI provides a Matrix chatbot backed by local Ollama models and a minimal
+RAG pipeline that crawls ISIS/MOSES data, embeds it, and stores vectors in
+Qdrant.
 
 ## Features (current)
 
-- Matrix chatbot (no RAG): Matrix text → local Ollama (`gemma3:12b` by default) → reply back to the room
+- Matrix chatbot (no RAG): Matrix text → local Ollama (`gemma3:12b` by default)
 - Commands: `!help`, `!status`
 - RAG ingestion pipeline (ISIS): parse → chunk → embed (Ollama) → upsert to Qdrant
 - Selenium crawler for ISIS/MOSES data (writes JSON to `rag/crawler/data`)
@@ -13,69 +15,49 @@ Tutor AI is an innovative project designed to harness the power of advanced lang
 ## Prerequisites
 
 - Python 3.8–3.11, pip, virtualenv
-- Local Ollama with model `gemma3:12b` (or set your model in `config.yaml`)
+- Ollama installed locally
 - Matrix account + access token (for the bot)
 - Qdrant instance reachable from this machine (for ingestion)
-- ffmpeg (only required for the crawler)
+- ffmpeg (required for the crawler)
 
-## Setup (first time) 
+## Setup (single environment)
 
-1) Clone the repo and create/activate a virtual environment:
+1) Create and activate a virtual environment:
    ```bash
    python3 -m venv .venv
    . .venv/bin/activate
    ```
-2) Install Python dependencies:
+2) Install dependencies (choose one):
+   CPU:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements-all-cpu.txt
    ```
-   Für CPU-Only zusätzlich:
+   CUDA (12.1):
    ```bash
-   pip install --index-url https://download.pytorch.org/whl/cpu \
-     -r requirements-cpu.txt
+   pip install -r requirements-all-cu121.txt
    ```
-   Für GPU-Server:
+   Hinweis: nutze die gleiche CPU/CUDA-Variante fuer alle Requirements, um Konflikte zu vermeiden.
+3) Install ffmpeg:
    ```bash
-   pip install --index-url https://download.pytorch.org/whl/cu121 \
-     -r requirements-cu121.txt
+   sudo apt install ffmpeg
    ```
-   
-
-3) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials, allowed room IDs; adjust Ollama host/model if needed.
-4) Start Ollama once and pull the model:
+4) Copy `config.example.yaml` to `config.yaml` and fill in Matrix credentials and room IDs.
+5) Start Ollama and pull the required models:
    ```bash
    ollama serve
    ollama pull gemma3:12b
+   ollama pull nomic-embed-text:v1.5
    ```
 
-## Crawler setup (ISIS/MOSES)
-
-The crawler lives in `rag/crawler/selenium` and has its own README with full
-details: `rag/crawler/selenium/README.md`.
-
-Minimal setup:
-
-```bash
-python3 -m venv SelEnv
-. SelEnv/bin/activate
-pip install -r rag/crawler/selenium/requirements.txt
-sudo apt install ffmpeg
-```
-
-Run the crawler from repo root:
-
-```bash
-python3 rag/crawler/selenium/main.py <username> <password>
-```
-
-Optional environment variables: `CRAWLER_DATA_DIR`, `ISIS_COURSE_ID`,
-`WHISPER_DEVICE`.
-
-## Configuration (embeddings + Qdrant)
+## Configuration (Ollama, embeddings, Qdrant)
 
 `config.yaml` supports:
 
 ```yaml
+ollama:
+  model: "gemma3:12b"
+  host: "http://localhost:11434"
+
 embeddings:
   model: "nomic-embed-text:v1.5"
   host: "http://localhost:11434"
@@ -87,34 +69,37 @@ qdrant:
   prefer_grpc: false
 ```
 
-You can also override Qdrant settings via environment variables:
-`QDRANT_URL`, `QDRANT_API_KEY`, `QDRANT_COLLECTION`.
+Qdrant environment overrides: `QDRANT_URL`, `QDRANT_API_KEY`, `QDRANT_COLLECTION`.
 
-## How to use
+## Usage
 
-1) Start Ollama: `ollama serve`
-2) Activate your virtual environment (if not already active):
-   ```bash
-   . .venv/bin/activate
-   ```
-3) From the repo root, start the bot:
-   ```bash
-   python3 -m bot.main
-   ```
-4) Invite the bot to a **non-E2E** room listed in `allowed_room_ids`. Any message in an allowed room triggers a reply; commands: `!help`, `!status`.
+Start Ollama if it is not running:
 
-## RAG ingestion (ISIS data)
+```bash
+ollama serve
+```
 
-1) Ensure Ollama is running and the embedding model is available:
-   ```bash
-   ollama pull nomic-embed-text:v1.5
-   ```
-2) Fill in Qdrant settings in `config.yaml` (see `config.example.yaml` for keys).
-3) Run the crawler to refresh `rag/crawler/data` (see crawler section above).
-4) Ingest into Qdrant:
-   ```bash
-   python3 -m rag.ingest --data-root rag/crawler/data --config config.yaml
-   ```
+Bot (Matrix):
+
+```bash
+. .venv/bin/activate
+python3 -m bot.main
+```
+
+Crawler (ISIS/MOSES):
+
+```bash
+python3 rag/crawler/selenium/main.py <username> <password>
+```
+
+Optional environment variables: `CRAWLER_DATA_DIR`, `ISIS_COURSE_ID`, `WHISPER_DEVICE`.
+Output data is written to `rag/crawler/data` by default (override with `CRAWLER_DATA_DIR`).
+
+Ingestion (Qdrant):
+
+```bash
+python3 -m rag.ingest --data-root rag/crawler/data --config config.yaml
+```
 
 Optional flags:
 
@@ -123,9 +108,23 @@ python3 -m rag.ingest --course-id 43321
 python3 -m rag.ingest --dry-run
 ```
 
-To schedule regular updates, use a cron/systemd timer to run the crawler and ingestion script.
-An example helper is provided at `scripts/run_crawl_and_ingest.sh` (expects `ISIS_USERNAME`,
-`ISIS_PASSWORD`, and optional Qdrant env vars).
+Clear crawler output:
+
+```bash
+rm -rf rag/crawler/data/*
+```
+
+If you set `CRAWLER_DATA_DIR`, clear that directory instead:
+
+```bash
+rm -rf "${CRAWLER_DATA_DIR:?}"/*
+```
+
+## Scheduling
+
+Use a cron/systemd timer to run the crawler and ingestion script regularly.
+An example helper is provided at `scripts/run_crawl_and_ingest.sh` (expects
+`ISIS_USERNAME`, `ISIS_PASSWORD`, and optional Qdrant env vars).
 
 ## License
 

@@ -1,3 +1,4 @@
 --extra-index-url https://download.pytorch.org/whl/cu121
--r ../../requirements-cu121.txt
 -r requirements.txt
+-r requirements-cu121.txt
+-r rag/crawler/selenium/requirements.txt
