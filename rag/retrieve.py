@@ -1,9 +1,12 @@
 # rag/retrieve.py
 from __future__ import annotations
 
+import json
 import logging
+import os
 import re
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional
 
 from config import EmbeddingsConfig, QdrantConfig
@@ -11,6 +14,87 @@ from db.qdrant import QdrantStore
 from llm.embeddings import OllamaEmbeddingClient, with_query_prefix
 
 logger = logging.getLogger(__name__)
+_RAG_LOGGER_NAME = "rag.search"
+_RAG_LOGGER_CONFIGURED = False
+
+
+def _get_rag_search_logger() -> logging.Logger:
+    global _RAG_LOGGER_CONFIGURED
+    rag_logger = logging.getLogger(_RAG_LOGGER_NAME)
+    if _RAG_LOGGER_CONFIGURED:
+        return rag_logger
+    rag_logger.setLevel(logging.INFO)
+    log_path = os.environ.get("RAG_SEARCH_LOG_PATH", "rag_search.log")
+    log_dir = os.path.dirname(log_path)
+    if log_dir:
+        try:
+            os.makedirs(log_dir, exist_ok=True)
+        except OSError as exc:
+            logger.warning("Failed to create RAG search log dir %s: %s", log_dir, exc)
+            _RAG_LOGGER_CONFIGURED = True
+            return rag_logger
+    try:
+        handler = logging.FileHandler(log_path, encoding="utf-8")
+    except OSError as exc:
+        logger.warning("Failed to open RAG search log file %s: %s", log_path, exc)
+        _RAG_LOGGER_CONFIGURED = True
+        return rag_logger
+    handler.setFormatter(logging.Formatter("%(message)s"))
+    rag_logger.addHandler(handler)
+    rag_logger.propagate = False
+    _RAG_LOGGER_CONFIGURED = True
+    return rag_logger
+
+
+def _serialize_hit(hit: "RetrievalHit") -> Dict[str, Any]:
+    return {
+        "score": hit.score,
+        "text": hit.text,
+        "url": hit.url,
+        "file_origin": hit.file_origin,
+        "course_id": hit.course_id,
+        "source_type": hit.source_type,
+        "context_section": hit.context_section,
+        "context_activity": hit.context_activity,
+        "chunk_index": hit.chunk_index,
+        "timestamp": hit.timestamp,
+    }
+
+
+def _log_retrieval(
+    *,
+    query: str,
+    expanded_query: str,
+    hits: List["RetrievalHit"],
+    top_k: int,
+    score_threshold: Optional[float],
+    use_query_expansion: bool,
+) -> None:
+    rag_logger = _get_rag_search_logger()
+    payload = {
+        "event": "rag_search",
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "query": query,
+        "expanded_query": expanded_query,
+        "top_k": top_k,
+        "score_threshold": score_threshold,
+        "use_query_expansion": use_query_expansion,
+        "hit_count": len(hits),
+        "hits": [_serialize_hit(hit) for hit in hits],
+    }
+    rag_logger.info(json.dumps(payload, ensure_ascii=False))
+
+
+def _log_retrieval_error(*, query: str, expanded_query: str, error: Exception) -> None:
+    rag_logger = _get_rag_search_logger()
+    payload = {
+        "event": "rag_search_error",
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "query": query,
+        "expanded_query": expanded_query,
+        "error": str(error),
+    }
+    rag_logger.error(json.dumps(payload, ensure_ascii=False))
 
 
 @dataclass
@@ -113,7 +197,8 @@ class QdrantRetriever:
                 with_payload=True,
                 score_threshold=self.score_threshold,
             )
-        except Exception:
+        except Exception as exc:
+            _log_retrieval_error(query=query, expanded_query=q, error=exc)
             logger.exception("Qdrant search failed")
             return []
 
@@ -139,4 +224,12 @@ class QdrantRetriever:
                 )
             )
 
+        _log_retrieval(
+            query=query,
+            expanded_query=q,
+            hits=hits,
+            top_k=self.top_k,
+            score_threshold=self.score_threshold,
+            use_query_expansion=self.use_query_expansion,
+        )
         return hits
