@@ -49,7 +49,12 @@ async def main() -> None:
 
     handlers = Handlers(llm_client, retriever=retriever)
     router = Router(handlers)
-    bot = MatrixBot(cfg.matrix, router.route, allowed_rooms=cfg.allowed_rooms)
+    bot = MatrixBot(
+        cfg.matrix,
+        router.route,
+        allowed_rooms=cfg.allowed_rooms,
+        config_path=config_path,
+    )
 
     try:
         await bot.start()

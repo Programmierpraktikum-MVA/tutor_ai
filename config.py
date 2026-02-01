@@ -20,6 +20,10 @@ class MatrixConfig:
     homeserver_url: str
     user_id: str
     access_token: str
+    refresh_token: Optional[str] = None
+    token_endpoint: Optional[str] = None
+    client_id: Optional[str] = None
+    token_expires_at: Optional[int] = None
     device_id: str = "BOTDEVICE"
     store_path: str = "./store"
 
@@ -69,6 +73,10 @@ class Config:
                 homeserver_url=data["homeserver_url"],
                 user_id=data["user_id"],
                 access_token=data["access_token"],
+                refresh_token=data.get("refresh_token"),
+                token_endpoint=data.get("token_endpoint"),
+                client_id=data.get("client_id"),
+                token_expires_at=data.get("token_expires_at"),
                 device_id=data.get("device_id", "BOTDEVICE"),
                 store_path=data.get("store_path", "./store"),
             )

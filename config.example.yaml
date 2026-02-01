@@ -2,6 +2,10 @@ matrix:
   homeserver_url: "https://matrix-client.matrix.org" #"https://matrix.tu-berlin.de" 
   user_id: "@tutor_ai:matrix.org"       #"@tutorai:matrix.tu-berlin.de" 
   access_token: "REPLACE_ME_WITH_ACCESS_TOKEN"
+  refresh_token: "REPLACE_ME_WITH_REFRESH_TOKEN"
+  token_endpoint: "https://account.matrix.org/oauth2/token"
+  client_id: "REPLACE_ME_WITH_OAUTH_CLIENT_ID"
+  token_expires_at: null
   device_id: "BOTDEVICE"
   store_path: "./store"
 
