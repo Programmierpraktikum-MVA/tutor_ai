@@ -19,7 +19,7 @@ DEFAULT_ALLOWED_ROOMS = {"!JSFGmEgwCdNkLZEhuY:matrix.org"}
 class MatrixConfig:
     homeserver_url: str
     user_id: str
-    access_token: str
+    access_token: Optional[str] = None
     refresh_token: Optional[str] = None
     token_endpoint: Optional[str] = None
     client_id: Optional[str] = None
@@ -68,20 +68,23 @@ class Config:
         return cls(raw)
 
     def _load_matrix(self, data: Dict[str, Any]) -> MatrixConfig:
-        try:
-            return MatrixConfig(
-                homeserver_url=data["homeserver_url"],
-                user_id=data["user_id"],
-                access_token=data["access_token"],
-                refresh_token=data.get("refresh_token"),
-                token_endpoint=data.get("token_endpoint"),
-                client_id=data.get("client_id"),
-                token_expires_at=data.get("token_expires_at"),
-                device_id=data.get("device_id", "BOTDEVICE"),
-                store_path=data.get("store_path", "./store"),
-            )
-        except KeyError as exc:
-            raise ValueError(f"Missing required matrix config key: {exc.args[0]}") from exc
+        homeserver_url = data.get("homeserver_url")
+        user_id = data.get("user_id")
+        if not homeserver_url or not user_id:
+            missing = "homeserver_url" if not homeserver_url else "user_id"
+            raise ValueError(f"Missing required matrix config key: {missing}")
+
+        return MatrixConfig(
+            homeserver_url=homeserver_url,
+            user_id=user_id,
+            access_token=data.get("access_token"),
+            refresh_token=data.get("refresh_token"),
+            token_endpoint=data.get("token_endpoint"),
+            client_id=data.get("client_id"),
+            token_expires_at=data.get("token_expires_at"),
+            device_id=data.get("device_id", "BOTDEVICE"),
+            store_path=data.get("store_path", "./store"),
+        )
 
     def _load_ollama(self, data: Dict[str, Any], prompts: Dict[str, Any]) -> OllamaConfig:
         system_prompt = prompts.get("system_prompt", DEFAULT_SYSTEM_PROMPT)
