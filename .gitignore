@@ -25,3 +25,4 @@ __pycache__/
 rag/crawler/selenium/SelEnv/
 *.mp4
 legacy/
+llama3/config.json
