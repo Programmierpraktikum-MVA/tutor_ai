@@ -39,6 +39,7 @@ class OllamaConfig:
 class EmbeddingsConfig:
     model: str = "nomic-embed-text:v1.5"
     host: Optional[str] = None
+    sparse_model: str = "Qdrant/bm25"
 
 
 @dataclass
@@ -47,6 +48,9 @@ class QdrantConfig:
     api_key: Optional[str] = None
     collection: str = "tutor_ai"
     prefer_grpc: bool = False
+    dense_vector_name: str = "dense-text-vector"
+    sparse_vector_name: str = "sparse-text-vector"
+    use_sparse: bool = True
 
 
 class Config:
@@ -98,6 +102,7 @@ class Config:
         return EmbeddingsConfig(
             model=data.get("model", "nomic-embed-text:v1.5"),
             host=data.get("host", ollama_data.get("host")),
+            sparse_model=data.get("sparse_model", "Qdrant/bm25"),
         )
 
     def _load_qdrant(self, data: Dict[str, Any]) -> Optional[QdrantConfig]:
@@ -109,6 +114,9 @@ class Config:
             api_key=data.get("api_key"),
             collection=data.get("collection", "tutor_ai"),
             prefer_grpc=bool(data.get("prefer_grpc", False)),
+            dense_vector_name=data.get("dense_vector_name", "dense-text-vector"),
+            sparse_vector_name=data.get("sparse_vector_name", "sparse-text-vector"),
+            use_sparse=bool(data.get("use_sparse", True)),
         )
 
     def _load_allowed_rooms(self, raw: Dict[str, Any]) -> Set[str]:

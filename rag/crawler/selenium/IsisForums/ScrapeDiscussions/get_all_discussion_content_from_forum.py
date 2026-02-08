@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
-from get_discussion_content import get_discussion_content
+from .get_discussion_content import get_discussion_content
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -57,5 +57,4 @@ def get_all_discussion_content_from_forum(forum_id, driver):
 
     """with open('forum.json', 'w') as f:
         json.dump(forum_dict, f, ensure_ascii=False, indent=4)"""
-
 

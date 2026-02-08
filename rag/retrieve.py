@@ -13,6 +13,16 @@ from config import EmbeddingsConfig, QdrantConfig
 from db.qdrant import QdrantStore
 from llm.embeddings import OllamaEmbeddingClient, with_query_prefix
 
+try:
+    from fastembed import SparseTextEmbedding  # type: ignore[import]
+except Exception:  # pragma: no cover - optional dependency
+    SparseTextEmbedding = None
+
+try:
+    from qdrant_client.http.models import SparseVector
+except Exception:  # pragma: no cover - optional dependency
+    SparseVector = None
+
 logger = logging.getLogger(__name__)
 _RAG_LOGGER_NAME = "rag.search"
 _RAG_LOGGER_CONFIGURED = False
@@ -181,6 +191,16 @@ class QdrantRetriever:
             prefer_grpc=qdrant_cfg.prefer_grpc,
         )
         self.embed = OllamaEmbeddingClient(model=embeddings_cfg.model, host=embeddings_cfg.host)
+        self.dense_vector_name = qdrant_cfg.dense_vector_name
+        self.sparse_vector_name = qdrant_cfg.sparse_vector_name
+        self.use_sparse = bool(getattr(qdrant_cfg, "use_sparse", False))
+        self.sparse_embed = None
+        if self.use_sparse:
+            if SparseTextEmbedding is None:
+                logger.warning("fastembed not installed; falling back to dense-only retrieval.")
+                self.use_sparse = False
+            else:
+                self.sparse_embed = SparseTextEmbedding(model_name=embeddings_cfg.sparse_model)
 
     def retrieve(self, query: str) -> List[RetrievalHit]:
         # 1) Query ggf. erweitern
@@ -191,12 +211,33 @@ class QdrantRetriever:
 
         # 3) Qdrant suchen
         try:
-            points = self.store.search(
-                query_vector=vector,
-                limit=self.top_k,
-                with_payload=True,
-                score_threshold=self.score_threshold,
-            )
+            if self.use_sparse and self.sparse_embed is not None:
+                sparse_embedding = list(self.sparse_embed.embed([q]))[0]
+                indices = getattr(sparse_embedding, "indices", None)
+                values = getattr(sparse_embedding, "values", None)
+                if indices is None or values is None:
+                    raise ValueError("Sparse embedding missing indices/values.")
+                if SparseVector is not None:
+                    sparse_vector = SparseVector(indices=list(indices), values=list(values))
+                else:
+                    sparse_vector = {"indices": list(indices), "values": list(values)}
+                points = self.store.hybrid_search(
+                    dense_vector=vector,
+                    sparse_vector=sparse_vector,
+                    limit=self.top_k,
+                    with_payload=True,
+                    score_threshold=self.score_threshold,
+                    dense_vector_name=self.dense_vector_name,
+                    sparse_vector_name=self.sparse_vector_name,
+                )
+            else:
+                points = self.store.search(
+                    query_vector=vector,
+                    limit=self.top_k,
+                    with_payload=True,
+                    score_threshold=self.score_threshold,
+                    vector_name=self.dense_vector_name,
+                )
         except Exception as exc:
             _log_retrieval_error(query=query, expanded_query=q, error=exc)
             logger.exception("Qdrant search failed")

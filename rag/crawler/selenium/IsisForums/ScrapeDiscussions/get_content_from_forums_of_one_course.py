@@ -1,10 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
-from get_discussion_content import get_discussion_content
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from get_all_discussion_content_from_forum import get_all_discussion_content_from_forum
+from .get_all_discussion_content_from_forum import get_all_discussion_content_from_forum
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
 

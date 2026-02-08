@@ -16,18 +16,22 @@ ollama:
 embeddings:
   model: "nomic-embed-text:v1.5"
   host: "http://localhost:11434"
+  sparse_model: "Qdrant/bm25"
 
 qdrant:
   url: "http://qdrant-url"
   api_key: "REPLACE_ME"
-  collection: "tutor_ai"
+  collection: "tutor_ai_hybrid"
   prefer_grpc: false
+  dense_vector_name: "dense-text-vector"
+  sparse_vector_name: "sparse-text-vector"
+  use_sparse: true
 
 prompts:
   system_prompt: "Du bist TutorAI, ein hilfreicher deutschsprachiger Studienassistent für Informatikstudenten im ersten Semester.\n
     Du erhälst Fragen zu den Themen der Vorlesungen, Übungen und Tutorien. 
     Antworte knapp, präzise und freundlich. Nutze die zusätzlichen Informationen, 
-    die durch das RAG bereitgestellt werden.\n
+    die durch das RAG bereitgestellt werden oder beantworte auf Basis deines eigenen Wissens.\n
     Kennzeichne ob die Antwort auf die Frage auf Grundlage der RAG-Informationen gegeben wird 
     oder ob du sie aus deinem eigenen Wissen beantwortest. Falls dir Informationen fehlen, sei ehrlich."
 

@@ -23,6 +23,8 @@ ISIS_COURSE_INFOS_DIR = ISIS_DIR / "course_infos"
 ISIS_FORUMS_DIR = ISIS_DIR / "forums"
 ISIS_FORUM_DATA_DIR = ISIS_FORUMS_DIR / "course_forum_data"
 ISIS_PDFS_DIR = ISIS_DIR / "pdfs"
+ISIS_FILES_DIR = ISIS_DIR / "files"
+ISIS_RESOURCES_DIR = ISIS_DIR / "resources"
 ISIS_VIDEOS_DIR = ISIS_DIR / "videos"
 ISIS_COURSE_ID_MANAGER_DIR = ISIS_META_DIR / "course_id_manager"
 

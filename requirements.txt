@@ -21,6 +21,8 @@ ollama>=0.2.0,<0.3
 
 # Retrieval / Vector DB
 qdrant-client
+fastembed
+pymupdf
 
 # Knowledge Graph / Math
 neo4j

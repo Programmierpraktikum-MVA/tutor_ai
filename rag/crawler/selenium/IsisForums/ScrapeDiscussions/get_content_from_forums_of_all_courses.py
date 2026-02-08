@@ -1,12 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
-from get_discussion_content import get_discussion_content
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from get_all_discussion_content_from_forum import get_all_discussion_content_from_forum
+from .get_all_discussion_content_from_forum import get_all_discussion_content_from_forum
 from selenium.common.exceptions import NoSuchElementException
-from get_content_from_forums_of_one_course import get_content_from_forums_of_one_course
+from .get_content_from_forums_of_one_course import get_content_from_forums_of_one_course
 from paths import ISIS_COURSE_ID_FILE, ISIS_FORUM_DATA_DIR, ensure_dir, ensure_json_file
 
 def get_content_from_forums_of_all_courses(driver):

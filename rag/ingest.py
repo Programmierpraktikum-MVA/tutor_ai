@@ -7,10 +7,15 @@ import os
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional
+from typing import Dict, Iterable, List, Optional, Tuple
 from uuid import NAMESPACE_URL, uuid5
 
 from qdrant_client.http.models import PointStruct
+
+try:  # qdrant-client >= 1.7
+    from qdrant_client.http.models import SparseVector
+except Exception:  # pragma: no cover - optional
+    SparseVector = None
 
 from config import Config
 from db.qdrant import QdrantStore
@@ -37,6 +42,10 @@ NOISE_LINES = {
 }
 
 URL_PATTERN = re.compile(r"https?://\S+")
+
+TEXT_EXTENSIONS = {".txt", ".md", ".markdown"}
+HTML_EXTENSIONS = {".html", ".htm"}
+PDF_EXTENSIONS = {".pdf"}
 
 
 @dataclass
@@ -267,18 +276,224 @@ def parse_video_file(
     return chunks
 
 
-def _format_embedding_text(chunk: ParsedChunk) -> str:
+def _safe_join(parts: List[str]) -> str:
+    return "\n".join(part.strip() for part in parts if part and part.strip()).strip()
+
+
+def parse_activity_file(path: Path, course_id: str) -> List[ParsedChunk]:
+    raw = _load_json(path)
+    if not isinstance(raw, list):
+        logger.warning("Skipping %s: expected list payload.", path)
+        return []
+
+    chunks: List[ParsedChunk] = []
+    file_origin = path.name
+    chunk_counter = 0
+
+    for entry in raw:
+        if not isinstance(entry, dict):
+            continue
+        title = str(entry.get("title") or entry.get("modname") or "Activity")
+        modname = str(entry.get("modname") or "activity")
+        url = str(entry.get("url") or _course_url(course_id))
+        text_parts: List[str] = []
+
+        base_text = str(entry.get("text") or "").strip()
+        if base_text:
+            text_parts.append(base_text)
+
+        chapters = entry.get("chapters") or []
+        if isinstance(chapters, list):
+            for chapter in chapters:
+                if not isinstance(chapter, dict):
+                    continue
+                chapter_title = str(chapter.get("title") or "Chapter")
+                chapter_text = str(chapter.get("text") or "").strip()
+                if chapter_text:
+                    text_parts.append(f"{chapter_title}: {chapter_text}")
+
+        external_urls = entry.get("external_urls") or []
+        if isinstance(external_urls, list) and external_urls:
+            text_parts.append("External URLs: " + ", ".join(map(str, external_urls)))
+
+        downloaded_files = entry.get("downloaded_files") or []
+        if isinstance(downloaded_files, list) and downloaded_files:
+            text_parts.append("Files: " + ", ".join(map(str, downloaded_files)))
+
+        text = _safe_join(text_parts)
+        if not text:
+            continue
+        for part in chunk_text(text):
+            chunks.append(
+                ParsedChunk(
+                    text=part,
+                    source_type="activity",
+                    context_section=title,
+                    context_activity=modname,
+                    url=url,
+                    file_origin=file_origin,
+                    course_id=course_id,
+                    chunk_index=chunk_counter,
+                )
+            )
+            chunk_counter += 1
+
+    return chunks
+
+
+def parse_forum_file(path: Path, fallback_course_id: Optional[str] = None) -> List[ParsedChunk]:
+    raw = _load_json(path)
+    if not isinstance(raw, list):
+        logger.warning("Skipping %s: expected list payload.", path)
+        return []
+
+    chunks: List[ParsedChunk] = []
+    file_origin = path.name
+    chunk_counter = 0
+
+    for course_entry in raw:
+        if not isinstance(course_entry, dict):
+            continue
+        course_id = str(course_entry.get("Course_id") or fallback_course_id or "")
+        forums = course_entry.get("Forums") or []
+        if not isinstance(forums, list):
+            continue
+        for forum in forums:
+            if not isinstance(forum, dict):
+                continue
+            forum_name = str(forum.get("Forum_name") or "Forum")
+            discussions = forum.get("Discussions") or []
+            if not isinstance(discussions, list):
+                continue
+            for discussion in discussions:
+                if not isinstance(discussion, dict):
+                    continue
+                discussion_name = str(discussion.get("Discussion_Name") or "Discussion")
+                discussion_id = discussion.get("Discussion_Id")
+                if discussion_id:
+                    url = f"https://isis.tu-berlin.de/mod/forum/discuss.php?d={discussion_id}"
+                else:
+                    url = _course_url(course_id) if course_id else ""
+                messages = discussion.get("Messages") or []
+                if not isinstance(messages, list):
+                    continue
+                for message in messages:
+                    if not isinstance(message, dict):
+                        continue
+                    content = str(message.get("Content") or "").strip()
+                    if not content:
+                        continue
+                    author = str(message.get("Author") or "").strip()
+                    timestamp = str(message.get("DateTime") or "").strip()
+                    header = " | ".join([part for part in [author, timestamp] if part])
+                    text = f"{header}: {content}" if header else content
+                    for part in chunk_text(text):
+                        chunks.append(
+                            ParsedChunk(
+                                text=part,
+                                source_type="forum",
+                                context_section=forum_name,
+                                context_activity=discussion_name,
+                                url=url,
+                                file_origin=file_origin,
+                                course_id=course_id,
+                                chunk_index=chunk_counter,
+                            )
+                        )
+                        chunk_counter += 1
+
+    return chunks
+
+
+def _extract_pdf_text(path: Path) -> str:
+    try:
+        import fitz  # type: ignore[import]
+    except Exception:
+        logger.warning("PyMuPDF not installed; skipping PDF %s", path)
+        return ""
+    try:
+        doc = fitz.open(path)
+    except Exception as exc:
+        logger.warning("Failed to open PDF %s: %s", path, exc)
+        return ""
+    texts: List[str] = []
+    try:
+        for page in doc:
+            page_text = page.get_text()
+            if page_text:
+                texts.append(page_text)
+    finally:
+        doc.close()
+    return "\n".join(texts)
+
+
+def _extract_html_text(raw_html: str) -> str:
+    try:
+        from bs4 import BeautifulSoup  # type: ignore[import]
+    except Exception:
+        return re.sub(r"<[^>]+>", " ", raw_html)
+    soup = BeautifulSoup(raw_html, "lxml")
+    return soup.get_text(" ", strip=True)
+
+
+def parse_downloaded_file(path: Path, course_id: str, file_origin: str) -> List[ParsedChunk]:
+    ext = path.suffix.lower()
+    if ext in PDF_EXTENSIONS:
+        text = _extract_pdf_text(path)
+    elif ext in TEXT_EXTENSIONS:
+        text = path.read_text(encoding="utf-8", errors="ignore")
+    elif ext in HTML_EXTENSIONS:
+        raw_html = path.read_text(encoding="utf-8", errors="ignore")
+        text = _extract_html_text(raw_html)
+    else:
+        return []
+
+    text = text.strip()
+    if not text:
+        return []
+
+    chunks: List[ParsedChunk] = []
+    chunk_counter = 0
+    context_section = f"File: {path.name}"
+    context_activity = "Downloaded file"
+    url = _course_url(course_id) if course_id else ""
+
+    for part in chunk_text(text):
+        chunks.append(
+            ParsedChunk(
+                text=part,
+                source_type="file",
+                context_section=context_section,
+                context_activity=context_activity,
+                url=url,
+                file_origin=file_origin,
+                course_id=course_id,
+                chunk_index=chunk_counter,
+            )
+        )
+        chunk_counter += 1
+
+    return chunks
+
+
+def _format_body(chunk: ParsedChunk) -> str:
     if chunk.source_type == "video":
-        body = (
+        return (
             f"Video Type: Lecture | Topic: {chunk.context_section} | "
             f"Transcript: {chunk.text}"
         )
-    else:
-        body = (
-            f"Section: {chunk.context_section} | Activity: {chunk.context_activity} | "
-            f"Content: {chunk.text}"
-        )
-    return with_document_prefix(body)
+    return (
+        f"Section: {chunk.context_section} | Activity: {chunk.context_activity} | "
+        f"Content: {chunk.text}"
+    )
+
+
+def _format_embedding_text(chunk: ParsedChunk) -> str:
+    return with_document_prefix(_format_body(chunk))
+
+
+def _format_sparse_text(chunk: ParsedChunk) -> str:
+    return _format_body(chunk)
 
 
 def _make_point_id(chunk: ParsedChunk) -> str:
@@ -319,6 +534,26 @@ def _load_download_log(path: Path) -> Dict[str, Dict[str, str]]:
     return lookup
 
 
+def _build_sparse_embeddings(texts: List[str], model_name: str) -> List[object]:
+    try:
+        from fastembed import SparseTextEmbedding  # type: ignore[import]
+    except Exception as exc:  # pragma: no cover - optional dependency
+        raise RuntimeError("fastembed is required for sparse embeddings.") from exc
+
+    model = SparseTextEmbedding(model_name=model_name)
+    return list(model.embed(texts))
+
+
+def _to_sparse_vector(sparse_embedding: object) -> object:
+    indices = getattr(sparse_embedding, "indices", None)
+    values = getattr(sparse_embedding, "values", None)
+    if indices is None or values is None:
+        raise ValueError("Invalid sparse embedding; missing indices/values.")
+    if SparseVector is not None:
+        return SparseVector(indices=list(indices), values=list(values))
+    return {"indices": list(indices), "values": list(values)}
+
+
 def _iter_course_info_files(data_root: Path, course_id: Optional[str]) -> Iterable[Path]:
     base = data_root / "isis" / "course_infos"
     if not base.exists():
@@ -345,6 +580,70 @@ def _iter_video_files(data_root: Path, course_id: Optional[str]) -> Iterable[Pat
     return files
 
 
+def _iter_resource_files(data_root: Path, course_id: Optional[str]) -> Iterable[Path]:
+    base = data_root / "isis" / "resources"
+    if not base.exists():
+        return []
+    course_dirs = [base / course_id] if course_id else sorted(base.iterdir())
+    files: List[Path] = []
+    for course_dir in course_dirs:
+        if not course_dir.is_dir():
+            continue
+        candidate = course_dir / "activities.json"
+        if candidate.exists():
+            files.append(candidate)
+    return files
+
+
+def _iter_forum_files(data_root: Path, course_id: Optional[str]) -> Iterable[Path]:
+    base = data_root / "isis" / "forums" / "course_forum_data"
+    if not base.exists():
+        return []
+    if course_id:
+        candidate = base / f"course_{course_id}.json"
+        return [candidate] if candidate.exists() else []
+    return sorted(base.glob("course_*.json"))
+
+
+def _iter_downloaded_files(data_root: Path, course_id: Optional[str]) -> Iterable[Path]:
+    base = data_root / "isis" / "files"
+    if not base.exists():
+        return []
+    if course_id:
+        roots = [base / course_id]
+    else:
+        roots = [p for p in base.iterdir() if p.is_dir() and p.name != "_downloads"]
+    files: List[Path] = []
+    allowed_exts = TEXT_EXTENSIONS | HTML_EXTENSIONS | PDF_EXTENSIONS
+    for root in roots:
+        if not root.exists():
+            continue
+        for path in root.rglob("*"):
+            if path.is_file() and path.suffix.lower() in allowed_exts:
+                files.append(path)
+    return files
+
+
+def _resolve_course_id_from_files_path(data_root: Path, path: Path) -> str:
+    try:
+        rel = path.relative_to(data_root)
+    except ValueError:
+        return ""
+    parts = list(rel.parts)
+    if "files" in parts:
+        idx = parts.index("files")
+        if idx + 1 < len(parts):
+            return parts[idx + 1]
+    return ""
+
+
+def _relative_origin(data_root: Path, path: Path) -> str:
+    try:
+        return str(path.relative_to(data_root))
+    except ValueError:
+        return path.name
+
+
 def _resolve_course_id(path: Path) -> str:
     return path.parent.name
 
@@ -361,6 +660,18 @@ def build_chunks(data_root: Path, course_id: Optional[str]) -> List[ParsedChunk]
         course = _resolve_course_id(path)
         chunks.extend(parse_video_file(path, course, download_lookup))
 
+    for path in _iter_resource_files(data_root, course_id):
+        course = _resolve_course_id(path)
+        chunks.extend(parse_activity_file(path, course))
+
+    for path in _iter_forum_files(data_root, course_id):
+        chunks.extend(parse_forum_file(path, course_id))
+
+    for path in _iter_downloaded_files(data_root, course_id):
+        course = _resolve_course_id_from_files_path(data_root, path)
+        file_origin = _relative_origin(data_root, path)
+        chunks.extend(parse_downloaded_file(path, course, file_origin))
+
     return chunks
 
 
@@ -368,13 +679,27 @@ def _resolve_qdrant_config(config: Optional[Config]) -> Dict[str, Optional[str]]
     url = os.environ.get("QDRANT_URL")
     api_key = os.environ.get("QDRANT_API_KEY")
     collection = os.environ.get("QDRANT_COLLECTION")
+    dense_vector_name = os.environ.get("QDRANT_DENSE_VECTOR")
+    sparse_vector_name = os.environ.get("QDRANT_SPARSE_VECTOR")
+    use_sparse_env = os.environ.get("QDRANT_USE_SPARSE")
 
     if config and config.qdrant:
         url = url or config.qdrant.url
         api_key = api_key or config.qdrant.api_key
         collection = collection or config.qdrant.collection
+        dense_vector_name = dense_vector_name or config.qdrant.dense_vector_name
+        sparse_vector_name = sparse_vector_name or config.qdrant.sparse_vector_name
+        if use_sparse_env is None:
+            use_sparse_env = "1" if config.qdrant.use_sparse else "0"
 
-    return {"url": url, "api_key": api_key, "collection": collection}
+    return {
+        "url": url,
+        "api_key": api_key,
+        "collection": collection,
+        "dense_vector_name": dense_vector_name,
+        "sparse_vector_name": sparse_vector_name,
+        "use_sparse": use_sparse_env,
+    }
 
 
 def ingest(
@@ -393,15 +718,25 @@ def ingest(
     if not qdrant_cfg["url"] or not qdrant_cfg["collection"]:
         raise ValueError("Missing Qdrant url/collection; set config.yaml or env vars.")
 
+    dense_vector_name = qdrant_cfg["dense_vector_name"] or "dense-text-vector"
+    sparse_vector_name = qdrant_cfg["sparse_vector_name"] or "sparse-text-vector"
+    use_sparse = str(qdrant_cfg.get("use_sparse") or "").lower() not in {"0", "false", "no"}
+
     model = (
         config.embeddings.model
         if config and config.embeddings
         else "nomic-embed-text:v1.5"
     )
     host = config.embeddings.host if config and config.embeddings else None
+    sparse_model = (
+        config.embeddings.sparse_model
+        if config and config.embeddings
+        else "Qdrant/bm25"
+    )
 
     embed_client = OllamaEmbeddingClient(model=model, host=host)
     embeddings: List[List[float]] = []
+    sparse_embeddings: List[object] = []
 
     try:
         from tqdm import tqdm  # type: ignore[import]
@@ -412,6 +747,10 @@ def ingest(
     for text in tqdm(embedding_texts, desc="Embedding"):
         embeddings.append(embed_client.embed(text))
 
+    if use_sparse:
+        sparse_texts = [_format_sparse_text(chunk) for chunk in chunks]
+        sparse_embeddings = _build_sparse_embeddings(sparse_texts, sparse_model)
+
     vector_size = len(embeddings[0]) if embeddings else 0
     store = QdrantStore(
         url=qdrant_cfg["url"],
@@ -419,16 +758,32 @@ def ingest(
         collection_name=qdrant_cfg["collection"],
         prefer_grpc=bool(getattr(config.qdrant, "prefer_grpc", False)) if config else False,
     )
-    store.ensure_collection(vector_size)
+    store.ensure_collection(
+        vector_size,
+        dense_vector_name=dense_vector_name,
+        sparse_vector_name=sparse_vector_name,
+        use_sparse=use_sparse,
+    )
 
     points = []
     if len(chunks) != len(embeddings):
         raise ValueError("Embedding count mismatch; refusing to upsert.")
-    for chunk, vector in zip(chunks, embeddings):
+    if use_sparse and len(chunks) != len(sparse_embeddings):
+        raise ValueError("Sparse embedding count mismatch; refusing to upsert.")
+    for idx, (chunk, vector) in enumerate(zip(chunks, embeddings)):
+        dense_vector = vector
+        if use_sparse:
+            sparse_vector = _to_sparse_vector(sparse_embeddings[idx])
+            payload_vector = {
+                dense_vector_name: dense_vector,
+                sparse_vector_name: sparse_vector,
+            }
+        else:
+            payload_vector = {dense_vector_name: dense_vector}
         points.append(
             PointStruct(
                 id=_make_point_id(chunk),
-                vector=vector,
+                vector=payload_vector,
                 payload=_payload_from_chunk(chunk),
             )
         )
