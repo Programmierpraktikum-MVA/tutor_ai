@@ -60,7 +60,7 @@ async def main() -> None:
         print("❌ In config.yaml fehlt der Block 'qdrant:' (url/collection).")
         return
 
-    retriever = QdrantRetriever(cfg.qdrant, cfg.embeddings, top_k=5)
+    retriever = QdrantRetriever(cfg.qdrant, cfg.embeddings, top_k=cfg.qdrant.top_k)
 
     # Score-Schwelle: unterhalb davon gilt es als "keine passenden Quellen"
     min_score = float(os.environ.get("RAG_MIN_SCORE", "0.60"))

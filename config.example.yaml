@@ -26,6 +26,7 @@ qdrant:
   dense_vector_name: "dense-text-vector"
   sparse_vector_name: "sparse-text-vector"
   use_sparse: true
+  top_k: 8
 
 prompts:
   system_prompt: "Du bist TutorAI, ein hilfreicher deutschsprachiger Studienassistent für Informatikstudenten im ersten Semester.\n

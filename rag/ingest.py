@@ -5,6 +5,8 @@ import json
 import logging
 import os
 import re
+import unicodedata
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
@@ -46,6 +48,11 @@ URL_PATTERN = re.compile(r"https?://\S+")
 TEXT_EXTENSIONS = {".txt", ".md", ".markdown"}
 HTML_EXTENSIONS = {".html", ".htm"}
 PDF_EXTENSIONS = {".pdf"}
+
+FILE_CHUNK_MAX_CHARS = 1400
+FILE_CHUNK_OVERLAP = 180
+PDF_LINE_REPEAT_MIN_COUNT = 3
+PDF_LINE_REPEAT_MIN_RATIO = 0.2
 
 
 @dataclass
@@ -405,6 +412,58 @@ def parse_forum_file(path: Path, fallback_course_id: Optional[str] = None) -> Li
     return chunks
 
 
+def _normalize_extracted_text(text: str) -> str:
+    text = unicodedata.normalize("NFKC", text)
+    # Remove common zero-width separators from PDF extraction.
+    text = text.replace("\u200b", "").replace("\ufeff", "")
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    return text
+
+
+def _pdf_line_signature(line: str) -> str:
+    line = line.strip()
+    if not line:
+        return ""
+    line = line.casefold()
+    line = re.sub(r"\d+", "<num>", line)
+    line = re.sub(r"\s+", " ", line)
+    return line
+
+
+def _strip_repeated_pdf_lines(pages: List[str]) -> List[str]:
+    if not pages:
+        return pages
+    signatures: List[List[str]] = []
+    for page in pages:
+        page_signatures = []
+        for line in page.splitlines():
+            sig = _pdf_line_signature(line)
+            if sig and len(sig) >= 8:
+                page_signatures.append(sig)
+        signatures.append(list(dict.fromkeys(page_signatures)))
+
+    counter = Counter(sig for page_sigs in signatures for sig in page_sigs)
+    page_count = len(pages)
+    repeated = {
+        sig
+        for sig, count in counter.items()
+        if count >= PDF_LINE_REPEAT_MIN_COUNT and (count / page_count) >= PDF_LINE_REPEAT_MIN_RATIO
+    }
+    if not repeated:
+        return pages
+
+    cleaned_pages: List[str] = []
+    for page in pages:
+        kept_lines = []
+        for line in page.splitlines():
+            sig = _pdf_line_signature(line)
+            if sig in repeated:
+                continue
+            kept_lines.append(line)
+        cleaned_pages.append("\n".join(kept_lines))
+    return cleaned_pages
+
+
 def _extract_pdf_text(path: Path) -> str:
     try:
         import fitz  # type: ignore[import]
@@ -419,12 +478,14 @@ def _extract_pdf_text(path: Path) -> str:
     texts: List[str] = []
     try:
         for page in doc:
-            page_text = page.get_text()
+            page_text = page.get_text("text", sort=True)
             if page_text:
                 texts.append(page_text)
     finally:
         doc.close()
-    return "\n".join(texts)
+    texts = [_normalize_extracted_text(page) for page in texts if page.strip()]
+    texts = _strip_repeated_pdf_lines(texts)
+    return "\n\n".join(texts)
 
 
 def _extract_html_text(raw_html: str) -> str:
@@ -448,7 +509,7 @@ def parse_downloaded_file(path: Path, course_id: str, file_origin: str) -> List[
     else:
         return []
 
-    text = text.strip()
+    text = _normalize_extracted_text(text).strip()
     if not text:
         return []
 
@@ -458,7 +519,7 @@ def parse_downloaded_file(path: Path, course_id: str, file_origin: str) -> List[
     context_activity = "Downloaded file"
     url = _course_url(course_id) if course_id else ""
 
-    for part in chunk_text(text):
+    for part in chunk_text(text, max_chars=FILE_CHUNK_MAX_CHARS, overlap=FILE_CHUNK_OVERLAP):
         chunks.append(
             ParsedChunk(
                 text=part,

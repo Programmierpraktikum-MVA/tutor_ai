@@ -51,6 +51,7 @@ class QdrantConfig:
     dense_vector_name: str = "dense-text-vector"
     sparse_vector_name: str = "sparse-text-vector"
     use_sparse: bool = True
+    top_k: int = 8
 
 
 class Config:
@@ -117,6 +118,7 @@ class Config:
             dense_vector_name=data.get("dense_vector_name", "dense-text-vector"),
             sparse_vector_name=data.get("sparse_vector_name", "sparse-text-vector"),
             use_sparse=bool(data.get("use_sparse", True)),
+            top_k=int(data.get("top_k", 8)),
         )
 
     def _load_allowed_rooms(self, raw: Dict[str, Any]) -> Set[str]:

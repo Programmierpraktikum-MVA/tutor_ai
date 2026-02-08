@@ -44,7 +44,7 @@ async def main() -> None:
         retriever = QdrantRetriever(
             qdrant_cfg=cfg.qdrant,
             embeddings_cfg=cfg.embeddings,
-            top_k=5,
+            top_k=cfg.qdrant.top_k,
         )
 
     handlers = Handlers(llm_client, retriever=retriever)
