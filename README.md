@@ -9,8 +9,9 @@ Qdrant.
 
 - Matrix chatbot (no RAG): Matrix text → local Ollama (`gemma3:12b` by default)
 - Commands: `!help`, `!status`
-- RAG ingestion pipeline (ISIS): parse → chunk → embed (Ollama) → upsert to Qdrant
+- Hybrid RAG ingestion pipeline (ISIS): parse → chunk → dense+ sparse embeddings → upsert to Qdrant
 - Selenium crawler for ISIS/MOSES data (writes JSON to `rag/crawler/data`)
+- Interactive RAG probe script (retrieval-only, no LLM): `scripts/rag_probe.py`
 
 ## Prerequisites
 
@@ -61,15 +62,22 @@ ollama:
 embeddings:
   model: "nomic-embed-text:v1.5"
   host: "http://localhost:11434"
+  sparse_model: "Qdrant/bm25"
 
 qdrant:
   url: "http://localhost:6333"
   api_key: "REPLACE_ME"
-  collection: "tutor_ai"
+  collection: "tutor_ai_hybrid"
   prefer_grpc: false
+  dense_vector_name: "dense-text-vector"
+  sparse_vector_name: "sparse-text-vector"
+  use_sparse: true
+  top_k: 8
 ```
 
 Qdrant environment overrides: `QDRANT_URL`, `QDRANT_API_KEY`, `QDRANT_COLLECTION`.
+
+For `Qdrant/bm25`, enable `IDF` on the sparse vector index in your Qdrant collection.
 
 ## Usage
 
@@ -106,6 +114,21 @@ Optional flags:
 ```bash
 python3 -m rag.ingest --course-id 43321
 python3 -m rag.ingest --dry-run
+```
+
+RAG probe (retrieval only, no LLM):
+
+```bash
+python3 scripts/rag_probe.py --config config.yaml
+```
+
+Useful options:
+
+```bash
+python3 scripts/rag_probe.py --config config.yaml --top-k 12
+python3 scripts/rag_probe.py --config config.yaml --no-expand
+python3 scripts/rag_probe.py --config config.yaml --json
+python3 scripts/rag_probe.py --config config.yaml --full
 ```
 
 Clear crawler output:
