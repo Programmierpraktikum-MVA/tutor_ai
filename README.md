@@ -129,6 +129,7 @@ PDF notes:
 - Failed dense embedding chunks are listed in the logs and written to `rag/crawler/data/isis/meta/embedding_failures.json`.
 - If a chunk still cannot fit because the metadata wrapper itself is too large, the fallback truncation is listed in the logs and written to `rag/crawler/data/isis/meta/embedding_truncations.json`, including both the original and truncated embedding text.
 - If `fastembed` is not installed, ingest falls back to dense-only upsert and logs a warning instead of aborting after dense embeddings finish.
+- Qdrant upserts are sent in batches to avoid remote write timeouts. Override the batch size with `QDRANT_UPSERT_BATCH_SIZE`.
 
 RAG probe (retrieval only, no LLM):
 

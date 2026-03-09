@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import logging
+import os
 from typing import Any, List, Optional
 
 from qdrant_client import QdrantClient
@@ -14,6 +15,7 @@ except Exception:  # pragma: no cover - optional dependency
     SparseVectorParams = None
 
 logger = logging.getLogger(__name__)
+DEFAULT_UPSERT_BATCH_SIZE = 128
 
 
 class QdrantStore:
@@ -64,7 +66,20 @@ class QdrantStore:
             )
 
     def upsert(self, points: List[PointStruct]) -> None:
-        self.client.upsert(collection_name=self.collection_name, points=points)
+        if not points:
+            return
+        batch_size = _resolve_upsert_batch_size()
+        total = len(points)
+        for start in range(0, total, batch_size):
+            batch = points[start : start + batch_size]
+            logger.info(
+                "Upserting Qdrant batch %d-%d/%d into '%s'",
+                start + 1,
+                start + len(batch),
+                total,
+                self.collection_name,
+            )
+            self.client.upsert(collection_name=self.collection_name, points=batch)
 
     def search(
         self,
@@ -182,3 +197,19 @@ def _rrf_merge(*lists: List[Any], limit: int = 5, k: int = 60) -> List[HybridHit
 
 def _safe_extend_limit(limit: int) -> int:
     return max(limit * 2, limit + 10)
+
+
+def _resolve_upsert_batch_size() -> int:
+    raw = os.environ.get("QDRANT_UPSERT_BATCH_SIZE")
+    if not raw:
+        return DEFAULT_UPSERT_BATCH_SIZE
+    try:
+        value = int(raw)
+    except ValueError:
+        logger.warning(
+            "Invalid QDRANT_UPSERT_BATCH_SIZE=%r; falling back to %d.",
+            raw,
+            DEFAULT_UPSERT_BATCH_SIZE,
+        )
+        return DEFAULT_UPSERT_BATCH_SIZE
+    return max(1, value)
