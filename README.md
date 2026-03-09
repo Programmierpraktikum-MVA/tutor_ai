@@ -10,6 +10,7 @@ Qdrant.
 - Matrix chatbot (no RAG): Matrix text → local Ollama (`gemma3:12b` by default)
 - Commands: `!help`, `!status`
 - Hybrid RAG ingestion pipeline (ISIS): parse → chunk → dense+ sparse embeddings → upsert to Qdrant
+- PDF slide enrichment: ISIS PDFs are ingested per page, enriched with the local multimodal Ollama model, and cached in `*.pdf.slides.json`
 - Selenium crawler for ISIS/MOSES data (writes JSON to `rag/crawler/data`)
 - Interactive RAG probe script (retrieval-only, no LLM): `scripts/rag_probe.py`
 
@@ -49,6 +50,7 @@ Qdrant.
    ollama pull gemma3:12b
    ollama pull nomic-embed-text:v1.5
    ```
+   Hinweis: the `ollama.model` used for chat is also used during PDF ingestion, so it must support images.
 
 ## Configuration (Ollama, embeddings, Qdrant)
 
@@ -115,6 +117,14 @@ Optional flags:
 python3 -m rag.ingest --course-id 43321
 python3 -m rag.ingest --dry-run
 ```
+
+PDF notes:
+
+- Each PDF page becomes one RAG chunk (`Slide 1`, `Slide 2`, ...).
+- Ingestion extracts the page transcript with PyMuPDF, renders the page image, and asks the local Ollama model for a short slide description.
+- The generated slide metadata is cached beside the PDF as `filename.pdf.slides.json`.
+- Embeddings are built from the generated description plus the stored `TEXT_TRANSCRIPT`.
+- If PDF vision enrichment fails for one PDF, that PDF is skipped and the rest of the ingest run continues.
 
 RAG probe (retrieval only, no LLM):
 

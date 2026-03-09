@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import logging
 import os
@@ -9,7 +10,7 @@ import unicodedata
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional
 from uuid import NAMESPACE_URL, uuid5
 
 from qdrant_client.http.models import PointStruct
@@ -22,6 +23,7 @@ except Exception:  # pragma: no cover - optional
 from config import Config
 from db.qdrant import QdrantStore
 from llm.embeddings import OllamaEmbeddingClient, with_document_prefix
+from llm.ollama import OllamaVisionClient
 from log_config import setup_logging
 from rag.chunkers import chunk_text
 
@@ -53,6 +55,10 @@ FILE_CHUNK_MAX_CHARS = 1400
 FILE_CHUNK_OVERLAP = 180
 PDF_LINE_REPEAT_MIN_COUNT = 3
 PDF_LINE_REPEAT_MIN_RATIO = 0.2
+PDF_SLIDE_VISION_PROMPT_VERSION = "v1"
+DEFAULT_OLLAMA_MODEL = "llama3.1"
+DEFAULT_EMBEDDING_MODEL = "nomic-embed-text:v1.5"
+DEFAULT_SPARSE_MODEL = "Qdrant/bm25"
 
 
 @dataclass
@@ -66,6 +72,10 @@ class ParsedChunk:
     course_id: str
     chunk_index: int
     timestamp: Optional[int] = None
+    page_number: Optional[int] = None
+    page_count: Optional[int] = None
+    text_transcript: Optional[str] = None
+    vision_description: Optional[str] = None
 
 
 def _load_json(path: Path) -> object:
@@ -464,28 +474,232 @@ def _strip_repeated_pdf_lines(pages: List[str]) -> List[str]:
     return cleaned_pages
 
 
-def _extract_pdf_text(path: Path) -> str:
+def _extract_pdf_pages(path: Path) -> List[str]:
     try:
         import fitz  # type: ignore[import]
     except Exception:
         logger.warning("PyMuPDF not installed; skipping PDF %s", path)
-        return ""
+        return []
     try:
         doc = fitz.open(path)
     except Exception as exc:
         logger.warning("Failed to open PDF %s: %s", path, exc)
-        return ""
+        return []
     texts: List[str] = []
     try:
         for page in doc:
             page_text = page.get_text("text", sort=True)
-            if page_text:
-                texts.append(page_text)
+            texts.append(page_text or "")
     finally:
         doc.close()
-    texts = [_normalize_extracted_text(page) for page in texts if page.strip()]
-    texts = _strip_repeated_pdf_lines(texts)
-    return "\n\n".join(texts)
+    texts = [_normalize_extracted_text(page) for page in texts]
+    return _strip_repeated_pdf_lines(texts)
+
+
+def _extract_pdf_text(path: Path) -> str:
+    pages = [page for page in _extract_pdf_pages(path) if page.strip()]
+    return "\n\n".join(pages)
+
+
+def _pdf_slide_prompt(transcript: str) -> str:
+    normalized_transcript = transcript.strip()
+    return (
+        "Generate a high level description of the slide provided. "
+        "It will be used to enhance the parsed text of the slide.\n\n"
+        "Return exactly these metadata sections:\n"
+        "Main topic: <1 short phrase>\n"
+        "Short description: <max 2 short phrases>\n\n"
+        "Use the image as the primary source and the transcript as supporting context.\n"
+        "Do not repeat the transcript verbatim unless it is necessary to clarify a label.\n\n"
+        "TEXT_TRANSCRIPT:\n"
+        f"{normalized_transcript}"
+    )
+
+
+def _combine_pdf_slide_text(vision_description: str, transcript: str) -> str:
+    parts = [vision_description.strip(), "TEXT_TRANSCRIPT:"]
+    cleaned_transcript = transcript.strip()
+    if cleaned_transcript:
+        parts.append(cleaned_transcript)
+    return "\n".join(parts).strip()
+
+
+def _pdf_sidecar_path(path: Path) -> Path:
+    return path.with_name(f"{path.name}.slides.json")
+
+
+def _hash_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def _load_pdf_slide_cache(
+    cache_path: Path,
+    *,
+    pdf_hash: str,
+    page_count: int,
+    prompt_version: str,
+    model_name: str,
+) -> Optional[List[Dict[str, Any]]]:
+    if not cache_path.exists():
+        return None
+    try:
+        raw = _load_json(cache_path)
+    except Exception as exc:
+        logger.warning("Failed to read PDF slide cache %s: %s", cache_path, exc)
+        return None
+    if not isinstance(raw, dict):
+        return None
+
+    header = raw.get("header")
+    slides = raw.get("slides")
+    if not isinstance(header, dict) or not isinstance(slides, list):
+        return None
+    if header.get("pdf_hash") != pdf_hash:
+        return None
+    try:
+        cached_page_count = int(header.get("page_count", -1))
+    except (TypeError, ValueError):
+        return None
+    if cached_page_count != page_count:
+        return None
+    if header.get("prompt_version") != prompt_version:
+        return None
+    if header.get("model_name") != model_name:
+        return None
+    if len(slides) != page_count:
+        return None
+
+    normalized: List[Dict[str, Any]] = []
+    for index, slide in enumerate(slides, start=1):
+        if not isinstance(slide, dict):
+            return None
+        try:
+            page_number = int(slide.get("page_number", -1))
+        except (TypeError, ValueError):
+            return None
+        if page_number != index:
+            return None
+        transcript = str(slide.get("text_transcript", ""))
+        vision_description = str(slide.get("vision_description", "")).strip()
+        if not vision_description:
+            return None
+        normalized.append(
+            {
+                "page_number": page_number,
+                "text_transcript": transcript,
+                "vision_description": vision_description,
+            }
+        )
+    return normalized
+
+
+def _write_pdf_slide_cache(
+    cache_path: Path,
+    *,
+    pdf_hash: str,
+    page_count: int,
+    prompt_version: str,
+    model_name: str,
+    slides: List[Dict[str, Any]],
+) -> None:
+    payload = {
+        "header": {
+            "pdf_hash": pdf_hash,
+            "page_count": page_count,
+            "prompt_version": prompt_version,
+            "model_name": model_name,
+        },
+        "slides": slides,
+    }
+    with cache_path.open("w", encoding="utf-8") as handle:
+        json.dump(payload, handle, ensure_ascii=False, indent=2)
+
+
+def _render_pdf_page_png(page: Any) -> bytes:
+    try:
+        import fitz  # type: ignore[import]
+    except Exception as exc:
+        raise RuntimeError("PyMuPDF not installed; cannot render PDF pages.") from exc
+    pixmap = page.get_pixmap(matrix=fitz.Matrix(2, 2), alpha=False)
+    return pixmap.tobytes("png")
+
+
+def _generate_pdf_slide_descriptions(
+    path: Path,
+    transcripts: List[str],
+    *,
+    model_name: str,
+    host: Optional[str],
+) -> List[Dict[str, Any]]:
+    try:
+        import fitz  # type: ignore[import]
+    except Exception as exc:
+        raise RuntimeError("PyMuPDF not installed; cannot render PDF pages.") from exc
+
+    client = OllamaVisionClient(model=model_name, host=host)
+    slides: List[Dict[str, Any]] = []
+    doc = fitz.open(path)
+    try:
+        if len(doc) != len(transcripts):
+            raise ValueError("PDF page count mismatch between text extraction and rendering.")
+        for index, page in enumerate(doc, start=1):
+            transcript = transcripts[index - 1].strip()
+            prompt = _pdf_slide_prompt(transcript)
+            image_bytes = _render_pdf_page_png(page)
+            vision_description = client.generate(prompt, [image_bytes]).strip()
+            if not vision_description:
+                raise ValueError(f"Empty vision description for slide {index}.")
+            slides.append(
+                {
+                    "page_number": index,
+                    "text_transcript": transcript,
+                    "vision_description": vision_description,
+                }
+            )
+    finally:
+        doc.close()
+    return slides
+
+
+def _resolve_pdf_slide_cache(
+    path: Path,
+    *,
+    transcripts: List[str],
+    model_name: str,
+    host: Optional[str],
+) -> List[Dict[str, Any]]:
+    cache_path = _pdf_sidecar_path(path)
+    pdf_hash = _hash_file(path)
+    page_count = len(transcripts)
+    cached = _load_pdf_slide_cache(
+        cache_path,
+        pdf_hash=pdf_hash,
+        page_count=page_count,
+        prompt_version=PDF_SLIDE_VISION_PROMPT_VERSION,
+        model_name=model_name,
+    )
+    if cached is not None:
+        return cached
+
+    slides = _generate_pdf_slide_descriptions(
+        path,
+        transcripts,
+        model_name=model_name,
+        host=host,
+    )
+    _write_pdf_slide_cache(
+        cache_path,
+        pdf_hash=pdf_hash,
+        page_count=page_count,
+        prompt_version=PDF_SLIDE_VISION_PROMPT_VERSION,
+        model_name=model_name,
+        slides=slides,
+    )
+    return slides
 
 
 def _extract_html_text(raw_html: str) -> str:
@@ -497,11 +711,69 @@ def _extract_html_text(raw_html: str) -> str:
     return soup.get_text(" ", strip=True)
 
 
-def parse_downloaded_file(path: Path, course_id: str, file_origin: str) -> List[ParsedChunk]:
+def _parse_pdf_file(
+    path: Path,
+    course_id: str,
+    file_origin: str,
+    *,
+    config: Optional[Config],
+) -> List[ParsedChunk]:
+    transcripts = _extract_pdf_pages(path)
+    if not transcripts:
+        return []
+
+    model_name = config.ollama.model if config and config.ollama else DEFAULT_OLLAMA_MODEL
+    host = config.ollama.host if config and config.ollama else None
+    try:
+        slides = _resolve_pdf_slide_cache(
+            path,
+            transcripts=transcripts,
+            model_name=model_name,
+            host=host,
+        )
+    except Exception as exc:
+        logger.error("Skipping PDF %s after vision enrichment failure: %s", path, exc)
+        return []
+
+    page_count = len(slides)
+    url = _course_url(course_id) if course_id else ""
+    context_section = f"File: {path.name}"
+    chunks: List[ParsedChunk] = []
+    for index, slide in enumerate(slides):
+        page_number = int(slide["page_number"])
+        transcript = str(slide.get("text_transcript", "")).strip()
+        vision_description = str(slide.get("vision_description", "")).strip()
+        combined_text = _combine_pdf_slide_text(vision_description, transcript)
+        chunks.append(
+            ParsedChunk(
+                text=combined_text,
+                source_type="file",
+                context_section=context_section,
+                context_activity=f"Slide {page_number}",
+                url=url,
+                file_origin=file_origin,
+                course_id=course_id,
+                chunk_index=index,
+                page_number=page_number,
+                page_count=page_count,
+                text_transcript=transcript,
+                vision_description=vision_description,
+            )
+        )
+    return chunks
+
+
+def parse_downloaded_file(
+    path: Path,
+    course_id: str,
+    file_origin: str,
+    *,
+    config: Optional[Config] = None,
+) -> List[ParsedChunk]:
     ext = path.suffix.lower()
     if ext in PDF_EXTENSIONS:
-        text = _extract_pdf_text(path)
-    elif ext in TEXT_EXTENSIONS:
+        return _parse_pdf_file(path, course_id, file_origin, config=config)
+    if ext in TEXT_EXTENSIONS:
         text = path.read_text(encoding="utf-8", errors="ignore")
     elif ext in HTML_EXTENSIONS:
         raw_html = path.read_text(encoding="utf-8", errors="ignore")
@@ -579,6 +851,14 @@ def _payload_from_chunk(chunk: ParsedChunk) -> Dict[str, object]:
     }
     if chunk.timestamp is not None:
         payload["timestamp"] = chunk.timestamp
+    if chunk.page_number is not None:
+        payload["page_number"] = chunk.page_number
+    if chunk.page_count is not None:
+        payload["page_count"] = chunk.page_count
+    if chunk.text_transcript is not None:
+        payload["text_transcript"] = chunk.text_transcript
+    if chunk.vision_description is not None:
+        payload["vision_description"] = chunk.vision_description
     return payload
 
 
@@ -709,7 +989,11 @@ def _resolve_course_id(path: Path) -> str:
     return path.parent.name
 
 
-def build_chunks(data_root: Path, course_id: Optional[str]) -> List[ParsedChunk]:
+def build_chunks(
+    data_root: Path,
+    course_id: Optional[str],
+    config: Optional[Config] = None,
+) -> List[ParsedChunk]:
     download_lookup = _load_download_log(data_root / "isis" / "meta" / "download_log.json")
     chunks: List[ParsedChunk] = []
 
@@ -731,7 +1015,7 @@ def build_chunks(data_root: Path, course_id: Optional[str]) -> List[ParsedChunk]
     for path in _iter_downloaded_files(data_root, course_id):
         course = _resolve_course_id_from_files_path(data_root, path)
         file_origin = _relative_origin(data_root, path)
-        chunks.extend(parse_downloaded_file(path, course, file_origin))
+        chunks.extend(parse_downloaded_file(path, course, file_origin, config=config))
 
     return chunks
 
@@ -769,7 +1053,7 @@ def ingest(
     course_id: Optional[str],
     dry_run: bool = False,
 ) -> None:
-    chunks = build_chunks(data_root, course_id)
+    chunks = build_chunks(data_root, course_id, config=config)
     logger.info("Prepared %d chunks for ingestion.", len(chunks))
 
     if dry_run or not chunks:
@@ -786,13 +1070,13 @@ def ingest(
     model = (
         config.embeddings.model
         if config and config.embeddings
-        else "nomic-embed-text:v1.5"
+        else DEFAULT_EMBEDDING_MODEL
     )
     host = config.embeddings.host if config and config.embeddings else None
     sparse_model = (
         config.embeddings.sparse_model
         if config and config.embeddings
-        else "Qdrant/bm25"
+        else DEFAULT_SPARSE_MODEL
     )
 
     embed_client = OllamaEmbeddingClient(model=model, host=host)
