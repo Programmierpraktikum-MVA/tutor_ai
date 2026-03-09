@@ -27,3 +27,6 @@ rag/crawler/selenium/SelEnv/
 legacy/
 llama3/config.json
 rag/crawler/data
+token.py
+rag/crawler/data/**
+rag_search.log

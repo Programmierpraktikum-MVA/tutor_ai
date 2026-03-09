@@ -6,11 +6,12 @@ import json
 import logging
 import os
 import re
+import time
 import unicodedata
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 from uuid import NAMESPACE_URL, uuid5
 
 from qdrant_client.http.models import PointStruct
@@ -59,6 +60,9 @@ PDF_SLIDE_VISION_PROMPT_VERSION = "v1"
 DEFAULT_OLLAMA_MODEL = "llama3.1"
 DEFAULT_EMBEDDING_MODEL = "nomic-embed-text:v1.5"
 DEFAULT_SPARSE_MODEL = "Qdrant/bm25"
+DEFAULT_EMBEDDING_MAX_CHARS = 1800
+DEFAULT_EMBEDDING_RETRIES = 3
+EMBEDDING_RETRY_SLEEP_SECONDS = 1.0
 
 
 @dataclass
@@ -829,6 +833,78 @@ def _format_sparse_text(chunk: ParsedChunk) -> str:
     return _format_body(chunk)
 
 
+def _chunk_debug_label(chunk: ParsedChunk) -> str:
+    parts = [
+        f"source_type={chunk.source_type}",
+        f"course_id={chunk.course_id or '<none>'}",
+        f"file={chunk.file_origin}",
+        f"chunk_index={chunk.chunk_index}",
+        f"section={chunk.context_section}",
+        f"activity={chunk.context_activity}",
+    ]
+    if chunk.page_number is not None:
+        parts.append(f"page={chunk.page_number}/{chunk.page_count}")
+    if chunk.timestamp is not None:
+        parts.append(f"timestamp={chunk.timestamp}")
+    return " | ".join(parts)
+
+
+def _truncate_embedding_input(text: str, max_chars: int) -> Tuple[str, bool]:
+    if max_chars <= 0 or len(text) <= max_chars:
+        return text, False
+
+    prefix = ""
+    body = text
+    if text.startswith("search_document: "):
+        prefix = "search_document: "
+        body = text[len(prefix) :]
+    elif text.startswith("search_query: "):
+        prefix = "search_query: "
+        body = text[len(prefix) :]
+
+    available = max_chars - len(prefix)
+    if available <= 0:
+        return text[:max_chars], True
+
+    truncated_body = body[:available]
+    cut = truncated_body.rfind(" ")
+    if cut >= max(int(available * 0.7), 1):
+        truncated_body = truncated_body[:cut]
+    return prefix + truncated_body.rstrip(), True
+
+
+def _resolve_embedding_max_chars() -> int:
+    raw = os.environ.get("EMBEDDING_MAX_CHARS")
+    if not raw:
+        return DEFAULT_EMBEDDING_MAX_CHARS
+    try:
+        value = int(raw)
+    except ValueError:
+        logger.warning(
+            "Invalid EMBEDDING_MAX_CHARS=%r; falling back to %d.",
+            raw,
+            DEFAULT_EMBEDDING_MAX_CHARS,
+        )
+        return DEFAULT_EMBEDDING_MAX_CHARS
+    return max(200, value)
+
+
+def _resolve_embedding_retries() -> int:
+    raw = os.environ.get("EMBEDDING_RETRIES")
+    if not raw:
+        return DEFAULT_EMBEDDING_RETRIES
+    try:
+        value = int(raw)
+    except ValueError:
+        logger.warning(
+            "Invalid EMBEDDING_RETRIES=%r; falling back to %d.",
+            raw,
+            DEFAULT_EMBEDDING_RETRIES,
+        )
+        return DEFAULT_EMBEDDING_RETRIES
+    return max(1, value)
+
+
 def _make_point_id(chunk: ParsedChunk) -> str:
     base = (
         f"{chunk.source_type}|{chunk.course_id}|{chunk.file_origin}|{chunk.chunk_index}"
@@ -1082,15 +1158,73 @@ def ingest(
     embed_client = OllamaEmbeddingClient(model=model, host=host)
     embeddings: List[List[float]] = []
     sparse_embeddings: List[object] = []
+    embedded_chunks: List[ParsedChunk] = []
+    embedding_max_chars = _resolve_embedding_max_chars()
+    embedding_retries = _resolve_embedding_retries()
 
     try:
         from tqdm import tqdm  # type: ignore[import]
     except ImportError:  # pragma: no cover - tqdm is in requirements
         tqdm = lambda x, **kwargs: x
 
-    embedding_texts = [_format_embedding_text(chunk) for chunk in chunks]
-    for text in tqdm(embedding_texts, desc="Embedding"):
-        embeddings.append(embed_client.embed(text))
+    for chunk in tqdm(chunks, desc="Embedding"):
+        raw_text = _format_embedding_text(chunk)
+        text, truncated = _truncate_embedding_input(raw_text, embedding_max_chars)
+        if truncated:
+            logger.warning(
+                "Truncated embedding input from %d to %d chars for %s",
+                len(raw_text),
+                len(text),
+                _chunk_debug_label(chunk),
+            )
+
+        logger.debug(
+            "Embedding chunk: %s | embedding_chars=%d",
+            _chunk_debug_label(chunk),
+            len(text),
+        )
+
+        last_error: Optional[Exception] = None
+        for attempt in range(1, embedding_retries + 1):
+            try:
+                embeddings.append(embed_client.embed(text))
+                embedded_chunks.append(chunk)
+                last_error = None
+                break
+            except Exception as exc:
+                last_error = exc
+                if attempt < embedding_retries:
+                    logger.warning(
+                        "Embedding failed (attempt %d/%d) for %s | embedding_chars=%d | error=%s",
+                        attempt,
+                        embedding_retries,
+                        _chunk_debug_label(chunk),
+                        len(text),
+                        exc,
+                    )
+                    time.sleep(EMBEDDING_RETRY_SLEEP_SECONDS)
+                    continue
+                logger.error(
+                    "Skipping chunk after embedding failure for %s | embedding_chars=%d | error=%s",
+                    _chunk_debug_label(chunk),
+                    len(text),
+                    exc,
+                )
+        if last_error is not None:
+            continue
+
+    if len(embedded_chunks) != len(chunks):
+        logger.warning(
+            "Embedded %d/%d chunks successfully; skipped %d failed chunk(s).",
+            len(embedded_chunks),
+            len(chunks),
+            len(chunks) - len(embedded_chunks),
+        )
+    chunks = embedded_chunks
+
+    if not chunks:
+        logger.warning("No chunks embedded successfully; aborting upsert.")
+        return
 
     if use_sparse:
         sparse_texts = [_format_sparse_text(chunk) for chunk in chunks]

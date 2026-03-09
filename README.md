@@ -125,6 +125,7 @@ PDF notes:
 - The generated slide metadata is cached beside the PDF as `filename.pdf.slides.json`.
 - Embeddings are built from the generated description plus the stored `TEXT_TRANSCRIPT`.
 - If PDF vision enrichment fails for one PDF, that PDF is skipped and the rest of the ingest run continues.
+- Dense embedding inputs are truncated conservatively before sending them to Ollama. Override with `EMBEDDING_MAX_CHARS`, and adjust retry count with `EMBEDDING_RETRIES`.
 
 RAG probe (retrieval only, no LLM):
 
