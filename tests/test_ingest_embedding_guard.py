@@ -213,6 +213,49 @@ class IngestEmbeddingGuardTest(unittest.TestCase):
         for text in fake_embed_client.calls:
             self.assertLessEqual(len(text), 400)
 
+    def test_split_chunk_for_embedding_keeps_single_normalized_pdf_part(self) -> None:
+        chunk = ingest.ParsedChunk(
+            text="Main topic: Topic\nShort description: Desc\nTEXT_TRANSCRIPT:\nAlpha          Beta          Gamma",
+            source_type="file",
+            context_section="File: slides.pdf",
+            context_activity="Slide 1",
+            url="https://example.com/slides",
+            file_origin="slides.pdf",
+            course_id="43321",
+            chunk_index=0,
+            page_number=1,
+            page_count=1,
+            vision_description="Main topic: Topic\nShort description: Desc",
+            text_transcript="Alpha          Beta          Gamma",
+        )
+
+        with patch.dict("os.environ", {"EMBEDDING_TARGET_CHARS": "180", "EMBEDDING_MAX_CHARS": "220"}):
+            parts = ingest._split_chunk_for_embedding(chunk, 220)
+
+        self.assertEqual(len(parts), 1)
+        self.assertEqual(parts[0].text_transcript, "Alpha Beta Gamma")
+        self.assertIn("Alpha Beta Gamma", parts[0].text)
+        self.assertLessEqual(len(ingest._format_embedding_text(parts[0])), 180)
+
+    def test_split_chunk_for_embedding_uses_conservative_target_below_hard_cap(self) -> None:
+        chunk = ingest.ParsedChunk(
+            text="dense text " * 160,
+            source_type="activity",
+            context_section="Section A",
+            context_activity="forum",
+            url="https://example.com/forum",
+            file_origin="activities.json",
+            course_id="43321",
+            chunk_index=11,
+        )
+
+        with patch.dict("os.environ", {}, clear=False):
+            parts = ingest._split_chunk_for_embedding(chunk, 1800)
+
+        self.assertGreater(len(parts), 1)
+        for part in parts:
+            self.assertLessEqual(len(ingest._format_embedding_text(part)), ingest.DEFAULT_EMBEDDING_TARGET_CHARS)
+
 
 if __name__ == "__main__":
     unittest.main()

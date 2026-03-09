@@ -120,6 +120,7 @@ def main() -> None:
     parser.add_argument("--source-type", default=None)
     parser.add_argument("--file-contains", default=None)
     parser.add_argument("--text-contains", default=None)
+    parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--limit", type=int, default=20)
     parser.add_argument("--max-chars", type=int, default=1200)
     parser.add_argument("--full", action="store_true")
@@ -129,13 +130,15 @@ def main() -> None:
     config = _load_ingest_config(Path(args.config))
     chunks = build_chunks(Path(args.data_root), args.course_id, config=config)
     filtered = [chunk for chunk in chunks if _matches(chunk, args)]
+    start = max(0, args.start)
+    selected = filtered[start : start + max(0, args.limit)]
 
     _print_summary(filtered)
     if args.json:
-        print(json.dumps([_payload(chunk) for chunk in filtered[: args.limit]], ensure_ascii=False, indent=2))
+        print(json.dumps([_payload(chunk) for chunk in selected], ensure_ascii=False, indent=2))
         return
 
-    for index, chunk in enumerate(filtered[: args.limit], start=1):
+    for index, chunk in enumerate(selected, start=start + 1):
         _print_chunk(chunk, index=index, max_chars=max(1, args.max_chars), show_full=args.full)
 
 

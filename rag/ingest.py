@@ -61,6 +61,7 @@ DEFAULT_OLLAMA_MODEL = "llama3.1"
 DEFAULT_EMBEDDING_MODEL = "nomic-embed-text:v1.5"
 DEFAULT_SPARSE_MODEL = "Qdrant/bm25"
 DEFAULT_EMBEDDING_MAX_CHARS = 1800
+DEFAULT_EMBEDDING_TARGET_CHARS = 1500
 DEFAULT_EMBEDDING_RETRIES = 3
 EMBEDDING_RETRY_SLEEP_SECONDS = 1.0
 EMBEDDING_FAILURE_REPORT_NAME = "embedding_failures.json"
@@ -888,41 +889,85 @@ def _embedding_body_overhead(chunk: ParsedChunk) -> int:
     return len(_format_embedding_text(replace(chunk, text=empty_text)))
 
 
-def _split_chunk_for_embedding(chunk: ParsedChunk, max_chars: int) -> List[ParsedChunk]:
-    if len(_format_embedding_text(chunk)) <= max_chars:
-        return [chunk]
+def _normalize_chunk_for_embedding(chunk: ParsedChunk) -> ParsedChunk:
+    if chunk.text_transcript is not None and chunk.vision_description is not None:
+        transcript = " ".join(chunk.text_transcript.split())
+        if transcript == chunk.text_transcript:
+            return chunk
+        return replace(
+            chunk,
+            text=_combine_pdf_slide_text(chunk.vision_description, transcript),
+            text_transcript=transcript,
+        )
 
-    available = max_chars - _embedding_body_overhead(chunk)
+    normalized = " ".join(chunk.text.split())
+    if normalized == chunk.text:
+        return chunk
+    return replace(chunk, text=normalized)
+
+
+def _resolve_embedding_target_chars(max_chars: int) -> int:
+    raw = os.environ.get("EMBEDDING_TARGET_CHARS")
+    default_value = min(max_chars, DEFAULT_EMBEDDING_TARGET_CHARS)
+    if not raw:
+        return max(200, default_value)
+    try:
+        value = int(raw)
+    except ValueError:
+        logger.warning(
+            "Invalid EMBEDDING_TARGET_CHARS=%r; falling back to %d.",
+            raw,
+            default_value,
+        )
+        return max(200, default_value)
+    return max(200, min(max_chars, value))
+
+
+def _split_chunk_for_embedding(chunk: ParsedChunk, max_chars: int) -> List[ParsedChunk]:
+    target_chars = _resolve_embedding_target_chars(max_chars)
+    normalized_chunk = _normalize_chunk_for_embedding(chunk)
+    if len(_format_embedding_text(normalized_chunk)) <= target_chars:
+        return [normalized_chunk]
+
+    available = target_chars - _embedding_body_overhead(normalized_chunk)
     if available < 200:
-        return [chunk]
+        return [normalized_chunk]
 
     overlap = min(FILE_CHUNK_OVERLAP, max(40, available // 10))
-    if chunk.text_transcript is not None and chunk.vision_description is not None:
-        parts = chunk_text(chunk.text_transcript, max_chars=available, overlap=overlap)
+    if normalized_chunk.text_transcript is not None and normalized_chunk.vision_description is not None:
+        parts = chunk_text(normalized_chunk.text_transcript, max_chars=available, overlap=overlap)
         if len(parts) <= 1:
-            return [chunk]
+            single_part = parts[0] if parts else normalized_chunk.text_transcript
+            return [
+                replace(
+                    normalized_chunk,
+                    text=_combine_pdf_slide_text(normalized_chunk.vision_description, single_part),
+                    text_transcript=single_part,
+                )
+            ]
         return [
             replace(
-                chunk,
-                text=_combine_pdf_slide_text(chunk.vision_description, part),
+                normalized_chunk,
+                text=_combine_pdf_slide_text(normalized_chunk.vision_description, part),
                 text_transcript=part,
                 chunk_part_index=index,
                 chunk_part_count=len(parts),
-                parent_chunk_index=chunk.chunk_index,
+                parent_chunk_index=normalized_chunk.chunk_index,
             )
             for index, part in enumerate(parts)
         ]
 
-    parts = chunk_text(chunk.text, max_chars=available, overlap=overlap)
+    parts = chunk_text(normalized_chunk.text, max_chars=available, overlap=overlap)
     if len(parts) <= 1:
-        return [chunk]
+        single_part = parts[0] if parts else normalized_chunk.text
+        return [replace(normalized_chunk, text=single_part)]
     return [
         replace(
-            chunk,
+            normalized_chunk,
             text=part,
             chunk_part_index=index,
             chunk_part_count=len(parts),
-            parent_chunk_index=chunk.chunk_index,
+            parent_chunk_index=normalized_chunk.chunk_index,
         )
         for index, part in enumerate(parts)
     ]

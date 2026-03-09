@@ -125,7 +125,7 @@ PDF notes:
 - The generated slide metadata is cached beside the PDF as `filename.pdf.slides.json`.
 - Embeddings are built from the generated description plus the stored `TEXT_TRANSCRIPT`.
 - If PDF vision enrichment fails for one PDF, that PDF is skipped and the rest of the ingest run continues.
-- Oversized chunks are split into multiple embedding-safe chunks before sending them to Ollama. `EMBEDDING_MAX_CHARS` controls the target size, and `EMBEDDING_RETRIES` controls retries for failed embedding requests.
+- Oversized chunks are split into multiple embedding-safe chunks before sending them to Ollama. `EMBEDDING_MAX_CHARS` is the hard cap, `EMBEDDING_TARGET_CHARS` is the softer split target used to leave headroom for token-dense inputs, and `EMBEDDING_RETRIES` controls retries for failed embedding requests.
 - Failed dense embedding chunks are listed in the logs and written to `rag/crawler/data/isis/meta/embedding_failures.json`.
 - If a chunk still cannot fit because the metadata wrapper itself is too large, the fallback truncation is listed in the logs and written to `rag/crawler/data/isis/meta/embedding_truncations.json`, including both the original and truncated embedding text.
 - If `fastembed` is not installed, ingest falls back to dense-only upsert and logs a warning instead of aborting after dense embeddings finish.
@@ -154,6 +154,7 @@ Inspect what ingestion would pack into chunks:
 ```bash
 python3 scripts/inspect_ingest.py --config config.yaml --course-id 43321 --source-type file --limit 10
 python3 scripts/inspect_ingest.py --config config.yaml --file-contains introprog-v04 --full
+python3 scripts/inspect_ingest.py --config config.yaml --start 40 --limit 20
 python3 scripts/inspect_ingest.py --config config.yaml --json
 ```
 
