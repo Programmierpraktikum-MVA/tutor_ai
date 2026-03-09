@@ -68,6 +68,10 @@ def _serialize_hit(hit: "RetrievalHit") -> Dict[str, Any]:
         "context_activity": hit.context_activity,
         "chunk_index": hit.chunk_index,
         "timestamp": hit.timestamp,
+        "page_number": hit.page_number,
+        "page_count": hit.page_count,
+        "text_transcript": hit.text_transcript,
+        "vision_description": hit.vision_description,
     }
 
 
@@ -119,6 +123,10 @@ class RetrievalHit:
     context_activity: str
     chunk_index: int
     timestamp: Optional[int] = None
+    page_number: Optional[int] = None
+    page_count: Optional[int] = None
+    text_transcript: Optional[str] = None
+    vision_description: Optional[str] = None
 
 
 # --- Heuristische Query-Expansion (einfach, aber effektiv) --------------------
@@ -262,6 +270,14 @@ class QdrantRetriever:
                     context_activity=str(payload.get("context_activity", "")),
                     chunk_index=int(payload.get("chunk_index", -1) or -1),
                     timestamp=(int(payload["timestamp"]) if "timestamp" in payload else None),
+                    page_number=(int(payload["page_number"]) if "page_number" in payload else None),
+                    page_count=(int(payload["page_count"]) if "page_count" in payload else None),
+                    text_transcript=(
+                        str(payload.get("text_transcript", "")) if "text_transcript" in payload else None
+                    ),
+                    vision_description=(
+                        str(payload.get("vision_description", "")) if "vision_description" in payload else None
+                    ),
                 )
             )
 

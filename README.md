@@ -139,6 +139,24 @@ python3 scripts/rag_probe.py --config config.yaml --top-k 12
 python3 scripts/rag_probe.py --config config.yaml --no-expand
 python3 scripts/rag_probe.py --config config.yaml --json
 python3 scripts/rag_probe.py --config config.yaml --full
+python3 scripts/rag_probe.py --config config.yaml --show-expanded
+```
+
+Quality checks:
+
+Inspect what ingestion would pack into chunks:
+
+```bash
+python3 scripts/inspect_ingest.py --config config.yaml --course-id 43321 --source-type file --limit 10
+python3 scripts/inspect_ingest.py --config config.yaml --file-contains introprog-v04 --full
+python3 scripts/inspect_ingest.py --config config.yaml --json
+```
+
+Trace the full RAG flow including retrieval, final user prompt, and LLM output:
+
+```bash
+python3 scripts/rag_trace.py --config config.yaml --question "Was ist ein AVL-Baum?"
+python3 scripts/rag_trace.py --config config.yaml --question "Wie melde ich mich zur Klausur an?" --full-hits
 ```
 
 Clear crawler output:

@@ -6,6 +6,26 @@ from typing import List
 from rag.retrieve import RetrievalHit
 
 
+def build_rag_context(question: str, hits: List[RetrievalHit], *, max_chars: int = 3500) -> str:
+    del question  # reserved for future prompt shaping
+
+    blocks = []
+    used = 0
+    for i, h in enumerate(hits, start=1):
+        text = " ".join((h.text or "").split())
+        meta = (
+            f"file={h.file_origin} | section={h.context_section} | "
+            f"activity={h.context_activity} | url={h.url}"
+        )
+        block = f"[{i}] {text}\nMETA: {meta}"
+        if used + len(block) > max_chars:
+            break
+        blocks.append(block)
+        used += len(block)
+
+    return "\n\n".join(blocks)
+
+
 def build_rag_user_message(question: str, hits: List[RetrievalHit], *, max_chars: int = 3500) -> str:
     """
     Baut die User-Nachricht für das LLM inkl. Kontext.
@@ -26,22 +46,7 @@ def build_rag_user_message(question: str, hits: List[RetrievalHit], *, max_chars
             f"Frage: {question}"
         )
 
-    # Kontextblöcke (kompakt, nummeriert)
-    blocks = []
-    used = 0
-    for i, h in enumerate(hits, start=1):
-        text = " ".join((h.text or "").split())
-        meta = (
-            f"file={h.file_origin} | section={h.context_section} | "
-            f"activity={h.context_activity} | url={h.url}"
-        )
-        block = f"[{i}] {text}\nMETA: {meta}"
-        if used + len(block) > max_chars:
-            break
-        blocks.append(block)
-        used += len(block)
-
-    context = "\n\n".join(blocks)
+    context = build_rag_context(question, hits, max_chars=max_chars)
 
     # Neue, robustere Instruktion:
     return (

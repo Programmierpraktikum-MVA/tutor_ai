@@ -19,7 +19,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from config import EmbeddingsConfig, QdrantConfig
-from rag.retrieve import QdrantRetriever, RetrievalHit
+from rag.retrieve import QdrantRetriever, RetrievalHit, expand_query
 
 
 def _clean_text(text: str) -> str:
@@ -45,6 +45,10 @@ def _print_hits(hits: Iterable[RetrievalHit], max_chars: int, show_full: bool) -
         print(f"url={hit.url}")
         if hit.timestamp is not None:
             print(f"timestamp={hit.timestamp}")
+        page_number = getattr(hit, "page_number", None)
+        page_count = getattr(hit, "page_count", None)
+        if page_number is not None:
+            print(f"page={page_number}/{page_count}")
         print("chunk:")
         print(chunk)
 
@@ -64,6 +68,10 @@ def _print_json(hits: Iterable[RetrievalHit]) -> None:
                 "context_activity": h.context_activity,
                 "chunk_index": h.chunk_index,
                 "timestamp": h.timestamp,
+                "page_number": h.page_number,
+                "page_count": h.page_count,
+                "text_transcript": h.text_transcript,
+                "vision_description": h.vision_description,
             }
         )
     print(json.dumps(payload, ensure_ascii=False, indent=2))
@@ -133,6 +141,11 @@ def main() -> None:
         action="store_true",
         help="Show full chunk text (no truncation)",
     )
+    parser.add_argument(
+        "--show-expanded",
+        action="store_true",
+        help="Print the expanded retrieval query before the hits",
+    )
     args = parser.parse_args()
 
     qdrant_cfg, embeddings_cfg = _load_probe_config(args.config)
@@ -165,6 +178,10 @@ def main() -> None:
             print("Bye")
             break
 
+        expanded_query = expand_query(query) if retriever.use_query_expansion else query
+        if args.show_expanded:
+            print("\nExpanded query:")
+            print(expanded_query)
         hits = retriever.retrieve(query)
         if args.json:
             _print_json(hits)
