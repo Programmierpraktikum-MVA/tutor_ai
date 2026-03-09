@@ -5,6 +5,7 @@ import unittest
 from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch
+import json
 
 import rag.ingest as ingest
 
@@ -96,10 +97,52 @@ class IngestEmbeddingGuardTest(unittest.TestCase):
                     with patch.object(ingest, "QdrantStore", return_value=fake_store):
                         ingest.ingest(Path(tmpdir), _fake_config(use_sparse=False), course_id=None, dry_run=False)
 
+            report_path = Path(tmpdir) / "isis" / "meta" / "embedding_failures.json"
+            self.assertTrue(report_path.exists())
+            report = json.loads(report_path.read_text(encoding="utf-8"))
+            self.assertEqual(len(report), 1)
+            self.assertEqual(report[0]["file_origin"], "b.json")
+            self.assertIn("runner crashed", report[0]["error"])
+
         self.assertEqual(len(fake_store.upsert_calls), 1)
         points = fake_store.upsert_calls[0]
         self.assertEqual(len(points), 1)
         self.assertEqual(points[0].payload["file_origin"], "a.json")
+
+    def test_ingest_falls_back_to_dense_only_when_sparse_embeddings_unavailable(self) -> None:
+        chunks = [
+            ingest.ParsedChunk(
+                text="good chunk",
+                source_type="course_info",
+                context_section="Section A",
+                context_activity="Overview",
+                url="https://example.com/a",
+                file_origin="a.json",
+                course_id="43321",
+                chunk_index=0,
+            )
+        ]
+
+        fake_store = _FakeStore()
+        fake_embed_client = _FakeEmbedClient(model="nomic-embed-text:v1.5")
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            with patch.object(ingest, "build_chunks", return_value=chunks):
+                with patch.object(ingest, "OllamaEmbeddingClient", return_value=fake_embed_client):
+                    with patch.object(ingest, "QdrantStore", return_value=fake_store):
+                        with patch.object(
+                            ingest,
+                            "_build_sparse_embeddings",
+                            side_effect=RuntimeError("fastembed is required for sparse embeddings."),
+                        ):
+                            ingest.ingest(Path(tmpdir), _fake_config(use_sparse=True), course_id=None, dry_run=False)
+
+        self.assertEqual(len(fake_store.upsert_calls), 1)
+        points = fake_store.upsert_calls[0]
+        self.assertEqual(len(points), 1)
+        vector_payload = points[0].vector
+        self.assertIn("dense-text-vector", vector_payload)
+        self.assertNotIn("sparse-text-vector", vector_payload)
 
 
 if __name__ == "__main__":

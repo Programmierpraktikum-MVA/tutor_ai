@@ -63,6 +63,7 @@ DEFAULT_SPARSE_MODEL = "Qdrant/bm25"
 DEFAULT_EMBEDDING_MAX_CHARS = 1800
 DEFAULT_EMBEDDING_RETRIES = 3
 EMBEDDING_RETRY_SLEEP_SECONDS = 1.0
+EMBEDDING_FAILURE_REPORT_NAME = "embedding_failures.json"
 
 
 @dataclass
@@ -873,6 +874,45 @@ def _truncate_embedding_input(text: str, max_chars: int) -> Tuple[str, bool]:
     return prefix + truncated_body.rstrip(), True
 
 
+def _embedding_failure_payload(
+    chunk: ParsedChunk,
+    *,
+    error: str,
+    embedding_chars: int,
+) -> Dict[str, object]:
+    payload: Dict[str, object] = {
+        "error": error,
+        "embedding_chars": embedding_chars,
+        "source_type": chunk.source_type,
+        "course_id": chunk.course_id,
+        "file_origin": chunk.file_origin,
+        "context_section": chunk.context_section,
+        "context_activity": chunk.context_activity,
+        "chunk_index": chunk.chunk_index,
+        "url": chunk.url,
+    }
+    if chunk.page_number is not None:
+        payload["page_number"] = chunk.page_number
+        payload["page_count"] = chunk.page_count
+    if chunk.timestamp is not None:
+        payload["timestamp"] = chunk.timestamp
+    return payload
+
+
+def _embedding_failure_report_path(data_root: Path) -> Path:
+    return data_root / "isis" / "meta" / EMBEDDING_FAILURE_REPORT_NAME
+
+
+def _write_embedding_failure_report(data_root: Path, failures: List[Dict[str, object]]) -> Optional[Path]:
+    if not failures:
+        return None
+    path = _embedding_failure_report_path(data_root)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(failures, handle, ensure_ascii=False, indent=2)
+    return path
+
+
 def _resolve_embedding_max_chars() -> int:
     raw = os.environ.get("EMBEDDING_MAX_CHARS")
     if not raw:
@@ -1159,6 +1199,7 @@ def ingest(
     embeddings: List[List[float]] = []
     sparse_embeddings: List[object] = []
     embedded_chunks: List[ParsedChunk] = []
+    failed_embedding_chunks: List[Dict[str, object]] = []
     embedding_max_chars = _resolve_embedding_max_chars()
     embedding_retries = _resolve_embedding_retries()
 
@@ -1210,16 +1251,35 @@ def ingest(
                     len(text),
                     exc,
                 )
+                failed_embedding_chunks.append(
+                    _embedding_failure_payload(
+                        chunk,
+                        error=str(exc),
+                        embedding_chars=len(text),
+                    )
+                )
         if last_error is not None:
             continue
 
     if len(embedded_chunks) != len(chunks):
+        report_path = _write_embedding_failure_report(data_root, failed_embedding_chunks)
         logger.warning(
             "Embedded %d/%d chunks successfully; skipped %d failed chunk(s).",
             len(embedded_chunks),
             len(chunks),
             len(chunks) - len(embedded_chunks),
         )
+        for failure in failed_embedding_chunks:
+            logger.warning(
+                "Skipped chunk: file=%s | chunk_index=%s | section=%s | activity=%s | error=%s",
+                failure.get("file_origin"),
+                failure.get("chunk_index"),
+                failure.get("context_section"),
+                failure.get("context_activity"),
+                failure.get("error"),
+            )
+        if report_path is not None:
+            logger.warning("Wrote embedding failure report to %s", report_path)
     chunks = embedded_chunks
 
     if not chunks:
@@ -1228,7 +1288,15 @@ def ingest(
 
     if use_sparse:
         sparse_texts = [_format_sparse_text(chunk) for chunk in chunks]
-        sparse_embeddings = _build_sparse_embeddings(sparse_texts, sparse_model)
+        try:
+            sparse_embeddings = _build_sparse_embeddings(sparse_texts, sparse_model)
+        except RuntimeError as exc:
+            logger.warning(
+                "Sparse embeddings unavailable (%s); continuing with dense-only upsert.",
+                exc,
+            )
+            use_sparse = False
+            sparse_embeddings = []
 
     vector_size = len(embeddings[0]) if embeddings else 0
     store = QdrantStore(
