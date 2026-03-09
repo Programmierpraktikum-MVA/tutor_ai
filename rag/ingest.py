@@ -9,7 +9,7 @@ import re
 import time
 import unicodedata
 from collections import Counter
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 from uuid import NAMESPACE_URL, uuid5
@@ -64,6 +64,7 @@ DEFAULT_EMBEDDING_MAX_CHARS = 1800
 DEFAULT_EMBEDDING_RETRIES = 3
 EMBEDDING_RETRY_SLEEP_SECONDS = 1.0
 EMBEDDING_FAILURE_REPORT_NAME = "embedding_failures.json"
+EMBEDDING_TRUNCATION_REPORT_NAME = "embedding_truncations.json"
 
 
 @dataclass
@@ -81,6 +82,9 @@ class ParsedChunk:
     page_count: Optional[int] = None
     text_transcript: Optional[str] = None
     vision_description: Optional[str] = None
+    chunk_part_index: int = 0
+    chunk_part_count: int = 1
+    parent_chunk_index: Optional[int] = None
 
 
 def _load_json(path: Path) -> object:
@@ -843,6 +847,8 @@ def _chunk_debug_label(chunk: ParsedChunk) -> str:
         f"section={chunk.context_section}",
         f"activity={chunk.context_activity}",
     ]
+    if chunk.chunk_part_count > 1:
+        parts.append(f"part={chunk.chunk_part_index + 1}/{chunk.chunk_part_count}")
     if chunk.page_number is not None:
         parts.append(f"page={chunk.page_number}/{chunk.page_count}")
     if chunk.timestamp is not None:
@@ -874,6 +880,61 @@ def _truncate_embedding_input(text: str, max_chars: int) -> Tuple[str, bool]:
     return prefix + truncated_body.rstrip(), True
 
 
+def _embedding_body_overhead(chunk: ParsedChunk) -> int:
+    if chunk.text_transcript is not None and chunk.vision_description is not None:
+        empty_text = _combine_pdf_slide_text(chunk.vision_description, "")
+    else:
+        empty_text = ""
+    return len(_format_embedding_text(replace(chunk, text=empty_text)))
+
+
+def _split_chunk_for_embedding(chunk: ParsedChunk, max_chars: int) -> List[ParsedChunk]:
+    if len(_format_embedding_text(chunk)) <= max_chars:
+        return [chunk]
+
+    available = max_chars - _embedding_body_overhead(chunk)
+    if available < 200:
+        return [chunk]
+
+    overlap = min(FILE_CHUNK_OVERLAP, max(40, available // 10))
+    if chunk.text_transcript is not None and chunk.vision_description is not None:
+        parts = chunk_text(chunk.text_transcript, max_chars=available, overlap=overlap)
+        if len(parts) <= 1:
+            return [chunk]
+        return [
+            replace(
+                chunk,
+                text=_combine_pdf_slide_text(chunk.vision_description, part),
+                text_transcript=part,
+                chunk_part_index=index,
+                chunk_part_count=len(parts),
+                parent_chunk_index=chunk.chunk_index,
+            )
+            for index, part in enumerate(parts)
+        ]
+
+    parts = chunk_text(chunk.text, max_chars=available, overlap=overlap)
+    if len(parts) <= 1:
+        return [chunk]
+    return [
+        replace(
+            chunk,
+            text=part,
+            chunk_part_index=index,
+            chunk_part_count=len(parts),
+            parent_chunk_index=chunk.chunk_index,
+        )
+        for index, part in enumerate(parts)
+    ]
+
+
+def _split_chunks_for_embedding(chunks: List[ParsedChunk], max_chars: int) -> List[ParsedChunk]:
+    expanded: List[ParsedChunk] = []
+    for chunk in chunks:
+        expanded.extend(_split_chunk_for_embedding(chunk, max_chars))
+    return expanded
+
+
 def _embedding_failure_payload(
     chunk: ParsedChunk,
     *,
@@ -896,6 +957,11 @@ def _embedding_failure_payload(
         payload["page_count"] = chunk.page_count
     if chunk.timestamp is not None:
         payload["timestamp"] = chunk.timestamp
+    if chunk.chunk_part_count > 1:
+        payload["chunk_part_index"] = chunk.chunk_part_index
+        payload["chunk_part_count"] = chunk.chunk_part_count
+    if chunk.parent_chunk_index is not None:
+        payload["parent_chunk_index"] = chunk.parent_chunk_index
     return payload
 
 
@@ -910,6 +976,41 @@ def _write_embedding_failure_report(data_root: Path, failures: List[Dict[str, ob
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as handle:
         json.dump(failures, handle, ensure_ascii=False, indent=2)
+    return path
+
+
+def _embedding_truncation_payload(
+    chunk: ParsedChunk,
+    *,
+    original_text: str,
+    truncated_text: str,
+) -> Dict[str, object]:
+    payload = _embedding_failure_payload(
+        chunk,
+        error="truncated_for_embedding",
+        embedding_chars=len(truncated_text),
+    )
+    payload["original_embedding_chars"] = len(original_text)
+    payload["truncated_embedding_chars"] = len(truncated_text)
+    payload["original_embedding_text"] = original_text
+    payload["truncated_embedding_text"] = truncated_text
+    return payload
+
+
+def _embedding_truncation_report_path(data_root: Path) -> Path:
+    return data_root / "isis" / "meta" / EMBEDDING_TRUNCATION_REPORT_NAME
+
+
+def _write_embedding_truncation_report(
+    data_root: Path,
+    truncations: List[Dict[str, object]],
+) -> Optional[Path]:
+    if not truncations:
+        return None
+    path = _embedding_truncation_report_path(data_root)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(truncations, handle, ensure_ascii=False, indent=2)
     return path
 
 
@@ -951,6 +1052,8 @@ def _make_point_id(chunk: ParsedChunk) -> str:
     )
     if chunk.timestamp is not None:
         base = f"{base}|{chunk.timestamp}"
+    if chunk.chunk_part_count > 1 and chunk.chunk_part_index > 0:
+        base = f"{base}|part:{chunk.chunk_part_index}"
     return str(uuid5(NAMESPACE_URL, base))
 
 
@@ -975,6 +1078,11 @@ def _payload_from_chunk(chunk: ParsedChunk) -> Dict[str, object]:
         payload["text_transcript"] = chunk.text_transcript
     if chunk.vision_description is not None:
         payload["vision_description"] = chunk.vision_description
+    if chunk.chunk_part_count > 1:
+        payload["chunk_part_index"] = chunk.chunk_part_index
+        payload["chunk_part_count"] = chunk.chunk_part_count
+    if chunk.parent_chunk_index is not None:
+        payload["parent_chunk_index"] = chunk.parent_chunk_index
     return payload
 
 
@@ -1200,8 +1308,17 @@ def ingest(
     sparse_embeddings: List[object] = []
     embedded_chunks: List[ParsedChunk] = []
     failed_embedding_chunks: List[Dict[str, object]] = []
+    truncated_embedding_chunks: List[Dict[str, object]] = []
     embedding_max_chars = _resolve_embedding_max_chars()
     embedding_retries = _resolve_embedding_retries()
+    original_chunk_count = len(chunks)
+    chunks = _split_chunks_for_embedding(chunks, embedding_max_chars)
+    if len(chunks) != original_chunk_count:
+        logger.warning(
+            "Expanded %d source chunks into %d embedding chunks to avoid truncation.",
+            original_chunk_count,
+            len(chunks),
+        )
 
     try:
         from tqdm import tqdm  # type: ignore[import]
@@ -1217,6 +1334,13 @@ def ingest(
                 len(raw_text),
                 len(text),
                 _chunk_debug_label(chunk),
+            )
+            truncated_embedding_chunks.append(
+                _embedding_truncation_payload(
+                    chunk,
+                    original_text=raw_text,
+                    truncated_text=text,
+                )
             )
 
         logger.debug(
@@ -1260,6 +1384,22 @@ def ingest(
                 )
         if last_error is not None:
             continue
+
+    truncation_report_path = _write_embedding_truncation_report(data_root, truncated_embedding_chunks)
+    if truncated_embedding_chunks:
+        logger.warning("Truncated %d embedding input(s).", len(truncated_embedding_chunks))
+        for truncation in truncated_embedding_chunks:
+            logger.warning(
+                "Truncated chunk: file=%s | chunk_index=%s | section=%s | activity=%s | original_chars=%s | truncated_chars=%s",
+                truncation.get("file_origin"),
+                truncation.get("chunk_index"),
+                truncation.get("context_section"),
+                truncation.get("context_activity"),
+                truncation.get("original_embedding_chars"),
+                truncation.get("truncated_embedding_chars"),
+            )
+        if truncation_report_path is not None:
+            logger.warning("Wrote embedding truncation report to %s", truncation_report_path)
 
     if len(embedded_chunks) != len(chunks):
         report_path = _write_embedding_failure_report(data_root, failed_embedding_chunks)

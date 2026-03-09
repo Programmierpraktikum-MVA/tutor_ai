@@ -144,6 +144,75 @@ class IngestEmbeddingGuardTest(unittest.TestCase):
         self.assertIn("dense-text-vector", vector_payload)
         self.assertNotIn("sparse-text-vector", vector_payload)
 
+    def test_ingest_writes_truncation_report_with_original_and_truncated_text(self) -> None:
+        chunks = [
+            ingest.ParsedChunk(
+                text="tiny body",
+                source_type="course_info",
+                context_section="Section " + ("X" * 400),
+                context_activity="Overview",
+                url="https://example.com/a",
+                file_origin="a.json",
+                course_id="43321",
+                chunk_index=0,
+            )
+        ]
+
+        fake_store = _FakeStore()
+        fake_embed_client = _FakeEmbedClient(model="nomic-embed-text:v1.5")
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            with patch.dict("os.environ", {"EMBEDDING_MAX_CHARS": "300"}):
+                with patch.object(ingest, "build_chunks", return_value=chunks):
+                    with patch.object(ingest, "OllamaEmbeddingClient", return_value=fake_embed_client):
+                        with patch.object(ingest, "QdrantStore", return_value=fake_store):
+                            ingest.ingest(Path(tmpdir), _fake_config(use_sparse=False), course_id=None, dry_run=False)
+
+            report_path = Path(tmpdir) / "isis" / "meta" / "embedding_truncations.json"
+            self.assertTrue(report_path.exists())
+            report = json.loads(report_path.read_text(encoding="utf-8"))
+            self.assertEqual(len(report), 1)
+            self.assertEqual(report[0]["file_origin"], "a.json")
+            self.assertGreater(report[0]["original_embedding_chars"], report[0]["truncated_embedding_chars"])
+            self.assertIn("search_document:", report[0]["original_embedding_text"])
+            self.assertLessEqual(len(report[0]["truncated_embedding_text"]), 300)
+
+    def test_ingest_splits_oversized_chunk_into_multiple_embedding_chunks(self) -> None:
+        chunks = [
+            ingest.ParsedChunk(
+                text="very long chunk " * 300,
+                source_type="course_info",
+                context_section="Section A",
+                context_activity="Overview",
+                url="https://example.com/a",
+                file_origin="a.json",
+                course_id="43321",
+                chunk_index=0,
+            )
+        ]
+
+        fake_store = _FakeStore()
+        fake_embed_client = _FakeEmbedClient(model="nomic-embed-text:v1.5")
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            with patch.dict("os.environ", {"EMBEDDING_MAX_CHARS": "400"}):
+                with patch.object(ingest, "build_chunks", return_value=chunks):
+                    with patch.object(ingest, "OllamaEmbeddingClient", return_value=fake_embed_client):
+                        with patch.object(ingest, "QdrantStore", return_value=fake_store):
+                            ingest.ingest(Path(tmpdir), _fake_config(use_sparse=False), course_id=None, dry_run=False)
+
+            truncation_report = Path(tmpdir) / "isis" / "meta" / "embedding_truncations.json"
+            self.assertFalse(truncation_report.exists())
+
+        self.assertEqual(len(fake_store.upsert_calls), 1)
+        points = fake_store.upsert_calls[0]
+        self.assertGreater(len(points), 1)
+        for point in points:
+            self.assertEqual(point.payload["file_origin"], "a.json")
+            self.assertIn("chunk_part_count", point.payload)
+        for text in fake_embed_client.calls:
+            self.assertLessEqual(len(text), 400)
+
 
 if __name__ == "__main__":
     unittest.main()

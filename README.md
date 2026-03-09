@@ -125,8 +125,9 @@ PDF notes:
 - The generated slide metadata is cached beside the PDF as `filename.pdf.slides.json`.
 - Embeddings are built from the generated description plus the stored `TEXT_TRANSCRIPT`.
 - If PDF vision enrichment fails for one PDF, that PDF is skipped and the rest of the ingest run continues.
-- Dense embedding inputs are truncated conservatively before sending them to Ollama. Override with `EMBEDDING_MAX_CHARS`, and adjust retry count with `EMBEDDING_RETRIES`.
+- Oversized chunks are split into multiple embedding-safe chunks before sending them to Ollama. `EMBEDDING_MAX_CHARS` controls the target size, and `EMBEDDING_RETRIES` controls retries for failed embedding requests.
 - Failed dense embedding chunks are listed in the logs and written to `rag/crawler/data/isis/meta/embedding_failures.json`.
+- If a chunk still cannot fit because the metadata wrapper itself is too large, the fallback truncation is listed in the logs and written to `rag/crawler/data/isis/meta/embedding_truncations.json`, including both the original and truncated embedding text.
 - If `fastembed` is not installed, ingest falls back to dense-only upsert and logs a warning instead of aborting after dense embeddings finish.
 
 RAG probe (retrieval only, no LLM):
