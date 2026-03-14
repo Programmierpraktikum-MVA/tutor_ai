@@ -3,7 +3,8 @@ import os
 import glob
 import time
 from selenium.webdriver.common.by import By
-from paths import ISIS_COURSE_ID_FILE, ISIS_PDFS_DIR, ensure_dir
+from paths import ISIS_COURSE_ID_FILE, ISIS_PDFS_DIR, ISIS_FILES_DIR, ensure_dir
+
 
 
 def store_all_pdfs(driver):
@@ -62,12 +63,14 @@ def store_all_pdfs(driver):
             driver.close()
 
         # Wait for the downloading process to finish
-        while any([filename.endswith(".crdownload") for filename in
-                   os.listdir(pdf_data_path)]):
+        download_path = ISIS_FILES_DIR / "_downloads"
+
+        while any(filename.endswith(".crdownload") for filename in os.listdir(download_path)):
             time.sleep(2)
 
+
         # Move all the pdfs to the right course folder
-        pdf_files = glob.glob(os.path.join(pdf_data_path, '*.pdf'))
+        pdf_files = glob.glob(os.path.join(str(ISIS_FILES_DIR / "_downloads"), '*.pdf'))
         # print("we found that many pdf files: " + str(len(pdf_files)))
 
         for pdf_file in pdf_files:

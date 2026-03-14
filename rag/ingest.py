@@ -1216,7 +1216,7 @@ def _iter_forum_files(data_root: Path, course_id: Optional[str]) -> Iterable[Pat
 
 
 def _iter_downloaded_files(data_root: Path, course_id: Optional[str]) -> Iterable[Path]:
-    base = data_root / "isis" / "files"
+    base = data_root / "isis" / "pdfs"
     if not base.exists():
         return []
     if course_id:

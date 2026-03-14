@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
 from IsisModules import get_all_course_id, scrape_course, scrape_all_course_videos, scrape_course_resources
+from IsisPDFs.store_all_pdfs import store_all_pdfs
 from IsisForums.ScrapeDiscussions.get_content_from_forums_of_all_courses import (
     get_content_from_forums_of_all_courses,
 )
@@ -155,6 +156,7 @@ def start_crawl(queue, username, password):
     login(driver, username, password)
     print("3")
     get_all_course_id.get_all_course_id(driver)
+    store_all_pdfs(driver)
     print("4")
     ensure_folder_exists(ISIS_VIDEOS_DIR)
     print("5")
